@@ -24,7 +24,7 @@ jobs:
   etl:
     name: Run Flood ETL
     runs-on: ubuntu-latest
-    timeout-minutes: 120       # bumped — LLM screening adds ~30min for 500 articles
+    timeout-minutes: 120
 
     permissions:
       contents: write
@@ -51,7 +51,7 @@ jobs:
         run: |
           cat > config.yaml << 'EOF'
           api:
-            thenewsapi_token: "${{ secrets.THENEWSAPI_TOKEN }}"
+            serpapi_key: "${{ secrets.SERPAPI_KEY }}"
             user_agent: "flood_etl_iqspatial@github_actions"
             ollama_api_key: "${{ secrets.OLLAMA_API_KEY }}"
 
@@ -102,7 +102,7 @@ jobs:
         if: always()
         run: |
           pip install pytest -q
-          pytest tests/test_extract.py tests/test_geocode.py tests/test_screen.py -v --tb=short
+          pytest tests/ -v --tb=short
 
       - name: Remove config.yaml
         if: always()
