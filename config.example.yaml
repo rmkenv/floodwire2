@@ -1,0 +1,15 @@
+api:
+  thenewsapi_token: YOUR_TOKEN_HERE
+  user_agent: flood_etl_yourname@example.com   # Required by OSM Nominatim policy
+
+geocoding:
+  rate_limit_sec: 1.0          # OSM Nominatim policy: max 1 req/sec
+  buffer_meters: 300           # Flood area buffer (metadata only, no DB)
+  default_state: MD            # Fallback state for ambiguous place names
+  timeout_sec: 10
+
+etl:
+  lookback_days: 1             # How many days back to fetch articles
+  max_articles: 500            # Cap per run
+  log_level: INFO              # DEBUG | INFO | WARNING | ERROR
+  log_file: null               # null = stdout only; set path for file logging
