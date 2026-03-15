@@ -1,14 +1,17 @@
 """
 main.py — Nightly ETL orchestrator (flat-file version, no database required).
 
-Outputs:
-  data/floods.geojson   — append-only GeoJSON FeatureCollection
-  data/floods.csv       — append-only CSV
+Pipeline:
+  1. Extract  — fetch articles from TheNewsAPI (regex pre-filtered)
+  2. Screen   — LLM relevance check via Ollama Cloud (if api key configured)
+  3. Geocode  — spaCy NER + OSM Nominatim
+  4. Load     — append to data/floods.geojson + data/floods.csv
 
 Usage:
   python src/main.py                            # process last 24h
   python src/main.py --start 2026-03-01 --end 2026-03-07
   python src/main.py --test                     # 10 articles, no file writes
+  python src/main.py --no-screen               # skip LLM screening
   python src/main.py --config /path/to/cfg.yaml
 """
 
@@ -24,6 +27,7 @@ from typing import Any
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from src.extract_articles import fetch_articles
+from src.screen_articles import screen_articles
 from src.geocode_floods import process_article
 from src.load_files import load_files
 from src.utils import get_logger, load_config
@@ -35,6 +39,7 @@ def run(
     end_date: datetime | None = None,
     dry_run: bool = False,
     max_articles: int | None = None,
+    skip_screening: bool = False,
 ) -> dict[str, Any]:
     """Execute the full ETL pipeline. Returns summary dict."""
     logger = get_logger("main", cfg)
@@ -48,11 +53,32 @@ def run(
         end_date=end_date,
         max_articles=max_articles,
     )
-    logger.info("Articles fetched: %d", len(articles))
+    logger.info("Articles after regex filter: %d", len(articles))
 
     if not articles:
         logger.warning("No articles found. Check TheNewsAPI token / date range.")
-        return {"articles_fetched": 0, "locations_geocoded": 0}
+        return {"articles_fetched": 0, "articles_after_screening": 0, "locations_geocoded": 0}
+
+    # ---- SCREEN ----
+    articles_before_screening = len(articles)
+    if skip_screening:
+        logger.info("=== SCREEN (skipped via --no-screen) ===")
+    else:
+        logger.info("=== SCREEN ===")
+        articles = screen_articles(articles, cfg)
+        logger.info(
+            "Articles after LLM screening: %d (dropped %d)",
+            len(articles),
+            articles_before_screening - len(articles),
+        )
+
+    if not articles:
+        logger.warning("All articles dropped by LLM screener.")
+        return {
+            "articles_fetched": articles_before_screening,
+            "articles_after_screening": 0,
+            "locations_geocoded": 0,
+        }
 
     # ---- GEOCODE ----
     logger.info("=== GEOCODE ===")
@@ -86,10 +112,11 @@ def run(
 
     elapsed = time.perf_counter() - t0
     summary = {
-        "articles_fetched":   len(articles),
-        "locations_geocoded": len(all_locations),
-        "geocode_errors":     len(geocode_errors),
-        "elapsed_sec":        round(elapsed, 1),
+        "articles_fetched":        articles_before_screening,
+        "articles_after_screening": len(articles),
+        "locations_geocoded":      len(all_locations),
+        "geocode_errors":          len(geocode_errors),
+        "elapsed_sec":             round(elapsed, 1),
         **file_stats,
     }
     logger.info("=== SUMMARY === %s", summary)
@@ -100,9 +127,10 @@ def _print_sample(
     articles: list[dict[str, Any]],
     locations: list[dict[str, Any]],
 ) -> None:
-    print("\n--- Sample Articles ---")
-    for art in articles[:3]:
-        print(f"  [{art['published_at'][:10]}] {art['title'][:80]}")
+    print("\n--- Sample Articles (after screening) ---")
+    for art in articles[:5]:
+        hint = art.get("_llm_flood_type_hint", "")
+        print(f"  [{art['published_at'][:10]}] {art['title'][:70]}  [{hint}]")
     print("\n--- Sample Locations ---")
     for loc in locations[:5]:
         print(
@@ -113,12 +141,14 @@ def _print_sample(
 
 
 def _parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Flood News Geocoder ETL (file-based)")
-    parser.add_argument("--config",       default=None, help="Path to config.yaml")
-    parser.add_argument("--start",        default=None, help="Start date YYYY-MM-DD (UTC)")
-    parser.add_argument("--end",          default=None, help="End date YYYY-MM-DD (UTC)")
+    parser = argparse.ArgumentParser(description="Flood News Geocoder ETL")
+    parser.add_argument("--config",       default=None,  help="Path to config.yaml")
+    parser.add_argument("--start",        default=None,  help="Start date YYYY-MM-DD (UTC)")
+    parser.add_argument("--end",          default=None,  help="End date YYYY-MM-DD (UTC)")
     parser.add_argument("--test",         action="store_true",
                         help="Test mode: 10 articles, no file writes")
+    parser.add_argument("--no-screen",    action="store_true",
+                        help="Skip LLM screening step")
     parser.add_argument("--max-articles", type=int, default=None)
     return parser.parse_args()
 
@@ -140,8 +170,14 @@ def main() -> None:
         logger.info("TEST MODE — 10 articles, no file writes")
 
     try:
-        run(cfg, start_date=start_date, end_date=end_date,
-            dry_run=args.test, max_articles=max_arts)
+        run(
+            cfg,
+            start_date=start_date,
+            end_date=end_date,
+            dry_run=args.test,
+            max_articles=max_arts,
+            skip_screening=args.no_screen,
+        )
     except KeyboardInterrupt:
         logger.info("Interrupted by user.")
         sys.exit(0)

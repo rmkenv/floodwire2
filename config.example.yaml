@@ -1,15 +1,19 @@
 api:
-  thenewsapi_token: YOUR_TOKEN_HERE
+  thenewsapi_token: YOUR_THENEWSAPI_TOKEN
   user_agent: flood_etl_yourname@example.com   # Required by OSM Nominatim policy
+  ollama_api_key: YOUR_OLLAMA_API_KEY           # From ollama.com/settings/keys
 
 geocoding:
   rate_limit_sec: 1.0          # OSM Nominatim policy: max 1 req/sec
-  buffer_meters: 300           # Flood area buffer (metadata only, no DB)
-  default_state: MD            # Fallback state for ambiguous place names
+  buffer_meters: 300
+  default_state: MD
   timeout_sec: 10
 
+screening:
+  rate_limit_sec: 0.5          # Pause between Ollama API calls
+
 etl:
-  lookback_days: 1             # How many days back to fetch articles
-  max_articles: 500            # Cap per run
-  log_level: INFO              # DEBUG | INFO | WARNING | ERROR
-  log_file: null               # null = stdout only; set path for file logging
+  lookback_days: 1
+  max_articles: 500
+  log_level: INFO
+  log_file: null
