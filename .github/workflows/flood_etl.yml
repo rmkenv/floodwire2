@@ -3,7 +3,7 @@ name: Flood ETL — Nightly
 on:
   schedule:
     - cron: "0 6 * * *"       # 06:00 UTC = 02:00 ET nightly
-  workflow_dispatch:           # manual "Run workflow" button in GitHub UI
+  workflow_dispatch:
     inputs:
       start_date:
         description: "Start date (YYYY-MM-DD, optional)"
@@ -15,14 +15,17 @@ on:
         description: "Test mode (10 articles, no file writes)"
         type: boolean
         default: false
+      skip_screening:
+        description: "Skip LLM screening (faster, less accurate)"
+        type: boolean
+        default: false
 
 jobs:
   etl:
     name: Run Flood ETL
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 120       # bumped — LLM screening adds ~30min for 500 articles
 
-    # Write permission so the job can commit data files back to the repo
     permissions:
       contents: write
 
@@ -41,7 +44,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install requests spacy geopy pyyaml python-dateutil tenacity
+          pip install requests spacy geopy pyyaml python-dateutil tenacity ollama
           python -m spacy download en_core_web_sm
 
       - name: Write config.yaml
@@ -50,12 +53,16 @@ jobs:
           api:
             thenewsapi_token: "${{ secrets.THENEWSAPI_TOKEN }}"
             user_agent: "flood_etl_iqspatial@github_actions"
+            ollama_api_key: "${{ secrets.OLLAMA_API_KEY }}"
 
           geocoding:
             rate_limit_sec: 1.0
             buffer_meters: 300
             default_state: MD
             timeout_sec: 15
+
+          screening:
+            rate_limit_sec: 0.5
 
           etl:
             lookback_days: 1
@@ -68,8 +75,9 @@ jobs:
         if: ${{ !inputs.test_mode }}
         run: |
           ARGS=""
-          if [ -n "${{ inputs.start_date }}" ]; then ARGS="$ARGS --start ${{ inputs.start_date }}"; fi
-          if [ -n "${{ inputs.end_date }}" ];   then ARGS="$ARGS --end ${{ inputs.end_date }}";     fi
+          if [ -n "${{ inputs.start_date }}" ];  then ARGS="$ARGS --start ${{ inputs.start_date }}"; fi
+          if [ -n "${{ inputs.end_date }}" ];    then ARGS="$ARGS --end ${{ inputs.end_date }}";     fi
+          if [ "${{ inputs.skip_screening }}" = "true" ]; then ARGS="$ARGS --no-screen"; fi
           python src/main.py $ARGS
 
       - name: Run ETL (test mode)
@@ -94,7 +102,7 @@ jobs:
         if: always()
         run: |
           pip install pytest -q
-          pytest tests/test_extract.py tests/test_geocode.py -v --tb=short
+          pytest tests/test_extract.py tests/test_geocode.py tests/test_screen.py -v --tb=short
 
       - name: Remove config.yaml
         if: always()
