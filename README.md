@@ -1,266 +1,246 @@
 # Flood News Geocoder ETL
 
-**Production-ready Python pipeline for detecting and geolocating flash flood and sunny-day flooding events from US news articles.**
-
-`TheNewsAPI` → spaCy NER + regex → OSM Nominatim → PostGIS
-
-Nightly batch ETL that processes 100–500 articles/day, classifies flood types (flash vs. sunny-day/tidal vs. riverine), and stores precise geometries for querying and visualization.
+Nightly pipeline that finds US flood news, verifies relevance with an LLM, geocodes locations, and commits results as GeoJSON + CSV directly to this repo. No database required.
 
 ---
 
-## Architecture
+## How it works
 
 ```
-TheNewsAPI (flood keyword search)
+SerpAPI Google News  (3 OR-grouped queries = 3 API calls/day)
     ↓  extract_articles.py
-Articles (title, description, snippet, outlet metadata)
+Regex pre-filter     (drops figurative uses, international articles)
+    ↓  screen_articles.py
+Ollama Cloud LLM     (gpt-oss:120b reads full context, yes/no per article)
     ↓  geocode_floods.py
-spaCy NER + regex patterns → location candidates
-    ↓  geocode_osm_flood()
-OSM Nominatim  (1 req/sec, US-scoped)
-    ↓  load_postgis.py
-PostGIS  flood_articles + flood_locations (Point + 300m buffer)
+spaCy NER + OSM Nominatim  (1 req/sec, no API key needed)
+    ↓  load_files.py
+data/floods.geojson  +  data/floods.csv  (appended, committed to repo)
 ```
 
 ---
 
-## Repository Structure
+## Repository structure
 
 ```
-flood-news-geocoder/
-├── src/
-│   ├── main.py               # Orchestrator
-│   ├── extract_articles.py   # TheNewsAPI fetch + normalize
-│   ├── geocode_floods.py     # Classification + NER + Nominatim
-│   ├── load_postgis.py       # PostGIS upsert
-│   └── utils.py              # Config loader + logging
-├── sql/
-│   ├── schema.sql            # PostGIS tables + indexes + view
-│   └── queries.sql           # Sample spatial queries
-├── tests/
-│   ├── test_extract.py
-│   ├── test_geocode.py
-│   └── test_integration.py   # Requires real DB (see SETUP.md)
-├── dags/
-│   └── flood_etl_dag.py      # Airflow DAG (optional)
-├── docs/
-│   ├── SETUP.md
-│   └── API_LIMITS.md
-├── config.example.yaml
-└── requirements.txt
+.github/workflows/flood_etl.yml   ← GitHub Actions cron (runs nightly at 02:00 ET)
+config.example.yaml               ← copy to config.yaml, add your keys
+data/
+  floods.geojson                  ← append-only GeoJSON FeatureCollection
+  floods.csv                      ← append-only CSV
+src/
+  main.py                         ← orchestrator
+  extract_articles.py             ← SerpAPI Google News fetch + regex filter
+  screen_articles.py              ← Ollama Cloud LLM relevance screening
+  geocode_floods.py               ← flood classification + Nominatim geocoding
+  load_files.py                   ← writes GeoJSON + CSV (dedup on article_id)
+  utils.py                        ← config loader + logging
+tests/
+  test_extract.py
+  test_geocode.py
+  test_screen.py
+docs/
+  SETUP.md
+  GITHUB_ACTIONS_SETUP.md
+  API_LIMITS.md
 ```
 
 ---
 
-## Quick Start
+## Quickstart
 
 ### Prerequisites
 - Python 3.9+
-- PostgreSQL 13+ with PostGIS 3.0+
-- TheNewsAPI.com account (free tier)
+- Three API keys (all free tiers sufficient — see table below)
+
+### Local setup
 
 ```bash
-# 1. Clone
-git clone https://github.com/yourusername/flood-news-geocoder.git
+git clone https://github.com/YOUR_USERNAME/flood-news-geocoder.git
 cd flood-news-geocoder
 
-# 2. Python env
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
 
-# 3. Database (Ubuntu example)
-sudo -u postgres createdb flood_db
-psql -U postgres flood_db -f sql/schema.sql
-
-# 4. Config
 cp config.example.yaml config.yaml
-# Edit config.yaml — add thenewsapi_token, DB credentials, user_agent
+# Edit config.yaml — add your three API keys
 
-# 5. Test run (no DB writes)
+# Test run (10 articles, no file writes)
 python src/main.py --test
 
-# 6. Production
+# Real run
 python src/main.py
-```
-
-### Cron (nightly at 02:00 UTC)
-```
-0 2 * * * /path/to/.venv/bin/python /path/to/src/main.py >> /var/log/flood_etl.log 2>&1
 ```
 
 ---
 
-## Configuration (`config.yaml`)
+## Configuration
+
+`config.yaml` (copy from `config.example.yaml`):
 
 ```yaml
 api:
-  thenewsapi_token: YOUR_TOKEN_HERE
-  user_agent: flood_etl_yourname@example.com   # Required by OSM policy
-
-database:
-  host: localhost
-  port: 5432
-  dbname: flood_db
-  user: postgres
-  password: yourpass
+  serpapi_key: YOUR_SERPAPI_KEY          # serpapi.com/manage-api-key
+  user_agent: yourname@example.com       # required by OSM Nominatim policy
+  ollama_api_key: YOUR_OLLAMA_API_KEY    # ollama.com/settings/keys
 
 geocoding:
-  rate_limit_sec: 1.0      # OSM Nominatim: max 1 req/sec
-  buffer_meters: 300       # Flood area buffer
-  default_state: MD        # Fallback for ambiguous place names
+  rate_limit_sec: 1.0     # OSM Nominatim: max 1 req/sec
+  buffer_meters: 300
+  default_state: MD
   timeout_sec: 10
 
+screening:
+  rate_limit_sec: 0.5     # pause between Ollama API calls
+
 etl:
-  lookback_days: 1
+  lookback_days: 1        # fetch last N × 24 hours
   max_articles: 500
   log_level: INFO
-  log_file: /var/log/flood_etl.log   # null = stdout only
+  log_file: null          # set a path to write logs to a file
 ```
 
 ---
 
-## Usage
+## API keys & costs
+
+| Service | Purpose | Free tier | Where to get it |
+|---------|---------|-----------|----------------|
+| SerpAPI | Google News search | 250 searches/month | [serpapi.com](https://serpapi.com) |
+| Ollama Cloud | LLM relevance screening | Pay-per-use (low volume) | [ollama.com/settings/keys](https://ollama.com/settings/keys) |
+| OSM Nominatim | Geocoding | Free, no key needed | Just set `user_agent` in config |
+
+At 1 run/day with ~50 articles/run:
+- SerpAPI: 3 calls/day = **90/month** (within 250 free)
+- Ollama: ~50 calls/day at `gpt-oss:120b` — check [ollama.com/pricing](https://ollama.com/pricing) for current rates
+- Nominatim: free, self-throttled to 1 req/sec
+
+---
+
+## GitHub Actions (fully automated)
+
+### One-time setup
+
+1. Push this repo to GitHub
+2. Go to **Settings → Secrets and variables → Actions** and add:
+
+| Secret | Value |
+|--------|-------|
+| `SERPAPI_KEY` | Your SerpAPI key |
+| `OLLAMA_API_KEY` | Your Ollama Cloud key |
+
+3. Go to **Actions → Flood ETL — Nightly → Run workflow** to trigger a test run
+
+After that it runs every night at 02:00 ET automatically, committing updated `data/floods.geojson` and `data/floods.csv` back to the repo.
+
+### Manual dispatch options
+
+From the Actions tab → Run workflow:
+
+| Input | Description |
+|-------|-------------|
+| `start_date` | Backfill from date (YYYY-MM-DD) |
+| `end_date` | Backfill to date (YYYY-MM-DD) |
+| `test_mode` | 10 articles, no file writes |
+| `skip_screening` | Skip Ollama LLM step (faster) |
+
+---
+
+## Flood classification
+
+| Type | Triggers |
+|------|---------|
+| `flash_flood` | "flash flood", "swift water rescue", "creek overflow", "rapid rise" |
+| `sunny_day` | "sunny day flood", "king tide", "nuisance flood", "high tide flooding" |
+| `riverine` | "river flood", "river crest", "levee breach" |
+| `unknown` | generic flooding with no specific pattern |
+
+---
+
+## Output format
+
+### GeoJSON (`data/floods.geojson`)
+
+Standard FeatureCollection. Each feature:
+```json
+{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [-76.61, 39.29] },
+  "properties": {
+    "article_id": "https://example.com/story",
+    "title": "Flash flood warning issued for Baltimore County",
+    "source": "WBAL-TV",
+    "outlet_city": "Baltimore",
+    "outlet_region": "Maryland",
+    "published_at": "2026-03-15T06:00:00Z",
+    "url": "https://example.com/story",
+    "mention_text": "Baltimore County",
+    "flood_type": "flash_flood",
+    "confidence": 0.9,
+    "osm_display": "Baltimore County, Maryland, United States",
+    "run_at": "2026-03-15T06:03:12Z"
+  }
+}
+```
+
+### CSV (`data/floods.csv`)
+
+Same fields as GeoJSON properties, plus `lat` and `lon` columns. Open directly in Excel or load with pandas:
+
+```python
+import pandas as pd
+import geopandas as gpd
+
+# CSV
+df = pd.read_csv("data/floods.csv")
+
+# GeoJSON (with spatial support)
+gdf = gpd.read_file("data/floods.geojson")
+```
+
+---
+
+## CLI reference
 
 ```bash
-# Last 24h (default)
-python src/main.py
-
-# Specific date range
+python src/main.py                          # last 24h
+python src/main.py --start 2026-03-01       # from date
 python src/main.py --start 2026-03-01 --end 2026-03-07
-
-# Test mode: 10 articles, no DB writes
-python src/main.py --test
-
-# Custom config path
-python src/main.py --config /etc/flood_etl/config.yaml
+python src/main.py --test                   # 10 articles, no writes
+python src/main.py --no-screen              # skip Ollama screening
+python src/main.py --config /path/to/cfg.yaml
 ```
-
----
-
-## Flood Classification
-
-| Type | Keywords / Patterns |
-|------|---------------------|
-| `flash_flood` | flash flood, sudden flood, creek overflow, rapid rise, water rescue, swift water, dam fail, heavy rain + flood |
-| `sunny_day` | sunny-day flood, high-tide flood, king tide, nuisance flood, tidal flooding, sea-level rise + flood, flood without rain |
-| `riverine` | river flood, river overflow, river crest, levee breach |
-| `unknown` | generic "flooding" with no specific pattern match |
-
-Confidence scores: 1.0 (specific pattern), 0.7 (generic flood mention), 0.0 (no flood).
-
----
-
-## Location Extraction
-
-| Pattern | Example input | Nominatim query |
-|---------|--------------|-----------------|
-| spaCy GPE entity | "flooding in Northport" | `Northport, Maryland` |
-| Downtown prefix | "downtown Baltimore flooded" | `downtown, Baltimore, Maryland` |
-| Waterway name | "Jones Falls Creek overflowed" | `Jones Falls Creek, Maryland` |
-| Historic district | "the historic district" | `historic district, Baltimore, MD` |
-| Near landmark | "near Lincoln High School" | `Lincoln High School, Baltimore` |
-| Fallback | no specific place found | `Baltimore, Maryland` (outlet_city) |
-
----
-
-## Sample Queries
-
-```sql
--- Flash floods in Maryland, last 7 days
-SELECT fa.title, fl.mention_text, fa.published_at,
-       ST_AsText(fl.point) AS coords
-FROM flood_locations fl
-JOIN flood_articles fa USING (article_id)
-WHERE fl.flood_type = 'flash_flood'
-  AND fa.outlet_region = 'Maryland'
-  AND fa.published_at > NOW() - INTERVAL '7 days';
-
--- All floods within 10km of Catonsville, MD
-SELECT fa.title, fl.flood_type,
-       ROUND(ST_Distance(fl.point::geography,
-             ST_MakePoint(-76.7419, 39.2712)::geography) / 1000) AS km
-FROM flood_locations fl
-JOIN flood_articles fa USING (article_id)
-WHERE ST_DWithin(fl.point::geography,
-                 ST_MakePoint(-76.7419, 39.2712)::geography, 10000)
-ORDER BY km;
-```
-
-See `sql/queries.sql` for the full collection including GeoJSON export.
-
----
-
-## Export to GeoJSON
-
-```bash
-ogr2ogr -f GeoJSON floods.geojson PG:"dbname=flood_db" flood_locations
-```
-
----
-
-## Cost
-
-| Service | Free tier | ~200 articles/day | Cost |
-|---------|-----------|-------------------|------|
-| TheNewsAPI | Unlimited dev | ~200 calls | $0 |
-| OSM Nominatim | 1 req/sec | ~600 geocodes (~10 min) | $0 |
-| PostGIS | Self-hosted | — | $0 |
-
-**Total: $0/month** for ≤500 articles/day nightly batch.
 
 ---
 
 ## Tests
 
 ```bash
-# Unit tests (no external services needed)
-pytest tests/test_extract.py tests/test_geocode.py -v
-
-# Integration tests (requires PostGIS)
-export FLOOD_TEST_DB="host=localhost dbname=flood_test user=postgres password=pass"
-pytest tests/test_integration.py -v
+pytest tests/ -v
 ```
 
----
-
-## Extending
-
-### Add a new flood type
-
-Edit `FLOOD_PATTERNS` in `src/geocode_floods.py`:
-```python
-FLOOD_PATTERNS = {
-    ...
-    "urban_flood": r"\b(urban flood|storm drain overflow|sewer backup)\b",
-}
-```
-
-### Swap Nominatim for Google Maps
-
-In `geocode_osm_flood()` inside `src/geocode_floods.py`:
-```python
-from googlemaps import Client
-gmaps = Client(key=cfg["api"]["google_maps_key"])
-result = gmaps.geocode(query, components={"country": "US"})
-```
-
-### Airflow
-
-See `dags/flood_etl_dag.py` — runs nightly at 02:00 UTC.
+40 tests covering extraction, geocoding, and LLM screening — all mocked, no external calls needed.
 
 ---
 
 ## Troubleshooting
 
-**"No articles found"** — Check `thenewsapi_token` in `config.yaml`.  
-**"Geocoding timeout"** — Increase `timeout_sec` or `rate_limit_sec` to 1.5.  
-**"PostGIS connection refused"** — Check `systemctl status postgresql` and `pg_hba.conf`.  
-**spaCy model missing** — Run `python -m spacy download en_core_web_sm`. Pipeline will fall back to regex-only extraction in the meantime.
+**"Missing required config key: api.serpapi_key"** — copy `config.example.yaml` to `config.yaml` and add your keys.
+
+**"SerpAPI request failed"** — check your `SERPAPI_KEY` secret in GitHub. Verify at [serpapi.com/dashboard](https://serpapi.com/dashboard).
+
+**"ollama_api_key not set — skipping LLM screening"** — add `OLLAMA_API_KEY` to GitHub Secrets. Pipeline still runs, just without the LLM filter.
+
+**"Geocoding timeout"** — increase `timeout_sec` in config, or bump `rate_limit_sec` to 1.5.
+
+**spaCy model missing** — run `python -m spacy download en_core_web_sm`. Pipeline falls back to regex-only location extraction in the meantime.
+
+**No new data committed after a run** — either no flood articles were found in the last 24h (possible on quiet days), or all articles were filtered. Check the Actions log for the drop-rate line.
 
 ---
 
 ## License
 
-MIT — see `LICENSE`
+MIT

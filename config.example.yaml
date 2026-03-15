@@ -1,7 +1,7 @@
 api:
-  thenewsapi_token: YOUR_THENEWSAPI_TOKEN
-  user_agent: flood_etl_yourname@example.com   # Required by OSM Nominatim policy
-  ollama_api_key: YOUR_OLLAMA_API_KEY           # From ollama.com/settings/keys
+  serpapi_key: YOUR_SERPAPI_KEY                  # From serpapi.com/manage-api-key (250 free/month)
+  user_agent: flood_etl_yourname@example.com     # Required by OSM Nominatim policy
+  ollama_api_key: YOUR_OLLAMA_API_KEY            # From ollama.com/settings/keys
 
 geocoding:
   rate_limit_sec: 1.0          # OSM Nominatim policy: max 1 req/sec
@@ -13,7 +13,7 @@ screening:
   rate_limit_sec: 0.5          # Pause between Ollama API calls
 
 etl:
-  lookback_days: 1
+  lookback_days: 1             # Hours window = lookback_days * 24
   max_articles: 500
   log_level: INFO
   log_file: null
