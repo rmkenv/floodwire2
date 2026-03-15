@@ -31,7 +31,7 @@ def load_config(path: str | Path | None = None) -> dict[str, Any]:
         cfg: dict[str, Any] = yaml.safe_load(fh)
 
     # Basic validation
-    required_keys = [("api", "thenewsapi_token")]
+    required_keys = [("api", "serpapi_key")]
     for section, key in required_keys:
         if not cfg.get(section, {}).get(key):
             raise KeyError(f"Missing required config key: {section}.{key}")
