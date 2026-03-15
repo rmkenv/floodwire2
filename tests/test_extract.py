@@ -88,9 +88,9 @@ class TestFetchArticles:
     def _sample_article(self, uid: str = "a1") -> dict:
         return {
             "uuid": uid,
-            "title": f"Flood story {uid}",
-            "description": "Flooding occurred",
-            "snippet": "Streets flooded",
+            "title": f"Flash flood warning issued in Maryland {uid}",
+            "description": "Flash flood warning closed flooded streets in Baltimore MD.",
+            "snippet": "Floodwater entered homes after creek overflowed its banks.",
             "url": "https://example.com",
             "source": "wbaltv.com",
             "published_at": "2026-03-15T01:00:00Z",
