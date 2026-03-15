@@ -1,0 +1,1206 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6595114,
+          38.2608339
+        ]
+      },
+      "properties": {
+        "article_id": "31fbcf36-8ec9-4464-b5f2-73ae63669cb3",
+        "title": "NT Chief Minister Lia Finocchiaro requests ADF help with flood recovery as central Australia braces for more rain",
+        "source": "abc.net.au",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T06:27:19.000000Z",
+        "url": "https://www.abc.net.au/news/2026-03-14/nt-calls-on-adf-in-flood-recovery-darwin-katherine-daly-river/106455690",
+        "mention_text": "Australia",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Australia, Pueblo, Pueblo County, Colorado, United States",
+        "osm_type": "scrub",
+        "osm_id": 548475768,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5970742,
+          47.8291375
+        ]
+      },
+      "properties": {
+        "article_id": "662ae4b6-4245-42b3-891b-b310d35ac102",
+        "title": "US forecasts blizzard, polar vortex, heat dome and atmospheric river all at once",
+        "source": "asiaone.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T03:52:51.000000Z",
+        "url": "https://www.asiaone.com/world/us-forecasts-blizzard-polar-vortex-heat-dome-and-atmospheric-river-all-once",
+        "mention_text": "the United States",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Buzzcut, Kitsap County, Washington, 98364, United States",
+        "osm_type": "cycleway",
+        "osm_id": 1089612441,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "662ae4b6-4245-42b3-891b-b310d35ac102",
+        "title": "US forecasts blizzard, polar vortex, heat dome and atmospheric river all at once",
+        "source": "asiaone.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T03:52:51.000000Z",
+        "url": "https://www.asiaone.com/world/us-forecasts-blizzard-polar-vortex-heat-dome-and-atmospheric-river-all-once",
+        "mention_text": "Hawaii",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5208718,
+          40.1989597
+        ]
+      },
+      "properties": {
+        "article_id": "662ae4b6-4245-42b3-891b-b310d35ac102",
+        "title": "US forecasts blizzard, polar vortex, heat dome and atmospheric river all at once",
+        "source": "asiaone.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T03:52:51.000000Z",
+        "url": "https://www.asiaone.com/world/us-forecasts-blizzard-polar-vortex-heat-dome-and-atmospheric-river-all-once",
+        "mention_text": "Southwest",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Southwest, Mount Pleasant Township, Westmoreland County, Pennsylvania, 15685, United States",
+        "osm_type": "hamlet",
+        "osm_id": 158365843,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.445882,
+          39.7837304
+        ]
+      },
+      "properties": {
+        "article_id": "93e0387e-1a0b-429e-96a3-2533f757e747",
+        "title": "Tornado Quest Top Science Links For March 7-14, 2026",
+        "source": "app.buzzsumo.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T17:05:51.000000Z",
+        "url": "https://tornadoquest.org/2026/03/14/tornado-quest-top-science-links-for-march-7-14-2026/",
+        "mention_text": "USA",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "United States",
+        "osm_type": "administrative",
+        "osm_id": 148838,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.445882,
+          39.7837304
+        ]
+      },
+      "properties": {
+        "article_id": "409f91ac-c38d-498b-8a2a-8fc42007721f",
+        "title": "High risk for severe weather to erupt in the central, eastern US",
+        "source": "accuweather.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T15:32:15.000000Z",
+        "url": "https://www.accuweather.com/en/severe-weather/high-risk-for-severe-weather-to-erupt-in-the-central-eastern-us/1873345",
+        "mention_text": "U.S.",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "United States",
+        "osm_type": "administrative",
+        "osm_id": 148838,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.4706801,
+          33.3561829
+        ]
+      },
+      "properties": {
+        "article_id": "9803ab4c-52ec-457b-92d3-8f264670d0db",
+        "title": "US weather to go nuts with blizzard, polar vortex, heat dome, atmospheric river all at once",
+        "source": "winnipegfreepress.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-13T04:08:06.000000Z",
+        "url": "https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/03/12/us-weather-to-go-nuts-with-blizzard-polar-vortex-heat-dome-atmospheric-river-all-at-once",
+        "mention_text": "Manitoba",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Manitoba, Gold Canyon RV & Golf Resort, Gold Canyon, Pinal County, Arizona, 85218, United States",
+        "osm_type": "residential",
+        "osm_id": 16925979,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3243095,
+          37.6056575
+        ]
+      },
+      "properties": {
+        "article_id": "9803ab4c-52ec-457b-92d3-8f264670d0db",
+        "title": "US weather to go nuts with blizzard, polar vortex, heat dome, atmospheric river all at once",
+        "source": "winnipegfreepress.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-13T04:08:06.000000Z",
+        "url": "https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/03/12/us-weather-to-go-nuts-with-blizzard-polar-vortex-heat-dome-atmospheric-river-all-at-once",
+        "mention_text": "Canada",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Canada, Pike County, Kentucky, 41519, United States",
+        "osm_type": "hamlet",
+        "osm_id": 153970291,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5970742,
+          47.8291375
+        ]
+      },
+      "properties": {
+        "article_id": "9803ab4c-52ec-457b-92d3-8f264670d0db",
+        "title": "US weather to go nuts with blizzard, polar vortex, heat dome, atmospheric river all at once",
+        "source": "winnipegfreepress.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-13T04:08:06.000000Z",
+        "url": "https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/03/12/us-weather-to-go-nuts-with-blizzard-polar-vortex-heat-dome-atmospheric-river-all-at-once",
+        "mention_text": "the United States",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Buzzcut, Kitsap County, Washington, 98364, United States",
+        "osm_type": "cycleway",
+        "osm_id": 1089612441,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "9803ab4c-52ec-457b-92d3-8f264670d0db",
+        "title": "US weather to go nuts with blizzard, polar vortex, heat dome, atmospheric river all at once",
+        "source": "winnipegfreepress.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-13T04:08:06.000000Z",
+        "url": "https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/03/12/us-weather-to-go-nuts-with-blizzard-polar-vortex-heat-dome-atmospheric-river-all-at-once",
+        "mention_text": "Hawaii",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5208718,
+          40.1989597
+        ]
+      },
+      "properties": {
+        "article_id": "9803ab4c-52ec-457b-92d3-8f264670d0db",
+        "title": "US weather to go nuts with blizzard, polar vortex, heat dome, atmospheric river all at once",
+        "source": "winnipegfreepress.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-13T04:08:06.000000Z",
+        "url": "https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/03/12/us-weather-to-go-nuts-with-blizzard-polar-vortex-heat-dome-atmospheric-river-all-at-once",
+        "mention_text": "Southwest",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Southwest, Mount Pleasant Township, Westmoreland County, Pennsylvania, 15685, United States",
+        "osm_type": "hamlet",
+        "osm_id": 158365843,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9594285,
+          35.4930942
+        ]
+      },
+      "properties": {
+        "article_id": "92b04752-7e4a-4c48-b10a-85937f5bb6bc",
+        "title": "Sam Page Poised to Beat Phil Berger in High Stakes N.C. Primary",
+        "source": "uctoday.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-13T18:03:18.000000Z",
+        "url": "https://commstrader.com/news/sam-page-poised-to-beat-phil-berger-in-high-stakes-n-c-primary/",
+        "mention_text": "North Carolina's",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "S, Haywood County, North Carolina, 28786, United States",
+        "osm_type": "service",
+        "osm_id": 16592005,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9594285,
+          35.4930942
+        ]
+      },
+      "properties": {
+        "article_id": "92b04752-7e4a-4c48-b10a-85937f5bb6bc",
+        "title": "Sam Page Poised to Beat Phil Berger in High Stakes N.C. Primary",
+        "source": "uctoday.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-13T18:03:18.000000Z",
+        "url": "https://commstrader.com/news/sam-page-poised-to-beat-phil-berger-in-high-stakes-n-c-primary/",
+        "mention_text": "North Carolina\u2019s",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "S, Haywood County, North Carolina, 28786, United States",
+        "osm_type": "service",
+        "osm_id": 16592005,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.200715,
+          33.789777
+        ]
+      },
+      "properties": {
+        "article_id": "3aa83389-4e24-4bb4-8ded-2a20bff7fb5d",
+        "title": "\u2018Really dangerous\u2019: Flooding, landslides hit Oregon Coast as rain intensifies",
+        "source": "yahoo.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-13T00:45:57.000000Z",
+        "url": "https://www.yahoo.com/news/articles/really-dangerous-flooding-landslides-hit-004557672.html",
+        "mention_text": "Oregon Coast",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Pacific Coast Highway & Oregon, Pacific Coast Highway, Long Beach, Los Angeles County, California, 90813, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 6356790321,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.737257,
+          43.9792797
+        ]
+      },
+      "properties": {
+        "article_id": "3aa83389-4e24-4bb4-8ded-2a20bff7fb5d",
+        "title": "\u2018Really dangerous\u2019: Flooding, landslides hit Oregon Coast as rain intensifies",
+        "source": "yahoo.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-13T00:45:57.000000Z",
+        "url": "https://www.yahoo.com/news/articles/really-dangerous-flooding-landslides-hit-004557672.html",
+        "mention_text": "Ore.",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Oregon, United States",
+        "osm_type": "administrative",
+        "osm_id": 165476,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.737257,
+          43.9792797
+        ]
+      },
+      "properties": {
+        "article_id": "3aa83389-4e24-4bb4-8ded-2a20bff7fb5d",
+        "title": "\u2018Really dangerous\u2019: Flooding, landslides hit Oregon Coast as rain intensifies",
+        "source": "yahoo.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-13T00:45:57.000000Z",
+        "url": "https://www.yahoo.com/news/articles/really-dangerous-flooding-landslides-hit-004557672.html",
+        "mention_text": "Oregon",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Oregon, United States",
+        "osm_type": "administrative",
+        "osm_id": 165476,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0547467,
+          32.9567262
+        ]
+      },
+      "properties": {
+        "article_id": "4cf74793-d281-4973-951e-9c0139458c6e",
+        "title": "The moment Alex Johnston broke the NRL's try-scoring record was pure humanity",
+        "source": "abc.net.au",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-13T19:26:11.000000Z",
+        "url": "https://www.abc.net.au/news/2026-03-14/alex-johnston-record-breaking-try-south-sydney/106454458",
+        "mention_text": "South Sydney's",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Little Sydney's Way, Northwood Estates, Deerwood Heights, North Charleston, Charleston County, South Carolina, 29406, United States",
+        "osm_type": "residential",
+        "osm_id": 265643237,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.755997,
+          36.7014631
+        ]
+      },
+      "properties": {
+        "article_id": "0d3bb015-8ae7-4436-8e01-66d6adef60e5",
+        "title": "California\u2019s best sandwich shop revealed \u2014 but there\u2019s an unexpected twist",
+        "source": "uctoday.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T01:09:46.000000Z",
+        "url": "https://commstrader.com/lifestyle/californias-best-sandwich-shop-revealed-but-theres-an-unexpected-twist/",
+        "mention_text": "California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "California, United States",
+        "osm_type": "administrative",
+        "osm_id": 165475,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1384408,
+          42.3811155
+        ]
+      },
+      "properties": {
+        "article_id": "0d3bb015-8ae7-4436-8e01-66d6adef60e5",
+        "title": "California\u2019s best sandwich shop revealed \u2014 but there\u2019s an unexpected twist",
+        "source": "uctoday.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T01:09:46.000000Z",
+        "url": "https://commstrader.com/lifestyle/californias-best-sandwich-shop-revealed-but-theres-an-unexpected-twist/",
+        "mention_text": "Imagine",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Imagine, 358, Huron Avenue, Huron Village, Cambridge, Middlesex County, Massachusetts, 02138, United States",
+        "osm_type": "bakery",
+        "osm_id": 13064594697,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7993245,
+          42.1836719
+        ]
+      },
+      "properties": {
+        "article_id": "0d3bb015-8ae7-4436-8e01-66d6adef60e5",
+        "title": "California\u2019s best sandwich shop revealed \u2014 but there\u2019s an unexpected twist",
+        "source": "uctoday.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T01:09:46.000000Z",
+        "url": "https://commstrader.com/lifestyle/californias-best-sandwich-shop-revealed-but-theres-an-unexpected-twist/",
+        "mention_text": "Highland Park",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Highland Park, Lake County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 122066,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "0d3bb015-8ae7-4436-8e01-66d6adef60e5",
+        "title": "California\u2019s best sandwich shop revealed \u2014 but there\u2019s an unexpected twist",
+        "source": "uctoday.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T01:09:46.000000Z",
+        "url": "https://commstrader.com/lifestyle/californias-best-sandwich-shop-revealed-but-theres-an-unexpected-twist/",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2005245,
+          27.0174518
+        ]
+      },
+      "properties": {
+        "article_id": "f4742096-5362-434a-a241-52de57d88b5f",
+        "title": "After years of neglect, rehabilitation of key traffic corridor in Gulistan-i-Jauhar starts",
+        "source": "dawn.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T04:01:55.000000Z",
+        "url": "https://www.dawn.com/news/1981814/after-years-of-neglect-rehabilitation-of-key-traffic-corridor-in-gulistan-i-jauhar-starts",
+        "mention_text": "Gulistan",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Gulistan Avenue, Charlotte County, Florida, 33953, United States",
+        "osm_type": "residential",
+        "osm_id": 10819690,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7519159,
+          39.7770736
+        ]
+      },
+      "properties": {
+        "article_id": "eda0371d-3595-4158-bd09-7d1a8487f63b",
+        "title": "Sticker Shock: Iran war has gas prices flirting with $4 a gallon",
+        "source": "uctoday.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T20:18:44.000000Z",
+        "url": "https://commstrader.com/news/sticker-shock-iran-war-has-gas-prices-flirting-with-4-a-gallon/",
+        "mention_text": "Iran",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Iran Street, Green Valley Ranch, Denver, Colorado, 80249, United States",
+        "osm_type": "residential",
+        "osm_id": 16982925,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5970742,
+          47.8291375
+        ]
+      },
+      "properties": {
+        "article_id": "fb4a4597-6947-4c3b-807c-5581cf6e6a73",
+        "title": "A Hacker Accidentally Broke Into the FBI\u2019s Epstein Files",
+        "source": "app.buzzsumo.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T10:30:00.000000Z",
+        "url": "https://www.wired.com/story/security-news-this-week-a-hacker-accidentally-broke-into-the-fbis-epstein-files/",
+        "mention_text": "The United States",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Buzzcut, Kitsap County, Washington, 98364, United States",
+        "osm_type": "cycleway",
+        "osm_id": 1089612441,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8109014,
+          39.3181528
+        ]
+      },
+      "properties": {
+        "article_id": "fb4a4597-6947-4c3b-807c-5581cf6e6a73",
+        "title": "A Hacker Accidentally Broke Into the FBI\u2019s Epstein Files",
+        "source": "app.buzzsumo.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T10:30:00.000000Z",
+        "url": "https://www.wired.com/story/security-news-this-week-a-hacker-accidentally-broke-into-the-fbis-epstein-files/",
+        "mention_text": "Israel",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Israel, Preston County, West Virginia, United States",
+        "osm_type": "hamlet",
+        "osm_id": 158373031,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7519159,
+          39.7770736
+        ]
+      },
+      "properties": {
+        "article_id": "fb4a4597-6947-4c3b-807c-5581cf6e6a73",
+        "title": "A Hacker Accidentally Broke Into the FBI\u2019s Epstein Files",
+        "source": "app.buzzsumo.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T10:30:00.000000Z",
+        "url": "https://www.wired.com/story/security-news-this-week-a-hacker-accidentally-broke-into-the-fbis-epstein-files/",
+        "mention_text": "Iran",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Iran Street, Green Valley Ranch, Denver, Colorado, 80249, United States",
+        "osm_type": "residential",
+        "osm_id": 16982925,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1287636,
+          41.3272919
+        ]
+      },
+      "properties": {
+        "article_id": "ddeda7f9-40ef-4a6c-a188-1205d0d16ecb",
+        "title": "Peru\u2019s \u201cEl Ni\u00f1o 2026\u201d: Heat, floods and criminal government neglect claim scores of lives",
+        "source": "wsws.org",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-13T23:30:10.000000Z",
+        "url": "https://www.wsws.org/en/articles/2026/03/13/owfq-m13.html",
+        "mention_text": "Peru",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Peru, LaSalle County, Illinois, 61354, United States",
+        "osm_type": "administrative",
+        "osm_id": 126740,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.455872,
+          39.802781
+        ]
+      },
+      "properties": {
+        "article_id": "dcc4c029-fd7f-42be-b87a-cdf6ec38993f",
+        "title": "Cubans chant \u2018Down with Communism,\u2019 attack gov\u2019t building during violent night of protests",
+        "source": "nypost.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T21:37:00.000000Z",
+        "url": "https://nypost.com/2026/03/14/world-news/cubans-chant-down-with-communism-and-attack-government-building-during-violent-night-of-protests/",
+        "mention_text": "Cuba",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cuba, Republic County, Kansas, 66940, United States",
+        "osm_type": "administrative",
+        "osm_id": 130226,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.329523,
+          34.0980031
+        ]
+      },
+      "properties": {
+        "article_id": "c1f30bbf-9e56-4293-af1c-2b2336d8361f",
+        "title": "Fortress Hollywood: Inside the Oscars Security Machine",
+        "source": "hollywoodreporter.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T17:52:22.000000Z",
+        "url": "https://www.hollywoodreporter.com/news/general-news/oscars-security-academy-awards-iran-war-1236530938/",
+        "mention_text": "Hollywood",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hollywood, Los Angeles, Los Angeles County, California, 90028, United States",
+        "osm_type": "suburb",
+        "osm_id": 1830231415,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "c1f30bbf-9e56-4293-af1c-2b2336d8361f",
+        "title": "Fortress Hollywood: Inside the Oscars Security Machine",
+        "source": "hollywoodreporter.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T17:52:22.000000Z",
+        "url": "https://www.hollywoodreporter.com/news/general-news/oscars-security-academy-awards-iran-war-1236530938/",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4789913,
+          41.6982448
+        ]
+      },
+      "properties": {
+        "article_id": "999dc4df-9966-4ee0-8133-667755a421e2",
+        "title": "The lost Alexandria on the Tigris founded by Alexander the Great discovered in Iraq: Its enormous size surprised archaeologists (photos)",
+        "source": "en.protothema.gr",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T09:02:03.000000Z",
+        "url": "https://en.protothema.gr/2026/03/14/the-lost-alexandria-on-the-tigris-founded-by-alexander-the-great-discovered-in-iraq-its-enormous-size-surprised-archaeologists-photos/",
+        "mention_text": "Iraq",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Iraq, North Summit Sidepath, Willow Beach, Toledo, Lucas County, Ohio, 43611, United States",
+        "osm_type": "memorial",
+        "osm_id": 9861015499,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1194757,
+          40.3764599
+        ]
+      },
+      "properties": {
+        "article_id": "999dc4df-9966-4ee0-8133-667755a421e2",
+        "title": "The lost Alexandria on the Tigris founded by Alexander the Great discovered in Iraq: Its enormous size surprised archaeologists (photos)",
+        "source": "en.protothema.gr",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T09:02:03.000000Z",
+        "url": "https://en.protothema.gr/2026/03/14/the-lost-alexandria-on-the-tigris-founded-by-alexander-the-great-discovered-in-iraq-its-enormous-size-surprised-archaeologists-photos/",
+        "mention_text": "India",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "India, West Wheatfield Township, Indiana County, Pennsylvania, 15949, United States",
+        "osm_type": "hamlet",
+        "osm_id": 158339155,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9550919,
+          41.4583885
+        ]
+      },
+      "properties": {
+        "article_id": "999dc4df-9966-4ee0-8133-667755a421e2",
+        "title": "The lost Alexandria on the Tigris founded by Alexander the Great discovered in Iraq: Its enormous size surprised archaeologists (photos)",
+        "source": "en.protothema.gr",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T09:02:03.000000Z",
+        "url": "https://en.protothema.gr/2026/03/14/the-lost-alexandria-on-the-tigris-founded-by-alexander-the-great-discovered-in-iraq-its-enormous-size-surprised-archaeologists-photos/",
+        "mention_text": "Mesopotamia",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Mesopotamia Township, Trumbull County, Ohio, 44439, United States",
+        "osm_type": "administrative",
+        "osm_id": 15960973,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3537529,
+          33.7439509
+        ]
+      },
+      "properties": {
+        "article_id": "999dc4df-9966-4ee0-8133-667755a421e2",
+        "title": "The lost Alexandria on the Tigris founded by Alexander the Great discovered in Iraq: Its enormous size surprised archaeologists (photos)",
+        "source": "en.protothema.gr",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T09:02:03.000000Z",
+        "url": "https://en.protothema.gr/2026/03/14/the-lost-alexandria-on-the-tigris-founded-by-alexander-the-great-discovered-in-iraq-its-enormous-size-surprised-archaeologists-photos/",
+        "mention_text": "Mediterranean",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Mediterranean, Palm Desert, Riverside County, California, 92210, United States",
+        "osm_type": "residential",
+        "osm_id": 7243263,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3241475,
+          47.5968685
+        ]
+      },
+      "properties": {
+        "article_id": "a956c860-5caf-433b-ae72-6934767dd9f5",
+        "title": "Communists Lose Nepal Too: If Not Marx, Then Who In South Asia?",
+        "source": "indiatoday.intoday.in",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T07:03:34.000000Z",
+        "url": "https://www.indiatoday.in/world/interactive/story/communists-lose-nepal-too-if-not-marx-then-who-in-south-asia-2881702-2026-03-14",
+        "mention_text": "South Asia",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Asia, 668, South Lane Street, Chinatown, Chinatown International District, Seattle, King County, Washington, 98104, United States",
+        "osm_type": "apartments",
+        "osm_id": 235386602,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3170402,
+          29.8494044
+        ]
+      },
+      "properties": {
+        "article_id": "a956c860-5caf-433b-ae72-6934767dd9f5",
+        "title": "Communists Lose Nepal Too: If Not Marx, Then Who In South Asia?",
+        "source": "indiatoday.intoday.in",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T07:03:34.000000Z",
+        "url": "https://www.indiatoday.in/world/interactive/story/communists-lose-nepal-too-if-not-marx-then-who-in-south-asia-2881702-2026-03-14",
+        "mention_text": "South",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "St. Augustine South, Saint Johns County, Florida, 32086, United States",
+        "osm_type": "town",
+        "osm_id": 13203803220,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0677705,
+          38.9255299
+        ]
+      },
+      "properties": {
+        "article_id": "a956c860-5caf-433b-ae72-6934767dd9f5",
+        "title": "Communists Lose Nepal Too: If Not Marx, Then Who In South Asia?",
+        "source": "indiatoday.intoday.in",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T07:03:34.000000Z",
+        "url": "https://www.indiatoday.in/world/interactive/story/communists-lose-nepal-too-if-not-marx-then-who-in-south-asia-2881702-2026-03-14",
+        "mention_text": "Nepal",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Embassy of Nepal, 2730, 34th Place Northwest, Massachusetts Avenue Heights, Ward 3, Washington, District of Columbia, 20007, United States",
+        "osm_type": "diplomatic",
+        "osm_id": 13436222580,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5391622,
+          42.9058971
+        ]
+      },
+      "properties": {
+        "article_id": "7097dd98-518f-4cdb-9065-edfbb1a1d299",
+        "title": "Who is Ayman Mohamad Ghazali? Lebanese-born American accused in Jewish synagogue attack",
+        "source": "uctoday.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-13T10:02:53.000000Z",
+        "url": "https://commstrader.com/news/who-is-ayman-mohamad-ghazali-lebanese-born-american-accused-in-jewish-synagogue-attack/",
+        "mention_text": "West Bloomfield",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Town of West Bloomfield, Ontario County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 3389752,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6824346,
+          43.6211955
+        ]
+      },
+      "properties": {
+        "article_id": "7097dd98-518f-4cdb-9065-edfbb1a1d299",
+        "title": "Who is Ayman Mohamad Ghazali? Lebanese-born American accused in Jewish synagogue attack",
+        "source": "uctoday.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-13T10:02:53.000000Z",
+        "url": "https://commstrader.com/news/who-is-ayman-mohamad-ghazali-lebanese-born-american-accused-in-jewish-synagogue-attack/",
+        "mention_text": "Michigan",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 165789,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3357433,
+          30.047992
+        ]
+      },
+      "properties": {
+        "article_id": "40ff69d8-0b0f-4ab6-a302-39bbaaaa99d6",
+        "title": "China Owns Canada's Only Antimony Mine And Shuttered It In Critical Minerals Power Play",
+        "source": "zerohedge.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-13T23:45:00.000000Z",
+        "url": "https://www.zerohedge.com/commodities/china-owns-canadas-only-antimony-mine-and-shuttered-it-critical-minerals-power-play",
+        "mention_text": "China",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "China, Jefferson County, Texas, 77613, United States",
+        "osm_type": "administrative",
+        "osm_id": 6605099,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3243095,
+          37.6056575
+        ]
+      },
+      "properties": {
+        "article_id": "40ff69d8-0b0f-4ab6-a302-39bbaaaa99d6",
+        "title": "China Owns Canada's Only Antimony Mine And Shuttered It In Critical Minerals Power Play",
+        "source": "zerohedge.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-13T23:45:00.000000Z",
+        "url": "https://www.zerohedge.com/commodities/china-owns-canadas-only-antimony-mine-and-shuttered-it-critical-minerals-power-play",
+        "mention_text": "Canada",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Canada, Pike County, Kentucky, 41519, United States",
+        "osm_type": "hamlet",
+        "osm_id": 153970291,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4280547,
+          41.0542745
+        ]
+      },
+      "properties": {
+        "article_id": "40ff69d8-0b0f-4ab6-a302-39bbaaaa99d6",
+        "title": "China Owns Canada's Only Antimony Mine And Shuttered It In Critical Minerals Power Play",
+        "source": "zerohedge.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-13T23:45:00.000000Z",
+        "url": "https://www.zerohedge.com/commodities/china-owns-canadas-only-antimony-mine-and-shuttered-it-critical-minerals-power-play",
+        "mention_text": "Newfoundland",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Newfoundland, West Milford, Passaic County, New Jersey, United States",
+        "osm_type": "census",
+        "osm_id": 18422124,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8751371,
+          30.5545594
+        ]
+      },
+      "properties": {
+        "article_id": "40ff69d8-0b0f-4ab6-a302-39bbaaaa99d6",
+        "title": "China Owns Canada's Only Antimony Mine And Shuttered It In Critical Minerals Power Play",
+        "source": "zerohedge.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-13T23:45:00.000000Z",
+        "url": "https://www.zerohedge.com/commodities/china-owns-canadas-only-antimony-mine-and-shuttered-it-critical-minerals-power-play",
+        "mention_text": "Gander",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Gander, Mason Hills, Leander, Williamson County, Texas, 78641, United States",
+        "osm_type": "residential",
+        "osm_id": 504021542,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.4107493,
+          34.2331373
+        ]
+      },
+      "properties": {
+        "article_id": "421bcd35-42f8-4a68-a501-8196f0273690",
+        "title": "Air Force Rescue and Recovery",
+        "source": "app.buzzsumo.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-13T16:02:48.000000Z",
+        "url": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/air-force-rescue-and-recovery/",
+        "mention_text": "Earth",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Earth, Lamb County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 6595891,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0123902,
+          40.6977576
+        ]
+      },
+      "properties": {
+        "article_id": "421bcd35-42f8-4a68-a501-8196f0273690",
+        "title": "Air Force Rescue and Recovery",
+        "source": "app.buzzsumo.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-13T16:02:48.000000Z",
+        "url": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/air-force-rescue-and-recovery/",
+        "mention_text": "Mars",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Mars, Butler County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 188397,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3676974,
+          29.7589382
+        ]
+      },
+      "properties": {
+        "article_id": "421bcd35-42f8-4a68-a501-8196f0273690",
+        "title": "Air Force Rescue and Recovery",
+        "source": "app.buzzsumo.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-13T16:02:48.000000Z",
+        "url": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/air-force-rescue-and-recovery/",
+        "mention_text": "Houston",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Houston, Harris County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 2688911,
+        "run_at": "2026-03-15T16:34:22.268228+00:00"
+      }
+    }
+  ],
+  "_metadata": {
+    "description": "Flood news geocoder \u2014 nightly ETL output",
+    "last_updated": "2026-03-15T16:34:22.268507+00:00",
+    "total_features": 46
+  }
+}
