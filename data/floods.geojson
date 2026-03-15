@@ -1,0 +1,3078 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3105232,
+          20.7580586
+        ]
+      },
+      "properties": {
+        "article_id": "https://mauinow.com/2026/03/14/powerful-kona-storm-brings-warning-level-winds-and-flash-flood-risks-flood-warning-issued-for-maui-until-2-p-m/",
+        "title": "Powerful kona storm brings warning level winds and flash flood risks; Flood Watch continues for Maui County",
+        "source": "Maui Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T22:15:36Z",
+        "url": "https://mauinow.com/2026/03/14/powerful-kona-storm-brings-warning-level-winds-and-flash-flood-risks-flood-warning-issued-for-maui-until-2-p-m/",
+        "mention_text": "Maui County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui County, Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166561,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3105232,
+          20.7580586
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mauinews.com/news/local-news/2026/03/nws-issues-flash-flood-warning-for-maui-county/",
+        "title": "NWS issues flash flood warning for Maui County",
+        "source": "mauinews.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T03:51:30Z",
+        "url": "https://www.mauinews.com/news/local-news/2026/03/nws-issues-flash-flood-warning-for-maui-county/",
+        "mention_text": "Maui County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui County, Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166561,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5123979,
+          43.1019545
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.lansingstatejournal.com/story/news/local/2026/03/13/flood-warning-clinton-county-maple-river/89135026007/",
+        "title": "Flood warning issued for Clinton County's Maple River. What to know",
+        "source": "Lansing State Journal",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-13T15:05:00Z",
+        "url": "https://www.lansingstatejournal.com/story/news/local/2026/03/13/flood-warning-clinton-county-maple-river/89135026007/",
+        "mention_text": "Clinton County's",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "South, Eureka, Greenbush Township, Clinton County, Michigan, 48833, United States",
+        "osm_type": "residential",
+        "osm_id": 17769693,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5127827,
+          45.8339545
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.lansingstatejournal.com/story/news/local/2026/03/13/flood-warning-clinton-county-maple-river/89135026007/",
+        "title": "Flood warning issued for Clinton County's Maple River. What to know",
+        "source": "Lansing State Journal",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-13T15:05:00Z",
+        "url": "https://www.lansingstatejournal.com/story/news/local/2026/03/13/flood-warning-clinton-county-maple-river/89135026007/",
+        "mention_text": "Maple River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Maple River, Frederick, Frederick Township, Brown County, South Dakota, United States",
+        "osm_type": "river",
+        "osm_id": 300967291,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5127827,
+          45.8339545
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.lansingstatejournal.com/story/news/local/2026/03/13/flood-warning-clinton-county-maple-river/89135026007/",
+        "title": "Flood warning issued for Clinton County's Maple River. What to know",
+        "source": "Lansing State Journal",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-13T15:05:00Z",
+        "url": "https://www.lansingstatejournal.com/story/news/local/2026/03/13/flood-warning-clinton-county-maple-river/89135026007/",
+        "mention_text": "s Maple River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Maple River, Frederick, Frederick Township, Brown County, South Dakota, United States",
+        "osm_type": "river",
+        "osm_id": 300967291,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5286172,
+          46.9428831
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thenewstribune.com/news/weather-news/article315038499.html",
+        "title": "UPDATE: Flood warning issued for Whitman County for Saturday and Sunday",
+        "source": "Tacoma News Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-13T17:22:06Z",
+        "url": "https://www.thenewstribune.com/news/weather-news/article315038499.html",
+        "mention_text": "Whitman County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Whitman County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1150529,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4577554,
+          43.1260226
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tuscaloosanews.com/story/weather/2026/03/12/weather-alert/89116241007/",
+        "title": "Flood warning issued for West Alabama",
+        "source": "The Tuscaloosa News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-12T14:50:00Z",
+        "url": "https://www.tuscaloosanews.com/story/weather/2026/03/12/weather-alert/89116241007/",
+        "mention_text": "West Alabama",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "West Alabama, Town of Alabama, Genesee County, New York, United States",
+        "osm_type": "hamlet",
+        "osm_id": 158367963,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6881395,
+          40.2253569
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtrf.com/weather/areal-flood-warning-issued-for-portions-of-ohio/",
+        "title": "Areal Flood Warning issued for portions of Ohio",
+        "source": "WTRF",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-12T03:25:47Z",
+        "url": "https://www.wtrf.com/weather/areal-flood-warning-issued-for-portions-of-ohio/",
+        "mention_text": "Ohio",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 162061,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4486983,
+          19.5895548
+        ]
+      },
+      "properties": {
+        "article_id": "https://bigislandnow.com/2026/03/15/what-you-need-to-know-about-the-kona-low-sunday-on-the-big-island-several-roads-remain-shuttered-during-reprieve-in-activity/",
+        "title": "What you need to know about the kona low Sunday on Big Island: Flash flood advisory canceled for entire island",
+        "source": "Big Island Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-15T16:08:00Z",
+        "url": "https://bigislandnow.com/2026/03/15/what-you-need-to-know-about-the-kona-low-sunday-on-the-big-island-several-roads-remain-shuttered-during-reprieve-in-activity/",
+        "mention_text": "Big Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawai\u02bbi, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403603,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3105232,
+          20.7580586
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.khon2.com/big-island-news/nws-extends-flash-flood-warning-for-big-island/",
+        "title": "NWS extends Flash Flood Warning for Big Island, Maui County, Molokai",
+        "source": "KHON2",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T18:30:32Z",
+        "url": "https://www.khon2.com/big-island-news/nws-extends-flash-flood-warning-for-big-island/",
+        "mention_text": "Maui County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui County, Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166561,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.0071539,
+          21.1344895
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.khon2.com/big-island-news/nws-extends-flash-flood-warning-for-big-island/",
+        "title": "NWS extends Flash Flood Warning for Big Island, Maui County, Molokai",
+        "source": "KHON2",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T18:30:32Z",
+        "url": "https://www.khon2.com/big-island-news/nws-extends-flash-flood-warning-for-big-island/",
+        "mention_text": "Molokai",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Moloka\u02bbi, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 1082120,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4577554,
+          43.1260226
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tuscaloosanews.com/story/weather/2026/03/13/weather-alert/89135291007/",
+        "title": "Flood warning issued for West Alabama",
+        "source": "The Tuscaloosa News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-13T15:18:00Z",
+        "url": "https://www.tuscaloosanews.com/story/weather/2026/03/13/weather-alert/89135291007/",
+        "mention_text": "West Alabama",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "West Alabama, Town of Alabama, Genesee County, New York, United States",
+        "osm_type": "hamlet",
+        "osm_id": 158367963,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6984481,
+          41.2711458
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/03/flash-flood-warning-active-for-clinton-county-until-tuesday-afternoon-urgent-action-advised.html",
+        "title": "Update: The current flash flood warning for Clinton County will be expiring at 1 p.m.",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-10T16:58:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/03/flash-flood-warning-active-for-clinton-county-until-tuesday-afternoon-urgent-action-advised.html",
+        "mention_text": "Clinton County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Clinton County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 416639,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3452562,
+          46.2794223
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tri-cityherald.com/news/weather-news/article315023015.html",
+        "title": "UPDATE: Flood warning issued for Wahkiakum County until 1 a.m. Saturday",
+        "source": "Tri-City Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-12T12:16:07Z",
+        "url": "https://www.tri-cityherald.com/news/weather-news/article315023015.html",
+        "mention_text": "Wahkiakum County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Wahkiakum County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153389,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5781416,
+          39.100105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kansascity.com/news/weather-news/article315006839.html",
+        "title": "Flash flood warning issued for the Kansas City area until 2 a.m. Wednesday",
+        "source": "Kansas City Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-11T03:32:09Z",
+        "url": "https://www.kansascity.com/news/weather-news/article315006839.html",
+        "mention_text": "Kansas City",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kansas City, Jackson County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 141008,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.staradvertiser.com/2026/03/13/breaking-news/oahu-kauai-under-flood-advisories-as-kona-low-storm-pounds-state/",
+        "title": "Heavy rain triggers flash flood warnings, road closures across Hawaii",
+        "source": "Honolulu Star-Advertiser",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T10:31:11Z",
+        "url": "https://www.staradvertiser.com/2026/03/13/breaking-news/oahu-kauai-under-flood-advisories-as-kona-low-storm-pounds-state/",
+        "mention_text": "Hawaii",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.14824,
+          32.6807992
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.al.com/weather-alerts/2026/03/flood-warning-issued-for-west-central-alabama-until-tuesday-afternoon-minor-flooding-is-expected.html",
+        "title": "Update: Flood warning issued for West Central Alabama until Sunday night \u2013 minor flooding is taking place",
+        "source": "AL.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-12T13:33:00Z",
+        "url": "https://www.al.com/weather-alerts/2026/03/flood-warning-issued-for-west-central-alabama-until-tuesday-afternoon-minor-flooding-is-expected.html",
+        "mention_text": "West Central Alabama",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "West Central Road, Greer, Elmore County, Alabama, 36092, United States",
+        "osm_type": "unclassified",
+        "osm_id": 7646823,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7651675,
+          41.8909768
+        ]
+      },
+      "properties": {
+        "article_id": "https://abc6onyourside.com/news/local/flash-flood-warnings-continue-as-spring-weather-moves-through-chillicothe-central-ohio",
+        "title": "Flash flood warnings continue as spring weather moves through Central Ohio",
+        "source": "WSYX",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-12T01:35:19Z",
+        "url": "https://abc6onyourside.com/news/local/flash-flood-warnings-continue-as-spring-weather-moves-through-chillicothe-central-ohio",
+        "mention_text": "Central Ohio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central & Ohio, North Central Avenue, Austin, Chicago, West Chicago Township, Cook County, Illinois, 60630, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 5225052672,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://mauinow.com/2026/03/13/powerful-kona-storm-brings-warning-level-winds-and-flash-flood-risks/",
+        "title": "Powerful kona storm brings warning level winds and flash flood risks; Flood Warning issued for Maui until 2 p.m.",
+        "source": "Maui Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-13T15:27:34Z",
+        "url": "https://mauinow.com/2026/03/13/powerful-kona-storm-brings-warning-level-winds-and-flash-flood-risks/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4838174,
+          35.1842414
+        ]
+      },
+      "properties": {
+        "article_id": "https://bigislandnow.com/2026/03/14/what-you-need-to-know-about-the-kona-low-saturday-on-the-big-island-entire-island-now-under-flash-flood-warning-spots-on-alii-drive-added-to-growing-list-of-road-closures/",
+        "title": "What you need to know about the kona low Saturday on the Big Island: Entire island now under flash flood warning; spots on Ali\u2018i Drive added to growing list of road closures",
+        "source": "Big Island Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-15T07:52:00Z",
+        "url": "https://bigislandnow.com/2026/03/14/what-you-need-to-know-about-the-kona-low-saturday-on-the-big-island-entire-island-now-under-flash-flood-warning-spots-on-alii-drive-added-to-growing-list-of-road-closures/",
+        "mention_text": "the Big Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Big Island, Polk County, East Tennessee, Tennessee, 37369, United States",
+        "osm_type": "island",
+        "osm_id": 356884093,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.9631562,
+          19.5714108
+        ]
+      },
+      "properties": {
+        "article_id": "https://bigislandnow.com/2026/03/14/what-you-need-to-know-about-the-kona-low-saturday-on-the-big-island-entire-island-now-under-flash-flood-warning-spots-on-alii-drive-added-to-growing-list-of-road-closures/",
+        "title": "What you need to know about the kona low Saturday on the Big Island: Entire island now under flash flood warning; spots on Ali\u2018i Drive added to growing list of road closures",
+        "source": "Big Island Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-15T07:52:00Z",
+        "url": "https://bigislandnow.com/2026/03/14/what-you-need-to-know-about-the-kona-low-saturday-on-the-big-island-entire-island-now-under-flash-flood-warning-spots-on-alii-drive-added-to-growing-list-of-road-closures/",
+        "mention_text": "Ali\u2018i Drive",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ali\u02bbi Drive, Keauhou, Kahaluu-Keauhou, Hawai\u02bbi County, Hawaii, 96725, United States",
+        "osm_type": "tertiary",
+        "osm_id": 439438994,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3347536,
+          46.4958671
+        ]
+      },
+      "properties": {
+        "article_id": "https://tdn.com/news/local/weather/article_600cc9b5-7fb8-4f22-9fcd-046901d8379c.html",
+        "title": "Minor flood warning issued for Cowlitz River in Kelso",
+        "source": "Longview Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-13T23:10:00Z",
+        "url": "https://tdn.com/news/local/weather/article_600cc9b5-7fb8-4f22-9fcd-046901d8379c.html",
+        "mention_text": "Cowlitz River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cowlitz River, Washington, United States",
+        "osm_type": "river",
+        "osm_id": 18049530,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5857376,
+          42.7809668
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/03/flood-warning-issued-for-capital-region-until-tuesday-midday.html",
+        "title": "Update: Flood warning issued for Capital Region until Tuesday midday",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-09T23:28:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/03/flood-warning-issued-for-capital-region-until-tuesday-midday.html",
+        "mention_text": "Capital Region",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Capital Region International Airport, Capital City Boulevard, River Forest, Lansing, Clinton County, Michigan, 48906, United States",
+        "osm_type": "aerodrome",
+        "osm_id": 32306085,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7905282,
+          34.6661946
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.al.com/weather-alerts/2026/03/flash-flood-warning-affecting-central-alabama-until-monday-night-caused-by-thunderstorms.html",
+        "title": "Update: Flash flood warning affecting Central Alabama Monday night caused by thunderstorms",
+        "source": "AL.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-10T02:03:00Z",
+        "url": "https://www.al.com/weather-alerts/2026/03/flash-flood-warning-affecting-central-alabama-until-monday-night-caused-by-thunderstorms.html",
+        "mention_text": "Central Alabama",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, Jackson County, Alabama, 35765, United States",
+        "osm_type": "hamlet",
+        "osm_id": 153350012,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4486983,
+          19.5895548
+        ]
+      },
+      "properties": {
+        "article_id": "https://bigislandnow.com/2026/03/13/update-flood-watch-extended-for-big-island-special-marine-warning-also-issued-for-some-island-waters/",
+        "title": "UPDATE: Flood watch extended for Big Island; special marine warning also issued for some island waters",
+        "source": "Big Island Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-13T18:54:00Z",
+        "url": "https://bigislandnow.com/2026/03/13/update-flood-watch-extended-for-big-island-special-marine-warning-also-issued-for-some-island-waters/",
+        "mention_text": "Big Island",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hawai\u02bbi, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403603,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2231752,
+          33.2002659
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.al.com/weather-alerts/2026/03/flash-flood-warning-issued-for-franklin-county-until-monday-evening-triggered-by-thunderstorms.html",
+        "title": "Flash flood warning issued for Franklin County until Monday evening triggered by thunderstorms",
+        "source": "AL.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-09T22:15:00Z",
+        "url": "https://www.al.com/weather-alerts/2026/03/flash-flood-warning-issued-for-franklin-county-until-monday-evening-triggered-by-thunderstorms.html",
+        "mention_text": "Franklin County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Franklin County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839286,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0649374,
+          41.916753
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thedailyreporter.com/story/weather/2026/03/11/flood-warning-issued-branch-st-joseph-county-nws/89092915007/",
+        "title": "Flood warning issued for Branch, St. Joseph counties",
+        "source": "Coldwater Daily Reporter",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-11T11:49:00Z",
+        "url": "https://www.thedailyreporter.com/story/weather/2026/03/11/flood-warning-issued-branch-st-joseph-county-nws/89092915007/",
+        "mention_text": "Branch",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Branch County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1801747,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0417048,
+          40.1117007
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thedailyreporter.com/story/weather/2026/03/11/flood-warning-issued-branch-st-joseph-county-nws/89092915007/",
+        "title": "Flood warning issued for Branch, St. Joseph counties",
+        "source": "Coldwater Daily Reporter",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-11T11:49:00Z",
+        "url": "https://www.thedailyreporter.com/story/weather/2026/03/11/flood-warning-issued-branch-st-joseph-county-nws/89092915007/",
+        "mention_text": "St. Joseph",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "St. Joseph, Champaign County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 126129,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.488853,
+          29.4263278
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article315006537.html",
+        "title": "UPDATE: The flash flood warning for North Texas is predicted to expire at 3 a.m.",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-03-11T02:42:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article315006537.html",
+        "mention_text": "North Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Buckhorn Saloon and Museum, North Presa Street, Downtown, San Antonio, Bexar County, Texas, 78205, United States",
+        "osm_type": "pub",
+        "osm_id": 928668524,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2305038,
+          45.1608821
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.oregonlive.com/weather-alerts/2026/03/flood-advisory-active-for-clackamas-county-until-thursday-midday-caused-by-prolonged-rainfall.html",
+        "title": "Update: Flood advisory for Clackamas County predicted to expire at 12:30 p.m.",
+        "source": "OregonLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-12T19:29:00Z",
+        "url": "https://www.oregonlive.com/weather-alerts/2026/03/flood-advisory-active-for-clackamas-county-until-thursday-midday-caused-by-prolonged-rainfall.html",
+        "mention_text": "Clackamas County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Clackamas County, Oregon, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837105,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6678639,
+          42.9632425
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox17online.com/news/local-news/grand-rapids/schnitz-deli-says-it-will-be-closed-for-a-couple-weeks-after-grand-rapids-flash-flood",
+        "title": "Schnitz Deli says it will be closed for 'a couple weeks' after Grand Rapids flash flood",
+        "source": "FOX 17 West Michigan News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-13T14:28:39Z",
+        "url": "https://www.fox17online.com/news/local-news/grand-rapids/schnitz-deli-says-it-will-be-closed-for-a-couple-weeks-after-grand-rapids-flash-flood",
+        "mention_text": "Grand Rapids",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Rapids, Kent County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 134444,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.0057446,
+          39.6090612
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/03/flash-flood-warning-in-place-for-kent-and-ottawa-counties-until-3-a-m-edt-wednesday-triggered-by-sig.html",
+        "title": "Update: Flash flood warning in place for West Michigan until early Wednesday morning triggered by significant rainfall",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-11T02:12:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/03/flash-flood-warning-in-place-for-kent-and-ottawa-counties-until-3-a-m-edt-wednesday-triggered-by-sig.html",
+        "mention_text": "West Michigan",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "West Michigan, Lenora, Norton County, Kansas, 67645, United States",
+        "osm_type": "service",
+        "osm_id": 13194271,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8756362,
+          32.735281
+        ]
+      },
+      "properties": {
+        "article_id": "https://hoodline.com/2026/03/kona-low-soaks-big-island-flash-flood-warning-slams-ka-u-and-puna/",
+        "title": "Flash Flood Warning for Ka\u02bbu and Puna on Hawaii Island",
+        "source": "Hoodline",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T21:06:39Z",
+        "url": "https://hoodline.com/2026/03/kona-low-soaks-big-island-flash-flood-warning-slams-ka-u-and-puna/",
+        "mention_text": "Hawaii Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii Island, Tallapoosa County, Alabama, United States",
+        "osm_type": "island",
+        "osm_id": 1265920066,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1813111,
+          43.5819338
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/03/flash-flood-warning-active-for-mid-michigan-until-early-wednesday-morning-triggered-by-heavy-rain.html",
+        "title": "Flash flood warning active for Mid-Michigan until early Wednesday morning triggered by heavy rain",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-11T02:03:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/03/flash-flood-warning-active-for-mid-michigan-until-early-wednesday-morning-triggered-by-heavy-rain.html",
+        "mention_text": "Mid-Michigan",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "FedEx Service Center, 4700, Salzburg Road, Midland, Midland County, Michigan, 48642, United States",
+        "osm_type": "warehouse",
+        "osm_id": 386262675,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6984481,
+          41.2711458
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flash-flood-warning-in-place-for-clinton-county-until-tuesday-afternoon-take-precautions.html",
+        "title": "NY weather: Flash flood warning in place for Clinton County until Tuesday afternoon \u2013 take precautions now",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-10T11:09:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flash-flood-warning-in-place-for-clinton-county-until-tuesday-afternoon-take-precautions.html",
+        "mention_text": "Clinton County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Clinton County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 416639,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.4974873,
+          40.436643
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wcax.com/2026/03/09/ice-jam-flood-warning-issued-mad-river-ausable-river/",
+        "title": "Ice jam flood warning issued for Mad River, AuSable River",
+        "source": "WCAX",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-09T00:43:00Z",
+        "url": "https://www.wcax.com/2026/03/09/ice-jam-flood-warning-issued-mad-river-ausable-river/",
+        "mention_text": "Mad River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Mad River, Trinity County, California, United States",
+        "osm_type": "census",
+        "osm_id": 19980037,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.523702,
+          44.4933071
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wcax.com/2026/03/09/ice-jam-flood-warning-issued-mad-river-ausable-river/",
+        "title": "Ice jam flood warning issued for Mad River, AuSable River",
+        "source": "WCAX",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-09T00:43:00Z",
+        "url": "https://www.wcax.com/2026/03/09/ice-jam-flood-warning-issued-mad-river-ausable-river/",
+        "mention_text": "AuSable River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ausable River, Keeseville, Town of Chesterfield, Essex County, New York, United States",
+        "osm_type": "river",
+        "osm_id": 7394563,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.msn.com/en-us/weather/topstories/hawaii-storm-update-over-100-000-without-power-amid-flash-flood-warnings/ar-AA1YCjfI?cvid=69b60ecda52241ab86fd24ae14f35962&ocid=hpmsn",
+        "title": "Hawaii storm update: Over 100,000 without power amid flash flood warnings",
+        "source": "MSN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T11:07:56Z",
+        "url": "https://www.msn.com/en-us/weather/topstories/hawaii-storm-update-over-100-000-without-power-amid-flash-flood-warnings/ar-AA1YCjfI?cvid=69b60ecda52241ab86fd24ae14f35962&ocid=hpmsn",
+        "mention_text": "Hawaii",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.staradvertiser.com/2026/03/12/breaking-news/flash-flood-warning-issued-for-oahu-as-rain-ramps-up/",
+        "title": "Flood watch remains for Hawaii; High wind warning issued for Oahu, Maui and Kauai",
+        "source": "Honolulu Star-Advertiser",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-13T03:45:01Z",
+        "url": "https://www.staradvertiser.com/2026/03/12/breaking-news/flash-flood-warning-issued-for-oahu-as-rain-ramps-up/",
+        "mention_text": "Hawaii",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0365427,
+          38.8950368
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/news/local/flash-flood-warning-issued-across-southeast-louisiana-new-orleans/289-0a544ac0-24ae-4457-afde-04750280a4d9",
+        "title": "Flash Flood Warning expired for Tangipahoa, Washington and St. Tammany Parishes",
+        "source": "wwltv.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-07T08:00:00Z",
+        "url": "https://www.wwltv.com/article/news/local/flash-flood-warning-issued-across-southeast-louisiana-new-orleans/289-0a544ac0-24ae-4457-afde-04750280a4d9",
+        "mention_text": "Washington",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Washington, District of Columbia, United States",
+        "osm_type": "city",
+        "osm_id": 5396194,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.hindustantimes.com/world-news/us-news/hawaii-flash-flood-warning-which-oahu-areas-are-at-risk-check-map-evacuation-updates-and-visuals-101773362463142.html",
+        "title": "Hawaii flash flood warning: Which Oahu areas are at risk? Check map, evacuation updates and visuals | Hindustan Times",
+        "source": "Hindustan Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-13T02:35:19Z",
+        "url": "https://www.hindustantimes.com/world-news/us-news/hawaii-flash-flood-warning-which-oahu-areas-are-at-risk-check-map-evacuation-updates-and-visuals-101773362463142.html",
+        "mention_text": "Hawaii",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://mayor.lacity.gov/news/holiday-storm-morning-update-flash-flood-warning-issued-most-los-angeles",
+        "title": "Holiday Storm Morning Update: Flash Flood Warning Issued for Most of Los Angeles",
+        "source": "Mayor Karen Bass (.gov)",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-24T08:00:00Z",
+        "url": "https://mayor.lacity.gov/news/holiday-storm-morning-update-flash-flood-warning-issued-most-los-angeles",
+        "mention_text": "Los Angeles",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.213342,
+          41.5421375
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thenews.com.pk/latest/1395264-flash-flood-warning-for-kent-and-ottawa-counties-after-heavy-rain-causes-flooding",
+        "title": "Flash flood warning for Kent and Ottawa counties after heavy rain causes flooding",
+        "source": "The News International",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-11T02:45:52Z",
+        "url": "https://www.thenews.com.pk/latest/1395264-flash-flood-warning-for-kent-and-ottawa-counties-after-heavy-rain-causes-flooding",
+        "mention_text": "Ottawa",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ottawa County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 350380,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.msn.com/en-us/weather/topstories/flash-flood-warning-ice-jam-threatens-northern-new-york-communities/ar-AA1XU8fk",
+        "title": "Flash flood warning: Ice jam threatens northern New York communities",
+        "source": "MSN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-10T13:40:46Z",
+        "url": "https://www.msn.com/en-us/weather/topstories/flash-flood-warning-ice-jam-threatens-northern-new-york-communities/ar-AA1XU8fk",
+        "mention_text": "New York",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1083609,
+          44.463833
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.msn.com/en-us/weather/topstories/flood-warning-issued-due-to-ice-jam-in-caledonia-county-some-homes-in-st-johnsbury-evacuated/ar-AA1YuirW",
+        "title": "Flood warning issued due to ice jam in Caledonia County; some homes in St. Johnsbury evacuated",
+        "source": "MSN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-12T16:03:05Z",
+        "url": "https://www.msn.com/en-us/weather/topstories/flood-warning-issued-due-to-ice-jam-in-caledonia-county-some-homes-in-st-johnsbury-evacuated/ar-AA1YuirW",
+        "mention_text": "Caledonia County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Caledonia County, Vermont, United States",
+        "osm_type": "administrative",
+        "osm_id": 62022,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0156532,
+          44.419494
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.msn.com/en-us/weather/topstories/flood-warning-issued-due-to-ice-jam-in-caledonia-county-some-homes-in-st-johnsbury-evacuated/ar-AA1YuirW",
+        "title": "Flood warning issued due to ice jam in Caledonia County; some homes in St. Johnsbury evacuated",
+        "source": "MSN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-12T16:03:05Z",
+        "url": "https://www.msn.com/en-us/weather/topstories/flood-warning-issued-due-to-ice-jam-in-caledonia-county-some-homes-in-st-johnsbury-evacuated/ar-AA1YuirW",
+        "mention_text": "St. Johnsbury",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Saint Johnsbury, Caledonia County, Vermont, United States",
+        "osm_type": "administrative",
+        "osm_id": 3077043,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4951405,
+          29.4246002
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tpr.org/environment/2025-06-12/san-antonio-flooding-leaves-four-dead-dozens-rescued-from-high-water",
+        "title": "Deadly flash flood kills 13 in San Antonio; authorities identify most victims",
+        "source": "Texas Public Radio | TPR",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-06-15T07:00:00Z",
+        "url": "https://www.tpr.org/environment/2025-06-12/san-antonio-flooding-leaves-four-dead-dozens-rescued-from-high-water",
+        "mention_text": "San Antonio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Antonio, Bexar County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 253556,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9382069,
+          39.5162401
+        ]
+      },
+      "properties": {
+        "article_id": "https://marylandmatters.org/2025/08/01/maryland-records-most-flash-flood-warnings-since-2020-heres-why/",
+        "title": "Maryland records most flash flood warnings since 2020. Here\u2019s why.",
+        "source": "Maryland Matters",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-08-01T07:00:00Z",
+        "url": "https://marylandmatters.org/2025/08/01/maryland-records-most-flash-flood-warnings-since-2020-heres-why/",
+        "mention_text": "Maryland",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maryland, United States",
+        "osm_type": "administrative",
+        "osm_id": 162112,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://news.northeastern.edu/2025/07/07/how-to-survive-a-flash-flood-texas/",
+        "title": "How to Survive a Flash Flood Like the One That Devastated Texas",
+        "source": "Northeastern Global News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-07-07T07:00:00Z",
+        "url": "https://news.northeastern.edu/2025/07/07/how-to-survive-a-flash-flood-texas/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9899756,
+          38.8806677
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thenewstribune.com/news/weather-news/article315047358.html",
+        "title": "UPDATE: Flood advisory issued for Southeast Washington until Sunday midday",
+        "source": "Tacoma News Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T20:46:05Z",
+        "url": "https://www.thenewstribune.com/news/weather-news/article315047358.html",
+        "mention_text": "Southeast Washington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Southeast, Capitol Hill, Ward 6, Washington, District of Columbia, 20003, United States",
+        "osm_type": "quarter",
+        "osm_id": 158655059,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6626791,
+          46.403433
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/03/gogebic-county-under-a-lakeshore-flood-advisory-sunday-and-monday.html",
+        "title": "Gogebic County under a lakeshore flood advisory Sunday and Monday",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-15T00:35:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/03/gogebic-county-under-a-lakeshore-flood-advisory-sunday-and-monday.html",
+        "mention_text": "Gogebic County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Gogebic County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1798740,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9760405,
+          40.4597204
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.lehighvalleylive.com/weather-alerts/2026/03/flood-advisory-in-place-for-allegheny-county-until-saturday-morning-triggered-by-significant-downpou.html",
+        "title": "Update: Flood advisory in place for Allegheny County until Saturday morning triggered by significant downpours",
+        "source": "lehighvalleylive",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-12T02:59:00Z",
+        "url": "https://www.lehighvalleylive.com/weather-alerts/2026/03/flood-advisory-in-place-for-allegheny-county-until-saturday-morning-triggered-by-significant-downpou.html",
+        "mention_text": "Allegheny County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Allegheny County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 2563472,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0733934,
+          29.9561422
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/news/local/orleans/street-flooding-risk-in-new-orleans-neutral-ground-parking-allowed/289-bafd4e17-f6ad-40eb-b4e7-f506a98d874e",
+        "title": "Street Flood Advisory in effect; New Orleans allows neutral ground parking",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-11T22:06:00Z",
+        "url": "https://www.wwltv.com/article/news/local/orleans/street-flooding-risk-in-new-orleans-neutral-ground-parking-allowed/289-bafd4e17-f6ad-40eb-b4e7-f506a98d874e",
+        "mention_text": "New Orleans",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "New Orleans, Orleans Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 131885,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2640912,
+          41.5329762
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kgw.com/video/weather/severe-weather/woman-rescued-after-driving-through-flooded-road-in-forest-grove/283-01c26a31-7c7d-4107-86c8-03eff3679470",
+        "title": "Woman rescued after driving through flooded road in Forest Grove",
+        "source": "KGW",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T01:16:00Z",
+        "url": "https://www.kgw.com/video/weather/severe-weather/woman-rescued-after-driving-through-flooded-road-in-forest-grove/283-01c26a31-7c7d-4107-86c8-03eff3679470",
+        "mention_text": "Forest",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Forest County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 416690,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1704496,
+          29.834772
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.al.com/weather-alerts/2026/03/flood-advisory-for-central-alabama-monday-night-caused-by-prolonged-rain.html",
+        "title": "Update: Flood advisory for Jefferson County until 1 a.m. Thursday caused by prolonged rain",
+        "source": "AL.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-12T04:47:00Z",
+        "url": "https://www.al.com/weather-alerts/2026/03/flood-advisory-for-central-alabama-monday-night-caused-by-prolonged-rain.html",
+        "mention_text": "Jefferson County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Jefferson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1841074,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9760405,
+          40.4597204
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pennlive.com/weather-alerts/2026/03/flood-advisory-affecting-allegheny-county-until-saturday-morning-due-to-persistent-rain.html",
+        "title": "Update: Flood advisory affecting Allegheny County until Saturday morning due to persistent rain",
+        "source": "PennLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-12T02:59:00Z",
+        "url": "https://www.pennlive.com/weather-alerts/2026/03/flood-advisory-affecting-allegheny-county-until-saturday-morning-due-to-persistent-rain.html",
+        "mention_text": "Allegheny County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Allegheny County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 2563472,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8204601,
+          39.1914156
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.therepublic.com/2026/03/11/flood-advisory-in-effect-for-bartholomew-county-until-730-p-m-today/",
+        "title": "Flood advisory in effect for Bartholomew County until 7:30 p.m. today",
+        "source": "The Republic News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-11T19:40:58Z",
+        "url": "https://www.therepublic.com/2026/03/11/flood-advisory-in-effect-for-bartholomew-county-until-730-p-m-today/",
+        "mention_text": "Bartholomew County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Bartholomew County, Indiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 1325365,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0742387,
+          47.3876058
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/03/keweenaw-county-under-a-lakeshore-flood-advisory-friday.html",
+        "title": "Update: Keweenaw County under a lakeshore flood advisory until Friday afternoon",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-13T08:11:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/03/keweenaw-county-under-a-lakeshore-flood-advisory-friday.html",
+        "mention_text": "Keweenaw County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Keweenaw County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 912579,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1791849,
+          31.8390826
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.al.com/weather-alerts/2026/03/flood-advisory-issued-for-alabama-until-monday-night-due-to-excessive-rainfall.html",
+        "title": "Update: Flood advisory issued for Cherokee County Monday night due to excessive rainfall",
+        "source": "AL.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-10T02:17:00Z",
+        "url": "https://www.al.com/weather-alerts/2026/03/flood-advisory-issued-for-alabama-until-monday-night-due-to-excessive-rainfall.html",
+        "mention_text": "Cherokee County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cherokee County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839605,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8480354,
+          39.9322625
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wishtv.com/weather/weather-stories/fortville-man-missing-after-truck-swept-off-flooded-road-in-martin-county/",
+        "title": "Fortville man missing after truck swept off flooded road in Martin County",
+        "source": "WISH-TV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-10T21:36:00Z",
+        "url": "https://www.wishtv.com/weather/weather-stories/fortville-man-missing-after-truck-swept-off-flooded-road-in-martin-county/",
+        "mention_text": "Fortville",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Fortville, Hancock County, Indiana, 46040, United States",
+        "osm_type": "administrative",
+        "osm_id": 127786,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9190317,
+          32.2675039
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wishtv.com/weather/weather-stories/fortville-man-missing-after-truck-swept-off-flooded-road-in-martin-county/",
+        "title": "Fortville man missing after truck swept off flooded road in Martin County",
+        "source": "WISH-TV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-10T21:36:00Z",
+        "url": "https://www.wishtv.com/weather/weather-stories/fortville-man-missing-after-truck-swept-off-flooded-road-in-martin-county/",
+        "mention_text": "Martin County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Martin County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1812344,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1746933,
+          40.3270127
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/car-swept-off-flooded-road-indiana-driver-missing-passenger-rescued-tree",
+        "title": "Two people found dead after multiple cars swept off flooded road in Indiana",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-11T04:12:00Z",
+        "url": "https://www.foxweather.com/weather-news/car-swept-off-flooded-road-indiana-driver-missing-passenger-rescued-tree",
+        "mention_text": "Indiana",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Indiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 161816,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2654452,
+          41.8119602
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/03/warren-county-under-a-flood-advisory-until-early-friday.html",
+        "title": "Update: Warren County under a flood advisory until Sunday midday",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-12T16:54:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/03/warren-county-under-a-flood-advisory-until-early-friday.html",
+        "mention_text": "Warren County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Warren County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 416689,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.194642,
+          30.6488242
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.al.com/weather-alerts/2026/03/flood-advisory-issued-for-mobile-county-until-3-a-m-sunday-caused-by-substantial-downpours.html",
+        "title": "Flood advisory issued for Mobile County until 3 a.m. Sunday caused by substantial downpours",
+        "source": "AL.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-08T05:45:00Z",
+        "url": "https://www.al.com/weather-alerts/2026/03/flood-advisory-issued-for-mobile-county-until-3-a-m-sunday-caused-by-substantial-downpours.html",
+        "mention_text": "Mobile County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Mobile County, Alabama, United States",
+        "osm_type": "administrative",
+        "osm_id": 1848791,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.masslive.com/weather-alerts/2026/02/coastal-flood-advisory-for-3-massachusetts-counties-for-monday.html",
+        "title": "Update: Coastal flood advisory for 3 Massachusetts counties forecast to expire at 7 a.m.",
+        "source": "MassLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-23T08:00:00Z",
+        "url": "https://www.masslive.com/weather-alerts/2026/02/coastal-flood-advisory-for-3-massachusetts-counties-for-monday.html",
+        "mention_text": "Massachusetts",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 61315,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.masslive.com/weather-alerts/2026/02/coastal-flood-advisory-active-for-4-massachusetts-counties-until-monday-evening.html",
+        "title": "Update: Coastal flood advisory in place for 7 Massachusetts counties for Tuesday",
+        "source": "MassLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-23T08:00:00Z",
+        "url": "https://www.masslive.com/weather-alerts/2026/02/coastal-flood-advisory-active-for-4-massachusetts-counties-until-monday-evening.html",
+        "mention_text": "Massachusetts",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 61315,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.masslive.com/weather/2026/02/coastal-flood-advisory-issued-for-four-mass-counties-through-monday-evening.html",
+        "title": "Coastal flood advisory issued for four Mass. counties through Monday evening",
+        "source": "MassLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-23T08:00:00Z",
+        "url": "https://www.masslive.com/weather/2026/02/coastal-flood-advisory-issued-for-four-mass-counties-through-monday-evening.html",
+        "mention_text": "Mass.",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 61315,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4041622,
+          40.0757384
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nj.com/weather-alerts/2026/03/flood-advisory-active-for-4-n-j-counties-until-2-a-m-friday.html",
+        "title": "Flood advisory active for 4 N.J. counties until 2 a.m. Friday",
+        "source": "NJ.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-06T04:25:00Z",
+        "url": "https://www.nj.com/weather-alerts/2026/03/flood-advisory-active-for-4-n-j-counties-until-2-a-m-friday.html",
+        "mention_text": "N.J.",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 224951,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9625633,
+          40.8192917
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wkyc.com/article/weather/weather-impact/flood-advisory-ice-jam-grand-river-lake-county-national-weather-service/95-ca91ea76-951b-4c3c-b06d-a3e9de3a3dd1",
+        "title": "Flood Advisory issued amid ice jam concerns on Grand River in Lake County",
+        "source": "WKYC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-18T08:00:00Z",
+        "url": "https://www.wkyc.com/article/weather/weather-impact/flood-advisory-ice-jam-grand-river-lake-county-national-weather-service/95-ca91ea76-951b-4c3c-b06d-a3e9de3a3dd1",
+        "mention_text": "Grand River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Grand River, Decatur County, Iowa, United States",
+        "osm_type": "administrative",
+        "osm_id": 129179,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7776556,
+          39.0505411
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wkyc.com/article/weather/weather-impact/flood-advisory-ice-jam-grand-river-lake-county-national-weather-service/95-ca91ea76-951b-4c3c-b06d-a3e9de3a3dd1",
+        "title": "Flood Advisory issued amid ice jam concerns on Grand River in Lake County",
+        "source": "WKYC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-18T08:00:00Z",
+        "url": "https://www.wkyc.com/article/weather/weather-impact/flood-advisory-ice-jam-grand-river-lake-county-national-weather-service/95-ca91ea76-951b-4c3c-b06d-a3e9de3a3dd1",
+        "mention_text": "Lake County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Lake County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396502,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3303618,
+          42.1816908
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wkyc.com/article/weather/weather-impact/flood-advisory-ice-jam-grand-river-lake-county-national-weather-service/95-ca91ea76-951b-4c3c-b06d-a3e9de3a3dd1",
+        "title": "Flood Advisory issued amid ice jam concerns on Grand River in Lake County",
+        "source": "WKYC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-18T08:00:00Z",
+        "url": "https://www.wkyc.com/article/weather/weather-impact/flood-advisory-ice-jam-grand-river-lake-county-national-weather-service/95-ca91ea76-951b-4c3c-b06d-a3e9de3a3dd1",
+        "mention_text": "in Lake",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Lake in the Hills, McHenry County, Illinois, 60156, United States",
+        "osm_type": "administrative",
+        "osm_id": 126052,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0149536,
+          41.8898229
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/02/flood-advisory-affecting-hudson-valley-until-early-monday-morning.html",
+        "title": "Flood advisory affecting Hudson Valley until early Monday morning",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-22T08:00:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/02/flood-advisory-affecting-hudson-valley-until-early-monday-morning.html",
+        "mention_text": "Hudson Valley",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Parks of Study and Reflection - Hudson Valley, New Salem, Town of Esopus, Ulster County, New York, United States",
+        "osm_type": "park",
+        "osm_id": 823438636,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9760405,
+          40.4597204
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.lehighvalleylive.com/weather-alerts/2026/02/flood-advisory-in-place-for-allegheny-county-until-sunday-morning.html",
+        "title": "Update: Flood advisory issued for Allegheny County until Sunday morning",
+        "source": "lehighvalleylive",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-20T08:00:00Z",
+        "url": "https://www.lehighvalleylive.com/weather-alerts/2026/02/flood-advisory-in-place-for-allegheny-county-until-sunday-morning.html",
+        "mention_text": "Allegheny County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Allegheny County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 2563472,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3558473,
+          37.7884969
+        ]
+      },
+      "properties": {
+        "article_id": "https://oaklandside.org/2026/02/17/oakland-ca-weather-flood-advisory/",
+        "title": "Flood advisory in effect for Bay Area shoreline",
+        "source": "The Oaklandside",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-17T08:00:00Z",
+        "url": "https://oaklandside.org/2026/02/17/oakland-ca-weather-flood-advisory/",
+        "mention_text": "Bay Area",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco Bay Area, San Francisco, California, 94110, United States",
+        "osm_type": "region",
+        "osm_id": 2157162589,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7776556,
+          39.0505411
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cleveland.com/weather/2026/02/flood-advisory-issued-for-lake-county-as-ice-jam-triggers-flooding-along-grand-river.html",
+        "title": "Flood advisory issued for Lake County as ice jam triggers flooding along Grand River",
+        "source": "Cleveland.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-18T08:00:00Z",
+        "url": "https://www.cleveland.com/weather/2026/02/flood-advisory-issued-for-lake-county-as-ice-jam-triggers-flooding-along-grand-river.html",
+        "mention_text": "Lake County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Lake County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396502,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9625633,
+          40.8192917
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cleveland.com/weather/2026/02/flood-advisory-issued-for-lake-county-as-ice-jam-triggers-flooding-along-grand-river.html",
+        "title": "Flood advisory issued for Lake County as ice jam triggers flooding along Grand River",
+        "source": "Cleveland.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-18T08:00:00Z",
+        "url": "https://www.cleveland.com/weather/2026/02/flood-advisory-issued-for-lake-county-as-ice-jam-triggers-flooding-along-grand-river.html",
+        "mention_text": "Grand River",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Grand River, Decatur County, Iowa, United States",
+        "osm_type": "administrative",
+        "osm_id": 129179,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4041622,
+          40.0757384
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nj.com/weather-alerts/2026/02/coastal-flood-advisory-issued-for-4-n-j-counties-until-early-monday-evening.html",
+        "title": "Update: Coastal flood advisory issued for 4 N.J. counties until early Monday evening",
+        "source": "NJ.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-23T08:00:00Z",
+        "url": "https://www.nj.com/weather-alerts/2026/02/coastal-flood-advisory-issued-for-4-n-j-counties-until-early-monday-evening.html",
+        "mention_text": "N.J.",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 224951,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article314763801.html",
+        "title": "UPDATE: Flood advisory in place for Los Angeles Thursday afternoon due to excessive rain",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-19T08:00:00Z",
+        "url": "https://www.sacbee.com/news/weather-news/article314763801.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailybreeze.com/2026/02/17/flood-advisory-for-los-angeles-and-ventura-counties-until-wednesday-morning-triggered-by-substantial-rainfall/",
+        "title": "Update: Flood advisory for Los Angeles County until Wednesday morning triggered by substantial rainfall",
+        "source": "Daily Breeze",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-17T08:00:00Z",
+        "url": "https://www.dailybreeze.com/2026/02/17/flood-advisory-for-los-angeles-and-ventura-counties-until-wednesday-morning-triggered-by-substantial-rainfall/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pasadenastarnews.com/2026/02/17/flood-advisory-for-los-angeles-and-ventura-counties-until-wednesday-morning-triggered-by-substantial-rainfall/",
+        "title": "Update: Flood advisory for Los Angeles County until Wednesday morning triggered by substantial rainfall",
+        "source": "Pasadena Star News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-17T08:00:00Z",
+        "url": "https://www.pasadenastarnews.com/2026/02/17/flood-advisory-for-los-angeles-and-ventura-counties-until-wednesday-morning-triggered-by-substantial-rainfall/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8722311,
+          33.750631
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article314720273.html",
+        "title": "UPDATE: Flood advisory issued for Orange County early Monday evening, says the NWS",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-16T08:00:00Z",
+        "url": "https://www.sacbee.com/news/weather-news/article314720273.html",
+        "mention_text": "Orange County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Orange County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396466,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.387742,
+          36.2231079
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article314735760.html",
+        "title": "UPDATE: The current flood advisory for Monterey County will expire at 8:30 p.m.",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-17T08:00:00Z",
+        "url": "https://www.sacbee.com/news/weather-news/article314735760.html",
+        "mention_text": "Monterey County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Monterey County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396485,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3488201,
+          39.5980987
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nj.com/weather-alerts/2026/02/coastal-flood-advisory-in-place-for-salem-county-for-monday.html",
+        "title": "Update: The current coastal flood advisory for Salem County will be expiring at 4 a.m.",
+        "source": "NJ.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-22T08:00:00Z",
+        "url": "https://www.nj.com/weather-alerts/2026/02/coastal-flood-advisory-in-place-for-salem-county-for-monday.html",
+        "mention_text": "Salem County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Salem County, New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 1863173,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article314728941.html",
+        "title": "UPDATE: The current flood advisory for North Bay will be expiring at 10:15 a.m.",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-17T08:00:00Z",
+        "url": "https://www.sacbee.com/news/weather-news/article314728941.html",
+        "mention_text": "North Bay",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7304882,
+          48.0074736
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.king5.com/article/news/local/man-drowns-after-driving-car-onto-flooded-road-snohomish-county/281-62d94971-e1c2-4b88-a1c5-a5a463d71716",
+        "title": "Man drowns after driving car onto flooded road in Snohomish County",
+        "source": "KING5.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-16T08:00:00Z",
+        "url": "https://www.king5.com/article/news/local/man-drowns-after-driving-car-onto-flooded-road-snohomish-county/281-62d94971-e1c2-4b88-a1c5-a5a463d71716",
+        "mention_text": "Snohomish County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Snohomish County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153766,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4353385,
+          37.7950559
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article314719332.html",
+        "title": "UPDATE: Flood advisory affecting Northern California until early Monday evening",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-16T08:00:00Z",
+        "url": "https://www.sacbee.com/news/weather-news/article314719332.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Vedanta Society of Northern California, 2323, Vallejo Street, Cow Hollow, San Francisco, California, 94123, United States",
+        "osm_type": "place_of_worship",
+        "osm_id": 11347413508,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.737257,
+          43.9792797
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.koin.com/local/oregon-coast/flood-advisory-issued-for-northwest-oregon-as-atmospheric-river-moves-in/",
+        "title": "Flood advisory issued for northwest Oregon as atmospheric river moves in",
+        "source": "KOIN.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-05T08:00:00Z",
+        "url": "https://www.koin.com/local/oregon-coast/flood-advisory-issued-for-northwest-oregon-as-atmospheric-river-moves-in/",
+        "mention_text": "Oregon",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oregon, United States",
+        "osm_type": "administrative",
+        "osm_id": 165476,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8722311,
+          33.750631
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ocregister.com/2025/12/24/update-flood-advisory-in-place-for-orange-county-until-wednesday-afternoon-triggered-by-significant-downpours/",
+        "title": "Update: Flood advisory in place for Orange County until Wednesday afternoon triggered by significant downpours",
+        "source": "Orange County Register",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-24T08:00:00Z",
+        "url": "https://www.ocregister.com/2025/12/24/update-flood-advisory-in-place-for-orange-county-until-wednesday-afternoon-triggered-by-significant-downpours/",
+        "mention_text": "Orange County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Orange County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396466,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7332784,
+          48.4596092
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cascadiadaily.com/2025/dec/19/with-flood-evacuation-notices-lifted-skagit-county-grapples-with-damage/",
+        "title": "With flood evacuation notices lifted, Skagit County grapples with damage",
+        "source": "Cascadia Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-19T08:00:00Z",
+        "url": "https://www.cascadiadaily.com/2025/dec/19/with-flood-evacuation-notices-lifted-skagit-county-grapples-with-damage/",
+        "mention_text": "Skagit County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Skagit County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153763,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3218414,
+          38.4898675
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article314194688.html",
+        "title": "UPDATE: Flood advisory active for Napa County Monday evening caused by prolonged rain",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-01-05T08:00:00Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article314194688.html",
+        "mention_text": "Napa County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Napa County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396463,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7907554,
+          41.1763139
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/01/westchester-county-placed-under-a-coastal-flood-advisory-sunday.html",
+        "title": "Update: Westchester County placed under a coastal flood advisory until Sunday afternoon",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-01-31T08:00:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/01/westchester-county-placed-under-a-coastal-flood-advisory-sunday.html",
+        "mention_text": "Westchester County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Westchester County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1838027,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.4890944,
+          45.8133608
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.oregonlive.com/weather-alerts/2026/01/coastal-flood-advisory-for-clatsop-county-coast-and-tillamook-county-coast-until-friday-afternoon.html",
+        "title": "Update: Coastal flood advisory for Clatsop County Coast and Tillamook County Coast until Sunday afternoon",
+        "source": "OregonLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-01-02T08:00:00Z",
+        "url": "https://www.oregonlive.com/weather-alerts/2026/01/coastal-flood-advisory-for-clatsop-county-coast-and-tillamook-county-coast-until-friday-afternoon.html",
+        "mention_text": "Clatsop County Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Coast Range Summit, Clatsop County, Oregon, United States",
+        "osm_type": "yes",
+        "osm_id": 2633762033,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.9163674,
+          45.5545418
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.oregonlive.com/weather-alerts/2026/01/coastal-flood-advisory-for-clatsop-county-coast-and-tillamook-county-coast-until-friday-afternoon.html",
+        "title": "Update: Coastal flood advisory for Clatsop County Coast and Tillamook County Coast until Sunday afternoon",
+        "source": "OregonLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-01-02T08:00:00Z",
+        "url": "https://www.oregonlive.com/weather-alerts/2026/01/coastal-flood-advisory-for-clatsop-county-coast-and-tillamook-county-coast-until-friday-afternoon.html",
+        "mention_text": "Tillamook County Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "U.S. Coast Guard - Station Tillamook Bay, 1, Garibaldi, Tillamook County, Oregon, 97118, United States",
+        "osm_type": "military",
+        "osm_id": 875463178,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article314169416.html",
+        "title": "UPDATE: Flood advisory for San Bernardino County Sunday night triggered by downpours",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-01-04T08:00:00Z",
+        "url": "https://www.modbee.com/news/weather-news/article314169416.html",
+        "mention_text": "San Bernardino County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.99059,
+          37.050096
+        ]
+      },
+      "properties": {
+        "article_id": "https://lookout.co/beach-hazards-coastal-flood-advisory-in-effect-this-week-for-santa-cruz-county/story",
+        "title": "Beach hazards, coastal flood advisory in effect this week for Santa Cruz County",
+        "source": "Lookout Santa Cruz",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-01T08:00:00Z",
+        "url": "https://lookout.co/beach-hazards-coastal-flood-advisory-in-effect-this-week-for-santa-cruz-county/story",
+        "mention_text": "Santa Cruz County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Santa Cruz County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 7870163,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3218414,
+          38.4898675
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/01/05/flood-advisory-in-place-for-napa-county-early-monday-evening-due-to-persistent-downpours/",
+        "title": "Flood advisory in place for Napa County early Monday evening due to persistent downpours",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-01-05T08:00:00Z",
+        "url": "https://www.eastbaytimes.com/2026/01/05/flood-advisory-in-place-for-napa-county-early-monday-evening-due-to-persistent-downpours/",
+        "mention_text": "Napa County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Napa County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396463,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6199638,
+          38.0409144
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article314191125.html",
+        "title": "UPDATE: Flood advisory previously issued for Marin and Sonoma counties will expire at 12:30 a.m.",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-01-07T08:00:00Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article314191125.html",
+        "mention_text": "Marin",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Marin County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396461,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8473388,
+          38.5110803
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article314191125.html",
+        "title": "UPDATE: Flood advisory previously issued for Marin and Sonoma counties will expire at 12:30 a.m.",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-01-07T08:00:00Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article314191125.html",
+        "mention_text": "Sonoma",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Sonoma County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396468,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pasadenastarnews.com/2025/12/24/update-flood-advisory-active-for-los-angeles-and-ventura-counties-until-early-wednesday-evening/",
+        "title": "Update: Flood advisory active for Los Angeles and Ventura counties until early Wednesday evening",
+        "source": "Pasadena Star News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-24T08:00:00Z",
+        "url": "https://www.pasadenastarnews.com/2025/12/24/update-flood-advisory-active-for-los-angeles-and-ventura-counties-until-early-wednesday-evening/",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0779359,
+          34.4458248
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pasadenastarnews.com/2025/12/24/update-flood-advisory-active-for-los-angeles-and-ventura-counties-until-early-wednesday-evening/",
+        "title": "Update: Flood advisory active for Los Angeles and Ventura counties until early Wednesday evening",
+        "source": "Pasadena Star News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-24T08:00:00Z",
+        "url": "https://www.pasadenastarnews.com/2025/12/24/update-flood-advisory-active-for-los-angeles-and-ventura-counties-until-early-wednesday-evening/",
+        "mention_text": "Ventura",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ventura County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396505,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1775918,
+          34.2396206
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ksby.com/weather/todays-forecast/flood-advisory-issued-for-san-luis-obispo-county",
+        "title": "Flood advisory issued for all of the Central Coast",
+        "source": "KSBY News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-01-04T20:33:29Z",
+        "url": "https://www.ksby.com/weather/todays-forecast/flood-advisory-issued-for-san-luis-obispo-county",
+        "mention_text": "the Central Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Girl Scouts Of California's Central Coast, Town Center Drive, The Collection at RiverPark, Oxnard, Ventura County, California, 93036, United States",
+        "osm_type": "scout",
+        "osm_id": 12008274444,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article314117240.html",
+        "title": "San Diego County placed under a flood advisory until early Friday evening, says the NWS",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-01-02T08:00:00Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article314117240.html",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4353385,
+          37.7950559
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article314511769.html",
+        "title": "UPDATE: Coastal flood advisory issued for Northern California until Sunday midday",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-01-30T08:00:00Z",
+        "url": "https://www.modbee.com/news/weather-news/article314511769.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Vedanta Society of Northern California, 2323, Vallejo Street, Cow Hollow, San Francisco, California, 94123, United States",
+        "osm_type": "place_of_worship",
+        "osm_id": 11347413508,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2025/12/new-york-manhattan-county-under-a-coastal-flood-advisory-friday.html",
+        "title": "New York (Manhattan) County under a coastal flood advisory Friday",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-18T08:00:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2025/12/new-york-manhattan-county-under-a-coastal-flood-advisory-friday.html",
+        "mention_text": "New York",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9855319,
+          40.7579554
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2025/12/new-york-manhattan-county-under-a-coastal-flood-advisory-friday.html",
+        "title": "New York (Manhattan) County under a coastal flood advisory Friday",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-18T08:00:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2025/12/new-york-manhattan-county-under-a-coastal-flood-advisory-friday.html",
+        "mention_text": "Manhattan",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Manhattan, New York County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 8398124,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3896929,
+          43.3380689
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2025/11/lakeshore-flood-advisory-issued-for-western-new-york-until-thursday-morning.html",
+        "title": "Update: Lakeshore flood advisory issued for Western New York until Thursday morning",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-11-26T08:00:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2025/11/lakeshore-flood-advisory-issued-for-western-new-york-until-thursday-morning.html",
+        "mention_text": "Western New York",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Town of Western, Oneida County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 3669591,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8722311,
+          33.750631
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ocregister.com/2026/01/01/flood-advisory-issued-for-orange-county-until-thursday-morning-caused-by-significant-rain/",
+        "title": "Flood advisory issued for Orange County until Thursday morning caused by significant rain",
+        "source": "Orange County Register",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-01-01T08:00:00Z",
+        "url": "https://www.ocregister.com/2026/01/01/flood-advisory-issued-for-orange-county-until-thursday-morning-caused-by-significant-rain/",
+        "mention_text": "Orange County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Orange County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396466,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.masslive.com/weather-alerts/2026/01/coastal-flood-advisory-affecting-4-massachusetts-counties-sunday-and-monday.html",
+        "title": "Update: Coastal flood advisory affecting 7 Massachusetts counties until Monday afternoon",
+        "source": "MassLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-01-31T08:00:00Z",
+        "url": "https://www.masslive.com/weather-alerts/2026/01/coastal-flood-advisory-affecting-4-massachusetts-counties-sunday-and-monday.html",
+        "mention_text": "Massachusetts",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 61315,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercedsunstar.com/news/weather-news/article314176599.html",
+        "title": "UPDATE: San Diego County placed under a flood advisory until 3 a.m. Monday",
+        "source": "Merced Sun-Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-01-05T08:00:00Z",
+        "url": "https://www.mercedsunstar.com/news/weather-news/article314176599.html",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7776556,
+          39.0505411
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article314193885.html",
+        "title": "UPDATE: Flood advisory issued for Lake County until Tuesday morning, says the NWS",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-01-07T08:00:00Z",
+        "url": "https://www.modbee.com/news/weather-news/article314193885.html",
+        "mention_text": "Lake County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Lake County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396502,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcbayarea.com/news/local/flood-advisory-napa-sonoma-counties/4003798/",
+        "title": "Weather alert upgraded to flood advisory in North Bay",
+        "source": "NBC Bay Area",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-26T08:00:00Z",
+        "url": "https://www.nbcbayarea.com/news/local/flood-advisory-napa-sonoma-counties/4003798/",
+        "mention_text": "North Bay",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2501729,
+          34.0247371
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.army.mil/article/289533/7th_infantry_divisions_yakima_dustoff_executes_successful_flood_evacuation_in_central_washington",
+        "title": "7th Infantry Division\u2019s Yakima DUSTOFF Executes Successful Flood Evacuation in Central Washington",
+        "source": "army.mil",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-11T08:00:00Z",
+        "url": "https://www.army.mil/article/289533/7th_infantry_divisions_yakima_dustoff_executes_successful_flood_evacuation_in_central_washington",
+        "mention_text": "Central Washington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Central & Washington, South Central Avenue, Los Angeles, Los Angeles County, California, 90021, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 9933926702,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7737991,
+          37.1716264
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercedsunstar.com/news/weather-news/article314166025.html",
+        "title": "UPDATE: Flood advisory in place for Madera and Mariposa counties Sunday night",
+        "source": "Merced Sun-Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-01-04T08:00:00Z",
+        "url": "https://www.mercedsunstar.com/news/weather-news/article314166025.html",
+        "mention_text": "Madera",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Madera County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396488,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9036592,
+          37.570148
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercedsunstar.com/news/weather-news/article314166025.html",
+        "title": "UPDATE: Flood advisory in place for Madera and Mariposa counties Sunday night",
+        "source": "Merced Sun-Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-01-04T08:00:00Z",
+        "url": "https://www.mercedsunstar.com/news/weather-news/article314166025.html",
+        "mention_text": "Mariposa",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Mariposa County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396465,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.530272,
+          46.6540065
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yakimaherald.com/news/local/weather/flood-evacuation-warning-expands-to-selah-area-donald-bridge-closed/article_f5020f9a-02dd-496e-aa2f-6cf3ad2d349a.html",
+        "title": "Flood evacuation warning expands to Selah area; Donald Bridge closed",
+        "source": "Yakima Herald-Republic",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-09T08:00:00Z",
+        "url": "https://www.yakimaherald.com/news/local/weather/flood-evacuation-warning-expands-to-selah-area-donald-bridge-closed/article_f5020f9a-02dd-496e-aa2f-6cf3ad2d349a.html",
+        "mention_text": "Selah",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Selah, Yakima County, Washington, 98942, United States",
+        "osm_type": "administrative",
+        "osm_id": 237294,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.510842,
+          46.601557
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yakimaherald.com/news/local/weather/yakima-area-flood-evacuation-warnings-to-stay-in-place-into-next-week-planning-underway-for/article_95a51834-5d9d-46c9-b8da-9284892f60f4.html",
+        "title": "Yakima area flood evacuation warnings to stay in place into next week; planning underway for U.S. 12 repairs in Naches",
+        "source": "Yakima Herald-Republic",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-12T20:02:17Z",
+        "url": "https://www.yakimaherald.com/news/local/weather/yakima-area-flood-evacuation-warnings-to-stay-in-place-into-next-week-planning-underway-for/article_95a51834-5d9d-46c9-b8da-9284892f60f4.html",
+        "mention_text": "Yakima",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Yakima, Yakima County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 237752,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.445882,
+          39.7837304
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yakimaherald.com/news/local/weather/yakima-area-flood-evacuation-warnings-to-stay-in-place-into-next-week-planning-underway-for/article_95a51834-5d9d-46c9-b8da-9284892f60f4.html",
+        "title": "Yakima area flood evacuation warnings to stay in place into next week; planning underway for U.S. 12 repairs in Naches",
+        "source": "Yakima Herald-Republic",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-12T20:02:17Z",
+        "url": "https://www.yakimaherald.com/news/local/weather/yakima-area-flood-evacuation-warnings-to-stay-in-place-into-next-week-planning-underway-for/article_95a51834-5d9d-46c9-b8da-9284892f60f4.html",
+        "mention_text": "U.S.",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "United States",
+        "osm_type": "administrative",
+        "osm_id": 148838,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2501729,
+          34.0247371
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dvidshub.net/video/990325/7th-infantry-divisions-yakima-dustoff-executes-successful-flood-evacuation-central-washington",
+        "title": "7th Infantry Division\u2019s Yakima DUSTOFF Executes Successful Flood Evacuation in Central Washington",
+        "source": "DVIDS",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-15T08:00:00Z",
+        "url": "https://www.dvidshub.net/video/990325/7th-infantry-divisions-yakima-dustoff-executes-successful-flood-evacuation-central-washington",
+        "mention_text": "Central Washington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Central & Washington, South Central Avenue, Los Angeles, Los Angeles County, California, 90021, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 9933926702,
+        "run_at": "2026-03-15T17:22:48.919380+00:00"
+      }
+    }
+  ],
+  "_metadata": {
+    "description": "Flood news geocoder \u2014 nightly ETL output",
+    "last_updated": "2026-03-15T17:22:48.920042+00:00",
+    "total_features": 118
+  }
+}
