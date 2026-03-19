@@ -5928,11 +5928,1649 @@
         "osm_id": 10110556090,
         "run_at": "2026-03-18T07:09:47.609669+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wistv.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "WIS News 10",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.wistv.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wcjb.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "WCJB",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.wcjb.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wbrc.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "WBRC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.wbrc.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.actionnews5.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "Action News 5",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.actionnews5.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kttc.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "KTTC | Rochester, MN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.kttc.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox8live.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "fox8live.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.fox8live.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.firstalert4.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "KMOV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.firstalert4.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kltv.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "KLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.kltv.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9625633,
+          40.8192917
+        ]
+      },
+      "properties": {
+        "article_id": "https://wwmt.com/news/local/minor-flood-warning-grand-river-comstock-park-12-feet-national-oceanic-atmospheric-administration-noaa-weather-service-kent-county",
+        "title": "Minor flood warning issued for Grand River in Comstock Park through Sunday",
+        "source": "WWMT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-18T17:31:16Z",
+        "url": "https://wwmt.com/news/local/minor-flood-warning-grand-river-comstock-park-12-feet-national-oceanic-atmospheric-administration-noaa-weather-service-kent-county",
+        "mention_text": "Grand River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Grand River, Decatur County, Iowa, United States",
+        "osm_type": "administrative",
+        "osm_id": 129179,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6794889,
+          43.0436436
+        ]
+      },
+      "properties": {
+        "article_id": "https://wwmt.com/news/local/minor-flood-warning-grand-river-comstock-park-12-feet-national-oceanic-atmospheric-administration-noaa-weather-service-kent-county",
+        "title": "Minor flood warning issued for Grand River in Comstock Park through Sunday",
+        "source": "WWMT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-18T17:31:16Z",
+        "url": "https://wwmt.com/news/local/minor-flood-warning-grand-river-comstock-park-12-feet-national-oceanic-atmospheric-administration-noaa-weather-service-kent-county",
+        "mention_text": "Comstock Park",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Comstock Park, Kent County, Michigan, United States",
+        "osm_type": "census",
+        "osm_id": 134449,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox5vegas.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "FOX5 Vegas",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.fox5vegas.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wabi.tv/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "WABI",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.wabi.tv/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.827093,
+          47.5289527
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.king5.com/article/weather/severe-weather/flood-watch-western-washington-atmospheric-river/281-4a3996a4-d103-4edb-862d-ec50b1042beb",
+        "title": "Flood Warning issued for stretches of Snoqualmie, Tolt rivers in western Washington",
+        "source": "KING5.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T15:36:00Z",
+        "url": "https://www.king5.com/article/weather/severe-weather/flood-watch-western-washington-atmospheric-river/281-4a3996a4-d103-4edb-862d-ec50b1042beb",
+        "mention_text": "Snoqualmie",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Snoqualmie, King County, Washington, 98065, United States",
+        "osm_type": "administrative",
+        "osm_id": 237879,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0365427,
+          38.8950368
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.king5.com/article/weather/severe-weather/flood-watch-western-washington-atmospheric-river/281-4a3996a4-d103-4edb-862d-ec50b1042beb",
+        "title": "Flood Warning issued for stretches of Snoqualmie, Tolt rivers in western Washington",
+        "source": "KING5.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T15:36:00Z",
+        "url": "https://www.king5.com/article/weather/severe-weather/flood-watch-western-washington-atmospheric-river/281-4a3996a4-d103-4edb-862d-ec50b1042beb",
+        "mention_text": "Washington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Washington, District of Columbia, United States",
+        "osm_type": "city",
+        "osm_id": 5396194,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtoc.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "WTOC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.wtoc.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.northernnewsnow.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "Northern News Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.northernnewsnow.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wsaw.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "WSAW",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.wsaw.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wbay.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "WBAY",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.wbay.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kold.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "KOLD",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.kold.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wrdw.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "WRDW",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.wrdw.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wect.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "WECT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.wect.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wndu.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "WNDU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.wndu.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.witn.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "WITN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.witn.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wafb.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "WAFB",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.wafb.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wbko.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "WBKO",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.wbko.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.uppermichiganssource.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "Upper Michigan's Source",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.uppermichiganssource.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.13abc.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "WTVG",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.13abc.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wvlt.tv/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "WVLT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.wvlt.tv/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dakotanewsnow.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "Dakota News Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.dakotanewsnow.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wkyt.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "WKYT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.wkyt.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kwch.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "KWCH",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.kwch.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kswo.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "KSWO 7News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.kswo.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdtv.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "WDTV 5",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.wdtv.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ksnblocal4.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "KSNB",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.ksnblocal4.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ky3.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "KY3",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.ky3.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kmvt.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "KMVT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.kmvt.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox19.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "FOX19 | Cincinnati",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.fox19.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.knopnews2.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "knopnews2.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.knopnews2.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.keyc.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "KEYC News Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.keyc.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wagmtv.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "WAGM",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.wagmtv.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtap.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "WTAP",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.wtap.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wjhg.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "WJHG",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.wjhg.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.webcenterfairbanks.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "KTVF Fairbanks",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.webcenterfairbanks.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wbtv.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "WBTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.wbtv.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.hawaiinewsnow.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "Hawaii News Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.hawaiinewsnow.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kotatv.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "KOTA Territory News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.kotatv.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtok.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "WTOK",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.wtok.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newschannel10.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "KFDA | NewsChannel 10",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.newschannel10.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.213342,
+          41.5421375
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/03/flood-advisory-active-for-kent-and-ottawa-counties-until-2-a-m-edt-wednesday-caused-by-persistent-do.html",
+        "title": "Update: Flood advisory active for Kent and Ottawa counties until 2 a.m. EDT Wednesday caused by persistent downpours",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-11T01:15:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/03/flood-advisory-active-for-kent-and-ottawa-counties-until-2-a-m-edt-wednesday-caused-by-persistent-do.html",
+        "mention_text": "Ottawa",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ottawa County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 350380,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.272863,
+          37.8708393
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.berkeleyside.org/2026/02/17/richmond-ca-weather-flood-advisory",
+        "title": "Coastal flood advisory issued for area including Berkeley shoreline",
+        "source": "Berkeleyside",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-17T08:00:00Z",
+        "url": "https://www.berkeleyside.org/2026/02/17/richmond-ca-weather-flood-advisory",
+        "mention_text": "Berkeley",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Berkeley, Alameda County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 2833528,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.899142,
+          37.6090291
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article314755919.html",
+        "title": "UPDATE: Flood advisory for Alameda County Thursday morning, says the NWS",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-19T08:00:00Z",
+        "url": "https://www.modbee.com/news/weather-news/article314755919.html",
+        "mention_text": "Alameda County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Alameda County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396499,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.985823,
+          34.7136533
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article314758719.html",
+        "title": "UPDATE: Santa Barbara County placed under a flood advisory Thursday morning",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-19T08:00:00Z",
+        "url": "https://www.modbee.com/news/weather-news/article314758719.html",
+        "mention_text": "Santa Barbara County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Santa Barbara County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396510,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1310761,
+          29.0533409
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wftv.com/news/local/flood-advisory-issued-orange-county/ZRUPRF556JFNHOBKOWFJHX2O3I/",
+        "title": "Flood advisory issued as heavy rains hit northern Volusia County",
+        "source": "WFTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-09-09T07:00:00Z",
+        "url": "https://www.wftv.com/news/local/flood-advisory-issued-orange-county/ZRUPRF556JFNHOBKOWFJHX2O3I/",
+        "mention_text": "Volusia County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Volusia County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 389025,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whittierdailynews.com/2026/01/04/flood-advisory-issued-for-los-angeles-county-until-sunday-night-caused-by-substantial-rainfall/",
+        "title": "Flood advisory issued for Los Angeles County until Sunday night caused by substantial rainfall",
+        "source": "Whittier Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-01-04T08:00:00Z",
+        "url": "https://www.whittierdailynews.com/2026/01/04/flood-advisory-issued-for-los-angeles-county-until-sunday-night-caused-by-substantial-rainfall/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.4890944,
+          45.8133608
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.oregonlive.com/weather-alerts/2025/12/coastal-flood-advisory-issued-for-clatsop-county-coast-for-saturday.html",
+        "title": "Coastal flood advisory issued for Clatsop County Coast for Saturday",
+        "source": "OregonLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-04T08:00:00Z",
+        "url": "https://www.oregonlive.com/weather-alerts/2025/12/coastal-flood-advisory-issued-for-clatsop-county-coast-for-saturday.html",
+        "mention_text": "Clatsop County Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Coast Range Summit, Clatsop County, Oregon, United States",
+        "osm_type": "yes",
+        "osm_id": 2633762033,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/articles/coastal-flood-advisory-issued-four-141140069.html",
+        "title": "Coastal flood advisory issued for four Mass. counties through Monday evening",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-23T08:00:00Z",
+        "url": "https://www.yahoo.com/news/articles/coastal-flood-advisory-issued-four-141140069.html",
+        "mention_text": "Mass.",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 61315,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4030376,
+          37.7887644
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2025/12/25/flood-advisory-for-northern-california-until-3-a-m-thursday-caused-by-prolonged-downpours/",
+        "title": "Flood advisory for Northern California until 3 a.m. Thursday caused by prolonged downpours",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-25T08:00:00Z",
+        "url": "https://www.eastbaytimes.com/2025/12/25/flood-advisory-for-northern-california-until-3-a-m-thursday-caused-by-prolonged-downpours/",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "First National Bank of Northern California, Post Street, Transbay, Union Square, South of Market, San Francisco, California, 94108, United States",
+        "osm_type": "bank",
+        "osm_id": 32946665,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2305038,
+          45.1608821
+        ]
+      },
+      "properties": {
+        "article_id": "https://lakeoswegoreview.com/2025/12/23/clackamas-county-lifts-flood-evacuation-orders/",
+        "title": "Clackamas County lifts flood evacuation orders",
+        "source": "Lake Oswego Review",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-23T08:00:00Z",
+        "url": "https://lakeoswegoreview.com/2025/12/23/clackamas-county-lifts-flood-evacuation-orders/",
+        "mention_text": "Clackamas County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Clackamas County, Oregon, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837105,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0010734,
+          45.0362527
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2025/12/coastal-flood-advisory-affecting-southwest-suffolk-and-southeast-suffolk-friday.html",
+        "title": "Update: Coastal flood advisory affecting Northeast Suffolk and Southeast Suffolk until Friday afternoon",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-18T08:00:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2025/12/coastal-flood-advisory-affecting-southwest-suffolk-and-southeast-suffolk-friday.html",
+        "mention_text": "Northeast Suffolk",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Suffolk Lane Northeast, Marion County, Oregon, United States",
+        "osm_type": "residential",
+        "osm_id": 246366419,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.871157,
+          46.7952151
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2025/12/coastal-flood-advisory-affecting-southwest-suffolk-and-southeast-suffolk-friday.html",
+        "title": "Update: Coastal flood advisory affecting Northeast Suffolk and Southeast Suffolk until Friday afternoon",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-18T08:00:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2025/12/coastal-flood-advisory-affecting-southwest-suffolk-and-southeast-suffolk-friday.html",
+        "mention_text": "Southeast Suffolk",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Suffolk Drive Southeast, Mandan, Morton County, North Dakota, United States",
+        "osm_type": "residential",
+        "osm_id": 515862822,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5556156,
+          46.4824144
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2025/11/lakeshore-flood-advisory-affecting-luce-county-thursday-and-friday.html",
+        "title": "Update: Lakeshore flood advisory affecting Luce County until 1 a.m. EST Friday",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-11-25T08:00:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2025/11/lakeshore-flood-advisory-affecting-luce-county-thursday-and-friday.html",
+        "mention_text": "Luce County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Luce County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1898721,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4191791,
+          41.0389186
+        ]
+      },
+      "properties": {
+        "article_id": "https://columbiacountyspotlight.com/2025/12/09/atmospheric-river-prompts-flood-advisory-in-columbia-county-cities-offer-free-sandbags/",
+        "title": "Atmospheric river prompts flood advisory in Columbia County; cities offer free sandbags",
+        "source": "Columbia County Spotlight",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-09T08:00:00Z",
+        "url": "https://columbiacountyspotlight.com/2025/12/09/atmospheric-river-prompts-flood-advisory-in-columbia-county-cities-offer-free-sandbags/",
+        "mention_text": "Columbia County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Columbia County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417770,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.737257,
+          43.9792797
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.oregonlive.com/weather/2025/12/oregon-man-dies-after-driving-on-flooded-road-sheriffs-office-says.html",
+        "title": "Oregon man dies after driving on flooded road, sheriff\u2019s office says",
+        "source": "OregonLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-22T08:00:00Z",
+        "url": "https://www.oregonlive.com/weather/2025/12/oregon-man-dies-after-driving-on-flooded-road-sheriffs-office-says.html",
+        "mention_text": "Oregon",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oregon, United States",
+        "osm_type": "administrative",
+        "osm_id": 165476,
+        "run_at": "2026-03-19T07:07:42.931154+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-03-18T07:09:47.611168+00:00",
-    "total_features": 228
+    "last_updated": "2026-03-19T07:07:42.932900+00:00",
+    "total_features": 291
   }
 }
