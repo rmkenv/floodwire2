@@ -7566,11 +7566,713 @@
         "osm_id": 165476,
         "run_at": "2026-03-19T07:07:42.931154+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2580212,
+          41.5771005
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tricountyindependent.com/videos/news/local/2026/03/19/stormwater-repairs-underway-honesdale-after-2025-flash-flood/89214596007/",
+        "title": "Stormwater repairs underway in Honesdale after 2025 flash flood",
+        "source": "Tri-County Independent",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-18T07:00:00Z",
+        "url": "https://www.tricountyindependent.com/videos/news/local/2026/03/19/stormwater-repairs-underway-honesdale-after-2025-flash-flood/89214596007/",
+        "mention_text": "Honesdale",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Honesdale, Wayne County, Pennsylvania, 18431, United States",
+        "osm_type": "administrative",
+        "osm_id": 188582,
+        "run_at": "2026-03-20T07:01:43.215666+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9715967,
+          31.6429346
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flood-warning-active-for-hamilton-county-until-early-tuesday-evening-minor-flooding-is-ha.html",
+        "title": "NY weather: Flood warning active for Hamilton County until early Tuesday evening \u2013 minor flooding is happening",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T10:14:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flood-warning-active-for-hamilton-county-until-early-tuesday-evening-minor-flooding-is-ha.html",
+        "mention_text": "Hamilton County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Hamilton County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836993,
+        "run_at": "2026-03-20T07:01:43.215666+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sbsun.com/2025/12/24/flash-flood-warning-in-place-for-san-bernardino-county-until-wednesday-midday-unusual-damage-threat/",
+        "title": "Flash flood warning in place for San Bernardino County until Wednesday midday \u2013 unusual damage threat",
+        "source": "San Bernardino Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-24T08:00:00Z",
+        "url": "https://www.sbsun.com/2025/12/24/flash-flood-warning-in-place-for-san-bernardino-county-until-wednesday-midday-unusual-damage-threat/",
+        "mention_text": "San Bernardino County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-03-20T07:01:43.215666+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3330573,
+          37.496904
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcbayarea.com/news/local/flash-flood-destroys-cars-san-mateo-county/4004088/",
+        "title": "Christmas nightmare: Flash flood destroys multiple cars in San Mateo County",
+        "source": "NBC Bay Area",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-27T08:00:00Z",
+        "url": "https://www.nbcbayarea.com/news/local/flash-flood-destroys-cars-san-mateo-county/4004088/",
+        "mention_text": "San Mateo County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Mateo County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396498,
+        "run_at": "2026-03-20T07:01:43.215666+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://fox5sandiego.com/video/flash-flood-warning-issued-for-parts-of-san-diego-county/11391814/",
+        "title": "Flash Flood Warning issued for parts of San Diego County",
+        "source": "fox5sandiego.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-01-01T19:14:52Z",
+        "url": "https://fox5sandiego.com/video/flash-flood-warning-issued-for-parts-of-san-diego-county/11391814/",
+        "mention_text": "San Diego County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-03-20T07:01:43.215666+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1496489,
+          30.0492491
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.statesman.com/story/news/state/2025/07/07/guadalupe-river-flood-why-where-begin-end-texas-flash-flood-alley-flooding-map-hill-country/84492295007/",
+        "title": "Why did the Guadalupe River flood so fast? What to know about Texas' 'Flash Flood Alley'",
+        "source": "Austin American-Statesman",
+        "outlet_city": "Austin",
+        "outlet_region": "Texas",
+        "published_at": "2025-07-08T07:00:00Z",
+        "url": "https://www.statesman.com/story/news/state/2025/07/07/guadalupe-river-flood-why-where-begin-end-texas-flash-flood-alley-flooding-map-hill-country/84492295007/",
+        "mention_text": "Guadalupe River",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Guadalupe River, Kerrville, Kerr County, Texas, 78029, United States",
+        "osm_type": "river",
+        "osm_id": 590008369,
+        "run_at": "2026-03-20T07:01:43.215666+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3520606,
+          30.6108618
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.statesman.com/story/news/state/2025/07/07/guadalupe-river-flood-why-where-begin-end-texas-flash-flood-alley-flooding-map-hill-country/84492295007/",
+        "title": "Why did the Guadalupe River flood so fast? What to know about Texas' 'Flash Flood Alley'",
+        "source": "Austin American-Statesman",
+        "outlet_city": "Austin",
+        "outlet_region": "Texas",
+        "published_at": "2025-07-08T07:00:00Z",
+        "url": "https://www.statesman.com/story/news/state/2025/07/07/guadalupe-river-flood-why-where-begin-end-texas-flash-flood-alley-flooding-map-hill-country/84492295007/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas A&M University, 400, Bizzell Street, College Station, Brazos County, Texas, 77843, United States",
+        "osm_type": "university",
+        "osm_id": 8556620,
+        "run_at": "2026-03-20T07:01:43.215666+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.755997,
+          36.7014631
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.vcstar.com/story/weather/2025/12/26/weather-alert-flash-flooding-california-ventura-county/87917447007/",
+        "title": "California flash flood warning issued. Here's where, when rain will end",
+        "source": "Ventura County Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-26T08:00:00Z",
+        "url": "https://www.vcstar.com/story/weather/2025/12/26/weather-alert-flash-flooding-california-ventura-county/87917447007/",
+        "mention_text": "California",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "California, United States",
+        "osm_type": "administrative",
+        "osm_id": 165475,
+        "run_at": "2026-03-20T07:01:43.215666+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sbsun.com/2025/11/20/flash-flood-warning-affecting-san-bernardino-county-thursday-evening-immediate-action-advised/",
+        "title": "Flash flood warning affecting San Bernardino County Thursday evening \u2013 immediate action advised",
+        "source": "San Bernardino Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-11-20T08:00:00Z",
+        "url": "https://www.sbsun.com/2025/11/20/flash-flood-warning-affecting-san-bernardino-county-thursday-evening-immediate-action-advised/",
+        "mention_text": "San Bernardino County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-03-20T07:01:43.215666+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0874785,
+          29.5946554
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sfchronicle.com/bayarea/article/napa-flash-flood-warning-pickett-fire-burn-scar-21099095.php",
+        "title": "Heavy rainfall drenches Bay Area roads as flash flood alerts spread",
+        "source": "San Francisco Chronicle",
+        "outlet_city": "Houston",
+        "outlet_region": "Texas",
+        "published_at": "2025-10-13T07:00:00Z",
+        "url": "https://www.sfchronicle.com/bayarea/article/napa-flash-flood-warning-pickett-fire-burn-scar-21099095.php",
+        "mention_text": "Bay Area",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Bay Area Garden, Pasadena, Harris County, Texas, United States",
+        "osm_type": "village_green",
+        "osm_id": 86250304,
+        "run_at": "2026-03-20T07:01:43.215666+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailynews.com/2025/11/21/flash-flood-warning-affecting-los-angeles-county-until-3-a-m-friday-triggered-by-thunderstorms/",
+        "title": "Flash flood warning affecting Los Angeles County until 3 a.m. Friday triggered by thunderstorms",
+        "source": "Los Angeles Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-11-21T08:00:00Z",
+        "url": "https://www.dailynews.com/2025/11/21/flash-flood-warning-affecting-los-angeles-county-until-3-a-m-friday-triggered-by-thunderstorms/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-03-20T07:01:43.215666+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6244212,
+          41.8755616
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.weather.gov/lot/2025_07_08_ChicagoFlashFlood",
+        "title": "July 8, 2025: Localized Flash Flood Event in Chicago",
+        "source": "National Weather Service (.gov)",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-07-08T07:00:00Z",
+        "url": "https://www.weather.gov/lot/2025_07_08_ChicagoFlashFlood",
+        "mention_text": "Chicago",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Chicago, South Chicago Township, Cook County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 122604,
+        "run_at": "2026-03-20T07:01:43.215666+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pasadenastarnews.com/2025/12/26/flash-flood-warning-active-for-los-angeles-county-until-friday-midday-triggered-by-excessive-rainfall/",
+        "title": "Flash flood warning active for Los Angeles County until Friday midday triggered by excessive rainfall",
+        "source": "Pasadena Star News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-26T08:00:00Z",
+        "url": "https://www.pasadenastarnews.com/2025/12/26/flash-flood-warning-active-for-los-angeles-county-until-friday-midday-triggered-by-excessive-rainfall/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-03-20T07:01:43.215666+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2062682,
+          33.9510011
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pbs.org/newshour/nation/rare-october-storm-brings-heavy-rain-flash-flood-warnings-and-possible-mudslides-to-southern-california",
+        "title": "Rare October storm brings heavy rain, flash flood warnings and possible mudslides to Southern California",
+        "source": "PBS",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-10-14T07:00:00Z",
+        "url": "https://www.pbs.org/newshour/nation/rare-october-storm-brings-heavy-rain-flash-flood-warnings-and-possible-mudslides-to-southern-california",
+        "mention_text": "Southern California",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Southern @ California, Southern Avenue, South Gate, Los Angeles County, California, 90280, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 11056179472,
+        "run_at": "2026-03-20T07:01:43.215666+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4776682,
+          38.4651663
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbclosangeles.com/weather-news/la-rain-storm-tornado-forecast-flooding/3848259/",
+        "title": "Flash flood warning extended for parts of LA County. See the storm timeline",
+        "source": "NBC Los Angeles",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-16T08:00:00Z",
+        "url": "https://www.nbclosangeles.com/weather-news/la-rain-storm-tornado-forecast-flooding/3848259/",
+        "mention_text": "LA County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lane County, Kansas, 67839, United States",
+        "osm_type": "administrative",
+        "osm_id": 1070377,
+        "run_at": "2026-03-20T07:01:43.215666+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4226219,
+          37.7885259
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article314719332.html",
+        "title": "UPDATE: Flood advisory affecting Northern California until early Monday evening",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-16T08:00:00Z",
+        "url": "https://www.modbee.com/news/weather-news/article314719332.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Planned Parenthood Northern California, 1522, Bush Street, Western Addition, San Francisco, California, 94109, United States",
+        "osm_type": "clinic",
+        "osm_id": 10110556090,
+        "run_at": "2026-03-20T07:01:43.215666+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9760405,
+          40.4597204
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pennlive.com/weather-alerts/2026/02/flood-advisory-in-place-for-allegheny-county-until-sunday-morning.html",
+        "title": "Update: Flood advisory in place for Allegheny County until Sunday morning",
+        "source": "PennLive",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-20T08:00:00Z",
+        "url": "https://www.pennlive.com/weather-alerts/2026/02/flood-advisory-in-place-for-allegheny-county-until-sunday-morning.html",
+        "mention_text": "Allegheny County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Allegheny County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 2563472,
+        "run_at": "2026-03-20T07:01:43.215666+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article314655988.html",
+        "title": "UPDATE: The current flood advisory for Los Angeles will expire at 5 a.m.",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-11T08:00:00Z",
+        "url": "https://www.sacbee.com/news/weather-news/article314655988.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-03-20T07:01:43.215666+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8722311,
+          33.750631
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ocregister.com/2025/11/20/flood-advisory-for-orange-and-san-diego-counties-thursday-night/",
+        "title": "Flood advisory for Orange and San Diego counties Thursday night",
+        "source": "Orange County Register",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-11-20T08:00:00Z",
+        "url": "https://www.ocregister.com/2025/11/20/flood-advisory-for-orange-and-san-diego-counties-thursday-night/",
+        "mention_text": "Orange",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Orange County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396466,
+        "run_at": "2026-03-20T07:01:43.215666+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.162772,
+          32.7174202
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ocregister.com/2025/11/20/flood-advisory-for-orange-and-san-diego-counties-thursday-night/",
+        "title": "Flood advisory for Orange and San Diego counties Thursday night",
+        "source": "Orange County Register",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-11-20T08:00:00Z",
+        "url": "https://www.ocregister.com/2025/11/20/flood-advisory-for-orange-and-san-diego-counties-thursday-night/",
+        "mention_text": "San Diego",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego, San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 253832,
+        "run_at": "2026-03-20T07:01:43.215666+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4486983,
+          19.5895548
+        ]
+      },
+      "properties": {
+        "article_id": "https://bigislandnow.com/2026/01/04/update-flood-advisory-extended-until-145-p-m-today-for-southeast-big-island/",
+        "title": "UPDATE: Flood advisory extended through late this afternoon for southeast Big Island",
+        "source": "Big Island Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-01-04T08:00:00Z",
+        "url": "https://bigislandnow.com/2026/01/04/update-flood-advisory-extended-until-145-p-m-today-for-southeast-big-island/",
+        "mention_text": "Big Island",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hawai\u02bbi, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403603,
+        "run_at": "2026-03-20T07:01:43.215666+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2508646,
+          34.0242519
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dvidshub.net/video/989994/7th-infantry-divisions-yakima-dustoff-executes-successful-flood-evacuation-central-washington",
+        "title": "7th Infantry Division\u2019s Yakima DUSTOFF Executes Successful Flood Evacuation in Central Washington",
+        "source": "DVIDS",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-12T08:00:00Z",
+        "url": "https://www.dvidshub.net/video/989994/7th-infantry-divisions-yakima-dustoff-executes-successful-flood-evacuation-central-washington",
+        "mention_text": "Central Washington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Central & Washington, South Central Avenue, Los Angeles, Los Angeles County, California, 90021, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 9933926703,
+        "run_at": "2026-03-20T07:01:43.215666+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0090141,
+          41.3157314
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.masslive.com/weather-alerts/2026/02/coastal-flood-advisory-active-for-nantucket-county-until-monday-afternoon.html",
+        "title": "Coastal flood advisory active for Nantucket County until Monday afternoon",
+        "source": "MassLive",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-01T08:00:00Z",
+        "url": "https://www.masslive.com/weather-alerts/2026/02/coastal-flood-advisory-active-for-nantucket-county-until-monday-afternoon.html",
+        "mention_text": "Nantucket County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Nantucket Island, Nantucket, Massachusetts, United States",
+        "osm_type": "island",
+        "osm_id": 19468055,
+        "run_at": "2026-03-20T07:01:43.215666+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.4890944,
+          45.8133608
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.oregonlive.com/weather-alerts/2025/12/coastal-flood-advisory-affecting-clatsop-county-coast-and-tillamook-county-coast-monday.html",
+        "title": "Coastal flood advisory affecting Clatsop County Coast and Tillamook County Coast Monday",
+        "source": "OregonLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-07T08:00:00Z",
+        "url": "https://www.oregonlive.com/weather-alerts/2025/12/coastal-flood-advisory-affecting-clatsop-county-coast-and-tillamook-county-coast-monday.html",
+        "mention_text": "Clatsop County Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Coast Range Summit, Clatsop County, Oregon, United States",
+        "osm_type": "yes",
+        "osm_id": 2633762033,
+        "run_at": "2026-03-20T07:01:43.215666+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.9163674,
+          45.5545418
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.oregonlive.com/weather-alerts/2025/12/coastal-flood-advisory-affecting-clatsop-county-coast-and-tillamook-county-coast-monday.html",
+        "title": "Coastal flood advisory affecting Clatsop County Coast and Tillamook County Coast Monday",
+        "source": "OregonLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-07T08:00:00Z",
+        "url": "https://www.oregonlive.com/weather-alerts/2025/12/coastal-flood-advisory-affecting-clatsop-county-coast-and-tillamook-county-coast-monday.html",
+        "mention_text": "Tillamook County Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "U.S. Coast Guard - Station Tillamook Bay, 1, Garibaldi, Tillamook County, Oregon, 97118, United States",
+        "osm_type": "military",
+        "osm_id": 875463178,
+        "run_at": "2026-03-20T07:01:43.215666+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.567412,
+          42.8868859
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.lehighvalleylive.com/weather-alerts/2025/10/coastal-flood-advisory-in-place-for-southeast-pa-until-early-friday.html",
+        "title": "Update: Coastal flood advisory in place for Southeast Pa. until early Friday",
+        "source": "lehighvalleylive",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-10-30T07:00:00Z",
+        "url": "https://www.lehighvalleylive.com/weather-alerts/2025/10/coastal-flood-advisory-in-place-for-southeast-pa-until-early-friday.html",
+        "mention_text": "Southeast Pa.",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "East Pa Avenue Southeast, Kentwood, Kent County, Michigan, 49512, United States",
+        "osm_type": "tertiary",
+        "osm_id": 17847893,
+        "run_at": "2026-03-20T07:01:43.215666+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.899142,
+          37.6090291
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/02/19/flood-advisory-affecting-alameda-county-thursday-morning-triggered-by-persistent-downpours/",
+        "title": "Update: Flood advisory affecting Alameda County Thursday morning triggered by persistent downpours",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-19T08:00:00Z",
+        "url": "https://www.eastbaytimes.com/2026/02/19/flood-advisory-affecting-alameda-county-thursday-morning-triggered-by-persistent-downpours/",
+        "mention_text": "Alameda County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Alameda County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396499,
+        "run_at": "2026-03-20T07:01:43.215666+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-03-19T07:07:42.932900+00:00",
-    "total_features": 291
+    "last_updated": "2026-03-20T07:01:43.217682+00:00",
+    "total_features": 318
   }
 }
