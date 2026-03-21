@@ -8268,11 +8268,557 @@
         "osm_id": 396499,
         "run_at": "2026-03-20T07:01:43.215666+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5849305,
+          47.1057471
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theolympian.com/news/weather-news/article315135129.html",
+        "title": "Flood warning issued for Kittitas County until early Sunday evening",
+        "source": "The Olympian",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-20T23:55:07Z",
+        "url": "https://www.theolympian.com/news/weather-news/article315135129.html",
+        "mention_text": "Kittitas County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kittitas County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153345,
+        "run_at": "2026-03-21T06:46:50.174906+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5849305,
+          47.1057471
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thenewstribune.com/news/weather-news/article315135031.html",
+        "title": "Flood warning issued for Kittitas County for Saturday and Sunday, says the NWS",
+        "source": "Tacoma News Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-20T23:49:09Z",
+        "url": "https://www.thenewstribune.com/news/weather-news/article315135031.html",
+        "mention_text": "Kittitas County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kittitas County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153345,
+        "run_at": "2026-03-21T06:46:50.174906+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.584952,
+          42.9169316
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.news10.com/news/ny-news/nysdot-wins-award-for-bridge-strike-flash-flood-response/",
+        "title": "NYSDOT wins award for bridge strike, flash flood response",
+        "source": "NEWS10 ABC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-21T01:58:38Z",
+        "url": "https://www.news10.com/news/ny-news/nysdot-wins-award-for-bridge-strike-flash-flood-response/",
+        "mention_text": "NYSDOT",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "NYSDOT, West Clymer Street, City of Auburn, Cayuga County, New York, 13021, United States",
+        "osm_type": "works",
+        "osm_id": 4644382443,
+        "run_at": "2026-03-21T06:46:50.174906+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8828175,
+          48.8107819
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tri-cityherald.com/news/weather-news/article315133056.html",
+        "title": "UPDATE: Flood warning issued for Whatcom County until early Saturday morning",
+        "source": "Tri-City Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-21T00:49:07Z",
+        "url": "https://www.tri-cityherald.com/news/weather-news/article315133056.html",
+        "mention_text": "Whatcom County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Whatcom County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153762,
+        "run_at": "2026-03-21T06:46:50.174906+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.9091712,
+          33.5147895
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.staradvertiser.com/2026/03/20/breaking-news/flash-flood-emergency-declared-for-oahus-north-shore/",
+        "title": "Oahu flash flood warning extended; North Shore areas remain under evacuation order",
+        "source": "Honolulu Star-Advertiser",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-21T04:55:11Z",
+        "url": "https://www.staradvertiser.com/2026/03/20/breaking-news/flash-flood-emergency-declared-for-oahus-north-shore/",
+        "mention_text": "North Shore",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Shore, Riverside County, California, United States",
+        "osm_type": "census",
+        "osm_id": 18412412,
+        "run_at": "2026-03-21T06:46:50.174906+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.445882,
+          39.7837304
+        ]
+      },
+      "properties": {
+        "article_id": "https://creators.yahoo.com/lifestyle/story/march-madness-record-heatwaves-and-flash-flood-emergencies-sweep-the-us-024040209.html",
+        "title": "March Madness: Record Heatwaves and Flash Flood Emergencies Sweep the U.S.",
+        "source": "Yahoo Creators",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-21T02:44:45Z",
+        "url": "https://creators.yahoo.com/lifestyle/story/march-madness-record-heatwaves-and-flash-flood-emergencies-sweep-the-us-024040209.html",
+        "mention_text": "U.S.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "United States",
+        "osm_type": "administrative",
+        "osm_id": 148838,
+        "run_at": "2026-03-21T06:46:50.174906+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-ur9f49v9ylpsy8rl",
+        "title": "Flash Flood Emergency ongoing in Hawaii as more rain falls amid intense flooding",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-20T19:39:31Z",
+        "url": "https://www.foxweather.com/watch/fmc-ur9f49v9ylpsy8rl",
+        "mention_text": "Hawaii",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-03-21T06:46:50.174906+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.9091712,
+          33.5147895
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kitv.com/video/news/weather-alert-day-flash-flood-emergency-prompts-north-shore-evacuations-on-oahu/video_1c37c6cb-5a29-5435-bd08-5fa60c717d73.html",
+        "title": "Weather Alert Day | Flash flood emergency prompts North Shore evacuations on Oahu",
+        "source": "KITV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-20T21:17:00Z",
+        "url": "https://www.kitv.com/video/news/weather-alert-day-flash-flood-emergency-prompts-north-shore-evacuations-on-oahu/video_1c37c6cb-5a29-5435-bd08-5fa60c717d73.html",
+        "mention_text": "North Shore",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Shore, Riverside County, California, United States",
+        "osm_type": "census",
+        "osm_id": 18412412,
+        "run_at": "2026-03-21T06:46:50.174906+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theweathernetwork.com/en/news/weather/severe/flash-flood-emergencies-hit-hawaii-as-heavy-rain-returns",
+        "title": "Flash flood emergencies hit Hawaii as heavy rain returns",
+        "source": "The Weather Network",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-20T19:56:00Z",
+        "url": "https://www.theweathernetwork.com/en/news/weather/severe/flash-flood-emergencies-hit-hawaii-as-heavy-rain-returns",
+        "mention_text": "Hawaii",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-03-21T06:46:50.174906+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7846477,
+          33.1665316
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/03/flood-warning-issued-for-kent-county-until-saturday-midday-minor-flooding-is-happening.html",
+        "title": "Flood warning issued for Kent County until Saturday midday \u2013 minor flooding is happening",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-20T14:26:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/03/flood-warning-issued-for-kent-county-until-saturday-midday-minor-flooding-is-happening.html",
+        "mention_text": "Kent County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Kent County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1811588,
+        "run_at": "2026-03-21T06:46:50.174906+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.960511,
+          21.468151
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-c7k736kfl3pesbgx",
+        "title": "Flash Flood Emergency issued for Honolulu County, Hawaii as Kona Low dumps feet of rain on the Islands",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-20T13:33:27Z",
+        "url": "https://www.foxweather.com/watch/fmc-c7k736kfl3pesbgx",
+        "mention_text": "Honolulu County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Honolulu County, Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 3861844,
+        "run_at": "2026-03-21T06:46:50.174906+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-c7k736kfl3pesbgx",
+        "title": "Flash Flood Emergency issued for Honolulu County, Hawaii as Kona Low dumps feet of rain on the Islands",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-20T13:33:27Z",
+        "url": "https://www.foxweather.com/watch/fmc-c7k736kfl3pesbgx",
+        "mention_text": "Hawaii",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-03-21T06:46:50.174906+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modernghana.com/videonews/abc/1/626705/",
+        "title": "Flash flood emergency impacting Hawaii's Oahu Island",
+        "source": "Modern Ghana",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-20T20:17:32Z",
+        "url": "https://www.modernghana.com/videonews/abc/1/626705/",
+        "mention_text": "Hawaii",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-03-21T06:46:50.174906+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6219002,
+          43.5704073
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modernghana.com/videonews/abc/1/626705/",
+        "title": "Flash flood emergency impacting Hawaii's Oahu Island",
+        "source": "Modern Ghana",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-20T20:17:32Z",
+        "url": "https://www.modernghana.com/videonews/abc/1/626705/",
+        "mention_text": "Oahu Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Oahu Island, Town of Bolton, Warren County, New York, United States",
+        "osm_type": "islet",
+        "osm_id": 38341027,
+        "run_at": "2026-03-21T06:46:50.174906+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3105232,
+          20.7580586
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kitv.com/news/flood-warning-issued-for-flood-prone-areas-of-maui-county/article_ca96f4db-0c8b-4bf6-a53a-839c185f2c5f.html",
+        "title": "Flood Warning issued for flood-prone areas of Maui County",
+        "source": "KITV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-20T01:42:00Z",
+        "url": "https://www.kitv.com/news/flood-warning-issued-for-flood-prone-areas-of-maui-county/article_ca96f4db-0c8b-4bf6-a53a-839c185f2c5f.html",
+        "mention_text": "Maui County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Maui County, Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166561,
+        "run_at": "2026-03-21T06:46:50.174906+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wnem.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "title": "Flash flood destroys Maui couple's dream home",
+        "source": "WNEM",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T21:59:00Z",
+        "url": "https://www.wnem.com/video/2026/03/17/flash-flood-destroys-maui-couples-dream-home/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-21T06:46:50.174906+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6276904,
+          47.8012197
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theolympian.com/news/weather-news/article315134224.html",
+        "title": "Flood advisory in place for Chelan County until early Saturday morning",
+        "source": "The Olympian",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-20T22:30:06Z",
+        "url": "https://www.theolympian.com/news/weather-news/article315134224.html",
+        "mention_text": "Chelan County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Chelan County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153517,
+        "run_at": "2026-03-21T06:46:50.174906+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "http://www.weathernationtv.com/news/flash-flood-emergency-for-oahu-additional-rain-expected-for-hawaii",
+        "title": "Flash Flood Emergency for O'ahu, Additional Rain Expected for Hawaii",
+        "source": "WeatherNation",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-20T17:45:00Z",
+        "url": "http://www.weathernationtv.com/news/flash-flood-emergency-for-oahu-additional-rain-expected-for-hawaii",
+        "mention_text": "Hawaii",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-03-21T06:46:50.174906+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-qn2se5brzizwxiri",
+        "title": "Watch: Floodwaters reach SUV windows in Hawaii during Flash Flood Emergency",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-20T14:26:54Z",
+        "url": "https://www.foxweather.com/watch/fmc-qn2se5brzizwxiri",
+        "mention_text": "Hawaii",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-03-21T06:46:50.174906+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/articles/hawaii-flood-emergency-imminent-dam-221433290.html",
+        "title": "Hawaii flood emergency: Imminent dam failure triggers power shutoffs",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-20T22:14:33Z",
+        "url": "https://www.yahoo.com/news/articles/hawaii-flood-emergency-imminent-dam-221433290.html",
+        "mention_text": "Hawaii",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-03-21T06:46:50.174906+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3105232,
+          20.7580586
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kitv.com/news/flood-advisory-issued-for-flood-prone-areas-of-maui-county/article_ca96f4db-0c8b-4bf6-a53a-839c185f2c5f.html",
+        "title": "Flood Advisory issued for flood-prone areas of Maui County",
+        "source": "KITV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-20T07:12:00Z",
+        "url": "https://www.kitv.com/news/flood-advisory-issued-for-flood-prone-areas-of-maui-county/article_ca96f4db-0c8b-4bf6-a53a-839c185f2c5f.html",
+        "mention_text": "Maui County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Maui County, Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166561,
+        "run_at": "2026-03-21T06:46:50.174906+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-03-20T07:01:43.217682+00:00",
-    "total_features": 318
+    "last_updated": "2026-03-21T06:46:50.177135+00:00",
+    "total_features": 339
   }
 }
