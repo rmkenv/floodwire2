@@ -8814,11 +8814,427 @@
         "osm_id": 166561,
         "run_at": "2026-03-21T06:46:50.174906+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.staradvertiser.com/2026/03/21/breaking-news/after-devastating-floods-hawaii-braces-for-more-rain/",
+        "title": "Flash flood warning extended for Maui; Flood advisory covers Oahu",
+        "source": "Honolulu Star-Advertiser",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-22T03:40:43Z",
+        "url": "https://www.staradvertiser.com/2026/03/21/breaking-news/after-devastating-floods-hawaii-braces-for-more-rain/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-22T06:55:44.694382+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-2b02vvv1hqriaoph",
+        "title": "Flash Flood Warnings continue in Hawaii as relentless rain persists",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-21T18:44:00Z",
+        "url": "https://www.foxweather.com/watch/fmc-2b02vvv1hqriaoph",
+        "mention_text": "Hawaii",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-03-22T06:55:44.694382+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcnews.com/weather/floods/hawaii-worst-flooding-in-20-years-rcna264573",
+        "title": "Hawaii's heaviest rainstorm in 20 years threatens dam as flash flood warnings continue",
+        "source": "NBC News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-21T19:49:00Z",
+        "url": "https://www.nbcnews.com/weather/floods/hawaii-worst-flooding-in-20-years-rcna264573",
+        "mention_text": "Hawaii",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-03-22T06:55:44.694382+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5849305,
+          47.1057471
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thenewstribune.com/news/weather-news/article315135129.html",
+        "title": "Flood warning issued for Kittitas County until early Sunday evening",
+        "source": "Tacoma News Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-20T23:55:07Z",
+        "url": "https://www.thenewstribune.com/news/weather-news/article315135129.html",
+        "mention_text": "Kittitas County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kittitas County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153345,
+        "run_at": "2026-03-22T06:55:44.694382+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/US/dangerous-flooding-hawaiis-oahu-island-prompts-evacuations-warning/story?id=131262065",
+        "title": "Flash flood warning extended for Hawaii's Oahu Island over threat to Wahiawa Dam",
+        "source": "abcnews.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-20T23:51:23Z",
+        "url": "https://abcnews.com/US/dangerous-flooding-hawaiis-oahu-island-prompts-evacuations-warning/story?id=131262065",
+        "mention_text": "Hawaii",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-03-22T06:55:44.694382+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6219002,
+          43.5704073
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/US/dangerous-flooding-hawaiis-oahu-island-prompts-evacuations-warning/story?id=131262065",
+        "title": "Flash flood warning extended for Hawaii's Oahu Island over threat to Wahiawa Dam",
+        "source": "abcnews.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-20T23:51:23Z",
+        "url": "https://abcnews.com/US/dangerous-flooding-hawaiis-oahu-island-prompts-evacuations-warning/story?id=131262065",
+        "mention_text": "Oahu Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Oahu Island, Town of Bolton, Warren County, New York, United States",
+        "osm_type": "islet",
+        "osm_id": 38341027,
+        "run_at": "2026-03-22T06:55:44.694382+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4951405,
+          29.4246002
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tpr.org/environment/2025-06-30/all-13-people-killed-in-early-june-flash-flood-in-san-antonio-identified",
+        "title": "All 13 people killed in early June flash flood in San Antonio identified",
+        "source": "Texas Public Radio | TPR",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-06-30T07:00:00Z",
+        "url": "https://www.tpr.org/environment/2025-06-30/all-13-people-killed-in-early-june-flash-flood-in-san-antonio-identified",
+        "mention_text": "San Antonio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Antonio, Bexar County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 253556,
+        "run_at": "2026-03-22T06:55:44.694382+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.climatecentre.org/15693/texas-flash-flood-more-than-flows-over-niagara-falls/",
+        "title": "Texas flash flood \u2018exceeded flow over Niagara Falls\u2019",
+        "source": "Red Cross Red Crescent Climate Centre",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-07-07T07:00:00Z",
+        "url": "https://www.climatecentre.org/15693/texas-flash-flood-more-than-flows-over-niagara-falls/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-03-22T06:55:44.694382+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6868724,
+          41.8009005
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.vermontpublic.org/local-news/2025-07-10/state-dispatches-rescue-teams-as-flash-floods-hit-vermont-again",
+        "title": "Flash flood damage comes into focus in Northeast Kingdom, Addison County",
+        "source": "Vermont Public",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-07-11T07:00:00Z",
+        "url": "https://www.vermontpublic.org/local-news/2025-07-10/state-dispatches-rescue-teams-as-flash-floods-hit-vermont-again",
+        "mention_text": "Northeast Kingdom",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kingdom Hall of Jehovah's Witnesses, 580, Tower Avenue, Northeast, Bloomfield, Capitol Planning Region, Connecticut, 06002, United States",
+        "osm_type": "place_of_worship",
+        "osm_id": 913616412,
+        "run_at": "2026-03-22T06:55:44.694382+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1491036,
+          44.0285618
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.vermontpublic.org/local-news/2025-07-10/state-dispatches-rescue-teams-as-flash-floods-hit-vermont-again",
+        "title": "Flash flood damage comes into focus in Northeast Kingdom, Addison County",
+        "source": "Vermont Public",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-07-11T07:00:00Z",
+        "url": "https://www.vermontpublic.org/local-news/2025-07-10/state-dispatches-rescue-teams-as-flash-floods-hit-vermont-again",
+        "mention_text": "Addison County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Addison County, Vermont, United States",
+        "osm_type": "administrative",
+        "osm_id": 62007,
+        "run_at": "2026-03-22T06:55:44.694382+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcnews.com/video/major-flood-emergency-prompts-mass-evacuations-and-rescues-in-hawaii-259788869741",
+        "title": "Major flood emergency prompts mass evacuations and rescues in Hawaii",
+        "source": "NBC News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-21T23:20:32Z",
+        "url": "https://www.nbcnews.com/video/major-flood-emergency-prompts-mass-evacuations-and-rescues-in-hawaii-259788869741",
+        "mention_text": "Hawaii",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-03-22T06:55:44.694382+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.weathernationtv.com/news/flash-flood-emergency-for-oahu-additional-rain-expected-for-hawaii",
+        "title": "Flash Flood Emergency for O'ahu, Additional Rain Expected for Hawaii",
+        "source": "WeatherNation",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-20T17:45:00Z",
+        "url": "https://www.weathernationtv.com/news/flash-flood-emergency-for-oahu-additional-rain-expected-for-hawaii",
+        "mention_text": "Hawaii",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-03-22T06:55:44.694382+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modernghana.com/videonews/nbc/1/627060/",
+        "title": "Major flood emergency prompts mass evacuations and rescues in Hawaii",
+        "source": "Modern Ghana",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-22T00:06:54Z",
+        "url": "https://www.modernghana.com/videonews/nbc/1/627060/",
+        "mention_text": "Hawaii",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-03-22T06:55:44.694382+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.7065948,
+          21.2898586
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kitv.com/video/news/flood-emergency-continues-as-shelters-fill-across-central-oahu/video_adf99566-2dbb-5e56-8e1f-ffce2aee4ef6.html",
+        "title": "Flood emergency continues as shelters fill across Central Oahu",
+        "source": "KITV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-21T03:25:00Z",
+        "url": "https://www.kitv.com/video/news/flood-emergency-continues-as-shelters-fill-across-central-oahu/video_adf99566-2dbb-5e56-8e1f-ffce2aee4ef6.html",
+        "mention_text": "Central Oahu",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "The Oahu Club, Hawai\u2019i Kai Drive, Hahaione High Rise, East Honolulu, Honolulu, Honolulu County, Hawaii, 96825, United States",
+        "osm_type": "sports_centre",
+        "osm_id": 367337429,
+        "run_at": "2026-03-22T06:55:44.694382+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox13seattle.com/news/hi-officials-cut-power-thousands-oahu",
+        "title": "Hawaii flood emergency: Imminent dam failure triggers power shutoffs",
+        "source": "FOX 13 Seattle",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-20T22:14:33Z",
+        "url": "https://www.fox13seattle.com/news/hi-officials-cut-power-thousands-oahu",
+        "mention_text": "Hawaii",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-03-22T06:55:44.694382+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6199638,
+          38.0409144
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article314715352.html",
+        "title": "Flood advisory for Marin County early Monday morning due to excessive rainfall",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-16T08:00:00Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article314715352.html",
+        "mention_text": "Marin County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Marin County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396461,
+        "run_at": "2026-03-22T06:55:44.694382+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-03-21T06:46:50.177135+00:00",
-    "total_features": 339
+    "last_updated": "2026-03-22T06:55:44.696531+00:00",
+    "total_features": 355
   }
 }
