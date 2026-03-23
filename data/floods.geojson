@@ -9230,11 +9230,427 @@
         "osm_id": 396461,
         "run_at": "2026-03-22T06:55:44.694382+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5849305,
+          47.1057471
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theolympian.com/news/weather-news/article315148998.html",
+        "title": "Flood warning issued for Kittitas County until Monday morning",
+        "source": "The Olympian",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-22T19:55:06Z",
+        "url": "https://www.theolympian.com/news/weather-news/article315148998.html",
+        "mention_text": "Kittitas County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kittitas County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153345,
+        "run_at": "2026-03-23T07:15:22.324459+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4486983,
+          19.5895548
+        ]
+      },
+      "properties": {
+        "article_id": "https://mauinow.com/2026/03/22/moloka%CA%BBi-flood-warning-until-830-a-m-maui-county-flood-watch-until-6-p-m-winter-storm-warning-for-big-island-summits/",
+        "title": "Flood Watch extended through late tonight, Winter Storm Warning for Big Island summits through Monday morning",
+        "source": "Maui Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-22T17:10:37Z",
+        "url": "https://mauinow.com/2026/03/22/moloka%CA%BBi-flood-warning-until-830-a-m-maui-county-flood-watch-until-6-p-m-winter-storm-warning-for-big-island-summits/",
+        "mention_text": "Big Island",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hawai\u02bbi, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403603,
+        "run_at": "2026-03-23T07:15:22.324459+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6793255,
+          39.1088306
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.jsonline.com/story/weather/2026/03/22/nws-issues-flood-warning-march-22-for-black-river-in-jackson-county/89274254007/",
+        "title": "Flood warning issued for the Black River in Jackson County",
+        "source": "Milwaukee Journal Sentinel",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-22T15:00:00Z",
+        "url": "https://www.jsonline.com/story/weather/2026/03/22/nws-issues-flood-warning-march-22-for-black-river-in-jackson-county/89274254007/",
+        "mention_text": "the Black River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Black Fork of the Cheat River, Tucker County, West Virginia, 26287, United States",
+        "osm_type": "river",
+        "osm_id": 255359139,
+        "run_at": "2026-03-23T07:15:22.324459+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.55561,
+          28.9224028
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.jsonline.com/story/weather/2026/03/22/nws-issues-flood-warning-march-22-for-black-river-in-jackson-county/89274254007/",
+        "title": "Flood warning issued for the Black River in Jackson County",
+        "source": "Milwaukee Journal Sentinel",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-22T15:00:00Z",
+        "url": "https://www.jsonline.com/story/weather/2026/03/22/nws-issues-flood-warning-march-22-for-black-river-in-jackson-county/89274254007/",
+        "mention_text": "Jackson County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Jackson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837671,
+        "run_at": "2026-03-23T07:15:22.324459+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/video/131264310/",
+        "title": "Video Flash flood emergency impacting Hawaii's Oahu Island",
+        "source": "abcnews.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-20T19:38:52Z",
+        "url": "https://abcnews.com/video/131264310/",
+        "mention_text": "Hawaii",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-03-23T07:15:22.324459+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6219002,
+          43.5704073
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/video/131264310/",
+        "title": "Video Flash flood emergency impacting Hawaii's Oahu Island",
+        "source": "abcnews.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-20T19:38:52Z",
+        "url": "https://abcnews.com/video/131264310/",
+        "mention_text": "Oahu Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Oahu Island, Town of Bolton, Warren County, New York, United States",
+        "osm_type": "islet",
+        "osm_id": 38341027,
+        "run_at": "2026-03-23T07:15:22.324459+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5849305,
+          47.1057471
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bellinghamherald.com/news/weather-news/article315135129.html",
+        "title": "Flood warning issued for Kittitas County until early Sunday evening",
+        "source": "Bellingham Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-20T23:55:07Z",
+        "url": "https://www.bellinghamherald.com/news/weather-news/article315135129.html",
+        "mention_text": "Kittitas County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kittitas County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153345,
+        "run_at": "2026-03-23T07:15:22.324459+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article314719685.html",
+        "title": "UPDATE: Flash flood warning in place for Los Angeles early Monday evening",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-16T08:00:00Z",
+        "url": "https://www.sacbee.com/news/weather-news/article314719685.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-03-23T07:15:22.324459+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.latimes.com/california/story/2026-02-11/socal-rain-storm-floods-warnings",
+        "title": "Fast-moving storm floods SoCal freeways, triggers flash flood warning in burn scar",
+        "source": "Los Angeles Times",
+        "outlet_city": "Los Angeles",
+        "outlet_region": "California",
+        "published_at": "2026-02-11T08:00:00Z",
+        "url": "https://www.latimes.com/california/story/2026-02-11/socal-rain-storm-floods-warnings",
+        "mention_text": "Los Angeles",
+        "flood_type": "flash_flood",
+        "confidence": 0.4,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-03-23T07:15:22.324459+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcnews.com/video/historic-flood-emergency-prompts-mass-rescues-in-hawaii-259832901864",
+        "title": "Historic flood emergency prompts mass rescues in Hawaii",
+        "source": "NBC News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-23T00:42:15Z",
+        "url": "https://www.nbcnews.com/video/historic-flood-emergency-prompts-mass-rescues-in-hawaii-259832901864",
+        "mention_text": "Hawaii",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-03-23T07:15:22.324459+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4486983,
+          19.5895548
+        ]
+      },
+      "properties": {
+        "article_id": "https://bigislandnow.com/2026/03/22/flood-advisory-issued-for-areas-on-southeast-slopes-some-leeward-locations-of-big-island/",
+        "title": "UPDATE: Flood watch for Big Island extended, marine warnings issued",
+        "source": "Big Island Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-22T22:28:19Z",
+        "url": "https://bigislandnow.com/2026/03/22/flood-advisory-issued-for-areas-on-southeast-slopes-some-leeward-locations-of-big-island/",
+        "mention_text": "Big Island",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hawai\u02bbi, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403603,
+        "run_at": "2026-03-23T07:15:22.324459+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcnews.com/video/shorts/historic-flood-emergency-prompts-rescues-in-hawaii-259835461910",
+        "title": "Historic flood emergency prompts rescues in Hawaii",
+        "source": "NBC News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-23T01:12:14Z",
+        "url": "https://www.nbcnews.com/video/shorts/historic-flood-emergency-prompts-rescues-in-hawaii-259835461910",
+        "mention_text": "Hawaii",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-03-23T07:15:22.324459+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.rova.nz/articles/jason-momoa-escapes-hawaiian-family-home-amid-raging-floods",
+        "title": "\u2018We\u2019re safe for now\u2019: Jason Momoa shares update after Hawaii flood evacuation",
+        "source": "rova",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-22T01:33:36Z",
+        "url": "https://www.rova.nz/articles/jason-momoa-escapes-hawaiian-family-home-amid-raging-floods",
+        "mention_text": "Hawaii",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-03-23T07:15:22.324459+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article314728941.html",
+        "title": "UPDATE: The current flood advisory for North Bay will be expiring at 10:15 a.m.",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-17T08:00:00Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article314728941.html",
+        "mention_text": "North Bay",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-03-23T07:15:22.324459+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article314511742.html",
+        "title": "UPDATE: Coastal flood advisory for North Bay Interior Valleys and San Francisco Bay Shoreline",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-01-30T08:00:00Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article314511742.html",
+        "mention_text": "North Bay",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-03-23T07:15:22.324459+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4075201,
+          37.7879363
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article314511742.html",
+        "title": "UPDATE: Coastal flood advisory for North Bay Interior Valleys and San Francisco Bay Shoreline",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-01-30T08:00:00Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article314511742.html",
+        "mention_text": "San Francisco",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 111968,
+        "run_at": "2026-03-23T07:15:22.324459+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-03-22T06:55:44.696531+00:00",
-    "total_features": 355
+    "last_updated": "2026-03-23T07:15:22.326687+00:00",
+    "total_features": 371
   }
 }
