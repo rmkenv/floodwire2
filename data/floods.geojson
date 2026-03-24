@@ -9646,11 +9646,531 @@
         "osm_id": 111968,
         "run_at": "2026-03-23T07:15:22.324459+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4486983,
+          19.5895548
+        ]
+      },
+      "properties": {
+        "article_id": "https://alohastatedaily.com/2026/03/23/storm-updates-flash-flood-warnings-issued-for-oahu-big-island-ocean-safety-urges-residents-to-stay-out-of-ocean/",
+        "title": "Storm updates: Flash flood warnings issued for O\u2018ahu, Big Island; Ocean Safety urges residents to stay out of the water",
+        "source": "Aloha State Daily",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-24T00:01:00Z",
+        "url": "https://alohastatedaily.com/2026/03/23/storm-updates-flash-flood-warnings-issued-for-oahu-big-island-ocean-safety-urges-residents-to-stay-out-of-ocean/",
+        "mention_text": "Big Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawai\u02bbi, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403603,
+        "run_at": "2026-03-24T07:10:25.662590+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7387692,
+          37.1576013
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bigislandvideonews.com/2026/03/23/flash-flood-warning-issued-for-kona-kohala/",
+        "title": "Flash Flood Warning Issued For Kona, Kohala",
+        "source": "Big Island Video News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-23T21:42:23Z",
+        "url": "https://www.bigislandvideonews.com/2026/03/23/flash-flood-warning-issued-for-kona-kohala/",
+        "mention_text": "Kona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kona, Letcher County, Kentucky, 41849, United States",
+        "osm_type": "hamlet",
+        "osm_id": 154296381,
+        "run_at": "2026-03-24T07:10:25.662590+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.718691,
+          20.0749887
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bigislandvideonews.com/2026/03/23/flash-flood-warning-issued-for-kona-kohala/",
+        "title": "Flash Flood Warning Issued For Kona, Kohala",
+        "source": "Big Island Video News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-23T21:42:23Z",
+        "url": "https://www.bigislandvideonews.com/2026/03/23/flash-flood-warning-issued-for-kona-kohala/",
+        "mention_text": "Kohala",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kohala, Hawai\u02bbi County, Hawaii, United States",
+        "osm_type": "volcano",
+        "osm_id": 3050855366,
+        "run_at": "2026-03-24T07:10:25.662590+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.staradvertiser.com/2026/03/23/breaking-news/flood-watch-continues-for-big-island-as-kona-low-departs/",
+        "title": "Hawaii island remains under flood watch; warning dropped for Oahu",
+        "source": "Honolulu Star-Advertiser",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-24T05:55:19Z",
+        "url": "https://www.staradvertiser.com/2026/03/23/breaking-news/flood-watch-continues-for-big-island-as-kona-low-departs/",
+        "mention_text": "Hawaii",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-03-24T07:10:25.662590+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5849305,
+          47.1057471
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thenewstribune.com/news/weather-news/article315148998.html",
+        "title": "Flood warning issued for Kittitas County until Monday morning",
+        "source": "Tacoma News Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-22T19:55:06Z",
+        "url": "https://www.thenewstribune.com/news/weather-news/article315148998.html",
+        "mention_text": "Kittitas County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kittitas County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153345,
+        "run_at": "2026-03-24T07:10:25.662590+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wideopenspaces.com/jason-momoa-forced-to-flee-home-amid-flash-flood-in-hawaii/",
+        "title": "Jason Momoa Forced to Flee Home Amid Flash Flood in Hawaii",
+        "source": "wideopenspaces.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-23T13:23:46Z",
+        "url": "https://www.wideopenspaces.com/jason-momoa-forced-to-flee-home-amid-flash-flood-in-hawaii/",
+        "mention_text": "Hawaii",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-03-24T07:10:25.662590+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4486983,
+          19.5895548
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.travelandtourworld.com/news/article/hawaiis-severe-weather-disrupts-travel-with-flash-flood-warnings-across-oahu-haleiwa-waialua-maui-big-island-and-kauai/",
+        "title": "Maui Joins Oahu, Big Island, Kauai, and Others as Canada Issues Travel Advisory Due to Severe Weather and Flash Flood Warnings Across Hawaii",
+        "source": "Travel And Tour World",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-23T23:04:07Z",
+        "url": "https://www.travelandtourworld.com/news/article/hawaiis-severe-weather-disrupts-travel-with-flash-flood-warnings-across-oahu-haleiwa-waialua-maui-big-island-and-kauai/",
+        "mention_text": "Big Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawai\u02bbi, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403603,
+        "run_at": "2026-03-24T07:10:25.662590+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3243095,
+          37.6056575
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.travelandtourworld.com/news/article/hawaiis-severe-weather-disrupts-travel-with-flash-flood-warnings-across-oahu-haleiwa-waialua-maui-big-island-and-kauai/",
+        "title": "Maui Joins Oahu, Big Island, Kauai, and Others as Canada Issues Travel Advisory Due to Severe Weather and Flash Flood Warnings Across Hawaii",
+        "source": "Travel And Tour World",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-23T23:04:07Z",
+        "url": "https://www.travelandtourworld.com/news/article/hawaiis-severe-weather-disrupts-travel-with-flash-flood-warnings-across-oahu-haleiwa-waialua-maui-big-island-and-kauai/",
+        "mention_text": "Canada",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Canada, Pike County, Kentucky, 41519, United States",
+        "osm_type": "hamlet",
+        "osm_id": 153970291,
+        "run_at": "2026-03-24T07:10:25.662590+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8756362,
+          32.735281
+        ]
+      },
+      "properties": {
+        "article_id": "https://mauinow.com/2026/03/23/flood-advisory-for-maui-until-11-a-m-flood-watch-for-big-island-through-this-afternoon/",
+        "title": "Flood Warning for Big Island through 3:45 p.m.; Flood Watch for Hawai\u02bbi Island through this afternoon",
+        "source": "Maui Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-23T19:24:23Z",
+        "url": "https://mauinow.com/2026/03/23/flood-advisory-for-maui-until-11-a-m-flood-watch-for-big-island-through-this-afternoon/",
+        "mention_text": "Hawai\u02bbi Island",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hawaii Island, Tallapoosa County, Alabama, United States",
+        "osm_type": "island",
+        "osm_id": 1265920066,
+        "run_at": "2026-03-24T07:10:25.662590+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6276904,
+          47.8012197
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thenewstribune.com/news/weather-news/article315134224.html",
+        "title": "Flood advisory in place for Chelan County until early Saturday morning",
+        "source": "Tacoma News Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-20T22:30:06Z",
+        "url": "https://www.thenewstribune.com/news/weather-news/article315134224.html",
+        "mention_text": "Chelan County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Chelan County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153517,
+        "run_at": "2026-03-24T07:10:25.662590+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.goodmorningamerica.com/amp/video/131264310",
+        "title": "Flash flood emergency impacting Hawaii's Oahu Island",
+        "source": "Good Morning America",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-20T07:00:00Z",
+        "url": "https://www.goodmorningamerica.com/amp/video/131264310",
+        "mention_text": "Hawaii",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-03-24T07:10:25.662590+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6219002,
+          43.5704073
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.goodmorningamerica.com/amp/video/131264310",
+        "title": "Flash flood emergency impacting Hawaii's Oahu Island",
+        "source": "Good Morning America",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-20T07:00:00Z",
+        "url": "https://www.goodmorningamerica.com/amp/video/131264310",
+        "mention_text": "Oahu Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Oahu Island, Town of Bolton, Warren County, New York, United States",
+        "osm_type": "islet",
+        "osm_id": 38341027,
+        "run_at": "2026-03-24T07:10:25.662590+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modernghana.com/videonews/nbc/1/627385/",
+        "title": "Historic flood emergency prompts rescues in Hawaii",
+        "source": "Modern Ghana",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-23T11:12:36Z",
+        "url": "https://www.modernghana.com/videonews/nbc/1/627385/",
+        "mention_text": "Hawaii",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-03-24T07:10:25.662590+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.488853,
+          29.4263278
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article315006345.html",
+        "title": "Flood advisory in place for North Texas until early Wednesday due to persistent rain",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-03-10T07:00:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article315006345.html",
+        "mention_text": "North Texas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Buckhorn Saloon and Museum, North Presa Street, Downtown, San Antonio, Bexar County, Texas, 78205, United States",
+        "osm_type": "pub",
+        "osm_id": 928668524,
+        "run_at": "2026-03-24T07:10:25.662590+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7968559,
+          32.7762719
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article314928991.html",
+        "title": "UPDATE: Flood advisory affecting Dallas and Tarrant counties Wednesday night",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-03-04T08:00:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article314928991.html",
+        "mention_text": "Dallas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Dallas, Dallas County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 6571629,
+        "run_at": "2026-03-24T07:10:25.662590+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.335696,
+          32.7513658
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article314928991.html",
+        "title": "UPDATE: Flood advisory affecting Dallas and Tarrant counties Wednesday night",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-03-04T08:00:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article314928991.html",
+        "mention_text": "Tarrant",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Tarrant County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837628,
+        "run_at": "2026-03-24T07:10:25.662590+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4226219,
+          37.7885259
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article314511769.html",
+        "title": "UPDATE: Coastal flood advisory issued for Northern California until Sunday midday",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-01-30T08:00:00Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article314511769.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Planned Parenthood Northern California, 1522, Bush Street, Western Addition, San Francisco, California, 94109, United States",
+        "osm_type": "clinic",
+        "osm_id": 10110556090,
+        "run_at": "2026-03-24T07:10:25.662590+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.375716,
+          35.3540209
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article314739234.html",
+        "title": "UPDATE: Flood advisory for San Luis Obispo and Santa Barbara counties until Wednesday morning",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-18T08:00:00Z",
+        "url": "https://www.sacbee.com/news/weather-news/article314739234.html",
+        "mention_text": "San Luis Obispo",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Luis Obispo County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396496,
+        "run_at": "2026-03-24T07:10:25.662590+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.702667,
+          34.4221319
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article314739234.html",
+        "title": "UPDATE: Flood advisory for San Luis Obispo and Santa Barbara counties until Wednesday morning",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-18T08:00:00Z",
+        "url": "https://www.sacbee.com/news/weather-news/article314739234.html",
+        "mention_text": "Santa Barbara",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Santa Barbara, Santa Barbara County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 112224,
+        "run_at": "2026-03-24T07:10:25.662590+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4226219,
+          37.7885259
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article314504144.html",
+        "title": "Coastal flood advisory issued for Northern California until Sunday midday",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-01-29T08:00:00Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article314504144.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Planned Parenthood Northern California, 1522, Bush Street, Western Addition, San Francisco, California, 94109, United States",
+        "osm_type": "clinic",
+        "osm_id": 10110556090,
+        "run_at": "2026-03-24T07:10:25.662590+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-03-23T07:15:22.326687+00:00",
-    "total_features": 371
+    "last_updated": "2026-03-24T07:10:25.664839+00:00",
+    "total_features": 391
   }
 }
