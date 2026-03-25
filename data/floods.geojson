@@ -10166,11 +10166,219 @@
         "osm_id": 10110556090,
         "run_at": "2026-03-24T07:10:25.662590+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4486983,
+          19.5895548
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.staradvertiser.com/2026/03/24/breaking-news/maui-flash-flood-warning-extended-as-heavy-rain-continues/",
+        "title": "Flood watch, advisory in effect for Big Island",
+        "source": "Honolulu Star-Advertiser",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-25T03:11:08Z",
+        "url": "https://www.staradvertiser.com/2026/03/24/breaking-news/maui-flash-flood-warning-extended-as-heavy-rain-continues/",
+        "mention_text": "Big Island",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hawai\u02bbi, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403603,
+        "run_at": "2026-03-25T07:09:28.615411+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9755309,
+          35.992983
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbs17.com/news/local-news/spring-hope-officer-awarded-carnegie-medal-for-attempting-to-save-woman-during-nash-county-flash-flood/",
+        "title": "Spring Hope officer awarded Carnegie Medal for attempting to save woman during Nash County flash flood",
+        "source": "CBS17.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-24T21:40:42Z",
+        "url": "https://www.cbs17.com/news/local-news/spring-hope-officer-awarded-carnegie-medal-for-attempting-to-save-woman-during-nash-county-flash-flood/",
+        "mention_text": "Nash County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Nash County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528726,
+        "run_at": "2026-03-25T07:09:28.615411+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.staradvertiser.com/2026/03/23/breaking-news/flood-watch-continues-for-big-island-as-kona-low-departs/",
+        "title": "Flash flood warning posted for Maui as heavy rain intensifies",
+        "source": "Honolulu Star-Advertiser",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-24T10:56:53Z",
+        "url": "https://www.staradvertiser.com/2026/03/23/breaking-news/flood-watch-continues-for-big-island-as-kona-low-departs/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-25T07:09:28.615411+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7968559,
+          32.7762719
+        ]
+      },
+      "properties": {
+        "article_id": "https://texasstormchasers.com/forecast/north-texas-storm-update-flash-flood-warnings-in-dallas-fort-worth-march-4-2026/",
+        "title": "North Texas Storm Update: Flash Flood Warnings in Dallas\u2013Fort Worth | March 4, 2026",
+        "source": "Texas Storm Chasers",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-04T08:00:00Z",
+        "url": "https://texasstormchasers.com/forecast/north-texas-storm-update-flash-flood-warnings-in-dallas-fort-worth-march-4-2026/",
+        "mention_text": "Dallas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dallas, Dallas County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 6571629,
+        "run_at": "2026-03-25T07:09:28.615411+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3327459,
+          32.753177
+        ]
+      },
+      "properties": {
+        "article_id": "https://texasstormchasers.com/forecast/north-texas-storm-update-flash-flood-warnings-in-dallas-fort-worth-march-4-2026/",
+        "title": "North Texas Storm Update: Flash Flood Warnings in Dallas\u2013Fort Worth | March 4, 2026",
+        "source": "Texas Storm Chasers",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-04T08:00:00Z",
+        "url": "https://texasstormchasers.com/forecast/north-texas-storm-update-flash-flood-warnings-in-dallas-fort-worth-march-4-2026/",
+        "mention_text": "Fort Worth",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Fort Worth, Tarrant County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 115274,
+        "run_at": "2026-03-25T07:09:28.615411+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5286172,
+          46.9428831
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theolympian.com/news/weather-news/article315176493.html",
+        "title": "UPDATE: The current flood advisory for Whitman County will expire at 11 p.m.",
+        "source": "The Olympian",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-25T06:29:05Z",
+        "url": "https://www.theolympian.com/news/weather-news/article315176493.html",
+        "mention_text": "Whitman County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Whitman County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1150529,
+        "run_at": "2026-03-25T07:09:28.615411+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3747719,
+          37.6621028
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2025/12/29/coastal-flood-advisory-for-bay-area-shorelines-from-wednesday-to-sunday/",
+        "title": "Coastal flood advisory for Bay Area Shorelines from Wednesday to Sunday",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-29T08:00:00Z",
+        "url": "https://www.eastbaytimes.com/2025/12/29/coastal-flood-advisory-for-bay-area-shorelines-from-wednesday-to-sunday/",
+        "mention_text": "Bay Area Shorelines",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Bay Area Shorelines & Waterways, Marina Boulevard, South San Francisco, San Mateo County, California, 94083, United States",
+        "osm_type": "information",
+        "osm_id": 10817026016,
+        "run_at": "2026-03-25T07:09:28.615411+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.190009,
+          38.6254063
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article314716474.html",
+        "title": "UPDATE: Flood advisory active for San Luis Obispo County until Monday afternoon",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-16T08:00:00Z",
+        "url": "https://www.modbee.com/news/weather-news/article314716474.html",
+        "mention_text": "San Luis",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Saint Louis, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180533,
+        "run_at": "2026-03-25T07:09:28.615411+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-03-24T07:10:25.664839+00:00",
-    "total_features": 391
+    "last_updated": "2026-03-25T07:09:28.618003+00:00",
+    "total_features": 399
   }
 }
