@@ -10374,11 +10374,167 @@
         "osm_id": 1180533,
         "run_at": "2026-03-25T07:09:28.615411+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3801566,
+          27.5213933
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tampabay.com/news/weather/2026/03/25/flood-advisory-active-manatee-county-wednesday-night-caused-by-intense-rainfall/",
+        "title": "Flood advisory active for Manatee County Wednesday night caused by intense rainfall",
+        "source": "Tampa Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-26T00:26:09Z",
+        "url": "https://www.tampabay.com/news/weather/2026/03/25/flood-advisory-active-manatee-county-wednesday-night-caused-by-intense-rainfall/",
+        "mention_text": "Manatee County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Manatee County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210690,
+        "run_at": "2026-03-26T07:13:16.071347+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modernghana.com/videonews/nbc/5/627060/",
+        "title": "Major flood emergency prompts mass evacuations and rescues in Hawaii",
+        "source": "Modern Ghana",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-22T18:02:33Z",
+        "url": "https://www.modernghana.com/videonews/nbc/5/627060/",
+        "mention_text": "Hawaii",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-03-26T07:13:16.071347+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3747719,
+          37.6621028
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/01/31/coastal-flood-advisory-issued-for-bay-area-shorelines-until-sunday-midday-2/",
+        "title": "Coastal flood advisory issued for Bay Area Shorelines until Sunday midday",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-01-31T08:00:00Z",
+        "url": "https://www.eastbaytimes.com/2026/01/31/coastal-flood-advisory-issued-for-bay-area-shorelines-until-sunday-midday-2/",
+        "mention_text": "Bay Area Shorelines",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Bay Area Shorelines & Waterways, Marina Boulevard, South San Francisco, San Mateo County, California, 94083, United States",
+        "osm_type": "information",
+        "osm_id": 10817026016,
+        "run_at": "2026-03-26T07:13:16.071347+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article314718544.html",
+        "title": "UPDATE: Flood advisory for Los Angeles until 3 a.m. Tuesday triggered by persistent rain",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-17T08:00:00Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article314718544.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-03-26T07:13:16.071347+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article314655988.html",
+        "title": "UPDATE: The current flood advisory for Los Angeles will expire at 5 a.m.",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-11T08:00:00Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article314655988.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-03-26T07:13:16.071347+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4353385,
+          37.7950559
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article314495482.html",
+        "title": "Coastal flood advisory for Northern California from Thursday to Sunday",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-01-28T08:00:00Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article314495482.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Vedanta Society of Northern California, 2323, Vallejo Street, Cow Hollow, San Francisco, California, 94123, United States",
+        "osm_type": "place_of_worship",
+        "osm_id": 11347413508,
+        "run_at": "2026-03-26T07:13:16.071347+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-03-25T07:09:28.618003+00:00",
-    "total_features": 399
+    "last_updated": "2026-03-26T07:13:16.073847+00:00",
+    "total_features": 405
   }
 }
