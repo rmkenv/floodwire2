@@ -10530,11 +10530,271 @@
         "osm_id": 11347413508,
         "run_at": "2026-03-26T07:13:16.071347+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9760405,
+          40.4597204
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.lehighvalleylive.com/weather-alerts/2026/03/flash-flood-warning-affecting-allegheny-county-until-early-friday-due-to-thunderstorms.html",
+        "title": "Update: The flash flood warning for Allegheny County is expected to expire at 12:45 a.m.",
+        "source": "Lehighvalleylive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-27T01:43:00Z",
+        "url": "https://www.lehighvalleylive.com/weather-alerts/2026/03/flash-flood-warning-affecting-allegheny-county-until-early-friday-due-to-thunderstorms.html",
+        "mention_text": "Allegheny County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Allegheny County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 2563472,
+        "run_at": "2026-03-27T07:12:27.964561+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6276904,
+          47.8012197
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thenewstribune.com/news/weather-news/article315203422.html",
+        "title": "Flood warning issued for Chelan County until further notice",
+        "source": "Tacoma News Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-27T00:16:02Z",
+        "url": "https://www.thenewstribune.com/news/weather-news/article315203422.html",
+        "mention_text": "Chelan County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Chelan County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153517,
+        "run_at": "2026-03-27T07:12:27.964561+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5208718,
+          40.1989597
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pennlive.com/weather-alerts/2026/03/flood-warning-issued-for-southwest-pa-until-friday-morning-caused-by-excessive-rain.html",
+        "title": "Flood warning issued for Southwest Pa. until Friday morning caused by excessive rain",
+        "source": "PennLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-27T05:24:00Z",
+        "url": "https://www.pennlive.com/weather-alerts/2026/03/flood-warning-issued-for-southwest-pa-until-friday-morning-caused-by-excessive-rain.html",
+        "mention_text": "Southwest Pa.",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Southwest, Mount Pleasant Township, Westmoreland County, Pennsylvania, 15685, United States",
+        "osm_type": "hamlet",
+        "osm_id": 158365843,
+        "run_at": "2026-03-27T07:12:27.964561+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9760405,
+          40.4597204
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/articles/tornado-watch-issued-western-pennsylvania-211920730.html",
+        "title": "Tornado Watch issued for most local counties, Flash Flood Warning issued for Allegheny County",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-26T21:19:20Z",
+        "url": "https://www.yahoo.com/news/articles/tornado-watch-issued-western-pennsylvania-211920730.html",
+        "mention_text": "Allegheny County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Allegheny County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 2563472,
+        "run_at": "2026-03-27T07:12:27.964561+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://alohastatedaily.com/2026/03/23/storm-updates-flash-flood-warnings-issued-for-oahu-big-island-ocean-safety-urges-residents-to-stay-out-of-ocean/",
+        "title": "Storm updates: Flash flood warnings issued for Maui, flood watches for Big Island",
+        "source": "Aloha State Daily",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-24T00:01:00Z",
+        "url": "https://alohastatedaily.com/2026/03/23/storm-updates-flash-flood-warnings-issued-for-oahu-big-island-ocean-safety-urges-residents-to-stay-out-of-ocean/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-03-27T07:12:27.964561+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9760405,
+          40.4597204
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pennlive.com/weather-alerts/2026/03/flash-flood-warning-for-allegheny-county-until-early-friday-triggered-by-thunderstorms.html",
+        "title": "Flash flood warning for Allegheny County until early Friday triggered by thunderstorms",
+        "source": "PennLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-27T01:43:00Z",
+        "url": "https://www.pennlive.com/weather-alerts/2026/03/flash-flood-warning-for-allegheny-county-until-early-friday-triggered-by-thunderstorms.html",
+        "mention_text": "Allegheny County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Allegheny County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 2563472,
+        "run_at": "2026-03-27T07:12:27.964561+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9899756,
+          38.8806677
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tri-cityherald.com/news/weather-news/article315047358.html",
+        "title": "UPDATE: Flood advisory issued for Southeast Washington until Sunday midday",
+        "source": "Tri-City Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T07:00:00Z",
+        "url": "https://www.tri-cityherald.com/news/weather-news/article315047358.html",
+        "mention_text": "Southeast Washington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Southeast, Capitol Hill, Ward 6, Washington, District of Columbia, 20003, United States",
+        "osm_type": "quarter",
+        "osm_id": 158655059,
+        "run_at": "2026-03-27T07:12:27.964561+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8722311,
+          33.750631
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article314720273.html",
+        "title": "UPDATE: Flood advisory issued for Orange County early Monday evening, says the NWS",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-16T08:00:00Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article314720273.html",
+        "mention_text": "Orange County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Orange County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396466,
+        "run_at": "2026-03-27T07:12:27.964561+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3330573,
+          37.496904
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2025/12/24/flood-advisory-affecting-san-mateo-and-santa-cruz-counties-early-wednesday-morning-triggered-by-substantial-downpours/",
+        "title": "Flood advisory affecting San Mateo and Santa Cruz counties early Wednesday morning triggered by substantial downpours",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-24T08:00:00Z",
+        "url": "https://www.eastbaytimes.com/2025/12/24/flood-advisory-affecting-san-mateo-and-santa-cruz-counties-early-wednesday-morning-triggered-by-substantial-downpours/",
+        "mention_text": "San Mateo",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Mateo County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396498,
+        "run_at": "2026-03-27T07:12:27.964561+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0294673,
+          36.9743626
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2025/12/24/flood-advisory-affecting-san-mateo-and-santa-cruz-counties-early-wednesday-morning-triggered-by-substantial-downpours/",
+        "title": "Flood advisory affecting San Mateo and Santa Cruz counties early Wednesday morning triggered by substantial downpours",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-24T08:00:00Z",
+        "url": "https://www.eastbaytimes.com/2025/12/24/flood-advisory-affecting-san-mateo-and-santa-cruz-counties-early-wednesday-morning-triggered-by-substantial-downpours/",
+        "mention_text": "Santa Cruz",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Santa Cruz, Santa Cruz County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 111737,
+        "run_at": "2026-03-27T07:12:27.964561+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-03-26T07:13:16.073847+00:00",
-    "total_features": 405
+    "last_updated": "2026-03-27T07:12:27.967222+00:00",
+    "total_features": 415
   }
 }
