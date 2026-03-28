@@ -10790,11 +10790,479 @@
         "osm_id": 111737,
         "run_at": "2026-03-27T07:12:27.964561+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0002605,
+          31.769599
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.democratandchronicle.com/story/weather/2026/03/27/flood-warning-monroe-county-ny-what-to-know/89344815007/",
+        "title": "Flood warning issued in Monroe County. What to know",
+        "source": "democratandchronicle.com",
+        "outlet_city": "Houston",
+        "outlet_region": "Texas",
+        "published_at": "2026-03-27T09:40:00Z",
+        "url": "https://www.democratandchronicle.com/story/weather/2026/03/27/flood-warning-monroe-county-ny-what-to-know/89344815007/",
+        "mention_text": "Monroe County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Old Texas, Monroe County, Alabama, United States",
+        "osm_type": "hamlet",
+        "osm_id": 153491611,
+        "run_at": "2026-03-28T07:04:14.930915+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7383957,
+          38.2676778
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newarkadvocate.com/story/weather/2026/03/27/national-weather-service-flood-warning-licking-river-newark-ohio/89345716007/",
+        "title": "Flood warning issued for Licking River through March 28",
+        "source": "The Newark Advocate",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-27T18:25:00Z",
+        "url": "https://www.newarkadvocate.com/story/weather/2026/03/27/national-weather-service-flood-warning-licking-river-newark-ohio/89345716007/",
+        "mention_text": "Licking River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Licking River, Kentucky, United States",
+        "osm_type": "river",
+        "osm_id": 6846660,
+        "run_at": "2026-03-28T07:04:14.930915+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.464888,
+          40.3759469
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.timesreporter.com/story/weather/2026/03/27/weather-alert/89345658007/",
+        "title": "National Weather Service issues flood warning for Tuscarawas County",
+        "source": "Times Reporter",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-27T13:30:00Z",
+        "url": "https://www.timesreporter.com/story/weather/2026/03/27/weather-alert/89345658007/",
+        "mention_text": "Tuscarawas County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Tuscarawas County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 911305,
+        "run_at": "2026-03-28T07:04:14.930915+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9271441,
+          40.2905684
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.coshoctontribune.com/story/weather/2026/03/27/weather-alert/89349240007/",
+        "title": "National Weather Service issues flood warning for Coshocton County",
+        "source": "Coshocton Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-27T17:38:00Z",
+        "url": "https://www.coshoctontribune.com/story/weather/2026/03/27/weather-alert/89349240007/",
+        "mention_text": "Coshocton County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Coshocton County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 241687,
+        "run_at": "2026-03-28T07:04:14.930915+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6276904,
+          47.8012197
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theolympian.com/news/weather-news/article315203422.html",
+        "title": "Flood warning issued for Chelan County until further notice",
+        "source": "The Olympian",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-27T00:16:02Z",
+        "url": "https://www.theolympian.com/news/weather-news/article315203422.html",
+        "mention_text": "Chelan County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Chelan County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153517,
+        "run_at": "2026-03-28T07:04:14.930915+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4859433,
+          40.0802222
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.zanesvilletimesrecorder.com/story/weather/2026/03/27/weather-alert/89345659007/",
+        "title": "NWS issues flood warning for Muskingum, Guernsey counties",
+        "source": "Zanesville Times Recorder",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-27T13:54:00Z",
+        "url": "https://www.zanesvilletimesrecorder.com/story/weather/2026/03/27/weather-alert/89345659007/",
+        "mention_text": "Guernsey",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Guernsey County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 911270,
+        "run_at": "2026-03-28T07:04:14.930915+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3249475,
+          41.0400423
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.jagranjosh.com/us/trending/flood-warning-monroe-county-indiana-nws-updates-2026-1860002833",
+        "title": "Flood Warning Issued for Monroe County and Indiana as Heavy Rainfall Triggers Rising Waters",
+        "source": "Jagran Josh",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-27T10:45:51Z",
+        "url": "https://www.jagranjosh.com/us/trending/flood-warning-monroe-county-indiana-nws-updates-2026-1860002833",
+        "mention_text": "Monroe County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Monroe County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417787,
+        "run_at": "2026-03-28T07:04:14.930915+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1746933,
+          40.3270127
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.jagranjosh.com/us/trending/flood-warning-monroe-county-indiana-nws-updates-2026-1860002833",
+        "title": "Flood Warning Issued for Monroe County and Indiana as Heavy Rainfall Triggers Rising Waters",
+        "source": "Jagran Josh",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-27T10:45:51Z",
+        "url": "https://www.jagranjosh.com/us/trending/flood-warning-monroe-county-indiana-nws-updates-2026-1860002833",
+        "mention_text": "Indiana",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Indiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 161816,
+        "run_at": "2026-03-28T07:04:14.930915+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9760405,
+          40.4597204
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.lehighvalleylive.com/weather-alerts/2026/03/allegheny-county-placed-under-a-flood-advisory-until-2-a-m-sunday-triggered-by-substantial-rain.html",
+        "title": "Update: Allegheny County placed under a flood advisory until 2 a.m. Sunday triggered by substantial rain",
+        "source": "Lehighvalleylive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-27T08:22:00Z",
+        "url": "https://www.lehighvalleylive.com/weather-alerts/2026/03/allegheny-county-placed-under-a-flood-advisory-until-2-a-m-sunday-triggered-by-substantial-rain.html",
+        "mention_text": "Allegheny County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Allegheny County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 2563472,
+        "run_at": "2026-03-28T07:04:14.930915+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9760405,
+          40.4597204
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pennlive.com/weather-alerts/2026/03/flood-advisory-affecting-allegheny-county-until-2-a-m-sunday-triggered-by-heavy-rain.html",
+        "title": "Flood advisory affecting Allegheny County until 2 a.m. Sunday triggered by heavy rain",
+        "source": "PennLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-27T08:23:00Z",
+        "url": "https://www.pennlive.com/weather-alerts/2026/03/flood-advisory-affecting-allegheny-county-until-2-a-m-sunday-triggered-by-heavy-rain.html",
+        "mention_text": "Allegheny County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Allegheny County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 2563472,
+        "run_at": "2026-03-28T07:04:14.930915+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9899756,
+          38.8806677
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theolympian.com/news/weather-news/article315047358.html",
+        "title": "UPDATE: Flood advisory issued for Southeast Washington until Sunday midday",
+        "source": "The Olympian",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T20:46:05Z",
+        "url": "https://www.theolympian.com/news/weather-news/article315047358.html",
+        "mention_text": "Southeast Washington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Southeast, Capitol Hill, Ward 6, Washington, District of Columbia, 20003, United States",
+        "osm_type": "quarter",
+        "osm_id": 158655059,
+        "run_at": "2026-03-28T07:04:14.930915+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4353385,
+          37.7950559
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/02/14/coastal-flood-advisory-issued-for-northern-california-from-sunday-to-tuesday/",
+        "title": "Update: Coastal flood advisory issued for Northern California until Tuesday afternoon",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-14T08:00:00Z",
+        "url": "https://www.eastbaytimes.com/2026/02/14/coastal-flood-advisory-issued-for-northern-california-from-sunday-to-tuesday/",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Vedanta Society of Northern California, 2323, Vallejo Street, Cow Hollow, San Francisco, California, 94123, United States",
+        "osm_type": "place_of_worship",
+        "osm_id": 11347413508,
+        "run_at": "2026-03-28T07:04:14.930915+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3558473,
+          37.7884969
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/02/17/flood-advisory-for-bay-area-until-tuesday-afternoon-due-to-intense-downpours/",
+        "title": "Update: Flood advisory for Bay Area Tuesday evening due to intense downpours",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-17T08:00:00Z",
+        "url": "https://www.eastbaytimes.com/2026/02/17/flood-advisory-for-bay-area-until-tuesday-afternoon-due-to-intense-downpours/",
+        "mention_text": "Bay Area",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco Bay Area, San Francisco, California, 94110, United States",
+        "osm_type": "region",
+        "osm_id": 2157162589,
+        "run_at": "2026-03-28T07:04:14.930915+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4353385,
+          37.7950559
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article314737200.html",
+        "title": "The coastal flood advisory for Northern California is likely to expire at 3 p.m.",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-17T08:00:00Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article314737200.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Vedanta Society of Northern California, 2323, Vallejo Street, Cow Hollow, San Francisco, California, 94123, United States",
+        "osm_type": "place_of_worship",
+        "osm_id": 11347413508,
+        "run_at": "2026-03-28T07:04:14.930915+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4353385,
+          37.7950559
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article314816435.html",
+        "title": "UPDATE: Flood advisory for Northern California predicted to expire at 11:30 p.m.",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-25T08:00:00Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article314816435.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Vedanta Society of Northern California, 2323, Vallejo Street, Cow Hollow, San Francisco, California, 94123, United States",
+        "osm_type": "place_of_worship",
+        "osm_id": 11347413508,
+        "run_at": "2026-03-28T07:04:14.930915+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pasadenastarnews.com/2026/02/10/update-flood-advisory-issued-for-los-angeles-and-ventura-counties-until-1-a-m-wednesday/",
+        "title": "Update: Flood advisory issued for Los Angeles County early Wednesday morning caused by prolonged rain",
+        "source": "Pasadena Star News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-10T08:00:00Z",
+        "url": "https://www.pasadenastarnews.com/2026/02/10/update-flood-advisory-issued-for-los-angeles-and-ventura-counties-until-1-a-m-wednesday/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-03-28T07:04:14.930915+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article314655988.html",
+        "title": "UPDATE: The current flood advisory for Los Angeles will expire at 5 a.m.",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-11T08:00:00Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article314655988.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-03-28T07:04:14.930915+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3558473,
+          37.7884969
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article314731919.html",
+        "title": "UPDATE: Flood advisory for Bay Area likely to expire at 7 p.m., says the NWS",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-17T08:00:00Z",
+        "url": "https://www.sacbee.com/news/weather-news/article314731919.html",
+        "mention_text": "Bay Area",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco Bay Area, San Francisco, California, 94110, United States",
+        "osm_type": "region",
+        "osm_id": 2157162589,
+        "run_at": "2026-03-28T07:04:14.930915+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-03-27T07:12:27.967222+00:00",
-    "total_features": 415
+    "last_updated": "2026-03-28T07:04:14.933459+00:00",
+    "total_features": 433
   }
 }
