@@ -11336,11 +11336,89 @@
         "osm_id": 396479,
         "run_at": "2026-03-29T07:10:02.018059+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5286172,
+          46.9428831
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bellinghamherald.com/news/weather-news/article315176493.html",
+        "title": "UPDATE: The current flood advisory for Whitman County will expire at 11 p.m.",
+        "source": "Bellingham Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-25T06:29:05Z",
+        "url": "https://www.bellinghamherald.com/news/weather-news/article315176493.html",
+        "mention_text": "Whitman County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Whitman County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1150529,
+        "run_at": "2026-03-29T20:48:54.691590+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.patriotledger.com/story/weather/severe/2026/02/02/flooding-coastal-massachusetts-high-tide-weather/88472118007/",
+        "title": "Coastal flood advisory for Massachusetts with late-morning high tide",
+        "source": "The Patriot Ledger",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-02T08:00:00Z",
+        "url": "https://www.patriotledger.com/story/weather/severe/2026/02/02/flooding-coastal-massachusetts-high-tide-weather/88472118007/",
+        "mention_text": "Massachusetts",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 61315,
+        "run_at": "2026-03-29T20:48:54.691590+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0974659,
+          32.6823521
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.al.com/weather-alerts/2026/02/flood-advisory-in-place-for-jefferson-and-walker-counties-until-thursday-night-due-to-significant-do.html",
+        "title": "Update: Flood advisory in place for Central Alabama until early Friday morning triggered by prolonged downpours",
+        "source": "al.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-26T08:00:00Z",
+        "url": "https://www.al.com/weather-alerts/2026/02/flood-advisory-in-place-for-jefferson-and-walker-counties-until-thursday-night-due-to-significant-do.html",
+        "mention_text": "Central Alabama",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Central, Elmore County, Alabama, United States",
+        "osm_type": "hamlet",
+        "osm_id": 153421243,
+        "run_at": "2026-03-29T20:48:54.691590+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-03-29T07:10:02.020828+00:00",
-    "total_features": 436
+    "last_updated": "2026-03-29T20:48:54.693852+00:00",
+    "total_features": 439
   }
 }
