@@ -11258,11 +11258,89 @@
         "osm_id": 2157162589,
         "run_at": "2026-03-28T07:04:14.930915+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3045103,
+          41.6264414
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.the-daily-record.com/story/weather/2026/03/28/flood-warning-holmes-wayne-county-ohio-weather/89360705007/",
+        "title": "Flood warning issued for Holmes, Wayne counties",
+        "source": "Wooster Daily Record",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-28T11:42:00Z",
+        "url": "https://www.the-daily-record.com/story/weather/2026/03/28/flood-warning-holmes-wayne-county-ohio-weather/89360705007/",
+        "mention_text": "Wayne",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Wayne County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417782,
+        "run_at": "2026-03-29T07:10:02.018059+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.135072,
+          32.6662689
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/texas/news/weather-in-dallas-tx-fort-worth-10-day-clima-march-4/",
+        "title": "Flash flood warnings continue into early Thursday morning as storms leave North Texas",
+        "source": "cbsnews.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-05T08:00:00Z",
+        "url": "https://www.cbsnews.com/texas/news/weather-in-dallas-tx-fort-worth-10-day-clima-march-4/",
+        "mention_text": "North Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North, Arlington, Tarrant County, Texas, 76017, United States",
+        "osm_type": "residential",
+        "osm_id": 10057724,
+        "run_at": "2026-03-29T07:10:02.018059+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailynews.com/2026/02/17/flood-advisory-for-los-angeles-and-ventura-counties-until-wednesday-morning-triggered-by-substantial-rainfall/",
+        "title": "Update: Flood advisory for Los Angeles County until Wednesday morning triggered by substantial rainfall",
+        "source": "Los Angeles Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-17T08:00:00Z",
+        "url": "https://www.dailynews.com/2026/02/17/flood-advisory-for-los-angeles-and-ventura-counties-until-wednesday-morning-triggered-by-substantial-rainfall/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-03-29T07:10:02.018059+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-03-28T07:04:14.933459+00:00",
-    "total_features": 433
+    "last_updated": "2026-03-29T07:10:02.020828+00:00",
+    "total_features": 436
   }
 }
