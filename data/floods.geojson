@@ -11414,11 +11414,63 @@
         "osm_id": 153421243,
         "run_at": "2026-03-29T20:48:54.691590+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/01/03/flood-advisory-affecting-north-bay-until-saturday-morning-triggered-by-intense-downpours/",
+        "title": "Flood advisory affecting North Bay until Saturday morning triggered by intense downpours",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-01-03T08:00:00Z",
+        "url": "https://www.eastbaytimes.com/2026/01/03/flood-advisory-affecting-north-bay-until-saturday-morning-triggered-by-intense-downpours/",
+        "mention_text": "North Bay",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-03-30T07:32:58.117033+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4353385,
+          37.7950559
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article314706672.html",
+        "title": "UPDATE: Coastal flood advisory in place for Northern California until Tuesday afternoon",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-16T08:00:00Z",
+        "url": "https://www.sacbee.com/news/weather-news/article314706672.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Vedanta Society of Northern California, 2323, Vallejo Street, Cow Hollow, San Francisco, California, 94123, United States",
+        "osm_type": "place_of_worship",
+        "osm_id": 11347413508,
+        "run_at": "2026-03-30T07:32:58.117033+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-03-29T20:48:54.693852+00:00",
-    "total_features": 439
+    "last_updated": "2026-03-30T07:32:58.120002+00:00",
+    "total_features": 441
   }
 }
