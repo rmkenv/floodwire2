@@ -1,20 +1,19 @@
 """
 gauge_flood_join.py
 ===================
-Proximity join: gauges_current.json  ←→  floods.csv
+Proximity join: gauges_current.json  <->  floods.csv
 
 For each gauge, finds all flood news events within RADIUS_MILES and
 attaches them as `nearby_floods`. Writes:
 
-  data/gauges_with_floods.json   — enriched gauge records (full)
-  data/gauges_with_floods.csv    — flat joined rows (one row per gauge×flood pair)
-  data/gauges_with_floods.geojson — GeoJSON with flood count + nearest headline
+  data/gauges_with_floods.json    -- enriched gauge records (full)
+  data/gauges_with_floods.csv     -- flat joined rows (one row per gauge x flood pair)
+  data/gauges_with_floods.geojson -- GeoJSON with flood count + nearest headline
 
 Usage:
-  python gauge_flood_join.py                        # default 50-mile radius
-  python gauge_flood_join.py --radius 25            # tighter radius
-  python gauge_flood_join.py --alerts-only          # only gauges at action/flood/major tier
-  python gauge_flood_join.py --radius 30 --alerts-only
+  python gauge_flood_join.py                  # default 50-mile radius
+  python gauge_flood_join.py --radius 25      # tighter radius
+  python gauge_flood_join.py --alerts-only    # only action/flood/major tier gauges
 """
 
 import json
@@ -34,15 +33,17 @@ logging.basicConfig(
 log = logging.getLogger("gauge_flood_join")
 
 # ── Paths ─────────────────────────────────────────────────────
-DATA_DIR          = Path("data")
-GAUGES_FILE       = DATA_DIR / "gauges_current.json"
-FLOODS_CSV        = DATA_DIR / "floods.csv"
-OUT_JSON          = DATA_DIR / "gauges_with_floods.json"
-OUT_CSV           = DATA_DIR / "gauges_with_floods.csv"
-OUT_GEOJSON       = DATA_DIR / "gauges_with_floods.geojson"
+DATA_DIR    = Path("data")
+GAUGES_FILE = DATA_DIR / "gauges_current.json"
+FLOODS_CSV  = DATA_DIR / "floods.csv"
+OUT_JSON    = DATA_DIR / "gauges_with_floods.json"
+OUT_CSV     = DATA_DIR / "gauges_with_floods.csv"
+OUT_GEOJSON = DATA_DIR / "gauges_with_floods.geojson"
+
 
 # ── Haversine (miles) ─────────────────────────────────────────
-def haversine(lat1, lon1, lat2, lon2) -> float:
+def haversine(lat1, lon1, lat2, lon2):
+    lat1, lon1, lat2, lon2 = map(float, [lat1, lon1, lat2, lon2])
     lat1, lon1, lat2, lon2 = map(radians, [lat1, lon1, lat2, lon2])
     dlat = lat2 - lat1
     dlon = lon2 - lon1
@@ -51,7 +52,7 @@ def haversine(lat1, lon1, lat2, lon2) -> float:
 
 
 # ── Loaders ───────────────────────────────────────────────────
-def load_gauges(path: Path, alerts_only: bool) -> list[dict]:
+def load_gauges(path, alerts_only):
     if not path.exists():
         log.error(f"Gauge file not found: {path}")
         return []
@@ -66,7 +67,7 @@ def load_gauges(path: Path, alerts_only: bool) -> list[dict]:
     return gauges
 
 
-def load_floods(path: Path) -> list[dict]:
+def load_floods(path):
     if not path.exists():
         log.error(f"Floods CSV not found: {path}")
         return []
@@ -74,67 +75,75 @@ def load_floods(path: Path) -> list[dict]:
     with open(path, newline="", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         for row in reader:
+            # Try all plausible lat/lon column name variants
+            raw_lat = row.get("lat") or row.get("latitude") or row.get("Lat") or row.get("Latitude") or ""
+            raw_lon = row.get("lon") or row.get("longitude") or row.get("Lon") or row.get("Longitude") or ""
             try:
-                lat = float(row.get("lat") or row.get("latitude") or "")
-                lon = float(row.get("lon") or row.get("longitude") or "")
-                floods.append({**row, "_lat": lat, "_lon": lon})
+                f_lat = float(raw_lat)
+                f_lon = float(raw_lon)
             except (ValueError, TypeError):
-                continue  # skip rows without valid coords
+                continue  # skip rows with missing/bad coords
+            # Store parsed floats under mangled keys that can't collide with CSV columns
+            row["__parsed_lat__"] = f_lat
+            row["__parsed_lon__"] = f_lon
+            floods.append(row)
     log.info(f"Loaded {len(floods)} flood events with valid coordinates")
     return floods
 
 
 # ── Core join ─────────────────────────────────────────────────
-def proximity_join(gauges: list[dict], floods: list[dict], radius_miles: float) -> list[dict]:
-    """
-    Attach nearby flood events to each gauge.
-    Each gauge gets a `nearby_floods` list and summary fields.
-    """
+def proximity_join(gauges, floods, radius_miles):
     enriched = []
     for g in gauges:
+        # Safely coerce gauge coords — JSON may have serialised them as strings
         try:
-            g_lat = float(g.get("lat"))
-            g_lon = float(g.get("lon"))
-        except (TypeError, ValueError):
-            g_lat, g_lon = None, None
+            g_lat = float(g["lat"])
+            g_lon = float(g["lon"])
+        except (KeyError, TypeError, ValueError):
+            g_lat = g_lon = None
+
         if g_lat is None or g_lon is None:
-            g_enriched = g.copy()
-            g_enriched["nearby_floods"] = []
-            g_enriched["flood_event_count"] = 0
-            g_enriched["nearest_flood_miles"] = None
-            g_enriched["nearest_flood_title"] = None
-            enriched.append(g_enriched)
+            g_out = g.copy()
+            g_out["nearby_floods"] = []
+            g_out["flood_event_count"] = 0
+            g_out["nearest_flood_miles"] = None
+            g_out["nearest_flood_title"] = None
+            enriched.append(g_out)
             continue
 
         nearby = []
         for fl in floods:
-            dist = haversine(g_lat, g_lon, fl["_lat"], fl["_lon"])
+            f_lat = fl["__parsed_lat__"]
+            f_lon = fl["__parsed_lon__"]
+            dist = haversine(g_lat, g_lon, f_lat, f_lon)
             if dist <= radius_miles:
-                entry = {k: v for k, v in fl.items() if not k.startswith("_")}
+                entry = {k: v for k, v in fl.items() if not k.startswith("__parsed_")}
                 entry["distance_miles"] = round(dist, 2)
                 nearby.append(entry)
 
-        # Sort closest first
         nearby.sort(key=lambda x: x["distance_miles"])
 
-        g_enriched = g.copy()
-        g_enriched["nearby_floods"] = nearby
-        g_enriched["flood_event_count"] = len(nearby)
-        g_enriched["nearest_flood_miles"] = nearby[0]["distance_miles"] if nearby else None
-        g_enriched["nearest_flood_title"] = (
-            nearby[0].get("title") or nearby[0].get("headline") or nearby[0].get("description", "")[:80]
+        g_out = g.copy()
+        g_out["nearby_floods"] = nearby
+        g_out["flood_event_count"] = len(nearby)
+        g_out["nearest_flood_miles"] = nearby[0]["distance_miles"] if nearby else None
+        g_out["nearest_flood_title"] = (
+            (nearby[0].get("title") or nearby[0].get("headline") or
+             str(nearby[0].get("description", ""))[:80])
             if nearby else None
         )
-        enriched.append(g_enriched)
+        enriched.append(g_out)
 
     total_links = sum(g["flood_event_count"] for g in enriched)
-    log.info(f"Join complete: {total_links} gauge×flood links across {len(enriched)} gauges "
-             f"(radius={radius_miles} mi)")
+    log.info(
+        f"Join complete: {total_links} gauge x flood links across "
+        f"{len(enriched)} gauges (radius={radius_miles} mi)"
+    )
     return enriched
 
 
 # ── Writers ───────────────────────────────────────────────────
-def write_json(enriched: list[dict], path: Path):
+def write_json(enriched, path):
     out = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "gauge_count": len(enriched),
@@ -145,50 +154,47 @@ def write_json(enriched: list[dict], path: Path):
     log.info(f"Wrote {path}")
 
 
-def write_csv(enriched: list[dict], path: Path):
-    """
-    Flat join: one row per gauge×flood pair.
-    Gauges with zero nearby floods still get one row (with empty flood cols).
-    """
-    # Collect all flood field names (excluding distance_miles which we always include)
-    flood_field_sample = {}
+def write_csv(enriched, path):
+    """One row per gauge x flood pair; gauges with no nearby floods get one empty row."""
+    # Collect all flood field names
+    flood_field_names = []
+    seen = set()
     for g in enriched:
         for fl in g.get("nearby_floods", []):
-            flood_field_sample.update(fl)
-    flood_fields = [k for k in flood_field_sample if k != "distance_miles"]
+            for k in fl:
+                if k not in seen and not k.startswith("__parsed_"):
+                    flood_field_names.append(k)
+                    seen.add(k)
 
-    # Gauge fields (scalars only — skip nearby_floods list)
-    skip_keys = {"nearby_floods", "flood_event_count", "nearest_flood_miles", "nearest_flood_title"}
-    gauge_field_sample = {}
+    # Gauge scalar fields
+    skip = {"nearby_floods", "flood_event_count", "nearest_flood_miles", "nearest_flood_title"}
+    gauge_field_names = []
+    seen_g = set()
     for g in enriched:
-        gauge_field_sample.update({k: "" for k in g if k not in skip_keys})
-    gauge_fields = list(gauge_field_sample.keys())
+        for k in g:
+            if k not in seen_g and k not in skip:
+                gauge_field_names.append(k)
+                seen_g.add(k)
 
-    # Summary fields appended to each gauge row
     summary_fields = ["flood_event_count", "nearest_flood_miles", "nearest_flood_title"]
-
-    # Flood join fields
-    flood_join_fields = ["distance_miles"] + flood_fields
-
-    fieldnames = gauge_fields + summary_fields + flood_join_fields
+    fieldnames = gauge_field_names + summary_fields + flood_field_names
 
     rows = []
     for g in enriched:
-        gauge_base = {k: g.get(k, "") for k in gauge_fields}
-        gauge_base["flood_event_count"] = g["flood_event_count"]
-        gauge_base["nearest_flood_miles"] = g["nearest_flood_miles"] if g["nearest_flood_miles"] is not None else ""
-        gauge_base["nearest_flood_title"] = g["nearest_flood_title"] or ""
+        base = {k: g.get(k, "") for k in gauge_field_names}
+        base["flood_event_count"] = g["flood_event_count"]
+        base["nearest_flood_miles"] = g["nearest_flood_miles"] if g["nearest_flood_miles"] is not None else ""
+        base["nearest_flood_title"] = g["nearest_flood_title"] or ""
 
         if g["nearby_floods"]:
             for fl in g["nearby_floods"]:
-                row = gauge_base.copy()
-                row["distance_miles"] = fl.get("distance_miles", "")
-                for ff in flood_fields:
+                row = base.copy()
+                for ff in flood_field_names:
                     row[ff] = fl.get(ff, "")
                 rows.append(row)
         else:
-            row = gauge_base.copy()
-            for ff in flood_join_fields:
+            row = base.copy()
+            for ff in flood_field_names:
                 row[ff] = ""
             rows.append(row)
 
@@ -199,24 +205,25 @@ def write_csv(enriched: list[dict], path: Path):
     log.info(f"Wrote {path}  ({len(rows)} rows)")
 
 
-def write_geojson(enriched: list[dict], path: Path):
+def write_geojson(enriched, path):
     tier_colors = {
-        "normal": "#2d6a4f",
-        "action": "#f48c06",
-        "flood":  "#e85d04",
-        "major":  "#c1121f",
+        "normal":  "#2d6a4f",
+        "action":  "#f48c06",
+        "flood":   "#e85d04",
+        "major":   "#c1121f",
         "unknown": "#888888",
     }
     features = []
     for g in enriched:
-        lat, lon = g.get("lat"), g.get("lon")
-        if lat is None or lon is None:
+        try:
+            lat = float(g["lat"])
+            lon = float(g["lon"])
+        except (KeyError, TypeError, ValueError):
             continue
         props = {k: v for k, v in g.items() if k != "nearby_floods"}
         props["color"] = tier_colors.get(g.get("tier", "unknown"), "#888888")
-        # Embed lightweight flood snippet (titles only) to keep file size sane
         props["nearby_flood_titles"] = [
-            fl.get("title") or fl.get("headline", "")[:80]
+            fl.get("title") or fl.get("headline") or str(fl.get("description", ""))[:80]
             for fl in g.get("nearby_floods", [])
         ]
         features.append({
@@ -224,9 +231,8 @@ def write_geojson(enriched: list[dict], path: Path):
             "geometry": {"type": "Point", "coordinates": [lon, lat]},
             "properties": props,
         })
-    fc = {"type": "FeatureCollection", "features": features}
     with open(path, "w") as f:
-        json.dump(fc, f, indent=2, default=str)
+        json.dump({"type": "FeatureCollection", "features": features}, f, indent=2, default=str)
     log.info(f"Wrote {path}")
 
 
@@ -255,11 +261,10 @@ def main():
     write_csv(enriched, OUT_CSV)
     write_geojson(enriched, OUT_GEOJSON)
 
-    # Quick summary to stdout
     with_events = [g for g in enriched if g["flood_event_count"] > 0]
     log.info(
-        f"Summary: {len(with_events)}/{len(enriched)} gauges have nearby flood events "
-        f"within {args.radius} mi"
+        f"Summary: {len(with_events)}/{len(enriched)} gauges have nearby flood "
+        f"events within {args.radius} mi"
     )
     if with_events:
         top = sorted(with_events, key=lambda x: x["flood_event_count"], reverse=True)[:5]
@@ -267,7 +272,7 @@ def main():
         for g in top:
             log.info(
                 f"  {g.get('site_name', g.get('site_id'))} "
-                f"[{g.get('tier')}] → {g['flood_event_count']} events, "
+                f"[{g.get('tier')}] -> {g['flood_event_count']} events, "
                 f"nearest: {g['nearest_flood_miles']} mi"
             )
 
