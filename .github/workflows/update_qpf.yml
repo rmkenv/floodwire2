@@ -1,0 +1,51 @@
+name: Update NOAA QPF
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours UTC
+  workflow_dispatch:          # allows manual trigger from Actions tab
+
+jobs:
+  fetch-and-join:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write         # needed to push the updated GeoJSON back
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch QPF and spatial join
+        run: python scripts/fetch_qpf.py
+
+      - name: Check for changes
+        id: check
+        run: |
+          git diff --quiet data/gauges_with_qpf.geojson || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push if changed
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/gauges_with_qpf.geojson
+          git commit -m "chore: auto-update QPF join [$(date -u +'%Y-%m-%d %H:%M UTC')]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
