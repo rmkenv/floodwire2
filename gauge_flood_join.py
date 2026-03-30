@@ -92,8 +92,11 @@ def proximity_join(gauges: list[dict], floods: list[dict], radius_miles: float) 
     """
     enriched = []
     for g in gauges:
-        g_lat = g.get("lat")
-        g_lon = g.get("lon")
+        try:
+            g_lat = float(g.get("lat"))
+            g_lon = float(g.get("lon"))
+        except (TypeError, ValueError):
+            g_lat, g_lon = None, None
         if g_lat is None or g_lon is None:
             g_enriched = g.copy()
             g_enriched["nearby_floods"] = []
