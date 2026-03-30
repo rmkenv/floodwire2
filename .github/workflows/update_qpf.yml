@@ -2,15 +2,15 @@ name: Update NOAA QPF
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours UTC
-  workflow_dispatch:          # allows manual trigger from Actions tab
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
 jobs:
   fetch-and-join:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write         # needed to push the updated GeoJSON back
+      contents: write
 
     steps:
       - name: Checkout repo
@@ -32,20 +32,18 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Fetch QPF and spatial join
-        run: python fetch_qpf.py
-
-      - name: Check for changes
-        id: check
-        run: |
-          git diff --quiet data/gauges_with_qpf.geojson || echo "changed=true" >> $GITHUB_OUTPUT
+        run: python scripts/fetch_qpf.py
 
       - name: Commit and push if changed
-        if: steps.check.outputs.changed == 'true'
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/gauges_with_qpf.geojson
-          git commit -m "chore: auto-update QPF join [$(date -u +'%Y-%m-%d %H:%M UTC')]"
-          git push
+          if [ -n "$(git status --porcelain data/gauges_with_qpf.geojson)" ]; then
+            git commit -m "chore: auto-update QPF join [$(date -u +'%Y-%m-%d %H:%M UTC')]"
+            git push
+          else
+            echo "No changes to commit."
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
