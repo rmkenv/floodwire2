@@ -32,7 +32,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Fetch QPF and spatial join
-        run: python scripts/fetch_qpf.py
+        run: python fetch_qpf.py
 
       - name: Commit and push if changed
         run: |
