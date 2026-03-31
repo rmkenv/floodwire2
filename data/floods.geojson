@@ -11466,11 +11466,193 @@
         "osm_id": 11347413508,
         "run_at": "2026-03-30T07:32:58.117033+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0704906,
+          42.5842136
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flood-warning-affecting-cortland-county-wednesday-and-thursday-minor-flooding-is-anticipa.html",
+        "title": "NY weather: Flood warning affecting Cortland County Wednesday and Thursday \u2013 minor flooding is anticipated",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-31T02:17:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flood-warning-affecting-cortland-county-wednesday-and-thursday-minor-flooding-is-anticipa.html",
+        "mention_text": "Cortland County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Cortland County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1838016,
+        "run_at": "2026-03-31T07:18:47.752865+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6130279,
+          42.4784565
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/03/ny-weather-chenango-county-under-a-flood-warning-from-tuesday-to-thursday-minor-flooding-is-forecast.html",
+        "title": "NY weather: Chenango County under a flood warning from Tuesday to Thursday \u2013 minor flooding is forecast",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-31T02:17:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/03/ny-weather-chenango-county-under-a-flood-warning-from-tuesday-to-thursday-minor-flooding-is-forecast.html",
+        "mention_text": "Chenango County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Chenango County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1838015,
+        "run_at": "2026-03-31T07:18:47.752865+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flood-watch-issued-for-part-of-new-york-for-tuesday-and-wednesday.html",
+        "title": "NY weather: Flood watch issued for part of New York for Tuesday and Wednesday",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-30T17:29:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flood-watch-issued-for-part-of-new-york-for-tuesday-and-wednesday.html",
+        "mention_text": "New York",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-03-31T07:18:47.752865+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4039155,
+          43.2144051
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flood-watch-in-place-for-oneida-county-for-tuesday-and-wednesday-due-to-substantial-downp.html",
+        "title": "NY weather update: Flood watch in place for Oneida County for Tuesday and Wednesday",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-30T17:40:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flood-watch-in-place-for-oneida-county-for-tuesday-and-wednesday-due-to-substantial-downp.html",
+        "mention_text": "Oneida County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oneida County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1838104,
+        "run_at": "2026-03-31T07:18:47.752865+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/03/ny-weather-part-of-new-york-under-a-flood-watch-tuesday-and-wednesday-caused-by-excessive-rainfall.html",
+        "title": "NY weather: part of New York under a flood watch Tuesday and Wednesday caused by excessive rainfall",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-30T17:29:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/03/ny-weather-part-of-new-york-under-a-flood-watch-tuesday-and-wednesday-caused-by-excessive-rainfall.html",
+        "mention_text": "New York",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-03-31T07:18:47.752865+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://ncnewsline.com/2025/08/21/north-carolina-nears-historic-flash-flood-warning-mark-with-more-storms-approaching/",
+        "title": "North Carolina nears historic flash flood warning mark, with more storms approaching",
+        "source": "NC Newsline",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-08-21T07:00:00Z",
+        "url": "https://ncnewsline.com/2025/08/21/north-carolina-nears-historic-flash-flood-warning-mark-with-more-storms-approaching/",
+        "mention_text": "North Carolina",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-03-31T07:18:47.752865+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modernghana.com/videonews/nbc/1/627385",
+        "title": "Historic flood emergency prompts rescues in Hawaii",
+        "source": "Modern Ghana",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-23T11:12:36Z",
+        "url": "https://www.modernghana.com/videonews/nbc/1/627385",
+        "mention_text": "Hawaii",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-03-31T07:18:47.752865+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-03-30T07:32:58.120002+00:00",
-    "total_features": 441
+    "last_updated": "2026-03-31T07:18:47.755457+00:00",
+    "total_features": 448
   }
 }
