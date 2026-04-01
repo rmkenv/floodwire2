@@ -11648,11 +11648,1285 @@
         "osm_id": 166563,
         "run_at": "2026-03-31T07:18:47.752865+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4039155,
+          43.2144051
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/04/flash-flood-warning-in-place-for-oneida-county-until-1-a-m-wednesday-triggered-by-thunderstorms.html",
+        "title": "Flash flood warning in place for Oneida County until 1 a.m. Wednesday triggered by thunderstorms",
+        "source": "syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T01:05:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/04/flash-flood-warning-in-place-for-oneida-county-until-1-a-m-wednesday-triggered-by-thunderstorms.html",
+        "mention_text": "Oneida County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Oneida County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1838104,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5631125,
+          40.8682487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thelcn.com/news/update-flash-flood-warning-extended-for-livingston-county-flood-warning-for-wyoming-county/article_e7ee5fb0-9447-4d2c-9416-dce6d1652a5a.html",
+        "title": "UPDATE: Flash flood warning extended for Livingston County; flood warning for Wyoming County",
+        "source": "Livingston County News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T02:20:51Z",
+        "url": "https://www.thelcn.com/news/update-flash-flood-warning-extended-for-livingston-county-flood-warning-for-wyoming-county/article_e7ee5fb0-9447-4d2c-9416-dce6d1652a5a.html",
+        "mention_text": "Livingston County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Livingston County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1800376,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.019111,
+          41.5179097
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thelcn.com/news/update-flash-flood-warning-extended-for-livingston-county-flood-warning-for-wyoming-county/article_e7ee5fb0-9447-4d2c-9416-dce6d1652a5a.html",
+        "title": "UPDATE: Flash flood warning extended for Livingston County; flood warning for Wyoming County",
+        "source": "Livingston County News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T02:20:51Z",
+        "url": "https://www.thelcn.com/news/update-flash-flood-warning-extended-for-livingston-county-flood-warning-for-wyoming-county/article_e7ee5fb0-9447-4d2c-9416-dce6d1652a5a.html",
+        "mention_text": "Wyoming County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Wyoming County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417773,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3249475,
+          41.0400423
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flood-warning-issued-for-livingston-and-monroe-counties-until-wednesday-afternoon.html",
+        "title": "NY weather: Flood warning issued for Livingston and Monroe counties until Wednesday afternoon",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T06:25:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flood-warning-issued-for-livingston-and-monroe-counties-until-wednesday-afternoon.html",
+        "mention_text": "Monroe",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Monroe County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417787,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2509362,
+          43.5128161
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.democratandchronicle.com/story/weather/2026/03/31/flood-warning-new-york-what-to-know/89401249007/",
+        "title": "Flood warning issued for parts of upstate New York. What to know",
+        "source": "Democrat and Chronicle",
+        "outlet_city": "Houston",
+        "outlet_region": "Texas",
+        "published_at": "2026-03-31T14:38:00Z",
+        "url": "https://www.democratandchronicle.com/story/weather/2026/03/31/flood-warning-new-york-what-to-know/89401249007/",
+        "mention_text": "New York",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Texas, Town of Mexico, Oswego County, New York, 13114, United States",
+        "osm_type": "hamlet",
+        "osm_id": 158655975,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2512895,
+          45.0157576
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cleveland.com/news/2026/04/flash-flood-warning-for-parts-of-northeast-ohio.html",
+        "title": "Flash flood warnings for parts of Northeast Ohio",
+        "source": "Cleveland.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T00:25:00Z",
+        "url": "https://www.cleveland.com/news/2026/04/flash-flood-warning-for-parts-of-northeast-ohio.html",
+        "mention_text": "Northeast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Northeast, Minneapolis, Hennepin County, Minnesota, 55418, United States",
+        "osm_type": "suburb",
+        "osm_id": 2084902014,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6881395,
+          40.2253569
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cleveland.com/news/2026/04/flash-flood-warning-for-parts-of-northeast-ohio.html",
+        "title": "Flash flood warnings for parts of Northeast Ohio",
+        "source": "Cleveland.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T00:25:00Z",
+        "url": "https://www.cleveland.com/news/2026/04/flash-flood-warning-for-parts-of-northeast-ohio.html",
+        "mention_text": "Ohio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 162061,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4001639,
+          39.9194117
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/03/flash-flood-warning-affecting-delaware-county-until-tuesday-night-caused-by-thunderstorms.html",
+        "title": "Flash flood warning affecting Delaware County until Tuesday night caused by thunderstorms",
+        "source": "syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-31T23:55:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/03/flash-flood-warning-affecting-delaware-county-until-tuesday-night-caused-by-thunderstorms.html",
+        "mention_text": "Delaware County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Delaware County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417846,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flood-warning-issued-for-part-of-new-york-for-wednesday-and-thursday-moderate-flooding-is.html",
+        "title": "NY weather: Flood warning issued for part of New York for Wednesday and Thursday \u2013 moderate flooding is projected",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T02:32:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flood-warning-issued-for-part-of-new-york-for-wednesday-and-thursday-moderate-flooding-is.html",
+        "mention_text": "New York",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5631125,
+          40.8682487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thelcn.com/news/update-flash-flood-warning-extended-for-livingston-county-flood-warnings-expand-in-wyoming-genesee-counties/article_e7ee5fb0-9447-4d2c-9416-dce6d1652a5a.html",
+        "title": "UPDATE: Flash flood warning extended for Livingston County; flood warnings expand in Wyoming, Genesee counties",
+        "source": "Livingston County News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-31T20:00:00Z",
+        "url": "https://www.thelcn.com/news/update-flash-flood-warning-extended-for-livingston-county-flood-warnings-expand-in-wyoming-genesee-counties/article_e7ee5fb0-9447-4d2c-9416-dce6d1652a5a.html",
+        "mention_text": "Livingston County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Livingston County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1800376,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.568534,
+          43.1700264
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thelcn.com/news/update-flash-flood-warning-extended-for-livingston-county-flood-warnings-expand-in-wyoming-genesee-counties/article_e7ee5fb0-9447-4d2c-9416-dce6d1652a5a.html",
+        "title": "UPDATE: Flash flood warning extended for Livingston County; flood warnings expand in Wyoming, Genesee counties",
+        "source": "Livingston County News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-31T20:00:00Z",
+        "url": "https://www.thelcn.com/news/update-flash-flood-warning-extended-for-livingston-county-flood-warnings-expand-in-wyoming-genesee-counties/article_e7ee5fb0-9447-4d2c-9416-dce6d1652a5a.html",
+        "mention_text": "Wyoming",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Wyoming, United States",
+        "osm_type": "administrative",
+        "osm_id": 161991,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flash-flood-warning-in-place-for-part-of-new-york-until-tuesday-night-triggered-by-thunde.html",
+        "title": "NY weather: Flash flood warning in place for part of New York until Tuesday night triggered by thunderstorms",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-31T23:39:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flash-flood-warning-in-place-for-part-of-new-york-until-tuesday-night-triggered-by-thunde.html",
+        "mention_text": "New York",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9715967,
+          31.6429346
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/03/flood-warning-issued-for-hamilton-county-until-wednesday-afternoon-minor-flooding-is-projected.html",
+        "title": "Flood warning issued for Hamilton County until Wednesday afternoon \u2014 minor flooding is projected",
+        "source": "syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-31T23:53:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/03/flood-warning-issued-for-hamilton-county-until-wednesday-afternoon-minor-flooding-is-projected.html",
+        "mention_text": "Hamilton County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Hamilton County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836993,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4001639,
+          39.9194117
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flash-flood-warning-issued-for-delaware-county-until-tuesday-night-caused-by-thunderstorm.html",
+        "title": "NY weather: Flash flood warning issued for Delaware County until Tuesday night caused by thunderstorms",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-31T23:55:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flash-flood-warning-issued-for-delaware-county-until-tuesday-night-caused-by-thunderstorm.html",
+        "mention_text": "Delaware County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Delaware County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417846,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0419281,
+          42.2446061
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flash-flood-warning-affecting-allegany-and-livingston-counties-tuesday-night-due-to-thund.html",
+        "title": "NY weather: Flash flood warning affecting Allegany and Livingston counties Tuesday night due to thunderstorms",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T00:42:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flash-flood-warning-affecting-allegany-and-livingston-counties-tuesday-night-due-to-thund.html",
+        "mention_text": "Allegany",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Allegany County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837989,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flash-flood-warning-issued-for-part-of-new-york-tuesday-evening-due-to-thunderstorms.html",
+        "title": "NY weather: Flash flood warning issued for part of New York Tuesday evening due to thunderstorms",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-31T21:55:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flash-flood-warning-issued-for-part-of-new-york-tuesday-evening-due-to-thunderstorms.html",
+        "mention_text": "New York",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flash-flood-warning-for-part-of-new-york-tuesday-night-caused-by-thunderstorms.html",
+        "title": "NY weather: Flash flood warning for part of New York Tuesday night caused by thunderstorms",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-31T22:40:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flash-flood-warning-for-part-of-new-york-tuesday-night-caused-by-thunderstorms.html",
+        "mention_text": "New York",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5631125,
+          40.8682487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thelcn.com/news/update-flash-flood-warning-issued-for-livingston-county/article_e7ee5fb0-9447-4d2c-9416-dce6d1652a5a.html",
+        "title": "UPDATE: Flash flood warning issued for Livingston County",
+        "source": "Livingston County News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-31T21:31:52Z",
+        "url": "https://www.thelcn.com/news/update-flash-flood-warning-issued-for-livingston-county/article_e7ee5fb0-9447-4d2c-9416-dce6d1652a5a.html",
+        "mention_text": "Livingston County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Livingston County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1800376,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flash-flood-warning-affecting-part-of-new-york-tuesday-evening-caused-by-thunderstorms.html",
+        "title": "NY weather: Flash flood warning affecting part of New York Tuesday evening caused by thunderstorms",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-31T21:11:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flash-flood-warning-affecting-part-of-new-york-tuesday-evening-caused-by-thunderstorms.html",
+        "mention_text": "New York",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flash-flood-warning-active-for-part-of-new-york-until-tuesday-night-due-to-thunderstorms.html",
+        "title": "NY weather: Flash flood warning active for part of New York until Tuesday night due to thunderstorms",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-31T20:54:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flash-flood-warning-active-for-part-of-new-york-until-tuesday-night-due-to-thunderstorms.html",
+        "mention_text": "New York",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/03/ny-weather-part-of-new-york-under-a-flash-flood-warning-tuesday-evening-caused-by-thunderstorms.html",
+        "title": "NY weather: part of New York under a flash flood warning Tuesday evening caused by thunderstorms",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-31T20:39:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/03/ny-weather-part-of-new-york-under-a-flash-flood-warning-tuesday-evening-caused-by-thunderstorms.html",
+        "mention_text": "New York",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9481252,
+          43.4911326
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/03/flood-warning-issued-for-north-country-mohawk-valley-for-wednesday-and-thursday-minor-flooding-is-ta.html",
+        "title": "Update: Flood warning affecting Herkimer and Oneida counties until Thursday night",
+        "source": "syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-31T17:17:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/03/flood-warning-issued-for-north-country-mohawk-valley-for-wednesday-and-thursday-minor-flooding-is-ta.html",
+        "mention_text": "Herkimer",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Herkimer County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1835283,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4039155,
+          43.2144051
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/03/flood-warning-issued-for-north-country-mohawk-valley-for-wednesday-and-thursday-minor-flooding-is-ta.html",
+        "title": "Update: Flood warning affecting Herkimer and Oneida counties until Thursday night",
+        "source": "syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-31T17:17:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/03/flood-warning-issued-for-north-country-mohawk-valley-for-wednesday-and-thursday-minor-flooding-is-ta.html",
+        "mention_text": "Oneida",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oneida County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1838104,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flood-warning-issued-for-part-of-new-york-until-wednesday-midday-minor-flooding-is-foreca.html",
+        "title": "NY weather: Flood warning issued for part of New York until Wednesday midday \u2013 minor flooding is forecast",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-31T19:36:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flood-warning-issued-for-part-of-new-york-until-wednesday-midday-minor-flooding-is-foreca.html",
+        "mention_text": "New York",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flood-warning-issued-for-part-of-new-york-for-wednesday-and-thursday-minor-flooding-is-pr.html",
+        "title": "NY weather: Flood warning issued for part of New York for Wednesday and Thursday \u2013 minor flooding is projected",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-31T17:17:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flood-warning-issued-for-part-of-new-york-for-wednesday-and-thursday-minor-flooding-is-pr.html",
+        "mention_text": "New York",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4039155,
+          43.2144051
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flood-warning-for-herkimer-and-oneida-counties-until-thursday-night-moderate-flooding-is.html",
+        "title": "NY weather: Flood warning for Herkimer and Oneida counties until Thursday night \u2013 moderate flooding is projected",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T01:56:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flood-warning-for-herkimer-and-oneida-counties-until-thursday-night-moderate-flooding-is.html",
+        "mention_text": "Oneida",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Oneida County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1838104,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.568534,
+          43.1700264
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thedailynewsonline.com/news/flood-warning-issued-for-genesee-livingston-and-wyoming-counties/article_ce1b367b-1de0-4e5f-ba6e-858e86d068de.html",
+        "title": "Flood warning issued for Genesee, Livingston and Wyoming counties",
+        "source": "TheDailyNewsOnline.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-31T14:15:00Z",
+        "url": "https://www.thedailynewsonline.com/news/flood-warning-issued-for-genesee-livingston-and-wyoming-counties/article_ce1b367b-1de0-4e5f-ba6e-858e86d068de.html",
+        "mention_text": "Wyoming",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Wyoming, United States",
+        "osm_type": "administrative",
+        "osm_id": 161991,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5700777,
+          42.8093409
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/04/ny-weather-cayuga-county-under-a-flood-warning-until-wednesday-morning-triggered-by-intense-rain.html",
+        "title": "NY weather: Cayuga County under a flood warning until Wednesday morning triggered by intense rain",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T04:29:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/04/ny-weather-cayuga-county-under-a-flood-warning-until-wednesday-morning-triggered-by-intense-rain.html",
+        "mention_text": "Cayuga County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cayuga County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 3379365,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.64843,
+          34.065846
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flood-warning-for-monroe-and-ontario-counties-until-wednesday-evening-minor-flooding-is-t.html",
+        "title": "NY weather: Flood warning for Monroe and Ontario counties until Wednesday evening \u2013 minor flooding is taking place",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T04:02:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flood-warning-for-monroe-and-ontario-counties-until-wednesday-evening-minor-flooding-is-t.html",
+        "mention_text": "Ontario",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Ontario, San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 11066252,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.568534,
+          43.1700264
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flood-warning-for-genesee-and-wyoming-counties-until-wednesday-midday-minor-flooding-is-t.html",
+        "title": "NY weather: Flood warning for Genesee and Wyoming counties until Wednesday midday \u2013 minor flooding is taking place",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T00:05:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flood-warning-for-genesee-and-wyoming-counties-until-wednesday-midday-minor-flooding-is-t.html",
+        "mention_text": "Wyoming",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Wyoming, United States",
+        "osm_type": "administrative",
+        "osm_id": 161991,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9715967,
+          31.6429346
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flood-warning-for-hamilton-county-until-wednesday-afternoon-minor-flooding-is-predicted.html",
+        "title": "NY weather: Flood warning for Hamilton County until Wednesday afternoon \u2013 minor flooding is predicted",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-31T23:52:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flood-warning-for-hamilton-county-until-wednesday-afternoon-minor-flooding-is-predicted.html",
+        "mention_text": "Hamilton County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Hamilton County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836993,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1640198,
+          41.1241573
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/articles/severe-thunderstorm-watch-issued-most-192929293.html",
+        "title": "Severe Thunderstorm Warning, Flash Flood Warning in place for portions of several Northeast Ohio counties",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-31T19:29:29Z",
+        "url": "https://www.yahoo.com/news/articles/severe-thunderstorm-watch-issued-most-192929293.html",
+        "mention_text": "Northeast Ohio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ohio Avenue, Northeast Tiffin Historic District, Tiffin, Seneca County, Ohio, 44883, United States",
+        "osm_type": "residential",
+        "osm_id": 8794379,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.64843,
+          34.065846
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flood-warning-in-place-for-livingston-and-ontario-counties-until-1-a-m-wednesday.html",
+        "title": "NY weather: Flood warning in place for Livingston and Ontario counties until 1 a.m. Wednesday",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-31T23:20:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flood-warning-in-place-for-livingston-and-ontario-counties-until-1-a-m-wednesday.html",
+        "mention_text": "Ontario",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ontario, San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 11066252,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0852695,
+          42.1294712
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flood-warning-active-for-erie-and-wyoming-counties-until-early-wednesday-caused-by-substa.html",
+        "title": "NY weather: Flood warning active for Erie and Wyoming counties until early Wednesday caused by substantial rainfall",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-31T22:26:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flood-warning-active-for-erie-and-wyoming-counties-until-early-wednesday-caused-by-substa.html",
+        "mention_text": "Erie",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Erie, Erie County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 187550,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.568534,
+          43.1700264
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flood-warning-active-for-erie-and-wyoming-counties-until-early-wednesday-caused-by-substa.html",
+        "title": "NY weather: Flood warning active for Erie and Wyoming counties until early Wednesday caused by substantial rainfall",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-31T22:26:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flood-warning-active-for-erie-and-wyoming-counties-until-early-wednesday-caused-by-substa.html",
+        "mention_text": "Wyoming",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Wyoming, United States",
+        "osm_type": "administrative",
+        "osm_id": 161991,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6936772,
+          41.4996574
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wkyc.com/article/weather/weather-impact/severe-thunderstorm-watch-northeast-ohio-storms-showers-winds-national-weather-service/95-2b77c61f-cb7e-4c77-a008-c2172f593b24",
+        "title": "Flood Warning in place for multiple Cleveland area counties through Wednesday morning: Latest updates on watches, advisories",
+        "source": "wkyc.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-31T19:29:00Z",
+        "url": "https://www.wkyc.com/article/weather/weather-impact/severe-thunderstorm-watch-northeast-ohio-storms-showers-winds-national-weather-service/95-2b77c61f-cb7e-4c77-a008-c2172f593b24",
+        "mention_text": "Cleveland",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cleveland, Cuyahoga County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 182130,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9481252,
+          43.4911326
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flood-warning-in-place-for-herkimer-county-until-thursday-evening-minor-flooding-is-takin.html",
+        "title": "NY weather: Flood warning in place for Herkimer County until Thursday evening \u2013 minor flooding is taking place",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-31T13:47:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/03/ny-weather-flood-warning-in-place-for-herkimer-county-until-thursday-evening-minor-flooding-is-takin.html",
+        "mention_text": "Herkimer County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Herkimer County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1835283,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/03/ny-weather-part-of-new-york-under-a-flood-advisory-until-tuesday-morning-due-to-prolonged-rain.html",
+        "title": "NY weather: part of New York under a flood advisory until Tuesday morning due to prolonged rain",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-31T11:44:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/03/ny-weather-part-of-new-york-under-a-flood-advisory-until-tuesday-morning-due-to-prolonged-rain.html",
+        "mention_text": "New York",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5849305,
+          47.1057471
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tri-cityherald.com/news/weather-news/article315135031.html",
+        "title": "Flood warning issued for Kittitas County for Saturday and Sunday, says the NWS",
+        "source": "Tri-City Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-20T23:49:09Z",
+        "url": "https://www.tri-cityherald.com/news/weather-news/article315135031.html",
+        "mention_text": "Kittitas County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kittitas County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153345,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.0057446,
+          39.6090612
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/03/flood-advisory-affecting-west-michigan-until-tuesday-night-caused-by-intense-rainfall.html",
+        "title": "Flood advisory affecting West Michigan until Tuesday night caused by intense rainfall",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-31T19:50:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/03/flood-advisory-affecting-west-michigan-until-tuesday-night-caused-by-intense-rainfall.html",
+        "mention_text": "West Michigan",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "West Michigan, Lenora, Norton County, Kansas, 67645, United States",
+        "osm_type": "service",
+        "osm_id": 13194271,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9675232,
+          45.6806353
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/03/north-country-mohawk-valley-placed-under-a-flood-advisory-until-tuesday-morning-triggered-by-prolong.html",
+        "title": "North Country, Mohawk Valley placed under a flood advisory until Tuesday morning triggered by prolonged downpours",
+        "source": "syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-31T11:43:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/03/north-country-mohawk-valley-placed-under-a-flood-advisory-until-tuesday-morning-triggered-by-prolong.html",
+        "mention_text": "North Country",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Country National Scenic Trail, Bliss Township, Emmet County, Michigan, United States",
+        "osm_type": "footway",
+        "osm_id": 628843424,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.8665384,
+          32.6409713
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/03/north-country-mohawk-valley-placed-under-a-flood-advisory-until-tuesday-morning-triggered-by-prolong.html",
+        "title": "North Country, Mohawk Valley placed under a flood advisory until Tuesday morning triggered by prolonged downpours",
+        "source": "syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-31T11:43:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/03/north-country-mohawk-valley-placed-under-a-flood-advisory-until-tuesday-morning-triggered-by-prolong.html",
+        "mention_text": "Mohawk Valley",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Mohawk Valley, Tacna, Yuma County, Arizona, United States",
+        "osm_type": "sand",
+        "osm_id": 1454558794,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.277073,
+          43.6200297
+        ]
+      },
+      "properties": {
+        "article_id": "https://oceanacountypress.com/2026/03/31/flood-advisory-issued-for-southeast-corner-of-oceana-county/",
+        "title": "Flood advisory issued for southeast corner of Oceana County",
+        "source": "OceanaCountyPress.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-31T20:40:46Z",
+        "url": "https://oceanacountypress.com/2026/03/31/flood-advisory-issued-for-southeast-corner-of-oceana-county/",
+        "mention_text": "Oceana County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oceana County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1907330,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article314728941.html",
+        "title": "UPDATE: The current flood advisory for North Bay will be expiring at 10:15 a.m.",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-17T08:00:00Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article314728941.html",
+        "mention_text": "North Bay",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/flash-flood-emergency-impacting-hawaiis-153852722.html",
+        "title": "Flash flood emergency impacting Hawaii's Oahu Island",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-20T07:00:00Z",
+        "url": "https://www.yahoo.com/news/videos/flash-flood-emergency-impacting-hawaiis-153852722.html",
+        "mention_text": "Hawaii",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6219002,
+          43.5704073
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/flash-flood-emergency-impacting-hawaiis-153852722.html",
+        "title": "Flash flood emergency impacting Hawaii's Oahu Island",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-20T07:00:00Z",
+        "url": "https://www.yahoo.com/news/videos/flash-flood-emergency-impacting-hawaiis-153852722.html",
+        "mention_text": "Oahu Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Oahu Island, Town of Bolton, Warren County, New York, United States",
+        "osm_type": "islet",
+        "osm_id": 38341027,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4353385,
+          37.7950559
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article314706672.html",
+        "title": "UPDATE: Coastal flood advisory in place for Northern California until Tuesday afternoon",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-16T08:00:00Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article314706672.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Vedanta Society of Northern California, 2323, Vallejo Street, Cow Hollow, San Francisco, California, 94123, United States",
+        "osm_type": "place_of_worship",
+        "osm_id": 11347413508,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailynews.com/2025/12/24/update-flood-advisory-active-for-los-angeles-and-ventura-counties-until-early-wednesday-evening/",
+        "title": "Update: Flood advisory active for Los Angeles and Ventura counties until early Wednesday evening",
+        "source": "Los Angeles Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-24T08:00:00Z",
+        "url": "https://www.dailynews.com/2025/12/24/update-flood-advisory-active-for-los-angeles-and-ventura-counties-until-early-wednesday-evening/",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0779359,
+          34.4458248
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailynews.com/2025/12/24/update-flood-advisory-active-for-los-angeles-and-ventura-counties-until-early-wednesday-evening/",
+        "title": "Update: Flood advisory active for Los Angeles and Ventura counties until early Wednesday evening",
+        "source": "Los Angeles Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-24T08:00:00Z",
+        "url": "https://www.dailynews.com/2025/12/24/update-flood-advisory-active-for-los-angeles-and-ventura-counties-until-early-wednesday-evening/",
+        "mention_text": "Ventura",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ventura County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396505,
+        "run_at": "2026-04-01T07:27:11.344862+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-03-31T07:18:47.755457+00:00",
-    "total_features": 448
+    "last_updated": "2026-04-01T07:27:11.347569+00:00",
+    "total_features": 497
   }
 }
