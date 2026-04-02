@@ -12922,11 +12922,921 @@
         "osm_id": 396505,
         "run_at": "2026-04-01T07:27:11.344862+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8138207,
+          30.8918676
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.the-daily-record.com/story/weather/2026/04/01/weather-alert/89416060007/",
+        "title": "Flood warning issued for Holmes County",
+        "source": "Wooster Daily Record",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T12:09:00Z",
+        "url": "https://www.the-daily-record.com/story/weather/2026/04/01/weather-alert/89416060007/",
+        "mention_text": "Holmes County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Holmes County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210750,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2809361,
+          40.5093232
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/articles/flood-warning-issued-stillwater-creek-115355951.html",
+        "title": "Flood warning issued for Stillwater Creek in Tuscarawas County",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T11:53:55Z",
+        "url": "https://www.yahoo.com/news/articles/flood-warning-issued-stillwater-creek-115355951.html",
+        "mention_text": "Stillwater Creek",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Stillwater Creek, Redding, Shasta County, California, United States",
+        "osm_type": "river",
+        "osm_id": 91830574,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.464888,
+          40.3759469
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/articles/flood-warning-issued-stillwater-creek-115355951.html",
+        "title": "Flood warning issued for Stillwater Creek in Tuscarawas County",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T11:53:55Z",
+        "url": "https://www.yahoo.com/news/articles/flood-warning-issued-stillwater-creek-115355951.html",
+        "mention_text": "Tuscarawas County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Tuscarawas County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 911305,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1428967,
+          41.6951179
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bucyrustelegraphforum.com/story/weather/2026/04/01/weather-alert/89415614007/",
+        "title": "Flood warning issued for Crawford County",
+        "source": "Bucyrus Telegraph-Forum",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T12:36:00Z",
+        "url": "https://www.bucyrustelegraphforum.com/story/weather/2026/04/01/weather-alert/89415614007/",
+        "mention_text": "Crawford County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Crawford County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 416692,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2360391,
+          40.7887367
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.times-gazette.com/story/weather/2026/04/01/weather-alert/89415784007/",
+        "title": "Flood warning issued for Ashland County",
+        "source": "Ashland Times-Gazette",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T12:32:00Z",
+        "url": "https://www.times-gazette.com/story/weather/2026/04/01/weather-alert/89415784007/",
+        "mention_text": "Ashland County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ashland County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 911247,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9271441,
+          40.2905684
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.coshoctontribune.com/story/weather/2026/04/01/flood-warning-issued-for-coshocton-county-as-muskingum-river-rises/89421187007/",
+        "title": "Flood warning issued for Coshocton County as Muskingum River rises",
+        "source": "coshoctontribune.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T16:46:00Z",
+        "url": "https://www.coshoctontribune.com/story/weather/2026/04/01/flood-warning-issued-for-coshocton-county-as-muskingum-river-rises/89421187007/",
+        "mention_text": "Coshocton County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Coshocton County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 241687,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8951675,
+          39.7635352
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.coshoctontribune.com/story/weather/2026/04/01/flood-warning-issued-for-coshocton-county-as-muskingum-river-rises/89421187007/",
+        "title": "Flood warning issued for Coshocton County as Muskingum River rises",
+        "source": "coshoctontribune.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T16:46:00Z",
+        "url": "https://www.coshoctontribune.com/story/weather/2026/04/01/flood-warning-issued-for-coshocton-county-as-muskingum-river-rises/89421187007/",
+        "mention_text": "Muskingum River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Muskingum River, Ohio, United States",
+        "osm_type": "river",
+        "osm_id": 7970895,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/04/ny-weather-part-of-new-york-under-a-flood-warning-until-thursday-morning-minor-flooding-is-predicted.html",
+        "title": "NY weather: part of New York under a flood warning until Thursday morning \u2013 minor flooding is predicted",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T20:27:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/04/ny-weather-part-of-new-york-under-a-flood-warning-until-thursday-morning-minor-flooding-is-predicted.html",
+        "mention_text": "New York",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9759906,
+          42.6384959
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thelcn.com/news/flood-warning-issued-for-genesee-river-in-avon/article_5177b7e3-e470-47b7-8202-e86e9cfdd236.html",
+        "title": "Flood warning issued for Genesee River in Avon",
+        "source": "Livingston County News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T07:47:00Z",
+        "url": "https://www.thelcn.com/news/flood-warning-issued-for-genesee-river-in-avon/article_5177b7e3-e470-47b7-8202-e86e9cfdd236.html",
+        "mention_text": "Genesee River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Genesee River, New York, United States",
+        "osm_type": "river",
+        "osm_id": 2191107,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2103169,
+          40.2493962
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pennlive.com/weather-alerts/2026/04/update-flood-warning-issued-for-western-pa-until-wednesday-midday-due-to-prolonged-rainfall.html",
+        "title": "Update: Flood warning issued for Western Pa. until Wednesday midday due to prolonged rainfall",
+        "source": "pennlive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T09:35:00Z",
+        "url": "https://www.pennlive.com/weather-alerts/2026/04/update-flood-warning-issued-for-western-pa-until-wednesday-midday-due-to-prolonged-rainfall.html",
+        "mention_text": "Western Pa.",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Western Avenue, Houston, Washington County, Pennsylvania, 15342, United States",
+        "osm_type": "secondary",
+        "osm_id": 55346690,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flood-watch-affecting-part-of-new-york-until-thursday-morning-triggered-by-persistent-rai.html",
+        "title": "NY weather: Flood watch affecting part of New York until Thursday morning triggered by persistent rain",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T18:01:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flood-watch-affecting-part-of-new-york-until-thursday-morning-triggered-by-persistent-rai.html",
+        "mention_text": "New York",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1279841,
+          43.4112973
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/04/flood-advisory-for-oswego-county-until-early-thursday-morning-caused-by-excessive-downpours.html",
+        "title": "Flood advisory for Oswego County until early Thursday morning caused by excessive downpours",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T10:00:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/04/flood-advisory-for-oswego-county-until-early-thursday-morning-caused-by-excessive-downpours.html",
+        "mention_text": "Oswego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oswego County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1835253,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5631125,
+          40.8682487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thelcn.com/news/update-flash-flood-warning-issued-for-livingston-county-flood-warning-for-wyoming-county/article_e7ee5fb0-9447-4d2c-9416-dce6d1652a5a.html",
+        "title": "UPDATE: Flash flood warning issued for Livingston County; flood warning for Wyoming County",
+        "source": "Livingston County News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-31T22:45:09Z",
+        "url": "https://www.thelcn.com/news/update-flash-flood-warning-issued-for-livingston-county-flood-warning-for-wyoming-county/article_e7ee5fb0-9447-4d2c-9416-dce6d1652a5a.html",
+        "mention_text": "Livingston County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Livingston County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1800376,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.019111,
+          41.5179097
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thelcn.com/news/update-flash-flood-warning-issued-for-livingston-county-flood-warning-for-wyoming-county/article_e7ee5fb0-9447-4d2c-9416-dce6d1652a5a.html",
+        "title": "UPDATE: Flash flood warning issued for Livingston County; flood warning for Wyoming County",
+        "source": "Livingston County News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-31T22:45:09Z",
+        "url": "https://www.thelcn.com/news/update-flash-flood-warning-issued-for-livingston-county-flood-warning-for-wyoming-county/article_e7ee5fb0-9447-4d2c-9416-dce6d1652a5a.html",
+        "mention_text": "Wyoming County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Wyoming County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417773,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5631125,
+          40.8682487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thelcn.com/news/update-flood-warning-issued-for-livingston-county-flood-warning-for-wyoming-county/article_e7ee5fb0-9447-4d2c-9416-dce6d1652a5a.html",
+        "title": "UPDATE: Flash flood warning extended for Livingston County; flood warning for Wyoming County",
+        "source": "Livingston County News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T02:20:51Z",
+        "url": "https://www.thelcn.com/news/update-flood-warning-issued-for-livingston-county-flood-warning-for-wyoming-county/article_e7ee5fb0-9447-4d2c-9416-dce6d1652a5a.html",
+        "mention_text": "Livingston County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Livingston County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1800376,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.019111,
+          41.5179097
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thelcn.com/news/update-flood-warning-issued-for-livingston-county-flood-warning-for-wyoming-county/article_e7ee5fb0-9447-4d2c-9416-dce6d1652a5a.html",
+        "title": "UPDATE: Flash flood warning extended for Livingston County; flood warning for Wyoming County",
+        "source": "Livingston County News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T02:20:51Z",
+        "url": "https://www.thelcn.com/news/update-flood-warning-issued-for-livingston-county-flood-warning-for-wyoming-county/article_e7ee5fb0-9447-4d2c-9416-dce6d1652a5a.html",
+        "mention_text": "Wyoming County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Wyoming County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417773,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4039155,
+          43.2144051
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flood-warning-affecting-oneida-county-until-wednesday-evening-due-to-excessive-downpours.html",
+        "title": "NY weather update: Flood warning affecting Oneida County until Wednesday evening due to excessive downpours",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T11:53:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flood-warning-affecting-oneida-county-until-wednesday-evening-due-to-excessive-downpours.html",
+        "mention_text": "Oneida County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oneida County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1838104,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1279841,
+          43.4112973
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flood-advisory-issued-for-oswego-county-until-early-thursday-morning-caused-by-persistent.html",
+        "title": "NY weather: Flood advisory issued for Oswego County until early Thursday morning caused by persistent rainfall",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T09:59:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flood-advisory-issued-for-oswego-county-until-early-thursday-morning-caused-by-persistent.html",
+        "mention_text": "Oswego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oswego County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1835253,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0852695,
+          42.1294712
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flood-warning-in-place-for-erie-and-niagara-counties-from-thursday-to-saturday.html",
+        "title": "NY weather: Flood warning in place for Erie and Niagara counties from Thursday to Saturday",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T09:38:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flood-warning-in-place-for-erie-and-niagara-counties-from-thursday-to-saturday.html",
+        "mention_text": "Erie",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Erie, Erie County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 187550,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flood-warning-active-for-part-of-new-york-until-early-thursday-evening-minor-flooding-is.html",
+        "title": "NY weather: Flood warning active for part of New York until early Thursday evening \u2013 minor flooding is anticipated",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T08:15:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flood-warning-active-for-part-of-new-york-until-early-thursday-evening-minor-flooding-is.html",
+        "mention_text": "New York",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5781416,
+          39.100105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kansascity.com/news/weather-news/article315272223.html",
+        "title": "Update: The Kansas City area under a flood advisory until 1 a.m. Thursday",
+        "source": "Kansas City Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-02T03:11:07Z",
+        "url": "https://www.kansascity.com/news/weather-news/article315272223.html",
+        "mention_text": "Kansas City",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kansas City, Jackson County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 141008,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6863808,
+          36.2228105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article315270190.html",
+        "title": "Flood advisory for Watauga County until Wednesday night caused by persistent rain",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T23:01:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article315270190.html",
+        "mention_text": "Watauga County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Watauga County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528754,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2512895,
+          45.0157576
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cleveland.com/news/2026/04/flood-advisory-issued-for-parts-of-northeast-ohio.html",
+        "title": "Flood advisory issued for parts of Northeast Ohio",
+        "source": "Cleveland.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-02T00:57:00Z",
+        "url": "https://www.cleveland.com/news/2026/04/flood-advisory-issued-for-parts-of-northeast-ohio.html",
+        "mention_text": "Northeast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Northeast, Minneapolis, Hennepin County, Minnesota, 55418, United States",
+        "osm_type": "suburb",
+        "osm_id": 2084902014,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6881395,
+          40.2253569
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cleveland.com/news/2026/04/flood-advisory-issued-for-parts-of-northeast-ohio.html",
+        "title": "Flood advisory issued for parts of Northeast Ohio",
+        "source": "Cleveland.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-02T00:57:00Z",
+        "url": "https://www.cleveland.com/news/2026/04/flood-advisory-issued-for-parts-of-northeast-ohio.html",
+        "mention_text": "Ohio",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 162061,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5781416,
+          39.100105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kansascity.com/news/weather-news/article315259637.html",
+        "title": "Update: Flood advisory in place for the Kansas City area Wednesday morning",
+        "source": "Kansas City Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T09:23:07Z",
+        "url": "https://www.kansascity.com/news/weather-news/article315259637.html",
+        "mention_text": "Kansas City",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kansas City, Jackson County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 141008,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.91328,
+          41.7261767
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article314816434.html",
+        "title": "UPDATE: Flood advisory affecting Del Norte County until early Tuesday evening",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-24T08:00:00Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article314816434.html",
+        "mention_text": "Del Norte County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Del Norte County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396503,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.375716,
+          35.3540209
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article314718037.html",
+        "title": "UPDATE: Flood advisory for San Luis Obispo and Santa Barbara counties until 2 a.m. Tuesday",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-17T08:00:00Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article314718037.html",
+        "mention_text": "San Luis Obispo",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Luis Obispo County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396496,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.702667,
+          34.4221319
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article314718037.html",
+        "title": "UPDATE: Flood advisory for San Luis Obispo and Santa Barbara counties until 2 a.m. Tuesday",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-17T08:00:00Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article314718037.html",
+        "mention_text": "Santa Barbara",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Santa Barbara, Santa Barbara County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 112224,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6199638,
+          38.0409144
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article314755918.html",
+        "title": "UPDATE: The current flood advisory for Marin County will be expiring at 6 a.m.",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-19T08:00:00Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article314755918.html",
+        "mention_text": "Marin County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Marin County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396461,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article314718544.html",
+        "title": "UPDATE: Flood advisory for Los Angeles until 3 a.m. Tuesday triggered by persistent rain",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-17T08:00:00Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article314718544.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article314718544.html",
+        "title": "UPDATE: Flood advisory for Los Angeles until 3 a.m. Tuesday triggered by persistent rain",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-17T08:00:00Z",
+        "url": "https://www.modbee.com/news/weather-news/article314718544.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.375716,
+          35.3540209
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article314718037.html",
+        "title": "UPDATE: Flood advisory for San Luis Obispo and Santa Barbara counties until 2 a.m. Tuesday",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-17T08:00:00Z",
+        "url": "https://www.modbee.com/news/weather-news/article314718037.html",
+        "mention_text": "San Luis Obispo",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Luis Obispo County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396496,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.702667,
+          34.4221319
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article314718037.html",
+        "title": "UPDATE: Flood advisory for San Luis Obispo and Santa Barbara counties until 2 a.m. Tuesday",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-17T08:00:00Z",
+        "url": "https://www.modbee.com/news/weather-news/article314718037.html",
+        "mention_text": "Santa Barbara",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Santa Barbara, Santa Barbara County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 112224,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article314763801.html",
+        "title": "UPDATE: Flood advisory in place for Los Angeles Thursday afternoon due to excessive rain",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-19T08:00:00Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article314763801.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.899142,
+          37.6090291
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article314755919.html",
+        "title": "UPDATE: Flood advisory for Alameda County Thursday morning, says the NWS",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-19T08:00:00Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article314755919.html",
+        "mention_text": "Alameda County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Alameda County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396499,
+        "run_at": "2026-04-02T07:18:54.290439+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-04-01T07:27:11.347569+00:00",
-    "total_features": 497
+    "last_updated": "2026-04-02T07:18:54.293656+00:00",
+    "total_features": 532
   }
 }
