@@ -13832,11 +13832,505 @@
         "osm_id": 396499,
         "run_at": "2026-04-02T07:18:54.290439+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2480072,
+          44.9988053
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.greenbaypressgazette.com/story/news/local/oconto-county/2026/04/02/weather-alert/89446116007/",
+        "title": "Flood warning issued for Oconto County",
+        "source": "Green Bay Press-Gazette",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-03T04:16:00Z",
+        "url": "https://www.greenbaypressgazette.com/story/news/local/oconto-county/2026/04/02/weather-alert/89446116007/",
+        "mention_text": "Oconto County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oconto County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 1799707,
+        "run_at": "2026-04-03T07:13:19.740842+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8138207,
+          30.8918676
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.the-daily-record.com/story/weather/2026/04/02/weather-alert/89432607007/",
+        "title": "Flood warning issued for Holmes County",
+        "source": "Wooster Daily Record",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-02T12:31:00Z",
+        "url": "https://www.the-daily-record.com/story/weather/2026/04/02/weather-alert/89432607007/",
+        "mention_text": "Holmes County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Holmes County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210750,
+        "run_at": "2026-04-03T07:13:19.740842+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1555438,
+          41.2951563
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thenews-messenger.com/story/weather/2026/04/02/weather-alert/89432460007/",
+        "title": "Flood warning issued for Sandusky County",
+        "source": "Fremont News-Messenger",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-02T12:31:00Z",
+        "url": "https://www.thenews-messenger.com/story/weather/2026/04/02/weather-alert/89432460007/",
+        "mention_text": "Sandusky County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Sandusky County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 911303,
+        "run_at": "2026-04-03T07:13:19.740842+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.213342,
+          41.5421375
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.portclintonnewsherald.com/story/weather/2026/04/02/weather-alert/89431865007/",
+        "title": "Flood warning issued for Ottawa County",
+        "source": "Port Clinton News-Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-02T12:30:00Z",
+        "url": "https://www.portclintonnewsherald.com/story/weather/2026/04/02/weather-alert/89431865007/",
+        "mention_text": "Ottawa County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ottawa County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 350380,
+        "run_at": "2026-04-03T07:13:19.740842+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6793255,
+          39.1088306
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/articles/flood-warning-issued-again-along-175158673.html",
+        "title": "Flood warning issued again along the Black River",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-02T17:51:58Z",
+        "url": "https://www.yahoo.com/news/articles/flood-warning-issued-again-along-175158673.html",
+        "mention_text": "the Black River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Black Fork of the Cheat River, Tucker County, West Virginia, 26287, United States",
+        "osm_type": "river",
+        "osm_id": 255359139,
+        "run_at": "2026-04-03T07:13:19.740842+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.464888,
+          40.3759469
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.timesreporter.com/story/weather/2026/04/02/tuscarawas-county-flood-warning-issued-stillwater-creek-still-rising/89436270007/",
+        "title": "Tuscarawas County flood warning: Stillwater Creek causes minor flooding",
+        "source": "Times Reporter",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-02T16:16:00Z",
+        "url": "https://www.timesreporter.com/story/weather/2026/04/02/tuscarawas-county-flood-warning-issued-stillwater-creek-still-rising/89436270007/",
+        "mention_text": "Tuscarawas County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Tuscarawas County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 911305,
+        "run_at": "2026-04-03T07:13:19.740842+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2882592,
+          40.5264295
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.timesreporter.com/story/weather/2026/04/02/tuscarawas-county-flood-warning-issued-stillwater-creek-still-rising/89436270007/",
+        "title": "Tuscarawas County flood warning: Stillwater Creek causes minor flooding",
+        "source": "Times Reporter",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-02T16:16:00Z",
+        "url": "https://www.timesreporter.com/story/weather/2026/04/02/tuscarawas-county-flood-warning-issued-stillwater-creek-still-rising/89436270007/",
+        "mention_text": "Stillwater Creek",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Stillwater Creek, Redding, Shasta County, California, 96002, United States",
+        "osm_type": "river",
+        "osm_id": 593588460,
+        "run_at": "2026-04-03T07:13:19.740842+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7059594,
+          38.5564322
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.castlecountryradio.com/2026/04/02/rangers-rescue-multiple-hikers-after-terrifying-flash-flood-near-goblin-valley/",
+        "title": "Rangers rescue multiple hikers after 'terrifying' flash flood near Goblin Valley | KOAl - Price,UT",
+        "source": "Castle Country Radio",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-02T18:40:51Z",
+        "url": "https://www.castlecountryradio.com/2026/04/02/rangers-rescue-multiple-hikers-after-terrifying-flash-flood-near-goblin-valley/",
+        "mention_text": "Goblin Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Goblin Valley, Emery County, Utah, United States",
+        "osm_type": "locality",
+        "osm_id": 3338791201,
+        "run_at": "2026-04-03T07:13:19.740842+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8235511,
+          42.321246
+        ]
+      },
+      "properties": {
+        "article_id": "https://abc17news.com/news/boone/2026/04/02/boone-county-firefighters-working-to-rescue-dad-daughter-stranded-in-flood/",
+        "title": "Boone County firefighters rescue dad, daughter stranded in floodwater",
+        "source": "ABC17NEWS",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-03T00:55:10Z",
+        "url": "https://abc17news.com/news/boone/2026/04/02/boone-county-firefighters-working-to-rescue-dad-daughter-stranded-in-flood/",
+        "mention_text": "Boone County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Boone County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1799705,
+        "run_at": "2026-04-03T07:13:19.740842+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1704496,
+          29.834772
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flood-warning-affecting-jefferson-and-lewis-counties-friday-and-saturday.html",
+        "title": "NY weather: Flood warning affecting Jefferson and Lewis counties Friday and Saturday",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-02T17:16:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flood-warning-affecting-jefferson-and-lewis-counties-friday-and-saturday.html",
+        "mention_text": "Jefferson",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Jefferson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1841074,
+        "run_at": "2026-04-03T07:13:19.740842+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7013355,
+          40.0902418
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flood-warning-affecting-jefferson-and-lewis-counties-friday-and-saturday.html",
+        "title": "NY weather: Flood warning affecting Jefferson and Lewis counties Friday and Saturday",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-02T17:16:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flood-warning-affecting-jefferson-and-lewis-counties-friday-and-saturday.html",
+        "mention_text": "Lewis",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Lewis County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180497,
+        "run_at": "2026-04-03T07:13:19.740842+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9271441,
+          40.2905684
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.coshoctontribune.com/story/weather/2026/04/02/muskingum-river-rising-flood-warning-issued-for-coshocton-county/89436273007/",
+        "title": "Coshocton County under flood warning as Muskingum continues to rise",
+        "source": "Coshocton Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-02T16:25:00Z",
+        "url": "https://www.coshoctontribune.com/story/weather/2026/04/02/muskingum-river-rising-flood-warning-issued-for-coshocton-county/89436273007/",
+        "mention_text": "Coshocton County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Coshocton County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 241687,
+        "run_at": "2026-04-03T07:13:19.740842+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.213342,
+          41.5421375
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.portclintonnewsherald.com/story/weather/2026/04/01/weather-alert/89422374007/",
+        "title": "Flood warning issued for Ottawa County",
+        "source": "Port Clinton News-Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T17:38:00Z",
+        "url": "https://www.portclintonnewsherald.com/story/weather/2026/04/01/weather-alert/89422374007/",
+        "mention_text": "Ottawa County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ottawa County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 350380,
+        "run_at": "2026-04-03T07:13:19.740842+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1279841,
+          43.4112973
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flood-advisory-in-place-for-oswego-county-until-thursday-night-caused-by-intense-rain.html",
+        "title": "NY weather: Flood advisory in place for Oswego County until Thursday night caused by intense rain",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-02T09:00:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flood-advisory-in-place-for-oswego-county-until-thursday-night-caused-by-intense-rain.html",
+        "mention_text": "Oswego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oswego County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1835253,
+        "run_at": "2026-04-03T07:13:19.740842+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9760405,
+          40.4597204
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.lehighvalleylive.com/weather-alerts/2026/04/flood-advisory-in-place-for-allegheny-county-until-friday-afternoon-caused-by-heavy-rain.html",
+        "title": "Flood advisory in place for Allegheny County until Friday afternoon caused by heavy rain",
+        "source": "lehighvalleylive",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-02T14:38:00Z",
+        "url": "https://www.lehighvalleylive.com/weather-alerts/2026/04/flood-advisory-in-place-for-allegheny-county-until-friday-afternoon-caused-by-heavy-rain.html",
+        "mention_text": "Allegheny County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Allegheny County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 2563472,
+        "run_at": "2026-04-03T07:13:19.740842+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9760405,
+          40.4597204
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pennlive.com/weather-alerts/2026/04/flood-advisory-in-place-for-allegheny-county-until-friday-afternoon-due-to-persistent-rainfall.html",
+        "title": "Flood advisory in place for Allegheny County until Friday afternoon due to persistent rainfall",
+        "source": "PennLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-02T14:38:00Z",
+        "url": "https://www.pennlive.com/weather-alerts/2026/04/flood-advisory-in-place-for-allegheny-county-until-friday-afternoon-due-to-persistent-rainfall.html",
+        "mention_text": "Allegheny County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Allegheny County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 2563472,
+        "run_at": "2026-04-03T07:13:19.740842+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6863808,
+          36.2228105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article315270190.html",
+        "title": "Flood advisory for Watauga County until Wednesday night caused by persistent rain",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T23:01:07Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article315270190.html",
+        "mention_text": "Watauga County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Watauga County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528754,
+        "run_at": "2026-04-03T07:13:19.740842+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0704906,
+          42.5842136
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.shorenewsnetwork.com/flooded-road-rescue-in-cortland-after-driver-ignores-barriers-gets-stuck/",
+        "title": "Flooded road rescue in Cortland after driver ignores barriers, gets stuck",
+        "source": "shorenewsnetwork.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-02T02:45:34Z",
+        "url": "https://www.shorenewsnetwork.com/flooded-road-rescue-in-cortland-after-driver-ignores-barriers-gets-stuck/",
+        "mention_text": "Cortland",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cortland County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1838016,
+        "run_at": "2026-04-03T07:13:19.740842+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4353385,
+          37.7950559
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article314719332.html",
+        "title": "UPDATE: Flood advisory affecting Northern California until early Monday evening",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-16T08:00:00Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article314719332.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Vedanta Society of Northern California, 2323, Vallejo Street, Cow Hollow, San Francisco, California, 94123, United States",
+        "osm_type": "place_of_worship",
+        "osm_id": 11347413508,
+        "run_at": "2026-04-03T07:13:19.740842+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-04-02T07:18:54.293656+00:00",
-    "total_features": 532
+    "last_updated": "2026-04-03T07:13:19.744110+00:00",
+    "total_features": 551
   }
 }
