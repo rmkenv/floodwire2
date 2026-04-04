@@ -14326,11 +14326,505 @@
         "osm_id": 11347413508,
         "run_at": "2026-04-03T07:13:19.740842+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5630661,
+          30.9087685
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wndu.com/video/2026/04/04/yellow-river-flood-warning-issued-plymouth-marshall-county/",
+        "title": "Yellow River flood warning issued for Plymouth, Marshall County",
+        "source": "WNDU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-04T04:48:00Z",
+        "url": "https://www.wndu.com/video/2026/04/04/yellow-river-flood-warning-issued-plymouth-marshall-county/",
+        "mention_text": "Yellow River",
+        "flood_type": "riverine",
+        "confidence": 0.9,
+        "osm_display": "Yellow River, Florida, United States",
+        "osm_type": "river",
+        "osm_id": 2193573,
+        "run_at": "2026-04-04T07:07:14.900086+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2213607,
+          42.7369124
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wndu.com/video/2026/04/04/yellow-river-flood-warning-issued-plymouth-marshall-county/",
+        "title": "Yellow River flood warning issued for Plymouth, Marshall County",
+        "source": "WNDU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-04T04:48:00Z",
+        "url": "https://www.wndu.com/video/2026/04/04/yellow-river-flood-warning-issued-plymouth-marshall-county/",
+        "mention_text": "Plymouth",
+        "flood_type": "riverine",
+        "confidence": 0.9,
+        "osm_display": "Plymouth County, Iowa, United States",
+        "osm_type": "administrative",
+        "osm_id": 1739845,
+        "run_at": "2026-04-04T07:07:14.900086+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2998456,
+          41.0324537
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wndu.com/video/2026/04/04/yellow-river-flood-warning-issued-plymouth-marshall-county/",
+        "title": "Yellow River flood warning issued for Plymouth, Marshall County",
+        "source": "WNDU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-04T04:48:00Z",
+        "url": "https://www.wndu.com/video/2026/04/04/yellow-river-flood-warning-issued-plymouth-marshall-county/",
+        "mention_text": "Marshall County",
+        "flood_type": "riverine",
+        "confidence": 0.9,
+        "osm_display": "Marshall County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1800723,
+        "run_at": "2026-04-04T07:07:14.900086+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1640198,
+          41.1241573
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wkyc.com/article/weather/weather-impact/severe-thunderstorm-warning-summit-stark-wayne-northeast-ohio/95-f83f6f83-1c94-4aa4-919e-e22125983c99",
+        "title": "Flash Flood Warning in effect for several Northeast Ohio counties",
+        "source": "WKYC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-03T20:59:00Z",
+        "url": "https://www.wkyc.com/article/weather/weather-impact/severe-thunderstorm-warning-summit-stark-wayne-northeast-ohio/95-f83f6f83-1c94-4aa4-919e-e22125983c99",
+        "mention_text": "Northeast Ohio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ohio Avenue, Northeast Tiffin Historic District, Tiffin, Seneca County, Ohio, 44883, United States",
+        "osm_type": "residential",
+        "osm_id": 8794379,
+        "run_at": "2026-04-04T07:07:14.900086+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2360391,
+          40.7887367
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.knoxpages.com/2026/04/03/national-weather-service-issues-flash-flood-warning-for-knox-ashland-richland-morrow-counties/",
+        "title": "National Weather Service issues Flash Flood Warning for Knox, Ashland, Richland, Morrow counties",
+        "source": "Knox Pages",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-04T03:56:32Z",
+        "url": "https://www.knoxpages.com/2026/04/03/national-weather-service-issues-flash-flood-warning-for-knox-ashland-richland-morrow-counties/",
+        "mention_text": "Ashland",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ashland County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 911247,
+        "run_at": "2026-04-04T07:07:14.900086+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.upi.com/Top_News/US/2026/04/03/utah-hikers-rescued-flood/7601775255314/",
+        "title": "Utah hikers rescued after flash flood sweeps through slot canyon",
+        "source": "upi.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-03T22:36:22Z",
+        "url": "https://www.upi.com/Top_News/US/2026/04/03/utah-hikers-rescued-flood/7601775255314/",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-04-04T07:07:14.900086+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1640198,
+          41.1241573
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.news5cleveland.com/weather/weather-news/severe-thunderstorm-warning-issued-for-stark-medina-summit-and-wayne-counties",
+        "title": "Flash flood warnings issued for some Northeast Ohio counties",
+        "source": "News 5 Cleveland WEWS",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-03T17:52:00Z",
+        "url": "https://www.news5cleveland.com/weather/weather-news/severe-thunderstorm-warning-issued-for-stark-medina-summit-and-wayne-counties",
+        "mention_text": "Northeast Ohio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ohio Avenue, Northeast Tiffin Historic District, Tiffin, Seneca County, Ohio, 44883, United States",
+        "osm_type": "residential",
+        "osm_id": 8794379,
+        "run_at": "2026-04-04T07:07:14.900086+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/leisure-recreation/utah-hikers-rescued-after-flash-flood-sweeps-through-slot-canyon/1878931",
+        "title": "Utah hikers rescued after flash flood sweeps through slot canyon",
+        "source": "AccuWeather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-03T15:45:42Z",
+        "url": "https://www.accuweather.com/en/leisure-recreation/utah-hikers-rescued-after-flash-flood-sweeps-through-slot-canyon/1878931",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-04-04T07:07:14.900086+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1640198,
+          41.1241573
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wkyc.com/video/news/local/flash-flood-warning-in-effect-for-several-northeast-ohio-counties/95-6eae612a-d4e3-4b85-a6ee-527ac571c6cb",
+        "title": "Flash Flood Warning in effect for several Northeast Ohio counties",
+        "source": "WKYC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-04T03:04:00Z",
+        "url": "https://www.wkyc.com/video/news/local/flash-flood-warning-in-effect-for-several-northeast-ohio-counties/95-6eae612a-d4e3-4b85-a6ee-527ac571c6cb",
+        "mention_text": "Northeast Ohio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ohio Avenue, Northeast Tiffin Historic District, Tiffin, Seneca County, Ohio, 44883, United States",
+        "osm_type": "residential",
+        "osm_id": 8794379,
+        "run_at": "2026-04-04T07:07:14.900086+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8138207,
+          30.8918676
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.the-daily-record.com/story/weather/2026/04/03/weather-alert/89447598007/",
+        "title": "Flood warning issued for Holmes County",
+        "source": "Wooster Daily Record",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-03T11:19:00Z",
+        "url": "https://www.the-daily-record.com/story/weather/2026/04/03/weather-alert/89447598007/",
+        "mention_text": "Holmes County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Holmes County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210750,
+        "run_at": "2026-04-04T07:07:14.900086+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6793255,
+          39.1088306
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.informnny.com/weather/flood-warning-issued-again-along-the-black-river/",
+        "title": "Flood warning issued again along the Black River",
+        "source": "InformNNY.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-02T17:51:58Z",
+        "url": "https://www.informnny.com/weather/flood-warning-issued-again-along-the-black-river/",
+        "mention_text": "the Black River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Black Fork of the Cheat River, Tucker County, West Virginia, 26287, United States",
+        "osm_type": "river",
+        "osm_id": 255359139,
+        "run_at": "2026-04-04T07:07:14.900086+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4039155,
+          43.2144051
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flash-flood-warning-affecting-oneida-county-until-1-a-m-wednesday-triggered-by-thundersto.html",
+        "title": "NY weather: Flash flood warning affecting Oneida County until 1 a.m. Wednesday triggered by thunderstorms",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T01:06:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flash-flood-warning-affecting-oneida-county-until-1-a-m-wednesday-triggered-by-thundersto.html",
+        "mention_text": "Oneida County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Oneida County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1838104,
+        "run_at": "2026-04-04T07:07:14.900086+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5700777,
+          42.8093409
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/04/flood-warning-in-place-for-cayuga-county-until-wednesday-morning-caused-by-excessive-downpours.html",
+        "title": "Flood warning in place for Cayuga County until Wednesday morning caused by excessive downpours",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T04:28:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/04/flood-warning-in-place-for-cayuga-county-until-wednesday-morning-caused-by-excessive-downpours.html",
+        "mention_text": "Cayuga County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cayuga County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 3379365,
+        "run_at": "2026-04-04T07:07:14.900086+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kitsapsun.com/embed/video/10440839002/",
+        "title": "Hurricane Ian: Florida Gov. Ron DeSantis talks storm surge, flooding",
+        "source": "Kitsap Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-03T12:41:32Z",
+        "url": "https://www.kitsapsun.com/embed/video/10440839002/",
+        "mention_text": "Florida",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-04-04T07:07:14.900086+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0704906,
+          42.5842136
+        ]
+      },
+      "properties": {
+        "article_id": "https://607newsnow.com/news/258852-troopers-assist-with-disabled-vehicle-on-flooded-road-in-cortland/",
+        "title": "Troopers assist with disabled vehicle on flooded road in Cortland",
+        "source": "607 News Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-03T09:05:54Z",
+        "url": "https://607newsnow.com/news/258852-troopers-assist-with-disabled-vehicle-on-flooded-road-in-cortland/",
+        "mention_text": "Cortland",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cortland County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1838016,
+        "run_at": "2026-04-04T07:07:14.900086+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4353385,
+          37.7950559
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article314816435.html",
+        "title": "UPDATE: Flood advisory for Northern California predicted to expire at 11:30 p.m.",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-25T08:00:00Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article314816435.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Vedanta Society of Northern California, 2323, Vallejo Street, Cow Hollow, San Francisco, California, 94123, United States",
+        "osm_type": "place_of_worship",
+        "osm_id": 11347413508,
+        "run_at": "2026-04-04T07:07:14.900086+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.730998,
+          40.7685579
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article314828118.html",
+        "title": "Flood advisory for Lassen County until Wednesday evening",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-24T08:00:00Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article314828118.html",
+        "mention_text": "Lassen County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Lassen County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396469,
+        "run_at": "2026-04-04T07:07:14.900086+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.375716,
+          35.3540209
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article314718037.html",
+        "title": "UPDATE: Flood advisory for San Luis Obispo and Santa Barbara counties until 2 a.m. Tuesday",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-17T08:00:00Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article314718037.html",
+        "mention_text": "San Luis Obispo",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Luis Obispo County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396496,
+        "run_at": "2026-04-04T07:07:14.900086+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.702667,
+          34.4221319
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article314718037.html",
+        "title": "UPDATE: Flood advisory for San Luis Obispo and Santa Barbara counties until 2 a.m. Tuesday",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-17T08:00:00Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article314718037.html",
+        "mention_text": "Santa Barbara",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Santa Barbara, Santa Barbara County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 112224,
+        "run_at": "2026-04-04T07:07:14.900086+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-04-03T07:13:19.744110+00:00",
-    "total_features": 551
+    "last_updated": "2026-04-04T07:07:14.903190+00:00",
+    "total_features": 570
   }
 }
