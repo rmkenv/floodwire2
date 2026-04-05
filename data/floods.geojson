@@ -14820,11 +14820,713 @@
         "osm_id": 112224,
         "run_at": "2026-04-04T07:07:14.900086+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7118868,
+          44.7817214
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.greenbaypressgazette.com/story/weather/2026/04/04/april-4-flood-warning-issued-for-rivers-in-shawano-brown-oconto-counties/89466301007/",
+        "title": "April 4 flood warning issued for rivers in Shawano, Brown, Oconto counties",
+        "source": "Green Bay Press-Gazette",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-04T21:19:00Z",
+        "url": "https://www.greenbaypressgazette.com/story/weather/2026/04/04/april-4-flood-warning-issued-for-rivers-in-shawano-brown-oconto-counties/89466301007/",
+        "mention_text": "Shawano",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Shawano County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 270645,
+        "run_at": "2026-04-05T07:11:27.507350+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2480072,
+          44.9988053
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.greenbaypressgazette.com/story/weather/2026/04/04/april-4-flood-warning-issued-for-rivers-in-shawano-brown-oconto-counties/89466301007/",
+        "title": "April 4 flood warning issued for rivers in Shawano, Brown, Oconto counties",
+        "source": "Green Bay Press-Gazette",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-04T21:19:00Z",
+        "url": "https://www.greenbaypressgazette.com/story/weather/2026/04/04/april-4-flood-warning-issued-for-rivers-in-shawano-brown-oconto-counties/89466301007/",
+        "mention_text": "Oconto",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oconto County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 1799707,
+        "run_at": "2026-04-05T07:11:27.507350+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4937379,
+          35.066321
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.postcrescent.com/story/weather/2026/04/04/flood-warning-issued-for-wolf-river-in-new-london-april-4-to-10/89466300007/",
+        "title": "Flood warning issued for Wolf River in New London April 4 to 10",
+        "source": "The Post-Crescent",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-04T19:40:00Z",
+        "url": "https://www.postcrescent.com/story/weather/2026/04/04/flood-warning-issued-for-wolf-river-in-new-london-april-4-to-10/89466300007/",
+        "mention_text": "Wolf River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Wolf River, Fayette County, West Tennessee, Tennessee, United States",
+        "osm_type": "river",
+        "osm_id": 3803064,
+        "run_at": "2026-04-05T07:11:27.507350+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0997804,
+          41.3556187
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.postcrescent.com/story/weather/2026/04/04/flood-warning-issued-for-wolf-river-in-new-london-april-4-to-10/89466300007/",
+        "title": "Flood warning issued for Wolf River in New London April 4 to 10",
+        "source": "The Post-Crescent",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-04T19:40:00Z",
+        "url": "https://www.postcrescent.com/story/weather/2026/04/04/flood-warning-issued-for-wolf-river-in-new-london-april-4-to-10/89466300007/",
+        "mention_text": "New London",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "New London, Southeastern Connecticut Planning Region, Connecticut, 06320, United States",
+        "osm_type": "administrative",
+        "osm_id": 4836510,
+        "run_at": "2026-04-05T07:11:27.507350+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3985714,
+          41.9838614
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/update-flood-warning-issued-for-berrien-county-until-2-a-m-edt-saturday-minor-flooding-is-anticipate.html",
+        "title": "Update: Flood warning issued for Berrien County until 2 a.m. EDT Saturday \u2013 minor flooding is anticipated",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-05T04:22:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/update-flood-warning-issued-for-berrien-county-until-2-a-m-edt-saturday-minor-flooding-is-anticipate.html",
+        "mention_text": "Berrien County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Berrien County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 407519,
+        "run_at": "2026-04-05T07:11:27.507350+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6984481,
+          41.2711458
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.lansingstatejournal.com/story/weather/2026/04/04/flood-warning-clinton-county-maple-river/89463698007/",
+        "title": "Flood warning issued for Clinton County. What to know",
+        "source": "Lansing State Journal",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-04T10:17:00Z",
+        "url": "https://www.lansingstatejournal.com/story/weather/2026/04/04/flood-warning-clinton-county-maple-river/89463698007/",
+        "mention_text": "Clinton County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Clinton County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 416639,
+        "run_at": "2026-04-05T07:11:27.507350+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.9802176,
+          45.5113515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.macombdaily.com/2026/04/05/flood-warning-issued-for-macomb-communities-along-north-branch-of-clinton-river/",
+        "title": "Flood warning issued for Macomb communities along North Branch of Clinton River",
+        "source": "Macomb Daily",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-05T05:05:18Z",
+        "url": "https://www.macombdaily.com/2026/04/05/flood-warning-issued-for-macomb-communities-along-north-branch-of-clinton-river/",
+        "mention_text": "North Branch",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Branch, Chisago County, Minnesota, 55056, United States",
+        "osm_type": "administrative",
+        "osm_id": 136599,
+        "run_at": "2026-04-05T07:11:27.507350+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1745992,
+          42.6503482
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.macombdaily.com/2026/04/05/flood-warning-issued-for-macomb-communities-along-north-branch-of-clinton-river/",
+        "title": "Flood warning issued for Macomb communities along North Branch of Clinton River",
+        "source": "Macomb Daily",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-05T05:05:18Z",
+        "url": "https://www.macombdaily.com/2026/04/05/flood-warning-issued-for-macomb-communities-along-north-branch-of-clinton-river/",
+        "mention_text": "Clinton River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Clinton River, Oakland County, Michigan, United States",
+        "osm_type": "river",
+        "osm_id": 17424038,
+        "run_at": "2026-04-05T07:11:27.507350+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2360391,
+          40.7887367
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.news5cleveland.com/weather/weather-news/damaging-wind-and-flooding-expected-saturday-evening",
+        "title": "Flood Warning issued for Richland, Ashland and Holmes counties",
+        "source": "News 5 Cleveland WEWS",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-04T11:26:00Z",
+        "url": "https://www.news5cleveland.com/weather/weather-news/damaging-wind-and-flooding-expected-saturday-evening",
+        "mention_text": "Ashland",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ashland County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 911247,
+        "run_at": "2026-04-05T07:11:27.507350+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8138207,
+          30.8918676
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.news5cleveland.com/weather/weather-news/damaging-wind-and-flooding-expected-saturday-evening",
+        "title": "Flood Warning issued for Richland, Ashland and Holmes counties",
+        "source": "News 5 Cleveland WEWS",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-04T11:26:00Z",
+        "url": "https://www.news5cleveland.com/weather/weather-news/damaging-wind-and-flooding-expected-saturday-evening",
+        "mention_text": "Holmes",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Holmes County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210750,
+        "run_at": "2026-04-05T07:11:27.507350+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8229669,
+          36.7033624
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-barry-county-from-sunday-to-friday-minor-flooding-is-anticipated.html",
+        "title": "Flood warning issued for Barry County from Sunday to Friday \u2013 minor flooding is anticipated",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-04T15:36:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-barry-county-from-sunday-to-friday-minor-flooding-is-anticipated.html",
+        "mention_text": "Barry County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Barry County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180438,
+        "run_at": "2026-04-05T07:11:27.507350+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5630661,
+          30.9087685
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wndu.com/2026/04/03/yellow-river-flood-warning-issued-marshall-county/",
+        "title": "Yellow River flood warning issued for Plymouth, Marshall County",
+        "source": "WNDU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-03T19:39:00Z",
+        "url": "https://www.wndu.com/2026/04/03/yellow-river-flood-warning-issued-marshall-county/",
+        "mention_text": "Yellow River",
+        "flood_type": "riverine",
+        "confidence": 0.9,
+        "osm_display": "Yellow River, Florida, United States",
+        "osm_type": "river",
+        "osm_id": 2193573,
+        "run_at": "2026-04-05T07:11:27.507350+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2213607,
+          42.7369124
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wndu.com/2026/04/03/yellow-river-flood-warning-issued-marshall-county/",
+        "title": "Yellow River flood warning issued for Plymouth, Marshall County",
+        "source": "WNDU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-03T19:39:00Z",
+        "url": "https://www.wndu.com/2026/04/03/yellow-river-flood-warning-issued-marshall-county/",
+        "mention_text": "Plymouth",
+        "flood_type": "riverine",
+        "confidence": 0.9,
+        "osm_display": "Plymouth County, Iowa, United States",
+        "osm_type": "administrative",
+        "osm_id": 1739845,
+        "run_at": "2026-04-05T07:11:27.507350+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2998456,
+          41.0324537
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wndu.com/2026/04/03/yellow-river-flood-warning-issued-marshall-county/",
+        "title": "Yellow River flood warning issued for Plymouth, Marshall County",
+        "source": "WNDU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-03T19:39:00Z",
+        "url": "https://www.wndu.com/2026/04/03/yellow-river-flood-warning-issued-marshall-county/",
+        "mention_text": "Marshall County",
+        "flood_type": "riverine",
+        "confidence": 0.9,
+        "osm_display": "Marshall County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1800723,
+        "run_at": "2026-04-05T07:11:27.507350+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2360391,
+          40.7887367
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.richlandsource.com/2026/04/03/national-weather-service-issues-flash-flood-warning-for-richland-ashland-counties/",
+        "title": "National Weather Service issues Flash Flood Warning for Richland, Ashland, Knox, Morrow counties",
+        "source": "Richland Source",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-04T03:48:09Z",
+        "url": "https://www.richlandsource.com/2026/04/03/national-weather-service-issues-flash-flood-warning-for-richland-ashland-counties/",
+        "mention_text": "Ashland",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ashland County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 911247,
+        "run_at": "2026-04-05T07:11:27.507350+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6881395,
+          40.2253569
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtrf.com/top-stories/flash-flood-warning-in-the-north/",
+        "title": "Flash Flood Warning in northern portions of Ohio",
+        "source": "WTRF",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-04T03:00:01Z",
+        "url": "https://www.wtrf.com/top-stories/flash-flood-warning-in-the-north/",
+        "mention_text": "Ohio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 162061,
+        "run_at": "2026-04-05T07:11:27.507350+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6999678,
+          38.5981639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.abc4.com/news/central-utah/hikers-rescued-goblin-valley-flash-flood/",
+        "title": "Hikers rescued at Goblin Valley State Park after being caught in flash flood",
+        "source": "ABC4 Utah",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-02T02:51:52Z",
+        "url": "https://www.abc4.com/news/central-utah/hikers-rescued-goblin-valley-flash-flood/",
+        "mention_text": "Goblin Valley State Park",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Goblin Valley State Park, Emery County, Utah, United States",
+        "osm_type": "nature_reserve",
+        "osm_id": 4760264,
+        "run_at": "2026-04-05T07:11:27.507350+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1640198,
+          41.1241573
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/articles/severe-thunderstorm-warning-effect-parts-205859564.html",
+        "title": "Flash Flood Warning in effect for several Northeast Ohio counties",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-03T20:58:59Z",
+        "url": "https://www.yahoo.com/news/articles/severe-thunderstorm-warning-effect-parts-205859564.html",
+        "mention_text": "Northeast Ohio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ohio Avenue, Northeast Tiffin Historic District, Tiffin, Seneca County, Ohio, 44883, United States",
+        "osm_type": "residential",
+        "osm_id": 8794379,
+        "run_at": "2026-04-05T07:11:27.507350+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4937379,
+          35.066321
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wearegreenbay.com/news/local-news/flood-emergency-declared-for-wolf-river-in-waupaca-county/",
+        "title": "Flood emergency declared for Wolf River in Waupaca County",
+        "source": "WFRV Local 5",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-04T17:38:30Z",
+        "url": "https://www.wearegreenbay.com/news/local-news/flood-emergency-declared-for-wolf-river-in-waupaca-county/",
+        "mention_text": "Wolf River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Wolf River, Fayette County, West Tennessee, Tennessee, United States",
+        "osm_type": "river",
+        "osm_id": 3803064,
+        "run_at": "2026-04-05T07:11:27.507350+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9650419,
+          44.4927889
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wearegreenbay.com/news/local-news/flood-emergency-declared-for-wolf-river-in-waupaca-county/",
+        "title": "Flood emergency declared for Wolf River in Waupaca County",
+        "source": "WFRV Local 5",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-04T17:38:30Z",
+        "url": "https://www.wearegreenbay.com/news/local-news/flood-emergency-declared-for-wolf-river-in-waupaca-county/",
+        "mention_text": "Waupaca County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Waupaca County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 270643,
+        "run_at": "2026-04-05T07:11:27.507350+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8468516,
+          43.6306545
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-issued-for-isabella-county-until-early-saturday-evening-due-to-intense-rain.html",
+        "title": "Flood advisory issued for Isabella County until early Saturday evening due to intense rain",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-04T14:30:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-issued-for-isabella-county-until-early-saturday-evening-due-to-intense-rain.html",
+        "mention_text": "Isabella County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Isabella County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1907316,
+        "run_at": "2026-04-05T07:11:27.507350+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7326229,
+          30.2838412
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article315298894.html",
+        "title": "Flood advisory in place for North Texas Saturday morning due to heavy rain",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-04-04T12:31:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article315298894.html",
+        "mention_text": "North Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Darrell K Royal-Texas Memorial Stadium, North Service Entrance, Eastwoods, Austin, Travis County, Texas, 78712, United States",
+        "osm_type": "stadium",
+        "osm_id": 128637559,
+        "run_at": "2026-04-05T07:11:27.507350+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7846477,
+          33.1665316
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-issued-for-kent-county-until-early-saturday-evening-caused-by-substantial-downpours.html",
+        "title": "Flood advisory issued for Kent County until early Saturday evening caused by substantial downpours",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-04T14:30:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-issued-for-kent-county-until-early-saturday-evening-caused-by-substantial-downpours.html",
+        "mention_text": "Kent County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kent County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1811588,
+        "run_at": "2026-04-05T07:11:27.507350+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8443666,
+          42.5935964
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-for-eaton-and-ingham-counties-until-saturday-afternoon-due-to-heavy-rainfall.html",
+        "title": "Flood advisory for Eaton and Ingham counties until Saturday afternoon due to heavy rainfall",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-04T13:08:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-for-eaton-and-ingham-counties-until-saturday-afternoon-due-to-heavy-rainfall.html",
+        "mention_text": "Eaton",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Eaton County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1582242,
+        "run_at": "2026-04-05T07:11:27.507350+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0468403,
+          43.3326882
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/saginaw-county-under-a-flood-advisory-until-saturday-afternoon-triggered-by-intense-downpours.html",
+        "title": "Saginaw County under a flood advisory until Saturday afternoon triggered by intense downpours",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-04T15:16:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/saginaw-county-under-a-flood-advisory-until-saturday-afternoon-triggered-by-intense-downpours.html",
+        "mention_text": "Saginaw County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Saginaw County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 582247,
+        "run_at": "2026-04-05T07:11:27.507350+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3117964,
+          42.6615412
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-for-southwest-michigan-until-saturday-morning-caused-by-persistent-rain.html",
+        "title": "Flood advisory for Southwest Michigan until Saturday morning caused by persistent rain",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-04T10:12:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-for-southwest-michigan-until-saturday-morning-caused-by-persistent-rain.html",
+        "mention_text": "Southwest Michigan",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Southwest, Hastings, Barry County, Michigan, 49058, United States",
+        "osm_type": "path",
+        "osm_id": 1207047631,
+        "run_at": "2026-04-05T07:11:27.507350+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.msn.com/en-us/weather/topstories/flash-flood-emergency-ongoing-in-hawaii-as-more-rain-falls-amid-intense-flooding/vi-AA1Z5som",
+        "title": "Flash flood emergency ongoing in Hawaii as more rain falls amid intense flooding",
+        "source": "MSN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-20T07:00:00Z",
+        "url": "https://www.msn.com/en-us/weather/topstories/flash-flood-emergency-ongoing-in-hawaii-as-more-rain-falls-amid-intense-flooding/vi-AA1Z5som",
+        "mention_text": "Hawaii",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-04-05T07:11:27.507350+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-04-04T07:07:14.903190+00:00",
-    "total_features": 570
+    "last_updated": "2026-04-05T07:11:27.510764+00:00",
+    "total_features": 597
   }
 }
