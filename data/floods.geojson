@@ -15522,11 +15522,245 @@
         "osm_id": 166563,
         "run_at": "2026-04-05T07:11:27.507350+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.902901,
+          42.6741189
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.macombdaily.com/2026/04/05/flood-warning-issued-for-macomb-communities-along-north-branch-of-clinton-river/",
+        "title": "Flood warning issued for North Branch of Clinton River in Macomb County",
+        "source": "Macomb Daily",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-05T14:26:58Z",
+        "url": "https://www.macombdaily.com/2026/04/05/flood-warning-issued-for-macomb-communities-along-north-branch-of-clinton-river/",
+        "mention_text": "Macomb County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Macomb County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 359762,
+        "run_at": "2026-04-06T07:35:55.971871+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9481252,
+          43.4911326
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flood-warning-for-herkimer-county-until-early-monday-minor-flooding-is-forecast.html",
+        "title": "NY weather: Flood warning for Herkimer County until early Monday \u2013 minor flooding is forecast",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-05T14:54:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flood-warning-for-herkimer-county-until-early-monday-minor-flooding-is-forecast.html",
+        "mention_text": "Herkimer County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Herkimer County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1835283,
+        "run_at": "2026-04-06T07:35:55.971871+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2257127,
+          43.015598
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flood-warning-active-for-onondaga-county-until-further-notice-minor-flooding-is-occurring.html",
+        "title": "NY weather update: Flood warning active for Onondaga County until further notice \u2013 minor flooding is occurring",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-05T16:02:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flood-warning-active-for-onondaga-county-until-further-notice-minor-flooding-is-occurring.html",
+        "mention_text": "Onondaga County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Onondaga County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1838019,
+        "run_at": "2026-04-06T07:35:55.971871+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6244212,
+          41.8755616
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox32chicago.com/video/fmc-6y038wygnmi1dkhe",
+        "title": "Chicago Weather: Flash Flood concerns Saturday morning before drying out",
+        "source": "fox32chicago.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-04T12:08:24Z",
+        "url": "https://www.fox32chicago.com/video/fmc-6y038wygnmi1dkhe",
+        "mention_text": "Chicago",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Chicago, South Chicago Township, Cook County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 122604,
+        "run_at": "2026-04-06T07:35:55.971871+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7118868,
+          44.7817214
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.msn.com/en-us/weather/topstories/flood-warning-issued-for-rivers-in-shawano-brown-oconto-counties/ar-AA20a3rN",
+        "title": "Flood warning issued for rivers in Shawano, Brown, Oconto counties",
+        "source": "MSN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-04T21:22:34Z",
+        "url": "https://www.msn.com/en-us/weather/topstories/flood-warning-issued-for-rivers-in-shawano-brown-oconto-counties/ar-AA20a3rN",
+        "mention_text": "Shawano",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Shawano County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 270645,
+        "run_at": "2026-04-06T07:35:55.971871+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2480072,
+          44.9988053
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.msn.com/en-us/weather/topstories/flood-warning-issued-for-rivers-in-shawano-brown-oconto-counties/ar-AA20a3rN",
+        "title": "Flood warning issued for rivers in Shawano, Brown, Oconto counties",
+        "source": "MSN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-04T21:22:34Z",
+        "url": "https://www.msn.com/en-us/weather/topstories/flood-warning-issued-for-rivers-in-shawano-brown-oconto-counties/ar-AA20a3rN",
+        "mention_text": "Oconto",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oconto County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 1799707,
+        "run_at": "2026-04-06T07:35:55.971871+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4937379,
+          35.066321
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wearegreenbay.com/video/flood-emergency-declared-for-wolf-river-in-waupaca-county/11672002/",
+        "title": "Flood emergency declared for Wolf River in Waupaca County",
+        "source": "WFRV Local 5",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-05T18:53:36Z",
+        "url": "https://www.wearegreenbay.com/video/flood-emergency-declared-for-wolf-river-in-waupaca-county/11672002/",
+        "mention_text": "Wolf River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Wolf River, Fayette County, West Tennessee, Tennessee, United States",
+        "osm_type": "river",
+        "osm_id": 3803064,
+        "run_at": "2026-04-06T07:35:55.971871+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9650419,
+          44.4927889
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wearegreenbay.com/video/flood-emergency-declared-for-wolf-river-in-waupaca-county/11672002/",
+        "title": "Flood emergency declared for Wolf River in Waupaca County",
+        "source": "WFRV Local 5",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-05T18:53:36Z",
+        "url": "https://www.wearegreenbay.com/video/flood-emergency-declared-for-wolf-river-in-waupaca-county/11672002/",
+        "mention_text": "Waupaca County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Waupaca County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 270643,
+        "run_at": "2026-04-06T07:35:55.971871+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6199638,
+          38.0409144
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article314715352.html",
+        "title": "Flood advisory for Marin County early Monday morning due to excessive rainfall",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-16T08:00:00Z",
+        "url": "https://www.modbee.com/news/weather-news/article314715352.html",
+        "mention_text": "Marin County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Marin County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396461,
+        "run_at": "2026-04-06T07:35:55.971871+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-04-05T07:11:27.510764+00:00",
-    "total_features": 597
+    "last_updated": "2026-04-06T07:35:55.975452+00:00",
+    "total_features": 606
   }
 }
