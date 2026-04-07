@@ -15756,11 +15756,271 @@
         "osm_id": 396461,
         "run_at": "2026-04-06T07:35:55.971871+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2480072,
+          44.9988053
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.greenbaypressgazette.com/story/news/local/oconto-county/2026/04/06/weather-alert/89484969007/",
+        "title": "Flood warning issued for Oconto County",
+        "source": "Green Bay Press-Gazette",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-06T19:23:00Z",
+        "url": "https://www.greenbaypressgazette.com/story/news/local/oconto-county/2026/04/06/weather-alert/89484969007/",
+        "mention_text": "Oconto County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oconto County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 1799707,
+        "run_at": "2026-04-07T07:21:29.756721+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8463851,
+          37.1670484
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/miami/video/widespread-rain-set-to-bring-flash-flood-risk-to-south-florida-this-week/",
+        "title": "Widespread rain set to bring flash flood risk to South Florida this week",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-06T16:53:00Z",
+        "url": "https://www.cbsnews.com/miami/video/widespread-rain-set-to-bring-flash-flood-risk-to-south-florida-this-week/",
+        "mention_text": "South Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South Florida, Columbus, Cherokee County, Kansas, 66725, United States",
+        "osm_type": "residential",
+        "osm_id": 12999746,
+        "run_at": "2026-04-07T07:21:29.756721+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3166482,
+          43.8771777
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bigrapidsnews.com/news/article/muskegon-river-evart-flood-warning-22191320.php",
+        "title": "Muskegon River flood warning issued for Evart area",
+        "source": "Big Rapids Pioneer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-06T14:46:39Z",
+        "url": "https://www.bigrapidsnews.com/news/article/muskegon-river-evart-flood-warning-22191320.php",
+        "mention_text": "Muskegon River",
+        "flood_type": "riverine",
+        "confidence": 0.9,
+        "osm_display": "Muskegon River, Michigan, United States",
+        "osm_type": "river",
+        "osm_id": 14321276,
+        "run_at": "2026-04-07T07:21:29.756721+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4522702,
+          28.2996183
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tampabay.com/news/weather/2026/04/06/flood-advisory-place-hillsborough-pasco-counties-monday-evening-triggered-by-intense-rain/",
+        "title": "Flood advisory in place for Hillsborough and Pasco counties Monday evening triggered by intense rain",
+        "source": "tampabay.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-06T23:53:02Z",
+        "url": "https://www.tampabay.com/news/weather/2026/04/06/flood-advisory-place-hillsborough-pasco-counties-monday-evening-triggered-by-intense-rain/",
+        "mention_text": "Pasco",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Pasco County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210707,
+        "run_at": "2026-04-07T07:21:29.756721+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9650419,
+          44.4927889
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tchdailynews.com/2026/04/06/93463/",
+        "title": "Flood Emergency Declared on Wolf River in Waupaca County",
+        "source": "TCHDailyNews",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-06T15:38:44Z",
+        "url": "https://www.tchdailynews.com/2026/04/06/93463/",
+        "mention_text": "Waupaca County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Waupaca County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 270643,
+        "run_at": "2026-04-07T07:21:29.756721+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8192175,
+          30.7642828
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tampabay.com/news/weather/2026/04/06/flood-advisory-issued-polk-county-monday-evening-due-persistent-rainfall/",
+        "title": "Flood advisory issued for Polk County Monday evening due to persistent rainfall",
+        "source": "tampabay.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-06T06:34:02Z",
+        "url": "https://www.tampabay.com/news/weather/2026/04/06/flood-advisory-issued-polk-county-monday-evening-due-persistent-rainfall/",
+        "mention_text": "Polk County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Polk County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1841042,
+        "run_at": "2026-04-07T07:21:29.756721+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9650419,
+          44.4927889
+        ]
+      },
+      "properties": {
+        "article_id": "https://nationaltoday.com/us/wi/waupaca/news/2026/04/06/flood-emergency-declared-on-wolf-river-in-waupaca-county/",
+        "title": "Flood Emergency Declared on Wolf River in Waupaca County",
+        "source": "National Today",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-06T16:34:42Z",
+        "url": "https://nationaltoday.com/us/wi/waupaca/news/2026/04/06/flood-emergency-declared-on-wolf-river-in-waupaca-county/",
+        "mention_text": "Waupaca County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Waupaca County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 270643,
+        "run_at": "2026-04-07T07:21:29.756721+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4937379,
+          35.066321
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/articles/flood-emergency-declared-wolf-river-173830474.html",
+        "title": "Flood emergency declared for Wolf River in Waupaca County",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-04T17:38:30Z",
+        "url": "https://www.yahoo.com/news/articles/flood-emergency-declared-wolf-river-173830474.html",
+        "mention_text": "Wolf River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Wolf River, Fayette County, West Tennessee, Tennessee, United States",
+        "osm_type": "river",
+        "osm_id": 3803064,
+        "run_at": "2026-04-07T07:21:29.756721+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9650419,
+          44.4927889
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/articles/flood-emergency-declared-wolf-river-173830474.html",
+        "title": "Flood emergency declared for Wolf River in Waupaca County",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-04T17:38:30Z",
+        "url": "https://www.yahoo.com/news/articles/flood-emergency-declared-wolf-river-173830474.html",
+        "mention_text": "Waupaca County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Waupaca County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 270643,
+        "run_at": "2026-04-07T07:21:29.756721+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6276904,
+          47.8012197
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bellinghamherald.com/news/weather-news/article315134224.html",
+        "title": "UPDATE: The current flood advisory for Chelan County will expire at 5 a.m.",
+        "source": "Bellingham Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-21T07:00:00Z",
+        "url": "https://www.bellinghamherald.com/news/weather-news/article315134224.html",
+        "mention_text": "Chelan County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Chelan County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153517,
+        "run_at": "2026-04-07T07:21:29.756721+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-04-06T07:35:55.975452+00:00",
-    "total_features": 606
+    "last_updated": "2026-04-07T07:21:29.760181+00:00",
+    "total_features": 616
   }
 }
