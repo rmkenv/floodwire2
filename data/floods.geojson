@@ -16406,11 +16406,297 @@
         "osm_id": 1150529,
         "run_at": "2026-04-08T07:25:06.844332+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4486983,
+          19.5895548
+        ]
+      },
+      "properties": {
+        "article_id": "https://bigislandnow.com/2026/04/08/wednesday-weather-updates-flash-flood-warning-marine-warning-issued/",
+        "title": "Wednesday weather updates: Flash flood warning for Hawai\u2018i Island canceled, watch remains",
+        "source": "Big Island Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-08T19:21:36Z",
+        "url": "https://bigislandnow.com/2026/04/08/wednesday-weather-updates-flash-flood-warning-marine-warning-issued/",
+        "mention_text": "Hawai\u2018i Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawai\u02bbi, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403603,
+        "run_at": "2026-04-09T07:26:16.706357+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8756362,
+          32.735281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.hawaiitribune-herald.com/2026/04/08/hawaii-news/flash-flood-warning-issued-for-puna-and-kau/",
+        "title": "UPDATE: Flash flood warning for Hawaii Island canceled",
+        "source": "Hawaii Tribune-Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-08T10:05:00Z",
+        "url": "https://www.hawaiitribune-herald.com/2026/04/08/hawaii-news/flash-flood-warning-issued-for-puna-and-kau/",
+        "mention_text": "Hawaii Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii Island, Tallapoosa County, Alabama, United States",
+        "osm_type": "island",
+        "osm_id": 1265920066,
+        "run_at": "2026-04-09T07:26:16.706357+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.0071539,
+          21.1344895
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.staradvertiser.com/2026/04/08/breaking-news/hawaii-under-flood-watch-as-rain-moves-in/",
+        "title": "Flood advisory in effect for Molokai, state under flood watch",
+        "source": "Honolulu Star-Advertiser",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-09T03:22:47Z",
+        "url": "https://www.staradvertiser.com/2026/04/08/breaking-news/hawaii-under-flood-watch-as-rain-moves-in/",
+        "mention_text": "Molokai",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Moloka\u02bbi, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 1082120,
+        "run_at": "2026-04-09T07:26:16.706357+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4486983,
+          19.5895548
+        ]
+      },
+      "properties": {
+        "article_id": "https://bigislandnow.com/2026/04/08/update-flash-flood-warning-continues-for-parts-of-puna-ka%CA%BBu-in-east-southeast-big-isle/",
+        "title": "UPDATE: Flash flood warning canceled for Big Island; flood watch for state remains",
+        "source": "Big Island Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-08T12:41:00Z",
+        "url": "https://bigislandnow.com/2026/04/08/update-flash-flood-warning-continues-for-parts-of-puna-ka%CA%BBu-in-east-southeast-big-isle/",
+        "mention_text": "Big Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawai\u02bbi, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403603,
+        "run_at": "2026-04-09T07:26:16.706357+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.staradvertiser.com/2026/04/06/breaking-news/forecasters-more-rains-on-the-way-for-hawaiian-islands/",
+        "title": "Flash flood warning issued for east Maui as storm hits state",
+        "source": "Honolulu Star-Advertiser",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-06T23:04:52Z",
+        "url": "https://www.staradvertiser.com/2026/04/06/breaking-news/forecasters-more-rains-on-the-way-for-hawaiian-islands/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-04-09T07:26:16.706357+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2213607,
+          42.7369124
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.masslive.com/weather-alerts/2026/03/flood-warning-in-place-for-bristol-and-plymouth-counties-from-tuesday-and-until-further-notice.html",
+        "title": "Update: Flood warning issued for Bristol and Plymouth counties until 2 a.m. Thursday \u2013 minor flooding is forecast",
+        "source": "MassLive",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-17T07:00:00Z",
+        "url": "https://www.masslive.com/weather-alerts/2026/03/flood-warning-in-place-for-bristol-and-plymouth-counties-from-tuesday-and-until-further-notice.html",
+        "mention_text": "Plymouth",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Plymouth County, Iowa, United States",
+        "osm_type": "administrative",
+        "osm_id": 1739845,
+        "run_at": "2026-04-09T07:26:16.706357+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1279841,
+          43.4112973
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/04/flood-advisory-issued-for-oswego-county-until-thursday-night-triggered-by-intense-rain.html",
+        "title": "Update: Flood advisory issued for Oswego County until Tuesday evening",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-06T18:55:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/04/flood-advisory-issued-for-oswego-county-until-thursday-night-triggered-by-intense-rain.html",
+        "mention_text": "Oswego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oswego County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1835253,
+        "run_at": "2026-04-09T07:26:16.706357+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4486983,
+          19.5895548
+        ]
+      },
+      "properties": {
+        "article_id": "https://nationaltoday.com/us/hi/mountain-view-hi/news/2026/04/08/flood-advisory-issued-for-puna-and-kau-on-big-island/",
+        "title": "Flood Advisory Issued for Puna and Ka'\u016b on Big Island",
+        "source": "National Today",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-08T05:33:56Z",
+        "url": "https://nationaltoday.com/us/hi/mountain-view-hi/news/2026/04/08/flood-advisory-issued-for-puna-and-kau-on-big-island/",
+        "mention_text": "Big Island",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hawai\u02bbi, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403603,
+        "run_at": "2026-04-09T07:26:16.706357+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6863808,
+          36.2228105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article315270190.html",
+        "title": "Flood advisory for Watauga County until Wednesday night caused by persistent rain",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-01T23:01:07Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article315270190.html",
+        "mention_text": "Watauga County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Watauga County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528754,
+        "run_at": "2026-04-09T07:26:16.706357+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9899756,
+          38.8806677
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bellinghamherald.com/news/weather-news/article315047358.html",
+        "title": "UPDATE: Flood advisory issued for Southeast Washington until Sunday midday",
+        "source": "Bellingham Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-14T07:00:00Z",
+        "url": "https://www.bellinghamherald.com/news/weather-news/article315047358.html",
+        "mention_text": "Southeast Washington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Southeast, Capitol Hill, Ward 6, Washington, District of Columbia, 20003, United States",
+        "osm_type": "quarter",
+        "osm_id": 158655059,
+        "run_at": "2026-04-09T07:26:16.706357+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6881395,
+          40.2253569
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.daytondailynews.com/local/weather/flood-advisory-warning-issued-as-rain-continues-in-southwest-ohio/article_0ca5f8a0-14bb-5254-91a5-b04b33aef044.html",
+        "title": "Flood advisory, warning issued as rain continues in southwest Ohio",
+        "source": "Dayton Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-05T08:00:00Z",
+        "url": "https://www.daytondailynews.com/local/weather/flood-advisory-warning-issued-as-rain-continues-in-southwest-ohio/article_0ca5f8a0-14bb-5254-91a5-b04b33aef044.html",
+        "mention_text": "Ohio",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 162061,
+        "run_at": "2026-04-09T07:26:16.706357+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-04-08T07:25:06.847952+00:00",
-    "total_features": 631
+    "last_updated": "2026-04-09T07:26:16.709605+00:00",
+    "total_features": 642
   }
 }
