@@ -16692,11 +16692,297 @@
         "osm_id": 162061,
         "run_at": "2026-04-09T07:26:16.706357+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.213342,
+          41.5421375
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-ottawa-county-until-monday-night-minor-flooding-is-happening.html",
+        "title": "Flood warning issued for Ottawa County until Monday night \u2013 minor flooding is happening",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-09T15:24:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-ottawa-county-until-monday-night-minor-flooding-is-happening.html",
+        "mention_text": "Ottawa County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Ottawa County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 350380,
+        "run_at": "2026-04-10T07:35:45.588287+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8756362,
+          32.735281
+        ]
+      },
+      "properties": {
+        "article_id": "https://fathomjournal.org/32c07917smm/c40b9a51--48p8o4sTT4.html",
+        "title": "Flash Flood Warning In Effect For Kauai And Hawaii Island [f9eadf]",
+        "source": "Fathom Journal",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-10T05:54:13Z",
+        "url": "https://fathomjournal.org/32c07917smm/c40b9a51--48p8o4sTT4.html",
+        "mention_text": "Hawaii Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii Island, Tallapoosa County, Alabama, United States",
+        "osm_type": "island",
+        "osm_id": 1265920066,
+        "run_at": "2026-04-10T07:35:45.588287+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6984481,
+          41.2711458
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-clinton-county-until-wednesday-afternoon-minor-flooding-is-ongoing.html",
+        "title": "Flood warning issued for Clinton County until Wednesday afternoon \u2013 minor flooding is ongoing",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-09T15:24:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-clinton-county-until-wednesday-afternoon-minor-flooding-is-ongoing.html",
+        "mention_text": "Clinton County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Clinton County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 416639,
+        "run_at": "2026-04-10T07:35:45.588287+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3534215,
+          39.8604066
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mywabashvalley.com/news/flooding-wabash-valley-warning/",
+        "title": "National Weather Service issues flood warning for Wabash River",
+        "source": "MyWabashValley.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-09T14:25:45Z",
+        "url": "https://www.mywabashvalley.com/news/flooding-wabash-valley-warning/",
+        "mention_text": "Wabash River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Wabash River, United States",
+        "osm_type": "river",
+        "osm_id": 2248546,
+        "run_at": "2026-04-10T07:35:45.588287+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2360391,
+          40.7887367
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ashlandsource.com/2026/04/03/national-weather-service-issues-flash-flood-warning-for-richland-ashland-counties/",
+        "title": "National Weather Service issues Flash Flood Warning for Ashland, Richland, Wayne counties",
+        "source": "Ashland Source",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-04T03:48:09Z",
+        "url": "https://www.ashlandsource.com/2026/04/03/national-weather-service-issues-flash-flood-warning-for-richland-ashland-counties/",
+        "mention_text": "Ashland",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ashland County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 911247,
+        "run_at": "2026-04-10T07:35:45.588287+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3045103,
+          41.6264414
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ashlandsource.com/2026/04/03/national-weather-service-issues-flash-flood-warning-for-richland-ashland-counties/",
+        "title": "National Weather Service issues Flash Flood Warning for Ashland, Richland, Wayne counties",
+        "source": "Ashland Source",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-04T03:48:09Z",
+        "url": "https://www.ashlandsource.com/2026/04/03/national-weather-service-issues-flash-flood-warning-for-richland-ashland-counties/",
+        "mention_text": "Wayne",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Wayne County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417782,
+        "run_at": "2026-04-10T07:35:45.588287+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/florida-braces-multi-day-flash-220250305.html",
+        "title": "Florida braces for a multi-day flash flood event",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-07T22:02:50Z",
+        "url": "https://www.yahoo.com/news/videos/florida-braces-multi-day-flash-220250305.html",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-04-10T07:35:45.588287+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6953467,
+          37.575509
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/iron-county-under-a-flood-advisory-until-further-notice.html",
+        "title": "Iron County under a flood advisory until further notice",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-09T15:24:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/iron-county-under-a-flood-advisory-until-further-notice.html",
+        "mention_text": "Iron County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Iron County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180466,
+        "run_at": "2026-04-10T07:35:45.588287+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6064397,
+          41.7478297
+        ]
+      },
+      "properties": {
+        "article_id": "https://wsbt.com/news/local/gallery/crash-accident-flooded-roads-driving-dangerous-heavy-rain-flood-police-high-water-quinn-oak-road-north-liberty-st-joseph-county-indiana?photo=2",
+        "title": "Flooded road causes crash near North Liberty",
+        "source": "WSBT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-07T14:04:10Z",
+        "url": "https://wsbt.com/news/local/gallery/crash-accident-flooded-roads-driving-dangerous-heavy-rain-flood-police-high-water-quinn-oak-road-north-liberty-st-joseph-county-indiana?photo=2",
+        "mention_text": "North Liberty",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Liberty, Johnson County, Iowa, 52317, United States",
+        "osm_type": "administrative",
+        "osm_id": 128464,
+        "run_at": "2026-04-10T07:35:45.588287+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0733934,
+          29.9561422
+        ]
+      },
+      "properties": {
+        "article_id": "https://hoodline.com/2026/04/east-winds-whip-up-minor-flood-threat-for-new-orleans-streets/",
+        "title": "Coastal Flood Advisory and Gusty Winds in New Orleans",
+        "source": "Hoodline",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-09T13:42:31Z",
+        "url": "https://hoodline.com/2026/04/east-winds-whip-up-minor-flood-threat-for-new-orleans-streets/",
+        "mention_text": "New Orleans",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "New Orleans, Orleans Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 131885,
+        "run_at": "2026-04-10T07:35:45.588287+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article314740807.html",
+        "title": "UPDATE: Flood advisory issued for Los Angeles until Wednesday morning",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-18T08:00:00Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article314740807.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-04-10T07:35:45.588287+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-04-09T07:26:16.709605+00:00",
-    "total_features": 642
+    "last_updated": "2026-04-10T07:35:45.592032+00:00",
+    "total_features": 653
   }
 }
