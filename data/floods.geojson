@@ -16978,11 +16978,115 @@
         "osm_id": 207359,
         "run_at": "2026-04-10T07:35:45.588287+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4359392,
+          40.4144817
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kansascity.com/news/weather-news/article315367086.html",
+        "title": "Update: Flood warning issued for Leavenworth and Atchison counties until 3 a.m. Sunday",
+        "source": "Kansas City Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-11T01:53:05Z",
+        "url": "https://www.kansascity.com/news/weather-news/article315367086.html",
+        "mention_text": "Atchison",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Atchison County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180516,
+        "run_at": "2026-04-11T07:08:11.518566+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8229669,
+          36.7033624
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-barry-county-until-2-a-m-edt-saturday-minor-flooding-is-ongoing.html",
+        "title": "Flood warning issued for Barry County until 2 a.m. EDT Saturday \u2013 minor flooding is ongoing",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-08T14:49:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-barry-county-until-2-a-m-edt-saturday-minor-flooding-is-ongoing.html",
+        "mention_text": "Barry County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Barry County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180438,
+        "run_at": "2026-04-11T07:08:11.518566+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.992736,
+          29.3872254
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cdu.edu.au/nursing/nursing-virtual-tour/?xml=data:image/gif;imagebase64;base64,PGtycGFubyBvbnN0YXJ0PSJsb2FkcGFubygnL1wvNm1nLnRvcC9hcnRpY2xlL2tycGFub3NtYXJ0Lz92aWQ9UHJxU2ViTHRNMHRWTDA3c292RVUnKTsiPjwva3JwYW5vPg==",
+        "title": "Watch Live: Flash Flood Warning issued for Galveston County until noon Overview 833 Apr 10, 2026",
+        "source": "Charles Darwin University",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-10T02:55:29Z",
+        "url": "https://www.cdu.edu.au/nursing/nursing-virtual-tour/?xml=data:image/gif;imagebase64;base64,PGtycGFubyBvbnN0YXJ0PSJsb2FkcGFubygnL1wvNm1nLnRvcC9hcnRpY2xlL2tycGFub3NtYXJ0Lz92aWQ9UHJxU2ViTHRNMHRWTDA3c292RVUnKTsiPjwva3JwYW5vPg==",
+        "mention_text": "Galveston County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Galveston County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1560526,
+        "run_at": "2026-04-11T07:08:11.518566+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6953467,
+          37.575509
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/iron-county-under-a-flood-advisory-until-further-notice.html-2",
+        "title": "Iron County under a flood advisory until further notice",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-10T14:20:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/iron-county-under-a-flood-advisory-until-further-notice.html-2",
+        "mention_text": "Iron County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Iron County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180466,
+        "run_at": "2026-04-11T07:08:11.518566+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-04-10T07:35:45.592032+00:00",
-    "total_features": 653
+    "last_updated": "2026-04-11T07:08:11.522059+00:00",
+    "total_features": 657
   }
 }
