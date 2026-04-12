@@ -17082,11 +17082,349 @@
         "osm_id": 1180466,
         "run_at": "2026-04-11T07:08:11.518566+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8987707,
+          29.357515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kens5.com/video/weather/weather-impact/flash-flood-warning-issued-for-del-rio-rocksprings-and-lake-view-texas-weather-impact-alert/273-480a3894-60e4-48a7-898f-bfaa63543a94",
+        "title": "Flash Flood Warning issued for Del Rio, Rocksprings and Lake View, Texas | Weather Impact Alert",
+        "source": "kens5.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T03:43:00Z",
+        "url": "https://www.kens5.com/video/weather/weather-impact/flash-flood-warning-issued-for-del-rio-rocksprings-and-lake-view-texas-weather-impact-alert/273-480a3894-60e4-48a7-898f-bfaa63543a94",
+        "mention_text": "Del Rio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Del Rio, Val Verde County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 6587587,
+        "run_at": "2026-04-12T07:24:49.462607+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0510911,
+          42.3069227
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kens5.com/video/weather/weather-impact/flash-flood-warning-issued-for-del-rio-rocksprings-and-lake-view-texas-weather-impact-alert/273-480a3894-60e4-48a7-898f-bfaa63543a94",
+        "title": "Flash Flood Warning issued for Del Rio, Rocksprings and Lake View, Texas | Weather Impact Alert",
+        "source": "kens5.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T03:43:00Z",
+        "url": "https://www.kens5.com/video/weather/weather-impact/flash-flood-warning-issued-for-del-rio-rocksprings-and-lake-view-texas-weather-impact-alert/273-480a3894-60e4-48a7-898f-bfaa63543a94",
+        "mention_text": "Lake View",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lake View, Sac County, Iowa, 51450, United States",
+        "osm_type": "administrative",
+        "osm_id": 128874,
+        "run_at": "2026-04-12T07:24:49.462607+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kens5.com/video/weather/weather-impact/flash-flood-warning-issued-for-del-rio-rocksprings-and-lake-view-texas-weather-impact-alert/273-480a3894-60e4-48a7-898f-bfaa63543a94",
+        "title": "Flash Flood Warning issued for Del Rio, Rocksprings and Lake View, Texas | Weather Impact Alert",
+        "source": "kens5.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T03:43:00Z",
+        "url": "https://www.kens5.com/video/weather/weather-impact/flash-flood-warning-issued-for-del-rio-rocksprings-and-lake-view-texas-weather-impact-alert/273-480a3894-60e4-48a7-898f-bfaa63543a94",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-04-12T07:24:49.462607+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5821872,
+          38.27312
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kshb.com/news/local-news/flash-flood-warning-in-place-for-parts-of-northeast-kansas-and-northwest-missouri",
+        "title": "Flash flood warning lifted for counties in northeast Kansas and northwest Missouri",
+        "source": "KSHB 41 Kansas City",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-11T19:26:44Z",
+        "url": "https://www.kshb.com/news/local-news/flash-flood-warning-in-place-for-parts-of-northeast-kansas-and-northwest-missouri",
+        "mention_text": "Kansas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kansas, United States",
+        "osm_type": "administrative",
+        "osm_id": 161644,
+        "run_at": "2026-04-12T07:24:49.462607+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5617875,
+          38.7604815
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kshb.com/news/local-news/flash-flood-warning-in-place-for-parts-of-northeast-kansas-and-northwest-missouri",
+        "title": "Flash flood warning lifted for counties in northeast Kansas and northwest Missouri",
+        "source": "KSHB 41 Kansas City",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-11T19:26:44Z",
+        "url": "https://www.kshb.com/news/local-news/flash-flood-warning-in-place-for-parts-of-northeast-kansas-and-northwest-missouri",
+        "mention_text": "Missouri",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 161638,
+        "run_at": "2026-04-12T07:24:49.462607+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2134565,
+          40.0989571
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kmaland.com/news/breaking_weather/flash-flood-warning-for-parts-of-holt-andrew-counties-until-4-30-p-m-saturday/article_f88e4fa8-17f9-4a38-8fd7-3ba00382aa13.html",
+        "title": "Flash Flood Warning for parts of Holt, Andrew counties until 4:30 p.m. Saturday",
+        "source": "KMAland.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-11T16:49:00Z",
+        "url": "https://www.kmaland.com/news/breaking_weather/flash-flood-warning-for-parts-of-holt-andrew-counties-until-4-30-p-m-saturday/article_f88e4fa8-17f9-4a38-8fd7-3ba00382aa13.html",
+        "mention_text": "Holt",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Holt County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180496,
+        "run_at": "2026-04-12T07:24:49.462607+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6984481,
+          41.2711458
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-clinton-county-until-sunday-afternoon-minor-flooding-is-ongoing.html",
+        "title": "Flood warning issued for Clinton County until Sunday afternoon \u2013 minor flooding is ongoing",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-11T15:02:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-clinton-county-until-sunday-afternoon-minor-flooding-is-ongoing.html",
+        "mention_text": "Clinton County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Clinton County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 416639,
+        "run_at": "2026-04-12T07:24:49.462607+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cdu.edu.au/nursing/nursing-virtual-tour/?xml=data:image/gif;imagebase64;base64,PGtycGFubyBvbnN0YXJ0PSJsb2FkcGFubygnL1wvNm1nLnRvcC9hcnRpY2xlL2tycGFub3NtYXJ0Lz92aWQ9UEtlRlFjR2xiRmhyQUZiWWtyZ0gnKTsiPjwva3JwYW5vPg==",
+        "title": "Flash flood warning extended in metro Atlanta counties as roads build up with water Analysis 230 10/04/2026",
+        "source": "Charles Darwin University",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-10T02:17:21Z",
+        "url": "https://www.cdu.edu.au/nursing/nursing-virtual-tour/?xml=data:image/gif;imagebase64;base64,PGtycGFubyBvbnN0YXJ0PSJsb2FkcGFubygnL1wvNm1nLnRvcC9hcnRpY2xlL2tycGFub3NtYXJ0Lz92aWQ9UEtlRlFjR2xiRmhyQUZiWWtyZ0gnKTsiPjwva3JwYW5vPg==",
+        "mention_text": "Atlanta",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-04-12T07:24:49.462607+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.375716,
+          35.3540209
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article315383679.html",
+        "title": "Flood advisory affecting San Luis Obispo and Santa Barbara counties until 3 a.m. Sunday",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T07:03:05Z",
+        "url": "https://www.modbee.com/news/weather-news/article315383679.html",
+        "mention_text": "San Luis Obispo",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Luis Obispo County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396496,
+        "run_at": "2026-04-12T07:24:49.462607+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.702667,
+          34.4221319
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article315383679.html",
+        "title": "Flood advisory affecting San Luis Obispo and Santa Barbara counties until 3 a.m. Sunday",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T07:03:05Z",
+        "url": "https://www.modbee.com/news/weather-news/article315383679.html",
+        "mention_text": "Santa Barbara",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Santa Barbara, Santa Barbara County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 112224,
+        "run_at": "2026-04-12T07:24:49.462607+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4486983,
+          19.5895548
+        ]
+      },
+      "properties": {
+        "article_id": "https://bigislandnow.com/2026/04/11/big-island-saturday-severe-weather-updates-flood-advisory-canceled-shortly-before-set-to-expire/",
+        "title": "Big Island Saturday severe weather updates: Flood advisory canceled shortly before set to expire",
+        "source": "Big Island Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-11T15:16:00Z",
+        "url": "https://bigislandnow.com/2026/04/11/big-island-saturday-severe-weather-updates-flood-advisory-canceled-shortly-before-set-to-expire/",
+        "mention_text": "Big Island",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hawai\u02bbi, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403603,
+        "run_at": "2026-04-12T07:24:49.462607+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4486983,
+          19.5895548
+        ]
+      },
+      "properties": {
+        "article_id": "https://bigislandnow.com/2026/04/11/big-island-saturday-severe-weather-updates-flood-advisory-in-effect-for-western-slopes-of-island/",
+        "title": "Big Island Saturday severe weather updates: Flood advisory in effect for western slopes of island",
+        "source": "Big Island Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-11T10:19:02Z",
+        "url": "https://bigislandnow.com/2026/04/11/big-island-saturday-severe-weather-updates-flood-advisory-in-effect-for-western-slopes-of-island/",
+        "mention_text": "Big Island",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hawai\u02bbi, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403603,
+        "run_at": "2026-04-12T07:24:49.462607+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.730998,
+          40.7685579
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article314828118.html",
+        "title": "Flood advisory for Lassen County until Wednesday evening",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-24T08:00:00Z",
+        "url": "https://www.modbee.com/news/weather-news/article314828118.html",
+        "mention_text": "Lassen County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Lassen County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396469,
+        "run_at": "2026-04-12T07:24:49.462607+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-04-11T07:08:11.522059+00:00",
-    "total_features": 657
+    "last_updated": "2026-04-12T07:24:49.465809+00:00",
+    "total_features": 670
   }
 }
