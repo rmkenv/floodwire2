@@ -17420,11 +17420,635 @@
         "osm_id": 396469,
         "run_at": "2026-04-12T07:24:49.462607+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9559692,
+          29.8381635
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbsaustin.com/news/local/flood-watch-issued-through-monday-morning-as-heavy-rain-threatens-central-texas",
+        "title": "Flash Flood Warning issued in Fayette County as Flood Watch continues across central Texas",
+        "source": "KEYE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-13T00:02:23Z",
+        "url": "https://cbsaustin.com/news/local/flood-watch-issued-through-monday-morning-as-heavy-rain-threatens-central-texas",
+        "mention_text": "Fayette County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Fayette County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837665,
+        "run_at": "2026-04-13T08:10:53.638222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbsaustin.com/news/local/flood-watch-issued-through-monday-morning-as-heavy-rain-threatens-central-texas",
+        "title": "Flash Flood Warning issued in Fayette County as Flood Watch continues across central Texas",
+        "source": "KEYE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-13T00:02:23Z",
+        "url": "https://cbsaustin.com/news/local/flood-watch-issued-through-monday-morning-as-heavy-rain-threatens-central-texas",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-04-13T08:10:53.638222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0262043,
+          44.3308044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flash-flood-warning-for-manistee-county-until-monday-morning.html",
+        "title": "Flash flood warning for Manistee County until Monday morning",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-13T01:29:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flash-flood-warning-for-manistee-county-until-monday-morning.html",
+        "mention_text": "Manistee County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Manistee County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1907321,
+        "run_at": "2026-04-13T08:10:53.638222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0262043,
+          44.3308044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.manisteenews.com/news/article/flash-flood-warning-manistee-river-tippy-dam-22202849.php",
+        "title": "Flash flood warning issued for Manistee County downstream of Tippy Dam",
+        "source": "Manistee News Advocate",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-13T02:04:36Z",
+        "url": "https://www.manisteenews.com/news/article/flash-flood-warning-manistee-river-tippy-dam-22202849.php",
+        "mention_text": "Manistee County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Manistee County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1907321,
+        "run_at": "2026-04-13T08:10:53.638222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3887764,
+          30.0541116
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.elgincourier.com/article/4548,flood-warning-issued-for-bastrop-county",
+        "title": "Flood warning issued for Bastrop County",
+        "source": "The Elgin Courier",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T22:29:13Z",
+        "url": "https://www.elgincourier.com/article/4548,flood-warning-issued-for-bastrop-county",
+        "mention_text": "Bastrop County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Bastrop County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837663,
+        "run_at": "2026-04-13T08:10:53.638222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8188615,
+          44.4049098
+        ]
+      },
+      "properties": {
+        "article_id": "https://wausaupilotandreview.com/2026/04/12/breaking-flood-warning-issued-for-wisconsin-river-below-wausau-as-water-rises-into-minor-flood-stage/",
+        "title": "BREAKING: Flood warning issued for Wisconsin River below Wausau as water rises into minor flood stage",
+        "source": "Wausau Pilot & Review",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T16:15:54Z",
+        "url": "https://wausaupilotandreview.com/2026/04/12/breaking-flood-warning-issued-for-wisconsin-river-below-wausau-as-water-rises-into-minor-flood-stage/",
+        "mention_text": "Wisconsin River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Wisconsin River, United States",
+        "osm_type": "river",
+        "osm_id": 4060470,
+        "run_at": "2026-04-13T08:10:53.638222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.staradvertiser.com/2026/04/12/breaking-news/hawaii-under-flood-watch-as-heavy-rains-threaten-islands-again/",
+        "title": "Most islands under flood watch as rain lingers over Hawaii",
+        "source": "Honolulu Star-Advertiser",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-13T07:07:30Z",
+        "url": "https://www.staradvertiser.com/2026/04/12/breaking-news/hawaii-under-flood-watch-as-heavy-rains-threaten-islands-again/",
+        "mention_text": "Hawaii",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-04-13T08:10:53.638222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4654197,
+          31.4598795
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox7austin.com/weather/austin-weather-level-2-severe-risk-brings-2-inch-hail-flooding-threats-sunday",
+        "title": "Austin weather: Flash flood warnings issued for parts of Central Texas",
+        "source": "FOX 7 Austin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T13:42:58Z",
+        "url": "https://www.fox7austin.com/weather/austin-weather-level-2-severe-risk-brings-2-inch-hail-flooding-threats-sunday",
+        "mention_text": "Central Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, San Angelo, Tom Green County, Texas, 76909, United States",
+        "osm_type": "neighbourhood",
+        "osm_id": 4053740570,
+        "run_at": "2026-04-13T08:10:53.638222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7846477,
+          33.1665316
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-kent-county-until-tuesday-morning-minor-flooding-is-ongoing.html",
+        "title": "Flood warning issued for Kent County until Tuesday morning \u2013 minor flooding is ongoing",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T15:44:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-kent-county-until-tuesday-morning-minor-flooding-is-ongoing.html",
+        "mention_text": "Kent County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Kent County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1811588,
+        "run_at": "2026-04-13T08:10:53.638222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9559692,
+          29.8381635
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbsaustin.com/news/local/gallery/flood-watch-issued-through-monday-morning-as-heavy-rain-threatens-central-texas",
+        "title": "Flash Flood Warning issued in Fayette County as Flood Watch continues across central Texas",
+        "source": "KEYE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T19:21:12Z",
+        "url": "https://cbsaustin.com/news/local/gallery/flood-watch-issued-through-monday-morning-as-heavy-rain-threatens-central-texas",
+        "mention_text": "Fayette County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Fayette County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837665,
+        "run_at": "2026-04-13T08:10:53.638222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbsaustin.com/news/local/gallery/flood-watch-issued-through-monday-morning-as-heavy-rain-threatens-central-texas",
+        "title": "Flash Flood Warning issued in Fayette County as Flood Watch continues across central Texas",
+        "source": "KEYE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T19:21:12Z",
+        "url": "https://cbsaustin.com/news/local/gallery/flood-watch-issued-through-monday-morning-as-heavy-rain-threatens-central-texas",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-04-13T08:10:53.638222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5908023,
+          44.6765986
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flash-flood-warning-affecting-alcona-and-oscoda-counties-until-3-a-m-edt-monday.html",
+        "title": "Update: Flash flood warning affecting Alcona and Oscoda counties until 3 a.m. EDT Monday",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T20:04:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flash-flood-warning-affecting-alcona-and-oscoda-counties-until-3-a-m-edt-monday.html",
+        "mention_text": "Alcona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Alcona County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1907303,
+        "run_at": "2026-04-13T08:10:53.638222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1467693,
+          44.6789109
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flash-flood-warning-affecting-alcona-and-oscoda-counties-until-3-a-m-edt-monday.html",
+        "title": "Update: Flash flood warning affecting Alcona and Oscoda counties until 3 a.m. EDT Monday",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T20:04:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flash-flood-warning-affecting-alcona-and-oscoda-counties-until-3-a-m-edt-monday.html",
+        "mention_text": "Oscoda",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Oscoda County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1907335,
+        "run_at": "2026-04-13T08:10:53.638222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.asatunews.co.id/en/severe-storms-flash-flood-texas-april-14",
+        "title": "Severe Storms Bring Flash Flood Threat to Texas, Houston on April 14",
+        "source": "AsatuNews.co.id",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T22:52:00Z",
+        "url": "https://www.asatunews.co.id/en/severe-storms-flash-flood-texas-april-14",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-04-13T08:10:53.638222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3676974,
+          29.7589382
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.asatunews.co.id/en/severe-storms-flash-flood-texas-april-14",
+        "title": "Severe Storms Bring Flash Flood Threat to Texas, Houston on April 14",
+        "source": "AsatuNews.co.id",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T22:52:00Z",
+        "url": "https://www.asatunews.co.id/en/severe-storms-flash-flood-texas-april-14",
+        "mention_text": "Houston",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Houston, Harris County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 2688911,
+        "run_at": "2026-04-13T08:10:53.638222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5849305,
+          47.1057471
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theolympian.com/news/weather-news/article315135031.html",
+        "title": "Flood warning issued for Kittitas County for Saturday and Sunday, says the NWS",
+        "source": "The Olympian",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-20T07:00:00Z",
+        "url": "https://www.theolympian.com/news/weather-news/article315135031.html",
+        "mention_text": "Kittitas County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kittitas County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153345,
+        "run_at": "2026-04-13T08:10:53.638222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3105232,
+          20.7580586
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kitv.com/news/monday-weather-forecast-flood-advisory-issued-as-heavy-showers-hit-maui-county/article_cb5e62c4-ece7-486d-b3c2-b8955683ff29.html",
+        "title": "Monday Weather Forecast | Flood advisory issued as heavy showers hit Maui County",
+        "source": "KITV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-13T03:04:00Z",
+        "url": "https://www.kitv.com/news/monday-weather-forecast-flood-advisory-issued-as-heavy-showers-hit-maui-county/article_cb5e62c4-ece7-486d-b3c2-b8955683ff29.html",
+        "mention_text": "Maui County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Maui County, Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166561,
+        "run_at": "2026-04-13T08:10:53.638222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6749486,
+          33.3926893
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/delta-county-placed-under-a-flood-advisory-until-further-notice.html",
+        "title": "Delta County placed under a flood advisory until further notice",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T19:06:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/delta-county-placed-under-a-flood-advisory-until-further-notice.html",
+        "mention_text": "Delta County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Delta County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839215,
+        "run_at": "2026-04-13T08:10:53.638222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article315384550.html",
+        "title": "Flood advisory for Los Angeles and Ventura County until Sunday morning",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T13:06:06Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article315384550.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-04-13T08:10:53.638222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0779359,
+          34.4458248
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article315384550.html",
+        "title": "Flood advisory for Los Angeles and Ventura County until Sunday morning",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T13:06:06Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article315384550.html",
+        "mention_text": "Ventura County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ventura County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396505,
+        "run_at": "2026-04-13T08:10:53.638222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whittierdailynews.com/2026/04/12/flood-advisory-active-for-los-angeles-and-ventura-counties-until-sunday-morning-due-to-prolonged-downpours/",
+        "title": "Flood advisory active for Los Angeles and Ventura counties until Sunday morning due to prolonged downpours",
+        "source": "Whittier Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T18:32:21Z",
+        "url": "https://www.whittierdailynews.com/2026/04/12/flood-advisory-active-for-los-angeles-and-ventura-counties-until-sunday-morning-due-to-prolonged-downpours/",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-04-13T08:10:53.638222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0779359,
+          34.4458248
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whittierdailynews.com/2026/04/12/flood-advisory-active-for-los-angeles-and-ventura-counties-until-sunday-morning-due-to-prolonged-downpours/",
+        "title": "Flood advisory active for Los Angeles and Ventura counties until Sunday morning due to prolonged downpours",
+        "source": "Whittier Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T18:32:21Z",
+        "url": "https://www.whittierdailynews.com/2026/04/12/flood-advisory-active-for-los-angeles-and-ventura-counties-until-sunday-morning-due-to-prolonged-downpours/",
+        "mention_text": "Ventura",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ventura County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396505,
+        "run_at": "2026-04-13T08:10:53.638222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6305899,
+          46.4481521
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-affecting-marquette-county-until-further-notice.html",
+        "title": "Update: Flood advisory affecting Marquette County until further notice",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T15:58:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-affecting-marquette-county-until-further-notice.html",
+        "mention_text": "Marquette County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Marquette County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1798743,
+        "run_at": "2026-04-13T08:10:53.638222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6626791,
+          46.403433
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-issued-for-gogebic-county-until-further-notice.html",
+        "title": "Flood advisory issued for Gogebic County until further notice",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T16:01:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-issued-for-gogebic-county-until-further-notice.html",
+        "mention_text": "Gogebic County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Gogebic County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1798740,
+        "run_at": "2026-04-13T08:10:53.638222+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-04-12T07:24:49.465809+00:00",
-    "total_features": 670
+    "last_updated": "2026-04-13T08:10:53.641676+00:00",
+    "total_features": 694
   }
 }
