@@ -18616,11 +18616,505 @@
         "osm_id": 207359,
         "run_at": "2026-04-14T07:38:34.204440+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1133189,
+          44.9947369
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/antrim-county-under-a-flash-flood-watch-until-thursday-morning.html",
+        "title": "Antrim County under a flash flood watch until Thursday morning",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-15T03:08:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/antrim-county-under-a-flash-flood-watch-until-thursday-morning.html",
+        "mention_text": "Antrim County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Antrim County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1907306,
+        "run_at": "2026-04-15T07:39:29.186376+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6884637,
+          44.4308975
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wisn.com/article/severe-weather-watches-warning-wisconsin-april-14/71017154",
+        "title": "Tornado, flash flood warnings canceled in southeast Wisconsin",
+        "source": "WISN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-15T04:12:00Z",
+        "url": "https://www.wisn.com/article/severe-weather-watches-warning-wisconsin-april-14/71017154",
+        "mention_text": "Wisconsin",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 165466,
+        "run_at": "2026-04-15T07:39:29.186376+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6824346,
+          43.6211955
+        ]
+      },
+      "properties": {
+        "article_id": "https://upnorthlive.com/news/local/flood-watch-flash-flood-warnings-across-parts-of-northern-michigan",
+        "title": "Flood watch, flash flood warnings across northern Michigan",
+        "source": "WPBN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-14T14:51:29Z",
+        "url": "https://upnorthlive.com/news/local/flood-watch-flash-flood-warnings-across-parts-of-northern-michigan",
+        "mention_text": "Michigan",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 165789,
+        "run_at": "2026-04-15T07:39:29.186376+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9370433,
+          43.7128967
+        ]
+      },
+      "properties": {
+        "article_id": "https://wtmj.com/news/2026/04/14/flood-warning-issued-for-sheboygan-county-until-friday/",
+        "title": "Flood Warning issued for Sheboygan County until Friday, Flood Watch for Kenosha County",
+        "source": "WTMJ",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-14T20:46:02Z",
+        "url": "https://wtmj.com/news/2026/04/14/flood-warning-issued-for-sheboygan-county-until-friday/",
+        "mention_text": "Sheboygan County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Sheboygan County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 270625,
+        "run_at": "2026-04-15T07:39:29.186376+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0679837,
+          42.5729233
+        ]
+      },
+      "properties": {
+        "article_id": "https://wtmj.com/news/2026/04/14/flood-warning-issued-for-sheboygan-county-until-friday/",
+        "title": "Flood Warning issued for Sheboygan County until Friday, Flood Watch for Kenosha County",
+        "source": "WTMJ",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-14T20:46:02Z",
+        "url": "https://wtmj.com/news/2026/04/14/flood-warning-issued-for-sheboygan-county-until-friday/",
+        "mention_text": "Kenosha County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kenosha County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 1799448,
+        "run_at": "2026-04-15T07:39:29.186376+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3800841,
+          42.5860505
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.lansingstatejournal.com/story/news/local/2026/04/14/flood-warning-ingham-county-sycamore-creek-nws/89606982007/",
+        "title": "Flood warning issued for Ingham County waterway. When water will rise",
+        "source": "Lansing State Journal",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-14T16:18:00Z",
+        "url": "https://www.lansingstatejournal.com/story/news/local/2026/04/14/flood-warning-ingham-county-sycamore-creek-nws/89606982007/",
+        "mention_text": "Ingham County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ingham County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 901500,
+        "run_at": "2026-04-15T07:39:29.186376+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7696489,
+          44.5095982
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flash-flood-warning-affecting-northwest-michigan-until-early-wednesday-morning-caused-by-thunderstor.html",
+        "title": "Flash flood warning affecting Northwest Michigan until early Wednesday morning caused by thunderstorms",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-15T03:31:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flash-flood-warning-affecting-northwest-michigan-until-early-wednesday-morning-caused-by-thunderstor.html",
+        "mention_text": "Northwest Michigan",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Northwest, Lyon Township, Roscommon County, Michigan, 48653, United States",
+        "osm_type": "service",
+        "osm_id": 17957962,
+        "run_at": "2026-04-15T07:39:29.186376+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0337612,
+          43.8505842
+        ]
+      },
+      "properties": {
+        "article_id": "https://whbl.com/2026/04/14/flood-warning-issued-for-sheboygan-river/",
+        "title": "Flood Warning Issued for Sheboygan River",
+        "source": "whbl.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-14T19:54:34Z",
+        "url": "https://whbl.com/2026/04/14/flood-warning-issued-for-sheboygan-river/",
+        "mention_text": "Sheboygan River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Sheboygan River, Sheboygan County, Wisconsin, United States",
+        "osm_type": "river",
+        "osm_id": 4058059,
+        "run_at": "2026-04-15T07:39:29.186376+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7623227,
+          44.6205348
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wbay.com/video/2026/04/14/flash-flood-warning-clintonville/",
+        "title": "Flash flood warning in Clintonville",
+        "source": "WBAY",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-14T03:17:00Z",
+        "url": "https://www.wbay.com/video/2026/04/14/flash-flood-warning-clintonville/",
+        "mention_text": "Clintonville",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Clintonville, Waupaca County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251086,
+        "run_at": "2026-04-15T07:39:29.186376+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6824346,
+          43.6211955
+        ]
+      },
+      "properties": {
+        "article_id": "https://upnorthlive.com/news/local/gallery/flood-watch-flash-flood-warnings-across-parts-of-northern-michigan?photo=2",
+        "title": "Flood watch, flash flood warnings across northern Michigan",
+        "source": "WPBN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-14T14:46:12Z",
+        "url": "https://upnorthlive.com/news/local/gallery/flood-watch-flash-flood-warnings-across-parts-of-northern-michigan?photo=2",
+        "mention_text": "Michigan",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 165789,
+        "run_at": "2026-04-15T07:39:29.186376+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6824346,
+          43.6211955
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aol.com/articles/flash-flood-warnings-place-michigan-141326855.html",
+        "title": "Flash flood warnings in place in Michigan. Where rivers are flooded",
+        "source": "AOL.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-13T16:49:51Z",
+        "url": "https://www.aol.com/articles/flash-flood-warnings-place-michigan-141326855.html",
+        "mention_text": "Michigan",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 165789,
+        "run_at": "2026-04-15T07:39:29.186376+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7696489,
+          44.5095982
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-affecting-northwest-michigan-until-wednesday-morning-due-to-prolonged-rain.html",
+        "title": "Flood advisory affecting Northwest Michigan until Wednesday morning due to prolonged rain",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-15T04:37:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-affecting-northwest-michigan-until-wednesday-morning-due-to-prolonged-rain.html",
+        "mention_text": "Northwest Michigan",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Northwest, Lyon Township, Roscommon County, Michigan, 48653, United States",
+        "osm_type": "service",
+        "osm_id": 17957962,
+        "run_at": "2026-04-15T07:39:29.186376+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article315398251.html",
+        "title": "UPDATE: Flood advisory in place for Los Angeles Monday afternoon due to prolonged downpours",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-13T21:58:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article315398251.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-04-15T07:39:29.186376+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whittierdailynews.com/2026/04/13/flood-advisory-in-place-for-los-angeles-county-monday-afternoon-triggered-by-prolonged-downpours/",
+        "title": "Flood advisory in place for Los Angeles County Monday afternoon triggered by prolonged downpours",
+        "source": "Whittier Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-14T05:17:15Z",
+        "url": "https://www.whittierdailynews.com/2026/04/13/flood-advisory-in-place-for-los-angeles-county-monday-afternoon-triggered-by-prolonged-downpours/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-04-15T07:39:29.186376+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article315384550.html",
+        "title": "Flood advisory for Los Angeles and Ventura County until Sunday morning",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T13:06:06Z",
+        "url": "https://www.modbee.com/news/weather-news/article315384550.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-04-15T07:39:29.186376+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0779359,
+          34.4458248
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article315384550.html",
+        "title": "Flood advisory for Los Angeles and Ventura County until Sunday morning",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T13:06:06Z",
+        "url": "https://www.modbee.com/news/weather-news/article315384550.html",
+        "mention_text": "Ventura County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ventura County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396505,
+        "run_at": "2026-04-15T07:39:29.186376+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2498962,
+          41.6571703
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-for-southeast-michigan-until-early-wednesday-morning-due-to-heavy-rain.html",
+        "title": "Flood advisory for Southeast Michigan until early Wednesday morning due to heavy rain",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-15T05:31:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-for-southeast-michigan-until-early-wednesday-morning-due-to-heavy-rain.html",
+        "mention_text": "Southeast Michigan",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "South Michigan Street, Southeast, South Bend, Saint Joseph County, Indiana, 46613, United States",
+        "osm_type": "primary",
+        "osm_id": 128254186,
+        "run_at": "2026-04-15T07:39:29.186376+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8443666,
+          42.5935964
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-for-eaton-and-ingham-counties-until-wednesday-morning-triggered-by-intense-rainfall.html",
+        "title": "Flood advisory for Eaton and Ingham counties until Wednesday morning triggered by intense rainfall",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-15T04:47:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-for-eaton-and-ingham-counties-until-wednesday-morning-triggered-by-intense-rainfall.html",
+        "mention_text": "Eaton",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Eaton County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1582242,
+        "run_at": "2026-04-15T07:39:29.186376+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.250365,
+          39.9687987
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-for-northern-michigan-tuesday-morning-caused-by-prolonged-rainfall.html",
+        "title": "Flood advisory for Northern Michigan Tuesday morning caused by prolonged rainfall",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-14T07:40:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-for-northern-michigan-tuesday-morning-caused-by-prolonged-rainfall.html",
+        "mention_text": "Northern Michigan",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "South Michigan Road, Eagle Village, Zionsville, Boone County, Indiana, 46077, United States",
+        "osm_type": "primary",
+        "osm_id": 901427085,
+        "run_at": "2026-04-15T07:39:29.186376+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-04-14T07:38:34.208390+00:00",
-    "total_features": 716
+    "last_updated": "2026-04-15T07:39:29.190036+00:00",
+    "total_features": 735
   }
 }
