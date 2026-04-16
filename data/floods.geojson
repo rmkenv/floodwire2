@@ -19110,11 +19110,635 @@
         "osm_id": 901427085,
         "run_at": "2026-04-15T07:39:29.186376+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7944976,
+          43.5121225
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wzzm13.com/video/news/local/newaygo-county-under-flood-warning-as-well-as-flash-flood-watch/69-32a1996c-34a3-48e5-b146-7c63efc6cdbc",
+        "title": "Newaygo County under flood warning as well as flash flood watch",
+        "source": "WZZM13.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-15T22:05:00Z",
+        "url": "https://www.wzzm13.com/video/news/local/newaygo-county-under-flood-warning-as-well-as-flash-flood-watch/69-32a1996c-34a3-48e5-b146-7c63efc6cdbc",
+        "mention_text": "Newaygo County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Newaygo County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1907329,
+        "run_at": "2026-04-16T07:40:52.206336+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.277073,
+          43.6200297
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flash-flood-watch-issued-for-oceana-county-until-thursday-morning.html",
+        "title": "Flash flood watch issued for Oceana County until Thursday morning",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-15T18:23:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flash-flood-watch-issued-for-oceana-county-until-thursday-morning.html",
+        "mention_text": "Oceana County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Oceana County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1907330,
+        "run_at": "2026-04-16T07:40:52.206336+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7944976,
+          43.5121225
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thenews.com.pk/latest/1399127-flash-flood-warning-issued-in-newaygo-county-as-rising-rivers-trigger-state-of-emergency",
+        "title": "Flash flood warning issued in Newaygo County as rising rivers trigger state of emergency",
+        "source": "The News International",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-16T03:06:35Z",
+        "url": "https://www.thenews.com.pk/latest/1399127-flash-flood-warning-issued-in-newaygo-county-as-rising-rivers-trigger-state-of-emergency",
+        "mention_text": "Newaygo County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Newaygo County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1907329,
+        "run_at": "2026-04-16T07:40:52.206336+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8496551,
+          42.3093241
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-wtwdm7vzd5a67hec",
+        "title": "Snowmelt and rain create flood risk across Great Lakes with widespread flash flood alerts in place",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-15T16:00:57Z",
+        "url": "https://www.foxweather.com/watch/fmc-wtwdm7vzd5a67hec",
+        "mention_text": "Great Lakes",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Great Lakes, North Chicago, Lake County, Illinois, 60088, United States",
+        "osm_type": "hamlet",
+        "osm_id": 153386302,
+        "run_at": "2026-04-16T07:40:52.206336+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7944976,
+          43.5121225
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wzzm13.com/article/news/local/state-of-emergency-newaygo-county-under-flood-warning-flash-flood-watch/69-b3aa74a8-76ba-404c-afe1-890e67b90633",
+        "title": "STATE OF EMERGENCY | Newaygo County under flood warning as well as flash flood watch",
+        "source": "WZZM13.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-15T20:27:00Z",
+        "url": "https://www.wzzm13.com/article/news/local/state-of-emergency-newaygo-county-under-flood-warning-flash-flood-watch/69-b3aa74a8-76ba-404c-afe1-890e67b90633",
+        "mention_text": "Newaygo County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Newaygo County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1907329,
+        "run_at": "2026-04-16T07:40:52.206336+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7846477,
+          33.1665316
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-kent-county-until-thursday-evening-minor-flooding-is-happening.html",
+        "title": "Flood warning issued for Kent County until Thursday evening \u2013 minor flooding is happening",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-15T16:26:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-kent-county-until-thursday-evening-minor-flooding-is-happening.html",
+        "mention_text": "Kent County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Kent County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1811588,
+        "run_at": "2026-04-16T07:40:52.206336+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3800841,
+          42.5860505
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-ingham-county-from-thursday-to-tuesday-minor-flooding-is-anticipated.html",
+        "title": "Flood warning issued for Ingham County from Thursday to Tuesday \u2013 minor flooding is anticipated",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-15T16:25:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-ingham-county-from-thursday-to-tuesday-minor-flooding-is-anticipated.html",
+        "mention_text": "Ingham County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Ingham County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 901500,
+        "run_at": "2026-04-16T07:40:52.206336+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.277073,
+          43.6200297
+        ]
+      },
+      "properties": {
+        "article_id": "https://wwmt.com/news/local/flash-flood-watch-issued-oceana-county-hesperia-dam-facing-potential-failure-michigan-water-levels-rain-weather-wwmt",
+        "title": "Flash Flood Watch issued in Oceana County, with Hesperia Dam facing potential failure",
+        "source": "WWMT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-15T22:04:29Z",
+        "url": "https://wwmt.com/news/local/flash-flood-watch-issued-oceana-county-hesperia-dam-facing-potential-failure-michigan-water-levels-rain-weather-wwmt",
+        "mention_text": "Oceana County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Oceana County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1907330,
+        "run_at": "2026-04-16T07:40:52.206336+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0406905,
+          43.5727694
+        ]
+      },
+      "properties": {
+        "article_id": "https://wwmt.com/news/local/flash-flood-watch-issued-oceana-county-hesperia-dam-facing-potential-failure-michigan-water-levels-rain-weather-wwmt",
+        "title": "Flash Flood Watch issued in Oceana County, with Hesperia Dam facing potential failure",
+        "source": "WWMT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-15T22:04:29Z",
+        "url": "https://wwmt.com/news/local/flash-flood-watch-issued-oceana-county-hesperia-dam-facing-potential-failure-michigan-water-levels-rain-weather-wwmt",
+        "mention_text": "Hesperia Dam",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hesperia Dam, Hesperia, Oceana County, Michigan, United States",
+        "osm_type": "dam",
+        "osm_id": 17370093,
+        "run_at": "2026-04-16T07:40:52.206336+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1458259,
+          42.9429488
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-saginaw-and-shiawassee-counties-from-thursday-and-until-further-notice.html",
+        "title": "Flood warning issued for Saginaw and Shiawassee counties from Thursday and until further notice",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-15T14:50:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-saginaw-and-shiawassee-counties-from-thursday-and-until-further-notice.html",
+        "mention_text": "Shiawassee",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Shiawassee County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 582246,
+        "run_at": "2026-04-16T07:40:52.206336+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6256325,
+          44.8395607
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.waow.com/news/flash-flood-watch-in-effect-near-balsam-row-road-dam-north-of-shawano/article_6dc26e42-0fbc-4b4c-b0da-c7af4911e504.html",
+        "title": "Flash Flood Watch in effect near Balsam Row Road dam north of Shawano",
+        "source": "WAOW",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-15T12:31:00Z",
+        "url": "https://www.waow.com/news/flash-flood-watch-in-effect-near-balsam-row-road-dam-north-of-shawano/article_6dc26e42-0fbc-4b4c-b0da-c7af4911e504.html",
+        "mention_text": "Balsam Row Road",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Balsam Row Road, Town of Wescott, Shawano County, Wisconsin, 54166, United States",
+        "osm_type": "residential",
+        "osm_id": 21592222,
+        "run_at": "2026-04-16T07:40:52.206336+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7118868,
+          44.7817214
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.waow.com/news/flash-flood-watch-in-effect-near-balsam-row-road-dam-north-of-shawano/article_6dc26e42-0fbc-4b4c-b0da-c7af4911e504.html",
+        "title": "Flash Flood Watch in effect near Balsam Row Road dam north of Shawano",
+        "source": "WAOW",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-15T12:31:00Z",
+        "url": "https://www.waow.com/news/flash-flood-watch-in-effect-near-balsam-row-road-dam-north-of-shawano/article_6dc26e42-0fbc-4b4c-b0da-c7af4911e504.html",
+        "mention_text": "Shawano",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Shawano County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 270645,
+        "run_at": "2026-04-16T07:40:52.206336+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6824346,
+          43.6211955
+        ]
+      },
+      "properties": {
+        "article_id": "https://upnorthlive.com/newsletter-daily/gallery/flood-watch-flash-flood-warnings-across-parts-of-northern-michigan",
+        "title": "Flood watch, flash flood warnings across northern Michigan",
+        "source": "WPBN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-14T14:46:12Z",
+        "url": "https://upnorthlive.com/newsletter-daily/gallery/flood-watch-flash-flood-warnings-across-parts-of-northern-michigan",
+        "mention_text": "Michigan",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 165789,
+        "run_at": "2026-04-16T07:40:52.206336+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0662396,
+          41.8137876
+        ]
+      },
+      "properties": {
+        "article_id": "https://q985online.com/illinois-rockford-flooding-alerts/",
+        "title": "Flash Flood Warning: Dangerous Overnight Flooding in Northern Illinois",
+        "source": "Q98.5",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-16T02:42:02Z",
+        "url": "https://q985online.com/illinois-rockford-flooding-alerts/",
+        "mention_text": "Northern Illinois",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Northern Illinois, 4100, Main Trail Loop 1, Lisle, DuPage County, Illinois, 60532, United States",
+        "osm_type": "garden",
+        "osm_id": 3277925096,
+        "run_at": "2026-04-16T07:40:52.206336+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7944976,
+          43.5121225
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ubirataonline.com.br/state-of-emergency-newaygo-county-under-flood-warning-as-well-as-flash-flood-watch/",
+        "title": "STATE OF EMERGENCY | Newaygo County under flood warning as well as flash flood watch",
+        "source": "Ubirat\u00e3 Online",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-16T01:15:35Z",
+        "url": "https://www.ubirataonline.com.br/state-of-emergency-newaygo-county-under-flood-warning-as-well-as-flash-flood-watch/",
+        "mention_text": "Newaygo County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Newaygo County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1907329,
+        "run_at": "2026-04-16T07:40:52.206336+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7944976,
+          43.5121225
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bigrapidsnews.com/news/article/newaygo-county-flood-emergency-22208524.php",
+        "title": "Newaygo County declared a flood emergency as the Muskegon and White rivers rise",
+        "source": "Big Rapids Pioneer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-15T20:51:25Z",
+        "url": "https://www.bigrapidsnews.com/news/article/newaygo-county-flood-emergency-22208524.php",
+        "mention_text": "Newaygo County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Newaygo County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1907329,
+        "run_at": "2026-04-16T07:40:52.206336+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2483921,
+          43.2341813
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bigrapidsnews.com/news/article/newaygo-county-flood-emergency-22208524.php",
+        "title": "Newaygo County declared a flood emergency as the Muskegon and White rivers rise",
+        "source": "Big Rapids Pioneer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-15T20:51:25Z",
+        "url": "https://www.bigrapidsnews.com/news/article/newaygo-county-flood-emergency-22208524.php",
+        "mention_text": "Muskegon",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Muskegon, Muskegon County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 134765,
+        "run_at": "2026-04-16T07:40:52.206336+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1577725,
+          38.0632329
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bigrapidsnews.com/news/article/newaygo-county-flood-emergency-22208524.php",
+        "title": "Newaygo County declared a flood emergency as the Muskegon and White rivers rise",
+        "source": "Big Rapids Pioneer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-15T20:51:25Z",
+        "url": "https://www.bigrapidsnews.com/news/article/newaygo-county-flood-emergency-22208524.php",
+        "mention_text": "White",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "White County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1800962,
+        "run_at": "2026-04-16T07:40:52.206336+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1020414,
+          33.6157083
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather/2026/04/12-up-north-hotels-offering-discount-rooms-during-flood-evacuation.html",
+        "title": "12 Up North hotels offering discount rooms during flood evacuation",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-15T17:06:00Z",
+        "url": "https://www.mlive.com/weather/2026/04/12-up-north-hotels-offering-discount-rooms-during-flood-evacuation.html",
+        "mention_text": "North",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North, Orangeburg County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193827,
+        "run_at": "2026-04-16T07:40:52.206336+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.277073,
+          43.6200297
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-active-for-newaygo-and-oceana-counties-until-wednesday-afternoon-due-to-prolonged-rai.html",
+        "title": "Flood advisory active for Newaygo and Oceana counties until Wednesday afternoon due to prolonged rain",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-15T10:34:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-active-for-newaygo-and-oceana-counties-until-wednesday-afternoon-due-to-prolonged-rai.html",
+        "mention_text": "Oceana",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oceana County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1907330,
+        "run_at": "2026-04-16T07:40:52.206336+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6824346,
+          43.6211955
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-affecting-northwest-michigan-until-wednesday-morning-due-to-prolonged-rain.html",
+        "title": "Update: Flood advisory affecting 4 Michigan counties until Wednesday morning due to prolonged rain",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-15T04:37:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-affecting-northwest-michigan-until-wednesday-morning-due-to-prolonged-rain.html",
+        "mention_text": "Michigan",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 165789,
+        "run_at": "2026-04-16T07:40:52.206336+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.375716,
+          35.3540209
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article314739234.html",
+        "title": "UPDATE: Flood advisory for San Luis Obispo and Santa Barbara counties until Wednesday morning",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-18T08:00:00Z",
+        "url": "https://www.modbee.com/news/weather-news/article314739234.html",
+        "mention_text": "San Luis Obispo",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Luis Obispo County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396496,
+        "run_at": "2026-04-16T07:40:52.206336+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.702667,
+          34.4221319
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article314739234.html",
+        "title": "UPDATE: Flood advisory for San Luis Obispo and Santa Barbara counties until Wednesday morning",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-18T08:00:00Z",
+        "url": "https://www.modbee.com/news/weather-news/article314739234.html",
+        "mention_text": "Santa Barbara",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Santa Barbara, Santa Barbara County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 112224,
+        "run_at": "2026-04-16T07:40:52.206336+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.755997,
+          36.7014631
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article314715080.html",
+        "title": "UPDATE: The flood advisory for California is predicted to expire at 10:45 a.m.",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-16T08:00:00Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article314715080.html",
+        "mention_text": "California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "California, United States",
+        "osm_type": "administrative",
+        "osm_id": 165475,
+        "run_at": "2026-04-16T07:40:52.206336+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-04-15T07:39:29.190036+00:00",
-    "total_features": 735
+    "last_updated": "2026-04-16T07:40:52.210343+00:00",
+    "total_features": 759
   }
 }
