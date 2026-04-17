@@ -19734,11 +19734,271 @@
         "osm_id": 165475,
         "run_at": "2026-04-16T07:40:52.206336+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2480072,
+          44.9988053
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.greenbaypressgazette.com/story/news/local/oconto-county/2026/04/16/weather-alert/89646571007/",
+        "title": "Flood warning issued for Oconto County",
+        "source": "Green Bay Press-Gazette",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-16T19:11:00Z",
+        "url": "https://www.greenbaypressgazette.com/story/news/local/oconto-county/2026/04/16/weather-alert/89646571007/",
+        "mention_text": "Oconto County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oconto County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 1799707,
+        "run_at": "2026-04-17T07:41:46.195246+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9928452,
+          44.6408868
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.recordpatriot.com/news/article/photos-dam-holds-flood-warning-continues-22208312.php",
+        "title": "Photos: Dam holds as flood warning issued for Benzie County",
+        "source": "Benzie County Record Patriot",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-16T15:12:33Z",
+        "url": "https://www.recordpatriot.com/news/article/photos-dam-holds-flood-warning-continues-22208312.php",
+        "mention_text": "Benzie County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Benzie County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1907308,
+        "run_at": "2026-04-17T07:41:46.195246+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8718694,
+          44.0608193
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flash-flood-warning-for-arenac-county-until-early-friday-urgent-action-advised.html",
+        "title": "Flash flood warning for Arenac County until early Friday \u2013 urgent action advised",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-16T17:56:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flash-flood-warning-for-arenac-county-until-early-friday-urgent-action-advised.html",
+        "mention_text": "Arenac County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arenac County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 572624,
+        "run_at": "2026-04-17T07:41:46.195246+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6165976,
+          44.7606481
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/environment/2026/04/traverse-city-flash-flood-swamps-fishpass-construction-site.html",
+        "title": "Traverse City flash flood swamps FishPass construction site",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-16T15:09:00Z",
+        "url": "https://www.mlive.com/environment/2026/04/traverse-city-flash-flood-swamps-fishpass-construction-site.html",
+        "mention_text": "Traverse City",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Traverse City, Grand Traverse County, Michigan, 49684, United States",
+        "osm_type": "administrative",
+        "osm_id": 134757,
+        "run_at": "2026-04-17T07:41:46.195246+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4768486,
+          45.4417481
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/northern-michigan-placed-under-a-flash-flood-warning-until-early-tuesday-morning-due-to-thunderstorm.html",
+        "title": "Update: Flash flood warning for Cheboygan County until Wednesday morning",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-14T04:39:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/northern-michigan-placed-under-a-flash-flood-warning-until-early-tuesday-morning-due-to-thunderstorm.html",
+        "mention_text": "Cheboygan County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Cheboygan County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1907311,
+        "run_at": "2026-04-17T07:41:46.195246+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0406905,
+          43.5727694
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.woodtv.com/video/flash-flood-watch-issued-for-hesperia-dam/11702983/",
+        "title": "Flash flood watch issued for Hesperia Dam",
+        "source": "WOODTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-15T20:11:12Z",
+        "url": "https://www.woodtv.com/video/flash-flood-watch-issued-for-hesperia-dam/11702983/",
+        "mention_text": "Hesperia Dam",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hesperia Dam, Hesperia, Oceana County, Michigan, United States",
+        "osm_type": "dam",
+        "osm_id": 17370093,
+        "run_at": "2026-04-17T07:41:46.195246+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9552284,
+          40.849881
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wlns.com/top-stories/meridian-township-issues-flooded-road-notice/",
+        "title": "Meridian Township issues flooded road notice",
+        "source": "WLNS 6 News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-16T15:05:01Z",
+        "url": "https://www.wlns.com/top-stories/meridian-township-issues-flooded-road-notice/",
+        "mention_text": "Meridian Township",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Meridian, Butler Township, Butler County, Pennsylvania, United States",
+        "osm_type": "census",
+        "osm_id": 188028,
+        "run_at": "2026-04-17T07:41:46.195246+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9552284,
+          40.849881
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aol.com/news/meridian-township-issues-flooded-road-150501641.html",
+        "title": "Meridian Township issues flooded road notice",
+        "source": "AOL.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-16T15:05:01Z",
+        "url": "https://www.aol.com/news/meridian-township-issues-flooded-road-150501641.html",
+        "mention_text": "Meridian Township",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Meridian, Butler Township, Butler County, Pennsylvania, United States",
+        "osm_type": "census",
+        "osm_id": 188028,
+        "run_at": "2026-04-17T07:41:46.195246+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailybreeze.com/2026/04/12/flood-advisory-active-for-los-angeles-and-ventura-counties-until-sunday-morning-due-to-prolonged-downpours/",
+        "title": "Flood advisory active for Los Angeles and Ventura counties until Sunday morning due to prolonged downpours",
+        "source": "Daily Breeze",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T12:43:40Z",
+        "url": "https://www.dailybreeze.com/2026/04/12/flood-advisory-active-for-los-angeles-and-ventura-counties-until-sunday-morning-due-to-prolonged-downpours/",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-04-17T07:41:46.195246+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0779359,
+          34.4458248
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailybreeze.com/2026/04/12/flood-advisory-active-for-los-angeles-and-ventura-counties-until-sunday-morning-due-to-prolonged-downpours/",
+        "title": "Flood advisory active for Los Angeles and Ventura counties until Sunday morning due to prolonged downpours",
+        "source": "Daily Breeze",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T12:43:40Z",
+        "url": "https://www.dailybreeze.com/2026/04/12/flood-advisory-active-for-los-angeles-and-ventura-counties-until-sunday-morning-due-to-prolonged-downpours/",
+        "mention_text": "Ventura",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ventura County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396505,
+        "run_at": "2026-04-17T07:41:46.195246+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-04-16T07:40:52.210343+00:00",
-    "total_features": 759
+    "last_updated": "2026-04-17T07:41:46.199283+00:00",
+    "total_features": 769
   }
 }
