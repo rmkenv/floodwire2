@@ -19994,11 +19994,635 @@
         "osm_id": 396505,
         "run_at": "2026-04-17T07:41:46.195246+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3876368,
+          46.6354348
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flash-flood-warning-affecting-baraga-county-until-early-saturday-caused-by-intense-rainfall.html",
+        "title": "Flash flood warning affecting Baraga County until early Saturday caused by intense rainfall",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-18T01:14:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flash-flood-warning-affecting-baraga-county-until-early-saturday-caused-by-intense-rainfall.html",
+        "mention_text": "Baraga County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Baraga County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1898717,
+        "run_at": "2026-04-18T07:14:25.782624+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5781416,
+          39.100105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kansascity.com/news/weather-news/article315450739.html",
+        "title": "The Kansas City area placed under a flash flood warning until Friday night",
+        "source": "Kansas City Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-17T22:21:07Z",
+        "url": "https://www.kansascity.com/news/weather-news/article315450739.html",
+        "mention_text": "Kansas City",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kansas City, Jackson County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 141008,
+        "run_at": "2026-04-18T07:14:25.782624+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6244212,
+          41.8755616
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcchicago.com/news/local/flood-warning-issued-ahead-of-severe-storms-expected-to-drench-chicago-area/3924422/",
+        "title": "Flood watch issued ahead of severe storms expected to drench Chicago area",
+        "source": "NBC 5 Chicago",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-17T21:50:35Z",
+        "url": "https://www.nbcchicago.com/news/local/flood-warning-issued-ahead-of-severe-storms-expected-to-drench-chicago-area/3924422/",
+        "mention_text": "Chicago",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Chicago, South Chicago Township, Cook County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 122604,
+        "run_at": "2026-04-18T07:14:25.782624+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7944976,
+          43.5121225
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-newaygo-county-until-apr-24-intense-flooding-reported.html",
+        "title": "Flood warning issued for Newaygo County until Apr. 24 \u2013 intense flooding reported",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-17T15:42:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-newaygo-county-until-apr-24-intense-flooding-reported.html",
+        "mention_text": "Newaygo County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Newaygo County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1907329,
+        "run_at": "2026-04-18T07:14:25.782624+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.213342,
+          41.5421375
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-ottawa-county-until-further-notice-moderate-flooding-is-ongoing.html",
+        "title": "Flood warning issued for Ottawa County until further notice \u2013 moderate flooding is ongoing",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-17T15:42:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-ottawa-county-until-further-notice-moderate-flooding-is-ongoing.html",
+        "mention_text": "Ottawa County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Ottawa County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 350380,
+        "run_at": "2026-04-18T07:14:25.782624+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6098023,
+          43.2903117
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-gratiot-county-until-monday-evening-minor-flooding-is-reported.html",
+        "title": "Flood warning issued for Gratiot County until Monday evening \u2013 minor flooding is reported",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-17T15:41:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-gratiot-county-until-monday-evening-minor-flooding-is-reported.html",
+        "mention_text": "Gratiot County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Gratiot County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1907314,
+        "run_at": "2026-04-18T07:14:25.782624+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5770967,
+          41.5235808
+        ]
+      },
+      "properties": {
+        "article_id": "https://b100quadcities.com/flood-warning-mississippi-river-davenport-muscatine/",
+        "title": "Flood Warning Issued Along Mississippi River At Davenport, Muscatine",
+        "source": "B100 \u2013 All The Hits",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-17T16:42:31Z",
+        "url": "https://b100quadcities.com/flood-warning-mississippi-river-davenport-muscatine/",
+        "mention_text": "Davenport",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Davenport, Scott County, Iowa, United States",
+        "osm_type": "administrative",
+        "osm_id": 129013,
+        "run_at": "2026-04-18T07:14:25.782624+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.945049,
+          37.1921704
+        ]
+      },
+      "properties": {
+        "article_id": "https://cknxnewstoday.ca/midwestern/news/2026/04/17/flood-warning-issued-for-hepworth-gould-lake-area",
+        "title": "Flood warning issued for Hepworth, Gould Lake area",
+        "source": "CKNX News Today",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-17T19:19:06Z",
+        "url": "https://cknxnewstoday.ca/midwestern/news/2026/04/17/flood-warning-issued-for-hepworth-gould-lake-area",
+        "mention_text": "Hepworth",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hepworth Peak, Washington County, Utah, United States",
+        "osm_type": "peak",
+        "osm_id": 583468145,
+        "run_at": "2026-04-18T07:14:25.782624+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4991316,
+          43.2964806
+        ]
+      },
+      "properties": {
+        "article_id": "https://cknxnewstoday.ca/midwestern/news/2026/04/17/flood-warning-issued-for-hepworth-gould-lake-area",
+        "title": "Flood warning issued for Hepworth, Gould Lake area",
+        "source": "CKNX News Today",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-17T19:19:06Z",
+        "url": "https://cknxnewstoday.ca/midwestern/news/2026/04/17/flood-warning-issued-for-hepworth-gould-lake-area",
+        "mention_text": "Gould Lake",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Gould Lake, Pierson Township, Montcalm County, Michigan, United States",
+        "osm_type": "water",
+        "osm_id": 219431380,
+        "run_at": "2026-04-18T07:14:25.782624+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.registerguard.com/embed/video/10440839002/",
+        "title": "Hurricane Ian: Florida Gov. Ron DeSantis talks storm surge, flooding",
+        "source": "The Register-Guard",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-17T13:58:46Z",
+        "url": "https://www.registerguard.com/embed/video/10440839002/",
+        "mention_text": "Florida",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-04-18T07:14:25.782624+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.567412,
+          42.8868859
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.lehighvalleylive.com/weather-alerts/2026/04/southeast-pa-placed-under-a-coastal-flood-advisory-sunday.html",
+        "title": "Southeast Pa. placed under a coastal flood advisory Sunday",
+        "source": "LehighValleyLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-17T19:04:00Z",
+        "url": "https://www.lehighvalleylive.com/weather-alerts/2026/04/southeast-pa-placed-under-a-coastal-flood-advisory-sunday.html",
+        "mention_text": "Southeast Pa.",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "East Pa Avenue Southeast, Kentwood, Kent County, Michigan, 49512, United States",
+        "osm_type": "tertiary",
+        "osm_id": 17847893,
+        "run_at": "2026-04-18T07:14:25.782624+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4041622,
+          40.0757384
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nj.com/weather-alerts/2026/04/coastal-flood-advisory-active-for-7-n-j-counties-saturday-and-sunday.html",
+        "title": "Coastal flood advisory active for 7 N.J. counties Saturday and Sunday",
+        "source": "NJ.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-17T19:05:00Z",
+        "url": "https://www.nj.com/weather-alerts/2026/04/coastal-flood-advisory-active-for-7-n-j-counties-saturday-and-sunday.html",
+        "mention_text": "N.J.",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 224951,
+        "run_at": "2026-04-18T07:14:25.782624+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6953467,
+          37.575509
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-affecting-iron-county-until-further-notice.html",
+        "title": "Flood advisory affecting Iron County until further notice",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-18T03:16:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-affecting-iron-county-until-further-notice.html",
+        "mention_text": "Iron County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Iron County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180466,
+        "run_at": "2026-04-18T07:14:25.782624+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3138599,
+          42.0397014
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.shawlocal.com/sauk-valley/2026/04/18/lee-ogle-counties-under-flood-advisory-friday-night-due-to-heavy-rainfall/",
+        "title": "Lee, Ogle counties under flood advisory Friday night due to heavy rainfall",
+        "source": "Shaw Local",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-18T01:26:00Z",
+        "url": "https://www.shawlocal.com/sauk-valley/2026/04/18/lee-ogle-counties-under-flood-advisory-friday-night-due-to-heavy-rainfall/",
+        "mention_text": "Ogle",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ogle County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 536312,
+        "run_at": "2026-04-18T07:14:25.782624+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4041622,
+          40.0757384
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nj.com/weather-alerts/2026/04/coastal-flood-advisory-for-3-n-j-counties-for-saturday-and-sunday.html",
+        "title": "Coastal flood advisory for 3 N.J. counties for Saturday and Sunday",
+        "source": "NJ.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-18T02:04:00Z",
+        "url": "https://www.nj.com/weather-alerts/2026/04/coastal-flood-advisory-for-3-n-j-counties-for-saturday-and-sunday.html",
+        "mention_text": "N.J.",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 224951,
+        "run_at": "2026-04-18T07:14:25.782624+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/04/ny-weather-coastal-flood-advisory-affecting-part-of-new-york-saturday-and-sunday.html",
+        "title": "NY weather: Coastal flood advisory affecting part of New York Saturday and Sunday",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-18T02:21:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/04/ny-weather-coastal-flood-advisory-affecting-part-of-new-york-saturday-and-sunday.html",
+        "mention_text": "New York",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-04-18T07:14:25.782624+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0563254,
+          40.9678345
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.openpr.com/news/4477556/restorian-issues-spring-flood-advisory-for-bergen-county",
+        "title": "Restorian Issues Spring Flood Advisory for Bergen County and Northern NJ Homeowners",
+        "source": "openPR.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-17T23:52:04Z",
+        "url": "https://www.openpr.com/news/4477556/restorian-issues-spring-flood-advisory-for-bergen-county",
+        "mention_text": "Bergen County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Bergen County, New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 958930,
+        "run_at": "2026-04-18T07:14:25.782624+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5556156,
+          46.4824144
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-in-place-for-luce-county-until-further-notice.html",
+        "title": "Flood advisory in place for Luce County until further notice",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-18T03:19:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-in-place-for-luce-county-until-further-notice.html",
+        "mention_text": "Luce County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Luce County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1898721,
+        "run_at": "2026-04-18T07:14:25.782624+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5615778,
+          40.7352994
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/04/ny-weather-coastal-flood-advisory-for-queens-and-nassau-county-for-saturday-and-sunday.html",
+        "title": "NY weather update: Coastal flood advisory for Queens and Nassau County for Saturday and Sunday",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-18T02:04:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/04/ny-weather-coastal-flood-advisory-for-queens-and-nassau-county-for-saturday-and-sunday.html",
+        "mention_text": "Nassau County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Nassau County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 2552442,
+        "run_at": "2026-04-18T07:14:25.782624+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7907554,
+          41.1763139
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/04/ny-weather-coastal-flood-advisory-issued-for-westchester-county-for-saturday-and-sunday.html",
+        "title": "NY weather: Coastal flood advisory issued for Westchester County for Saturday and Sunday",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-18T02:04:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/04/ny-weather-coastal-flood-advisory-issued-for-westchester-county-for-saturday-and-sunday.html",
+        "mention_text": "Westchester County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Westchester County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1838027,
+        "run_at": "2026-04-18T07:14:25.782624+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3876368,
+          46.6354348
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-affecting-baraga-and-houghton-counties-until-sunday-evening.html",
+        "title": "Flood advisory affecting Baraga and Houghton counties until Sunday evening",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-17T17:35:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-affecting-baraga-and-houghton-counties-until-sunday-evening.html",
+        "mention_text": "Baraga",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Baraga County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1898717,
+        "run_at": "2026-04-18T07:14:25.782624+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7774734,
+          46.8591287
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-affecting-baraga-and-houghton-counties-until-sunday-evening.html",
+        "title": "Flood advisory affecting Baraga and Houghton counties until Sunday evening",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-17T17:35:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-affecting-baraga-and-houghton-counties-until-sunday-evening.html",
+        "mention_text": "Houghton",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Houghton County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1898720,
+        "run_at": "2026-04-18T07:14:25.782624+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3488201,
+          39.5980987
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nj.com/weather-alerts/2026/04/coastal-flood-advisory-for-salem-county-for-saturday-and-sunday.html",
+        "title": "Coastal flood advisory for Salem County for Saturday and Sunday",
+        "source": "NJ.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-17T19:05:00Z",
+        "url": "https://www.nj.com/weather-alerts/2026/04/coastal-flood-advisory-for-salem-county-for-saturday-and-sunday.html",
+        "mention_text": "Salem County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Salem County, New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 1863173,
+        "run_at": "2026-04-18T07:14:25.782624+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1496048,
+          40.5834557
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/04/nyc-weather-update-coastal-flood-advisory-in-place-for-staten-island-for-saturday-and-sunday.html",
+        "title": "NYC weather update: Coastal flood advisory in place for Staten Island for Saturday and Sunday",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-18T02:21:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/04/nyc-weather-update-coastal-flood-advisory-in-place-for-staten-island-for-saturday-and-sunday.html",
+        "mention_text": "Staten Island",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Staten Island, Richmond County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 9691948,
+        "run_at": "2026-04-18T07:14:25.782624+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-04-17T07:41:46.199283+00:00",
-    "total_features": 769
+    "last_updated": "2026-04-18T07:14:25.786700+00:00",
+    "total_features": 793
   }
 }
