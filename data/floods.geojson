@@ -20618,11 +20618,375 @@
         "osm_id": 9691948,
         "run_at": "2026-04-18T07:14:25.782624+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5556156,
+          46.4824144
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-luce-county-until-further-notice.html",
+        "title": "Flood warning issued for Luce County until further notice",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-19T03:27:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-luce-county-until-further-notice.html",
+        "mention_text": "Luce County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Luce County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1898721,
+        "run_at": "2026-04-19T07:27:20.969445+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6794889,
+          43.0436436
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wzzm13.com/video/news/local/flood-warning-issued-for-comstock-park-area/69-d7f72e41-b7c3-46bf-8161-2709da051bd3",
+        "title": "Flood warning issued for Comstock Park area",
+        "source": "WZZM13.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-18T22:48:00Z",
+        "url": "https://www.wzzm13.com/video/news/local/flood-warning-issued-for-comstock-park-area/69-d7f72e41-b7c3-46bf-8161-2709da051bd3",
+        "mention_text": "Comstock Park",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Comstock Park, Kent County, Michigan, United States",
+        "osm_type": "census",
+        "osm_id": 134449,
+        "run_at": "2026-04-19T07:27:20.969445+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9431673,
+          43.9611244
+        ]
+      },
+      "properties": {
+        "article_id": "https://wgntv.com/video/flood-warning-issued-due-to-rising-fox-river-levels-sandbags-available/11713235/",
+        "title": "Flood Warning issued due to rising Fox River levels, sandbags available",
+        "source": "WGN-TV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-18T22:12:04Z",
+        "url": "https://wgntv.com/video/flood-warning-issued-due-to-rising-fox-river-levels-sandbags-available/11713235/",
+        "mention_text": "Fox River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Fox River, Wisconsin, United States",
+        "osm_type": "river",
+        "osm_id": 4064352,
+        "run_at": "2026-04-19T07:27:20.969445+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6794889,
+          43.0436436
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/articles/flood-warning-issued-comstock-park-151801002.html",
+        "title": "Flood warning issued for Comstock Park area",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-18T15:18:01Z",
+        "url": "https://www.yahoo.com/news/articles/flood-warning-issued-comstock-park-151801002.html",
+        "mention_text": "Comstock Park",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Comstock Park, Kent County, Michigan, United States",
+        "osm_type": "census",
+        "osm_id": 134449,
+        "run_at": "2026-04-19T07:27:20.969445+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6794889,
+          43.0436436
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wzzm13.com/article/news/local/flood-warning-issued-for-comstock-park-area/69-ccb0187c-269a-4532-8953-b41a20749bb6",
+        "title": "Flood warning issued for Comstock Park area",
+        "source": "WZZM13.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-18T15:18:00Z",
+        "url": "https://www.wzzm13.com/article/news/local/flood-warning-issued-for-comstock-park-area/69-ccb0187c-269a-4532-8953-b41a20749bb6",
+        "mention_text": "Comstock Park",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Comstock Park, Kent County, Michigan, United States",
+        "osm_type": "census",
+        "osm_id": 134449,
+        "run_at": "2026-04-19T07:27:20.969445+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9431673,
+          43.9611244
+        ]
+      },
+      "properties": {
+        "article_id": "https://wgntv.com/news/northwest-suburbs/flood-warning-issued-due-to-rising-fox-river-levels/",
+        "title": "Flood Warning issued due to rising Fox River levels, sandbags available",
+        "source": "WGN-TV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-18T21:48:48Z",
+        "url": "https://wgntv.com/news/northwest-suburbs/flood-warning-issued-due-to-rising-fox-river-levels/",
+        "mention_text": "Fox River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Fox River, Wisconsin, United States",
+        "osm_type": "river",
+        "osm_id": 4064352,
+        "run_at": "2026-04-19T07:27:20.969445+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3800841,
+          42.5860505
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-ingham-county-until-tuesday-midday-minor-flooding-is-ongoing.html",
+        "title": "Flood warning issued for Ingham County until Tuesday midday \u2013 minor flooding is ongoing",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-18T15:09:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-ingham-county-until-tuesday-midday-minor-flooding-is-ongoing.html",
+        "mention_text": "Ingham County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Ingham County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 901500,
+        "run_at": "2026-04-19T07:27:20.969445+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7944976,
+          43.5121225
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-newaygo-county-until-further-notice-intense-flooding-occurring.html",
+        "title": "Flood warning issued for Newaygo County until further notice \u2013 intense flooding occurring",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-18T15:09:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-newaygo-county-until-further-notice-intense-flooding-occurring.html",
+        "mention_text": "Newaygo County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Newaygo County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1907329,
+        "run_at": "2026-04-19T07:27:20.969445+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article315457765.html",
+        "title": "Charleston County under a coastal flood advisory until Saturday night",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-18T21:04:05Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article315457765.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-04-19T07:27:20.969445+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article315457765.html",
+        "title": "UPDATE: The current coastal flood advisory for Charleston County will expire at 11 p.m.",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-19T03:12:05Z",
+        "url": "https://www.thestate.com/news/weather-news/article315457765.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-04-19T07:27:20.969445+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0446343,
+          46.288204
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-affecting-iron-county-until-further-notice.html",
+        "title": "Update: Flood advisory affecting Upper Peninsula until 1 a.m. EDT Saturday",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-18T03:24:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-affecting-iron-county-until-further-notice.html",
+        "mention_text": "Upper Peninsula",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Upper Peninsula, United States",
+        "osm_type": "peninsula",
+        "osm_id": 17577925,
+        "run_at": "2026-04-19T07:27:20.969445+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4041622,
+          40.0757384
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nj.com/weather-alerts/2026/04/coastal-flood-advisory-affecting-3-n-j-counties-sunday.html",
+        "title": "Coastal flood advisory affecting 3 N.J. counties Sunday",
+        "source": "NJ.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-17T19:05:00Z",
+        "url": "https://www.nj.com/weather-alerts/2026/04/coastal-flood-advisory-affecting-3-n-j-counties-sunday.html",
+        "mention_text": "N.J.",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 224951,
+        "run_at": "2026-04-19T07:27:20.969445+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9678472,
+          40.6798923
+        ]
+      },
+      "properties": {
+        "article_id": "https://hoodline.com/2026/04/coastal-creep-chilly-weekend-flood-threat-put-nyc-on-tidal-watch/",
+        "title": "NYC Weather, Cooler Weekend And Coastal Flood Advisory",
+        "source": "Hoodline",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-18T17:21:14Z",
+        "url": "https://hoodline.com/2026/04/coastal-creep-chilly-weekend-flood-threat-put-nyc-on-tidal-watch/",
+        "mention_text": "NYC Weather",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Weather Up, 589, Vanderbilt Avenue, Prospect Heights, Brooklyn, Kings County, New York, 11238, United States",
+        "osm_type": "bar",
+        "osm_id": 5837304282,
+        "run_at": "2026-04-19T07:27:20.969445+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8295337,
+          33.2588817
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.al.com/weather-alerts/2026/02/flood-advisory-issued-for-alabama-thursday-night-triggered-by-intense-rain.html",
+        "title": "Flood advisory issued for Alabama Thursday night triggered by intense rain",
+        "source": "AL.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-26T08:00:00Z",
+        "url": "https://www.al.com/weather-alerts/2026/02/flood-advisory-issued-for-alabama-thursday-night-triggered-by-intense-rain.html",
+        "mention_text": "Alabama",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Alabama, United States",
+        "osm_type": "administrative",
+        "osm_id": 161950,
+        "run_at": "2026-04-19T07:27:20.969445+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-04-18T07:14:25.786700+00:00",
-    "total_features": 793
+    "last_updated": "2026-04-19T07:27:20.973520+00:00",
+    "total_features": 807
   }
 }
