@@ -20982,11 +20982,479 @@
         "osm_id": 161950,
         "run_at": "2026-04-19T07:27:20.969445+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3170402,
+          29.8494044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/more-rain-drought-stricken-south-raising-texas-flood-concerns",
+        "title": "Another round of much-needed rain to soak drought-stricken South, prompting flash flood concerns",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-19T16:56:00Z",
+        "url": "https://www.foxweather.com/weather-news/more-rain-drought-stricken-south-raising-texas-flood-concerns",
+        "mention_text": "South",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "St. Augustine South, Saint Johns County, Florida, 32086, United States",
+        "osm_type": "town",
+        "osm_id": 13203803220,
+        "run_at": "2026-04-20T08:20:50.190353+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6098023,
+          43.2903117
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-gratiot-county-until-2-a-m-edt-monday-minor-flooding-is-taking-place.html",
+        "title": "Flood warning issued for Gratiot County until 2 a.m. EDT Monday \u2013 minor flooding is taking place",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-19T17:37:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-gratiot-county-until-2-a-m-edt-monday-minor-flooding-is-taking-place.html",
+        "mention_text": "Gratiot County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Gratiot County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1907314,
+        "run_at": "2026-04-20T08:20:50.190353+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4788048,
+          42.4610056
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flood-warning-in-place-for-tompkins-county-until-further-notice-minor-flooding-is-reporte.html",
+        "title": "NY weather: Flood warning in place for Tompkins County until further notice \u2013 minor flooding is reported",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-19T19:21:00Z",
+        "url": "https://www.silive.com/weather-alerts/2026/04/ny-weather-flood-warning-in-place-for-tompkins-county-until-further-notice-minor-flooding-is-reporte.html",
+        "mention_text": "Tompkins County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Tompkins County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1838025,
+        "run_at": "2026-04-20T08:20:50.190353+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9414603,
+          38.8832668
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-gnlqxpm1uw1odg14",
+        "title": "Widespread rain offers drought relief but triggers flash flood concerns for Southeast Texas",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-19T15:01:10Z",
+        "url": "https://www.foxweather.com/watch/fmc-gnlqxpm1uw1odg14",
+        "mention_text": "Southeast Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "E St SE at Texas Ave SE, E Street Southeast, Benning Ridge, Ward 7, Washington, District of Columbia, 20019, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 12941543456,
+        "run_at": "2026-04-20T08:20:50.190353+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.129351,
+          43.2484584
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-muskegon-county-until-2-a-m-edt-tuesday-minor-flooding-is-reported.html",
+        "title": "Flood warning issued for Muskegon County until 2 a.m. EDT Tuesday \u2013 minor flooding is reported",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-19T17:36:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-muskegon-county-until-2-a-m-edt-tuesday-minor-flooding-is-reported.html",
+        "mention_text": "Muskegon County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Muskegon County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1907328,
+        "run_at": "2026-04-20T08:20:50.190353+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3170402,
+          29.8494044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/rain-moves-drought-stricken-south-132530456.html",
+        "title": "Rain moves into drought-stricken South, raising flash flood concerns",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-19T13:25:30Z",
+        "url": "https://www.yahoo.com/news/videos/rain-moves-drought-stricken-south-132530456.html",
+        "mention_text": "South",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "St. Augustine South, Saint Johns County, Florida, 32086, United States",
+        "osm_type": "town",
+        "osm_id": 13203803220,
+        "run_at": "2026-04-20T08:20:50.190353+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9928452,
+          44.6408868
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.manisteenews.com/news/article/photos-dam-holds-flood-warning-continues-22208312.php",
+        "title": "Photos: Dam holds as flood warning issued for Benzie County",
+        "source": "Manistee News Advocate",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-16T15:30:11Z",
+        "url": "https://www.manisteenews.com/news/article/photos-dam-holds-flood-warning-continues-22208312.php",
+        "mention_text": "Benzie County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Benzie County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1907308,
+        "run_at": "2026-04-20T08:20:50.190353+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.081772,
+          42.6654418
+        ]
+      },
+      "properties": {
+        "article_id": "https://qctimes.com/news/local/weather/article_4e67a39f-dfc3-4a8d-ace3-815ef6a43b91.html",
+        "title": "Flood warning issued for Rock and Mississippi rivers, rains erase local drought conditions",
+        "source": "The Quad-City Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-18T20:45:00Z",
+        "url": "https://qctimes.com/news/local/weather/article_4e67a39f-dfc3-4a8d-ace3-815ef6a43b91.html",
+        "mention_text": "Rock",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Rock County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 1799455,
+        "run_at": "2026-04-20T08:20:50.190353+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7348497,
+          32.9715285
+        ]
+      },
+      "properties": {
+        "article_id": "https://qctimes.com/news/local/weather/article_4e67a39f-dfc3-4a8d-ace3-815ef6a43b91.html",
+        "title": "Flood warning issued for Rock and Mississippi rivers, rains erase local drought conditions",
+        "source": "The Quad-City Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-18T20:45:00Z",
+        "url": "https://qctimes.com/news/local/weather/article_4e67a39f-dfc3-4a8d-ace3-815ef6a43b91.html",
+        "mention_text": "Mississippi",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 161943,
+        "run_at": "2026-04-20T08:20:50.190353+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article315464609.html",
+        "title": "Coastal flood advisory issued for Myrtle Beach area and Coastal Georgetown until early Monday",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-19T21:42:04Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article315464609.html",
+        "mention_text": "Myrtle Beach",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Myrtle Beach, Horry County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193842,
+        "run_at": "2026-04-20T08:20:50.190353+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0139314,
+          44.9257956
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article315464638.html",
+        "title": "Coastal flood advisory affecting Southeast Coast until early Monday",
+        "source": "News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-19T21:46:05Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article315464638.html",
+        "mention_text": "Southeast Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oregon Coast Highway, Taft, Lincoln City, Lincoln County, Oregon, 97367, United States",
+        "osm_type": "trunk",
+        "osm_id": 27132333,
+        "run_at": "2026-04-20T08:20:50.190353+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article315465453.html",
+        "title": "Coastal Colleton and Charleston County under a coastal flood advisory until Sunday night",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-19T23:42:06Z",
+        "url": "https://www.thestate.com/news/weather-news/article315465453.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-04-20T08:20:50.190353+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0139314,
+          44.9257956
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article315464638.html",
+        "title": "UPDATE: The current coastal flood advisory for Southeast Coast will be expiring at midnight",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-19T21:29:00Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article315464638.html",
+        "mention_text": "Southeast Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oregon Coast Highway, Taft, Lincoln City, Lincoln County, Oregon, 97367, United States",
+        "osm_type": "trunk",
+        "osm_id": 27132333,
+        "run_at": "2026-04-20T08:20:50.190353+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7907554,
+          41.1763139
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/04/coastal-flood-advisory-issued-for-westchester-county-for-saturday-and-sunday.html",
+        "title": "Update: Coastal flood advisory issued for Westchester County for Saturday and Sunday",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-18T02:03:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/04/coastal-flood-advisory-issued-for-westchester-county-for-saturday-and-sunday.html",
+        "mention_text": "Westchester County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Westchester County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1838027,
+        "run_at": "2026-04-20T08:20:50.190353+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article315464609.html",
+        "title": "Coastal flood advisory issued for Myrtle Beach area and Coastal Georgetown until early Monday",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-19T21:42:04Z",
+        "url": "https://www.thestate.com/news/weather-news/article315464609.html",
+        "mention_text": "Myrtle Beach",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Myrtle Beach, Horry County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193842,
+        "run_at": "2026-04-20T08:20:50.190353+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article315457765.html",
+        "title": "UPDATE: The current coastal flood advisory for Charleston County will expire at 11 p.m.",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-19T03:12:05Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article315457765.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-04-20T08:20:50.190353+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailynews.com/2026/04/13/flood-advisory-in-place-for-los-angeles-county-monday-afternoon-triggered-by-prolonged-downpours/",
+        "title": "Flood advisory in place for Los Angeles County Monday afternoon triggered by prolonged downpours",
+        "source": "Los Angeles Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-13T20:40:41Z",
+        "url": "https://www.dailynews.com/2026/04/13/flood-advisory-in-place-for-los-angeles-county-monday-afternoon-triggered-by-prolonged-downpours/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-04-20T08:20:50.190353+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439336,
+          37.8003441
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article315382887.html",
+        "title": "UPDATE: Northern California under a flood advisory until early Sunday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T04:05:05Z",
+        "url": "https://www.sacbee.com/news/weather-news/article315382887.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "First National Bank of Northern California, 2197, Chestnut Street, Marina District, San Francisco, California, 94123, United States",
+        "osm_type": "bank",
+        "osm_id": 4548821903,
+        "run_at": "2026-04-20T08:20:50.190353+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-04-19T07:27:20.973520+00:00",
-    "total_features": 807
+    "last_updated": "2026-04-20T08:20:50.194345+00:00",
+    "total_features": 825
   }
 }
