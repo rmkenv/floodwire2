@@ -6,8 +6,8 @@
       "site_name": "Skamokawa",
       "lat": "46.2703",
       "lon": "-123.4565",
-      "stage_ft": 9.252,
-      "stage_datetime": "2026-04-21 11:42",
+      "stage_ft": 8.944,
+      "stage_datetime": "2026-04-21 12:48",
       "tier": "action",
       "action_stage": 8.78,
       "flood_stage": 9.78,
@@ -15,7 +15,7 @@
       "url": "https://tidesandcurrents.noaa.gov/stationhome.html?id=9440569",
       "city_lat": 46.2794223,
       "city_lon": -123.3452562,
-      "fetched_at": "2026-04-21T11:52:03.105257+00:00"
+      "fetched_at": "2026-04-21T12:54:35.021343+00:00"
     },
     {
       "source": "NOAA",
@@ -23,8 +23,8 @@
       "site_name": "Skamokawa",
       "lat": "46.2703",
       "lon": "-123.4565",
-      "stage_ft": 9.252,
-      "stage_datetime": "2026-04-21 11:42",
+      "stage_ft": 8.944,
+      "stage_datetime": "2026-04-21 12:48",
       "tier": "action",
       "action_stage": 8.78,
       "flood_stage": 9.78,
@@ -32,7 +32,7 @@
       "url": "https://tidesandcurrents.noaa.gov/stationhome.html?id=9440569",
       "city_lat": 46.2794223,
       "city_lon": -123.3452562,
-      "fetched_at": "2026-04-21T11:52:03.105257+00:00"
+      "fetched_at": "2026-04-21T12:54:35.021343+00:00"
     }
   ]
 }
