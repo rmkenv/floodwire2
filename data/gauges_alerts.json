@@ -1,3 +1,38 @@
 {
-  "alerts": []
+  "alerts": [
+    {
+      "source": "NOAA",
+      "site_id": "8720357",
+      "site_name": "I-295 Buckman Bridge",
+      "lat": "30.1924",
+      "lon": "-81.6889",
+      "stage_ft": 1.437,
+      "stage_datetime": "2026-04-21 04:36",
+      "tier": "action",
+      "action_stage": 1.38,
+      "flood_stage": 2.38,
+      "major_stage": 4.38,
+      "url": "https://tidesandcurrents.noaa.gov/stationhome.html?id=8720357",
+      "city_lat": 29.8494044,
+      "city_lon": -81.3170402,
+      "fetched_at": "2026-04-21T04:38:20.391028+00:00"
+    },
+    {
+      "source": "NOAA",
+      "site_id": "8720357",
+      "site_name": "I-295 Buckman Bridge",
+      "lat": "30.1924",
+      "lon": "-81.6889",
+      "stage_ft": 1.437,
+      "stage_datetime": "2026-04-21 04:36",
+      "tier": "action",
+      "action_stage": 1.38,
+      "flood_stage": 2.38,
+      "major_stage": 4.38,
+      "url": "https://tidesandcurrents.noaa.gov/stationhome.html?id=8720357",
+      "city_lat": 29.8494044,
+      "city_lon": -81.3170402,
+      "fetched_at": "2026-04-21T04:38:20.391028+00:00"
+    }
+  ]
 }
