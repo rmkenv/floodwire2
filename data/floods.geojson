@@ -22048,11 +22048,531 @@
         "osm_id": 396505,
         "run_at": "2026-04-21T07:55:59.579491+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6041649,
+          30.6580927
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbsaustin.com/news/local/heavy-rain-prompts-flash-flood-warnings-across-williamson-county-closes-roads",
+        "title": "Heavy rain prompts flash flood warnings across Williamson County, closes roads",
+        "source": "KEYE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-21T15:48:25Z",
+        "url": "https://cbsaustin.com/news/local/heavy-rain-prompts-flash-flood-warnings-across-williamson-county-closes-roads",
+        "mention_text": "Williamson County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Williamson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836997,
+        "run_at": "2026-04-22T07:39:59.175537+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/extreme-weather/central-texas-evacuations-flash-flooding",
+        "title": "Evacuations underway in central Texas due to flash flood threat",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-21T18:46:24Z",
+        "url": "https://www.foxweather.com/extreme-weather/central-texas-evacuations-flash-flooding",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-04-22T07:39:59.175537+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6041649,
+          30.6580927
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.statesman.com/weather/article/austin-williamson-county-flood-alert-rainfall-22217690.php",
+        "title": "Flash flood warning for central Williamson County until Tuesday night",
+        "source": "Austin American-Statesman",
+        "outlet_city": "Austin",
+        "outlet_region": "Texas",
+        "published_at": "2026-04-21T21:25:01Z",
+        "url": "https://www.statesman.com/weather/article/austin-williamson-county-flood-alert-rainfall-22217690.php",
+        "mention_text": "Williamson County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Williamson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836997,
+        "run_at": "2026-04-22T07:39:59.175537+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6276904,
+          47.8012197
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tri-cityherald.com/news/weather-news/article315483758.html",
+        "title": "Flood warning issued for Chelan County until further notice, says the NWS",
+        "source": "Tri-City Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-21T17:03:14Z",
+        "url": "https://www.tri-cityherald.com/news/weather-news/article315483758.html",
+        "mention_text": "Chelan County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Chelan County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153517,
+        "run_at": "2026-04-22T07:39:59.175537+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.213342,
+          41.5421375
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-ottawa-county-until-saturday-evening-minor-flooding-is-occurring.html",
+        "title": "Flood warning issued for Ottawa County until Saturday evening \u2013 minor flooding is occurring",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-21T14:31:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-ottawa-county-until-saturday-evening-minor-flooding-is-occurring.html",
+        "mention_text": "Ottawa County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Ottawa County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 350380,
+        "run_at": "2026-04-22T07:39:59.175537+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6041649,
+          30.6580927
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox7austin.com/weather/austin-weather-flash-flood-warning-williamson-county",
+        "title": "Austin weather: Flash Flood Warning extended for Williamson County",
+        "source": "FOX 7 Austin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-21T12:49:39Z",
+        "url": "https://www.fox7austin.com/weather/austin-weather-flash-flood-warning-williamson-county",
+        "mention_text": "Williamson County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Williamson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836997,
+        "run_at": "2026-04-22T07:39:59.175537+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7846477,
+          33.1665316
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-kent-county-until-3-a-m-edt-wednesday-minor-flooding-is-happening.html",
+        "title": "Flood warning issued for Kent County until 3 a.m. EDT Wednesday \u2013 minor flooding is happening",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-21T14:33:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-kent-county-until-3-a-m-edt-wednesday-minor-flooding-is-happening.html",
+        "mention_text": "Kent County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Kent County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1811588,
+        "run_at": "2026-04-22T07:39:59.175537+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aol.com/articles/evacuations-underway-central-texas-due-190418516.html",
+        "title": "Evacuations underway in central Texas due to flash flood threat",
+        "source": "AOL.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-21T21:09:25Z",
+        "url": "https://www.aol.com/articles/evacuations-underway-central-texas-due-190418516.html",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-04-22T07:39:59.175537+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6775634,
+          30.6370152
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kxan.com/video/view-of-berry-creek-near-georgetown-during-flash-flood-warning-in-central-texas/11719906/",
+        "title": "View of Berry Creek near Georgetown during Flash Flood Warning in Central Texas",
+        "source": "KXAN Austin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-21T16:54:00Z",
+        "url": "https://www.kxan.com/video/view-of-berry-creek-near-georgetown-during-flash-flood-warning-in-central-texas/11719906/",
+        "mention_text": "Georgetown",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgetown, Williamson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 2454416,
+        "run_at": "2026-04-22T07:39:59.175537+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4654197,
+          31.4598795
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kxan.com/video/view-of-berry-creek-near-georgetown-during-flash-flood-warning-in-central-texas/11719906/",
+        "title": "View of Berry Creek near Georgetown during Flash Flood Warning in Central Texas",
+        "source": "KXAN Austin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-21T16:54:00Z",
+        "url": "https://www.kxan.com/video/view-of-berry-creek-near-georgetown-during-flash-flood-warning-in-central-texas/11719906/",
+        "mention_text": "Central Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, San Angelo, Tom Green County, Texas, 76909, United States",
+        "osm_type": "neighbourhood",
+        "osm_id": 4053740570,
+        "run_at": "2026-04-22T07:39:59.175537+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6041649,
+          30.6580927
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aol.com/news/austin-weather-flash-flood-warning-124939746.html",
+        "title": "Austin weather: Flash Flood Warning for Williamson County",
+        "source": "AOL.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-21T12:49:39Z",
+        "url": "https://www.aol.com/news/austin-weather-flash-flood-warning-124939746.html",
+        "mention_text": "Williamson County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Williamson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836997,
+        "run_at": "2026-04-22T07:39:59.175537+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/more-rain-drought-stricken-south-raising-texas-flood-concerns",
+        "title": "Inches of rain soak drought-stricken Texas, continuing flash flood concerns",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-19T16:56:00Z",
+        "url": "https://www.foxweather.com/weather-news/more-rain-drought-stricken-south-raising-texas-flood-concerns",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-04-22T07:39:59.175537+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4309337,
+          37.7867337
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article315487408.html",
+        "title": "UPDATE: The current flood advisory for Northern California will be expiring at 7:30 p.m.",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-22T02:47:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article315487408.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Japanese Cultural and Community Center of Northern California, 1840, Sutter Street, Japantown, Western Addition, San Francisco, California, 95115, United States",
+        "osm_type": "community_centre",
+        "osm_id": 257974849,
+        "run_at": "2026-04-22T07:39:59.175537+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6749486,
+          33.3926893
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-for-delta-county-until-further-notice.html",
+        "title": "Flood advisory for Delta County until further notice",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-21T19:43:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-for-delta-county-until-further-notice.html",
+        "mention_text": "Delta County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Delta County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839215,
+        "run_at": "2026-04-22T07:39:59.175537+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article315490985.html",
+        "title": "Coastal flood advisory for Coastal Colleton and Charleston County for Wednesday",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-22T02:37:06Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article315490985.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-04-22T07:39:59.175537+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4951405,
+          29.4246002
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ksat.com/video/news/2026/04/22/waymo-temporarily-pauses-san-antonio-operations-after-vehicle-entered-flooded-road/",
+        "title": "Waymo temporarily pauses San Antonio operations after vehicle entered flooded road",
+        "source": "KSAT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-22T04:37:18Z",
+        "url": "https://www.ksat.com/video/news/2026/04/22/waymo-temporarily-pauses-san-antonio-operations-after-vehicle-entered-flooded-road/",
+        "mention_text": "San Antonio",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Antonio, Bexar County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 253556,
+        "run_at": "2026-04-22T07:39:59.175537+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4309337,
+          37.7867337
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article315487408.html",
+        "title": "Flood advisory affecting Northern California until Tuesday evening due to thunderstorms",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-21T20:51:05Z",
+        "url": "https://www.modbee.com/news/weather-news/article315487408.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Japanese Cultural and Community Center of Northern California, 1840, Sutter Street, Japantown, Western Addition, San Francisco, California, 95115, United States",
+        "osm_type": "community_centre",
+        "osm_id": 257974849,
+        "run_at": "2026-04-22T07:39:59.175537+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.95533,
+          45.373343
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.detroitnews.com/videos/news/local/michigan/2026/04/21/teen-catches-fish-bare-hands-along-flooded-road-petoskey/89712654007/",
+        "title": "Teen catches fish with bare hands along flooded road near Petoskey",
+        "source": "The Detroit News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-21T12:18:19Z",
+        "url": "https://www.detroitnews.com/videos/news/local/michigan/2026/04/21/teen-catches-fish-bare-hands-along-flooded-road-petoskey/89712654007/",
+        "mention_text": "Petoskey",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Petoskey, Emmet County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 135002,
+        "run_at": "2026-04-22T07:39:59.175537+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4685655,
+          38.5310176
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.riolindaonline.com/storm-watch-thunderstorms-trigger-flood-advisory-across-rio-linda-and-greater-sacramento/",
+        "title": "Storm Watch: Thunderstorms Trigger Flood Advisory Across Rio Linda and Greater Sacramento",
+        "source": "Rio Linda Online",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-21T23:43:46Z",
+        "url": "https://www.riolindaonline.com/storm-watch-thunderstorms-trigger-flood-advisory-across-rio-linda-and-greater-sacramento/",
+        "mention_text": "Greater Sacramento",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Greater Solomon Temple Missionary Baptist Church, 24th Avenue, South Oak Park, Oak Park, Sacramento, Sacramento County, California, 95817, United States",
+        "osm_type": "place_of_worship",
+        "osm_id": 358836392,
+        "run_at": "2026-04-22T07:39:59.175537+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.567412,
+          42.8868859
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pennlive.com/weather-alerts/2026/04/coastal-flood-advisory-for-southeast-pa-for-sunday.html",
+        "title": "Update: The current coastal flood advisory for Southeast Pa. will expire at 6 a.m.",
+        "source": "PennLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-17T19:05:00Z",
+        "url": "https://www.pennlive.com/weather-alerts/2026/04/coastal-flood-advisory-for-southeast-pa-for-sunday.html",
+        "mention_text": "Southeast Pa.",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "East Pa Avenue Southeast, Kentwood, Kent County, Michigan, 49512, United States",
+        "osm_type": "tertiary",
+        "osm_id": 17847893,
+        "run_at": "2026-04-22T07:39:59.175537+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-04-21T07:55:59.583898+00:00",
-    "total_features": 848
+    "last_updated": "2026-04-22T07:39:59.180197+00:00",
+    "total_features": 868
   }
 }
