@@ -22568,11 +22568,583 @@
         "osm_id": 17847893,
         "run_at": "2026-04-22T07:39:59.175537+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7671122,
+          45.6416995
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.oregonlive.com/weather-alerts/2026/04/flood-warning-issued-for-umatilla-county-until-early-thursday-evening-minor-flooding-is-predicted.html",
+        "title": "Flood warning issued for Umatilla County until early Thursday evening \u2013 minor flooding is predicted",
+        "source": "OregonLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-22T16:45:00Z",
+        "url": "https://www.oregonlive.com/weather-alerts/2026/04/flood-warning-issued-for-umatilla-county-until-early-thursday-evening-minor-flooding-is-predicted.html",
+        "mention_text": "Umatilla County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Umatilla County, Oregon, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837129,
+        "run_at": "2026-04-23T07:58:28.222073+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1437541,
+          28.0443842
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-osceola-county-until-thursday-morning-minor-flooding-is-taking-place.html",
+        "title": "Flood warning issued for Osceola County until Thursday morning \u2013 minor flooding is taking place",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-22T18:38:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-osceola-county-until-thursday-morning-minor-flooding-is-taking-place.html",
+        "mention_text": "Osceola County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Osceola County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 389023,
+        "run_at": "2026-04-23T07:58:28.222073+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6276904,
+          47.8012197
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thenewstribune.com/news/weather-news/article315483758.html",
+        "title": "UPDATE: Flood warning issued for Chelan County until Friday night, says the NWS",
+        "source": "Tacoma News Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-22T07:13:06Z",
+        "url": "https://www.thenewstribune.com/news/weather-news/article315483758.html",
+        "mention_text": "Chelan County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Chelan County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153517,
+        "run_at": "2026-04-23T07:58:28.222073+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3876368,
+          46.6354348
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-baraga-and-houghton-counties-until-further-notice-minor-flooding-is-happeni.html",
+        "title": "Flood warning issued for Baraga and Houghton counties until further notice \u2013 minor flooding is happening",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-22T15:57:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-baraga-and-houghton-counties-until-further-notice-minor-flooding-is-happeni.html",
+        "mention_text": "Baraga",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Baraga County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1898717,
+        "run_at": "2026-04-23T07:58:28.222073+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7774734,
+          46.8591287
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-baraga-and-houghton-counties-until-further-notice-minor-flooding-is-happeni.html",
+        "title": "Flood warning issued for Baraga and Houghton counties until further notice \u2013 minor flooding is happening",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-22T15:57:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-baraga-and-houghton-counties-until-further-notice-minor-flooding-is-happeni.html",
+        "mention_text": "Houghton",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Houghton County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1898720,
+        "run_at": "2026-04-23T07:58:28.222073+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6041649,
+          30.6580927
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kxan.com/video/flash-flood-warning-for-williamson-county-kxan-weather-update-4-21/11719291/",
+        "title": "Flash Flood Warning for Williamson County | KXAN weather update 4-21 \u2013 KXAN Austin",
+        "source": "KXAN Austin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-21T14:24:10Z",
+        "url": "https://www.kxan.com/video/flash-flood-warning-for-williamson-county-kxan-weather-update-4-21/11719291/",
+        "mention_text": "Williamson County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Williamson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836997,
+        "run_at": "2026-04-23T07:58:28.222073+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.158606,
+          39.553048
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.insideottawavalley.com/news/mississippi-river-watershed-flood-warning/article_caa17785-ae7b-5fd8-b88d-fb2ffca066a5.html",
+        "title": "Flood warning issued for parts of Mississippi River watershed on Wednesday, flood watch continues",
+        "source": "Inside Ottawa Valley",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-22T18:55:00Z",
+        "url": "https://www.insideottawavalley.com/news/mississippi-river-watershed-flood-warning/article_caa17785-ae7b-5fd8-b88d-fb2ffca066a5.html",
+        "mention_text": "Mississippi River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Mississippi River, United States",
+        "osm_type": "river",
+        "osm_id": 1756854,
+        "run_at": "2026-04-23T07:58:28.222073+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6041649,
+          30.6580927
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/articles/flash-flood-warning-issued-central-135446472.html",
+        "title": "Flash flood warning issued for central Williamson County until 12:15 p.m.",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-21T13:54:46Z",
+        "url": "https://www.yahoo.com/news/articles/flash-flood-warning-issued-central-135446472.html",
+        "mention_text": "Williamson County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Williamson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836997,
+        "run_at": "2026-04-23T07:58:28.222073+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6041649,
+          30.6580927
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/articles/austin-weather-flash-flood-warning-124939208.html",
+        "title": "Austin weather: Flash Flood Warning extended for Williamson County",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-21T12:49:39Z",
+        "url": "https://www.yahoo.com/news/articles/austin-weather-flash-flood-warning-124939208.html",
+        "mention_text": "Williamson County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Williamson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836997,
+        "run_at": "2026-04-23T07:58:28.222073+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0624323,
+          41.8735258
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/lenawee-county-placed-under-a-flood-advisory-until-wednesday-night-triggered-by-persistent-rainfall.html",
+        "title": "Lenawee County placed under a flood advisory until Wednesday night triggered by persistent rainfall",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-22T23:52:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/lenawee-county-placed-under-a-flood-advisory-until-wednesday-night-triggered-by-persistent-rainfall.html",
+        "mention_text": "Lenawee County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Lenawee County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1801750,
+        "run_at": "2026-04-23T07:58:28.222073+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6075132,
+          44.5068834
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whio.com/news/flood-emergency-issued-black-lake-michigan-area-after-massive-flooding/2fbb95e3-c7a6-47fd-a038-5876349f2df8/",
+        "title": "Flood emergency issued for Black Lake, Michigan area after massive flooding",
+        "source": "WHIO-TV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-22T21:21:22Z",
+        "url": "https://www.whio.com/news/flood-emergency-issued-black-lake-michigan-area-after-massive-flooding/2fbb95e3-c7a6-47fd-a038-5876349f2df8/",
+        "mention_text": "Black Lake",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Black Lake, Town of Morristown, Town of Macomb, Saint Lawrence County, New York, United States",
+        "osm_type": "lake",
+        "osm_id": 3360953,
+        "run_at": "2026-04-23T07:58:28.222073+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6824346,
+          43.6211955
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whio.com/news/flood-emergency-issued-black-lake-michigan-area-after-massive-flooding/2fbb95e3-c7a6-47fd-a038-5876349f2df8/",
+        "title": "Flood emergency issued for Black Lake, Michigan area after massive flooding",
+        "source": "WHIO-TV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-22T21:21:22Z",
+        "url": "https://www.whio.com/news/flood-emergency-issued-black-lake-michigan-area-after-massive-flooding/2fbb95e3-c7a6-47fd-a038-5876349f2df8/",
+        "mention_text": "Michigan",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 165789,
+        "run_at": "2026-04-23T07:58:28.222073+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article315490985.html",
+        "title": "Coastal flood advisory for Coastal Colleton and Charleston County for Wednesday",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-22T02:37:06Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article315490985.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-04-23T07:58:28.222073+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4951405,
+          29.4246002
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ksat.com/news/local/2026/04/21/waymo-temporarily-pauses-san-antonio-operations-after-vehicle-entered-flooded-road/",
+        "title": "Waymo temporarily pauses San Antonio operations after vehicle entered flooded road",
+        "source": "KSAT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-21T16:39:53Z",
+        "url": "https://www.ksat.com/news/local/2026/04/21/waymo-temporarily-pauses-san-antonio-operations-after-vehicle-entered-flooded-road/",
+        "mention_text": "San Antonio",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Antonio, Bexar County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 253556,
+        "run_at": "2026-04-23T07:58:28.222073+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5984396,
+          41.8779105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-active-for-hillsdale-county-until-wednesday-evening-caused-by-heavy-downpours.html",
+        "title": "Flood advisory active for Hillsdale County until Wednesday evening caused by heavy downpours",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-22T21:11:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-active-for-hillsdale-county-until-wednesday-evening-caused-by-heavy-downpours.html",
+        "mention_text": "Hillsdale County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hillsdale County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1801749,
+        "run_at": "2026-04-23T07:58:28.222073+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.78483,
+          36.7394421
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article315487947.html",
+        "title": "Flood advisory active for Fresno and Madera counties Tuesday afternoon due to heavy rain",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-21T21:23:06Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article315487947.html",
+        "mention_text": "Fresno",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Fresno, Fresno County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 112443,
+        "run_at": "2026-04-23T07:58:28.222073+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7737991,
+          37.1716264
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article315487947.html",
+        "title": "Flood advisory active for Fresno and Madera counties Tuesday afternoon due to heavy rain",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-21T21:23:06Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article315487947.html",
+        "mention_text": "Madera",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Madera County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396488,
+        "run_at": "2026-04-23T07:58:28.222073+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6953467,
+          37.575509
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-active-for-iron-county-until-thursday-evening.html",
+        "title": "Flood advisory active for Iron County until Thursday evening",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-22T15:58:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-active-for-iron-county-until-thursday-evening.html",
+        "mention_text": "Iron County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Iron County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180466,
+        "run_at": "2026-04-23T07:58:28.222073+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4181487,
+          37.747992
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article315487408.html",
+        "title": "UPDATE: The current flood advisory for Northern California will be expiring at 7:30 p.m.",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-22T02:47:07Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article315487408.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Central American Resource Center of Northern California - CARECEN SF, 3101, Mission Street, Bernal Heights, Mission, San Francisco, California, 94110, United States",
+        "osm_type": "ngo",
+        "osm_id": 12922396896,
+        "run_at": "2026-04-23T07:58:28.222073+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6305899,
+          46.4481521
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-issued-for-marquette-county-until-monday-afternoon.html",
+        "title": "Flood advisory issued for Marquette County until Monday afternoon",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-22T15:57:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-issued-for-marquette-county-until-monday-afternoon.html",
+        "mention_text": "Marquette County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Marquette County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1798743,
+        "run_at": "2026-04-23T07:58:28.222073+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6749486,
+          33.3926893
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-issued-for-delta-county-until-further-notice.html",
+        "title": "Flood advisory issued for Delta County until further notice",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-22T15:57:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-issued-for-delta-county-until-further-notice.html",
+        "mention_text": "Delta County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Delta County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839215,
+        "run_at": "2026-04-23T07:58:28.222073+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5556156,
+          46.4824144
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-for-luce-county-until-further-notice.html",
+        "title": "Flood advisory for Luce County until further notice",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-22T15:57:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-for-luce-county-until-further-notice.html",
+        "mention_text": "Luce County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Luce County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1898721,
+        "run_at": "2026-04-23T07:58:28.222073+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-04-22T07:39:59.180197+00:00",
-    "total_features": 868
+    "last_updated": "2026-04-23T07:58:28.226709+00:00",
+    "total_features": 890
   }
 }
