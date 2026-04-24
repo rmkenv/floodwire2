@@ -23140,11 +23140,141 @@
         "osm_id": 1898721,
         "run_at": "2026-04-23T07:58:28.222073+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9650274,
+          38.9241769
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kens5.com/article/weather/weather-works/weather-works-why-south-central-texas-flash-flood-alley/273-0c272c01-f9fd-4158-a97d-448d566b560d",
+        "title": "Weather Works | Why is South-Central Texas known as 'Flash Flood Alley'?",
+        "source": "kens5.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-24T03:41:00Z",
+        "url": "https://www.kens5.com/article/weather/weather-works/weather-works-why-south-central-texas-flash-flood-alley/273-0c272c01-f9fd-4158-a97d-448d566b560d",
+        "mention_text": "South-Central",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South Central, Ward 5, Washington, District of Columbia, United States",
+        "osm_type": "neighbourhood",
+        "osm_id": 4636922,
+        "run_at": "2026-04-24T08:10:58.169825+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kens5.com/article/weather/weather-works/weather-works-why-south-central-texas-flash-flood-alley/273-0c272c01-f9fd-4158-a97d-448d566b560d",
+        "title": "Weather Works | Why is South-Central Texas known as 'Flash Flood Alley'?",
+        "source": "kens5.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-24T03:41:00Z",
+        "url": "https://www.kens5.com/article/weather/weather-works/weather-works-why-south-central-texas-flash-flood-alley/273-0c272c01-f9fd-4158-a97d-448d566b560d",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-04-24T08:10:58.169825+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5781416,
+          39.100105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kansascity.com/news/weather-news/article315516857.html",
+        "title": "The Kansas City area under a flood advisory until 2 a.m. Friday, says the NWS",
+        "source": "Kansas City Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-24T03:08:08Z",
+        "url": "https://www.kansascity.com/news/weather-news/article315516857.html",
+        "mention_text": "Kansas City",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kansas City, Jackson County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 141008,
+        "run_at": "2026-04-24T08:10:58.169825+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6305899,
+          46.4481521
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-affecting-baraga-and-houghton-counties-until-sunday-evening.html",
+        "title": "Update: Flood advisory affecting Marquette County until Monday afternoon",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-18T14:08:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-affecting-baraga-and-houghton-counties-until-sunday-evening.html",
+        "mention_text": "Marquette County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Marquette County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1798743,
+        "run_at": "2026-04-24T08:10:58.169825+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sgvtribune.com/2026/04/13/flood-advisory-in-place-for-los-angeles-county-monday-afternoon-triggered-by-prolonged-downpours/",
+        "title": "Flood advisory in place for Los Angeles County Monday afternoon triggered by prolonged downpours",
+        "source": "San Gabriel Valley Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-13T07:00:00Z",
+        "url": "https://www.sgvtribune.com/2026/04/13/flood-advisory-in-place-for-los-angeles-county-monday-afternoon-triggered-by-prolonged-downpours/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-04-24T08:10:58.169825+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-04-23T07:58:28.226709+00:00",
-    "total_features": 890
+    "last_updated": "2026-04-24T08:10:58.175090+00:00",
+    "total_features": 895
   }
 }
