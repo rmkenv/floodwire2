@@ -23270,11 +23270,115 @@
         "osm_id": 396479,
         "run_at": "2026-04-24T08:10:58.169825+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.213342,
+          41.5421375
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-ottawa-county-until-3-a-m-edt-saturday-minor-flooding-is-reported.html",
+        "title": "Flood warning issued for Ottawa County until 3 a.m. EDT Saturday \u2013 minor flooding is reported",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-24T14:38:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-ottawa-county-until-3-a-m-edt-saturday-minor-flooding-is-reported.html",
+        "mention_text": "Ottawa County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Ottawa County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 350380,
+        "run_at": "2026-04-25T07:22:57.793242+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5781416,
+          39.100105
+        ]
+      },
+      "properties": {
+        "article_id": "https://usaherald.com/severe-thunderstorms-slam-kansas-city-metro-trigger-tornado-warnings-and-flash-flood-threat-overnight/",
+        "title": "Severe Thunderstorms Slam Kansas City Metro, Trigger Tornado Warnings and Flash Flood Threat Overnight",
+        "source": "USA Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-24T08:44:50Z",
+        "url": "https://usaherald.com/severe-thunderstorms-slam-kansas-city-metro-trigger-tornado-warnings-and-flash-flood-threat-overnight/",
+        "mention_text": "Kansas City",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kansas City, Jackson County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 141008,
+        "run_at": "2026-04-25T07:22:57.793242+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.375716,
+          35.3540209
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article315383679.html",
+        "title": "Flood advisory affecting San Luis Obispo and Santa Barbara counties until 3 a.m. Sunday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T07:03:05Z",
+        "url": "https://www.sacbee.com/news/weather-news/article315383679.html",
+        "mention_text": "San Luis Obispo",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Luis Obispo County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396496,
+        "run_at": "2026-04-25T07:22:57.793242+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.702667,
+          34.4221319
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article315383679.html",
+        "title": "Flood advisory affecting San Luis Obispo and Santa Barbara counties until 3 a.m. Sunday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T07:03:05Z",
+        "url": "https://www.sacbee.com/news/weather-news/article315383679.html",
+        "mention_text": "Santa Barbara",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Santa Barbara, Santa Barbara County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 112224,
+        "run_at": "2026-04-25T07:22:57.793242+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-04-24T08:10:58.175090+00:00",
-    "total_features": 895
+    "last_updated": "2026-04-25T07:22:57.797900+00:00",
+    "total_features": 899
   }
 }
