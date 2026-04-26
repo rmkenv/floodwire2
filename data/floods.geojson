@@ -23374,11 +23374,349 @@
         "osm_id": 112224,
         "run_at": "2026-04-25T07:22:57.793242+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7790069,
+          32.7620405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article315538869.html",
+        "title": "Flash flood warning affecting Dallas County until early Sunday morning",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-04-26T06:37:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article315538869.html",
+        "mention_text": "Dallas County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dallas County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837698,
+        "run_at": "2026-04-26T07:35:59.498956+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3249475,
+          41.0400423
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/04/flood-warning-issued-for-monroe-county-until-sunday-midday-triggered-by-significant-rainfall.html",
+        "title": "Flood warning issued for Monroe County until Sunday midday triggered by significant rainfall",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-26T00:13:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/04/flood-warning-issued-for-monroe-county-until-sunday-midday-triggered-by-significant-rainfall.html",
+        "mention_text": "Monroe County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Monroe County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417787,
+        "run_at": "2026-04-26T07:35:59.498956+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3327459,
+          32.753177
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article315538003.html",
+        "title": "Flash flood warning issued for Wise and Jack counties until early Sunday",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-04-26T02:12:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article315538003.html",
+        "mention_text": "Fort Worth",
+        "flood_type": "flash_flood",
+        "confidence": 0.4,
+        "osm_display": "Fort Worth, Tarrant County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 115274,
+        "run_at": "2026-04-26T07:35:59.498956+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.335696,
+          32.7513658
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article315538550.html",
+        "title": "Flash flood warning in place for Tarrant County until 2 a.m. Sunday, says the NWS",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-04-26T04:09:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article315538550.html",
+        "mention_text": "Tarrant County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tarrant County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837628,
+        "run_at": "2026-04-26T07:35:59.498956+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7790069,
+          32.7620405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.harianbasis.co/en/dallas-flash-flood-warning-nws",
+        "title": "NWS Issues Flash Flood Warning for Dallas County",
+        "source": "HarianBasis.co",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-26T07:07:37Z",
+        "url": "https://www.harianbasis.co/en/dallas-flash-flood-warning-nws",
+        "mention_text": "Dallas County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dallas County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837698,
+        "run_at": "2026-04-26T07:35:59.498956+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7790069,
+          32.7620405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.asatunews.co.id/en/dallas-county-flash-flood-warning",
+        "title": "NWS Issues Flash Flood Warning for Dallas County",
+        "source": "asatunews.co.id",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-26T07:10:35Z",
+        "url": "https://www.asatunews.co.id/en/dallas-county-flash-flood-warning",
+        "mention_text": "Dallas County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dallas County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837698,
+        "run_at": "2026-04-26T07:35:59.498956+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.335696,
+          32.7513658
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.asatunews.co.id/en/tarrant-county-flash-flood-warning",
+        "title": "NWS Issues Flash Flood Warning for Tarrant County",
+        "source": "asatunews.co.id",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-26T04:40:18Z",
+        "url": "https://www.asatunews.co.id/en/tarrant-county-flash-flood-warning",
+        "mention_text": "Tarrant County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tarrant County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837628,
+        "run_at": "2026-04-26T07:35:59.498956+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.135072,
+          32.6662689
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.koranmanado.co.id/en/texas-flash-flood-emergency-warnings",
+        "title": "Severe Rain Prompts Flash Flood Alerts in North Texas Counties",
+        "source": "Koran Manado",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-26T06:58:18Z",
+        "url": "https://www.koranmanado.co.id/en/texas-flash-flood-emergency-warnings",
+        "mention_text": "North Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North, Arlington, Tarrant County, Texas, 76017, United States",
+        "osm_type": "residential",
+        "osm_id": 10057724,
+        "run_at": "2026-04-26T07:35:59.498956+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.335696,
+          32.7513658
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.asatunews.co.id/en/severe-thunderstorms-trigger-flash-flood-warning-in-tarrant-county",
+        "title": "Severe Thunderstorms Trigger Flash Flood Warning in Tarrant County",
+        "source": "asatunews.co.id",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-26T06:23:23Z",
+        "url": "https://www.asatunews.co.id/en/severe-thunderstorms-trigger-flash-flood-warning-in-tarrant-county",
+        "mention_text": "Tarrant County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tarrant County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837628,
+        "run_at": "2026-04-26T07:35:59.498956+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.335696,
+          32.7513658
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wfaa.com/article/weather/forecast/dfw-weather-warm-humid-breezy-weekend-low-chance-for-rain/287-04e444a8-dfdc-45ef-a73a-ea1ff2b6fc7c",
+        "title": "DFW Weather: Severe thunderstorm, flash flood warnings in effect for Tarrant County",
+        "source": "WFAA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-25T03:45:00Z",
+        "url": "https://www.wfaa.com/article/weather/forecast/dfw-weather-warm-humid-breezy-weekend-low-chance-for-rain/287-04e444a8-dfdc-45ef-a73a-ea1ff2b6fc7c",
+        "mention_text": "Tarrant County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tarrant County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837628,
+        "run_at": "2026-04-26T07:35:59.498956+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.054028,
+          38.8978443
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.arabnews.com/node/2641197/saudi-arabia",
+        "title": "Thunderstorms sweep Saudi Arabia, Civil Defense warns of flash flood risks",
+        "source": "Arab News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-25T00:42:07Z",
+        "url": "https://www.arabnews.com/node/2641197/saudi-arabia",
+        "mention_text": "Saudi Arabia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Embassy of Saudi Arabia, 601, New Hampshire Avenue Northwest, Foggy Bottom, Ward 2, Washington, District of Columbia, 20037, United States",
+        "osm_type": "diplomatic",
+        "osm_id": 66417858,
+        "run_at": "2026-04-26T07:35:59.498956+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article315490985.html",
+        "title": "Coastal flood advisory for Coastal Colleton and Charleston County for Wednesday",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-22T02:37:06Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article315490985.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-04-26T07:35:59.498956+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8155355,
+          36.6713502
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article314738899.html",
+        "title": "UPDATE: The current flood advisory for Fresno County will be expiring at 8:15 p.m.",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-02-17T08:00:00Z",
+        "url": "https://www.modbee.com/news/weather-news/article314738899.html",
+        "mention_text": "Fresno County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Fresno County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396492,
+        "run_at": "2026-04-26T07:35:59.498956+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-04-25T07:22:57.797900+00:00",
-    "total_features": 899
+    "last_updated": "2026-04-26T07:35:59.503814+00:00",
+    "total_features": 912
   }
 }
