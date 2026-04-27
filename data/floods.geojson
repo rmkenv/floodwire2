@@ -23712,11 +23712,375 @@
         "osm_id": 396492,
         "run_at": "2026-04-26T07:35:59.498956+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9650274,
+          38.9241769
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kens5.com/video/weather/weather-works/weather-works-why-is-south-central-texas-known-as-flash-flood-alley/273-3d073f05-c14c-4745-b19d-503774b19635",
+        "title": "Weather Works | Why is South-Central Texas known as 'Flash Flood Alley'",
+        "source": "kens5.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-24T03:20:00Z",
+        "url": "https://www.kens5.com/video/weather/weather-works/weather-works-why-is-south-central-texas-known-as-flash-flood-alley/273-3d073f05-c14c-4745-b19d-503774b19635",
+        "mention_text": "South-Central",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South Central, Ward 5, Washington, District of Columbia, United States",
+        "osm_type": "neighbourhood",
+        "osm_id": 4636922,
+        "run_at": "2026-04-27T08:31:00.514356+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kens5.com/video/weather/weather-works/weather-works-why-is-south-central-texas-known-as-flash-flood-alley/273-3d073f05-c14c-4745-b19d-503774b19635",
+        "title": "Weather Works | Why is South-Central Texas known as 'Flash Flood Alley'",
+        "source": "kens5.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-24T03:20:00Z",
+        "url": "https://www.kens5.com/video/weather/weather-works/weather-works-why-is-south-central-texas-known-as-flash-flood-alley/273-3d073f05-c14c-4745-b19d-503774b19635",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-04-27T08:31:00.514356+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.690729,
+          30.487512
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kvue.com/video/weather/williamson-county-rv-park-evacuations-after-flash-flood-warning/269-c08b74c3-d1d8-47d6-8802-903fc5a4f1cd",
+        "title": "Williamson County RV park evacuations after Flash Flood Warning",
+        "source": "KVUE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-22T03:36:00Z",
+        "url": "https://www.kvue.com/video/weather/williamson-county-rv-park-evacuations-after-flash-flood-warning/269-c08b74c3-d1d8-47d6-8802-903fc5a4f1cd",
+        "mention_text": "Williamson County RV",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Blessing RV Park and Manufactured Home Community, Williamson County, Texas, United States",
+        "osm_type": "residential",
+        "osm_id": 589907501,
+        "run_at": "2026-04-27T08:31:00.514356+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7790069,
+          32.7620405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.koranmanado.co.id/en/nws-dallas-county-flash-flood",
+        "title": "NWS Issues Flash Flood Warning for Dallas County on Sunday",
+        "source": "Koran Manado",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-26T07:25:49Z",
+        "url": "https://www.koranmanado.co.id/en/nws-dallas-county-flash-flood",
+        "mention_text": "Dallas County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dallas County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837698,
+        "run_at": "2026-04-27T08:31:00.514356+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5781416,
+          39.100105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kansascity.com/news/weather-news/article315545542.html",
+        "title": "Flood advisory for the Kansas City area until Monday morning, says the NWS",
+        "source": "Kansas City Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-27T07:55:05Z",
+        "url": "https://www.kansascity.com/news/weather-news/article315545542.html",
+        "mention_text": "Kansas City",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kansas City, Jackson County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 141008,
+        "run_at": "2026-04-27T08:31:00.514356+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5556156,
+          46.4824144
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-active-for-luce-county-until-further-notice.html",
+        "title": "Flood advisory active for Luce County until further notice",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-27T00:46:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-active-for-luce-county-until-further-notice.html",
+        "mention_text": "Luce County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Luce County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1898721,
+        "run_at": "2026-04-27T08:31:00.514356+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3876368,
+          46.6354348
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-in-place-for-baraga-and-houghton-counties-until-monday-afternoon.html",
+        "title": "Update: Flood advisory in place for Baraga and Houghton counties until further notice",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-27T00:39:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-in-place-for-baraga-and-houghton-counties-until-monday-afternoon.html",
+        "mention_text": "Baraga",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Baraga County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1898717,
+        "run_at": "2026-04-27T08:31:00.514356+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7774734,
+          46.8591287
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-in-place-for-baraga-and-houghton-counties-until-monday-afternoon.html",
+        "title": "Update: Flood advisory in place for Baraga and Houghton counties until further notice",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-27T00:39:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-in-place-for-baraga-and-houghton-counties-until-monday-afternoon.html",
+        "mention_text": "Houghton",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Houghton County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1898720,
+        "run_at": "2026-04-27T08:31:00.514356+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5781416,
+          39.100105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kansascity.com/news/weather-news/article315543942.html",
+        "title": "Flood advisory issued for the Kansas City area Sunday evening caused by prolonged rainfall",
+        "source": "Kansas City Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-26T23:02:06Z",
+        "url": "https://www.kansascity.com/news/weather-news/article315543942.html",
+        "mention_text": "Kansas City",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kansas City, Jackson County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 141008,
+        "run_at": "2026-04-27T08:31:00.514356+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.78483,
+          36.7394421
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article315487947.html",
+        "title": "Flood advisory active for Fresno and Madera counties Tuesday afternoon due to heavy rain",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-21T21:23:06Z",
+        "url": "https://www.modbee.com/news/weather-news/article315487947.html",
+        "mention_text": "Fresno",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Fresno, Fresno County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 112443,
+        "run_at": "2026-04-27T08:31:00.514356+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7737991,
+          37.1716264
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article315487947.html",
+        "title": "Flood advisory active for Fresno and Madera counties Tuesday afternoon due to heavy rain",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-21T21:23:06Z",
+        "url": "https://www.modbee.com/news/weather-news/article315487947.html",
+        "mention_text": "Madera",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Madera County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396488,
+        "run_at": "2026-04-27T08:31:00.514356+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9382069,
+          39.5162401
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.msn.com/en-us/weather/topstories/maryland-flash-flood-emergency-heavy-rain-triggers-worst-flooding-in-29-years-in-westernport/ar-AA1EIlzq?ocid=mailsignout&pc=U591&cvid=4a0fb7f8613543418b3ba94cb39510d7&ei=121&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-c",
+        "title": "Maryland Flash Flood Emergency: Heavy Rain Triggers Worst Flooding In 29 Years In Westernport",
+        "source": "MSN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-23T06:05:37Z",
+        "url": "https://www.msn.com/en-us/weather/topstories/maryland-flash-flood-emergency-heavy-rain-triggers-worst-flooding-in-29-years-in-westernport/ar-AA1EIlzq?ocid=mailsignout&pc=U591&cvid=4a0fb7f8613543418b3ba94cb39510d7&ei=121&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-c",
+        "mention_text": "Maryland",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maryland, United States",
+        "osm_type": "administrative",
+        "osm_id": 162112,
+        "run_at": "2026-04-27T08:31:00.514356+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0446881,
+          39.4854732
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.msn.com/en-us/weather/topstories/maryland-flash-flood-emergency-heavy-rain-triggers-worst-flooding-in-29-years-in-westernport/ar-AA1EIlzq?ocid=mailsignout&pc=U591&cvid=4a0fb7f8613543418b3ba94cb39510d7&ei=121&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-c",
+        "title": "Maryland Flash Flood Emergency: Heavy Rain Triggers Worst Flooding In 29 Years In Westernport",
+        "source": "MSN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-23T06:05:37Z",
+        "url": "https://www.msn.com/en-us/weather/topstories/maryland-flash-flood-emergency-heavy-rain-triggers-worst-flooding-in-29-years-in-westernport/ar-AA1EIlzq?ocid=mailsignout&pc=U591&cvid=4a0fb7f8613543418b3ba94cb39510d7&ei=121&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-c",
+        "mention_text": "Westernport",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Westernport, Allegany County, Maryland, United States",
+        "osm_type": "administrative",
+        "osm_id": 133638,
+        "run_at": "2026-04-27T08:31:00.514356+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article315465453.html",
+        "title": "Coastal Colleton and Charleston County under a coastal flood advisory until Sunday night",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-19T23:42:06Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article315465453.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-04-27T08:31:00.514356+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-04-26T07:35:59.503814+00:00",
-    "total_features": 912
+    "last_updated": "2026-04-27T08:31:00.519248+00:00",
+    "total_features": 926
   }
 }
