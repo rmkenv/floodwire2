@@ -24076,11 +24076,453 @@
         "osm_id": 1857000,
         "run_at": "2026-04-27T08:31:00.514356+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7790069,
+          32.7620405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article315555767.html",
+        "title": "Flash flood warning active for Dallas County Monday night due to thunderstorms",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-04-28T01:13:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article315555767.html",
+        "mention_text": "Dallas County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dallas County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837698,
+        "run_at": "2026-04-28T08:31:02.806292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.759407,
+          38.2542376
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whas11.com/article/weather/weather-impact/kentucky-indiana-live-weather-watch-warning-issued/417-d807d2c4-f744-474c-89df-fb34cdd3168e",
+        "title": "Flash flood warning issued for Louisville, portions of southern Indiana | Current weather alerts",
+        "source": "whas11.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-27T16:45:00Z",
+        "url": "https://www.whas11.com/article/weather/weather-impact/kentucky-indiana-live-weather-watch-warning-issued/417-d807d2c4-f744-474c-89df-fb34cdd3168e",
+        "mention_text": "Louisville",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Louisville, Jefferson County, Kentucky, 40202, United States",
+        "osm_type": "city",
+        "osm_id": 153369793,
+        "run_at": "2026-04-28T08:31:02.806292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1746933,
+          40.3270127
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whas11.com/article/weather/weather-impact/kentucky-indiana-live-weather-watch-warning-issued/417-d807d2c4-f744-474c-89df-fb34cdd3168e",
+        "title": "Flash flood warning issued for Louisville, portions of southern Indiana | Current weather alerts",
+        "source": "whas11.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-27T16:45:00Z",
+        "url": "https://www.whas11.com/article/weather/weather-impact/kentucky-indiana-live-weather-watch-warning-issued/417-d807d2c4-f744-474c-89df-fb34cdd3168e",
+        "mention_text": "Indiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Indiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 161816,
+        "run_at": "2026-04-28T08:31:02.806292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.677556,
+          39.049011
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wibw.com/2026/04/27/flash-flood-warning-issued-early-monday-topeka-vicinity/",
+        "title": "Flash flood warning issued early Monday for Topeka and vicinity",
+        "source": "WIBW",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-27T10:09:00Z",
+        "url": "https://www.wibw.com/2026/04/27/flash-flood-warning-issued-early-monday-topeka-vicinity/",
+        "mention_text": "Topeka",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Topeka, Shawnee County, Kansas, United States",
+        "osm_type": "administrative",
+        "osm_id": 130140,
+        "run_at": "2026-04-28T08:31:02.806292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0620347,
+          39.2147095
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kansascity.com/news/weather-news/article315545658.html",
+        "title": "Update: Flash flood warning affecting Leavenworth County Monday morning",
+        "source": "Kansas City Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-27T11:53:05Z",
+        "url": "https://www.kansascity.com/news/weather-news/article315545658.html",
+        "mention_text": "Leavenworth County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Leavenworth County, Kansas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1070403,
+        "run_at": "2026-04-28T08:31:02.806292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.055891,
+          40.6264561
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-manistee-and-wexford-counties-until-early-monday-evening.html",
+        "title": "Flood warning issued for Manistee and Wexford counties until early Monday evening",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-27T15:31:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-manistee-and-wexford-counties-until-early-monday-evening.html",
+        "mention_text": "Wexford",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Wexford, Pine Township, Allegheny County, Pennsylvania, 15090, United States",
+        "osm_type": "town",
+        "osm_id": 154103541,
+        "run_at": "2026-04-28T08:31:02.806292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5781416,
+          39.100105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kansascity.com/news/weather-news/article315545754.html",
+        "title": "Update: Flash flood warning issued for the Kansas City area until Monday midday",
+        "source": "Kansas City Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-27T12:23:07Z",
+        "url": "https://www.kansascity.com/news/weather-news/article315545754.html",
+        "mention_text": "Kansas City",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kansas City, Jackson County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 141008,
+        "run_at": "2026-04-28T08:31:02.806292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5781416,
+          39.100105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nationalworld.com/news/weather/flash-flood-warning-issued-for-the-kansas-city-area-after-tornado-watches-were-in-place-7809795",
+        "title": "Latest on Flash Flood warning issued for the Kansas City area after tornado watch",
+        "source": "NationalWorld",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-27T23:06:03Z",
+        "url": "https://www.nationalworld.com/news/weather/flash-flood-warning-issued-for-the-kansas-city-area-after-tornado-watches-were-in-place-7809795",
+        "mention_text": "Kansas City",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kansas City, Jackson County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 141008,
+        "run_at": "2026-04-28T08:31:02.806292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2188827,
+          46.7182728
+        ]
+      },
+      "properties": {
+        "article_id": "https://sundayguardianlive.com/world/st-louis-weather-today-check-weather-forecast-storms-tornado-predictions-heavy-rain-flash-flood-warning-in-kansas-temperature-in-los-angeles-new-york-more-187009/",
+        "title": "St. Louis Weather Today: Check Weather Forecast, Storms, Tornado Predictions, Heavy Rain, Flash Flood Warning in Kansas, Temperature in Los Angeles, New York & More",
+        "source": "The Sunday Guardian",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-27T12:57:56Z",
+        "url": "https://sundayguardianlive.com/world/st-louis-weather-today-check-weather-forecast-storms-tornado-predictions-heavy-rain-flash-flood-warning-in-kansas-temperature-in-los-angeles-new-york-more-187009/",
+        "mention_text": "St. Louis Weather",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "All-Weather Trail, Riverside, West Duluth, Duluth, Saint Louis County, Minnesota, 55808, United States",
+        "osm_type": "cycleway",
+        "osm_id": 1183762519,
+        "run_at": "2026-04-28T08:31:02.806292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5821872,
+          38.27312
+        ]
+      },
+      "properties": {
+        "article_id": "https://sundayguardianlive.com/world/st-louis-weather-today-check-weather-forecast-storms-tornado-predictions-heavy-rain-flash-flood-warning-in-kansas-temperature-in-los-angeles-new-york-more-187009/",
+        "title": "St. Louis Weather Today: Check Weather Forecast, Storms, Tornado Predictions, Heavy Rain, Flash Flood Warning in Kansas, Temperature in Los Angeles, New York & More",
+        "source": "The Sunday Guardian",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-27T12:57:56Z",
+        "url": "https://sundayguardianlive.com/world/st-louis-weather-today-check-weather-forecast-storms-tornado-predictions-heavy-rain-flash-flood-warning-in-kansas-temperature-in-los-angeles-new-york-more-187009/",
+        "mention_text": "Kansas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kansas, United States",
+        "osm_type": "administrative",
+        "osm_id": 161644,
+        "run_at": "2026-04-28T08:31:02.806292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://sundayguardianlive.com/world/st-louis-weather-today-check-weather-forecast-storms-tornado-predictions-heavy-rain-flash-flood-warning-in-kansas-temperature-in-los-angeles-new-york-more-187009/",
+        "title": "St. Louis Weather Today: Check Weather Forecast, Storms, Tornado Predictions, Heavy Rain, Flash Flood Warning in Kansas, Temperature in Los Angeles, New York & More",
+        "source": "The Sunday Guardian",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-27T12:57:56Z",
+        "url": "https://sundayguardianlive.com/world/st-louis-weather-today-check-weather-forecast-storms-tornado-predictions-heavy-rain-flash-flood-warning-in-kansas-temperature-in-los-angeles-new-york-more-187009/",
+        "mention_text": "Los Angeles",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-04-28T08:31:02.806292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5617875,
+          38.7604815
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.asatunews.co.id/en/missouri-flash-flood-watch-expansion",
+        "title": "Northern Missouri Flash Flood Watch Expands Amid Severe Storm Risks",
+        "source": "AsatuNews.co.id",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-27T10:40:34Z",
+        "url": "https://www.asatunews.co.id/en/missouri-flash-flood-watch-expansion",
+        "mention_text": "Missouri",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 161638,
+        "run_at": "2026-04-28T08:31:02.806292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3249475,
+          41.0400423
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.idsnews.com/article/2026/04/monroe-county-bloomington-flood-advisory-thunderstorm-watch",
+        "title": "Monroe County under flood advisory, thunderstorm watch",
+        "source": "Indiana Daily Student",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-27T21:25:00Z",
+        "url": "https://www.idsnews.com/article/2026/04/monroe-county-bloomington-flood-advisory-thunderstorm-watch",
+        "mention_text": "Monroe County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Monroe County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417787,
+        "run_at": "2026-04-28T08:31:02.806292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article315550953.html",
+        "title": "Coastal Colleton and Charleston County under a coastal flood advisory until Monday evening",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-27T18:33:06Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article315550953.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-04-28T08:31:02.806292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.khou.com/article/news/state/texas-news/texas-flood/texas-investigator-camp-mystic-counselors-emergency-training-before-flood-killed-27/285-0e5c1577-e19a-4c22-aed3-6d81f3e3eca6",
+        "title": "Texas lawmakers hear how Camp Mystic's culture of obedience may have delayed flood evacuation",
+        "source": "KHOU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-27T23:09:00Z",
+        "url": "https://www.khou.com/article/news/state/texas-news/texas-flood/texas-investigator-camp-mystic-counselors-emergency-training-before-flood-killed-27/285-0e5c1577-e19a-4c22-aed3-6d81f3e3eca6",
+        "mention_text": "Texas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-04-28T08:31:02.806292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3727647,
+          30.0050147
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.khou.com/article/news/state/texas-news/texas-flood/texas-investigator-camp-mystic-counselors-emergency-training-before-flood-killed-27/285-0e5c1577-e19a-4c22-aed3-6d81f3e3eca6",
+        "title": "Texas lawmakers hear how Camp Mystic's culture of obedience may have delayed flood evacuation",
+        "source": "KHOU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-27T23:09:00Z",
+        "url": "https://www.khou.com/article/news/state/texas-news/texas-flood/texas-investigator-camp-mystic-counselors-emergency-training-before-flood-killed-27/285-0e5c1577-e19a-4c22-aed3-6d81f3e3eca6",
+        "mention_text": "Camp Mystic's",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Camp Mystic Cypress Lake, 186, Felix Fisher Road South, Kerr County, Texas, 78024, United States",
+        "osm_type": "summer_camp",
+        "osm_id": 1413097290,
+        "run_at": "2026-04-28T08:31:02.806292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3249475,
+          41.0400423
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.asatunews.co.id/en/monroe-county-flood-advisory-storms",
+        "title": "National Weather Service Issues Flood Advisory for Monroe County",
+        "source": "AsatuNews.co.id",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-28T03:21:27Z",
+        "url": "https://www.asatunews.co.id/en/monroe-county-flood-advisory-storms",
+        "mention_text": "Monroe County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Monroe County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417787,
+        "run_at": "2026-04-28T08:31:02.806292+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-04-27T08:31:00.519248+00:00",
-    "total_features": 926
+    "last_updated": "2026-04-28T08:31:02.811777+00:00",
+    "total_features": 943
   }
 }
