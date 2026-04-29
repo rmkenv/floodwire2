@@ -24518,11 +24518,193 @@
         "osm_id": 417787,
         "run_at": "2026-04-28T08:31:02.806292+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1746933,
+          40.3270127
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whas11.com/article/weather/weather-impact/blue-river-fredricksburg-indiana-flooding/417-f09d3376-c7f8-414f-9b97-65b74ea0cb8c",
+        "title": "Flood Warning issued for southern Indiana river after rounds of heavy rainfall",
+        "source": "WHAS11",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-28T16:00:00Z",
+        "url": "https://www.whas11.com/article/weather/weather-impact/blue-river-fredricksburg-indiana-flooding/417-f09d3376-c7f8-414f-9b97-65b74ea0cb8c",
+        "mention_text": "Indiana",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Indiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 161816,
+        "run_at": "2026-04-29T08:21:13.749178+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.135072,
+          32.6662689
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.msn.com/en-us/weather/topstories/flash-flood-drama-woman-climbs-out-of-car-window-as-storms-slam-north-texas/vi-AA21VIHS",
+        "title": "Flash flood drama: Woman climbs out of car window as storms slam North Texas",
+        "source": "MSN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-28T18:30:08Z",
+        "url": "https://www.msn.com/en-us/weather/topstories/flash-flood-drama-woman-climbs-out-of-car-window-as-storms-slam-north-texas/vi-AA21VIHS",
+        "mention_text": "North Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North, Arlington, Tarrant County, Texas, 76017, United States",
+        "osm_type": "residential",
+        "osm_id": 10057724,
+        "run_at": "2026-04-29T08:21:13.749178+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2512895,
+          45.0157576
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-1mcbwjpmnh3lqzkk",
+        "title": "Another round of rain set to drench the Northeast by late this week, increasing flash flood risk",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-28T10:39:41Z",
+        "url": "https://www.foxweather.com/watch/fmc-1mcbwjpmnh3lqzkk",
+        "mention_text": "Northeast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Northeast, Minneapolis, Hennepin County, Minnesota, 55418, United States",
+        "osm_type": "suburb",
+        "osm_id": 2084902014,
+        "run_at": "2026-04-29T08:21:13.749178+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7968559,
+          32.7762719
+        ]
+      },
+      "properties": {
+        "article_id": "https://hoodline.com/2026/04/dallas-streets-swamped-as-flash-flood-warning-soaks-county/",
+        "title": "Dallas Streets Swamped As Flash Flood Warning Soaks County",
+        "source": "Hoodline",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-28T13:33:28Z",
+        "url": "https://hoodline.com/2026/04/dallas-streets-swamped-as-flash-flood-warning-soaks-county/",
+        "mention_text": "Dallas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dallas, Dallas County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 6571629,
+        "run_at": "2026-04-29T08:21:13.749178+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4074674,
+          47.5354964
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bellinghamherald.com/news/weather-news/article315567858.html",
+        "title": "UPDATE: The current flood advisory for Spokane County will expire at 7:15 p.m.",
+        "source": "Bellingham Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-29T02:17:06Z",
+        "url": "https://www.bellinghamherald.com/news/weather-news/article315567858.html",
+        "mention_text": "Spokane County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Spokane County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1150576,
+        "run_at": "2026-04-29T08:21:13.749178+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article315550953.html",
+        "title": "Coastal Colleton and Charleston County under a coastal flood advisory until Monday evening",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-27T18:33:06Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article315550953.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-04-29T08:21:13.749178+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9552284,
+          40.849881
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/articles/meridian-township-issues-flooded-road-150501430.html",
+        "title": "Meridian Township issues flooded road notice",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-16T07:00:00Z",
+        "url": "https://www.yahoo.com/news/articles/meridian-township-issues-flooded-road-150501430.html",
+        "mention_text": "Meridian Township",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Meridian, Butler Township, Butler County, Pennsylvania, United States",
+        "osm_type": "census",
+        "osm_id": 188028,
+        "run_at": "2026-04-29T08:21:13.749178+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-04-28T08:31:02.811777+00:00",
-    "total_features": 943
+    "last_updated": "2026-04-29T08:21:13.753934+00:00",
+    "total_features": 950
   }
 }
