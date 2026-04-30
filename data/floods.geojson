@@ -24700,11 +24700,323 @@
         "osm_id": 188028,
         "run_at": "2026-04-29T08:21:13.749178+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2512895,
+          45.0157576
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/another-spring-soaker-to-drench-northeast-by-late-week",
+        "title": "Intensifying storm system to soak Northeast, bringing flash flood and severe weather risks",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-29T13:31:00Z",
+        "url": "https://www.foxweather.com/weather-news/another-spring-soaker-to-drench-northeast-by-late-week",
+        "mention_text": "Northeast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Northeast, Minneapolis, Hennepin County, Minnesota, 55418, United States",
+        "osm_type": "suburb",
+        "osm_id": 2084902014,
+        "run_at": "2026-04-30T08:26:38.274753+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.14824,
+          32.6807992
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.al.com/weather-alerts/2026/04/flood-warning-issued-for-west-central-alabama-from-thursday-to-saturday-minor-flooding-is-anticipate.html",
+        "title": "Update: Flood warning issued for West Central Alabama for Friday and Saturday \u2013 minor flooding is anticipated",
+        "source": "AL.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-29T14:05:00Z",
+        "url": "https://www.al.com/weather-alerts/2026/04/flood-warning-issued-for-west-central-alabama-from-thursday-to-saturday-minor-flooding-is-anticipate.html",
+        "mention_text": "West Central Alabama",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "West Central Road, Greer, Elmore County, Alabama, 36092, United States",
+        "osm_type": "unclassified",
+        "osm_id": 7646823,
+        "run_at": "2026-04-30T08:26:38.274753+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.158606,
+          39.553048
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.riverbender.com/news/details/minor-flood-warning-issued-for-mississippi-river-at-alton-and-grafton-92888.cfm",
+        "title": "Minor Flood Warning Issued for Mississippi River at Alton and Grafton",
+        "source": "RiverBender.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-29T18:54:43Z",
+        "url": "https://www.riverbender.com/news/details/minor-flood-warning-issued-for-mississippi-river-at-alton-and-grafton-92888.cfm",
+        "mention_text": "Mississippi River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Mississippi River, United States",
+        "osm_type": "river",
+        "osm_id": 1756854,
+        "run_at": "2026-04-30T08:26:38.274753+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1843091,
+          38.8908583
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.riverbender.com/news/details/minor-flood-warning-issued-for-mississippi-river-at-alton-and-grafton-92888.cfm",
+        "title": "Minor Flood Warning Issued for Mississippi River at Alton and Grafton",
+        "source": "RiverBender.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-29T18:54:43Z",
+        "url": "https://www.riverbender.com/news/details/minor-flood-warning-issued-for-mississippi-river-at-alton-and-grafton-92888.cfm",
+        "mention_text": "Alton",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Alton, Madison County, Illinois, 62002, United States",
+        "osm_type": "administrative",
+        "osm_id": 126623,
+        "run_at": "2026-04-30T08:26:38.274753+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3170402,
+          29.8494044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/fast-moving-storm-clusters-heighten-165543525.html",
+        "title": "Fast-moving storm clusters heighten severe weather and flash flood threats across the South",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-29T16:55:43Z",
+        "url": "https://www.yahoo.com/news/videos/fast-moving-storm-clusters-heighten-165543525.html",
+        "mention_text": "South",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "St. Augustine South, Saint Johns County, Florida, 32086, United States",
+        "osm_type": "town",
+        "osm_id": 13203803220,
+        "run_at": "2026-04-30T08:26:38.274753+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3170402,
+          29.8494044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/much-needed-southern-rain-to-bypass-worst-drought-areas",
+        "title": "Rapid cluster of storms heightens severe threats and flash flood concerns as beneficial rain sweeps the South",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-27T10:41:00Z",
+        "url": "https://www.foxweather.com/weather-news/much-needed-southern-rain-to-bypass-worst-drought-areas",
+        "mention_text": "South",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "St. Augustine South, Saint Johns County, Florida, 32086, United States",
+        "osm_type": "town",
+        "osm_id": 13203803220,
+        "run_at": "2026-04-30T08:26:38.274753+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.567412,
+          42.8868859
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.lehighvalleylive.com/weather-alerts/2026/04/coastal-flood-advisory-for-southeast-pa-for-thursday.html",
+        "title": "Coastal flood advisory for Southeast Pa. for Thursday",
+        "source": "Lehighvalleylive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-29T21:46:00Z",
+        "url": "https://www.lehighvalleylive.com/weather-alerts/2026/04/coastal-flood-advisory-for-southeast-pa-for-thursday.html",
+        "mention_text": "Southeast Pa.",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "East Pa Avenue Southeast, Kentwood, Kent County, Michigan, 49512, United States",
+        "osm_type": "tertiary",
+        "osm_id": 17847893,
+        "run_at": "2026-04-30T08:26:38.274753+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.567412,
+          42.8868859
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pennlive.com/weather-alerts/2026/04/coastal-flood-advisory-issued-for-southeast-pa-for-thursday.html",
+        "title": "Coastal flood advisory issued for Southeast Pa. for Thursday",
+        "source": "PennLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-29T21:45:00Z",
+        "url": "https://www.pennlive.com/weather-alerts/2026/04/coastal-flood-advisory-issued-for-southeast-pa-for-thursday.html",
+        "mention_text": "Southeast Pa.",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "East Pa Avenue Southeast, Kentwood, Kent County, Michigan, 49512, United States",
+        "osm_type": "tertiary",
+        "osm_id": 17847893,
+        "run_at": "2026-04-30T08:26:38.274753+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7790069,
+          32.7620405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article315576701.html",
+        "title": "Flood advisory issued for Dallas County early Wednesday evening, says the NWS",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-04-29T19:10:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article315576701.html",
+        "mention_text": "Dallas County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Dallas County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837698,
+        "run_at": "2026-04-30T08:26:38.274753+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7968559,
+          32.7762719
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dallasnews.com/news/weather/article/dallas-weather-cooler-weather-tap-wednesday-22231092.php",
+        "title": "Parts of Dallas under flood advisory as strong storms move through the region",
+        "source": "Dallas News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-29T19:41:15Z",
+        "url": "https://www.dallasnews.com/news/weather/article/dallas-weather-cooler-weather-tap-wednesday-22231092.php",
+        "mention_text": "Dallas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Dallas, Dallas County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 6571629,
+        "run_at": "2026-04-30T08:26:38.274753+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4074674,
+          47.5354964
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tri-cityherald.com/news/weather-news/article315567858.html",
+        "title": "UPDATE: The current flood advisory for Spokane County will expire at 7:15 p.m.",
+        "source": "Tri-City Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-29T02:17:06Z",
+        "url": "https://www.tri-cityherald.com/news/weather-news/article315567858.html",
+        "mention_text": "Spokane County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Spokane County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1150576,
+        "run_at": "2026-04-30T08:26:38.274753+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4226219,
+          37.7885259
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article315382887.html",
+        "title": "UPDATE: Northern California under a flood advisory until early Sunday",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T04:05:05Z",
+        "url": "https://www.modbee.com/news/weather-news/article315382887.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Planned Parenthood Northern California, 1522, Bush Street, Western Addition, San Francisco, California, 94109, United States",
+        "osm_type": "clinic",
+        "osm_id": 10110556090,
+        "run_at": "2026-04-30T08:26:38.274753+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-04-29T08:21:13.753934+00:00",
-    "total_features": 950
+    "last_updated": "2026-04-30T08:26:38.279900+00:00",
+    "total_features": 962
   }
 }
