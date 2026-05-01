@@ -25012,11 +25012,297 @@
         "osm_id": 10110556090,
         "run_at": "2026-04-30T08:26:38.274753+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5372797,
+          42.2494968
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-kalamazoo-county-until-early-friday-evening-minor-flooding-is-taking-place.html",
+        "title": "Flood warning issued for Kalamazoo County until early Friday evening \u2013 minor flooding is taking place",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-30T18:51:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-warning-issued-for-kalamazoo-county-until-early-friday-evening-minor-flooding-is-taking-place.html",
+        "mention_text": "Kalamazoo County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Kalamazoo County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1907317,
+        "run_at": "2026-05-01T08:17:42.054551+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4577554,
+          43.1260226
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tuscaloosanews.com/story/weather/2026/04/30/weather-alert/89875094007/",
+        "title": "Flood warning issued for West Alabama",
+        "source": "The Tuscaloosa News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-30T16:47:00Z",
+        "url": "https://www.tuscaloosanews.com/story/weather/2026/04/30/weather-alert/89875094007/",
+        "mention_text": "West Alabama",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "West Alabama, Town of Alabama, Genesee County, New York, United States",
+        "osm_type": "hamlet",
+        "osm_id": 158367963,
+        "run_at": "2026-05-01T08:17:42.054551+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4577554,
+          43.1260226
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aol.com/news/flood-warning-issued-west-alabama-164732164.html",
+        "title": "Flood warning issued for West Alabama",
+        "source": "AOL.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-30T20:36:48Z",
+        "url": "https://www.aol.com/news/flood-warning-issued-west-alabama-164732164.html",
+        "mention_text": "West Alabama",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "West Alabama, Town of Alabama, Genesee County, New York, United States",
+        "osm_type": "hamlet",
+        "osm_id": 158367963,
+        "run_at": "2026-05-01T08:17:42.054551+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2512895,
+          45.0157576
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aol.com/articles/inches-heavy-rain-soak-northeast-113235034.html",
+        "title": "Intensifying storm system to soak Northeast, bringing flash flood and severe weather risks",
+        "source": "AOL.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-28T13:41:08Z",
+        "url": "https://www.aol.com/articles/inches-heavy-rain-soak-northeast-113235034.html",
+        "mention_text": "Northeast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Northeast, Minneapolis, Hennepin County, Minnesota, 55418, United States",
+        "osm_type": "suburb",
+        "osm_id": 2084902014,
+        "run_at": "2026-05-01T08:17:42.054551+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3170402,
+          29.8494044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aol.com/news/much-needed-rain-targets-south-104144695.html",
+        "title": "Rapid cluster of storms heightens severe threats and flash flood concerns as beneficial rain sweeps the South",
+        "source": "AOL.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-29T20:52:42Z",
+        "url": "https://www.aol.com/news/much-needed-rain-targets-south-104144695.html",
+        "mention_text": "South",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "St. Augustine South, Saint Johns County, Florida, 32086, United States",
+        "osm_type": "town",
+        "osm_id": 13203803220,
+        "run_at": "2026-05-01T08:17:42.054551+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9633675,
+          38.7194548
+        ]
+      },
+      "properties": {
+        "article_id": "https://wgno.com/weather/flood-advisory-along-south-shore-for-thursday-evening/",
+        "title": "Flood Advisory along South Shore for Thursday evening",
+        "source": "WGNO",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-30T23:46:54Z",
+        "url": "https://wgno.com/weather/flood-advisory-along-south-shore-for-thursday-evening/",
+        "mention_text": "South Shore",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "South Shore, Greenup County, Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 130850,
+        "run_at": "2026-05-01T08:17:42.054551+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6953467,
+          37.575509
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-issued-for-iron-county-until-further-notice.html",
+        "title": "Flood advisory issued for Iron County until further notice",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-30T17:01:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/04/flood-advisory-issued-for-iron-county-until-further-notice.html",
+        "mention_text": "Iron County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Iron County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180466,
+        "run_at": "2026-05-01T08:17:42.054551+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2272835,
+          43.2244513
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/flood-advisory-in-effect-for-orleans-st-charles-jefferson-parishes/289-c57f9e10-d1a7-4250-819b-64b37cba3e64",
+        "title": "Flood Advisory in effect for Orleans, St. Charles, Jefferson parishes",
+        "source": "wwltv.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-01T00:12:00Z",
+        "url": "https://www.wwltv.com/article/weather/flood-advisory-in-effect-for-orleans-st-charles-jefferson-parishes/289-c57f9e10-d1a7-4250-819b-64b37cba3e64",
+        "mention_text": "Orleans",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Orleans County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 68855,
+        "run_at": "2026-05-01T08:17:42.054551+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6747372,
+          38.7877791
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/flood-advisory-in-effect-for-orleans-st-charles-jefferson-parishes/289-c57f9e10-d1a7-4250-819b-64b37cba3e64",
+        "title": "Flood Advisory in effect for Orleans, St. Charles, Jefferson parishes",
+        "source": "wwltv.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-01T00:12:00Z",
+        "url": "https://www.wwltv.com/article/weather/flood-advisory-in-effect-for-orleans-st-charles-jefferson-parishes/289-c57f9e10-d1a7-4250-819b-64b37cba3e64",
+        "mention_text": "St. Charles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Saint Charles County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180527,
+        "run_at": "2026-05-01T08:17:42.054551+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4041622,
+          40.0757384
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nj.com/weather-alerts/2026/04/coastal-flood-advisory-issued-for-3-n-j-counties-for-thursday.html",
+        "title": "Update: Coastal flood advisory issued for 3 N.J. counties until early Thursday morning",
+        "source": "NJ.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-29T21:45:00Z",
+        "url": "https://www.nj.com/weather-alerts/2026/04/coastal-flood-advisory-issued-for-3-n-j-counties-for-thursday.html",
+        "mention_text": "N.J.",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 224951,
+        "run_at": "2026-05-01T08:17:42.054551+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article315465453.html",
+        "title": "Coastal Colleton and Charleston County under a coastal flood advisory until Sunday night",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-19T23:42:06Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article315465453.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-05-01T08:17:42.054551+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-04-30T08:26:38.279900+00:00",
-    "total_features": 962
+    "last_updated": "2026-05-01T08:17:42.059504+00:00",
+    "total_features": 973
   }
 }
