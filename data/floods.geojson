@@ -25298,11 +25298,505 @@
         "osm_id": 1857000,
         "run_at": "2026-05-01T08:17:42.054551+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0273724,
+          44.9507513
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox8live.com/2026/05/01/first-alert-rounds-storms-flash-flood-threat-sharp-cooldown-target-southeast-louisiana-through-saturday/",
+        "title": "FIRST ALERT: Rounds of storms, flash flood threat and a sharp cooldown target Southeast Louisiana through Saturday",
+        "source": "fox8live.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-01T16:19:00Z",
+        "url": "https://www.fox8live.com/2026/05/01/first-alert-rounds-storms-flash-flood-threat-sharp-cooldown-target-southeast-louisiana-through-saturday/",
+        "mention_text": "Southeast Louisiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Popeyes, 1722, Suburban Avenue, Battle Creek, Southeast, Saint Paul, Ramsey County, Minnesota, 55106, United States",
+        "osm_type": "fast_food",
+        "osm_id": 746275450,
+        "run_at": "2026-05-02T07:38:42.614500+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4951405,
+          29.4246002
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.expressnews.com/news/article/san-antonio-area-parks-closures-flood-warning-22236446.php",
+        "title": "San Antonio-area parks close as flash-flood warning continues",
+        "source": "San Antonio Express-News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-01T16:04:28Z",
+        "url": "https://www.expressnews.com/news/article/san-antonio-area-parks-closures-flood-warning-22236446.php",
+        "mention_text": "San Antonio",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Antonio, Bexar County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 253556,
+        "run_at": "2026-05-02T07:38:42.614500+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9087265,
+          47.7113958
+        ]
+      },
+      "properties": {
+        "article_id": "https://artesianews.com/eddy-county-under-flash-flood-watch-here-are-some-details-rain-heavy-nws/",
+        "title": "Eddy County under flash flood watch. Here are some details.",
+        "source": "Artesia Daily Press",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-01T17:55:14Z",
+        "url": "https://artesianews.com/eddy-county-under-flash-flood-watch-here-are-some-details-rain-heavy-nws/",
+        "mention_text": "Eddy County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Eddy County, North Dakota, United States",
+        "osm_type": "administrative",
+        "osm_id": 1740280,
+        "run_at": "2026-05-02T07:38:42.614500+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.007126,
+          30.8703881
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/news/local/orleans/neutral-ground-parking-available-friday-due-to-heavy-storms-possible-flooding/289-b13356f5-f3af-4d9a-a95b-f1417830128b",
+        "title": "Flash Flood Warning for parts of SE Louisiana; Neutral ground parking allowed in Orleans Parish",
+        "source": "wwltv.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-01T20:31:00Z",
+        "url": "https://www.wwltv.com/article/news/local/orleans/neutral-ground-parking-available-friday-due-to-heavy-storms-possible-flooding/289-b13356f5-f3af-4d9a-a95b-f1417830128b",
+        "mention_text": "Louisiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 224922,
+        "run_at": "2026-05-02T07:38:42.614500+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5372797,
+          42.2494968
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/05/flood-warning-issued-for-kalamazoo-county-until-further-notice-minor-flooding-is-projected.html",
+        "title": "Flood warning issued for Kalamazoo County until further notice \u2013 minor flooding is projected",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-01T19:11:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/05/flood-warning-issued-for-kalamazoo-county-until-further-notice-minor-flooding-is-projected.html",
+        "mention_text": "Kalamazoo County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Kalamazoo County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1907317,
+        "run_at": "2026-05-02T07:38:42.614500+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5104781,
+          29.4263987
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.expressnews.com/news/article/road-street-closures-san-antonio-flood-warning-22236147.php",
+        "title": "High water shutters 36 roads in Bexar County amid flash flood warning. See latest closures.",
+        "source": "San Antonio Express-News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-01T19:18:56Z",
+        "url": "https://www.expressnews.com/news/article/road-street-closures-san-antonio-flood-warning-22236147.php",
+        "mention_text": "Bexar County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Bexar County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 92026,
+        "run_at": "2026-05-02T07:38:42.614500+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4991908,
+          29.431944
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.expressnews.com/news/article/man-death-san-pedro-creek-flash-flood-22236732.php",
+        "title": "Man dead in San Pedro Creek during flash flood warning",
+        "source": "San Antonio Express-News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-01T18:29:36Z",
+        "url": "https://www.expressnews.com/news/article/man-death-san-pedro-creek-flash-flood-22236732.php",
+        "mention_text": "San Pedro Creek",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Pedro Creek, Downtown, San Antonio, Bexar County, Texas, 78205, United States",
+        "osm_type": "river",
+        "osm_id": 78546480,
+        "run_at": "2026-05-02T07:38:42.614500+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4951405,
+          29.4246002
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.expressnews.com/san-antonio-weather/article/flash-flood-warning-texas-san-antonio-rain-22236070.php",
+        "title": "San Antonio flood warning extended to 3 p.m. More rain on the way",
+        "source": "San Antonio Express-News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-01T13:15:41Z",
+        "url": "https://www.expressnews.com/san-antonio-weather/article/flash-flood-warning-texas-san-antonio-rain-22236070.php",
+        "mention_text": "San Antonio",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Antonio, Bexar County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 253556,
+        "run_at": "2026-05-02T07:38:42.614500+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.797738,
+          26.3011415
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/rain-spreads-across-texas-gulf-193733821.html",
+        "title": "Rain Spreads Across Texas Into Gulf Coast, Raising Flash Flood Concerns",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-01T19:37:33Z",
+        "url": "https://www.yahoo.com/news/videos/rain-spreads-across-texas-gulf-193733821.html",
+        "mention_text": "Gulf Coast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Gulf Coast, Collier County, Florida, 34110, United States",
+        "osm_type": "residential",
+        "osm_id": 10852694,
+        "run_at": "2026-05-02T07:38:42.614500+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://m.economictimes.com/news/international/us/flash-flood-warning-severe-storms-heavy-rainfall-to-hit-texas-louisiana-other-parts-in-u-s/articleshow/130678318.cms",
+        "title": "Flash flood warning: Severe storms, heavy rainfall to hit Texas, Louisiana, other parts in U.S",
+        "source": "The Economic Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-01T12:42:05Z",
+        "url": "https://m.economictimes.com/news/international/us/flash-flood-warning-severe-storms-heavy-rainfall-to-hit-texas-louisiana-other-parts-in-u-s/articleshow/130678318.cms",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-05-02T07:38:42.614500+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.007126,
+          30.8703881
+        ]
+      },
+      "properties": {
+        "article_id": "https://m.economictimes.com/news/international/us/flash-flood-warning-severe-storms-heavy-rainfall-to-hit-texas-louisiana-other-parts-in-u-s/articleshow/130678318.cms",
+        "title": "Flash flood warning: Severe storms, heavy rainfall to hit Texas, Louisiana, other parts in U.S",
+        "source": "The Economic Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-01T12:42:05Z",
+        "url": "https://m.economictimes.com/news/international/us/flash-flood-warning-severe-storms-heavy-rainfall-to-hit-texas-louisiana-other-parts-in-u-s/articleshow/130678318.cms",
+        "mention_text": "Louisiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 224922,
+        "run_at": "2026-05-02T07:38:42.614500+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.445882,
+          39.7837304
+        ]
+      },
+      "properties": {
+        "article_id": "https://m.economictimes.com/news/international/us/flash-flood-warning-severe-storms-heavy-rainfall-to-hit-texas-louisiana-other-parts-in-u-s/articleshow/130678318.cms",
+        "title": "Flash flood warning: Severe storms, heavy rainfall to hit Texas, Louisiana, other parts in U.S",
+        "source": "The Economic Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-01T12:42:05Z",
+        "url": "https://m.economictimes.com/news/international/us/flash-flood-warning-severe-storms-heavy-rainfall-to-hit-texas-louisiana-other-parts-in-u-s/articleshow/130678318.cms",
+        "mention_text": "U.S",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "United States",
+        "osm_type": "administrative",
+        "osm_id": 148838,
+        "run_at": "2026-05-02T07:38:42.614500+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3676974,
+          29.7589382
+        ]
+      },
+      "properties": {
+        "article_id": "https://qazinform.com/news/flash-flood-warning-as-multiple-storm-rounds-target-houston-area-32972b",
+        "title": "Flash flood warning as multiple storm rounds target Houston area",
+        "source": "Qazinform",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-02T07:18:45Z",
+        "url": "https://qazinform.com/news/flash-flood-warning-as-multiple-storm-rounds-target-houston-area-32972b",
+        "mention_text": "Houston",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Houston, Harris County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 2688911,
+        "run_at": "2026-05-02T07:38:42.614500+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4654197,
+          31.4598795
+        ]
+      },
+      "properties": {
+        "article_id": "https://news.az/news/flash-flood-risk-life-threatening-rain-to-hit-central-texas",
+        "title": "Flash flood risk: Life-threatening rain to hit Central Texas",
+        "source": "Latest news from Azerbaijan",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-01T11:14:27Z",
+        "url": "https://news.az/news/flash-flood-risk-life-threatening-rain-to-hit-central-texas",
+        "mention_text": "Central Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, San Angelo, Tom Green County, Texas, 76909, United States",
+        "osm_type": "neighbourhood",
+        "osm_id": 4053740570,
+        "run_at": "2026-05-02T07:38:42.614500+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3676974,
+          29.7589382
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nationalworld.com/news/weather/flash-flood-warning-is-it-in-place-in-the-houston-area-has-george-bush-intercontinental-airport-shut-8456404",
+        "title": "Flash flood warning: Is it in place in the Houston area, has George Bush Intercontinental Airport shut?",
+        "source": "NationalWorld",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-01T21:13:51Z",
+        "url": "https://www.nationalworld.com/news/weather/flash-flood-warning-is-it-in-place-in-the-houston-area-has-george-bush-intercontinental-airport-shut-8456404",
+        "mention_text": "Houston",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Houston, Harris County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 2688911,
+        "run_at": "2026-05-02T07:38:42.614500+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5104781,
+          29.4263987
+        ]
+      },
+      "properties": {
+        "article_id": "https://foxsanantonio.com/news/local/flood-watch-downpours-over-saturated-soils-may-lead-to-flash-flooding-san-antonio-texas-bexar-county",
+        "title": "LIVE | FLASH FLOOD WARNING until 3 p.m. for Bexar County, Southwestern Guadalupe County",
+        "source": "KABB",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-30T20:02:17Z",
+        "url": "https://foxsanantonio.com/news/local/flood-watch-downpours-over-saturated-soils-may-lead-to-flash-flooding-san-antonio-texas-bexar-county",
+        "mention_text": "Bexar County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Bexar County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 92026,
+        "run_at": "2026-05-02T07:38:42.614500+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5104781,
+          29.4263987
+        ]
+      },
+      "properties": {
+        "article_id": "https://news4sanantonio.com/news/local/gallery/flood-watch-downpours-over-saturated-soils-may-lead-to-flash-flooding-san-antonio-texas-rain-rainfall-bexar-county-flash-thunderstorms-training?photo=1",
+        "title": "LIVE | FLASH FLOOD WARNING until noon for Bexar County, Southwestern Guadalupe County",
+        "source": "WOAI",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-30T18:17:24Z",
+        "url": "https://news4sanantonio.com/news/local/gallery/flood-watch-downpours-over-saturated-soils-may-lead-to-flash-flooding-san-antonio-texas-rain-rainfall-bexar-county-flash-thunderstorms-training?photo=1",
+        "mention_text": "Bexar County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Bexar County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 92026,
+        "run_at": "2026-05-02T07:38:42.614500+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6305899,
+          46.4481521
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mlive.com/weather-alerts/2026/05/flood-advisory-in-place-for-marquette-county-until-2-a-m-edt-sunday.html",
+        "title": "Flood advisory in place for Marquette County until 2 a.m. EDT Sunday",
+        "source": "MLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-02T00:45:00Z",
+        "url": "https://www.mlive.com/weather-alerts/2026/05/flood-advisory-in-place-for-marquette-county-until-2-a-m-edt-sunday.html",
+        "mention_text": "Marquette County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Marquette County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1798743,
+        "run_at": "2026-05-02T07:38:42.614500+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.presstelegram.com/2026/04/13/flood-advisory-in-place-for-los-angeles-county-monday-afternoon-triggered-by-prolonged-downpours/",
+        "title": "Flood advisory in place for Los Angeles County Monday afternoon triggered by prolonged downpours",
+        "source": "Long Beach Press-Telegram",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-13T22:14:40Z",
+        "url": "https://www.presstelegram.com/2026/04/13/flood-advisory-in-place-for-los-angeles-county-monday-afternoon-triggered-by-prolonged-downpours/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-05-02T07:38:42.614500+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-05-01T08:17:42.059504+00:00",
-    "total_features": 973
+    "last_updated": "2026-05-02T07:38:42.618702+00:00",
+    "total_features": 992
   }
 }
