@@ -25792,11 +25792,89 @@
         "osm_id": 396479,
         "run_at": "2026-05-02T07:38:42.614500+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8463851,
+          37.1670484
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/miami/news/miami-south-florida-forecast-5-2-2026/",
+        "title": "Near-record high temps across South Florida ahead of rain chances to start the week, including Sunday flash flood chances",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-02T15:04:12Z",
+        "url": "https://www.cbsnews.com/miami/news/miami-south-florida-forecast-5-2-2026/",
+        "mention_text": "South Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South Florida, Columbus, Cherokee County, Kansas, 66725, United States",
+        "osm_type": "residential",
+        "osm_id": 12999746,
+        "run_at": "2026-05-03T08:10:02.422358+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9650274,
+          38.9241769
+        ]
+      },
+      "properties": {
+        "article_id": "https://news4sanantonio.com/news/local/gallery/flood-watch-downpours-over-saturated-soils-may-lead-to-flash-flooding-san-antonio-texas-rain-rainfall-bexar-county-flash-thunderstorms-training?photo=3",
+        "title": "LIVE | FLOOD WATCH until 9 p.m. Friday for much of South Central Texas",
+        "source": "WOAI",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-30T18:18:28Z",
+        "url": "https://news4sanantonio.com/news/local/gallery/flood-watch-downpours-over-saturated-soils-may-lead-to-flash-flooding-san-antonio-texas-rain-rainfall-bexar-county-flash-thunderstorms-training?photo=3",
+        "mention_text": "South Central",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "South Central, Ward 5, Washington, District of Columbia, United States",
+        "osm_type": "neighbourhood",
+        "osm_id": 4636922,
+        "run_at": "2026-05-03T08:10:02.422358+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article315589421.html",
+        "title": "UPDATE: Coastal flood advisory for Coastal Colleton and Charleston County",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-02T22:04:06Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article315589421.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-05-03T08:10:02.422358+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-05-02T07:38:42.618702+00:00",
-    "total_features": 992
+    "last_updated": "2026-05-03T08:10:02.427296+00:00",
+    "total_features": 995
   }
 }
