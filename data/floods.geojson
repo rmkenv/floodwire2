@@ -25870,11 +25870,271 @@
         "osm_id": 1857000,
         "run_at": "2026-05-03T08:10:02.422358+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9598933,
+          36.9303011
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kfvs12.com/2026/05/03/medical-emergency-leads-swift-water-rescue-carter-county-mo/",
+        "title": "Medical emergency leads to swift water rescue in Carter County, Mo.",
+        "source": "KFVS12",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-03T18:00:00Z",
+        "url": "https://www.kfvs12.com/2026/05/03/medical-emergency-leads-swift-water-rescue-carter-county-mo/",
+        "mention_text": "Carter County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Carter County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180454,
+        "run_at": "2026-05-04T08:35:24.520974+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5617875,
+          38.7604815
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kfvs12.com/2026/05/03/medical-emergency-leads-swift-water-rescue-carter-county-mo/",
+        "title": "Medical emergency leads to swift water rescue in Carter County, Mo.",
+        "source": "KFVS12",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-03T18:00:00Z",
+        "url": "https://www.kfvs12.com/2026/05/03/medical-emergency-leads-swift-water-rescue-carter-county-mo/",
+        "mention_text": "Mo.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 161638,
+        "run_at": "2026-05-04T08:35:24.520974+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8463851,
+          37.1670484
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-wh7lq8p8f199mz13",
+        "title": "Cold front pushes south to drench parched South Florida with a flash flood threat",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-03T13:09:32Z",
+        "url": "https://www.foxweather.com/watch/fmc-wh7lq8p8f199mz13",
+        "mention_text": "South Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South Florida, Columbus, Cherokee County, Kansas, 66725, United States",
+        "osm_type": "residential",
+        "osm_id": 12999746,
+        "run_at": "2026-05-04T08:35:24.520974+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9598933,
+          36.9303011
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kfvs12.com/video/2026/05/03/medical-emergency-leads-swift-water-rescue-carter-county-mo/",
+        "title": "Medical emergency leads to swift water rescue in Carter County, Mo.",
+        "source": "KFVS12",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-03T21:53:06Z",
+        "url": "https://www.kfvs12.com/video/2026/05/03/medical-emergency-leads-swift-water-rescue-carter-county-mo/",
+        "mention_text": "Carter County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Carter County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180454,
+        "run_at": "2026-05-04T08:35:24.520974+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5617875,
+          38.7604815
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kfvs12.com/video/2026/05/03/medical-emergency-leads-swift-water-rescue-carter-county-mo/",
+        "title": "Medical emergency leads to swift water rescue in Carter County, Mo.",
+        "source": "KFVS12",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-03T21:53:06Z",
+        "url": "https://www.kfvs12.com/video/2026/05/03/medical-emergency-leads-swift-water-rescue-carter-county-mo/",
+        "mention_text": "Mo.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 161638,
+        "run_at": "2026-05-04T08:35:24.520974+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8463851,
+          37.1670484
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/severe-storms-florida-damaging-wind-isolated-tornado-threat-saturday",
+        "title": "Heavy downpours to soak drought-stricken South Florida as cold front pushes through, raising flash flood risk",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-01T15:36:00Z",
+        "url": "https://www.foxweather.com/weather-news/severe-storms-florida-damaging-wind-isolated-tornado-threat-saturday",
+        "mention_text": "South Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South Florida, Columbus, Cherokee County, Kansas, 66725, United States",
+        "osm_type": "residential",
+        "osm_id": 12999746,
+        "run_at": "2026-05-04T08:35:24.520974+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article315589421.html",
+        "title": "UPDATE: Coastal flood advisory for Coastal Colleton and Charleston County",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-02T22:04:06Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article315589421.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-05-04T08:35:24.520974+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0620347,
+          39.2147095
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kansascity.com/news/weather-news/article315545603.html",
+        "title": "Flood advisory for Leavenworth County until Monday morning caused by significant downpours",
+        "source": "Kansas City Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-27T08:23:05Z",
+        "url": "https://www.kansascity.com/news/weather-news/article315545603.html",
+        "mention_text": "Leavenworth County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Leavenworth County, Kansas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1070403,
+        "run_at": "2026-05-04T08:35:24.520974+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailynews.com/2026/04/12/flood-advisory-active-for-los-angeles-and-ventura-counties-until-sunday-morning-due-to-prolonged-downpours/",
+        "title": "Flood advisory active for Los Angeles and Ventura counties until Sunday morning due to prolonged downpours",
+        "source": "Los Angeles Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T07:00:00Z",
+        "url": "https://www.dailynews.com/2026/04/12/flood-advisory-active-for-los-angeles-and-ventura-counties-until-sunday-morning-due-to-prolonged-downpours/",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-05-04T08:35:24.520974+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0779359,
+          34.4458248
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailynews.com/2026/04/12/flood-advisory-active-for-los-angeles-and-ventura-counties-until-sunday-morning-due-to-prolonged-downpours/",
+        "title": "Flood advisory active for Los Angeles and Ventura counties until Sunday morning due to prolonged downpours",
+        "source": "Los Angeles Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T07:00:00Z",
+        "url": "https://www.dailynews.com/2026/04/12/flood-advisory-active-for-los-angeles-and-ventura-counties-until-sunday-morning-due-to-prolonged-downpours/",
+        "mention_text": "Ventura",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ventura County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396505,
+        "run_at": "2026-05-04T08:35:24.520974+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-05-03T08:10:02.427296+00:00",
-    "total_features": 995
+    "last_updated": "2026-05-04T08:35:24.526111+00:00",
+    "total_features": 1005
   }
 }
