@@ -26130,11 +26130,37 @@
         "osm_id": 396505,
         "run_at": "2026-05-04T08:35:24.520974+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9598933,
+          36.9303011
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ozarkradionews.com/local-news/swift-water-rescue-in-carter-county",
+        "title": "Swift Water Rescue in Carter County",
+        "source": "Ozark Radio News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-04T11:11:58Z",
+        "url": "https://www.ozarkradionews.com/local-news/swift-water-rescue-in-carter-county",
+        "mention_text": "Carter County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Carter County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180454,
+        "run_at": "2026-05-05T08:16:15.907349+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-05-04T08:35:24.526111+00:00",
-    "total_features": 1005
+    "last_updated": "2026-05-05T08:16:15.912710+00:00",
+    "total_features": 1006
   }
 }
