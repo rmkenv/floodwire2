@@ -1,0 +1,119 @@
+name: Flood ETL — Nightly
+
+on:
+  schedule:
+    - cron: "0 6 * * *"       # 06:00 UTC = 02:00 ET nightly
+  workflow_dispatch:
+    inputs:
+      start_date:
+        description: "Start date (YYYY-MM-DD, optional)"
+        required: false
+      end_date:
+        description: "End date (YYYY-MM-DD, optional)"
+        required: false
+      test_mode:
+        description: "Test mode (10 articles, no file writes)"
+        type: boolean
+        default: false
+      skip_screening:
+        description: "Skip LLM screening (faster, less accurate)"
+        type: boolean
+        default: false
+
+jobs:
+  etl:
+    name: Run Flood ETL
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests spacy geopy pyyaml python-dateutil tenacity ollama
+          python -m spacy download en_core_web_sm
+
+      - name: Write config.yaml
+        run: |
+          cat > config.yaml << 'EOF'
+          api:
+            serpapi_key: "${{ secrets.SERPAPI_KEY }}"
+            user_agent: "flood_etl_iqspatial@github_actions"
+            ollama_api_key: "${{ secrets.OLLAMA_API_KEY }}"
+
+          geocoding:
+            rate_limit_sec: 1.0
+            buffer_meters: 300
+            default_state: MD
+            timeout_sec: 15
+
+          screening:
+            rate_limit_sec: 0.5
+
+          etl:
+            lookback_days: 1
+            max_articles: 500
+            log_level: INFO
+            log_file: null
+          EOF
+
+      - name: Run ETL
+        if: ${{ !inputs.test_mode }}
+        run: |
+          ARGS=""
+          if [ -n "${{ inputs.start_date }}" ];  then ARGS="$ARGS --start ${{ inputs.start_date }}"; fi
+          if [ -n "${{ inputs.end_date }}" ];    then ARGS="$ARGS --end ${{ inputs.end_date }}";     fi
+          if [ "${{ inputs.skip_screening }}" = "true" ]; then ARGS="$ARGS --no-screen"; fi
+          python src/main.py $ARGS
+
+      - name: Run ETL (test mode)
+        if: ${{ inputs.test_mode }}
+        run: python src/main.py --test
+
+      - name: Commit data files
+        id: commit
+        if: ${{ !inputs.test_mode }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/floods.geojson data/floods.csv || true
+          if git diff --cached --quiet; then
+            echo "No new flood data — nothing to commit."
+            echo "new_data=false" >> $GITHUB_OUTPUT
+          else
+            DATESTAMP=$(date -u +"%Y-%m-%d")
+            git commit -m "chore: flood ETL update ${DATESTAMP} [skip ci]"
+            git push
+            echo "new_data=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Trigger Vercel redeploy
+        if: ${{ !inputs.test_mode && steps.commit.outputs.new_data == 'true' }}
+        run: |
+          echo "New flood data committed — triggering Vercel redeploy..."
+          curl -s -X POST "${{ secrets.VERCEL_DEPLOY_HOOK_URL }}" | \
+            python3 -c "import sys,json; r=json.load(sys.stdin); print('Deploy triggered:', r.get('job', {}).get('id', r))"
+
+      - name: Run unit tests
+        if: always()
+        run: |
+          pip install pytest -q
+          pytest tests/ -v --tb=short
+
+      - name: Remove config.yaml
+        if: always()
+        run: rm -f config.yaml

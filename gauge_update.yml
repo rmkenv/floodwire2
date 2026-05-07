@@ -1,0 +1,54 @@
+name: Fetch Gauge Data
+on:
+  push:
+    paths:
+      - 'data/floods.geojson'
+      - 'gauge_fetch.py'
+      - 'gauge_flood_join.py'
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+      - name: Run gauge fetch
+        run: python gauge_fetch.py
+      - name: Join gauges to flood events
+        run: python gauge_flood_join.py --radius 50
+      - name: Commit and push changes
+        id: commit
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/gauges_current.json data/gauges_alerts.json data/gauges_history.csv \
+                  data/gauges_current.geojson data/gauges_with_floods.json \
+                  data/gauges_with_floods.csv data/gauges_with_floods.geojson
+          if git diff --cached --quiet; then
+            echo "No gauge changes to commit."
+            echo "new_data=false" >> $GITHUB_OUTPUT
+          else
+            git commit -m "Automated gauge data update [skip ci]"
+            git push
+            echo "new_data=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Trigger Vercel redeploy
+        if: ${{ steps.commit.outputs.new_data == 'true' }}
+        run: |
+          echo "Gauge data updated — triggering Vercel redeploy..."
+          curl -s -X POST "${{ secrets.VERCEL_DEPLOY_HOOK_URL }}" | \
+            python3 -c "import sys,json; r=json.load(sys.stdin); print('Deploy triggered:', r.get('job', {}).get('id', r))"
