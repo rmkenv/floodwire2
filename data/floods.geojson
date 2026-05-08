@@ -26416,11 +26416,115 @@
         "osm_id": 1801531,
         "run_at": "2026-05-07T08:40:09.335537+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4991908,
+          29.431944
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/articles/man-found-dead-san-pedro-191901798.html",
+        "title": "Man found dead in San Pedro Creek during flash flood warning",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-01T19:19:01Z",
+        "url": "https://www.yahoo.com/news/articles/man-found-dead-san-pedro-191901798.html",
+        "mention_text": "San Pedro Creek",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Pedro Creek, Downtown, San Antonio, Bexar County, Texas, 78205, United States",
+        "osm_type": "river",
+        "osm_id": 78546480,
+        "run_at": "2026-05-08T07:36:36.606296+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5475572,
+          46.0142442
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.al.com/weather-alerts/2026/05/flood-advisory-issued-for-southwest-alabama-thursday-morning-triggered-by-significant-rain.html",
+        "title": "Flood advisory issued for Southwest Alabama Thursday morning triggered by significant rain",
+        "source": "AL.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-07T10:49:00Z",
+        "url": "https://www.al.com/weather-alerts/2026/05/flood-advisory-issued-for-southwest-alabama-thursday-morning-triggered-by-significant-rain.html",
+        "mention_text": "Southwest Alabama",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Alabama Street, Northwest, Butte, Silver Bow County, Montana, 59703, United States",
+        "osm_type": "residential",
+        "osm_id": 5804451,
+        "run_at": "2026-05-08T07:36:36.606296+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article315384550.html",
+        "title": "Flood advisory for Los Angeles and Ventura County until Sunday morning",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T13:06:06Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article315384550.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-05-08T07:36:36.606296+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0779359,
+          34.4458248
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article315384550.html",
+        "title": "Flood advisory for Los Angeles and Ventura County until Sunday morning",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T13:06:06Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article315384550.html",
+        "mention_text": "Ventura County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ventura County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396505,
+        "run_at": "2026-05-08T07:36:36.606296+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-05-07T08:40:09.341286+00:00",
-    "total_features": 1016
+    "last_updated": "2026-05-08T07:36:36.611241+00:00",
+    "total_features": 1020
   }
 }
