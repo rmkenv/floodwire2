@@ -26520,11 +26520,297 @@
         "osm_id": 396505,
         "run_at": "2026-05-08T07:36:36.606296+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0733934,
+          29.9561422
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/new-orleans-metro-flash-flood-may-8/71255894",
+        "title": "Flash Flood Warning issued across New Orleans Metro. Watch live coverage",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-08T21:37:00Z",
+        "url": "https://www.wdsu.com/article/new-orleans-metro-flash-flood-may-8/71255894",
+        "mention_text": "New Orleans",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Orleans, Orleans Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 131885,
+        "run_at": "2026-05-09T08:02:17.708086+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0733934,
+          29.9561422
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/video/weather/much-of-new-orleans-metro-under-severe-thunderstorm-and-flash-flood-warnings/289-0d04cda5-1a79-427f-adb5-201fcc470640",
+        "title": "Much of New Orleans metro under severe thunderstorm and flash flood warnings",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-08T21:15:00Z",
+        "url": "https://www.wwltv.com/video/weather/much-of-new-orleans-metro-under-severe-thunderstorm-and-flash-flood-warnings/289-0d04cda5-1a79-427f-adb5-201fcc470640",
+        "mention_text": "New Orleans",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Orleans, Orleans Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 131885,
+        "run_at": "2026-05-09T08:02:17.708086+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0733934,
+          29.9561422
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/weather-impact/severe-thunderstorm-warning-issued-for-tangipahoa-parish/289-19dc1283-da06-4204-b1e3-8a62f193fbd0",
+        "title": "Flash flood warning for much of New Orleans metro area expires",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-08T14:30:00Z",
+        "url": "https://www.wwltv.com/article/weather/weather-impact/severe-thunderstorm-warning-issued-for-tangipahoa-parish/289-19dc1283-da06-4204-b1e3-8a62f193fbd0",
+        "mention_text": "New Orleans",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Orleans, Orleans Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 131885,
+        "run_at": "2026-05-09T08:02:17.708086+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8163816,
+          29.7663907
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theadvocate.com/acadiana/flash-flood-warning-extended-for-portions-of-acadiana/article_1973752b-8ca1-4d97-bb4f-eb195593e2e7.html",
+        "title": "Flash Flood warning extended for portions of Acadiana",
+        "source": "The Advocate",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-08T18:46:00Z",
+        "url": "https://www.theadvocate.com/acadiana/flash-flood-warning-extended-for-portions-of-acadiana/article_1973752b-8ca1-4d97-bb4f-eb195593e2e7.html",
+        "mention_text": "Acadiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Acadiana, 106 , Louisa Drive, Johnson Ridge, Thibodaux, Terrebonne Parish, Louisiana, 70301, United States",
+        "osm_type": "apartments",
+        "osm_id": 3631841493,
+        "run_at": "2026-05-09T08:02:17.708086+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0733934,
+          29.9561422
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nola.com/news/weather/flash-flood-warning-issued-for-new-orleans-area-as-storms-bring-hail-winds-nws-says/article_74e006e5-2394-4096-b330-2e6779e633c5.html",
+        "title": "Flash flood warning issued for New Orleans area as storms bring hail, winds, NWS says",
+        "source": "NOLA.com",
+        "outlet_city": "New Orleans",
+        "outlet_region": "Louisiana",
+        "published_at": "2026-05-08T20:22:00Z",
+        "url": "https://www.nola.com/news/weather/flash-flood-warning-issued-for-new-orleans-area-as-storms-bring-hail-winds-nws-says/article_74e006e5-2394-4096-b330-2e6779e633c5.html",
+        "mention_text": "New Orleans",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Orleans, Orleans Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 131885,
+        "run_at": "2026-05-09T08:02:17.708086+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0733934,
+          29.9561422
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox8live.com/2026/05/08/first-alert-strong-storms-are-likely-this-afternoon-likely-linger-into-weekend/",
+        "title": "FIRST ALERT: Flash flood warning issued for New Orleans metro as heavy storms move in",
+        "source": "fox8live.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-08T16:16:00Z",
+        "url": "https://www.fox8live.com/2026/05/08/first-alert-strong-storms-are-likely-this-afternoon-likely-linger-into-weekend/",
+        "mention_text": "New Orleans",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Orleans, Orleans Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 131885,
+        "run_at": "2026-05-09T08:02:17.708086+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5065944,
+          30.301949
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.montgomeryadvertiser.com/story/weather/2026/05/06/weather-alert/89969711007/",
+        "title": "Flash flood warning issued for Montgomery County",
+        "source": "Montgomery Advertiser",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-06T23:31:00Z",
+        "url": "https://www.montgomeryadvertiser.com/story/weather/2026/05/06/weather-alert/89969711007/",
+        "mention_text": "Montgomery County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Montgomery County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1560394,
+        "run_at": "2026-05-09T08:02:17.708086+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3488201,
+          39.5980987
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nj.com/weather-alerts/2026/04/coastal-flood-advisory-affecting-salem-county-until-1-a-m-thursday.html",
+        "title": "Coastal flood advisory affecting Salem County until 1 a.m. Thursday",
+        "source": "NJ.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-29T07:00:00Z",
+        "url": "https://www.nj.com/weather-alerts/2026/04/coastal-flood-advisory-affecting-salem-county-until-1-a-m-thursday.html",
+        "mention_text": "Salem County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Salem County, New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 1863173,
+        "run_at": "2026-05-09T08:02:17.708086+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7968559,
+          32.7762719
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/articles/cooler-weather-tap-wednesday-north-100300933.html",
+        "title": "Parts of Dallas under flood advisory as strong storms move through the region",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-29T07:00:00Z",
+        "url": "https://www.yahoo.com/news/articles/cooler-weather-tap-wednesday-north-100300933.html",
+        "mention_text": "Dallas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Dallas, Dallas County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 6571629,
+        "run_at": "2026-05-09T08:02:17.708086+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.presstelegram.com/2026/04/12/flood-advisory-active-for-los-angeles-and-ventura-counties-until-sunday-morning-due-to-prolonged-downpours/",
+        "title": "Flood advisory active for Los Angeles and Ventura counties until Sunday morning due to prolonged downpours",
+        "source": "Long Beach Press-Telegram",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T07:00:00Z",
+        "url": "https://www.presstelegram.com/2026/04/12/flood-advisory-active-for-los-angeles-and-ventura-counties-until-sunday-morning-due-to-prolonged-downpours/",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-05-09T08:02:17.708086+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0779359,
+          34.4458248
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.presstelegram.com/2026/04/12/flood-advisory-active-for-los-angeles-and-ventura-counties-until-sunday-morning-due-to-prolonged-downpours/",
+        "title": "Flood advisory active for Los Angeles and Ventura counties until Sunday morning due to prolonged downpours",
+        "source": "Long Beach Press-Telegram",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T07:00:00Z",
+        "url": "https://www.presstelegram.com/2026/04/12/flood-advisory-active-for-los-angeles-and-ventura-counties-until-sunday-morning-due-to-prolonged-downpours/",
+        "mention_text": "Ventura",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ventura County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396505,
+        "run_at": "2026-05-09T08:02:17.708086+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-05-08T07:36:36.611241+00:00",
-    "total_features": 1020
+    "last_updated": "2026-05-09T08:02:17.713319+00:00",
+    "total_features": 1031
   }
 }
