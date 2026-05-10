@@ -26806,11 +26806,115 @@
         "osm_id": 396505,
         "run_at": "2026-05-09T08:02:17.708086+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8163816,
+          29.7663907
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theadvocate.com/acadiana/news/weather_traffic/flash-flood-warning-issued-in-several-acadiana-parishes-saturday-afternoon/article_7ffbea16-7dca-4722-9527-6b0ea853c231.html",
+        "title": "Flash flood warning issued in several Acadiana parishes Saturday afternoon",
+        "source": "The Advocate",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-09T18:31:00Z",
+        "url": "https://www.theadvocate.com/acadiana/news/weather_traffic/flash-flood-warning-issued-in-several-acadiana-parishes-saturday-afternoon/article_7ffbea16-7dca-4722-9527-6b0ea853c231.html",
+        "mention_text": "Acadiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Acadiana, 106 , Louisa Drive, Johnson Ridge, Thibodaux, Terrebonne Parish, Louisiana, 70301, United States",
+        "osm_type": "apartments",
+        "osm_id": 3631841493,
+        "run_at": "2026-05-10T08:13:35.681162+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1869659,
+          30.4494155
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theadvocate.com/baton_rouge/news/weather_traffic/flash-flood-rain-baton-rouge/article_c834b4c2-949e-4945-b1d7-5bff4ae2a1d5.html",
+        "title": "Flash Flood Warning issued for Baton Rouge area, National Weather Service says",
+        "source": "The Advocate",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-09T13:24:00Z",
+        "url": "https://www.theadvocate.com/baton_rouge/news/weather_traffic/flash-flood-rain-baton-rouge/article_c834b4c2-949e-4945-b1d7-5bff4ae2a1d5.html",
+        "mention_text": "Baton Rouge",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Baton Rouge, East Baton Rouge Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 132206,
+        "run_at": "2026-05-10T08:13:35.681162+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0733934,
+          29.9561422
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nola.com/news/new-orleans-metro-area-under-flood-advisory-as-thunderstorms-roll-through-nws-says/article_464739e2-5cc3-4021-8016-2f8f7a32b7fb.html",
+        "title": "New Orleans metro area under flood advisory as thunderstorms roll through, NWS says",
+        "source": "NOLA.com",
+        "outlet_city": "New Orleans",
+        "outlet_region": "Louisiana",
+        "published_at": "2026-05-09T16:23:00Z",
+        "url": "https://www.nola.com/news/new-orleans-metro-area-under-flood-advisory-as-thunderstorms-roll-through-nws-says/article_464739e2-5cc3-4021-8016-2f8f7a32b7fb.html",
+        "mention_text": "New Orleans",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "New Orleans, Orleans Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 131885,
+        "run_at": "2026-05-10T08:13:35.681162+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercedsunstar.com/news/weather-news/article315398251.html",
+        "title": "UPDATE: Flood advisory in place for Los Angeles Monday afternoon due to prolonged downpours",
+        "source": "Merced Sun-Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-13T21:58:06Z",
+        "url": "https://www.mercedsunstar.com/news/weather-news/article315398251.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-05-10T08:13:35.681162+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-05-09T08:02:17.713319+00:00",
-    "total_features": 1031
+    "last_updated": "2026-05-10T08:13:35.687041+00:00",
+    "total_features": 1035
   }
 }
