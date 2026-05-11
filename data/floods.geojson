@@ -26910,11 +26910,115 @@
         "osm_id": 207359,
         "run_at": "2026-05-10T08:13:35.681162+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9588587,
+          30.3031353
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kxan.com/weather/forecast/storms-likely-tonight-some-possibly-severe-for-much-of-central-texas/",
+        "title": "Flash Flood Warning issued for parts of Lee County",
+        "source": "KXAN Austin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-11T04:44:21Z",
+        "url": "https://www.kxan.com/weather/forecast/storms-likely-tonight-some-possibly-severe-for-much-of-central-texas/",
+        "mention_text": "Lee County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lee County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837662,
+        "run_at": "2026-05-11T09:48:15.768920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3936114,
+          30.2226352
+        ]
+      },
+      "properties": {
+        "article_id": "http://www.brenhambanner.com/brenham_banner_press/flood-advisory-issued-for-washington-county-surrounding-areas/article_0cb4c537-efd4-4c94-b6d9-904b3a12cde4.html",
+        "title": "Flood advisory issued for Washington County, surrounding areas | Home | southtexasnews.com",
+        "source": "SouthTexasNews.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-11T03:24:00Z",
+        "url": "http://www.brenhambanner.com/brenham_banner_press/flood-advisory-issued-for-washington-county-surrounding-areas/article_0cb4c537-efd4-4c94-b6d9-904b3a12cde4.html",
+        "mention_text": "Washington County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Washington County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837751,
+        "run_at": "2026-05-11T09:48:15.768920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5104781,
+          29.4263987
+        ]
+      },
+      "properties": {
+        "article_id": "https://foxsanantonio.com/news/local/severe-thunderstorm-watch-covers-bexar-county-and-nearby-areas-through-midnight",
+        "title": "Severe thunderstorm watch cancelled for Bexar County; flood advisory remains",
+        "source": "KABB",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-11T07:28:17Z",
+        "url": "https://foxsanantonio.com/news/local/severe-thunderstorm-watch-covers-bexar-county-and-nearby-areas-through-midnight",
+        "mention_text": "Bexar County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Bexar County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 92026,
+        "run_at": "2026-05-11T09:48:15.768920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3936114,
+          30.2226352
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.southtexasnews.com/brenham_banner_press/flood-advisory-issued-for-washington-county-surrounding-areas/article_0cb4c537-efd4-4c94-b6d9-904b3a12cde4.html",
+        "title": "Flood advisory issued for Washington County, surrounding areas",
+        "source": "SouthTexasNews.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-11T03:24:00Z",
+        "url": "https://www.southtexasnews.com/brenham_banner_press/flood-advisory-issued-for-washington-county-surrounding-areas/article_0cb4c537-efd4-4c94-b6d9-904b3a12cde4.html",
+        "mention_text": "Washington County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Washington County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837751,
+        "run_at": "2026-05-11T09:48:15.768920+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-05-10T08:13:35.687041+00:00",
-    "total_features": 1035
+    "last_updated": "2026-05-11T09:48:15.774234+00:00",
+    "total_features": 1039
   }
 }
