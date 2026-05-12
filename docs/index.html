@@ -157,13 +157,14 @@
     #loader.visible { opacity: 1; }
 
     /* Override cluster colors */
-    .marker-cluster-small  { background-color: rgba(62,182,138,0.25) !important; }
-    .marker-cluster-small div { background-color: rgba(62,182,138,0.6) !important; color: #fff !important; }
-    .marker-cluster-medium { background-color: rgba(232,197,71,0.25) !important; }
-    .marker-cluster-medium div { background-color: rgba(232,197,71,0.6) !important; color: #111 !important; }
-    .marker-cluster-large  { background-color: rgba(224,60,60,0.25) !important; }
-    .marker-cluster-large div { background-color: rgba(224,60,60,0.6) !important; color: #fff !important; }
-    .marker-cluster div { font-family: 'DM Mono', monospace !important; font-size: 0.7rem !important; }
+    /* Clusters: white/steel — neutral, distinct from green/yellow/red legend and purple news dots */
+    .marker-cluster-small  { background-color: rgba(200,210,220,0.15) !important; }
+    .marker-cluster-small div { background-color: rgba(180,195,210,0.75) !important; color: #0d1117 !important; }
+    .marker-cluster-medium { background-color: rgba(140,160,180,0.15) !important; }
+    .marker-cluster-medium div { background-color: rgba(120,145,170,0.8) !important; color: #0d1117 !important; }
+    .marker-cluster-large  { background-color: rgba(80,110,140,0.2) !important; }
+    .marker-cluster-large div { background-color: rgba(60,90,120,0.9) !important; color: #fff !important; }
+    .marker-cluster div { font-family: 'DM Mono', monospace !important; font-size: 0.7rem !important; font-weight: 600 !important; }
   </style>
 </head>
 <body>
