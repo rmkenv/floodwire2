@@ -237,6 +237,14 @@
         <span>Unknown</span>
       </label>
       <div class="legend-sep"></div>
+      <div class="legend-row" style="margin-bottom:0.4rem; font-size:0.65rem; color:var(--muted); text-transform:uppercase; letter-spacing:0.06em;">State Filter</div>
+      <div style="display:flex; gap:0.4rem; align-items:center; margin-bottom:0.1rem;">
+        <select id="state-select" style="flex:1; background:var(--bg); color:var(--text); border:1px solid var(--border); border-radius:4px; font-family:'DM Mono',monospace; font-size:0.65rem; padding:0.25rem 0.4rem; cursor:pointer;">
+          <option value="ALL">All States</option>
+        </select>
+        <button id="state-clear" title="Clear" style="background:none; border:1px solid var(--border); border-radius:4px; color:var(--muted); font-size:0.65rem; padding:0.2rem 0.4rem; cursor:pointer;">✕</button>
+      </div>
+      <div class="legend-sep"></div>
       <div class="legend-row" style="margin-bottom:0.25rem; font-size:0.65rem; color:var(--muted); text-transform:uppercase; letter-spacing:0.06em;">Flood News</div>
       <label class="legend-row filter-row" id="news-24h-row" style="margin-bottom:0;">
         <input type="checkbox" id="news-24h-toggle">
@@ -391,22 +399,23 @@ function buildStateUrl(stateCd, param) {
 let allMarkers = []; // [{marker, bucket}]
 
 function applyFilters() {
-  const active = new Set(
-    [...document.querySelectorAll('.filter-row input:checked')].map(el => el.dataset.bucket)
+  const activeBuckets = new Set(
+    [...document.querySelectorAll('.filter-row input[data-bucket]:checked')].map(el => el.dataset.bucket)
   );
   gaugeCluster.clearLayers();
-  allMarkers.forEach(({ marker, bucket }) => {
-    if (active.has(bucket)) gaugeCluster.addLayer(marker);
+  let visible = 0;
+  allMarkers.forEach(({ marker, bucket, state }) => {
+    const stateOk  = activeStates.size === 0 || activeStates.has(state);
+    const bucketOk = activeBuckets.has(bucket);
+    if (stateOk && bucketOk) { gaugeCluster.addLayer(marker); visible++; }
   });
-  // Update dimmed state on legend rows
-  document.querySelectorAll('.filter-row').forEach(row => {
-    row.classList.toggle('dimmed', !active.has(row.dataset.bucket));
+  document.querySelectorAll('.filter-row[data-bucket]').forEach(row => {
+    row.classList.toggle('dimmed', !activeBuckets.has(row.dataset.bucket));
   });
-  const visible = allMarkers.filter(({ bucket }) => active.has(bucket)).length;
-  statusEl.textContent = visible + ' of ' + allMarkers.length + ' gauges · ' + newsCount + ' news events';
+  statusEl.textContent = visible + ' of ' + allMarkers.length + ' gauges · ' + allNewsMarkers.length + ' news events';
 }
 
-function parseTimeSeries(series, param) {
+function parseTimeSeries(series, param, state) {
   const markers = [];
   series.forEach(ts => {
     const site = ts.sourceInfo;
@@ -442,9 +451,28 @@ function parseTimeSeries(series, param) {
       '<div class="popup-row"><span class="popup-label">Updated</span><span class="popup-val">' + dt + '</span></div>' +
       (siteCode ? '<a class="popup-link" href="https://waterdata.usgs.gov/monitoring-location/' + siteCode + '" target="_blank" rel="noopener">→ USGS page</a>' : '')
     );
-    markers.push({ marker, bucket });
+    markers.push({ marker, bucket, state });
   });
   return markers;
+}
+
+// ── State filter ─────────────────────────────────────────────────────────────
+let activeStates = new Set([]); // empty = all states shown
+
+function applyStateFilter() {
+  const sel = document.getElementById('state-select').value;
+  activeStates = sel === 'ALL' ? new Set([]) : new Set([sel]);
+  const activeBuckets = new Set(
+    [...document.querySelectorAll('.filter-row input[data-bucket]:checked')].map(e => e.dataset.bucket)
+  );
+  gaugeCluster.clearLayers();
+  let visible = 0;
+  allMarkers.forEach(({ marker, bucket, state }) => {
+    const stateOk  = activeStates.size === 0 || activeStates.has(state);
+    const bucketOk = activeBuckets.has(bucket);
+    if (stateOk && bucketOk) { gaugeCluster.addLayer(marker); visible++; }
+  });
+  statusEl.textContent = visible + ' of ' + allMarkers.length + ' gauges · ' + allNewsMarkers.length + ' news events';
 }
 
 async function loadGauges() {
@@ -464,10 +492,11 @@ async function loadGauges() {
       if (!res.ok) return;
       const data   = await res.json();
       const series = data?.value?.timeSeries || [];
-      const marks  = parseTimeSeries(series, param);
+      const marks  = parseTimeSeries(series, param, state);
       marks.forEach(obj => {
         allMarkers.push(obj);
         gaugeCluster.addLayer(obj.marker);
+        if (!activeStates.has(state)) gaugeCluster.removeLayer(obj.marker);
       });
       totalCount += marks.length;
     } catch (e) {
@@ -508,6 +537,19 @@ document.querySelectorAll('.filter-row input[data-bucket]').forEach(cb => {
 
 // Wire up news 24h filter
 document.getElementById('news-24h-toggle').addEventListener('change', applyNewsFilter);
+
+// Populate state dropdown
+const stateSelect = document.getElementById('state-select');
+US_STATES.forEach(s => {
+  const opt = document.createElement('option');
+  opt.value = s; opt.textContent = s;
+  stateSelect.appendChild(opt);
+});
+stateSelect.addEventListener('change', applyStateFilter);
+document.getElementById('state-clear').addEventListener('click', () => {
+  stateSelect.value = 'ALL';
+  applyStateFilter();
+});
 
 loadFloodNews();
 loadGauges();
