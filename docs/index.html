@@ -328,45 +328,59 @@ async function loadGauges() {
   }
 
   const bounds = map.getBounds();
-  const bbox = [
-    bounds.getWest().toFixed(5),
-    bounds.getSouth().toFixed(5),
-    bounds.getEast().toFixed(5),
-    bounds.getNorth().toFixed(5)
-  ].join(',');
+  const west  = bounds.getWest().toFixed(5);
+  const south = bounds.getSouth().toFixed(5);
+  const east  = bounds.getEast().toFixed(5);
+  const north = bounds.getNorth().toFixed(5);
 
-  // Cancel any in-flight fetch
   if (activeFetch) { activeFetch.abort(); activeFetch = null; }
-
   const controller = new AbortController();
   activeFetch = controller;
   loaderEl.classList.add('visible');
 
-  const usgsUrl = 'https://waterservices.usgs.gov/nwis/iv/' +
-    '?format=geojson' +
-    '&bBox=' + bbox +
+  // USGS IV JSON format — works with bBox, returns native JSON (not GeoJSON)
+  // bBox order: west,south,east,north  (note: USGS calls it bBox not bbox)
+  const usgsUrl =
+    'https://waterservices.usgs.gov/nwis/iv/' +
+    '?format=json' +
+    '&bBox=' + west + ',' + south + ',' + east + ',' + north +
     '&parameterCd=' + currentParam +
     '&siteStatus=active' +
     '&period=PT2H';
 
   try {
     const res = await fetch(usgsUrl, { signal: controller.signal });
+    if (!res.ok) throw new Error('USGS ' + res.status);
+    const data = await res.json();
 
-    if (!res.ok) throw new Error(`USGS ${res.status}`);
-    const gj = await res.json();
-    const feats = (gj.features || []).filter(f =>
-      f.geometry?.coordinates && f.properties?.value != null
-    );
-
+    // USGS JSON structure:
+    // data.value.timeSeries[] → each has sourceInfo (site) + values[0].value[0] (latest reading)
+    const series = data?.value?.timeSeries || [];
     gaugeCluster.clearLayers();
 
-    feats.forEach(f => {
-      const [lng, lat] = f.geometry.coordinates;
-      const p = f.properties;
-      const val    = parseFloat(p.value);
-      const bucket = classifyGauge(val);
-      const color  = BUCKET_COLORS[bucket];
-      const unit   = currentParam === '00065' ? 'ft' : 'cfs';
+    series.forEach(ts => {
+      const site   = ts.sourceInfo;
+      const geo    = site?.geoLocation?.geogLocation;
+      if (!geo) return;
+
+      const lat  = parseFloat(geo.latitude);
+      const lng  = parseFloat(geo.longitude);
+      if (isNaN(lat) || isNaN(lng)) return;
+
+      // Latest value
+      const vals     = ts.values?.[0]?.value || [];
+      const latest   = vals[vals.length - 1];
+      const val      = latest ? parseFloat(latest.value) : NaN;
+      const dateTime = latest?.dateTime || null;
+
+      // Skip -999999 sentinel values USGS uses for missing data
+      if (val === -999999 || isNaN(val)) return;
+
+      const bucket   = classifyGauge(val);
+      const color    = BUCKET_COLORS[bucket];
+      const unit     = currentParam === '00065' ? 'ft' : 'cfs';
+      const siteCode = site.siteCode?.[0]?.value || '';
+      const siteName = site.siteName || siteCode || 'USGS Gauge';
 
       const marker = L.circleMarker([lat, lng], {
         radius: 6,
@@ -377,28 +391,25 @@ async function loadGauges() {
         fillOpacity: 0.9
       });
 
-      const dt = p.dateTime
-        ? new Date(p.dateTime).toLocaleString('en-US', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' })
+      const dt = dateTime
+        ? new Date(dateTime).toLocaleString('en-US', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' })
         : '—';
-
-      const siteCode = p.sitecode || p.siteCode || p['site_no'] || '';
-      const siteName = p.siteName || p['station_nm'] || siteCode || 'USGS Gauge';
 
       marker.bindPopup(`
         <div class="popup-title">${escHtml(siteName)}</div>
         <div class="popup-row">
           <span class="popup-label">${currentParam === '00065' ? 'Gage height' : 'Streamflow'}</span>
-          <span class="popup-val" style="color:${color}">${isNaN(val) ? '—' : val.toFixed(2)} ${unit}</span>
+          <span class="popup-val" style="color:${color}">${val.toFixed(2)} ${unit}</span>
         </div>
         <div class="popup-row"><span class="popup-label">Status</span><span class="popup-val">${bucket}</span></div>
         <div class="popup-row"><span class="popup-label">Updated</span><span class="popup-val">${dt}</span></div>
-        ${siteCode ? `<a class="popup-link" href="https://waterdata.usgs.gov/monitoring-location/${siteCode}" target="_blank" rel="noopener">→ USGS monitoring page</a>` : ''}
+        ${siteCode ? `<a class="popup-link" href="https://waterdata.usgs.gov/monitoring-location/${siteCode}" target="_blank" rel="noopener">→ USGS page</a>` : ''}
       `);
 
       gaugeCluster.addLayer(marker);
     });
 
-    setStatus(feats.length, null);
+    setStatus(series.length, null);
   } catch (e) {
     if (e.name === 'AbortError') return;
     console.error('Gauge load error:', e);
