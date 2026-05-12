@@ -1,7 +1,23 @@
 {
-  "framework": "vite",
-  "buildCommand": "npm run build",
-  "outputDirectory": "dist",
-  "installCommand": "npm install",
-  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+  "version": 2,
+  "buildCommand": "",
+  "outputDirectory": "docs",
+  "functions": {
+    "api/gauges.js": {
+      "runtime": "nodejs20.x",
+      "maxDuration": 15
+    }
+  },
+  "rewrites": [
+    { "source": "/api/gauges", "destination": "/api/gauges.js" }
+  ],
+  "headers": [
+    {
+      "source": "/api/(.*)",
+      "headers": [
+        { "key": "Access-Control-Allow-Origin", "value": "*" },
+        { "key": "Access-Control-Allow-Methods", "value": "GET, OPTIONS" }
+      ]
+    }
+  ]
 }
