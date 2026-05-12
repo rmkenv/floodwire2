@@ -1,4 +1,6 @@
 {
   "version": 2,
-  "outputDirectory": "docs"
+  "outputDirectory": "docs",
+  "installCommand": "echo 'no install needed'",
+  "buildCommand": "echo 'no build needed'"
 }
