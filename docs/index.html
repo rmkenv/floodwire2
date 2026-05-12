@@ -237,7 +237,12 @@
         <span>Unknown</span>
       </label>
       <div class="legend-sep"></div>
-      <div class="legend-row"><div class="legend-dot" style="background:var(--c-news)"></div><span>Flood News</span></div>
+      <div class="legend-row" style="margin-bottom:0.25rem; font-size:0.65rem; color:var(--muted); text-transform:uppercase; letter-spacing:0.06em;">Flood News</div>
+      <label class="legend-row filter-row" id="news-24h-row" style="margin-bottom:0;">
+        <input type="checkbox" id="news-24h-toggle">
+        <div class="legend-dot" style="background:var(--c-news)"></div>
+        <span>Last 24 hours only</span>
+      </label>
     </div>
 
     <div id="loader">Fetching gauges…</div>
@@ -278,6 +283,7 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
 
 // ── Layers ────────────────────────────────────────────────────────────────────
 const newsLayer = L.layerGroup().addTo(map);
+let allNewsMarkers = []; // [{marker, ts}] — ts is Date or null
 
 const gaugeCluster = L.markerClusterGroup({
   chunkedLoading: true,
@@ -310,6 +316,21 @@ function classifyGauge(ft) {
 }
 
 // ── Load flood news (once) ────────────────────────────────────────────────────
+function applyNewsFilter() {
+  const only24h = document.getElementById('news-24h-toggle').checked;
+  const cutoff  = Date.now() - 24 * 60 * 60 * 1000;
+  newsLayer.clearLayers();
+  let visible = 0;
+  allNewsMarkers.forEach(({ marker, ts }) => {
+    const show = !only24h || (ts && ts.getTime() >= cutoff);
+    if (show) { newsLayer.addLayer(marker); visible++; }
+  });
+  const label = only24h ? visible + ' news (24h)' : allNewsMarkers.length + ' news events';
+  statusEl.textContent = (allMarkers.length ? allMarkers.filter(({bucket}) =>
+    [...document.querySelectorAll('.filter-row input:checked')].map(e=>e.dataset.bucket).includes(bucket)
+  ).length + ' of ' + allMarkers.length + ' gauges · ' : '') + label;
+}
+
 async function loadFloodNews() {
   try {
     const res   = await fetch(FLOODS_GEOJSON);
@@ -318,13 +339,14 @@ async function loadFloodNews() {
     const feats = gj.features || [];
     feats.forEach(f => {
       const [lng, lat] = f.geometry.coordinates;
-      const p = f.properties;
+      const p  = f.properties;
+      const ts = p.published_at ? new Date(p.published_at) : null;
       const marker = L.circleMarker([lat, lng], {
         radius: 7, fillColor: '#a855f7', color: '#fff',
         weight: 1.5, opacity: 1, fillOpacity: 0.85
       });
-      const dt = p.published_at
-        ? new Date(p.published_at).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })
+      const dt = ts
+        ? ts.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })
         : '—';
       marker.bindPopup(
         '<div class="popup-title">' + escHtml(p.title || 'Flood Event') + '</div>' +
@@ -333,6 +355,7 @@ async function loadFloodNews() {
         '<div class="popup-row"><span class="popup-label">Published</span><span class="popup-val">' + dt + '</span></div>' +
         '<a class="popup-link" href="' + escHtml(p.url || '#') + '" target="_blank" rel="noopener">→ Read article</a>'
       );
+      allNewsMarkers.push({ marker, ts });
       newsLayer.addLayer(marker);
     });
     setStatus(null, feats.length);
@@ -479,9 +502,12 @@ function escHtml(str) {
 
 // ── Boot ──────────────────────────────────────────────────────────────────────
 // Wire up stage filter checkboxes
-document.querySelectorAll('.filter-row input').forEach(cb => {
+document.querySelectorAll('.filter-row input[data-bucket]').forEach(cb => {
   cb.addEventListener('change', applyFilters);
 });
+
+// Wire up news 24h filter
+document.getElementById('news-24h-toggle').addEventListener('change', applyNewsFilter);
 
 loadFloodNews();
 loadGauges();
