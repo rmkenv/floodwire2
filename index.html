@@ -1,14 +1,429 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>FloodWire — US Flood Intelligence</title>
-    <meta name="description" content="Real-time US flood news, USGS/NOAA stream gauge monitoring, and quantitative precipitation forecast integration." />
-  </head>
-  <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.jsx"></script>
-  </body>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FloodWire — Live Flood Intelligence</title>
+
+  <!-- Leaflet -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+  <!-- Leaflet MarkerCluster -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Syne:wght@600;700;800&display=swap" rel="stylesheet" />
+
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:        #0d1117;
+      --surface:   #161b22;
+      --border:    #30363d;
+      --text:      #e6edf3;
+      --muted:     #8b949e;
+      --accent:    #2ea8ff;
+
+      /* Gauge status colors */
+      --c-normal:  #3fb68a;
+      --c-watch:   #e8c547;
+      --c-warning: #f07c3a;
+      --c-major:   #e03c3c;
+      --c-unknown: #555e6b;
+
+      /* Flood news dot */
+      --c-news:    #a855f7;
+    }
+
+    html, body { height: 100%; font-family: 'DM Mono', monospace; background: var(--bg); color: var(--text); }
+
+    /* ── Layout ── */
+    #app { display: flex; flex-direction: column; height: 100vh; }
+
+    /* ── Header ── */
+    header {
+      display: flex; align-items: center; gap: 1rem;
+      padding: 0.6rem 1.2rem;
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      z-index: 1000;
+      flex-shrink: 0;
+    }
+    .logo {
+      font-family: 'Syne', sans-serif;
+      font-weight: 800; font-size: 1.25rem;
+      color: var(--accent); letter-spacing: -0.02em;
+    }
+    .logo span { color: var(--text); }
+
+    .header-badges { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+    .badge {
+      font-size: 0.65rem; font-weight: 500;
+      padding: 0.18rem 0.55rem;
+      border-radius: 99px;
+      border: 1px solid var(--border);
+      background: var(--bg);
+      color: var(--muted);
+      display: flex; align-items: center; gap: 0.35rem;
+    }
+    .badge .dot {
+      width: 7px; height: 7px; border-radius: 50%;
+      display: inline-block; flex-shrink: 0;
+    }
+
+    .header-right { margin-left: auto; display: flex; align-items: center; gap: 0.75rem; }
+
+    /* Param toggle */
+    .param-toggle { display: flex; gap: 0; border: 1px solid var(--border); border-radius: 6px; overflow: hidden; }
+    .param-toggle button {
+      background: var(--bg); border: none; color: var(--muted);
+      font-family: 'DM Mono', monospace; font-size: 0.65rem;
+      padding: 0.3rem 0.65rem; cursor: pointer; transition: all 0.15s;
+    }
+    .param-toggle button.active { background: var(--accent); color: #fff; }
+
+    /* Status pill */
+    #status {
+      font-size: 0.62rem; color: var(--muted);
+      white-space: nowrap;
+    }
+
+    /* ── Map ── */
+    #map { flex: 1; }
+
+    /* ── Legend ── */
+    #legend {
+      position: absolute; bottom: 28px; left: 12px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 0.75rem 1rem;
+      z-index: 500;
+      font-size: 0.65rem;
+      min-width: 160px;
+    }
+    #legend h4 {
+      font-family: 'Syne', sans-serif;
+      font-size: 0.7rem; font-weight: 700;
+      color: var(--accent); margin-bottom: 0.6rem;
+      text-transform: uppercase; letter-spacing: 0.08em;
+    }
+    .legend-row { display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.35rem; }
+    .legend-dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+    .legend-sep { border-top: 1px solid var(--border); margin: 0.5rem 0; }
+
+    /* ── Popup ── */
+    .leaflet-popup-content-wrapper {
+      background: var(--surface) !important;
+      border: 1px solid var(--border) !important;
+      border-radius: 8px !important;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.5) !important;
+      color: var(--text) !important;
+      font-family: 'DM Mono', monospace !important;
+      font-size: 0.78rem !important;
+    }
+    .leaflet-popup-tip { background: var(--surface) !important; }
+    .leaflet-popup-close-button { color: var(--muted) !important; }
+
+    .popup-title {
+      font-family: 'Syne', sans-serif;
+      font-weight: 700; font-size: 0.9rem;
+      color: var(--accent); margin-bottom: 0.5rem;
+      line-height: 1.3;
+    }
+    .popup-row { display: flex; justify-content: space-between; gap: 1rem; margin-bottom: 0.25rem; }
+    .popup-label { color: var(--muted); }
+    .popup-val { color: var(--text); font-weight: 500; }
+    .popup-link {
+      display: inline-block; margin-top: 0.6rem;
+      color: var(--accent); text-decoration: none; font-size: 0.7rem;
+    }
+    .popup-link:hover { text-decoration: underline; }
+
+    /* ── Loader overlay ── */
+    #loader {
+      position: absolute; top: 50%; left: 50%;
+      transform: translate(-50%, -50%);
+      font-family: 'Syne', sans-serif; font-size: 0.8rem;
+      color: var(--muted); z-index: 600;
+      pointer-events: none;
+      opacity: 0; transition: opacity 0.2s;
+    }
+    #loader.visible { opacity: 1; }
+
+    /* Override cluster colors */
+    .marker-cluster-small  { background-color: rgba(62,182,138,0.25) !important; }
+    .marker-cluster-small div { background-color: rgba(62,182,138,0.6) !important; color: #fff !important; }
+    .marker-cluster-medium { background-color: rgba(232,197,71,0.25) !important; }
+    .marker-cluster-medium div { background-color: rgba(232,197,71,0.6) !important; color: #111 !important; }
+    .marker-cluster-large  { background-color: rgba(224,60,60,0.25) !important; }
+    .marker-cluster-large div { background-color: rgba(224,60,60,0.6) !important; color: #fff !important; }
+    .marker-cluster div { font-family: 'DM Mono', monospace !important; font-size: 0.7rem !important; }
+  </style>
+</head>
+<body>
+<div id="app">
+  <header>
+    <div class="logo">Flood<span>Wire</span></div>
+
+    <div class="header-badges">
+      <span class="badge"><span class="dot" style="background:var(--c-news)"></span>Flood News</span>
+      <span class="badge"><span class="dot" style="background:var(--c-normal)"></span>USGS Normal</span>
+      <span class="badge"><span class="dot" style="background:var(--c-watch)"></span>Watch</span>
+      <span class="badge"><span class="dot" style="background:var(--c-warning)"></span>Warning</span>
+      <span class="badge"><span class="dot" style="background:var(--c-major)"></span>Major</span>
+    </div>
+
+    <div class="header-right">
+      <div class="param-toggle">
+        <button class="active" data-param="00065" title="Gage height (ft)">HEIGHT</button>
+        <button data-param="00060" title="Streamflow (cfs)">FLOW</button>
+      </div>
+      <span id="status">Loading…</span>
+    </div>
+  </header>
+
+  <div style="position:relative; flex:1;">
+    <div id="map"></div>
+
+    <div id="legend">
+      <h4>USGS Gauges</h4>
+      <div class="legend-row"><div class="legend-dot" style="background:var(--c-normal)"></div><span>Normal (&lt;5 ft)</span></div>
+      <div class="legend-row"><div class="legend-dot" style="background:var(--c-watch)"></div><span>Watch (5–10 ft)</span></div>
+      <div class="legend-row"><div class="legend-dot" style="background:var(--c-warning)"></div><span>Warning (10–15 ft)</span></div>
+      <div class="legend-row"><div class="legend-dot" style="background:var(--c-major)"></div><span>Major (&gt;15 ft)</span></div>
+      <div class="legend-sep"></div>
+      <div class="legend-row"><div class="legend-dot" style="background:var(--c-news)"></div><span>Flood News</span></div>
+    </div>
+
+    <div id="loader">Fetching gauges…</div>
+  </div>
+</div>
+
+<script>
+// ── Config ────────────────────────────────────────────────────────────────────
+const FLOODS_GEOJSON = 'https://raw.githubusercontent.com/rmkenv/floodwire2/main/data/floods.geojson';
+const GAUGE_API      = '/api/gauges';   // Vercel serverless route
+const DEBOUNCE_MS    = 600;             // Wait after map stops moving
+const MIN_ZOOM_GAUGES = 6;             // Don't fetch gauges when zoomed out past this
+
+// ── Color map ─────────────────────────────────────────────────────────────────
+const BUCKET_COLORS = {
+  normal:  '#3fb68a',
+  watch:   '#e8c547',
+  warning: '#f07c3a',
+  major:   '#e03c3c',
+  unknown: '#555e6b'
+};
+
+// ── Init map ──────────────────────────────────────────────────────────────────
+const map = L.map('map', {
+  center: [38.5, -76.5],
+  zoom: 7,
+  zoomControl: true,
+  preferCanvas: true  // faster for many circle markers
+});
+
+L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+  attribution: '© OpenStreetMap © CARTO',
+  subdomains: 'abcd',
+  maxZoom: 19
+}).addTo(map);
+
+// ── Layers ────────────────────────────────────────────────────────────────────
+// Flood news layer (static, loaded once)
+const newsLayer = L.layerGroup().addTo(map);
+
+// USGS gauges — cluster group (reloaded on map move)
+let gaugeCluster = L.markerClusterGroup({
+  chunkedLoading: true,
+  maxClusterRadius: 40,
+  spiderfyOnMaxZoom: true,
+  showCoverageOnHover: false,
+  disableClusteringAtZoom: 13
+});
+gaugeCluster.addTo(map);
+
+// ── Status / loader helpers ───────────────────────────────────────────────────
+const statusEl = document.getElementById('status');
+const loaderEl = document.getElementById('loader');
+let gaugeCount  = 0;
+let newsCount   = 0;
+
+function setStatus(gaugeN, newsN) {
+  gaugeCount = gaugeN ?? gaugeCount;
+  newsCount  = newsN  ?? newsCount;
+  statusEl.textContent = `${gaugeCount} gauges · ${newsCount} news events`;
+}
+
+// ── Load flood news (once) ────────────────────────────────────────────────────
+async function loadFloodNews() {
+  try {
+    const res = await fetch(FLOODS_GEOJSON);
+    if (!res.ok) throw new Error(res.status);
+    const gj  = await res.json();
+    const feats = gj.features || [];
+
+    feats.forEach(f => {
+      const [lng, lat] = f.geometry.coordinates;
+      const p = f.properties;
+      const marker = L.circleMarker([lat, lng], {
+        radius: 7,
+        fillColor: '#a855f7',
+        color: '#fff',
+        weight: 1.5,
+        opacity: 1,
+        fillOpacity: 0.85
+      });
+
+      const dt = p.published_at
+        ? new Date(p.published_at).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })
+        : '—';
+
+      marker.bindPopup(`
+        <div class="popup-title">${escHtml(p.title || 'Flood Event')}</div>
+        <div class="popup-row"><span class="popup-label">Source</span><span class="popup-val">${escHtml(p.source || '—')}</span></div>
+        <div class="popup-row"><span class="popup-label">Type</span><span class="popup-val">${escHtml(p.flood_type || '—')}</span></div>
+        <div class="popup-row"><span class="popup-label">Published</span><span class="popup-val">${dt}</span></div>
+        <div class="popup-row"><span class="popup-label">Location</span><span class="popup-val">${escHtml(p.mention_text || '—')}</span></div>
+        <a class="popup-link" href="${escHtml(p.url || '#')}" target="_blank" rel="noopener">→ Read article</a>
+      `);
+
+      newsLayer.addLayer(marker);
+    });
+
+    setStatus(null, feats.length);
+  } catch (e) {
+    console.error('Flood news load error:', e);
+    statusEl.textContent = 'News load failed';
+  }
+}
+
+// ── Load USGS gauges (on map move) ───────────────────────────────────────────
+let currentParam = '00065';
+let fetchTimer = null;
+let activeFetch = null;
+
+async function loadGauges() {
+  if (map.getZoom() < MIN_ZOOM_GAUGES) {
+    gaugeCluster.clearLayers();
+    setStatus(0, null);
+    statusEl.textContent += ' · zoom in for gauges';
+    return;
+  }
+
+  const bounds = map.getBounds();
+  const bbox = [
+    bounds.getWest().toFixed(5),
+    bounds.getSouth().toFixed(5),
+    bounds.getEast().toFixed(5),
+    bounds.getNorth().toFixed(5)
+  ].join(',');
+
+  // Cancel any in-flight fetch
+  if (activeFetch) { activeFetch.abort(); activeFetch = null; }
+
+  const controller = new AbortController();
+  activeFetch = controller;
+  loaderEl.classList.add('visible');
+
+  try {
+    const res = await fetch(`${GAUGE_API}?bbox=${bbox}&param=${currentParam}`, {
+      signal: controller.signal
+    });
+
+    if (!res.ok) throw new Error(`API ${res.status}`);
+    const gj = await res.json();
+    const feats = (gj.features || []).filter(f =>
+      f.geometry?.coordinates && f.properties?.value != null
+    );
+
+    gaugeCluster.clearLayers();
+
+    feats.forEach(f => {
+      const [lng, lat] = f.geometry.coordinates;
+      const p = f.properties;
+      const val  = parseFloat(p.value);
+      const bucket = p._floodBucket || 'unknown';
+      const color  = BUCKET_COLORS[bucket];
+      const unit   = currentParam === '00065' ? 'ft' : 'cfs';
+
+      const marker = L.circleMarker([lat, lng], {
+        radius: 6,
+        fillColor: color,
+        color: '#fff',
+        weight: 1,
+        opacity: 1,
+        fillOpacity: 0.9
+      });
+
+      const dt = p.dateTime
+        ? new Date(p.dateTime).toLocaleString('en-US', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' })
+        : '—';
+
+      const siteCode = p.sitecode || p.siteCode || p['site_no'] || '';
+      const siteName = p.siteName || p['station_nm'] || siteCode || 'USGS Gauge';
+
+      marker.bindPopup(`
+        <div class="popup-title">${escHtml(siteName)}</div>
+        <div class="popup-row">
+          <span class="popup-label">${currentParam === '00065' ? 'Gage height' : 'Streamflow'}</span>
+          <span class="popup-val" style="color:${color}">${isNaN(val) ? '—' : val.toFixed(2)} ${unit}</span>
+        </div>
+        <div class="popup-row"><span class="popup-label">Status</span><span class="popup-val">${bucket}</span></div>
+        <div class="popup-row"><span class="popup-label">Updated</span><span class="popup-val">${dt}</span></div>
+        ${siteCode ? `<a class="popup-link" href="https://waterdata.usgs.gov/monitoring-location/${siteCode}" target="_blank" rel="noopener">→ USGS monitoring page</a>` : ''}
+      `);
+
+      gaugeCluster.addLayer(marker);
+    });
+
+    setStatus(feats.length, null);
+  } catch (e) {
+    if (e.name === 'AbortError') return;
+    console.error('Gauge load error:', e);
+    statusEl.textContent = 'Gauge fetch failed';
+  } finally {
+    loaderEl.classList.remove('visible');
+    activeFetch = null;
+  }
+}
+
+function scheduleGaugeFetch() {
+  clearTimeout(fetchTimer);
+  fetchTimer = setTimeout(loadGauges, DEBOUNCE_MS);
+}
+
+// ── Map events ────────────────────────────────────────────────────────────────
+map.on('moveend zoomend', scheduleGaugeFetch);
+
+// ── Param toggle ──────────────────────────────────────────────────────────────
+document.querySelectorAll('.param-toggle button').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.param-toggle button').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    currentParam = btn.dataset.param;
+    loadGauges();
+  });
+});
+
+// ── Utility ───────────────────────────────────────────────────────────────────
+function escHtml(str) {
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+// ── Boot ──────────────────────────────────────────────────────────────────────
+loadFloodNews();
+loadGauges();
+</script>
+</body>
 </html>
