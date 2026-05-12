@@ -2,14 +2,7 @@
   "version": 2,
   "buildCommand": "",
   "outputDirectory": "docs",
-  "functions": {
-    "api/gauges.js": {
-      "maxDuration": 15
-    }
-  },
-  "rewrites": [
-    { "source": "/api/gauges", "destination": "/api/gauges.js" }
-  ],
+  "rewrites": [],
   "headers": [
     {
       "source": "/api/(.*)",
