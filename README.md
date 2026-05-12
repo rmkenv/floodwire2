@@ -4,7 +4,7 @@ Nightly pipeline that finds US flood news, verifies relevance with an LLM, geoco
 
 ---
 
-## How it works
+## How it works:
 
 ```
 SerpAPI Google News  (3 OR-grouped queries = 3 API calls/day)
