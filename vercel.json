@@ -4,7 +4,6 @@
   "outputDirectory": "docs",
   "functions": {
     "api/gauges.js": {
-      "runtime": "nodejs20.x",
       "maxDuration": 15
     }
   },
