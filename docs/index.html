@@ -164,6 +164,23 @@
     .marker-cluster-medium div { background-color: rgba(120,145,170,0.8) !important; color: #0d1117 !important; }
     .marker-cluster-large  { background-color: rgba(80,110,140,0.2) !important; }
     .marker-cluster-large div { background-color: rgba(60,90,120,0.9) !important; color: #fff !important; }
+    /* Filter toggle rows in legend */
+    .filter-row {
+      cursor: pointer;
+      user-select: none;
+      border-radius: 4px;
+      padding: 0.15rem 0.2rem;
+      transition: opacity 0.2s;
+    }
+    .filter-row:hover { background: rgba(255,255,255,0.05); }
+    .filter-row input[type="checkbox"] {
+      width: 11px; height: 11px;
+      accent-color: var(--accent);
+      cursor: pointer;
+      flex-shrink: 0;
+    }
+    .filter-row.dimmed { opacity: 0.4; }
+
     .marker-cluster div { font-family: 'DM Mono', monospace !important; font-size: 0.7rem !important; font-weight: 600 !important; }
   </style>
 </head>
@@ -194,10 +211,31 @@
 
     <div id="legend">
       <h4>USGS Gauges</h4>
-      <div class="legend-row"><div class="legend-dot" style="background:var(--c-normal)"></div><span>Normal (&lt;5 ft)</span></div>
-      <div class="legend-row"><div class="legend-dot" style="background:var(--c-watch)"></div><span>Watch (5–10 ft)</span></div>
-      <div class="legend-row"><div class="legend-dot" style="background:var(--c-warning)"></div><span>Warning (10–15 ft)</span></div>
-      <div class="legend-row"><div class="legend-dot" style="background:var(--c-major)"></div><span>Major (&gt;15 ft)</span></div>
+      <label class="legend-row filter-row" data-bucket="normal">
+        <input type="checkbox" checked data-bucket="normal">
+        <div class="legend-dot" style="background:var(--c-normal)"></div>
+        <span>Normal (&lt;5 ft)</span>
+      </label>
+      <label class="legend-row filter-row" data-bucket="watch">
+        <input type="checkbox" checked data-bucket="watch">
+        <div class="legend-dot" style="background:var(--c-watch)"></div>
+        <span>Watch (5–10 ft)</span>
+      </label>
+      <label class="legend-row filter-row" data-bucket="warning">
+        <input type="checkbox" checked data-bucket="warning">
+        <div class="legend-dot" style="background:var(--c-warning)"></div>
+        <span>Warning (10–15 ft)</span>
+      </label>
+      <label class="legend-row filter-row" data-bucket="major">
+        <input type="checkbox" checked data-bucket="major">
+        <div class="legend-dot" style="background:var(--c-major)"></div>
+        <span>Major (&gt;15 ft)</span>
+      </label>
+      <label class="legend-row filter-row" data-bucket="unknown">
+        <input type="checkbox" checked data-bucket="unknown">
+        <div class="legend-dot" style="background:var(--c-unknown)"></div>
+        <span>Unknown</span>
+      </label>
       <div class="legend-sep"></div>
       <div class="legend-row"><div class="legend-dot" style="background:var(--c-news)"></div><span>Flood News</span></div>
     </div>
@@ -326,6 +364,25 @@ function buildStateUrl(stateCd, param) {
     '&period=PT2H';
 }
 
+// Global marker store for filtering without re-fetching
+let allMarkers = []; // [{marker, bucket}]
+
+function applyFilters() {
+  const active = new Set(
+    [...document.querySelectorAll('.filter-row input:checked')].map(el => el.dataset.bucket)
+  );
+  gaugeCluster.clearLayers();
+  allMarkers.forEach(({ marker, bucket }) => {
+    if (active.has(bucket)) gaugeCluster.addLayer(marker);
+  });
+  // Update dimmed state on legend rows
+  document.querySelectorAll('.filter-row').forEach(row => {
+    row.classList.toggle('dimmed', !active.has(row.dataset.bucket));
+  });
+  const visible = allMarkers.filter(({ bucket }) => active.has(bucket)).length;
+  statusEl.textContent = visible + ' of ' + allMarkers.length + ' gauges · ' + newsCount + ' news events';
+}
+
 function parseTimeSeries(series, param) {
   const markers = [];
   series.forEach(ts => {
@@ -362,12 +419,13 @@ function parseTimeSeries(series, param) {
       '<div class="popup-row"><span class="popup-label">Updated</span><span class="popup-val">' + dt + '</span></div>' +
       (siteCode ? '<a class="popup-link" href="https://waterdata.usgs.gov/monitoring-location/' + siteCode + '" target="_blank" rel="noopener">→ USGS page</a>' : '')
     );
-    markers.push(marker);
+    markers.push({ marker, bucket });
   });
   return markers;
 }
 
 async function loadGauges() {
+  allMarkers = [];
   gaugeCluster.clearLayers();
   loaderEl.classList.add('visible');
   statusEl.textContent = 'Loading gauges (0 / ' + US_STATES.length + ')…';
@@ -384,7 +442,10 @@ async function loadGauges() {
       const data   = await res.json();
       const series = data?.value?.timeSeries || [];
       const marks  = parseTimeSeries(series, param);
-      marks.forEach(m => gaugeCluster.addLayer(m));
+      marks.forEach(obj => {
+        allMarkers.push(obj);
+        gaugeCluster.addLayer(obj.marker);
+      });
       totalCount += marks.length;
     } catch (e) {
       // silently skip failed states
@@ -417,6 +478,11 @@ function escHtml(str) {
 }
 
 // ── Boot ──────────────────────────────────────────────────────────────────────
+// Wire up stage filter checkboxes
+document.querySelectorAll('.filter-row input').forEach(cb => {
+  cb.addEventListener('change', applyFilters);
+});
+
 loadFloodNews();
 loadGauges();
 </script>
