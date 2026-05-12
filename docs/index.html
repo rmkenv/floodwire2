@@ -36,6 +36,13 @@
       --c-major:   #e03c3c;
       --c-unknown: #555e6b;
 
+      /* HEFS exceedance probability colors */
+      --c-hefs-low:    #38bdf8;   /* <10% chance — sky blue */
+      --c-hefs-mod:    #818cf8;   /* 10-25% — indigo */
+      --c-hefs-high:   '#f472b6'; /* 25-50% — pink */
+      --c-hefs-vhigh:  #fb923c;   /* 50-75% — orange */
+      --c-hefs-extreme:#ef4444;   /* >75% — red */
+
       /* Flood news dot */
       --c-news:    #a855f7;
     }
@@ -191,6 +198,7 @@
 
     <div class="header-badges">
       <span class="badge"><span class="dot" style="background:var(--c-news)"></span>Flood News</span>
+      <span class="badge"><span class="dot" style="background:#38bdf8"></span>HEFS Forecast</span>
       <span class="badge"><span class="dot" style="background:var(--c-normal)"></span>USGS Normal</span>
       <span class="badge"><span class="dot" style="background:var(--c-watch)"></span>Watch</span>
       <span class="badge"><span class="dot" style="background:var(--c-warning)"></span>Warning</span>
@@ -236,6 +244,23 @@
         <div class="legend-dot" style="background:var(--c-unknown)"></div>
         <span>Unknown</span>
       </label>
+      <div class="legend-sep"></div>
+      <div class="legend-row" style="margin-bottom:0.25rem; font-size:0.65rem; color:var(--muted); text-transform:uppercase; letter-spacing:0.06em;">HEFS Forecasts</div>
+      <label class="legend-row filter-row" id="hefs-toggle-row" style="margin-bottom:0.25rem;">
+        <input type="checkbox" id="hefs-toggle">
+        <div class="legend-dot" style="background:#38bdf8"></div>
+        <span>Show HEFS sites</span>
+      </label>
+      <div style="font-size:0.6rem; color:var(--muted); margin-bottom:0.35rem; padding-left:1.2rem; line-height:1.4;">
+        ◆ = flood exceedance prob<br>click site for p10/p50/p90
+      </div>
+      <div class="legend-row" style="gap:0.3rem; flex-wrap:wrap; margin-bottom:0.1rem;">
+        <span style="font-size:0.58rem; background:#38bdf8; color:#000; padding:0.1rem 0.35rem; border-radius:3px;">&lt;10%</span>
+        <span style="font-size:0.58rem; background:#818cf8; color:#fff; padding:0.1rem 0.35rem; border-radius:3px;">10-25%</span>
+        <span style="font-size:0.58rem; background:#f472b6; color:#000; padding:0.1rem 0.35rem; border-radius:3px;">25-50%</span>
+        <span style="font-size:0.58rem; background:#fb923c; color:#fff; padding:0.1rem 0.35rem; border-radius:3px;">50-75%</span>
+        <span style="font-size:0.58rem; background:#ef4444; color:#fff; padding:0.1rem 0.35rem; border-radius:3px;">&gt;75%</span>
+      </div>
       <div class="legend-sep"></div>
       <div class="legend-row" style="margin-bottom:0.4rem; font-size:0.65rem; color:var(--muted); text-transform:uppercase; letter-spacing:0.06em;">State Filter</div>
       <div style="display:flex; gap:0.4rem; align-items:center; margin-bottom:0.1rem;">
@@ -529,6 +554,153 @@ function escHtml(str) {
     .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
 
+// ── HEFS Layer ───────────────────────────────────────────────────────────────
+const HEFS_LOCATIONS = 'https://api.water.noaa.gov/hefs/v1/locations/?limit=5000';
+const HEFS_FORECAST  = 'https://api.water.noaa.gov/hefs/v1/forecasts/';
+
+let hefsLayer   = L.layerGroup();   // NOT added to map until toggled on
+let hefsLoaded  = false;
+let hefsLoading = false;
+
+const HEFS_COLORS = {
+  low:     '#38bdf8',
+  mod:     '#818cf8',
+  high:    '#f472b6',
+  vhigh:   '#fb923c',
+  extreme: '#ef4444',
+  unknown: '#94a3b8'
+};
+
+function hefsExceedanceColor(prob) {
+  // prob = 0-100 (percent chance of exceeding flood stage)
+  if (prob === null || prob === undefined || isNaN(prob)) return HEFS_COLORS.unknown;
+  if (prob < 10)  return HEFS_COLORS.low;
+  if (prob < 25)  return HEFS_COLORS.mod;
+  if (prob < 50)  return HEFS_COLORS.high;
+  if (prob < 75)  return HEFS_COLORS.vhigh;
+  return HEFS_COLORS.extreme;
+}
+
+async function fetchHEFSForecast(lid) {
+  // Returns {p10, p50, p90, exceedanceProb} or null
+  try {
+    // Get max-value quantiles — gives peak p10/p50/p90 over 10-day window
+    const url = HEFS_FORECAST + lid + '/quantiles/?type=max&duration=10d';
+    const res = await fetch(url);
+    if (!res.ok) return null;
+    const data = await res.json();
+
+    // Response: {quantiles: [{quantile: 0.1, value: X}, {quantile: 0.5, ...}, ...]}
+    const qs = data?.quantiles || data?.data?.quantiles || [];
+    const find = (q) => {
+      const match = qs.find(x => Math.abs(x.quantile - q) < 0.01);
+      return match ? parseFloat(match.value).toFixed(1) : '—';
+    };
+
+    // Exceedance prob: percent of ensemble members exceeding flood stage
+    // Stored under data.exceedanceProbability or similar
+    const excProb = data?.exceedanceProbability ?? data?.flood_exceedance_probability ?? null;
+
+    return {
+      p10: find(0.1),
+      p50: find(0.5),
+      p90: find(0.9),
+      exceedanceProb: excProb !== null ? Math.round(parseFloat(excProb) * 100) : null,
+      units: data?.units || 'kcfs'
+    };
+  } catch(e) {
+    return null;
+  }
+}
+
+async function loadHEFS() {
+  if (hefsLoaded || hefsLoading) return;
+  hefsLoading = true;
+  statusEl.textContent = 'Loading HEFS forecast sites…';
+
+  try {
+    const res = await fetch(HEFS_LOCATIONS);
+    if (!res.ok) throw new Error('HEFS locations ' + res.status);
+    const data = await res.json();
+
+    // Response shape: {locations: [{lid, name, latitude, longitude, ...}]}
+    // or array directly
+    const locs = Array.isArray(data) ? data : (data.locations || data.data || []);
+
+    locs.forEach(loc => {
+      const lat = parseFloat(loc.latitude  || loc.lat);
+      const lng = parseFloat(loc.longitude || loc.lon || loc.lng);
+      const lid = loc.lid || loc.id || loc.locationId;
+      const name = loc.name || loc.locationName || lid || 'HEFS Site';
+      if (isNaN(lat) || isNaN(lng) || !lid) return;
+
+      // Diamond marker via rotated square div icon
+      const icon = L.divIcon({
+        className: '',
+        html: '<div style="width:10px;height:10px;background:#38bdf8;border:1.5px solid #fff;transform:rotate(45deg);opacity:0.9;"></div>',
+        iconSize: [10, 10],
+        iconAnchor: [5, 5]
+      });
+
+      const marker = L.marker([lat, lng], { icon });
+
+      // Popup: lazy-load forecast on click
+      marker.on('click', async () => {
+        marker.bindPopup(
+          '<div class="popup-title">' + escHtml(name) + '</div>' +
+          '<div style="color:var(--muted);font-size:0.7rem;">Loading HEFS forecast…</div>'
+        ).openPopup();
+
+        const fc = await fetchHEFSForecast(lid);
+        const prob = fc?.exceedanceProb;
+        const color = hefsExceedanceColor(prob);
+        const units = fc?.units || '';
+
+        // Update diamond color
+        marker.setIcon(L.divIcon({
+          className: '',
+          html: '<div style="width:10px;height:10px;background:' + color + ';border:1.5px solid #fff;transform:rotate(45deg);opacity:0.9;"></div>',
+          iconSize: [10, 10],
+          iconAnchor: [5, 5]
+        }));
+
+        const probStr = prob !== null && prob !== undefined ? prob + '%' : '—';
+        marker.setPopupContent(
+          '<div class="popup-title">' + escHtml(name) + '</div>' +
+          '<div style="font-size:0.65rem;color:var(--muted);margin-bottom:0.4rem;">HEFS 10-day Ensemble Forecast</div>' +
+          '<div class="popup-row"><span class="popup-label">Flood Exceedance</span><span class="popup-val" style="color:' + color + '">' + probStr + '</span></div>' +
+          '<div class="popup-row"><span class="popup-label">p10 (low)</span><span class="popup-val">' + (fc?.p10 || '—') + ' ' + units + '</span></div>' +
+          '<div class="popup-row"><span class="popup-label">p50 (median)</span><span class="popup-val">' + (fc?.p50 || '—') + ' ' + units + '</span></div>' +
+          '<div class="popup-row"><span class="popup-label">p90 (high)</span><span class="popup-val">' + (fc?.p90 || '—') + ' ' + units + '</span></div>' +
+          '<div class="popup-row"><span class="popup-label">Location ID</span><span class="popup-val">' + escHtml(lid) + '</span></div>' +
+          '<a class="popup-link" href="https://water.noaa.gov/gauges/' + encodeURIComponent(lid) + '" target="_blank" rel="noopener">→ NWPS page</a>'
+        );
+        marker.openPopup();
+      });
+
+      hefsLayer.addLayer(marker);
+    });
+
+    hefsLoaded  = true;
+    hefsLoading = false;
+    statusEl.textContent = locs.length + ' HEFS sites loaded';
+  } catch(e) {
+    console.error('HEFS load error:', e);
+    statusEl.textContent = 'HEFS load failed — ' + e.message;
+    hefsLoading = false;
+  }
+}
+
+function toggleHEFS() {
+  const on = document.getElementById('hefs-toggle').checked;
+  if (on) {
+    hefsLayer.addTo(map);
+    loadHEFS();
+  } else {
+    map.removeLayer(hefsLayer);
+  }
+}
+
 // ── Boot ──────────────────────────────────────────────────────────────────────
 // Wire up stage filter checkboxes
 document.querySelectorAll('.filter-row input[data-bucket]').forEach(cb => {
@@ -550,6 +722,8 @@ document.getElementById('state-clear').addEventListener('click', () => {
   stateSelect.value = 'ALL';
   applyStateFilter();
 });
+
+document.getElementById('hefs-toggle').addEventListener('change', toggleHEFS);
 
 loadFloodNews();
 loadGauges();
