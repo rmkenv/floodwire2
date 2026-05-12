@@ -207,10 +207,11 @@
 
 <script>
 // ── Config ────────────────────────────────────────────────────────────────────
-const FLOODS_GEOJSON = 'https://raw.githubusercontent.com/rmkenv/floodwire2/main/data/floods.geojson';
-const GAUGE_API      = '/api/gauges';   // Vercel serverless route
-const DEBOUNCE_MS    = 600;             // Wait after map stops moving
-const MIN_ZOOM_GAUGES = 6;             // Don't fetch gauges when zoomed out past this
+const FLOODS_GEOJSON  = 'https://raw.githubusercontent.com/rmkenv/floodwire2/main/data/floods.geojson';
+// USGS IV service supports CORS — call directly from the browser, no proxy needed
+const USGS_IV_BASE    = 'https://waterservices.usgs.gov/nwis/iv/';
+const DEBOUNCE_MS     = 600;
+const MIN_ZOOM_GAUGES = 6;
 
 // ── Color map ─────────────────────────────────────────────────────────────────
 const BUCKET_COLORS = {
@@ -304,6 +305,15 @@ async function loadFloodNews() {
   }
 }
 
+// ── Gauge classification (client-side) ───────────────────────────────────────
+function classifyGauge(ft) {
+  if (isNaN(ft) || ft === null || ft < 0) return 'unknown';
+  if (ft < 5)  return 'normal';
+  if (ft < 10) return 'watch';
+  if (ft < 15) return 'warning';
+  return 'major';
+}
+
 // ── Load USGS gauges (on map move) ───────────────────────────────────────────
 let currentParam = '00065';
 let fetchTimer = null;
@@ -332,12 +342,17 @@ async function loadGauges() {
   activeFetch = controller;
   loaderEl.classList.add('visible');
 
-  try {
-    const res = await fetch(`${GAUGE_API}?bbox=${bbox}&param=${currentParam}`, {
-      signal: controller.signal
-    });
+  const usgsUrl = 'https://waterservices.usgs.gov/nwis/iv/' +
+    '?format=geojson' +
+    '&bBox=' + bbox +
+    '&parameterCd=' + currentParam +
+    '&siteStatus=active' +
+    '&period=PT2H';
 
-    if (!res.ok) throw new Error(`API ${res.status}`);
+  try {
+    const res = await fetch(usgsUrl, { signal: controller.signal });
+
+    if (!res.ok) throw new Error(`USGS ${res.status}`);
     const gj = await res.json();
     const feats = (gj.features || []).filter(f =>
       f.geometry?.coordinates && f.properties?.value != null
@@ -348,8 +363,8 @@ async function loadGauges() {
     feats.forEach(f => {
       const [lng, lat] = f.geometry.coordinates;
       const p = f.properties;
-      const val  = parseFloat(p.value);
-      const bucket = p._floodBucket || 'unknown';
+      const val    = parseFloat(p.value);
+      const bucket = classifyGauge(val);
       const color  = BUCKET_COLORS[bucket];
       const unit   = currentParam === '00065' ? 'ft' : 'cfs';
 
