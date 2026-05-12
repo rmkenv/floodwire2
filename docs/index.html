@@ -207,11 +207,12 @@
 
 <script>
 // ── Config ────────────────────────────────────────────────────────────────────
-const FLOODS_GEOJSON  = 'https://raw.githubusercontent.com/rmkenv/floodwire2/main/data/floods.geojson';
-// USGS IV service supports CORS — call directly from the browser, no proxy needed
-const USGS_IV_BASE    = 'https://waterservices.usgs.gov/nwis/iv/';
-const DEBOUNCE_MS     = 600;
-const MIN_ZOOM_GAUGES = 6;
+const FLOODS_GEOJSON = 'https://raw.githubusercontent.com/rmkenv/floodwire2/main/data/floods.geojson';
+// National fetch — all active USGS stream gauges, gage height, last 2 hours
+// ~8-10k sites; USGS IV supports CORS so we call directly from the browser
+const USGS_NATIONAL  =
+  'https://waterservices.usgs.gov/nwis/iv/' +
+  '?format=json&parameterCd=00065&siteStatus=active&siteType=ST&period=PT2H';
 
 // ── Color map ─────────────────────────────────────────────────────────────────
 const BUCKET_COLORS = {
@@ -224,209 +225,157 @@ const BUCKET_COLORS = {
 
 // ── Init map ──────────────────────────────────────────────────────────────────
 const map = L.map('map', {
-  center: [38.5, -76.5],
-  zoom: 7,
+  center: [38.5, -92.0],   // center of CONUS
+  zoom: 4,
   zoomControl: true,
-  preferCanvas: true  // faster for many circle markers
+  preferCanvas: true        // faster for ~10k circle markers
 });
 
 L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-  attribution: '© OpenStreetMap © CARTO',
+  attribution: '&copy; OpenStreetMap &copy; CARTO',
   subdomains: 'abcd',
   maxZoom: 19
 }).addTo(map);
 
 // ── Layers ────────────────────────────────────────────────────────────────────
-// Flood news layer (static, loaded once)
 const newsLayer = L.layerGroup().addTo(map);
 
-// USGS gauges — cluster group (reloaded on map move)
-let gaugeCluster = L.markerClusterGroup({
+const gaugeCluster = L.markerClusterGroup({
   chunkedLoading: true,
-  maxClusterRadius: 40,
+  maxClusterRadius: 50,
   spiderfyOnMaxZoom: true,
   showCoverageOnHover: false,
-  disableClusteringAtZoom: 13
+  disableClusteringAtZoom: 10
 });
 gaugeCluster.addTo(map);
 
-// ── Status / loader helpers ───────────────────────────────────────────────────
+// ── Status helpers ────────────────────────────────────────────────────────────
 const statusEl = document.getElementById('status');
 const loaderEl = document.getElementById('loader');
-let gaugeCount  = 0;
-let newsCount   = 0;
+let gaugeCount = 0;
+let newsCount  = 0;
 
 function setStatus(gaugeN, newsN) {
-  gaugeCount = gaugeN ?? gaugeCount;
-  newsCount  = newsN  ?? newsCount;
-  statusEl.textContent = `${gaugeCount} gauges · ${newsCount} news events`;
+  if (gaugeN != null) gaugeCount = gaugeN;
+  if (newsN  != null) newsCount  = newsN;
+  statusEl.textContent = gaugeCount + ' gauges · ' + newsCount + ' news events';
 }
 
-// ── Load flood news (once) ────────────────────────────────────────────────────
-async function loadFloodNews() {
-  try {
-    const res = await fetch(FLOODS_GEOJSON);
-    if (!res.ok) throw new Error(res.status);
-    const gj  = await res.json();
-    const feats = gj.features || [];
-
-    feats.forEach(f => {
-      const [lng, lat] = f.geometry.coordinates;
-      const p = f.properties;
-      const marker = L.circleMarker([lat, lng], {
-        radius: 7,
-        fillColor: '#a855f7',
-        color: '#fff',
-        weight: 1.5,
-        opacity: 1,
-        fillOpacity: 0.85
-      });
-
-      const dt = p.published_at
-        ? new Date(p.published_at).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })
-        : '—';
-
-      marker.bindPopup(`
-        <div class="popup-title">${escHtml(p.title || 'Flood Event')}</div>
-        <div class="popup-row"><span class="popup-label">Source</span><span class="popup-val">${escHtml(p.source || '—')}</span></div>
-        <div class="popup-row"><span class="popup-label">Type</span><span class="popup-val">${escHtml(p.flood_type || '—')}</span></div>
-        <div class="popup-row"><span class="popup-label">Published</span><span class="popup-val">${dt}</span></div>
-        <div class="popup-row"><span class="popup-label">Location</span><span class="popup-val">${escHtml(p.mention_text || '—')}</span></div>
-        <a class="popup-link" href="${escHtml(p.url || '#')}" target="_blank" rel="noopener">→ Read article</a>
-      `);
-
-      newsLayer.addLayer(marker);
-    });
-
-    setStatus(null, feats.length);
-  } catch (e) {
-    console.error('Flood news load error:', e);
-    statusEl.textContent = 'News load failed';
-  }
-}
-
-// ── Gauge classification (client-side) ───────────────────────────────────────
+// ── Gauge classification ──────────────────────────────────────────────────────
 function classifyGauge(ft) {
-  if (isNaN(ft) || ft === null || ft < 0) return 'unknown';
+  if (isNaN(ft) || ft < 0) return 'unknown';
   if (ft < 5)  return 'normal';
   if (ft < 10) return 'watch';
   if (ft < 15) return 'warning';
   return 'major';
 }
 
-// ── Load USGS gauges (on map move) ───────────────────────────────────────────
+// ── Load flood news (once) ────────────────────────────────────────────────────
+async function loadFloodNews() {
+  try {
+    const res  = await fetch(FLOODS_GEOJSON);
+    if (!res.ok) throw new Error(res.status);
+    const gj   = await res.json();
+    const feats = gj.features || [];
+
+    feats.forEach(f => {
+      const [lng, lat] = f.geometry.coordinates;
+      const p = f.properties;
+      const marker = L.circleMarker([lat, lng], {
+        radius: 7, fillColor: '#a855f7', color: '#fff',
+        weight: 1.5, opacity: 1, fillOpacity: 0.85
+      });
+      const dt = p.published_at
+        ? new Date(p.published_at).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })
+        : '—';
+      marker.bindPopup(
+        '<div class="popup-title">' + escHtml(p.title || 'Flood Event') + '</div>' +
+        '<div class="popup-row"><span class="popup-label">Source</span><span class="popup-val">' + escHtml(p.source || '—') + '</span></div>' +
+        '<div class="popup-row"><span class="popup-label">Type</span><span class="popup-val">' + escHtml(p.flood_type || '—') + '</span></div>' +
+        '<div class="popup-row"><span class="popup-label">Published</span><span class="popup-val">' + dt + '</span></div>' +
+        '<a class="popup-link" href="' + escHtml(p.url || '#') + '" target="_blank" rel="noopener">→ Read article</a>'
+      );
+      newsLayer.addLayer(marker);
+    });
+    setStatus(null, feats.length);
+  } catch (e) {
+    console.error('Flood news error:', e);
+  }
+}
+
+// ── Load ALL USGS gauges nationally (once on boot, reload on param switch) ───
 let currentParam = '00065';
-let fetchTimer = null;
-let activeFetch = null;
 
 async function loadGauges() {
-  if (map.getZoom() < MIN_ZOOM_GAUGES) {
-    gaugeCluster.clearLayers();
-    setStatus(0, null);
-    statusEl.textContent += ' · zoom in for gauges';
-    return;
-  }
-
-  const bounds = map.getBounds();
-  const west  = bounds.getWest().toFixed(5);
-  const south = bounds.getSouth().toFixed(5);
-  const east  = bounds.getEast().toFixed(5);
-  const north = bounds.getNorth().toFixed(5);
-
-  if (activeFetch) { activeFetch.abort(); activeFetch = null; }
-  const controller = new AbortController();
-  activeFetch = controller;
+  gaugeCluster.clearLayers();
   loaderEl.classList.add('visible');
+  statusEl.textContent = 'Loading gauges…';
 
-  // USGS IV JSON format — works with bBox, returns native JSON (not GeoJSON)
-  // bBox order: west,south,east,north  (note: USGS calls it bBox not bbox)
-  const usgsUrl =
-    'https://waterservices.usgs.gov/nwis/iv/' +
+  const url = 'https://waterservices.usgs.gov/nwis/iv/' +
     '?format=json' +
-    '&bBox=' + west + ',' + south + ',' + east + ',' + north +
     '&parameterCd=' + currentParam +
     '&siteStatus=active' +
+    '&siteType=ST' +
     '&period=PT2H';
 
   try {
-    const res = await fetch(usgsUrl, { signal: controller.signal });
-    if (!res.ok) throw new Error('USGS ' + res.status);
+    const res = await fetch(url);
+    if (!res.ok) throw new Error('USGS HTTP ' + res.status);
     const data = await res.json();
 
-    // USGS JSON structure:
-    // data.value.timeSeries[] → each has sourceInfo (site) + values[0].value[0] (latest reading)
     const series = data?.value?.timeSeries || [];
-    gaugeCluster.clearLayers();
+    let count = 0;
 
     series.forEach(ts => {
-      const site   = ts.sourceInfo;
-      const geo    = site?.geoLocation?.geogLocation;
+      const site = ts.sourceInfo;
+      const geo  = site?.geoLocation?.geogLocation;
       if (!geo) return;
 
-      const lat  = parseFloat(geo.latitude);
-      const lng  = parseFloat(geo.longitude);
+      const lat = parseFloat(geo.latitude);
+      const lng = parseFloat(geo.longitude);
       if (isNaN(lat) || isNaN(lng)) return;
 
-      // Latest value
-      const vals     = ts.values?.[0]?.value || [];
-      const latest   = vals[vals.length - 1];
-      const val      = latest ? parseFloat(latest.value) : NaN;
-      const dateTime = latest?.dateTime || null;
+      const vals   = ts.values?.[0]?.value || [];
+      const latest = vals[vals.length - 1];
+      const val    = latest ? parseFloat(latest.value) : NaN;
+      if (isNaN(val) || val === -999999) return;
 
-      // Skip -999999 sentinel values USGS uses for missing data
-      if (val === -999999 || isNaN(val)) return;
-
-      const bucket   = classifyGauge(val);
-      const color    = BUCKET_COLORS[bucket];
-      const unit     = currentParam === '00065' ? 'ft' : 'cfs';
-      const siteCode = site.siteCode?.[0]?.value || '';
-      const siteName = site.siteName || siteCode || 'USGS Gauge';
-
-      const marker = L.circleMarker([lat, lng], {
-        radius: 6,
-        fillColor: color,
-        color: '#fff',
-        weight: 1,
-        opacity: 1,
-        fillOpacity: 0.9
-      });
-
+      const bucket    = classifyGauge(val);
+      const color     = BUCKET_COLORS[bucket];
+      const unit      = currentParam === '00065' ? 'ft' : 'cfs';
+      const siteCode  = site.siteCode?.[0]?.value || '';
+      const siteName  = site.siteName || siteCode || 'USGS Gauge';
+      const dateTime  = latest?.dateTime || null;
       const dt = dateTime
         ? new Date(dateTime).toLocaleString('en-US', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' })
         : '—';
 
-      marker.bindPopup(`
-        <div class="popup-title">${escHtml(siteName)}</div>
-        <div class="popup-row">
-          <span class="popup-label">${currentParam === '00065' ? 'Gage height' : 'Streamflow'}</span>
-          <span class="popup-val" style="color:${color}">${val.toFixed(2)} ${unit}</span>
-        </div>
-        <div class="popup-row"><span class="popup-label">Status</span><span class="popup-val">${bucket}</span></div>
-        <div class="popup-row"><span class="popup-label">Updated</span><span class="popup-val">${dt}</span></div>
-        ${siteCode ? `<a class="popup-link" href="https://waterdata.usgs.gov/monitoring-location/${siteCode}" target="_blank" rel="noopener">→ USGS page</a>` : ''}
-      `);
+      const marker = L.circleMarker([lat, lng], {
+        radius: 5, fillColor: color, color: '#fff',
+        weight: 1, opacity: 1, fillOpacity: 0.9
+      });
+
+      marker.bindPopup(
+        '<div class="popup-title">' + escHtml(siteName) + '</div>' +
+        '<div class="popup-row"><span class="popup-label">' + (currentParam === '00065' ? 'Gage height' : 'Streamflow') + '</span>' +
+        '<span class="popup-val" style="color:' + color + '">' + val.toFixed(2) + ' ' + unit + '</span></div>' +
+        '<div class="popup-row"><span class="popup-label">Status</span><span class="popup-val">' + bucket + '</span></div>' +
+        '<div class="popup-row"><span class="popup-label">Updated</span><span class="popup-val">' + dt + '</span></div>' +
+        (siteCode ? '<a class="popup-link" href="https://waterdata.usgs.gov/monitoring-location/' + siteCode + '" target="_blank" rel="noopener">→ USGS page</a>' : '')
+      );
 
       gaugeCluster.addLayer(marker);
+      count++;
     });
 
-    setStatus(series.length, null);
+    setStatus(count, null);
   } catch (e) {
-    if (e.name === 'AbortError') return;
     console.error('Gauge load error:', e);
-    statusEl.textContent = 'Gauge fetch failed';
+    statusEl.textContent = 'Gauge fetch failed — ' + e.message;
   } finally {
     loaderEl.classList.remove('visible');
-    activeFetch = null;
   }
 }
-
-function scheduleGaugeFetch() {
-  clearTimeout(fetchTimer);
-  fetchTimer = setTimeout(loadGauges, DEBOUNCE_MS);
-}
-
-// ── Map events ────────────────────────────────────────────────────────────────
-map.on('moveend zoomend', scheduleGaugeFetch);
 
 // ── Param toggle ──────────────────────────────────────────────────────────────
 document.querySelectorAll('.param-toggle button').forEach(btn => {
@@ -441,10 +390,8 @@ document.querySelectorAll('.param-toggle button').forEach(btn => {
 // ── Utility ───────────────────────────────────────────────────────────────────
 function escHtml(str) {
   return String(str)
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;');
+    .replace(/&/g, '&amp;').replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
 
 // ── Boot ──────────────────────────────────────────────────────────────────────
