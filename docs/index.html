@@ -273,11 +273,10 @@ function classifyGauge(ft) {
 // ── Load flood news (once) ────────────────────────────────────────────────────
 async function loadFloodNews() {
   try {
-    const res  = await fetch(FLOODS_GEOJSON);
+    const res   = await fetch(FLOODS_GEOJSON);
     if (!res.ok) throw new Error(res.status);
-    const gj   = await res.json();
+    const gj    = await res.json();
     const feats = gj.features || [];
-
     feats.forEach(f => {
       const [lng, lat] = f.geometry.coordinates;
       const p = f.properties;
@@ -303,77 +302,100 @@ async function loadFloodNews() {
   }
 }
 
-// ── Load ALL USGS gauges nationally (once on boot, reload on param switch) ───
+// ── Load ALL USGS gauges — fetch each state in parallel ───────────────────────
+// The USGS IV service requires a "major filter" (stateCd, bBox, or sites list).
+// A bare national query returns HTTP 400. Solution: fan out across all 50 states.
+const US_STATES = [
+  'AL','AK','AZ','AR','CA','CO','CT','DE','FL','GA',
+  'HI','ID','IL','IN','IA','KS','KY','LA','ME','MD',
+  'MA','MI','MN','MS','MO','MT','NE','NV','NH','NJ',
+  'NM','NY','NC','ND','OH','OK','OR','PA','RI','SC',
+  'SD','TN','TX','UT','VT','VA','WA','WV','WI','WY',
+  'PR','VI','GU'  // territories
+];
+
 let currentParam = '00065';
+
+function buildStateUrl(stateCd, param) {
+  return 'https://waterservices.usgs.gov/nwis/iv/' +
+    '?format=json' +
+    '&stateCd=' + stateCd +
+    '&parameterCd=' + param +
+    '&siteStatus=active' +
+    '&period=PT2H';
+}
+
+function parseTimeSeries(series, param) {
+  const markers = [];
+  series.forEach(ts => {
+    const site = ts.sourceInfo;
+    const geo  = site?.geoLocation?.geogLocation;
+    if (!geo) return;
+    const lat = parseFloat(geo.latitude);
+    const lng = parseFloat(geo.longitude);
+    if (isNaN(lat) || isNaN(lng)) return;
+
+    const vals   = ts.values?.[0]?.value || [];
+    const latest = vals[vals.length - 1];
+    const val    = latest ? parseFloat(latest.value) : NaN;
+    if (isNaN(val) || val === -999999) return;
+
+    const bucket   = classifyGauge(val);
+    const color    = BUCKET_COLORS[bucket];
+    const unit     = param === '00065' ? 'ft' : 'cfs';
+    const siteCode = site.siteCode?.[0]?.value || '';
+    const siteName = site.siteName || siteCode || 'USGS Gauge';
+    const dt = latest?.dateTime
+      ? new Date(latest.dateTime).toLocaleString('en-US', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' })
+      : '—';
+
+    const marker = L.circleMarker([lat, lng], {
+      radius: 5, fillColor: color, color: '#fff',
+      weight: 1, opacity: 1, fillOpacity: 0.9
+    });
+    marker.bindPopup(
+      '<div class="popup-title">' + escHtml(siteName) + '</div>' +
+      '<div class="popup-row"><span class="popup-label">' + (param === '00065' ? 'Gage height' : 'Streamflow') + '</span>' +
+      '<span class="popup-val" style="color:' + color + '">' + val.toFixed(2) + ' ' + unit + '</span></div>' +
+      '<div class="popup-row"><span class="popup-label">Status</span><span class="popup-val">' + bucket + '</span></div>' +
+      '<div class="popup-row"><span class="popup-label">Updated</span><span class="popup-val">' + dt + '</span></div>' +
+      (siteCode ? '<a class="popup-link" href="https://waterdata.usgs.gov/monitoring-location/' + siteCode + '" target="_blank" rel="noopener">→ USGS page</a>' : '')
+    );
+    markers.push(marker);
+  });
+  return markers;
+}
 
 async function loadGauges() {
   gaugeCluster.clearLayers();
   loaderEl.classList.add('visible');
-  statusEl.textContent = 'Loading gauges…';
+  statusEl.textContent = 'Loading gauges (0 / ' + US_STATES.length + ')…';
 
-  const url = 'https://waterservices.usgs.gov/nwis/iv/' +
-    '?format=json' +
-    '&parameterCd=' + currentParam +
-    '&siteStatus=active' +
-    '&period=PT2H';
+  const param = currentParam;
+  let totalCount = 0;
+  let doneCount  = 0;
 
-  try {
-    const res = await fetch(url);
-    if (!res.ok) throw new Error('USGS HTTP ' + res.status);
-    const data = await res.json();
+  // Fetch all states concurrently, add markers as each resolves
+  const promises = US_STATES.map(async state => {
+    try {
+      const res = await fetch(buildStateUrl(state, param));
+      if (!res.ok) return;
+      const data   = await res.json();
+      const series = data?.value?.timeSeries || [];
+      const marks  = parseTimeSeries(series, param);
+      marks.forEach(m => gaugeCluster.addLayer(m));
+      totalCount += marks.length;
+    } catch (e) {
+      // silently skip failed states
+    } finally {
+      doneCount++;
+      statusEl.textContent = 'Loading gauges (' + doneCount + ' / ' + US_STATES.length + ')…';
+    }
+  });
 
-    const series = data?.value?.timeSeries || [];
-    let count = 0;
-
-    series.forEach(ts => {
-      const site = ts.sourceInfo;
-      const geo  = site?.geoLocation?.geogLocation;
-      if (!geo) return;
-
-      const lat = parseFloat(geo.latitude);
-      const lng = parseFloat(geo.longitude);
-      if (isNaN(lat) || isNaN(lng)) return;
-
-      const vals   = ts.values?.[0]?.value || [];
-      const latest = vals[vals.length - 1];
-      const val    = latest ? parseFloat(latest.value) : NaN;
-      if (isNaN(val) || val === -999999) return;
-
-      const bucket    = classifyGauge(val);
-      const color     = BUCKET_COLORS[bucket];
-      const unit      = currentParam === '00065' ? 'ft' : 'cfs';
-      const siteCode  = site.siteCode?.[0]?.value || '';
-      const siteName  = site.siteName || siteCode || 'USGS Gauge';
-      const dateTime  = latest?.dateTime || null;
-      const dt = dateTime
-        ? new Date(dateTime).toLocaleString('en-US', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' })
-        : '—';
-
-      const marker = L.circleMarker([lat, lng], {
-        radius: 5, fillColor: color, color: '#fff',
-        weight: 1, opacity: 1, fillOpacity: 0.9
-      });
-
-      marker.bindPopup(
-        '<div class="popup-title">' + escHtml(siteName) + '</div>' +
-        '<div class="popup-row"><span class="popup-label">' + (currentParam === '00065' ? 'Gage height' : 'Streamflow') + '</span>' +
-        '<span class="popup-val" style="color:' + color + '">' + val.toFixed(2) + ' ' + unit + '</span></div>' +
-        '<div class="popup-row"><span class="popup-label">Status</span><span class="popup-val">' + bucket + '</span></div>' +
-        '<div class="popup-row"><span class="popup-label">Updated</span><span class="popup-val">' + dt + '</span></div>' +
-        (siteCode ? '<a class="popup-link" href="https://waterdata.usgs.gov/monitoring-location/' + siteCode + '" target="_blank" rel="noopener">→ USGS page</a>' : '')
-      );
-
-      gaugeCluster.addLayer(marker);
-      count++;
-    });
-
-    setStatus(count, null);
-  } catch (e) {
-    console.error('Gauge load error:', e);
-    statusEl.textContent = 'Gauge fetch failed — ' + e.message;
-  } finally {
-    loaderEl.classList.remove('visible');
-  }
+  await Promise.all(promises);
+  setStatus(totalCount, null);
+  loaderEl.classList.remove('visible');
 }
 
 // ── Param toggle ──────────────────────────────────────────────────────────────
