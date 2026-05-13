@@ -27014,11 +27014,193 @@
         "osm_id": 1837751,
         "run_at": "2026-05-11T09:48:15.768920+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6747372,
+          38.7877791
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/weather-impact/tangipahoa-parish-and-surrounding-areas-under-flood-advisory/289-ea50387a-93ba-4024-bef1-a459853659ce",
+        "title": "Flash Flood Warning expires for St. Charles, St. John's parishes",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-11T20:38:00Z",
+        "url": "https://www.wwltv.com/article/weather/weather-impact/tangipahoa-parish-and-surrounding-areas-under-flood-advisory/289-ea50387a-93ba-4024-bef1-a459853659ce",
+        "mention_text": "St. Charles",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Saint Charles County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180527,
+        "run_at": "2026-05-13T08:51:29.101335+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9366816,
+          32.794434
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/weather-impact/tangipahoa-parish-and-surrounding-areas-under-flood-advisory/289-ea50387a-93ba-4024-bef1-a459853659ce",
+        "title": "Flash Flood Warning expires for St. Charles, St. John's parishes",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-11T20:38:00Z",
+        "url": "https://www.wwltv.com/article/weather/weather-impact/tangipahoa-parish-and-surrounding-areas-under-flood-advisory/289-ea50387a-93ba-4024-bef1-a459853659ce",
+        "mention_text": "St. John's",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Saint John's, 18, Eastside, Charleston, Charleston County, South Carolina, 29403, United States",
+        "osm_type": "religious",
+        "osm_id": 1461347188,
+        "run_at": "2026-05-13T08:51:29.101335+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1869659,
+          30.4494155
+        ]
+      },
+      "properties": {
+        "article_id": "https://hoodline.com/2026/05/north-shore-swamped-as-baton-rouge-braces-for-overnight-flood-punch/",
+        "title": "Flash Flood Risk Tonight For North Shore, Baton Rouge",
+        "source": "Hoodline",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-12T14:09:03Z",
+        "url": "https://hoodline.com/2026/05/north-shore-swamped-as-baton-rouge-braces-for-overnight-flood-punch/",
+        "mention_text": "Baton Rouge",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Baton Rouge, East Baton Rouge Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 132206,
+        "run_at": "2026-05-13T08:51:29.101335+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.853722,
+          39.5158825
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.msn.com/en-us/weather/topstories/swift-water-rescue-saves-two-stranded-in-rapid-river-in-nevada/vi-AA22s4Pu?ocid=BingNewsBrowse",
+        "title": "Swift water rescue saves two stranded in rapid river in Nevada",
+        "source": "MSN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-05T07:00:00Z",
+        "url": "https://www.msn.com/en-us/weather/topstories/swift-water-rescue-saves-two-stranded-in-rapid-river-in-nevada/vi-AA22s4Pu?ocid=BingNewsBrowse",
+        "mention_text": "Nevada",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Nevada, United States",
+        "osm_type": "administrative",
+        "osm_id": 165473,
+        "run_at": "2026-05-13T08:51:29.101335+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5141209,
+          28.8512851
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tampabay.com/news/weather/2026/05/12/flood-advisory-active-citrus-sumter-counties-early-tuesday-evening-due-prolonged-rain/",
+        "title": "Flood advisory active for Citrus and Sumter counties early Tuesday evening due to prolonged rain",
+        "source": "Tampa Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-12T19:22:15Z",
+        "url": "https://www.tampabay.com/news/weather/2026/05/12/flood-advisory-active-citrus-sumter-counties-early-tuesday-evening-due-prolonged-rain/",
+        "mention_text": "Citrus",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Citrus County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210740,
+        "run_at": "2026-05-13T08:51:29.101335+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sgvtribune.com/2026/04/12/flood-advisory-active-for-los-angeles-and-ventura-counties-until-sunday-morning-due-to-prolonged-downpours/",
+        "title": "Flood advisory active for Los Angeles and Ventura counties until Sunday morning due to prolonged downpours",
+        "source": "San Gabriel Valley Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T07:00:00Z",
+        "url": "https://www.sgvtribune.com/2026/04/12/flood-advisory-active-for-los-angeles-and-ventura-counties-until-sunday-morning-due-to-prolonged-downpours/",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-05-13T08:51:29.101335+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0779359,
+          34.4458248
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sgvtribune.com/2026/04/12/flood-advisory-active-for-los-angeles-and-ventura-counties-until-sunday-morning-due-to-prolonged-downpours/",
+        "title": "Flood advisory active for Los Angeles and Ventura counties until Sunday morning due to prolonged downpours",
+        "source": "San Gabriel Valley Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-12T07:00:00Z",
+        "url": "https://www.sgvtribune.com/2026/04/12/flood-advisory-active-for-los-angeles-and-ventura-counties-until-sunday-morning-due-to-prolonged-downpours/",
+        "mention_text": "Ventura",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ventura County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396505,
+        "run_at": "2026-05-13T08:51:29.101335+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-05-12T08:45:36.484454+00:00",
-    "total_features": 1039
+    "last_updated": "2026-05-13T08:51:29.107231+00:00",
+    "total_features": 1046
   }
 }
