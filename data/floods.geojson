@@ -27196,11 +27196,63 @@
         "osm_id": 396505,
         "run_at": "2026-05-13T08:51:29.101335+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9026057,
+          37.3393746
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ksat.com/video/news/2026/05/13/flash-flood-sirens-officially-installed-along-guadalupe-river/",
+        "title": "Flash flood sirens officially installed along Guadalupe River",
+        "source": "KSAT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-13T14:46:40Z",
+        "url": "https://www.ksat.com/video/news/2026/05/13/flash-flood-sirens-officially-installed-along-guadalupe-river/",
+        "mention_text": "Guadalupe River",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Guadalupe River, San Jose, Santa Clara County, California, United States",
+        "osm_type": "river",
+        "osm_id": 19804223,
+        "run_at": "2026-05-14T08:43:14.029235+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7601634,
+          31.1710331
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.walb.com/video/2026/05/13/flash-flood-warnings-continue-overnight-parts-south-georgia/",
+        "title": "Flash flood warnings continue overnight for parts of South Georgia",
+        "source": "WALB",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-13T09:41:00Z",
+        "url": "https://www.walb.com/video/2026/05/13/flash-flood-warnings-continue-overnight-parts-south-georgia/",
+        "mention_text": "South Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South, Glynn County, Georgia, 31566, United States",
+        "osm_type": "track",
+        "osm_id": 9258312,
+        "run_at": "2026-05-14T08:43:14.029235+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-05-13T08:51:29.107231+00:00",
-    "total_features": 1046
+    "last_updated": "2026-05-14T08:43:14.035042+00:00",
+    "total_features": 1048
   }
 }
