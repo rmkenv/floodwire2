@@ -27248,11 +27248,115 @@
         "osm_id": 9258312,
         "run_at": "2026-05-14T08:43:14.029235+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7348497,
+          32.9715285
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/parade-storms-ease-mississippi-valley-drought-flash-flooding-concerns-persist",
+        "title": "Storms easing Mississippi, Ohio Valley drought as flash flood threats increase, prompting water rescues",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-05T08:00:00Z",
+        "url": "https://www.foxweather.com/weather-news/parade-storms-ease-mississippi-valley-drought-flash-flooding-concerns-persist",
+        "mention_text": "Mississippi",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 161943,
+        "run_at": "2026-05-15T08:53:40.130543+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9481441,
+          40.8656144
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/parade-storms-ease-mississippi-valley-drought-flash-flooding-concerns-persist",
+        "title": "Storms easing Mississippi, Ohio Valley drought as flash flood threats increase, prompting water rescues",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-05T08:00:00Z",
+        "url": "https://www.foxweather.com/weather-news/parade-storms-ease-mississippi-valley-drought-flash-flooding-concerns-persist",
+        "mention_text": "Ohio Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Valley, Columbiana County, Ohio, 44619, United States",
+        "osm_type": "hamlet",
+        "osm_id": 154191523,
+        "run_at": "2026-05-15T08:53:40.130543+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article315766128.html",
+        "title": "Coastal flood advisory for Myrtle Beach area and Coastal Georgetown until Friday night",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-15T07:03:05Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article315766128.html",
+        "mention_text": "Myrtle Beach",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Myrtle Beach, Horry County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193842,
+        "run_at": "2026-05-15T08:53:40.130543+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0192824,
+          44.931179
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article315766213.html",
+        "title": "Coastal flood advisory issued for Southeast Coast until Friday night",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-15T07:17:05Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article315766213.html",
+        "mention_text": "Southeast Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oregon Coast Highway, Taft, Lincoln City, Lincoln County, Oregon, 97367, United States",
+        "osm_type": "trunk",
+        "osm_id": 119209008,
+        "run_at": "2026-05-15T08:53:40.130543+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-05-14T08:43:14.035042+00:00",
-    "total_features": 1048
+    "last_updated": "2026-05-15T08:53:40.136121+00:00",
+    "total_features": 1052
   }
 }
