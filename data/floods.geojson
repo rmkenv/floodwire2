@@ -27352,11 +27352,167 @@
         "osm_id": 119209008,
         "run_at": "2026-05-15T08:53:40.130543+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.staradvertiser.com/2026/05/15/breaking-news/heavy-rain-isolated-thunderstorms-forecast-for-hawaii/",
+        "title": "Most of Hawaii under flood watch through early Saturday",
+        "source": "Honolulu Star-Advertiser",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-16T05:49:37Z",
+        "url": "https://www.staradvertiser.com/2026/05/15/breaking-news/heavy-rain-isolated-thunderstorms-forecast-for-hawaii/",
+        "mention_text": "Hawaii",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-05-16T08:07:35.842704+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.996047,
+          34.5802074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cnn.com/2025/07/08/weather/new-mexico-ruidoso-flooding-hnk",
+        "title": "Flash flood hits New Mexico mountain town, leaving at least 3 dead",
+        "source": "CNN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-07-08T07:00:00Z",
+        "url": "https://www.cnn.com/2025/07/08/weather/new-mexico-ruidoso-flooding-hnk",
+        "mention_text": "New Mexico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 162014,
+        "run_at": "2026-05-16T08:07:35.842704+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article315766128.html",
+        "title": "UPDATE: Coastal flood advisory for Myrtle Beach area and Coastal Georgetown Friday night",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-16T00:21:05Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article315766128.html",
+        "mention_text": "Myrtle Beach",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Myrtle Beach, Horry County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193842,
+        "run_at": "2026-05-16T08:07:35.842704+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0149931,
+          44.9285276
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article315766213.html",
+        "title": "Coastal flood advisory issued for Southeast Coast until Friday night",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-15T07:17:05Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article315766213.html",
+        "mention_text": "Southeast Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oregon Coast Highway, Taft, Lincoln City, Lincoln County, Oregon, 97367, United States",
+        "osm_type": "trunk",
+        "osm_id": 458933020,
+        "run_at": "2026-05-16T08:07:35.842704+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article315768990.html",
+        "title": "UPDATE: Coastal flood advisory for Coastal Colleton and Charleston County until Friday night",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-15T18:49:13Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article315768990.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-05-16T08:07:35.842704+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0149931,
+          44.9285276
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article315766213.html",
+        "title": "UPDATE: Southeast Coast placed under a coastal flood advisory until Friday evening",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-15T18:43:07Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article315766213.html",
+        "mention_text": "Southeast Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oregon Coast Highway, Taft, Lincoln City, Lincoln County, Oregon, 97367, United States",
+        "osm_type": "trunk",
+        "osm_id": 458933020,
+        "run_at": "2026-05-16T08:07:35.842704+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-05-15T08:53:40.136121+00:00",
-    "total_features": 1052
+    "last_updated": "2026-05-16T08:07:35.848248+00:00",
+    "total_features": 1058
   }
 }
