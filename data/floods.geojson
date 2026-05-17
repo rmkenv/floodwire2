@@ -27508,11 +27508,349 @@
         "osm_id": 458933020,
         "run_at": "2026-05-16T08:07:35.842704+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0157844,
+          39.7880532
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kmaland.com/news/breaking_weather/flash-flood-warning-for-parts-of-johnson-nemaha-otoe-cos-until-3-a-m/article_32bad906-9231-4550-8ea5-3200d87d61c5.html",
+        "title": "Flash flood warning for parts of Johnson, Nemaha, & Otoe cos. until 3 a.m.",
+        "source": "KMAland.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-17T05:54:00Z",
+        "url": "https://www.kmaland.com/news/breaking_weather/flash-flood-warning-for-parts-of-johnson-nemaha-otoe-cos-until-3-a-m/article_32bad906-9231-4550-8ea5-3200d87d61c5.html",
+        "mention_text": "Nemaha",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Nemaha County, Kansas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1070419,
+        "run_at": "2026-05-17T08:25:21.529587+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5617875,
+          38.7604815
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kmbc.com/article/tracking-severe-storms-around-missouri-kansas/71326409",
+        "title": "Flood risks continue into Sunday for northern Missouri; flash flood emergency issued for Grundy County",
+        "source": "KMBC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-17T05:22:00Z",
+        "url": "https://www.kmbc.com/article/tracking-severe-storms-around-missouri-kansas/71326409",
+        "mention_text": "Missouri",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 161638,
+        "run_at": "2026-05-17T08:25:21.529587+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4119361,
+          41.2747363
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kmbc.com/article/tracking-severe-storms-around-missouri-kansas/71326409",
+        "title": "Flood risks continue into Sunday for northern Missouri; flash flood emergency issued for Grundy County",
+        "source": "KMBC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-17T05:22:00Z",
+        "url": "https://www.kmbc.com/article/tracking-severe-storms-around-missouri-kansas/71326409",
+        "mention_text": "Grundy County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grundy County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1800061,
+        "run_at": "2026-05-17T08:25:21.529587+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4119361,
+          41.2747363
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kshb.com/news/local-news/tornado-watch-issued-for-northern-parts-of-kshb-41-viewing-area-until-11-p-m",
+        "title": "Flash flood emergency issued for Grundy County, Missouri; Tornado watch in effect until 11 p.m.",
+        "source": "KSHB 41 Kansas City",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-16T21:56:14Z",
+        "url": "https://www.kshb.com/news/local-news/tornado-watch-issued-for-northern-parts-of-kshb-41-viewing-area-until-11-p-m",
+        "mention_text": "Grundy County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grundy County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1800061,
+        "run_at": "2026-05-17T08:25:21.529587+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5617875,
+          38.7604815
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kshb.com/news/local-news/tornado-watch-issued-for-northern-parts-of-kshb-41-viewing-area-until-11-p-m",
+        "title": "Flash flood emergency issued for Grundy County, Missouri; Tornado watch in effect until 11 p.m.",
+        "source": "KSHB 41 Kansas City",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-16T21:56:14Z",
+        "url": "https://www.kshb.com/news/local-news/tornado-watch-issued-for-northern-parts-of-kshb-41-viewing-area-until-11-p-m",
+        "mention_text": "Missouri",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 161638,
+        "run_at": "2026-05-17T08:25:21.529587+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5065944,
+          30.301949
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kmaland.com/news/breaking_weather/flash-flood-warning-for-se-montgomery-county-until-10-p-m/article_55d85d9c-cc94-4951-bb51-b497cc0a979b.html",
+        "title": "Flash flood warning for SE Montgomery County until 10 p.m.",
+        "source": "KMAland.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-16T23:52:00Z",
+        "url": "https://www.kmaland.com/news/breaking_weather/flash-flood-warning-for-se-montgomery-county-until-10-p-m/article_55d85d9c-cc94-4951-bb51-b497cc0a979b.html",
+        "mention_text": "Montgomery County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Montgomery County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1560394,
+        "run_at": "2026-05-17T08:25:21.529587+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3411096,
+          29.6772874
+        ]
+      },
+      "properties": {
+        "article_id": "https://mustsharenews.com/flash-flood-mountbatten-tanjong-katong/",
+        "title": "Flash flood hits Mountbatten Road after heavy rain, subsides within 20 minutes",
+        "source": "mustsharenews.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-16T06:57:33Z",
+        "url": "https://mustsharenews.com/flash-flood-mountbatten-tanjong-katong/",
+        "mention_text": "Mountbatten Road",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mountbatten Road, Houston, Harris County, Texas, 77033, United States",
+        "osm_type": "residential",
+        "osm_id": 15444674,
+        "run_at": "2026-05-17T08:25:21.529587+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.8658829,
+          47.1744169
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bellinghamherald.com/news/weather-news/article315042191.html",
+        "title": "UPDATE: Flood warning issued for Grays Harbor County until 2 a.m. Tuesday",
+        "source": "Bellingham Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-16T07:00:00Z",
+        "url": "https://www.bellinghamherald.com/news/weather-news/article315042191.html",
+        "mention_text": "Grays Harbor County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Grays Harbor County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153401,
+        "run_at": "2026-05-17T08:25:21.529587+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7329309,
+          27.8778904
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tampabay28.com/news/region-pinellas/it-looks-very-extreme-locals-react-to-king-tide-as-pinellas-county-warns-of-coastal-flooding-dangers",
+        "title": "'It looks very extreme': Locals react to king tide as Pinellas County warns of coastal flooding dangers",
+        "source": "Tampa Bay 28",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-17T02:50:03Z",
+        "url": "https://www.tampabay28.com/news/region-pinellas/it-looks-very-extreme-locals-react-to-king-tide-as-pinellas-county-warns-of-coastal-flooding-dangers",
+        "mention_text": "Pinellas County",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Pinellas County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210726,
+        "run_at": "2026-05-17T08:25:21.529587+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7329309,
+          27.8778904
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.msn.com/en-us/weather/topstories/it-looks-very-extreme-locals-react-to-king-tide-as-pinellas-county-warns-of-coastal-flooding-dangers/vi-AA23npXh",
+        "title": "'It looks very extreme': Locals react to king tide as Pinellas County warns of coastal flooding dangers",
+        "source": "MSN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-17T03:51:38Z",
+        "url": "https://www.msn.com/en-us/weather/topstories/it-looks-very-extreme-locals-react-to-king-tide-as-pinellas-county-warns-of-coastal-flooding-dangers/vi-AA23npXh",
+        "mention_text": "Pinellas County",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Pinellas County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210726,
+        "run_at": "2026-05-17T08:25:21.529587+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article315766128.html",
+        "title": "UPDATE: Coastal flood advisory for Myrtle Beach area and Coastal Georgetown",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-16T18:49:06Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article315766128.html",
+        "mention_text": "Myrtle Beach",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Myrtle Beach, Horry County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193842,
+        "run_at": "2026-05-17T08:25:21.529587+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3558473,
+          37.7884969
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.travelandtourworld.com/news/article/coastal-flood-advisory-issued-for-san-francisco-bay-area-as-high-tides-threaten-low-lying-shorelines-through-tuesday-morning-read-now-to-know-more/",
+        "title": "Coastal Flood Advisory Issued for San Francisco Bay Area as High Tides Threaten Low-Lying Shorelines Through Tuesday Morning : Read Now To Know More",
+        "source": "Travel And Tour World",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-16T20:17:15Z",
+        "url": "https://www.travelandtourworld.com/news/article/coastal-flood-advisory-issued-for-san-francisco-bay-area-as-high-tides-threaten-low-lying-shorelines-through-tuesday-morning-read-now-to-know-more/",
+        "mention_text": "San Francisco Bay Area",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco Bay Area, San Francisco, California, 94130, United States",
+        "osm_type": "region",
+        "osm_id": 2157162589,
+        "run_at": "2026-05-17T08:25:21.529587+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article315783044.html",
+        "title": "Coastal Colleton and Charleston County under a coastal flood advisory until Saturday night",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-16T18:31:08Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article315783044.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-05-17T08:25:21.529587+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-05-16T08:07:35.848248+00:00",
-    "total_features": 1058
+    "last_updated": "2026-05-17T08:25:21.535556+00:00",
+    "total_features": 1071
   }
 }
