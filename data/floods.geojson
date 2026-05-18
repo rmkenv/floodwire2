@@ -27846,11 +27846,37 @@
         "osm_id": 1857000,
         "run_at": "2026-05-17T08:25:21.529587+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article315790183.html",
+        "title": "UPDATE: Coastal flood advisory affecting Coastal Colleton and Charleston County until Sunday night",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-17T23:16:08Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article315790183.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-05-18T10:04:31.769501+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-05-17T08:25:21.535556+00:00",
-    "total_features": 1071
+    "last_updated": "2026-05-18T10:04:31.775059+00:00",
+    "total_features": 1072
   }
 }
