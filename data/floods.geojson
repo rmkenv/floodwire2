@@ -27872,11 +27872,427 @@
         "osm_id": 1857000,
         "run_at": "2026-05-18T10:04:31.769501+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1746933,
+          40.3270127
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whas11.com/article/weather/flash-flood-warning-southern-indiana-counties-current-weather-alerts/417-915c0529-ec3c-437e-8762-fbec493e6f58",
+        "title": "Flash flood warning in effect for southern Indiana counties | Current weather alerts",
+        "source": "WHAS11",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-19T03:30:00Z",
+        "url": "https://www.whas11.com/article/weather/flash-flood-warning-southern-indiana-counties-current-weather-alerts/417-915c0529-ec3c-437e-8762-fbec493e6f58",
+        "mention_text": "Indiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Indiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 161816,
+        "run_at": "2026-05-19T09:46:28.249084+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/growing-flash-flood-threat-across-texas-louisiana/71342256",
+        "title": "Growing flash flood threat across Texas, Louisiana",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-18T22:29:00Z",
+        "url": "https://www.wdsu.com/article/growing-flash-flood-threat-across-texas-louisiana/71342256",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-05-19T09:46:28.249084+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.007126,
+          30.8703881
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/growing-flash-flood-threat-across-texas-louisiana/71342256",
+        "title": "Growing flash flood threat across Texas, Louisiana",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-18T22:29:00Z",
+        "url": "https://www.wdsu.com/article/growing-flash-flood-threat-across-texas-louisiana/71342256",
+        "mention_text": "Louisiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 224922,
+        "run_at": "2026-05-19T09:46:28.249084+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0620347,
+          39.2147095
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kansascity.com/news/weather-news/article315800027.html",
+        "title": "Update: Flood warning issued for Leavenworth County for Tuesday and Wednesday",
+        "source": "Kansas City Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-19T02:15:06Z",
+        "url": "https://www.kansascity.com/news/weather-news/article315800027.html",
+        "mention_text": "Leavenworth County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Leavenworth County, Kansas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1070403,
+        "run_at": "2026-05-19T09:46:28.249084+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4359392,
+          40.4144817
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kmaland.com/news/breaking_weather/flash-flood-warning-issued-for-atchison-holt-nodaway-counties-until-12-15-a-m/article_5c774d9e-28c2-454a-95d3-aa1a82a48602.html",
+        "title": "Flash flood warning issued for Atchison, Holt, & Nodaway counties until 12:15 a.m.",
+        "source": "KMAland.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-18T23:17:00Z",
+        "url": "https://www.kmaland.com/news/breaking_weather/flash-flood-warning-issued-for-atchison-holt-nodaway-counties-until-12-15-a-m/article_5c774d9e-28c2-454a-95d3-aa1a82a48602.html",
+        "mention_text": "Atchison",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atchison County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180516,
+        "run_at": "2026-05-19T09:46:28.249084+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2134565,
+          40.0989571
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kmaland.com/news/breaking_weather/flash-flood-warning-issued-for-atchison-holt-nodaway-counties-until-12-15-a-m/article_5c774d9e-28c2-454a-95d3-aa1a82a48602.html",
+        "title": "Flash flood warning issued for Atchison, Holt, & Nodaway counties until 12:15 a.m.",
+        "source": "KMAland.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-18T23:17:00Z",
+        "url": "https://www.kmaland.com/news/breaking_weather/flash-flood-warning-issued-for-atchison-holt-nodaway-counties-until-12-15-a-m/article_5c774d9e-28c2-454a-95d3-aa1a82a48602.html",
+        "mention_text": "Holt",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Holt County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180496,
+        "run_at": "2026-05-19T09:46:28.249084+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6041771,
+          47.7895085
+        ]
+      },
+      "properties": {
+        "article_id": "https://hoodline.com/2026/05/soaked-in-a-flash-st-louis-streets-on-flood-watch/",
+        "title": "Soaked in a Flash as St. Louis Streets on Flood Watch",
+        "source": "Hoodline",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-18T13:11:28Z",
+        "url": "https://hoodline.com/2026/05/soaked-in-a-flash-st-louis-streets-on-flood-watch/",
+        "mention_text": "Flash",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Flash, Kitsap County, Washington, 89370, United States",
+        "osm_type": "path",
+        "osm_id": 409822755,
+        "run_at": "2026-05-19T09:46:28.249084+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4951289,
+          38.7645099
+        ]
+      },
+      "properties": {
+        "article_id": "https://hoodline.com/2026/05/soaked-in-a-flash-st-louis-streets-on-flood-watch/",
+        "title": "Soaked in a Flash as St. Louis Streets on Flood Watch",
+        "source": "Hoodline",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-18T13:11:28Z",
+        "url": "https://hoodline.com/2026/05/soaked-in-a-flash-st-louis-streets-on-flood-watch/",
+        "mention_text": "St. Louis Streets",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Tru by Hilton St. Charles St. Louis, 333, Camelback Road, Streets of St. Charles, Saint Charles, Saint Charles County, Missouri, 63303, United States",
+        "osm_type": "hotel",
+        "osm_id": 941228767,
+        "run_at": "2026-05-19T09:46:28.249084+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2512895,
+          45.0157576
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ibtimes.com.au/mid-atlantic-northeast-heavy-rain-flood-warnings-1869092",
+        "title": "Flash Flood Warnings Hit NY, NJ, PA, MD as Torrential Rains Threaten More Chaos in Northeast",
+        "source": "International Business Times Australia",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-18T11:32:37Z",
+        "url": "https://www.ibtimes.com.au/mid-atlantic-northeast-heavy-rain-flood-warnings-1869092",
+        "mention_text": "Northeast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Northeast, Minneapolis, Hennepin County, Minnesota, 55418, United States",
+        "osm_type": "suburb",
+        "osm_id": 2084902014,
+        "run_at": "2026-05-19T09:46:28.249084+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5252207,
+          42.8493275
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.staradvertiser.com/2026/05/18/breaking-news/flood-advisory-issued-for-kauai-due-to-heavy-rains/",
+        "title": "Flood advisory for Big Isle expires at 4:45 p.m.",
+        "source": "Honolulu Star-Advertiser",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-19T04:31:27Z",
+        "url": "https://www.staradvertiser.com/2026/05/18/breaking-news/flood-advisory-issued-for-kauai-due-to-heavy-rains/",
+        "mention_text": "Big Isle",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Big Isle, Town of Madison, Madison County, New York, United States",
+        "osm_type": "islet",
+        "osm_id": 220149353,
+        "run_at": "2026-05-19T09:46:28.249084+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7329309,
+          27.8778904
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tampabay.com/news/weather/2026/05/18/flood-advisory-place-pinellas-county-monday-evening-caused-by-significant-rainfall/",
+        "title": "Flood advisory in place for Pinellas County Monday evening caused by significant rainfall",
+        "source": "Tampa Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-18T23:29:33Z",
+        "url": "https://www.tampabay.com/news/weather/2026/05/18/flood-advisory-place-pinellas-county-monday-evening-caused-by-significant-rainfall/",
+        "mention_text": "Pinellas County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Pinellas County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210726,
+        "run_at": "2026-05-19T09:46:28.249084+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article315790183.html",
+        "title": "UPDATE: Coastal flood advisory affecting Coastal Colleton and Charleston County until Sunday night",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-17T23:16:08Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article315790183.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-05-19T09:46:28.249084+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.988571,
+          37.5482697
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kmaland.com/news/breaking_weather/flood-advisory-issued-for-fremont-page-johnson-nemaha-otoe-pawnee-richardson-cos-until-10-p/article_28743c1a-087c-4dab-a24d-a2e521a1b867.html",
+        "title": "Flood advisory issued for Fremont, Page, Johnson, Nemaha, Otoe, Pawnee, & Richardson cos. until 10 p.m.",
+        "source": "KMAland.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-18T22:02:00Z",
+        "url": "https://www.kmaland.com/news/breaking_weather/flood-advisory-issued-for-fremont-page-johnson-nemaha-otoe-pawnee-richardson-cos-until-10-p/article_28743c1a-087c-4dab-a24d-a2e521a1b867.html",
+        "mention_text": "Fremont",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Fremont, Alameda County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 111943,
+        "run_at": "2026-05-19T09:46:28.249084+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0157844,
+          39.7880532
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kmaland.com/news/breaking_weather/flood-advisory-issued-for-fremont-page-johnson-nemaha-otoe-pawnee-richardson-cos-until-10-p/article_28743c1a-087c-4dab-a24d-a2e521a1b867.html",
+        "title": "Flood advisory issued for Fremont, Page, Johnson, Nemaha, Otoe, Pawnee, & Richardson cos. until 10 p.m.",
+        "source": "KMAland.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-18T22:02:00Z",
+        "url": "https://www.kmaland.com/news/breaking_weather/flood-advisory-issued-for-fremont-page-johnson-nemaha-otoe-pawnee-richardson-cos-until-10-p/article_28743c1a-087c-4dab-a24d-a2e521a1b867.html",
+        "mention_text": "Nemaha",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Nemaha County, Kansas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1070419,
+        "run_at": "2026-05-19T09:46:28.249084+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7659,
+          40.2203074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.msn.com/en-us/video/weather/flash-flood-emergency-declared-for-trenton-missouri-amidst-torrential-rain/vi-AA23nKoA?ocid=BingNewsVerp",
+        "title": "Flash flood emergency declared for Trenton, Missouri amidst torrential rain",
+        "source": "MSN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-17T13:56:24Z",
+        "url": "https://www.msn.com/en-us/video/weather/flash-flood-emergency-declared-for-trenton-missouri-amidst-torrential-rain/vi-AA23nKoA?ocid=BingNewsVerp",
+        "mention_text": "Trenton",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Trenton, Mercer County, New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 170584,
+        "run_at": "2026-05-19T09:46:28.249084+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5617875,
+          38.7604815
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.msn.com/en-us/video/weather/flash-flood-emergency-declared-for-trenton-missouri-amidst-torrential-rain/vi-AA23nKoA?ocid=BingNewsVerp",
+        "title": "Flash flood emergency declared for Trenton, Missouri amidst torrential rain",
+        "source": "MSN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-17T13:56:24Z",
+        "url": "https://www.msn.com/en-us/video/weather/flash-flood-emergency-declared-for-trenton-missouri-amidst-torrential-rain/vi-AA23nKoA?ocid=BingNewsVerp",
+        "mention_text": "Missouri",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 161638,
+        "run_at": "2026-05-19T09:46:28.249084+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-05-18T10:04:31.775059+00:00",
-    "total_features": 1072
+    "last_updated": "2026-05-19T09:46:28.254879+00:00",
+    "total_features": 1088
   }
 }
