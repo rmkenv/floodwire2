@@ -28288,11 +28288,349 @@
         "osm_id": 161638,
         "run_at": "2026-05-19T09:46:28.249084+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5781416,
+          39.100105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kansascity.com/news/weather-news/article315820453.html",
+        "title": "Update: Flood warning issued for the Kansas City area from Wednesday to Friday",
+        "source": "Kansas City Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-20T01:20:06Z",
+        "url": "https://www.kansascity.com/news/weather-news/article315820453.html",
+        "mention_text": "Kansas City",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kansas City, Jackson County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 141008,
+        "run_at": "2026-05-20T09:34:47.763926+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6427413,
+          33.9161056
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kten.com/weather/weather-news/flash-flood-threat-in-texoma/article_514ac601-a528-4965-909e-fe45a28448f6.html",
+        "title": "Flash flood threat in Texoma",
+        "source": "KTEN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-19T20:36:00Z",
+        "url": "https://www.kten.com/weather/weather-news/flash-flood-threat-in-texoma/article_514ac601-a528-4965-909e-fe45a28448f6.html",
+        "mention_text": "Texoma",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lake Texoma, Marshall County, Oklahoma, 73439, United States",
+        "osm_type": "reservoir",
+        "osm_id": 2735772,
+        "run_at": "2026-05-20T09:34:47.763926+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.135072,
+          32.6662689
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wfaa.com/video/weather/forecast/dfw-weather-flash-flood-warnings-issued-as-storms-move-across-north-texas/287-adcda564-2c86-44f7-acdd-9b9d3f8fc99e",
+        "title": "DFW weather: Flash flood warnings issued as storms move across North Texas",
+        "source": "WFAA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-19T21:53:00Z",
+        "url": "https://www.wfaa.com/video/weather/forecast/dfw-weather-flash-flood-warnings-issued-as-storms-move-across-north-texas/287-adcda564-2c86-44f7-acdd-9b9d3f8fc99e",
+        "mention_text": "North Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North, Arlington, Tarrant County, Texas, 76017, United States",
+        "osm_type": "residential",
+        "osm_id": 10057724,
+        "run_at": "2026-05-20T09:34:47.763926+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0776319,
+          42.0599693
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.5newsonline.com/video/news/latest-news-benton-county-on-flash-flood-alert-following-heavy-rain/527-e46ce2e3-8860-4c25-94e8-1e5b9cbf6ff9",
+        "title": "Latest News | Benton County on flash flood alert following heavy rain",
+        "source": "5newsonline.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-19T17:11:00Z",
+        "url": "https://www.5newsonline.com/video/news/latest-news-benton-county-on-flash-flood-alert-following-heavy-rain/527-e46ce2e3-8860-4c25-94e8-1e5b9cbf6ff9",
+        "mention_text": "Benton County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Benton County, Iowa, United States",
+        "osm_type": "administrative",
+        "osm_id": 1792934,
+        "run_at": "2026-05-20T09:34:47.763926+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6060984,
+          33.1609629
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article315815869.html",
+        "title": "UPDATE: The flash flood warning for Collin and Denton counties is forecast to expire at 6 p.m.",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-05-19T19:55:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article315815869.html",
+        "mention_text": "Collin",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Collin County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837688,
+        "run_at": "2026-05-20T09:34:47.763926+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1413417,
+          33.1838787
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article315815869.html",
+        "title": "UPDATE: The flash flood warning for Collin and Denton counties is forecast to expire at 6 p.m.",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-05-19T19:55:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article315815869.html",
+        "mention_text": "Denton",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Denton County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837621,
+        "run_at": "2026-05-20T09:34:47.763926+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.135072,
+          32.6662689
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/texas/video/strong-storms-move-through-north-texas-bringing-flash-flood-warnings/",
+        "title": "Strong storms move through North Texas bringing flash flood warnings",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-19T21:24:00Z",
+        "url": "https://www.cbsnews.com/texas/video/strong-storms-move-through-north-texas-bringing-flash-flood-warnings/",
+        "mention_text": "North Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North, Arlington, Tarrant County, Texas, 76017, United States",
+        "osm_type": "residential",
+        "osm_id": 10057724,
+        "run_at": "2026-05-20T09:34:47.763926+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7968559,
+          32.7762719
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article315816172.html",
+        "title": "UPDATE: The current flash flood warning for Dallas and Tarrant counties will expire at 6:15 p.m.",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-05-19T20:09:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article315816172.html",
+        "mention_text": "Dallas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dallas, Dallas County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 6571629,
+        "run_at": "2026-05-20T09:34:47.763926+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.335696,
+          32.7513658
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article315816172.html",
+        "title": "UPDATE: The current flash flood warning for Dallas and Tarrant counties will expire at 6:15 p.m.",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-05-19T20:09:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article315816172.html",
+        "mention_text": "Tarrant",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tarrant County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837628,
+        "run_at": "2026-05-20T09:34:47.763926+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6439575,
+          39.7990175
+        ]
+      },
+      "properties": {
+        "article_id": "https://abc17news.com/alerts/2026/05/19/flood-warning-issued-may-19-at-1028am-cdt-until-may-20-at-730am-cdt-by-nws-springfield-mo/",
+        "title": "Flood Warning issued May 19 at 10:28AM CDT until May 20 at 7:30AM CDT by NWS Springfield MO",
+        "source": "ABC17NEWS",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-19T15:50:29Z",
+        "url": "https://abc17news.com/alerts/2026/05/19/flood-warning-issued-may-19-at-1028am-cdt-until-may-20-at-730am-cdt-by-nws-springfield-mo/",
+        "mention_text": "Springfield",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Springfield, Sangamon County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 126326,
+        "run_at": "2026-05-20T09:34:47.763926+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2684063,
+          34.9550817
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newson6.com/live/severe-storms-kansas-oklahoma-overnight-threats",
+        "title": "Flood advisory in effect for multiple northeast Oklahoma counties",
+        "source": "News On 6",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-19T10:52:43Z",
+        "url": "https://www.newson6.com/live/severe-storms-kansas-oklahoma-overnight-threats",
+        "mention_text": "Oklahoma",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oklahoma, United States",
+        "osm_type": "administrative",
+        "osm_id": 161645,
+        "run_at": "2026-05-20T09:34:47.763926+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article315790183.html",
+        "title": "UPDATE: Coastal flood advisory affecting Coastal Colleton and Charleston County until Sunday night",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-17T23:16:08Z",
+        "url": "https://www.thestate.com/news/weather-news/article315790183.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-05-20T09:34:47.763926+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.442834,
+          47.6679559
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.asatunews.co.id/en/flood-advisory-issued-west-central-texas",
+        "title": "National Weather Service Issues Flood Advisory For West Central Texas",
+        "source": "AsatuNews.co.id",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-19T20:07:00Z",
+        "url": "https://www.asatunews.co.id/en/flood-advisory-issued-west-central-texas",
+        "mention_text": "West Central",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "West Central, Spokane, Spokane County, Washington, 99201, United States",
+        "osm_type": "quarter",
+        "osm_id": 5883241086,
+        "run_at": "2026-05-20T09:34:47.763926+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-05-19T09:46:28.254879+00:00",
-    "total_features": 1088
+    "last_updated": "2026-05-20T09:34:47.769459+00:00",
+    "total_features": 1101
   }
 }
