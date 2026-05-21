@@ -28626,11 +28626,765 @@
         "osm_id": 5883241086,
         "run_at": "2026-05-20T09:34:47.763926+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxcarolina.com/2026/05/21/flash-flood-warning-issued-heavy-rain-falls-across-atlanta/",
+        "title": "Flash flood warning issued as heavy rain falls across Atlanta",
+        "source": "FOX Carolina News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-21T00:19:00Z",
+        "url": "https://www.foxcarolina.com/2026/05/21/flash-flood-warning-issued-heavy-rain-falls-across-atlanta/",
+        "mention_text": "Atlanta",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-05-21T09:44:49.097130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox5atlanta.com/video/fmc-wfqz2bjghebkryxw",
+        "title": "Atlanta flash flood submerges Downtown Connector",
+        "source": "FOX 5 Atlanta",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-21T02:31:27Z",
+        "url": "https://www.fox5atlanta.com/video/fmc-wfqz2bjghebkryxw",
+        "mention_text": "Atlanta",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-05-21T09:44:49.097130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5108939,
+          39.1060691
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox5atlanta.com/video/fmc-wfqz2bjghebkryxw",
+        "title": "Atlanta flash flood submerges Downtown Connector",
+        "source": "FOX 5 Atlanta",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-21T02:31:27Z",
+        "url": "https://www.fox5atlanta.com/video/fmc-wfqz2bjghebkryxw",
+        "mention_text": "Downtown Connector",
+        "flood_type": "flash_flood",
+        "confidence": 0.75,
+        "osm_display": "Connector, Vine Street, Main Street Historic District, Central Business District, Cincinnati, Hamilton County, Ohio, 45210, United States",
+        "osm_type": "tram",
+        "osm_id": 366167073,
+        "run_at": "2026-05-21T09:44:49.097130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7479897,
+          26.5630409
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.valleycentral.com/weather2/flash-flood-advisory-for-starr-county/",
+        "title": "Flash flood advisory in effect for Starr County",
+        "source": "ValleyCentral.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-21T02:25:23Z",
+        "url": "https://www.valleycentral.com/weather2/flash-flood-advisory-for-starr-county/",
+        "mention_text": "Starr County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Starr County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1828256,
+        "run_at": "2026-05-21T09:44:49.097130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1263909,
+          40.3451668
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.phillyburbs.com/story/weather/2026/05/20/weather-alert/90184454007/",
+        "title": "Flash flood warning issued for Bucks County",
+        "source": "PhillyBurbs",
+        "outlet_city": "Philadelphia",
+        "outlet_region": "Pennsylvania",
+        "published_at": "2026-05-20T22:00:00Z",
+        "url": "https://www.phillyburbs.com/story/weather/2026/05/20/weather-alert/90184454007/",
+        "mention_text": "Bucks County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Bucks County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417843,
+        "run_at": "2026-05-21T09:44:49.097130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3884839,
+          30.045717
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.12newsnow.com/video/news/local/kerr-county-installs-flash-flood-sirens-ahead-of-summer-camp-season/502-498e074a-8b4c-40da-9295-5a88d0323aaf",
+        "title": "Kerr County installs flash flood sirens ahead of summer camp season",
+        "source": "12newsnow.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-21T00:29:00Z",
+        "url": "https://www.12newsnow.com/video/news/local/kerr-county-installs-flash-flood-sirens-ahead-of-summer-camp-season/502-498e074a-8b4c-40da-9295-5a88d0323aaf",
+        "mention_text": "Kerr County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kerr County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1827126,
+        "run_at": "2026-05-21T09:44:49.097130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.atlantanewsfirst.com/2026/05/20/live-flash-flood-warning-issued-heavy-rain-falls-across-city-all-lanes-downtown-connector-closed/",
+        "title": "Flash flood warning canceled after heavy rain falls across Atlanta",
+        "source": "Atlanta News First",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-20T21:39:00Z",
+        "url": "https://www.atlantanewsfirst.com/2026/05/20/live-flash-flood-warning-issued-heavy-rain-falls-across-city-all-lanes-downtown-connector-closed/",
+        "mention_text": "Atlanta",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-05-21T09:44:49.097130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wsbtv.com/news/local/atlanta/waymo-pauses-service-metro-atlanta-after-ride-gets-stuck-flash-flood/DVB6DYGNV5HETNAZ762223W5K4/",
+        "title": "Waymo pauses service in metro Atlanta after car gets stuck in flash flood",
+        "source": "WSB-TV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-21T04:57:15Z",
+        "url": "https://www.wsbtv.com/news/local/atlanta/waymo-pauses-service-metro-atlanta-after-ride-gets-stuck-flash-flood/DVB6DYGNV5HETNAZ762223W5K4/",
+        "mention_text": "Atlanta",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-05-21T09:44:49.097130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4672807,
+          38.7984557
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.therepublic.com/2026/05/20/flood-warning-issued-for-east-fork-white-river-and-flatrock-river/",
+        "title": "Flood warning issued for East Fork White River and Flatrock River",
+        "source": "The Republic News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-20T16:14:40Z",
+        "url": "https://www.therepublic.com/2026/05/20/flood-warning-issued-for-east-fork-white-river-and-flatrock-river/",
+        "mention_text": "East Fork White River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "East Fork White River, Indiana, United States",
+        "osm_type": "river",
+        "osm_id": 2822157,
+        "run_at": "2026-05-21T09:44:49.097130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8463158,
+          39.3665454
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.therepublic.com/2026/05/20/flood-warning-issued-for-east-fork-white-river-and-flatrock-river/",
+        "title": "Flood warning issued for East Fork White River and Flatrock River",
+        "source": "The Republic News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-20T16:14:40Z",
+        "url": "https://www.therepublic.com/2026/05/20/flood-warning-issued-for-east-fork-white-river-and-flatrock-river/",
+        "mention_text": "Flatrock River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Flatrock River, Willow Park, Shelby County, Indiana, United States",
+        "osm_type": "river",
+        "osm_id": 308117959,
+        "run_at": "2026-05-21T09:44:49.097130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3884839,
+          30.045717
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wfaa.com/video/news/state/texas-news/kerr-county-installs-first-flash-flood-warning-sirens-in-texas-ahead-of-camp-season/287-9c6501a7-cd34-4170-b35a-60310de6dca1",
+        "title": "Kerr County installs first flash flood warning sirens in Texas ahead of camp season",
+        "source": "WFAA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-20T21:04:00Z",
+        "url": "https://www.wfaa.com/video/news/state/texas-news/kerr-county-installs-first-flash-flood-warning-sirens-in-texas-ahead-of-camp-season/287-9c6501a7-cd34-4170-b35a-60310de6dca1",
+        "mention_text": "Kerr County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kerr County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1827126,
+        "run_at": "2026-05-21T09:44:49.097130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wfaa.com/video/news/state/texas-news/kerr-county-installs-first-flash-flood-warning-sirens-in-texas-ahead-of-camp-season/287-9c6501a7-cd34-4170-b35a-60310de6dca1",
+        "title": "Kerr County installs first flash flood warning sirens in Texas ahead of camp season",
+        "source": "WFAA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-20T21:04:00Z",
+        "url": "https://www.wfaa.com/video/news/state/texas-news/kerr-county-installs-first-flash-flood-warning-sirens-in-texas-ahead-of-camp-season/287-9c6501a7-cd34-4170-b35a-60310de6dca1",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-05-21T09:44:49.097130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.atlantanewsfirst.com/gallery/2026/05/20/flash-flood-warning-issued-heavy-rain-falls-across-atlanta/",
+        "title": "Flash flood warning issued as heavy rain falls across Atlanta",
+        "source": "Atlanta News First",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-20T22:14:00Z",
+        "url": "https://www.atlantanewsfirst.com/gallery/2026/05/20/flash-flood-warning-issued-heavy-rain-falls-across-atlanta/",
+        "mention_text": "Atlanta",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-05-21T09:44:49.097130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.atlantanewsfirst.com/video/2026/05/20/flash-flood-warning-issued-atlanta-heavy-rain-falls-across-city/",
+        "title": "Flash flood warning issued in Atlanta as heavy rain falls across city",
+        "source": "Atlanta News First",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-20T21:40:00Z",
+        "url": "https://www.atlantanewsfirst.com/video/2026/05/20/flash-flood-warning-issued-atlanta-heavy-rain-falls-across-city/",
+        "mention_text": "Atlanta",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-05-21T09:44:49.097130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ajc.com/news/2026/05/flash-flood-warning-hits-atlanta-after-downpours-during-rush-hour/",
+        "title": "Flash flood warning hits Atlanta after downpours during rush hour",
+        "source": "AJC.com",
+        "outlet_city": "Atlanta",
+        "outlet_region": "Georgia",
+        "published_at": "2026-05-20T23:23:21Z",
+        "url": "https://www.ajc.com/news/2026/05/flash-flood-warning-hits-atlanta-after-downpours-during-rush-hour/",
+        "mention_text": "Atlanta",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-05-21T09:44:49.097130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.hindustantimes.com/world-news/us-news/atlanta-under-flash-flood-warning-scary-videos-show-cars-stuck-on-highway-as-water-rises-watch-georgia-101779319887057.html",
+        "title": "Atlanta under flash flood warning: Scary videos show cars stuck on highway as water rises | Hindustan Times",
+        "source": "Hindustan Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-20T23:41:06Z",
+        "url": "https://www.hindustantimes.com/world-news/us-news/atlanta-under-flash-flood-warning-scary-videos-show-cars-stuck-on-highway-as-water-rises-watch-georgia-101779319887057.html",
+        "mention_text": "Atlanta",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-05-21T09:44:49.097130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.atlantanewsfirst.com/2026/05/20/first-alert-weather-day-afternoon-evening-storms/",
+        "title": "FIRST ALERT WEATHER DAYS: Flash Flood Warning Issued for Atlanta",
+        "source": "Atlanta News First",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-20T09:34:00Z",
+        "url": "https://www.atlantanewsfirst.com/2026/05/20/first-alert-weather-day-afternoon-evening-storms/",
+        "mention_text": "Atlanta",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-05-21T09:44:49.097130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1845556,
+          40.4714305
+        ]
+      },
+      "properties": {
+        "article_id": "https://roughdraftatlanta.com/2026/05/20/flash-flood-warning-fulton-dekalb/",
+        "title": "Flood warning issued for Fulton and DeKalb counties",
+        "source": "Rough Draft Atlanta",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-20T21:59:47Z",
+        "url": "https://roughdraftatlanta.com/2026/05/20/flash-flood-warning-fulton-dekalb/",
+        "mention_text": "Fulton",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Fulton County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1800719,
+        "run_at": "2026-05-21T09:44:49.097130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7713953,
+          41.8903447
+        ]
+      },
+      "properties": {
+        "article_id": "https://roughdraftatlanta.com/2026/05/20/flash-flood-warning-fulton-dekalb/",
+        "title": "Flood warning issued for Fulton and DeKalb counties",
+        "source": "Rough Draft Atlanta",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-20T21:59:47Z",
+        "url": "https://roughdraftatlanta.com/2026/05/20/flash-flood-warning-fulton-dekalb/",
+        "mention_text": "DeKalb",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "DeKalb County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1800059,
+        "run_at": "2026-05-21T09:44:49.097130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6060984,
+          33.1609629
+        ]
+      },
+      "properties": {
+        "article_id": "https://hoodline.com/2026/05/flash-flood-alert-has-collin-and-denton-on-edge/",
+        "title": "Flash Flood Alert Has Collin And Denton On Edge",
+        "source": "Hoodline",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-20T19:51:18Z",
+        "url": "https://hoodline.com/2026/05/flash-flood-alert-has-collin-and-denton-on-edge/",
+        "mention_text": "Collin",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Collin County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837688,
+        "run_at": "2026-05-21T09:44:49.097130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modernghana.com/videonews/cnn/1/652666/",
+        "title": "Cars stuck in flash flood as heavy rain hits Atlanta",
+        "source": "Modern Ghana",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-21T05:33:02Z",
+        "url": "https://www.modernghana.com/videonews/cnn/1/652666/",
+        "mention_text": "Atlanta",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-05-21T09:44:49.097130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6060984,
+          33.1609629
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ibtimes.co.uk/severe-flooding-persists-north-texas-midwest-1797940",
+        "title": "Flash Flood Warning: Severe Rain Has Ended in Collin and Denton Counties, But Flooding of Low-Lying Areas Still Persist",
+        "source": "International Business Times UK",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-20T14:31:16Z",
+        "url": "https://www.ibtimes.co.uk/severe-flooding-persists-north-texas-midwest-1797940",
+        "mention_text": "Collin",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Collin County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837688,
+        "run_at": "2026-05-21T09:44:49.097130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.hindustantimes.com/world-news/us-news/new-york-city-flash-flood-videos-from-bushwick-show-wilson-avenue-under-water-amid-storm-watch-101779321543104.html",
+        "title": "New York City flash flood: Videos from Bushwick show Wilson Avenue under water amid storm; watch | Hindustan Times",
+        "source": "Hindustan Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-21T00:15:10Z",
+        "url": "https://www.hindustantimes.com/world-news/us-news/new-york-city-flash-flood-videos-from-bushwick-show-wilson-avenue-under-water-amid-storm-watch-101779321543104.html",
+        "mention_text": "New York City",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-05-21T09:44:49.097130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9042827,
+          40.6885422
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.hindustantimes.com/world-news/us-news/new-york-city-flash-flood-videos-from-bushwick-show-wilson-avenue-under-water-amid-storm-watch-101779321543104.html",
+        "title": "New York City flash flood: Videos from Bushwick show Wilson Avenue under water amid storm; watch | Hindustan Times",
+        "source": "Hindustan Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-21T00:15:10Z",
+        "url": "https://www.hindustantimes.com/world-news/us-news/new-york-city-flash-flood-videos-from-bushwick-show-wilson-avenue-under-water-amid-storm-watch-101779321543104.html",
+        "mention_text": "Wilson Avenue",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Wilson Avenue, Bushwick, Brooklyn, Kings County, New York, 11207, United States",
+        "osm_type": "station",
+        "osm_id": 597937433,
+        "run_at": "2026-05-21T09:44:49.097130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0273724,
+          44.9507513
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/severe-weather/flood-advisory-issued-for-parts-of-southeast-louisiana-new-orleans-jefferson-st-charles-bernard/289-5fa5f514-6bdf-4a25-baa8-f51b3973f498",
+        "title": "Flood Advisory expires for parts of Southeast Louisiana",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-20T22:35:00Z",
+        "url": "https://www.wwltv.com/article/weather/severe-weather/flood-advisory-issued-for-parts-of-southeast-louisiana-new-orleans-jefferson-st-charles-bernard/289-5fa5f514-6bdf-4a25-baa8-f51b3973f498",
+        "mention_text": "Southeast Louisiana",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Popeyes, 1722, Suburban Avenue, Battle Creek, Southeast, Saint Paul, Ramsey County, Minnesota, 55106, United States",
+        "osm_type": "fast_food",
+        "osm_id": 746275450,
+        "run_at": "2026-05-21T09:44:49.097130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7561392,
+          30.2878569
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbsaustin.com/news/local/travis-county-crews-rescue-driver-from-flooded-road-near-manor",
+        "title": "Travis County crews rescue driver from flooded road near Manor",
+        "source": "KEYE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-20T14:18:24Z",
+        "url": "https://cbsaustin.com/news/local/travis-county-crews-rescue-driver-from-flooded-road-near-manor",
+        "mention_text": "Travis County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Travis County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 91939,
+        "run_at": "2026-05-21T09:44:49.097130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.555905,
+          30.3420882
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbsaustin.com/news/local/travis-county-crews-rescue-driver-from-flooded-road-near-manor",
+        "title": "Travis County crews rescue driver from flooded road near Manor",
+        "source": "KEYE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-20T14:18:24Z",
+        "url": "https://cbsaustin.com/news/local/travis-county-crews-rescue-driver-from-flooded-road-near-manor",
+        "mention_text": "Manor",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Manor, Travis County, Texas, 78653, United States",
+        "osm_type": "administrative",
+        "osm_id": 113453,
+        "run_at": "2026-05-21T09:44:49.097130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3676974,
+          29.7589382
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox26houston.com/weather/houston-weather-wednesday-may-20-2026",
+        "title": "Houston weather: Heavy rain, scattered storms for Wednesday, flood advisory",
+        "source": "FOX 26 Houston",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-20T11:46:38Z",
+        "url": "https://www.fox26houston.com/weather/houston-weather-wednesday-may-20-2026",
+        "mention_text": "Houston",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Houston, Harris County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 2688911,
+        "run_at": "2026-05-21T09:44:49.097130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercedsunstar.com/news/weather-news/article315770888.html",
+        "title": "UPDATE: Coastal flood advisory affecting North Bay Interior Valleys until 3 a.m. Tuesday",
+        "source": "Merced Sun-Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-18T16:15:06Z",
+        "url": "https://www.mercedsunstar.com/news/weather-news/article315770888.html",
+        "mention_text": "North Bay",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-05-21T09:44:49.097130+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-05-20T09:34:47.769459+00:00",
-    "total_features": 1101
+    "last_updated": "2026-05-21T09:44:49.102955+00:00",
+    "total_features": 1130
   }
 }
