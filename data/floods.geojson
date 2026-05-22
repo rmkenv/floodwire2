@@ -29380,11 +29380,271 @@
         "osm_id": 251484,
         "run_at": "2026-05-21T09:44:49.097130+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8085436,
+          31.4274044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox7austin.com/weather/austin-weather-flash-flood-warning",
+        "title": "Austin weather: Flash Flood Warning for multiple Central Texas counties",
+        "source": "FOX 7 Austin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-21T23:04:47Z",
+        "url": "https://www.fox7austin.com/weather/austin-weather-flash-flood-warning",
+        "mention_text": "Central Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, Angelina County, Texas, 76969, United States",
+        "osm_type": "hamlet",
+        "osm_id": 151831870,
+        "run_at": "2026-05-22T09:05:51.506780+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5984726,
+          30.7761604
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/flash-flood-warning-for-pearl-river-county-st-tammany-parish-under-flood-advisory/289-eb0b7960-0505-4f7a-a826-079a219c3bac",
+        "title": "Flash Flood Warning for Pearl River County, St. Tammany under Flood Advisory",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-21T20:45:00Z",
+        "url": "https://www.wwltv.com/article/weather/flash-flood-warning-for-pearl-river-county-st-tammany-parish-under-flood-advisory/289-eb0b7960-0505-4f7a-a826-079a219c3bac",
+        "mention_text": "Pearl River County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pearl River County, Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832972,
+        "run_at": "2026-05-22T09:05:51.506780+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9730381,
+          30.4243909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/flash-flood-warning-for-pearl-river-county-st-tammany-parish-under-flood-advisory/289-eb0b7960-0505-4f7a-a826-079a219c3bac",
+        "title": "Flash Flood Warning for Pearl River County, St. Tammany under Flood Advisory",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-21T20:45:00Z",
+        "url": "https://www.wwltv.com/article/weather/flash-flood-warning-for-pearl-river-county-st-tammany-parish-under-flood-advisory/289-eb0b7960-0505-4f7a-a826-079a219c3bac",
+        "mention_text": "St. Tammany",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "St. Tammany Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836431,
+        "run_at": "2026-05-22T09:05:51.506780+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-kr4yox95ru8v2ivi",
+        "title": "Rounds of heavy rain trigger Flash Flood Warnings across Texas and the South, with more storms ahead",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-21T10:41:04Z",
+        "url": "https://www.foxweather.com/watch/fmc-kr4yox95ru8v2ivi",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-05-22T09:05:51.506780+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3170402,
+          29.8494044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-kr4yox95ru8v2ivi",
+        "title": "Rounds of heavy rain trigger Flash Flood Warnings across Texas and the South, with more storms ahead",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-21T10:41:04Z",
+        "url": "https://www.foxweather.com/watch/fmc-kr4yox95ru8v2ivi",
+        "mention_text": "South",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "St. Augustine South, Saint Johns County, Florida, 32086, United States",
+        "osm_type": "town",
+        "osm_id": 13203803220,
+        "run_at": "2026-05-22T09:05:51.506780+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8085436,
+          31.4274044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kcentv.com/video/weather/rain-and-flash-flood-risks-return-to-central-texas-tonight-central-texas-forecast/500-dd29e6c8-63dc-4b7f-b37a-e811ea8b1f95",
+        "title": "Rain and flash flood risks return to Central Texas tonight | Central Texas Forecast",
+        "source": "KCENTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-21T16:47:00Z",
+        "url": "https://www.kcentv.com/video/weather/rain-and-flash-flood-risks-return-to-central-texas-tonight-central-texas-forecast/500-dd29e6c8-63dc-4b7f-b37a-e811ea8b1f95",
+        "mention_text": "Central Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, Angelina County, Texas, 76969, United States",
+        "osm_type": "hamlet",
+        "osm_id": 151831870,
+        "run_at": "2026-05-22T09:05:51.506780+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3884839,
+          30.045717
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox7austin.com/news/kerr-county-installs-first-flash-flood-warning-sirens-under-senate-bill-3",
+        "title": "Kerr County installs first flash flood warning sirens under Senate Bill 3",
+        "source": "FOX 7 Austin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-20T15:56:58Z",
+        "url": "https://www.fox7austin.com/news/kerr-county-installs-first-flash-flood-warning-sirens-under-senate-bill-3",
+        "mention_text": "Kerr County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kerr County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1827126,
+        "run_at": "2026-05-22T09:05:51.506780+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/vehicles-around-atlanta-stuck-flash-110718909.html",
+        "title": "Vehicles around Atlanta stuck in flash flood",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-21T11:07:18Z",
+        "url": "https://www.yahoo.com/news/videos/vehicles-around-atlanta-stuck-flash-110718909.html",
+        "mention_text": "Atlanta",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-05-22T09:05:51.506780+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.67623,
+          36.1497114
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article315846173.html",
+        "title": "Wilkes and Yadkin counties placed under a flood advisory until Thursday evening",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-21T20:13:11Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article315846173.html",
+        "mention_text": "Yadkin",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Yadkin County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528758,
+        "run_at": "2026-05-22T09:05:51.506780+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5141209,
+          28.8512851
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/articles/flood-advisory-active-citrus-sumter-191820844.html",
+        "title": "Flood advisory active for Citrus and Sumter counties early Tuesday evening due to prolonged rain",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-12T07:00:00Z",
+        "url": "https://www.yahoo.com/news/articles/flood-advisory-active-citrus-sumter-191820844.html",
+        "mention_text": "Citrus",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Citrus County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210740,
+        "run_at": "2026-05-22T09:05:51.506780+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-05-21T09:44:49.102955+00:00",
-    "total_features": 1130
+    "last_updated": "2026-05-22T09:05:51.512345+00:00",
+    "total_features": 1140
   }
 }
