@@ -29640,11 +29640,453 @@
         "osm_id": 1210740,
         "run_at": "2026-05-22T09:05:51.506780+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1219348,
+          31.0834452
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article315865004.html",
+        "title": "Flash flood warning affecting Trinity County Friday night due to thunderstorms",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-23T02:19:06Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article315865004.html",
+        "mention_text": "Trinity County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Trinity County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1840980,
+        "run_at": "2026-05-23T08:22:17.003140+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8283132,
+          40.7135078
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nyc.gov/site/fdny/news/PI2826/mayor-zohran-mamdani-fdny-commissioner-lillian-bonsignore-deliver-remarks-flash-flood",
+        "title": "Mayor Zohran Mamdani and FDNY Commissioner Lillian Bonsignore deliver remarks on a flash flood rescue in Queens",
+        "source": "NYC.gov",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-22T19:05:45Z",
+        "url": "https://www.nyc.gov/site/fdny/news/PI2826/mayor-zohran-mamdani-fdny-commissioner-lillian-bonsignore-deliver-remarks-flash-flood",
+        "mention_text": "Queens",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Queens, Queens County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 9691819,
+        "run_at": "2026-05-23T08:22:17.003140+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3520606,
+          30.6108618
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.chron.com/news/houston-texas/article/flash-floods-thunderstorms-houston-study-22272214.php",
+        "title": "Texas cities may be fueling deadly flash flood thunderstorms, study says",
+        "source": "Chron",
+        "outlet_city": "Houston",
+        "outlet_region": "Texas",
+        "published_at": "2026-05-22T15:48:27Z",
+        "url": "https://www.chron.com/news/houston-texas/article/flash-floods-thunderstorms-houston-study-22272214.php",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas A&M University, 400, Bizzell Street, College Station, Brazos County, Texas, 77843, United States",
+        "osm_type": "university",
+        "osm_id": 8556620,
+        "run_at": "2026-05-23T08:22:17.003140+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5127405,
+          39.1012809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cincinnati.com/story/weather/2026/05/22/cincinnati-weather-taste-of-cincinnati-2026-ohio-memorial-day-weekend-forecast/90211690007/",
+        "title": "Taste of Cincinnati ending early Friday amid heavy rain, flood watch",
+        "source": "Cincinnati Enquirer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-22T23:56:00Z",
+        "url": "https://www.cincinnati.com/story/weather/2026/05/22/cincinnati-weather-taste-of-cincinnati-2026-ohio-memorial-day-weekend-forecast/90211690007/",
+        "mention_text": "Cincinnati",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Cincinnati, Hamilton County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 183453,
+        "run_at": "2026-05-23T08:22:17.003140+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3676974,
+          29.7589382
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.axios.com/local/houston/2026/05/22/houston-weather-memorial-day-2026",
+        "title": "Flash flood risk looms over Houston's Memorial Day weekend",
+        "source": "Axios",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-22T11:55:05Z",
+        "url": "https://www.axios.com/local/houston/2026/05/22/houston-weather-memorial-day-2026",
+        "mention_text": "Houston",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Houston, Harris County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 2688911,
+        "run_at": "2026-05-23T08:22:17.003140+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4951405,
+          29.4246002
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kens5.com/article/weather/flooding/san-antonio-firefighters-flood-awareness-week-dangers-tips-weather/273-5facc19d-d9ce-4912-b117-dbfc24b21fe4",
+        "title": "San Antonio firefighters highlight flash flood dangers amid Flood Awareness Week",
+        "source": "kens5.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-20T11:52:00Z",
+        "url": "https://www.kens5.com/article/weather/flooding/san-antonio-firefighters-flood-awareness-week-dangers-tips-weather/273-5facc19d-d9ce-4912-b117-dbfc24b21fe4",
+        "mention_text": "San Antonio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Antonio, Bexar County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 253556,
+        "run_at": "2026-05-23T08:22:17.003140+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mysanantonio.com/news/weather/article/medina-lake-water-levels-22272026.php",
+        "title": "Drought-stricken Texas lake rises as flash flood threat grows",
+        "source": "MySA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-22T17:17:11Z",
+        "url": "https://www.mysanantonio.com/news/weather/article/medina-lake-water-levels-22272026.php",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-05-23T08:22:17.003140+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3676974,
+          29.7589382
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.chron.com/weather/article/southeast-texas-braces-storms-weekend-22270260.php",
+        "title": "Flash flood risk rises in Houston ahead of Memorial Day weekend",
+        "source": "Chron",
+        "outlet_city": "Houston",
+        "outlet_region": "Texas",
+        "published_at": "2026-05-22T09:17:52Z",
+        "url": "https://www.chron.com/weather/article/southeast-texas-braces-storms-weekend-22270260.php",
+        "mention_text": "Houston",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Houston, Harris County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 2688911,
+        "run_at": "2026-05-23T08:22:17.003140+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1896218,
+          39.7592743
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whio.com/news/local/flood-advisory-issued-parts-miami-valley/UVBLTHUXXJHJ3J76WWVWFC53NA/",
+        "title": "Flood Advisory issued for parts of the Miami Valley",
+        "source": "WHIO TV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-23T05:18:34Z",
+        "url": "https://www.whio.com/news/local/flood-advisory-issued-parts-miami-valley/UVBLTHUXXJHJ3J76WWVWFC53NA/",
+        "mention_text": "the Miami Valley",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Big Brothers Big Sisters of the Greater Miami Valley, 22, South Jefferson Street, East Second Street Historic District, Dayton, Montgomery County, Ohio, 45423, United States",
+        "osm_type": "social_facility",
+        "osm_id": 6875535213,
+        "run_at": "2026-05-23T08:22:17.003140+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0273724,
+          44.9507513
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/new-orleans-monday-flood-advisory-may-22/71259170",
+        "title": "Flood Advisory issued for Southeast Louisiana. Here's what you need to know",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-22T21:07:00Z",
+        "url": "https://www.wdsu.com/article/new-orleans-monday-flood-advisory-may-22/71259170",
+        "mention_text": "Southeast Louisiana",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Popeyes, 1722, Suburban Avenue, Battle Creek, Southeast, Saint Paul, Ramsey County, Minnesota, 55106, United States",
+        "osm_type": "fast_food",
+        "osm_id": 746275450,
+        "run_at": "2026-05-23T08:22:17.003140+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1896218,
+          39.7592743
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flood-advisory-issued-parts-miami-051834426.html",
+        "title": "Flood Advisory issued for parts of the Miami Valley",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-23T05:18:00Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flood-advisory-issued-parts-miami-051834426.html",
+        "mention_text": "the Miami Valley",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Big Brothers Big Sisters of the Greater Miami Valley, 22, South Jefferson Street, East Second Street Historic District, Dayton, Montgomery County, Ohio, 45423, United States",
+        "osm_type": "social_facility",
+        "osm_id": 6875535213,
+        "run_at": "2026-05-23T08:22:17.003140+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.007126,
+          30.8703881
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/parts-of-orleans-jefferson-parish-under-flood-advisory/289-bc0df3e4-1f51-4e09-8701-720c7b782a4a",
+        "title": "Parts of Orleans, Jefferson under Flood Advisory; Severe Thunderstorm Warning for much of SE Louisiana",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-22T20:39:00Z",
+        "url": "https://www.wwltv.com/article/weather/parts-of-orleans-jefferson-parish-under-flood-advisory/289-bc0df3e4-1f51-4e09-8701-720c7b782a4a",
+        "mention_text": "Louisiana",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 224922,
+        "run_at": "2026-05-23T08:22:17.003140+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bbc.com/news/articles/ckgplyxxl75o",
+        "title": "Waymo pauses robotaxis in four Texas cities and Atlanta over flooded road risk",
+        "source": "BBC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-22T16:10:21Z",
+        "url": "https://www.bbc.com/news/articles/ckgplyxxl75o",
+        "mention_text": "Texas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-05-23T08:22:17.003140+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bbc.com/news/articles/ckgplyxxl75o",
+        "title": "Waymo pauses robotaxis in four Texas cities and Atlanta over flooded road risk",
+        "source": "BBC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-22T16:10:21Z",
+        "url": "https://www.bbc.com/news/articles/ckgplyxxl75o",
+        "mention_text": "Atlanta",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-05-23T08:22:17.003140+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.67623,
+          36.1497114
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article315846173.html",
+        "title": "Wilkes and Yadkin counties placed under a flood advisory until Thursday evening",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-21T20:13:11Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article315846173.html",
+        "mention_text": "Yadkin",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Yadkin County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528758,
+        "run_at": "2026-05-23T08:22:17.003140+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbtnews.com/waymo-pauses-atlanta-robotaxi-service/",
+        "title": "Waymo halts Atlanta robotaxi service after vehicle drives into flooded road",
+        "source": "CBT News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-22T10:00:43Z",
+        "url": "https://www.cbtnews.com/waymo-pauses-atlanta-robotaxi-service/",
+        "mention_text": "Atlanta",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-05-23T08:22:17.003140+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article315589421.html",
+        "title": "UPDATE: Coastal flood advisory for Coastal Colleton and Charleston County",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-02T07:00:00Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article315589421.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-05-23T08:22:17.003140+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-05-22T09:05:51.512345+00:00",
-    "total_features": 1140
+    "last_updated": "2026-05-23T08:22:17.009207+00:00",
+    "total_features": 1157
   }
 }
