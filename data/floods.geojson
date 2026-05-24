@@ -30082,11 +30082,401 @@
         "osm_id": 1857000,
         "run_at": "2026-05-23T08:22:17.003140+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1704496,
+          29.834772
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/flash-flood-warning-for-orleans-jefferson-st-bernard-and-plaquemines-until-515-am/289-88799729-f04e-4c20-9646-07e6054725f7",
+        "title": "Flash Flood Warning for Orleans, Jefferson, St. Bernard and Plaquemines until 5:15 a.m.",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-24T08:07:00Z",
+        "url": "https://www.wwltv.com/article/weather/flash-flood-warning-for-orleans-jefferson-st-bernard-and-plaquemines-until-515-am/289-88799729-f04e-4c20-9646-07e6054725f7",
+        "mention_text": "Jefferson",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Jefferson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1841074,
+        "run_at": "2026-05-24T08:33:02.837727+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7776556,
+          39.0505411
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wftv.com/news/local/flood-warning-issued-lake-county-until-1000-pm/2XH4OK2Z5NF6BAYMKYYUMVPAFM/",
+        "title": "Flood Warning issued for Lake County until 10:00 pm",
+        "source": "WFTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-24T01:04:00Z",
+        "url": "https://www.wftv.com/news/local/flood-warning-issued-lake-county-until-1000-pm/2XH4OK2Z5NF6BAYMKYYUMVPAFM/",
+        "mention_text": "Lake County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Lake County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396502,
+        "run_at": "2026-05-24T08:33:02.837727+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3676974,
+          29.7589382
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.houstonchronicle.com/news/houston-weather/forecast/article/houston-flood-risk-ramps-up-memorial-day-weekend-22269397.php",
+        "title": "Flash flood warning issued: Here's how long rain will last in Houston",
+        "source": "Houston Chronicle",
+        "outlet_city": "Houston",
+        "outlet_region": "Texas",
+        "published_at": "2026-05-23T21:45:22Z",
+        "url": "https://www.houstonchronicle.com/news/houston-weather/forecast/article/houston-flood-risk-ramps-up-memorial-day-weekend-22269397.php",
+        "mention_text": "Houston",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Houston, Harris County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 2688911,
+        "run_at": "2026-05-24T08:33:02.837727+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5141209,
+          28.8512851
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tampabay.com/news/weather/2026/05/23/flash-flood-warning-citrus-sumter-counties-until-1-am-sunday-caused-by-thunderstorms/",
+        "title": "Flash flood warning for Citrus and Sumter counties until 1 a.m. Sunday caused by thunderstorms",
+        "source": "Tampa Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-24T03:31:21Z",
+        "url": "https://www.tampabay.com/news/weather/2026/05/23/flash-flood-warning-citrus-sumter-counties-until-1-am-sunday-caused-by-thunderstorms/",
+        "mention_text": "Citrus",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Citrus County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210740,
+        "run_at": "2026-05-24T08:33:02.837727+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/warm-humid-weekend-ahead-scattered-131859250.html",
+        "title": "Scattered storms across metro Atlanta cause flash flood warnings; warm, humid weekend ahead",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-24T03:35:00Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/warm-humid-weekend-ahead-scattered-131859250.html",
+        "mention_text": "Atlanta",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-05-24T08:33:02.837727+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4993375,
+          29.18161
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.khou.com/video/weather/weather-impact-flash-flood-warning-for-brazoria-and-galveston-counties-extended/285-d58ccb40-cdc3-4032-8105-a1fdf1d2782b",
+        "title": "Weather Impact: Flash Flood Warning for Brazoria and Galveston counties extended",
+        "source": "KHOU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-23T20:47:00Z",
+        "url": "https://www.khou.com/video/weather/weather-impact-flash-flood-warning-for-brazoria-and-galveston-counties-extended/285-d58ccb40-cdc3-4032-8105-a1fdf1d2782b",
+        "mention_text": "Brazoria",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Brazoria County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1560527,
+        "run_at": "2026-05-24T08:33:02.837727+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.992736,
+          29.3872254
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.khou.com/video/weather/weather-impact-flash-flood-warning-for-brazoria-and-galveston-counties-extended/285-d58ccb40-cdc3-4032-8105-a1fdf1d2782b",
+        "title": "Weather Impact: Flash Flood Warning for Brazoria and Galveston counties extended",
+        "source": "KHOU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-23T20:47:00Z",
+        "url": "https://www.khou.com/video/weather/weather-impact-flash-flood-warning-for-brazoria-and-galveston-counties-extended/285-d58ccb40-cdc3-4032-8105-a1fdf1d2782b",
+        "mention_text": "Galveston",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Galveston County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1560526,
+        "run_at": "2026-05-24T08:33:02.837727+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1219348,
+          31.0834452
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article315865004.html",
+        "title": "Flash flood warning affecting Trinity County Friday night due to thunderstorms",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-23T02:19:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article315865004.html",
+        "mention_text": "Trinity County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Trinity County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1840980,
+        "run_at": "2026-05-24T08:33:02.837727+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5141209,
+          28.8512851
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-citrus-sumter-034349975.html",
+        "title": "Flash flood warning for Citrus and Sumter counties until 1 a.m. Sunday caused by thunderstorms",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-24T03:43:00Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-citrus-sumter-034349975.html",
+        "mention_text": "Citrus",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Citrus County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210740,
+        "run_at": "2026-05-24T08:33:02.837727+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6623566,
+          30.3270682
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tampabay.com/news/weather/2026/05/23/update-flood-advisory-place-central-west-florida-until-early-sunday-caused-by-substantial-rain/",
+        "title": "Update: Flood advisory in place for Central West Florida until early Sunday caused by substantial rain",
+        "source": "Tampa Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-24T02:45:00Z",
+        "url": "https://www.tampabay.com/news/weather/2026/05/23/update-flood-advisory-place-central-west-florida-until-early-sunday-caused-by-substantial-rain/",
+        "mention_text": "Central West Florida",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Central, West Bay Street, South Jacksonville, Jacksonville, Duval County, Florida, 32202, United States",
+        "osm_type": "station",
+        "osm_id": 8427291143,
+        "run_at": "2026-05-24T08:33:02.837727+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6623566,
+          30.3270682
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flood-advisory-place-central-west-030349237.html",
+        "title": "Update: Flood advisory in place for Central West Florida until early Sunday caused by substantial rain",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-24T03:03:00Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flood-advisory-place-central-west-030349237.html",
+        "mention_text": "Central West Florida",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Central, West Bay Street, South Jacksonville, Jacksonville, Duval County, Florida, 32202, United States",
+        "osm_type": "station",
+        "osm_id": 8427291143,
+        "run_at": "2026-05-24T08:33:02.837727+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7965744,
+          32.5537587
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whio.com/news/local/flood-advisory-posted-miami-saturday-morning-rain-chances-continue/TC77JWZQ5ZA3RGMKFDRJBKC6PI/",
+        "title": "Flood advisory posted for Miami Valley Saturday morning as rain chances continue",
+        "source": "WHIO TV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-23T13:10:53Z",
+        "url": "https://www.whio.com/news/local/flood-advisory-posted-miami-saturday-morning-rain-chances-continue/TC77JWZQ5ZA3RGMKFDRJBKC6PI/",
+        "mention_text": "Miami Valley",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Miami Valley, Fort Valley, Peach County, Georgia, 31380, United States",
+        "osm_type": "hamlet",
+        "osm_id": 153837931,
+        "run_at": "2026-05-24T08:33:02.837727+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9438572,
+          34.3609331
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article315869688.html",
+        "title": "UPDATE: The current flood advisory for Darlington and Florence counties will expire at 9:30 p.m.",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-23T18:57:45Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article315869688.html",
+        "mention_text": "Darlington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Darlington County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532503,
+        "run_at": "2026-05-24T08:33:02.837727+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.67623,
+          36.1497114
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article315846173.html",
+        "title": "Wilkes and Yadkin counties placed under a flood advisory until Thursday evening",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-21T20:13:11Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article315846173.html",
+        "mention_text": "Yadkin",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Yadkin County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528758,
+        "run_at": "2026-05-24T08:33:02.837727+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3676974,
+          29.7589382
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/drivers-push-flooded-road-houston-200616451.html",
+        "title": "Drivers Push Through Flooded Road in Houston Suburbs",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-23T20:06:16Z",
+        "url": "https://www.yahoo.com/news/videos/drivers-push-flooded-road-houston-200616451.html",
+        "mention_text": "Houston",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Houston, Harris County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 2688911,
+        "run_at": "2026-05-24T08:33:02.837727+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-05-23T08:22:17.009207+00:00",
-    "total_features": 1157
+    "last_updated": "2026-05-24T08:33:02.843612+00:00",
+    "total_features": 1172
   }
 }
