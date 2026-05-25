@@ -30472,11 +30472,895 @@
         "osm_id": 2688911,
         "run_at": "2026-05-24T08:33:02.837727+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9262399,
+          40.9162435
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtae.com/article/flash-flood-warning-allegheny-and-butler-county/71396814",
+        "title": "Flash Flood Warning in effect for parts of Allegheny and Butler County",
+        "source": "WTAE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T01:28:00Z",
+        "url": "https://www.wtae.com/article/flash-flood-warning-allegheny-and-butler-county/71396814",
+        "mention_text": "Butler County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Butler County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 2563475,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8408415,
+          38.4758406
+        ]
+      },
+      "properties": {
+        "article_id": "https://wchstv.com/news/local/nws-issues-flash-flood-watch-for-portions-of-west-virginia-kentucky-and-ohio",
+        "title": "NWS issues flash flood watch for portions of West Virginia, Kentucky and Ohio",
+        "source": "WCHS",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T05:18:21Z",
+        "url": "https://wchstv.com/news/local/nws-issues-flash-flood-watch-for-portions-of-west-virginia-kentucky-and-ohio",
+        "mention_text": "West Virginia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "West Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 162068,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1551411,
+          37.5726028
+        ]
+      },
+      "properties": {
+        "article_id": "https://wchstv.com/news/local/nws-issues-flash-flood-watch-for-portions-of-west-virginia-kentucky-and-ohio",
+        "title": "NWS issues flash flood watch for portions of West Virginia, Kentucky and Ohio",
+        "source": "WCHS",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T05:18:21Z",
+        "url": "https://wchstv.com/news/local/nws-issues-flash-flood-watch-for-portions-of-west-virginia-kentucky-and-ohio",
+        "mention_text": "Kentucky",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 161655,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6881395,
+          40.2253569
+        ]
+      },
+      "properties": {
+        "article_id": "https://wchstv.com/news/local/nws-issues-flash-flood-watch-for-portions-of-west-virginia-kentucky-and-ohio",
+        "title": "NWS issues flash flood watch for portions of West Virginia, Kentucky and Ohio",
+        "source": "WCHS",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T05:18:21Z",
+        "url": "https://wchstv.com/news/local/nws-issues-flash-flood-watch-for-portions-of-west-virginia-kentucky-and-ohio",
+        "mention_text": "Ohio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 162061,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.135072,
+          32.6662689
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/texas/video/flash-flood-risk-rises-as-slow-moving-storms-soak-north-texas/",
+        "title": "Flash flood risk rises as slow-moving storms soak North Texas",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-24T22:53:00Z",
+        "url": "https://www.cbsnews.com/texas/video/flash-flood-risk-rises-as-slow-moving-storms-soak-north-texas/",
+        "mention_text": "North Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North, Arlington, Tarrant County, Texas, 76017, United States",
+        "osm_type": "residential",
+        "osm_id": 10057724,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8085436,
+          31.4274044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kcentv.com/video/news/local/flash-flood-warnings-in-effect-in-parts-of-central-texas-weather-impact-alert/500-06eb05e4-f75d-4c6c-8036-6c83b491f5e9",
+        "title": "Flash flood warnings in effect in parts of Central Texas | Weather Impact Alert",
+        "source": "KCENTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T03:26:00Z",
+        "url": "https://www.kcentv.com/video/news/local/flash-flood-warnings-in-effect-in-parts-of-central-texas-weather-impact-alert/500-06eb05e4-f75d-4c6c-8036-6c83b491f5e9",
+        "mention_text": "Central Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, Angelina County, Texas, 76969, United States",
+        "osm_type": "hamlet",
+        "osm_id": 151831870,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8408415,
+          38.4758406
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtrf.com/top-stories/flash-flood-warning-issued-for-ohio-valley-2/",
+        "title": "Flash Flood Warning issued for portions of West Virginia and Ohio",
+        "source": "WTRF",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-24T22:06:09Z",
+        "url": "https://www.wtrf.com/top-stories/flash-flood-warning-issued-for-ohio-valley-2/",
+        "mention_text": "West Virginia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "West Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 162068,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6881395,
+          40.2253569
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtrf.com/top-stories/flash-flood-warning-issued-for-ohio-valley-2/",
+        "title": "Flash Flood Warning issued for portions of West Virginia and Ohio",
+        "source": "WTRF",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-24T22:06:09Z",
+        "url": "https://www.wtrf.com/top-stories/flash-flood-warning-issued-for-ohio-valley-2/",
+        "mention_text": "Ohio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 162061,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7968559,
+          32.7762719
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox4news.com/news/dallas-weather-severe-thunderstorm-warning-issued-may-24",
+        "title": "Dallas weather: Severe thunderstorm, flash flood warnings issued as heavy rain pounds North Texas",
+        "source": "FOX 4 News Dallas-Fort Worth",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-24T22:06:57Z",
+        "url": "https://www.fox4news.com/news/dallas-weather-severe-thunderstorm-warning-issued-may-24",
+        "mention_text": "Dallas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dallas, Dallas County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 6571629,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wsbtv.com/news/local/memorial-day-weekend-will-be-rainy-warm-metro-atlanta/QC7XP6LXTJDK5C7B5CHMI2DTG4/",
+        "title": "Flash flood warning issued in metro Atlanta counties",
+        "source": "WSB-TV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T01:05:00Z",
+        "url": "https://www.wsbtv.com/news/local/memorial-day-weekend-will-be-rainy-warm-metro-atlanta/QC7XP6LXTJDK5C7B5CHMI2DTG4/",
+        "mention_text": "Atlanta",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8045599,
+          32.7772597
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article315878957.html",
+        "title": "UPDATE: The current flash flood warning for Parker County will expire at 8:15 p.m.",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-05-24T23:31:01Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article315878957.html",
+        "mention_text": "Parker County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Parker County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836989,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7968559,
+          32.7762719
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wfaa.com/video/news/live-weather-dallas-tarrant-counties-flash-flood-watch/287-47df3cb4-cb8f-4404-aed2-17dde9eb018e",
+        "title": "Live weather | Dallas, Tarrant counties under flash flood warning",
+        "source": "WFAA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-24T22:59:00Z",
+        "url": "https://www.wfaa.com/video/news/live-weather-dallas-tarrant-counties-flash-flood-watch/287-47df3cb4-cb8f-4404-aed2-17dde9eb018e",
+        "mention_text": "Dallas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dallas, Dallas County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 6571629,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.335696,
+          32.7513658
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wfaa.com/video/news/live-weather-dallas-tarrant-counties-flash-flood-watch/287-47df3cb4-cb8f-4404-aed2-17dde9eb018e",
+        "title": "Live weather | Dallas, Tarrant counties under flash flood warning",
+        "source": "WFAA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-24T22:59:00Z",
+        "url": "https://www.wfaa.com/video/news/live-weather-dallas-tarrant-counties-flash-flood-watch/287-47df3cb4-cb8f-4404-aed2-17dde9eb018e",
+        "mention_text": "Tarrant",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tarrant County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837628,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5732006,
+          33.9373948
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.atlantanewsfirst.com/video/2026/05/24/first-alert-weather-flood-warning-issued-cobb-cherokee-counties/",
+        "title": "First Alert Weather: Flood warning issued for Cobb, Cherokee counties",
+        "source": "Atlanta News First",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-24T21:35:36Z",
+        "url": "https://www.atlantanewsfirst.com/video/2026/05/24/first-alert-weather-flood-warning-issued-cobb-cherokee-counties/",
+        "mention_text": "Cobb",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cobb County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 1020125,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.135072,
+          32.6662689
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dallasnews.com/news/weather/article/dallas-weather-sunday-brings-mix-fog-clouds-sun-22273977.php",
+        "title": "Live Radar: Flash flood warnings in effect for parts of North Texas",
+        "source": "Dallas News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T02:09:54Z",
+        "url": "https://www.dallasnews.com/news/weather/article/dallas-weather-sunday-brings-mix-fog-clouds-sun-22273977.php",
+        "mention_text": "North Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North, Arlington, Tarrant County, Texas, 76017, United States",
+        "osm_type": "residential",
+        "osm_id": 10057724,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3170402,
+          29.8494044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-1ovum23ce4qdcrjj",
+        "title": "Days of rain continue to plague the South with growing flash flood risks for millions",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-24T10:29:38Z",
+        "url": "https://www.foxweather.com/watch/fmc-1ovum23ce4qdcrjj",
+        "mention_text": "South",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "St. Augustine South, Saint Johns County, Florida, 32086, United States",
+        "osm_type": "town",
+        "osm_id": 13203803220,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7968559,
+          32.7762719
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wfaa.com/video/weather/forecast/dfw-weather-dallas-tarrant-counties-flash-flood-warnings-14-day-forecast/287-6a2af36d-36b7-45fd-9261-b35eada2b97f",
+        "title": "DFW Weather | Dallas, Tarrant counties under flash flood warnings, 14 day forecast",
+        "source": "WFAA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-24T22:54:00Z",
+        "url": "https://www.wfaa.com/video/weather/forecast/dfw-weather-dallas-tarrant-counties-flash-flood-warnings-14-day-forecast/287-6a2af36d-36b7-45fd-9261-b35eada2b97f",
+        "mention_text": "Dallas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dallas, Dallas County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 6571629,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.335696,
+          32.7513658
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wfaa.com/video/weather/forecast/dfw-weather-dallas-tarrant-counties-flash-flood-warnings-14-day-forecast/287-6a2af36d-36b7-45fd-9261-b35eada2b97f",
+        "title": "DFW Weather | Dallas, Tarrant counties under flash flood warnings, 14 day forecast",
+        "source": "WFAA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-24T22:54:00Z",
+        "url": "https://www.wfaa.com/video/weather/forecast/dfw-weather-dallas-tarrant-counties-flash-flood-warnings-14-day-forecast/287-6a2af36d-36b7-45fd-9261-b35eada2b97f",
+        "mention_text": "Tarrant",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tarrant County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837628,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7968559,
+          32.7762719
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article315878035.html",
+        "title": "UPDATE: Flash flood warning for Dallas and Tarrant counties likely to expire at 8:15 p.m.",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-05-24T21:22:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article315878035.html",
+        "mention_text": "Dallas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dallas, Dallas County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 6571629,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.335696,
+          32.7513658
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article315878035.html",
+        "title": "UPDATE: Flash flood warning for Dallas and Tarrant counties likely to expire at 8:15 p.m.",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-05-24T21:22:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article315878035.html",
+        "mention_text": "Tarrant",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tarrant County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837628,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6541933,
+          30.881299
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wapt.com/article/central-mississippi-stays-unsettled-flash-flood-threat-grows-east-while-coastal-flooding-worsens/71394770",
+        "title": "Central Mississippi stays unsettled, flash flood threat grows east while coastal flooding worsens",
+        "source": "WAPT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-24T12:31:00Z",
+        "url": "https://www.wapt.com/article/central-mississippi-stays-unsettled-flash-flood-threat-grows-east-while-coastal-flooding-worsens/71394770",
+        "mention_text": "Central Mississippi",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, George County, Mississippi, 39452, United States",
+        "osm_type": "hamlet",
+        "osm_id": 153540620,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wsbtv.com/news/local/warm-humid-weekend-ahead-with-scattered-storms-across-metro-atlanta/JPKE4LC4NFGA3KEECTWFTCG6IQ/",
+        "title": "Scattered storms across metro Atlanta cause flash flood warnings; warm, humid weekend ahead",
+        "source": "WSB-TV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-24T03:35:00Z",
+        "url": "https://www.wsbtv.com/news/local/warm-humid-weekend-ahead-with-scattered-storms-across-metro-atlanta/JPKE4LC4NFGA3KEECTWFTCG6IQ/",
+        "mention_text": "Atlanta",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7968559,
+          32.7762719
+        ]
+      },
+      "properties": {
+        "article_id": "https://nbsla.ca/flash-flood-warning-north-texas-heavy-rain-thunderstorms/",
+        "title": "Flash Flood Warning for Dallas & North Texas as Heavy Rain, Thunderstorms and Flight Delays Hit Dallas-Fort Worth",
+        "source": "Nbsla.ca",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T01:49:04Z",
+        "url": "https://nbsla.ca/flash-flood-warning-north-texas-heavy-rain-thunderstorms/",
+        "mention_text": "Dallas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dallas, Dallas County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 6571629,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4526715,
+          28.2988521
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tampabay.com/news/weather/2026/05/24/flash-flood-warning-pasco-county-early-sunday-morning-due-thunderstorms/",
+        "title": "Flash flood warning for Pasco County early Sunday morning due to thunderstorms",
+        "source": "Tampa Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-24T09:07:20Z",
+        "url": "https://www.tampabay.com/news/weather/2026/05/24/flash-flood-warning-pasco-county-early-sunday-morning-due-thunderstorms/",
+        "mention_text": "Pasco County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pasco County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210707,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4526715,
+          28.2988521
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-pasco-county-090351485.html",
+        "title": "Flash flood warning for Pasco County early Sunday morning due to thunderstorms",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-24T09:03:51Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-pasco-county-090351485.html",
+        "mention_text": "Pasco County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pasco County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210707,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9588587,
+          30.3031353
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.gulfcoastnewsnow.com/article/forecast-memorialday-rain-storms-florida-fortmyers/71394455",
+        "title": "Flood Advisory for Lee County until 7:15 pm; 1 to 2 additional inches of rain on the way",
+        "source": "Gulf Coast News and Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-24T21:03:00Z",
+        "url": "https://www.gulfcoastnewsnow.com/article/forecast-memorialday-rain-storms-florida-fortmyers/71394455",
+        "mention_text": "Lee County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Lee County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837662,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.335696,
+          32.7513658
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article315877919.html",
+        "title": "Flood advisory affecting Tarrant County Sunday evening triggered by prolonged downpours",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-05-24T21:02:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article315877919.html",
+        "mention_text": "Tarrant County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Tarrant County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837628,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4526715,
+          28.2988521
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tampabay.com/news/weather/2026/05/24/flood-advisory-pasco-county-until-2-am-sunday-caused-by-prolonged-downpours/",
+        "title": "Flood advisory for Pasco County until 2 a.m. Sunday caused by prolonged downpours",
+        "source": "Tampa Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-24T21:58:48Z",
+        "url": "https://www.tampabay.com/news/weather/2026/05/24/flood-advisory-pasco-county-until-2-am-sunday-caused-by-prolonged-downpours/",
+        "mention_text": "Pasco County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Pasco County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210707,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2322943,
+          30.867067
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtxl.com/weather/weather-alert-flood-advisory-issued-for-grady-county",
+        "title": "Weather Alert: Flood Advisory issued for Grady County",
+        "source": "WTXL ABC 27 Tallahassee News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-24T01:32:46Z",
+        "url": "https://www.wtxl.com/weather/weather-alert-flood-advisory-issued-for-grady-county",
+        "mention_text": "Grady County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Grady County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 1073776,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9438572,
+          34.3609331
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article315869688.html",
+        "title": "UPDATE: The current flood advisory for Darlington and Florence counties will expire at 9:30 p.m.",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-24T01:49:05Z",
+        "url": "https://www.thestate.com/news/weather-news/article315869688.html",
+        "mention_text": "Darlington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Darlington County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532503,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1935973,
+          25.7741566
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flood-advisory-posted-miami-saturday-131053812.html",
+        "title": "Flood advisory posted for Miami Saturday morning as rain chances continue",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-23T13:10:53Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flood-advisory-posted-miami-saturday-131053812.html",
+        "mention_text": "Miami",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Miami, Miami-Dade County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1216769,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7329309,
+          27.8778904
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flood-advisory-affecting-pinellas-county-090351650.html",
+        "title": "Update: Flood advisory affecting Pinellas County until 2 a.m. Sunday due to heavy downpours",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-24T09:03:51Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flood-advisory-affecting-pinellas-county-090351650.html",
+        "mention_text": "Pinellas County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Pinellas County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210726,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4526715,
+          28.2988521
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flood-advisory-pasco-county-until-090352436.html",
+        "title": "Flood advisory for Pasco County until 2 a.m. Sunday caused by prolonged downpours",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-24T09:03:52Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flood-advisory-pasco-county-until-090352436.html",
+        "mention_text": "Pasco County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Pasco County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210707,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailybreeze.com/2026/04/13/flood-advisory-in-place-for-los-angeles-county-monday-afternoon-triggered-by-prolonged-downpours/",
+        "title": "Flood advisory in place for Los Angeles County Monday afternoon triggered by prolonged downpours",
+        "source": "Daily Breeze",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-13T07:00:00Z",
+        "url": "https://www.dailybreeze.com/2026/04/13/flood-advisory-in-place-for-los-angeles-county-monday-afternoon-triggered-by-prolonged-downpours/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-05-25T10:09:22.070840+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-05-24T08:33:02.843612+00:00",
-    "total_features": 1172
+    "last_updated": "2026-05-25T10:09:22.076020+00:00",
+    "total_features": 1206
   }
 }
