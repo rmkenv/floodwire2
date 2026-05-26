@@ -31356,11 +31356,1233 @@
         "osm_id": 396479,
         "run_at": "2026-05-25T10:09:22.070840+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7724889,
+          35.1982216
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article315887835.html",
+        "title": "UPDATE: Flash flood warning affecting Transylvania County until 1 a.m. Tuesday",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-26T04:37:06Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article315887835.html",
+        "mention_text": "Transylvania County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Transylvania County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528748,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9210261,
+          35.9603948
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.knoxnews.com/story/weather/2026/05/25/knoxville-storms-bring-1-3-inches-of-rain-per-hour-and-flash-flood-watch/90254571007/",
+        "title": "Knoxville storms will bring 1-3 inches of rain per hour and flash flood watch",
+        "source": "Knoxville News Sentinel",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T22:53:00Z",
+        "url": "https://www.knoxnews.com/story/weather/2026/05/25/knoxville-storms-bring-1-3-inches-of-rain-per-hour-and-flash-flood-watch/90254571007/",
+        "mention_text": "Knoxville",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Knoxville, Knox County, East Tennessee, Tennessee, United States",
+        "osm_type": "administrative",
+        "osm_id": 197353,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2123296,
+          33.6856157
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article315887929.html",
+        "title": "Flash flood warning issued for Clay County until early Tuesday caused by thunderstorms",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-26T01:57:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article315887929.html",
+        "mention_text": "Clay County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Clay County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836929,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9759066,
+          33.7635851
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article315886202.html",
+        "title": "Flash flood warning issued for Edgefield and McCormick counties Monday evening",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T21:11:06Z",
+        "url": "https://www.thestate.com/news/weather-news/article315886202.html",
+        "mention_text": "Edgefield",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Edgefield County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532505,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2797719,
+          33.8795325
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article315886202.html",
+        "title": "Flash flood warning issued for Edgefield and McCormick counties Monday evening",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T21:11:06Z",
+        "url": "https://www.thestate.com/news/weather-news/article315886202.html",
+        "mention_text": "McCormick",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "McCormick County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532517,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.186346,
+          37.3592837
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wric.com/weather/severe-weather/flash-flood-warning-issued-for-parts-of-central-virginia-2/",
+        "title": "Flash flood warning issued for parts of Central Virginia",
+        "source": "WRIC ABC 8News",
+        "outlet_city": "Richmond",
+        "outlet_region": "Virginia",
+        "published_at": "2026-05-25T23:09:12Z",
+        "url": "https://www.wric.com/weather/severe-weather/flash-flood-warning-issued-for-parts-of-central-virginia-2/",
+        "mention_text": "Central Virginia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central Virginia Community College, 3506, Wards Road, Lynchburg, Virginia, 24502, United States",
+        "osm_type": "college",
+        "osm_id": 117607560,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wsbradio.com/news/local/flash-flood-watch-remains-effect-across-metro-atlanta-memorial-day/DYQ5QNKJEBHUBEIYCUYC3TGGPA/",
+        "title": "Flash flood watch remains in effect across metro Atlanta on Memorial Day",
+        "source": "95.5 WSB",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T19:19:25Z",
+        "url": "https://www.wsbradio.com/news/local/flash-flood-watch-remains-effect-across-metro-atlanta-memorial-day/DYQ5QNKJEBHUBEIYCUYC3TGGPA/",
+        "mention_text": "Atlanta",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0733934,
+          29.9561422
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/video/weather/video-forecast/much-of-new-orleans-area-under-flash-flood-warning/289-3c2affd5-1cce-4f72-8697-9ef5cea3d515",
+        "title": "Much of New Orleans area under flash flood warning",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T17:16:00Z",
+        "url": "https://www.wwltv.com/video/weather/video-forecast/much-of-new-orleans-area-under-flash-flood-warning/289-3c2affd5-1cce-4f72-8697-9ef5cea3d515",
+        "mention_text": "New Orleans",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Orleans, Orleans Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 131885,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.3609662,
+          35.0078434
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article315885688.html",
+        "title": "Flash flood warning in place for Sampson County early Monday evening, says the NWS",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T20:13:05Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article315885688.html",
+        "mention_text": "Sampson County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Sampson County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528742,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2600605,
+          31.3465627
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdam.com/video/2026/05/25/woman-dies-suv-submerged-during-flash-flood-emergency-petal/",
+        "title": "Woman dies, SUV submerged during flash flood emergency in Petal",
+        "source": "WDAM-TV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-26T02:19:32Z",
+        "url": "https://www.wdam.com/video/2026/05/25/woman-dies-suv-submerged-during-flash-flood-emergency-petal/",
+        "mention_text": "Petal",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Petal, Forrest County, Mississippi, 39465, United States",
+        "osm_type": "administrative",
+        "osm_id": 4845091,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0733934,
+          29.9561422
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/weather-impact/flash-flood-advisory-issued-for-new-orleans-area/289-764f802e-6fe4-42af-b6ae-71ce56bf3e07",
+        "title": "Flash flood warning expires for much of the New Orleans area",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T14:41:00Z",
+        "url": "https://www.wwltv.com/article/weather/weather-impact/flash-flood-advisory-issued-for-new-orleans-area/289-764f802e-6fe4-42af-b6ae-71ce56bf3e07",
+        "mention_text": "New Orleans",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Orleans, Orleans Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 131885,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0733934,
+          29.9561422
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nola.com/news/national-weather-service-flash-flood-warning/article_6862205b-05b7-42d2-a456-372672cfd74f.html",
+        "title": "Flash flood warning in effect in parts of New Orleans, Jefferson and St. Bernard",
+        "source": "NOLA.com",
+        "outlet_city": "New Orleans",
+        "outlet_region": "Louisiana",
+        "published_at": "2026-05-25T15:00:00Z",
+        "url": "https://www.nola.com/news/national-weather-service-flash-flood-warning/article_6862205b-05b7-42d2-a456-372672cfd74f.html",
+        "mention_text": "New Orleans",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Orleans, Orleans Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 131885,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1293894,
+          29.8502657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nola.com/news/national-weather-service-flash-flood-warning/article_6862205b-05b7-42d2-a456-372672cfd74f.html",
+        "title": "Flash flood warning in effect in parts of New Orleans, Jefferson and St. Bernard",
+        "source": "NOLA.com",
+        "outlet_city": "New Orleans",
+        "outlet_region": "Louisiana",
+        "published_at": "2026-05-25T15:00:00Z",
+        "url": "https://www.nola.com/news/national-weather-service-flash-flood-warning/article_6862205b-05b7-42d2-a456-372672cfd74f.html",
+        "mention_text": "Jefferson",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Jefferson Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836614,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7492961,
+          30.695039
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nola.com/news/national-weather-service-flash-flood-warning/article_6862205b-05b7-42d2-a456-372672cfd74f.html",
+        "title": "Flash flood warning in effect in parts of New Orleans, Jefferson and St. Bernard",
+        "source": "NOLA.com",
+        "outlet_city": "New Orleans",
+        "outlet_region": "Louisiana",
+        "published_at": "2026-05-25T15:00:00Z",
+        "url": "https://www.nola.com/news/national-weather-service-flash-flood-warning/article_6862205b-05b7-42d2-a456-372672cfd74f.html",
+        "mention_text": "St.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Street, Melville, St. Landry Parish, Louisiana, 71353, United States",
+        "osm_type": "residential",
+        "osm_id": 13472518,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.990063,
+          35.7759043
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtxl.com/weather/flash-flood-warning-this-afternoon-in-west-gadsden-north-liberty-cos",
+        "title": "Flash flood warning this afternoon in west Gadsden, north Liberty cos.",
+        "source": "WTXL ABC 27 Tallahassee News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T17:53:13Z",
+        "url": "https://www.wtxl.com/weather/flash-flood-warning-this-afternoon-in-west-gadsden-north-liberty-cos",
+        "mention_text": "west Gadsden",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Gadsden, Crockett County, West Tennessee, Tennessee, United States",
+        "osm_type": "administrative",
+        "osm_id": 197364,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6064397,
+          41.7478297
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtxl.com/weather/flash-flood-warning-this-afternoon-in-west-gadsden-north-liberty-cos",
+        "title": "Flash flood warning this afternoon in west Gadsden, north Liberty cos.",
+        "source": "WTXL ABC 27 Tallahassee News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T17:53:13Z",
+        "url": "https://www.wtxl.com/weather/flash-flood-warning-this-afternoon-in-west-gadsden-north-liberty-cos",
+        "mention_text": "north Liberty",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Liberty, Johnson County, Iowa, 52317, United States",
+        "osm_type": "administrative",
+        "osm_id": 128464,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/weather-forecasts/flash-flood-risk-drought-relief-to-grow-from-texas-to-carolinas-and-georgia/1894599",
+        "title": "Flash flood risk, drought relief to grow from Texas to Carolinas and Georgia",
+        "source": "AccuWeather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T15:35:07Z",
+        "url": "https://www.accuweather.com/en/weather-forecasts/flash-flood-risk-drought-relief-to-grow-from-texas-to-carolinas-and-georgia/1894599",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6391962,
+          14.9350998
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/weather-forecasts/flash-flood-risk-drought-relief-to-grow-from-texas-to-carolinas-and-georgia/1894599",
+        "title": "Flash flood risk, drought relief to grow from Texas to Carolinas and Georgia",
+        "source": "AccuWeather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T15:35:07Z",
+        "url": "https://www.accuweather.com/en/weather-forecasts/flash-flood-risk-drought-relief-to-grow-from-texas-to-carolinas-and-georgia/1894599",
+        "mention_text": "Carolinas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Carolinas, Tinian Municipality, Northern Mariana Islands, 96952, United States",
+        "osm_type": "peak",
+        "osm_id": 358021381,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1137366,
+          32.3293809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/weather-forecasts/flash-flood-risk-drought-relief-to-grow-from-texas-to-carolinas-and-georgia/1894599",
+        "title": "Flash flood risk, drought relief to grow from Texas to Carolinas and Georgia",
+        "source": "AccuWeather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T15:35:07Z",
+        "url": "https://www.accuweather.com/en/weather-forecasts/flash-flood-risk-drought-relief-to-grow-from-texas-to-carolinas-and-georgia/1894599",
+        "mention_text": "Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 161957,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6008692,
+          29.8217562
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/flood-advisory-in-effect-for-orleans-st-bernard-jefferson-parishes-until-1145-am/71401052",
+        "title": "Flash Flood Warning in effect for Orleans, St. Bernard, Jefferson Parishes until 12:30 p.m.",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T15:13:00Z",
+        "url": "https://www.wdsu.com/article/flood-advisory-in-effect-for-orleans-st-bernard-jefferson-parishes-until-1145-am/71401052",
+        "mention_text": "St. Bernard",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Saint Bernard Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836430,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4190808,
+          33.2641009
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article315885198.html",
+        "title": "UPDATE: The current flash flood warning for Barnwell County will be expiring at 4:45 p.m.",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T18:54:41Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article315885198.html",
+        "mention_text": "Barnwell County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Barnwell County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532497,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0352313,
+          34.000754
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/local/article315884301.html",
+        "title": "Flood advisory issued in Columbia for Memorial Day afternoon",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T19:06:35Z",
+        "url": "https://www.thestate.com/news/local/article315884301.html",
+        "mention_text": "Columbia",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Columbia, Richland County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 194000,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0539073,
+          33.1535706
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/flash-flood-sewage-spill-blamed-223900267.html",
+        "title": "Flash flood and sewage spill blamed for thousands of dead fish in Chattahoochee River",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T22:39:00Z",
+        "url": "https://www.yahoo.com/news/videos/flash-flood-sewage-spill-blamed-223900267.html",
+        "mention_text": "Chattahoochee River",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Chattahoochee River, United States",
+        "osm_type": "river",
+        "osm_id": 2182457,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1219348,
+          31.0834452
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article315865004.html",
+        "title": "Flash flood warning affecting Trinity County Friday night due to thunderstorms",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-23T02:19:06Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article315865004.html",
+        "mention_text": "Trinity County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Trinity County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1840980,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.335696,
+          32.7513658
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article315878035.html",
+        "title": "UPDATE: Flash flood warning in place for Tarrant County Monday evening due to thunderstorms",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-05-24T21:22:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article315878035.html",
+        "mention_text": "Tarrant County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tarrant County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837628,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7968559,
+          32.7762719
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/dallas-weather-flash-flood-thunderstorm-220657135.html",
+        "title": "Dallas weather: Severe thunderstorm, flash flood warnings issued as heavy rain pounds North Texas",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-24T22:06:57Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/dallas-weather-flash-flood-thunderstorm-220657135.html",
+        "mention_text": "Dallas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dallas, Dallas County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 6571629,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3170402,
+          29.8494044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/relentless-downpours-drench-south-atmospheric-103954644.html",
+        "title": "Relentless downpours drench South as atmospheric firehose reloads days of flash flood threats",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T10:39:54Z",
+        "url": "https://www.yahoo.com/news/videos/relentless-downpours-drench-south-atmospheric-103954644.html",
+        "mention_text": "South",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "St. Augustine South, Saint Johns County, Florida, 32086, United States",
+        "osm_type": "town",
+        "osm_id": 13203803220,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9261276,
+          40.9162475
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.msn.com/en-us/weather/topstories/flash-flood-warning-in-effect-for-parts-of-allegheny-and-butler-county/ar-AA23YPrA",
+        "title": "Flash Flood Warning in effect for parts of Allegheny and Butler County",
+        "source": "MSN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T06:46:18Z",
+        "url": "https://www.msn.com/en-us/weather/topstories/flash-flood-warning-in-effect-for-parts-of-allegheny-and-butler-county/ar-AA23YPrA",
+        "mention_text": "Butler County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Butler County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 2563475,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7724889,
+          35.1982216
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article315888309.html",
+        "title": "UPDATE: Flood advisory for Transylvania County until 2 a.m. Tuesday due to heavy downpours",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-26T05:15:05Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article315888309.html",
+        "mention_text": "Transylvania County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Transylvania County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528748,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4141764,
+          33.8045873
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article315887197.html",
+        "title": "UPDATE: Northwest Piedmont placed under a flood advisory until early Tuesday morning",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-26T04:57:05Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article315887197.html",
+        "mention_text": "Northwest Piedmont",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Piedmont West Medical Office Building, 1800, Howell Mill Road Northwest, Atlantic Station, Atlanta, Fulton County, Georgia, 30363, United States",
+        "osm_type": "commercial",
+        "osm_id": 269238125,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9759066,
+          33.7635851
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article315884349.html",
+        "title": "UPDATE: Flood advisory active for Aiken and Edgefield counties until early Tuesday",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-26T01:39:05Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article315884349.html",
+        "mention_text": "Edgefield",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Edgefield County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532505,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9388938,
+          32.4239975
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article315887134.html",
+        "title": "Flood advisory in place for Laurens County Monday night due to heavy rain",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T23:43:06Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article315887134.html",
+        "mention_text": "Laurens County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Laurens County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 1027985,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0482171,
+          35.6608869
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article315887355.html",
+        "title": "UPDATE: The flood advisory for McDowell County is predicted to expire at 11 p.m.",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-26T03:21:05Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article315887355.html",
+        "mention_text": "McDowell County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "McDowell County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528721,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8303536,
+          26.1488926
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article315887154.html",
+        "title": "Flood advisory issued for North Texas Monday evening caused by heavy rain",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-05-25T23:27:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article315887154.html",
+        "mention_text": "North Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, North La Feria Village Colonia, La Feria, Cameron County, Texas, 78559, United States",
+        "osm_type": "residential",
+        "osm_id": 20771906,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1704496,
+          29.834772
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/weather-impact/flood-advisory-issued-for-orleans-jefferson-and-st-bernard-parishes/289-83b441fd-3b74-44aa-8f2a-910308af0096",
+        "title": "Flood advisory issued for Orleans, Jefferson and St. Bernard parishes",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T14:02:00Z",
+        "url": "https://www.wwltv.com/article/weather/weather-impact/flood-advisory-issued-for-orleans-jefferson-and-st-bernard-parishes/289-83b441fd-3b74-44aa-8f2a-910308af0096",
+        "mention_text": "Jefferson",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Jefferson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1841074,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5255603,
+          35.6292222
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article315888347.html",
+        "title": "Flood advisory issued for Buncombe and Henderson counties until 2 a.m. Wednesday",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-26T03:35:05Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article315888347.html",
+        "mention_text": "Buncombe",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Buncombe County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528678,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7893178,
+          32.182598
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article315888347.html",
+        "title": "Flood advisory issued for Buncombe and Henderson counties until 2 a.m. Wednesday",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-26T03:35:05Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article315888347.html",
+        "mention_text": "Henderson",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Henderson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839045,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2123296,
+          33.6856157
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article315887568.html",
+        "title": "Flood advisory for Clay County until Monday night, says the NWS",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-26T00:55:05Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article315887568.html",
+        "mention_text": "Clay County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Clay County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836929,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1704496,
+          29.834772
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/video/weather/weather-impact/flood-advisory-issued-for-orleans-jefferson-and-st-bernard-parishes/289-328d2a12-16e9-4a08-9136-90c788ebc233",
+        "title": "Flood advisory issued for Orleans, Jefferson and St. Bernard parishes",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T14:01:00Z",
+        "url": "https://www.wwltv.com/video/weather/weather-impact/flood-advisory-issued-for-orleans-jefferson-and-st-bernard-parishes/289-328d2a12-16e9-4a08-9136-90c788ebc233",
+        "mention_text": "Jefferson",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Jefferson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1841074,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7968559,
+          32.7762719
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article315885518.html",
+        "title": "UPDATE: Flood advisory for Dallas and Tarrant counties predicted to expire at 5:30 p.m.",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-05-25T19:44:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article315885518.html",
+        "mention_text": "Dallas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Dallas, Dallas County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 6571629,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.335696,
+          32.7513658
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article315885518.html",
+        "title": "UPDATE: Flood advisory for Dallas and Tarrant counties predicted to expire at 5:30 p.m.",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-05-25T19:44:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article315885518.html",
+        "mention_text": "Tarrant",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Tarrant County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837628,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article315887197.html",
+        "title": "UPDATE: North Carolina placed under a flood advisory until early Tuesday",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-26T01:39:06Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article315887197.html",
+        "mention_text": "North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1791849,
+          31.8390826
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article315887196.html",
+        "title": "Flood advisory for Cherokee County until Monday night caused by prolonged rainfall",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T23:55:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article315887196.html",
+        "mention_text": "Cherokee County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cherokee County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839605,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9023191,
+          35.3994626
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article315887357.html",
+        "title": "Flood advisory for Rutherford County Monday night caused by excessive rainfall",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-26T00:17:05Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article315887357.html",
+        "mention_text": "Rutherford County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Rutherford County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528741,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3045103,
+          41.6264414
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article315885230.html",
+        "title": "Flood advisory issued for Wayne County Monday evening triggered by prolonged downpours",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T19:27:05Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article315885230.html",
+        "mention_text": "Wayne County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Wayne County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417782,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7329309,
+          27.8778904
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tampabay.com/news/weather/2026/05/24/update-flood-advisory-affecting-pinellas-county-until-2-am-sunday-due-heavy-downpours/",
+        "title": "Update: Flood advisory affecting Pinellas County until 2 a.m. Sunday due to heavy downpours",
+        "source": "Tampa Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-24T21:58:48Z",
+        "url": "https://www.tampabay.com/news/weather/2026/05/24/update-flood-advisory-affecting-pinellas-county-until-2-am-sunday-due-heavy-downpours/",
+        "mention_text": "Pinellas County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Pinellas County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210726,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0352313,
+          34.000754
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aol.com/news/flood-advisory-issued-columbia-memorial-190635935.html",
+        "title": "Flood advisory issued in Columbia for Memorial Day afternoon",
+        "source": "AOL.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-26T02:03:06Z",
+        "url": "https://www.aol.com/news/flood-advisory-issued-columbia-memorial-190635935.html",
+        "mention_text": "Columbia",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Columbia, Richland County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 194000,
+        "run_at": "2026-05-26T09:59:13.542685+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-05-25T10:09:22.076020+00:00",
-    "total_features": 1206
+    "last_updated": "2026-05-26T09:59:13.549166+00:00",
+    "total_features": 1253
   }
 }
