@@ -36,12 +36,6 @@
       --c-major:   #e03c3c;
       --c-unknown: #555e6b;
 
-      /* HEFS exceedance probability colors */
-      --c-hefs-low:    #38bdf8;   /* <10% chance — sky blue */
-      --c-hefs-mod:    #818cf8;   /* 10-25% — indigo */
-      --c-hefs-high:   #f472b6;   /* 25-50% — pink */
-      --c-hefs-vhigh:  #fb923c;   /* 50-75% — orange */
-      --c-hefs-extreme:#ef4444;   /* >75% — red */
 
       /* Flood news dot */
       --c-news:    #a855f7;
@@ -189,6 +183,136 @@
     .filter-row.dimmed { opacity: 0.4; }
 
     .marker-cluster div { font-family: 'DM Mono', monospace !important; font-size: 0.7rem !important; font-weight: 600 !important; }
+
+    /* ── Flood Chat Panel ── */
+    #chat-btn {
+      position: absolute; bottom: 28px; right: 12px;
+      z-index: 900;
+      background: var(--accent); color: #fff;
+      border: none; border-radius: 50%;
+      width: 46px; height: 46px;
+      font-size: 1.3rem; cursor: pointer;
+      box-shadow: 0 4px 16px rgba(46,168,255,0.4);
+      display: flex; align-items: center; justify-content: center;
+      transition: transform 0.15s, box-shadow 0.15s;
+    }
+    #chat-btn:hover { transform: scale(1.08); box-shadow: 0 6px 20px rgba(46,168,255,0.55); }
+
+    #chat-panel {
+      position: absolute; bottom: 82px; right: 12px;
+      width: 360px; max-height: 520px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      z-index: 900;
+      display: flex; flex-direction: column;
+      box-shadow: 0 12px 40px rgba(0,0,0,0.6);
+      overflow: hidden;
+      transform: scale(0.92) translateY(12px);
+      opacity: 0;
+      pointer-events: none;
+      transition: transform 0.18s ease, opacity 0.18s ease;
+    }
+    #chat-panel.open {
+      transform: scale(1) translateY(0);
+      opacity: 1;
+      pointer-events: all;
+    }
+
+    #chat-header {
+      padding: 0.7rem 1rem;
+      border-bottom: 1px solid var(--border);
+      display: flex; align-items: center; gap: 0.5rem;
+      flex-shrink: 0;
+    }
+    #chat-header .chat-title {
+      font-family: 'Syne', sans-serif;
+      font-weight: 700; font-size: 0.85rem;
+      color: var(--accent);
+    }
+    #chat-header .chat-subtitle {
+      font-size: 0.58rem; color: var(--muted); margin-left: auto;
+    }
+
+    #chat-messages {
+      flex: 1; overflow-y: auto;
+      padding: 0.75rem;
+      display: flex; flex-direction: column; gap: 0.6rem;
+      scroll-behavior: smooth;
+    }
+    #chat-messages::-webkit-scrollbar { width: 4px; }
+    #chat-messages::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+
+    .chat-msg {
+      font-size: 0.72rem; line-height: 1.55;
+      padding: 0.5rem 0.7rem;
+      border-radius: 8px;
+      max-width: 94%;
+    }
+    .chat-msg.user {
+      background: rgba(46,168,255,0.12);
+      border: 1px solid rgba(46,168,255,0.2);
+      align-self: flex-end;
+      color: var(--text);
+    }
+    .chat-msg.bot {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      align-self: flex-start;
+      color: var(--text);
+    }
+    .chat-msg.bot.typing { color: var(--muted); font-style: italic; }
+
+    .gauge-card {
+      background: rgba(46,168,255,0.06);
+      border: 1px solid rgba(46,168,255,0.18);
+      border-radius: 6px;
+      padding: 0.5rem 0.65rem;
+      font-size: 0.67rem;
+      margin-bottom: 0.1rem;
+      align-self: flex-start;
+      max-width: 94%;
+    }
+    .gauge-card-title {
+      font-family: 'Syne', sans-serif;
+      font-size: 0.7rem; font-weight: 700;
+      color: var(--accent); margin-bottom: 0.35rem;
+    }
+    .gauge-card-row { display: flex; justify-content: space-between; gap: 0.75rem; margin-bottom: 0.18rem; }
+    .gauge-card-label { color: var(--muted); }
+    .gauge-card-val { font-weight: 600; }
+
+    #chat-footer {
+      padding: 0.6rem 0.75rem;
+      border-top: 1px solid var(--border);
+      display: flex; gap: 0.5rem;
+      flex-shrink: 0;
+    }
+    #chat-input {
+      flex: 1;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      color: var(--text);
+      font-family: 'DM Mono', monospace;
+      font-size: 0.72rem;
+      padding: 0.4rem 0.6rem;
+      outline: none;
+      transition: border-color 0.15s;
+    }
+    #chat-input:focus { border-color: var(--accent); }
+    #chat-input::placeholder { color: var(--muted); }
+
+    #chat-send {
+      background: var(--accent); color: #fff;
+      border: none; border-radius: 6px;
+      padding: 0.4rem 0.75rem;
+      font-family: 'DM Mono', monospace;
+      font-size: 0.72rem; cursor: pointer;
+      transition: opacity 0.15s;
+    }
+    #chat-send:disabled { opacity: 0.4; cursor: default; }
+    #chat-send:hover:not(:disabled) { opacity: 0.85; }
   </style>
 </head>
 <body>
@@ -198,7 +322,6 @@
 
     <div class="header-badges">
       <span class="badge"><span class="dot" style="background:var(--c-news)"></span>Flood News</span>
-      <span class="badge"><span class="dot" style="background:#38bdf8"></span>HEFS Forecast</span>
       <span class="badge"><span class="dot" style="background:var(--c-normal)"></span>USGS Normal</span>
       <span class="badge"><span class="dot" style="background:var(--c-watch)"></span>Watch</span>
       <span class="badge"><span class="dot" style="background:var(--c-warning)"></span>Warning</span>
@@ -244,23 +367,6 @@
         <div class="legend-dot" style="background:var(--c-unknown)"></div>
         <span>Unknown</span>
       </label>
-      <div class="legend-sep"></div>
-      <div class="legend-row" style="margin-bottom:0.25rem; font-size:0.65rem; color:var(--muted); text-transform:uppercase; letter-spacing:0.06em;">HEFS Forecasts</div>
-      <label class="legend-row filter-row" id="hefs-toggle-row" style="margin-bottom:0.25rem;">
-        <input type="checkbox" id="hefs-toggle">
-        <div class="legend-dot" style="background:#38bdf8"></div>
-        <span>Show HEFS sites</span>
-      </label>
-      <div style="font-size:0.6rem; color:var(--muted); margin-bottom:0.35rem; padding-left:1.2rem; line-height:1.4;">
-        ◆ = flood exceedance prob<br>click site for p10/p50/p90
-      </div>
-      <div class="legend-row" style="gap:0.3rem; flex-wrap:wrap; margin-bottom:0.1rem;">
-        <span style="font-size:0.58rem; background:#38bdf8; color:#000; padding:0.1rem 0.35rem; border-radius:3px;">&lt;10%</span>
-        <span style="font-size:0.58rem; background:#818cf8; color:#fff; padding:0.1rem 0.35rem; border-radius:3px;">10-25%</span>
-        <span style="font-size:0.58rem; background:#f472b6; color:#000; padding:0.1rem 0.35rem; border-radius:3px;">25-50%</span>
-        <span style="font-size:0.58rem; background:#fb923c; color:#fff; padding:0.1rem 0.35rem; border-radius:3px;">50-75%</span>
-        <span style="font-size:0.58rem; background:#ef4444; color:#fff; padding:0.1rem 0.35rem; border-radius:3px;">&gt;75%</span>
-      </div>
       <div class="legend-sep"></div>
       <div class="legend-row" style="margin-bottom:0.4rem; font-size:0.65rem; color:var(--muted); text-transform:uppercase; letter-spacing:0.06em;">State Filter</div>
       <div style="display:flex; gap:0.4rem; align-items:center; margin-bottom:0.1rem;">
@@ -554,160 +660,6 @@ function escHtml(str) {
     .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
 
-// ── HEFS Layer ───────────────────────────────────────────────────────────────
-// HEFS site geo data is pre-baked nightly by fetch_hefs.py via GitHub Actions.
-// The browser loads a flat GeoJSON file — no live HEFS API calls, no CORS issues.
-// Forecast data (quantiles) is still fetched live per-click from the HEFS API,
-// with graceful degradation if the API is down.
-
-const HEFS_SITES_URL  = 'https://raw.githubusercontent.com/rmkenv/floodwire2/main/public/hefs_sites.geojson';
-const HEFS_FORECAST   = 'https://api.water.noaa.gov/hefs/v1/forecasts/';
-const HEFS_TIMEOUT_MS = 12000;
-const HEFS_MAX_RETRIES = 2;
-
-let hefsLayer   = L.layerGroup();
-let hefsLoaded  = false;
-let hefsLoading = false;
-
-const HEFS_COLORS = {
-  low:     '#38bdf8',
-  mod:     '#818cf8',
-  high:    '#f472b6',
-  vhigh:   '#fb923c',
-  extreme: '#ef4444',
-  unknown: '#94a3b8'
-};
-
-function hefsExceedanceColor(prob) {
-  if (prob === null || prob === undefined || isNaN(prob)) return HEFS_COLORS.unknown;
-  if (prob < 10)  return HEFS_COLORS.low;
-  if (prob < 25)  return HEFS_COLORS.mod;
-  if (prob < 50)  return HEFS_COLORS.high;
-  if (prob < 75)  return HEFS_COLORS.vhigh;
-  return HEFS_COLORS.extreme;
-}
-
-// Fetch with timeout + optional retry (used for per-click forecast calls)
-async function fetchWithTimeout(url, timeoutMs, retries) {
-  for (let attempt = 0; attempt <= retries; attempt++) {
-    const controller = new AbortController();
-    const tid = setTimeout(() => controller.abort(), timeoutMs);
-    try {
-      const res = await fetch(url, { signal: controller.signal });
-      clearTimeout(tid);
-      return res;
-    } catch (e) {
-      clearTimeout(tid);
-      if (attempt === retries) throw e;
-      await new Promise(r => setTimeout(r, 800 * (attempt + 1)));
-    }
-  }
-}
-
-async function loadHEFS() {
-  if (hefsLoaded || hefsLoading) return;
-  hefsLoading = true;
-  statusEl.textContent = 'Loading HEFS sites…';
-
-  try {
-    // Load pre-baked flat file produced nightly by fetch_hefs.py
-    const res = await fetchWithTimeout(HEFS_SITES_URL, HEFS_TIMEOUT_MS, HEFS_MAX_RETRIES);
-    if (!res.ok) throw new Error('hefs_sites.geojson HTTP ' + res.status);
-    const gj = await res.json();
-    const features = gj.features || [];
-
-    if (features.length === 0) {
-      throw new Error('hefs_sites.geojson is empty — ETL may not have run yet');
-    }
-
-    features.forEach(f => {
-      const [lng, lat] = f.geometry.coordinates;
-      const p   = f.properties;
-      const lid = p.nws_lid || p.location_id;
-      const name = p.name || lid || 'HEFS Site';
-      if (isNaN(lat) || isNaN(lng) || !lid) return;
-
-      const marker = L.marker([lat, lng], { icon: makeDiamondIcon(HEFS_COLORS.unknown) });
-
-      marker.on('click', async () => {
-        marker.bindPopup(
-          '<div class="popup-title">' + escHtml(name) + '</div>' +
-          '<div style="color:var(--muted);font-size:0.7rem;">Loading HEFS forecast…</div>'
-        ).openPopup();
-
-        const fc    = await fetchHEFSForecast(lid);
-        const prob  = fc?.exceedanceProb ?? null;
-        const color = hefsExceedanceColor(prob);
-        const units = fc?.units ?? '';
-
-        marker.setIcon(makeDiamondIcon(color));
-
-        const probStr  = prob !== null ? prob + '%' : 'unavailable';
-        const probStyle = 'color:' + color;
-        const fcNote   = !fc
-          ? '<div style="font-size:0.62rem;color:var(--muted);margin-top:0.4rem;">⚠ Forecast unavailable — RFC may be offline</div>'
-          : '';
-
-        marker.setPopupContent(
-          '<div class="popup-title">' + escHtml(name) + '</div>' +
-          '<div style="font-size:0.65rem;color:var(--muted);margin-bottom:0.4rem;">HEFS 10-day Ensemble Forecast</div>' +
-          '<div class="popup-row"><span class="popup-label">Flood Exceedance</span><span class="popup-val" style="' + probStyle + '">' + probStr + '</span></div>' +
-          '<div class="popup-row"><span class="popup-label">p10 (low)</span><span class="popup-val">' + (fc?.p10 ?? '—') + (fc ? ' ' + units : '') + '</span></div>' +
-          '<div class="popup-row"><span class="popup-label">p50 (median)</span><span class="popup-val">' + (fc?.p50 ?? '—') + (fc ? ' ' + units : '') + '</span></div>' +
-          '<div class="popup-row"><span class="popup-label">p90 (high)</span><span class="popup-val">' + (fc?.p90 ?? '—') + (fc ? ' ' + units : '') + '</span></div>' +
-          '<div class="popup-row"><span class="popup-label">NWS LID</span><span class="popup-val">' + escHtml(lid) + '</span></div>' +
-          '<div class="popup-row"><span class="popup-label">State</span><span class="popup-val">' + escHtml(p.state || '—') + '</span></div>' +
-          fcNote +
-          '<a class="popup-link" href="https://water.noaa.gov/gauges/' + encodeURIComponent(lid) + '" target="_blank" rel="noopener">→ NWPS page</a>'
-        );
-        marker.openPopup();
-      });
-
-      hefsLayer.addLayer(marker);
-    });
-
-    hefsLoaded  = true;
-    hefsLoading = false;
-    statusEl.textContent = features.length + ' HEFS sites loaded';
-
-  } catch(e) {
-    console.error('HEFS load error:', e);
-    const msg = e.name === 'AbortError'
-      ? 'HEFS sites timed out — try again later'
-      : 'HEFS unavailable: ' + e.message;
-    statusEl.textContent = msg;
-
-    const toggleRow = document.getElementById('hefs-toggle-row');
-    if (toggleRow && !document.getElementById('hefs-api-note')) {
-      const note = document.createElement('div');
-      note.id = 'hefs-api-note';
-      note.style.cssText = 'font-size:0.58rem;color:#fb923c;padding-left:1.2rem;line-height:1.4;margin-bottom:0.25rem;';
-      note.textContent = '⚠ Sites unavailable — ETL may not have run';
-      toggleRow.insertAdjacentElement('afterend', note);
-    }
-
-    document.getElementById('hefs-toggle').checked = false;
-    hefsLoading = false;
-    hefsLoaded  = false;
-  }
-}
-
-function toggleHEFS() {
-  const on = document.getElementById('hefs-toggle').checked;
-  // Clear any previous API error note on re-attempt
-  const note = document.getElementById('hefs-api-note');
-  if (note) note.remove();
-
-  if (on) {
-    hefsLayer.addTo(map);
-    loadHEFS();
-  } else {
-    map.removeLayer(hefsLayer);
-    // Allow a fresh load if user toggled off and back on
-    if (!hefsLoaded) hefsLoading = false;
-  }
-}
-
 // ── Boot ──────────────────────────────────────────────────────────────────────
 // Wire up stage filter checkboxes
 document.querySelectorAll('.filter-row input[data-bucket]').forEach(cb => {
@@ -730,10 +682,366 @@ document.getElementById('state-clear').addEventListener('click', () => {
   applyStateFilter();
 });
 
-document.getElementById('hefs-toggle').addEventListener('change', toggleHEFS);
 
 loadFloodNews();
 loadGauges();
+
+// ════════════════════════════════════════════════════════════════════════════
+// FLOOD INTELLIGENCE CHAT
+// Flow: user query → Nominatim geocode → spatial join (gauges + floods + OSM)
+//       → build context → Ollama Cloud streaming → render gauge card + answer
+// ════════════════════════════════════════════════════════════════════════════
+
+const OLLAMA_URL   = 'https://ollama.com/api/chat';
+const OLLAMA_MODEL = 'gpt-oss:20b';
+const OLLAMA_KEY   = '';   // set via window.OLLAMA_API_KEY or leave blank for open endpoint
+
+// Data URLs — loaded lazily on first chat open
+const GAUGES_URL = 'https://raw.githubusercontent.com/rmkenv/floodwire2/main/data/gauges_current.geojson';
+const FLOODS_URL = 'https://raw.githubusercontent.com/rmkenv/floodwire2/main/data/floods.geojson';
+const OSM_URL    = 'https://raw.githubusercontent.com/rmkenv/floodwire2/main/data/osm_critical.geojson';
+
+const SEARCH_RADIUS_KM = 15;   // radius for nearest-gauge search
+
+let chatOpen      = false;
+let chatDataReady = false;
+let chatBusy      = false;
+let gaugeFeatures = [];
+let floodFeatures = [];
+let osmFeatures   = [];
+
+// ── DOM refs ──────────────────────────────────────────────────────────────────
+const chatBtn    = document.getElementById('chat-btn');
+const chatPanel  = document.getElementById('chat-panel');
+const chatMsgs   = document.getElementById('chat-messages');
+const chatInput  = document.getElementById('chat-input');
+const chatSend   = document.getElementById('chat-send');
+
+// ── Toggle panel ──────────────────────────────────────────────────────────────
+chatBtn.addEventListener('click', () => {
+  chatOpen = !chatOpen;
+  chatPanel.classList.toggle('open', chatOpen);
+  if (chatOpen && !chatDataReady) loadChatData();
+  if (chatOpen) chatInput.focus();
+});
+
+// ── Load backing data lazily ──────────────────────────────────────────────────
+async function loadChatData() {
+  try {
+    const [gRes, fRes, oRes] = await Promise.all([
+      fetch(GAUGES_URL),
+      fetch(FLOODS_URL),
+      fetch(OSM_URL).catch(() => ({ ok: false }))   // OSM optional until ETL runs
+    ]);
+    if (gRes.ok) { const d = await gRes.json(); gaugeFeatures = d.features || []; }
+    if (fRes.ok) { const d = await fRes.json(); floodFeatures = d.features || []; }
+    if (oRes.ok) { const d = await oRes.json(); osmFeatures   = d.features || []; }
+    chatDataReady = true;
+    console.debug('[Chat] data loaded — gauges:', gaugeFeatures.length,
+                  'floods:', floodFeatures.length, 'osm:', osmFeatures.length);
+  } catch(e) {
+    console.warn('[Chat] data load error:', e);
+  }
+}
+
+// ── Haversine distance (km) ───────────────────────────────────────────────────
+function haversineKm(lat1, lon1, lat2, lon2) {
+  const R = 6371;
+  const dLat = (lat2 - lat1) * Math.PI / 180;
+  const dLon = (lon2 - lon1) * Math.PI / 180;
+  const a = Math.sin(dLat/2)**2 +
+            Math.cos(lat1*Math.PI/180) * Math.cos(lat2*Math.PI/180) * Math.sin(dLon/2)**2;
+  return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+}
+
+function featCoords(f) {
+  const g = f.geometry;
+  if (!g) return null;
+  if (g.type === 'Point') return { lat: g.coordinates[1], lon: g.coordinates[0] };
+  if (g.type === 'LineString') {
+    const mid = Math.floor(g.coordinates.length / 2);
+    return { lat: g.coordinates[mid][1], lon: g.coordinates[mid][0] };
+  }
+  if (g.type === 'Polygon') {
+    return { lat: g.coordinates[0][0][1], lon: g.coordinates[0][0][0] };
+  }
+  return null;
+}
+
+// ── Nominatim geocode ─────────────────────────────────────────────────────────
+async function geocode(query) {
+  const url = 'https://nominatim.openstreetmap.org/search?format=json&limit=1&q='
+              + encodeURIComponent(query);
+  const res = await fetch(url, { headers: { 'Accept-Language': 'en' } });
+  const data = await res.json();
+  if (!data.length) return null;
+  return {
+    lat:         parseFloat(data[0].lat),
+    lon:         parseFloat(data[0].lon),
+    displayName: data[0].display_name
+  };
+}
+
+// ── Spatial context builder ───────────────────────────────────────────────────
+function buildContext(lat, lon, locationName) {
+  // Nearest gauges within radius, sorted by distance
+  const nearGauges = gaugeFeatures
+    .map(f => {
+      const c = featCoords(f);
+      if (!c) return null;
+      return { ...f.properties, _dist: haversineKm(lat, lon, c.lat, c.lon) };
+    })
+    .filter(g => g && g._dist <= SEARCH_RADIUS_KM)
+    .sort((a, b) => a._dist - b._dist)
+    .slice(0, 5);
+
+  // Recent flood events within radius
+  const nearFloods = floodFeatures
+    .map(f => {
+      const c = featCoords(f);
+      if (!c) return null;
+      return { ...f.properties, _dist: haversineKm(lat, lon, c.lat, c.lon) };
+    })
+    .filter(f => f && f._dist <= SEARCH_RADIUS_KM)
+    .sort((a, b) => a._dist - b._dist)
+    .slice(0, 5);
+
+  // Nearby critical infrastructure from OSM
+  const nearOSM = osmFeatures
+    .map(f => {
+      const c = featCoords(f);
+      if (!c) return null;
+      const p = f.properties;
+      return {
+        name:     p.name || p.amenity || p.highway || 'unnamed',
+        type:     p.amenity || p.highway || p.building || 'infrastructure',
+        _dist:    haversineKm(lat, lon, c.lat, c.lon)
+      };
+    })
+    .filter(o => o && o._dist <= SEARCH_RADIUS_KM)
+    .sort((a, b) => a._dist - b._dist)
+    .slice(0, 8);
+
+  // Format gauge context
+  const gaugeCtx = nearGauges.length
+    ? nearGauges.map(g =>
+        `  - ${g.name || g.site_no || 'Unknown gauge'} (${g._dist.toFixed(1)} km away): ` +
+        `stage=${g.stage ?? g.value ?? '?'} ft, status=${g.flood_stage || g.status || 'unknown'}, ` +
+        `action_stage=${g.action_stage ?? '?'} ft, flood_stage=${g.flood_stage_ft ?? '?'} ft`
+      ).join('
+')
+    : '  No USGS gauges within ' + SEARCH_RADIUS_KM + ' km.';
+
+  const floodCtx = nearFloods.length
+    ? nearFloods.map(f =>
+        `  - "${f.title || f.headline || 'Flood event'}" (${f._dist.toFixed(1)} km, ` +
+        `${f.date || f.published || 'recent'})`
+      ).join('
+')
+    : '  No recent flood news events within ' + SEARCH_RADIUS_KM + ' km.';
+
+  const osmCtx = nearOSM.length
+    ? nearOSM.map(o => `  - ${o.name} [${o.type}] (${o._dist.toFixed(1)} km)`).join('
+')
+    : '  OSM critical infrastructure data not yet available (ETL pending).';
+
+  return {
+    nearGauges,
+    nearFloods,
+    context: `You are FloodWire Intel, a flood risk assistant powered by live USGS gauge data.
+The user is asking about flood risk near: "${locationName}" (lat ${lat.toFixed(4)}, lon ${lon.toFixed(4)}).
+
+NEARBY USGS GAUGES (within ${SEARCH_RADIUS_KM} km):
+${gaugeCtx}
+
+RECENT FLOOD NEWS EVENTS (within ${SEARCH_RADIUS_KM} km):
+${floodCtx}
+
+NEARBY CRITICAL INFRASTRUCTURE (within ${SEARCH_RADIUS_KM} km):
+${osmCtx}
+
+INSTRUCTIONS:
+- Give a clear, direct flood risk assessment for the queried location.
+- Reference specific gauge names, current stage readings, and flood stage thresholds.
+- If any gauge is at Watch, Warning, or Major flood stage, highlight this prominently.
+- If recent flood news events are nearby, mention them.
+- Note any critical infrastructure (hospitals, roads) that may be affected.
+- Be concise (3-5 sentences). Do not make up data not present above.
+- If no gauges are nearby, say so and note the assessment is limited.`
+  };
+}
+
+// ── Gauge card renderer ───────────────────────────────────────────────────────
+function stageColor(status) {
+  const s = (status || '').toLowerCase();
+  if (s.includes('major'))   return 'var(--c-major)';
+  if (s.includes('warning')) return 'var(--c-warning)';
+  if (s.includes('watch'))   return 'var(--c-watch)';
+  if (s.includes('normal'))  return 'var(--c-normal)';
+  return 'var(--c-unknown)';
+}
+
+function renderGaugeCard(gauges) {
+  if (!gauges.length) return null;
+  const el = document.createElement('div');
+  el.className = 'gauge-card';
+
+  let html = '<div class="gauge-card-title">📍 Nearest Gauges</div>';
+  gauges.slice(0, 3).forEach(g => {
+    const name   = escHtml(g.name || g.site_no || 'Gauge');
+    const stage  = g.stage ?? g.value ?? '?';
+    const status = g.flood_stage || g.status || 'unknown';
+    const color  = stageColor(status);
+    const dist   = g._dist.toFixed(1);
+    html +=
+      '<div class="gauge-card-row">' +
+        '<span class="gauge-card-label">' + name + ' (' + dist + ' km)</span>' +
+        '<span class="gauge-card-val" style="color:' + color + '">' +
+          escHtml(String(stage)) + ' ft · ' + escHtml(status) +
+        '</span>' +
+      '</div>';
+  });
+  el.innerHTML = html;
+  return el;
+}
+
+// ── Message rendering ─────────────────────────────────────────────────────────
+function appendMsg(text, role, typing = false) {
+  const el = document.createElement('div');
+  el.className = 'chat-msg ' + role + (typing ? ' typing' : '');
+  el.textContent = text;
+  chatMsgs.appendChild(el);
+  chatMsgs.scrollTop = chatMsgs.scrollHeight;
+  return el;
+}
+
+// ── Ollama streaming call ─────────────────────────────────────────────────────
+async function streamOllama(systemPrompt, userQuery, targetEl) {
+  const apiKey = window.OLLAMA_API_KEY || OLLAMA_KEY;
+  const headers = { 'Content-Type': 'application/json' };
+  if (apiKey) headers['Authorization'] = 'Bearer ' + apiKey;
+
+  const body = JSON.stringify({
+    model: OLLAMA_MODEL,
+    stream: true,
+    messages: [
+      { role: 'system', content: systemPrompt },
+      { role: 'user',   content: userQuery }
+    ]
+  });
+
+  const res = await fetch(OLLAMA_URL, { method: 'POST', headers, body });
+  if (!res.ok) throw new Error('Ollama HTTP ' + res.status);
+
+  const reader = res.body.getReader();
+  const dec    = new TextDecoder();
+  let full     = '';
+  targetEl.classList.remove('typing');
+
+  while (true) {
+    const { done, value } = await reader.read();
+    if (done) break;
+    const chunk = dec.decode(value, { stream: true });
+    // Ollama streams newline-delimited JSON objects
+    for (const line of chunk.split('
+')) {
+      if (!line.trim()) continue;
+      try {
+        const obj  = JSON.parse(line);
+        const tok  = obj?.message?.content || obj?.response || '';
+        full       += tok;
+        targetEl.textContent = full;
+        chatMsgs.scrollTop   = chatMsgs.scrollHeight;
+      } catch { /* partial line — skip */ }
+    }
+  }
+  return full || '(no response)';
+}
+
+// ── Main send handler ─────────────────────────────────────────────────────────
+async function sendChat() {
+  const query = chatInput.value.trim();
+  if (!query || chatBusy) return;
+
+  chatBusy = true;
+  chatSend.disabled = true;
+  chatInput.value   = '';
+
+  appendMsg(query, 'user');
+
+  // Wait for data if still loading
+  if (!chatDataReady) {
+    const waitEl = appendMsg('Loading flood data…', 'bot', true);
+    await loadChatData();
+    waitEl.remove();
+  }
+
+  // Geocode
+  const geocodeEl = appendMsg('Locating "' + query + '"…', 'bot', true);
+  let geo = null;
+  try {
+    geo = await geocode(query);
+  } catch(e) {
+    geocodeEl.textContent = '⚠ Geocoding failed: ' + e.message;
+    geocodeEl.classList.remove('typing');
+    chatBusy = false; chatSend.disabled = false; return;
+  }
+
+  if (!geo) {
+    geocodeEl.textContent = '⚠ Could not locate "' + query + '". Try adding a city or state.';
+    geocodeEl.classList.remove('typing');
+    chatBusy = false; chatSend.disabled = false; return;
+  }
+  geocodeEl.remove();
+
+  // Build spatial context
+  const { nearGauges, nearFloods, context } = buildContext(geo.lat, geo.lon, geo.displayName);
+
+  // Render gauge card
+  const card = renderGaugeCard(nearGauges);
+  if (card) {
+    chatMsgs.appendChild(card);
+    chatMsgs.scrollTop = chatMsgs.scrollHeight;
+  } else if (!nearGauges.length) {
+    appendMsg('⚠ No USGS gauges found within ' + SEARCH_RADIUS_KM + ' km — assessment may be limited.', 'bot');
+  }
+
+  // Stream LLM answer
+  const answerEl = appendMsg('', 'bot', true);
+  try {
+    await streamOllama(context, query, answerEl);
+  } catch(e) {
+    answerEl.textContent = '⚠ Ollama unavailable: ' + e.message +
+      '. Set window.OLLAMA_API_KEY or check your Ollama Cloud endpoint.';
+    answerEl.classList.remove('typing');
+  }
+
+  chatBusy = false;
+  chatSend.disabled = false;
+  chatInput.focus();
+}
+
+chatSend.addEventListener('click', sendChat);
+chatInput.addEventListener('keydown', e => { if (e.key === 'Enter' && !e.shiftKey) sendChat(); });
+
 </script>
+
+  <!-- ── Flood Intelligence Chat ── -->
+  <button id="chat-btn" title="Ask about flood risk">💬</button>
+
+  <div id="chat-panel">
+    <div id="chat-header">
+      <span class="chat-title">⚡ FloodWire Intel</span>
+      <span class="chat-subtitle">Powered by Ollama · Live gauge data</span>
+    </div>
+    <div id="chat-messages">
+      <div class="chat-msg bot">Ask me if a road, hospital, or address is at risk of flooding based on current gauge readings and recent flood events.</div>
+    </div>
+    <div id="chat-footer">
+      <input id="chat-input" type="text" placeholder="e.g. Is Mercy Hospital in Baltimore at risk?" autocomplete="off" />
+      <button id="chat-send">Ask</button>
+    </div>
+  </div>
+
 </body>
 </html>
