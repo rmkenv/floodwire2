@@ -388,6 +388,23 @@
   </div>
 </div>
 
+  <!-- ── Flood Intelligence Chat ── -->
+  <button id="chat-btn" title="Ask about flood risk">💬</button>
+
+  <div id="chat-panel">
+    <div id="chat-header">
+      <span class="chat-title">⚡ FloodWire Intel</span>
+      <span class="chat-subtitle">Powered by Ollama · Live gauge data</span>
+    </div>
+    <div id="chat-messages">
+      <div class="chat-msg bot">Ask me if a road, hospital, or address is at risk of flooding based on current gauge readings and recent flood events.</div>
+    </div>
+    <div id="chat-footer">
+      <input id="chat-input" type="text" placeholder="e.g. Is Mercy Hospital in Baltimore at risk?" autocomplete="off" />
+      <button id="chat-send">Ask</button>
+    </div>
+  </div>
+
 <script>
 // ── Config ────────────────────────────────────────────────────────────────────
 const FLOODS_GEOJSON = 'https://raw.githubusercontent.com/rmkenv/floodwire2/main/data/floods.geojson';
@@ -1025,23 +1042,6 @@ chatSend.addEventListener('click', sendChat);
 chatInput.addEventListener('keydown', e => { if (e.key === 'Enter' && !e.shiftKey) sendChat(); });
 
 </script>
-
-  <!-- ── Flood Intelligence Chat ── -->
-  <button id="chat-btn" title="Ask about flood risk">💬</button>
-
-  <div id="chat-panel">
-    <div id="chat-header">
-      <span class="chat-title">⚡ FloodWire Intel</span>
-      <span class="chat-subtitle">Powered by Ollama · Live gauge data</span>
-    </div>
-    <div id="chat-messages">
-      <div class="chat-msg bot">Ask me if a road, hospital, or address is at risk of flooding based on current gauge readings and recent flood events.</div>
-    </div>
-    <div id="chat-footer">
-      <input id="chat-input" type="text" placeholder="e.g. Is Mercy Hospital in Baltimore at risk?" autocomplete="off" />
-      <button id="chat-send">Ask</button>
-    </div>
-  </div>
 
 </body>
 </html>
