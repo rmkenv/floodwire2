@@ -1,0 +1,61 @@
+name: OSM Critical Infrastructure ETL — Nightly
+
+on:
+  schedule:
+    - cron: "45 5 * * *"   # 05:45 UTC — after flood ETL (06:00), before gauge ETL
+  workflow_dispatch:
+  # Also re-run when flood events change, since bbox depends on them
+  push:
+    paths:
+      - "data/floods.geojson"
+
+jobs:
+  osm-etl:
+    name: Fetch OSM Critical Infrastructure
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests
+
+      - name: Run OSM ETL
+        run: python fetch_osm_critical.py
+
+      - name: Summarise output
+        run: |
+          if [ -f data/osm_critical.geojson ]; then
+            FEAT=$(python3 -c "import json; d=json.load(open('data/osm_critical.geojson')); print(d.get('feature_count', len(d.get('features',[]))))")
+            echo "osm_critical.geojson — $FEAT features"
+          else
+            echo "WARNING: osm_critical.geojson not produced"
+          fi
+
+      - name: Commit data file
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/osm_critical.geojson || true
+          if git diff --cached --quiet; then
+            echo "No changes to OSM data — nothing to commit."
+          else
+            DATESTAMP=$(date -u +"%Y-%m-%d")
+            git commit -m "chore: OSM infrastructure update ${DATESTAMP} [skip ci]"
+            git push
+          fi
