@@ -615,8 +615,8 @@ function parseTimeSeries(series, param, state) {
     marker.on('popupopen', () => {
       selectedGauge = {
         name:     siteName,
-        lat:      lat,
-        lon:      lng,
+        lat:      parseFloat(lat),
+        lon:      parseFloat(lng),
         stage:    val,
         unit:     unit,
         bucket:   bucket,
@@ -889,18 +889,23 @@ function buildContext(lat, lon, locationName) {
 
   // Format gauge context
   const gaugeCtx = nearGauges.length
-    ? nearGauges.map(g =>
-        `  - ${g.name || g.site_no || 'Unknown gauge'} (${g._dist.toFixed(1)} km away): ` +
-        `stage=${g.stage ?? g.value ?? '?'} ft, status=${g.flood_stage || g.status || 'unknown'}, ` +
-        `action_stage=${g.action_stage ?? '?'} ft, flood_stage=${g.flood_stage_ft ?? '?'} ft`
-      ).join("\n")
+    ? nearGauges.map(g => {
+        const name   = g.site_name || g.name || g.site_no || 'Unknown gauge';
+        const stage  = g.stage_ft  ?? g.stage ?? g.value ?? '?';
+        const status = g.tier      || g.flood_stage || g.status || 'unknown';
+        const action = g.action_stage ?? '?';
+        const flood  = g.flood_stage  ?? '?';
+        const major  = g.major_stage  ?? '?';
+        return `  - ${name} (${g._dist.toFixed(1)} km): stage=${stage} ft, tier=${status}, action=${action} ft, flood=${flood} ft, major=${major} ft`;
+      }).join("\n")
     : '  No USGS gauges within ' + SEARCH_RADIUS_KM + ' km.';
 
   const floodCtx = nearFloods.length
-    ? nearFloods.map(f =>
-        `  - "${f.title || f.headline || 'Flood event'}" (${f._dist.toFixed(1)} km, ` +
-        `${f.date || f.published || 'recent'})`
-      ).join("\n")
+    ? nearFloods.map(f => {
+        const title = f.title || f.headline || f.name || 'Flood event';
+        const date  = f.date  || f.published || f.fetched_at || 'recent';
+        return `  - "${title}" (${f._dist.toFixed(1)} km, ${date})`;
+      }).join("\n")
     : '  No recent flood news events within ' + SEARCH_RADIUS_KM + ' km.';
 
   const osmCtx = nearOSM.length
@@ -936,10 +941,10 @@ INSTRUCTIONS:
 // ── Gauge card renderer ───────────────────────────────────────────────────────
 function stageColor(status) {
   const s = (status || '').toLowerCase();
-  if (s.includes('major'))   return 'var(--c-major)';
-  if (s.includes('warning')) return 'var(--c-warning)';
-  if (s.includes('watch'))   return 'var(--c-watch)';
-  if (s.includes('normal'))  return 'var(--c-normal)';
+  if (s.includes('major'))                          return 'var(--c-major)';
+  if (s.includes('warning') || s.includes('warn'))  return 'var(--c-warning)';
+  if (s.includes('watch')   || s.includes('action'))return 'var(--c-watch)';
+  if (s.includes('normal')  || s.includes('low'))   return 'var(--c-normal)';
   return 'var(--c-unknown)';
 }
 
@@ -950,9 +955,9 @@ function renderGaugeCard(gauges) {
 
   let html = '<div class="gauge-card-title">📍 Nearest Gauges</div>';
   gauges.slice(0, 3).forEach(g => {
-    const name   = escHtml(g.name || g.site_no || 'Gauge');
-    const stage  = g.stage ?? g.value ?? '?';
-    const status = g.flood_stage || g.status || 'unknown';
+    const name   = escHtml(g.site_name || g.name || g.site_no || 'Gauge');
+    const stage  = g.stage_ft ?? g.stage ?? g.value ?? '?';
+    const status = g.tier || g.flood_stage || g.status || 'unknown';
     const color  = stageColor(status);
     const dist   = g._dist.toFixed(1);
     html +=
