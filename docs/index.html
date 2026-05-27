@@ -850,13 +850,21 @@ async function geocode(query) {
 // ── Spatial context builder ───────────────────────────────────────────────────
 function buildContext(lat, lon, locationName) {
   // Nearest gauges within radius, sorted by distance
+  const seenGauges = new Set();
   const nearGauges = gaugeFeatures
     .map(f => {
       const c = featCoords(f);
       if (!c) return null;
       return { ...f.properties, _dist: haversineKm(lat, lon, c.lat, c.lon) };
     })
-    .filter(g => g && g._dist <= SEARCH_RADIUS_KM)
+    .filter(g => {
+      if (!g || g._dist > SEARCH_RADIUS_KM) return false;
+      // Deduplicate by site_id first, then site_name — one entry per physical station
+      const key = g.site_id || g.site_no || g.site_name || (g.lat + ',' + g.lon);
+      if (seenGauges.has(key)) return false;
+      seenGauges.add(key);
+      return true;
+    })
     .sort((a, b) => a._dist - b._dist)
     .slice(0, 5);
 
@@ -912,29 +920,35 @@ function buildContext(lat, lon, locationName) {
     ? nearOSM.map(o => `  - ${o.name} [${o.type}] (${o._dist.toFixed(1)} km)`).join("\n")
     : '  OSM critical infrastructure data not yet available (ETL pending).';
 
+  // If user clicked a specific gauge, surface it prominently in context
+  const primaryGauge = selectedGauge && haversineKm(lat, lon, selectedGauge.lat, selectedGauge.lon) < 5
+    ? `SELECTED GAUGE (user clicked): ${selectedGauge.name} — ${selectedGauge.stage} ${selectedGauge.unit}, status: ${selectedGauge.bucket}\n\n`
+    : '';
+
+  // Only mention OSM if data is actually loaded
+  const osmSection = osmFeatures.length
+    ? `NEARBY CRITICAL INFRASTRUCTURE (within ${SEARCH_RADIUS_KM} km):\n${osmCtx}\n\n`
+    : '';
+
   return {
     nearGauges,
     nearFloods,
-    context: `You are FloodWire Intel, a flood risk assistant powered by live USGS gauge data.
-The user is asking about flood risk near: "${locationName}" (lat ${lat.toFixed(4)}, lon ${lon.toFixed(4)}).
+    context: `You are FloodWire Intel, a concise flood risk assistant using live USGS gauge data.
+The user is asking about flood risk near: "${locationName}".
 
-NEARBY USGS GAUGES (within ${SEARCH_RADIUS_KM} km):
+${primaryGauge}NEARBY USGS GAUGES (within ${SEARCH_RADIUS_KM} km):
 ${gaugeCtx}
 
-RECENT FLOOD NEWS EVENTS (within ${SEARCH_RADIUS_KM} km):
+RECENT FLOOD NEWS (within ${SEARCH_RADIUS_KM} km):
 ${floodCtx}
 
-NEARBY CRITICAL INFRASTRUCTURE (within ${SEARCH_RADIUS_KM} km):
-${osmCtx}
-
-INSTRUCTIONS:
-- Give a clear, direct flood risk assessment for the queried location.
-- Reference specific gauge names, current stage readings, and flood stage thresholds.
-- If any gauge is at Watch, Warning, or Major flood stage, highlight this prominently.
-- If recent flood news events are nearby, mention them.
-- Note any critical infrastructure (hospitals, roads) that may be affected.
-- Be concise (3-5 sentences). Do not make up data not present above.
-- If no gauges are nearby, say so and note the assessment is limited.`
+${osmSection}INSTRUCTIONS:
+- Lead with a one-sentence risk verdict: LOW / ELEVATED / HIGH risk, naming the specific gauge and current stage.
+- If a gauge is at Watch or above, say so explicitly and give the gap to flood stage in feet.
+- Reference flood news only if directly relevant.
+- Do NOT mention missing OSM data or infrastructure data — omit if unavailable.
+- Do NOT hedge or qualify with "assessment may be limited" — just state what the data shows.
+- Maximum 3 sentences total. Be direct and specific.`
   };
 }
 
@@ -982,21 +996,19 @@ function appendMsg(text, role, typing = false) {
   return el;
 }
 
-// ── Ollama streaming call (via /api/chat Vercel proxy) ───────────────────────
+// ── Ollama call (via /api/chat Vercel proxy, non-streaming) ──────────────────
 async function streamOllama(systemPrompt, userQuery, targetEl) {
-  const body = JSON.stringify({
-    model:    OLLAMA_MODEL,
-    stream:   true,
-    messages: [
-      { role: 'system', content: systemPrompt },
-      { role: 'user',   content: userQuery }
-    ]
-  });
-
   const res = await fetch(OLLAMA_PROXY, {
     method:  'POST',
     headers: { 'Content-Type': 'application/json' },
-    body
+    body: JSON.stringify({
+      model:    OLLAMA_MODEL,
+      stream:   false,
+      messages: [
+        { role: 'system', content: systemPrompt },
+        { role: 'user',   content: userQuery }
+      ]
+    })
   });
 
   if (!res.ok) {
@@ -1004,30 +1016,12 @@ async function streamOllama(systemPrompt, userQuery, targetEl) {
     throw new Error((err.error || 'HTTP ' + res.status) + (err.detail ? ': ' + err.detail : ''));
   }
 
-  const reader = res.body.getReader();
-  const dec    = new TextDecoder();
-  let full     = '';
+  const data = await res.json();
+  const text = data?.message?.content || data?.response || '(no response)';
   targetEl.classList.remove('typing');
-
-  while (true) {
-    const { done, value } = await reader.read();
-    if (done) break;
-    const chunk = dec.decode(value, { stream: true });
-    // Ollama streams newline-delimited JSON objects
-    for (const line of chunk.split('\n')) {
-      if (!line.trim()) continue;
-      try {
-        const obj = JSON.parse(line);
-        const tok = obj?.message?.content || obj?.response || '';
-        if (tok) {
-          full += tok;
-          targetEl.textContent = full;
-          chatMsgs.scrollTop   = chatMsgs.scrollHeight;
-        }
-      } catch { /* partial line */ }
-    }
-  }
-  return full || '(no response)';
+  targetEl.textContent = text;
+  chatMsgs.scrollTop   = chatMsgs.scrollHeight;
+  return text;
 }
 
 // ── Context pill updater ─────────────────────────────────────────────────────
@@ -1039,9 +1033,10 @@ function updateChatContextPill() {
   let label = '';
   if (selectedGauge) {
     const stageStr = selectedGauge.stage != null
-      ? ' · ' + selectedGauge.stage.toFixed(2) + ' ' + selectedGauge.unit
+      ? ' · ' + (typeof selectedGauge.stage === 'number' ? selectedGauge.stage.toFixed(2) : selectedGauge.stage) + ' ' + selectedGauge.unit
       : '';
-    label = '📍 ' + selectedGauge.name + stageStr + ' (' + selectedGauge.bucket + ')';
+    const bucketUpper = (selectedGauge.bucket || '').toUpperCase();
+    label = '📍 ' + selectedGauge.name + stageStr + ' ft (' + bucketUpper + ')';
   } else if (mapViewContext) {
     label = '🗺 Map view: ' + mapViewContext.lat.toFixed(3) + ', ' + mapViewContext.lon.toFixed(3)
             + ' (' + mapViewContext.label + ')';
@@ -1120,8 +1115,20 @@ async function sendChat() {
   // Build spatial context
   const { nearGauges, nearFloods, context } = buildContext(geo.lat, geo.lon, geo.displayName);
 
+  // If a gauge was clicked, make sure it appears first in the card
+  let gaugesForCard = nearGauges;
+  if (selectedGauge && (nearGauges.length === 0 || nearGauges[0].site_name !== selectedGauge.name)) {
+    const sg = {
+      site_name: selectedGauge.name,
+      stage_ft:  selectedGauge.stage,
+      tier:      selectedGauge.bucket,
+      _dist:     haversineKm(geo.lat, geo.lon, selectedGauge.lat, selectedGauge.lon)
+    };
+    gaugesForCard = [sg, ...nearGauges.filter(g => g.site_name !== selectedGauge.name)].slice(0, 3);
+  }
+
   // Render gauge card
-  const card = renderGaugeCard(nearGauges);
+  const card = renderGaugeCard(gaugesForCard);
   if (card) {
     chatMsgs.appendChild(card);
     chatMsgs.scrollTop = chatMsgs.scrollHeight;
