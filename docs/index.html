@@ -862,7 +862,9 @@ async function fetchNearbyInfrastructure(lat, lon) {
     + 'node[amenity=shelter]('          + bb + ');'
     + 'node[amenity=ambulance_station](' + bb + ');'
     + 'way[highway=motorway]('          + bb + ');'
+    + 'way[highway=trunk]('            + bb + ');'
     + 'way[highway=primary]('           + bb + ');'
+    + 'way[highway=secondary]('         + bb + ');'
     + 'way[bridge=yes][highway]('       + bb + ');'
     + ');out center tags;';
   try {
@@ -948,13 +950,17 @@ function buildContext(lat, lon, locationName, liveOSM) {
       else if (amenity === 'police')          category = 'police';
       else if (amenity === 'shelter')         category = 'shelter';
       else if (amenity === 'ambulance_station') category = 'ambulance';
-      else if (['motorway','trunk','primary'].includes(hw)) category = 'road';
+      else if (['motorway','trunk','primary','secondary'].includes(hw)) category = 'road';
       else if (br === 'yes')                  category = 'bridge';
-      const name = p.name || p.operator || amenity || hw || 'unnamed';
-      return { name, category, _dist: haversineKm(lat, lon, c.lat, c.lon) };
+      // Roads often have ref (US-17) not name — use ref as fallback
+      const name = p.name || p.ref || p.operator || amenity || hw || '';
+      if (!name && !['road','bridge'].includes(category)) return null;  // skip unnamed non-roads
+      const displayName = name || (category === 'bridge' ? 'Unnamed Bridge' : hw.toUpperCase() + ' road');
+      return { name: displayName, category, _dist: haversineKm(lat, lon, c.lat, c.lon) };
     })
-    .filter(o => o && o._dist <= SEARCH_RADIUS_KM && o.name !== 'unnamed')
+    .filter(o => o && o._dist <= SEARCH_RADIUS_KM)
     .sort((a, b) => a._dist - b._dist)
+    .filter((o, i, arr) => arr.findIndex(x => x.name === o.name && x.category === o.category) === i)  // dedup by name+category
     .slice(0, 15);
 
   // Format gauge context
