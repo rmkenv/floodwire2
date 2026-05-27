@@ -1,67 +1,31 @@
 /**
- * /api/chat.js — Vercel serverless function
- * Proxies requests to Ollama Cloud, handling CORS and Bearer auth server-side.
- * The browser calls /api/chat instead of ollama.com directly.
- *
- * Set OLLAMA_API_KEY as a Vercel environment variable (not exposed to browser).
- *
- * Supports streaming — passes through the Ollama NDJSON stream directly.
+ * /api/chat.js — Vercel serverless function (Node runtime)
+ * Proxies to Ollama Cloud server-side — handles CORS and Bearer auth.
+ * Set OLLAMA_API_KEY as a Vercel environment variable.
  */
 
-export const config = {
-  runtime: 'edge',   // edge runtime supports streaming responses
-};
+export default async function handler(req, res) {
+  res.setHeader('Access-Control-Allow-Origin', '*');
+  res.setHeader('Access-Control-Allow-Methods', 'POST, OPTIONS');
+  res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
 
-const OLLAMA_URL = 'https://ollama.com/api/chat';
-
-export default async function handler(req) {
-  // CORS preflight
-  if (req.method === 'OPTIONS') {
-    return new Response(null, {
-      status: 204,
-      headers: {
-        'Access-Control-Allow-Origin':  '*',
-        'Access-Control-Allow-Methods': 'POST, OPTIONS',
-        'Access-Control-Allow-Headers': 'Content-Type',
-      },
-    });
-  }
-
-  if (req.method !== 'POST') {
-    return new Response(JSON.stringify({ error: 'Method not allowed' }), {
-      status: 405,
-      headers: { 'Content-Type': 'application/json' },
-    });
-  }
+  if (req.method === 'OPTIONS') return res.status(204).end();
+  if (req.method !== 'POST') return res.status(405).json({ error: 'Method not allowed' });
 
   const apiKey = process.env.OLLAMA_API_KEY;
-  if (!apiKey) {
-    return new Response(JSON.stringify({ error: 'OLLAMA_API_KEY not configured on server' }), {
-      status: 500,
-      headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' },
-    });
-  }
+  if (!apiKey) return res.status(500).json({ error: 'OLLAMA_API_KEY not set in Vercel environment variables' });
 
   let body;
-  try {
-    body = await req.json();
-  } catch {
-    return new Response(JSON.stringify({ error: 'Invalid JSON body' }), {
-      status: 400,
-      headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' },
-    });
-  }
-
-  // Always force streaming on
+  try { body = req.body; } catch { return res.status(400).json({ error: 'Invalid body' }); }
   body.stream = true;
 
   try {
-    const upstream = await fetch(OLLAMA_URL, {
+    const upstream = await fetch('https://ollama.com/api/chat', {
       method:  'POST',
       headers: {
         'Content-Type':  'application/json',
         'Authorization': 'Bearer ' + apiKey,
-        'User-Agent':    'floodwire2/1.0 (github.com/rmkenv/floodwire2)',
+        'User-Agent':    'floodwire2/1.0',
       },
       body: JSON.stringify(body),
       signal: AbortSignal.timeout(60000),
@@ -69,28 +33,24 @@ export default async function handler(req) {
 
     if (!upstream.ok) {
       const text = await upstream.text();
-      return new Response(JSON.stringify({ error: 'Ollama upstream ' + upstream.status, detail: text }), {
-        status: 502,
-        headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' },
-      });
+      return res.status(502).json({ error: 'Ollama ' + upstream.status, detail: text });
     }
 
-    // Stream the NDJSON response straight through
-    return new Response(upstream.body, {
-      status: 200,
-      headers: {
-        'Content-Type':                'application/x-ndjson',
-        'Access-Control-Allow-Origin': '*',
-        'Cache-Control':               'no-store',
-        'X-Accel-Buffering':           'no',   // disable nginx buffering on Vercel edge
-      },
-    });
+    // Stream NDJSON through
+    res.setHeader('Content-Type', 'application/x-ndjson');
+    res.setHeader('Cache-Control', 'no-store');
+    res.setHeader('X-Accel-Buffering', 'no');
+
+    const reader = upstream.body.getReader();
+    while (true) {
+      const { done, value } = await reader.read();
+      if (done) break;
+      res.write(value);
+    }
+    res.end();
 
   } catch (err) {
-    const msg = err.name === 'TimeoutError' ? 'Ollama request timed out' : err.message;
-    return new Response(JSON.stringify({ error: msg }), {
-      status: 504,
-      headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' },
-    });
+    const msg = err.name === 'TimeoutError' ? 'Ollama timed out' : err.message;
+    if (!res.headersSent) res.status(504).json({ error: msg });
   }
 }
