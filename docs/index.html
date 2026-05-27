@@ -764,7 +764,7 @@ const OSM_URL      = 'https://raw.githubusercontent.com/rmkenv/floodwire2/main/d
 const OVERPASS_URL = 'https://overpass-api.de/api/interpreter';
 const OSM_RADIUS_M = 25000;   // 25 km — covers rural areas where hospitals may be farther
 
-const SEARCH_RADIUS_KM = 25;   // radius for nearest-gauge and infrastructure search
+const SEARCH_RADIUS_MI = 15.5;  // radius for nearest-gauge and infrastructure search (~25 km)
 
 let chatOpen      = false;
 let chatDataReady = false;
@@ -812,8 +812,8 @@ async function loadChatData() {
 }
 
 // ── Haversine distance (km) ───────────────────────────────────────────────────
-function haversineKm(lat1, lon1, lat2, lon2) {
-  const R = 6371;
+function haversineMi(lat1, lon1, lat2, lon2) {
+  const R = 3958.8;  // Earth radius in miles
   const dLat = (lat2 - lat1) * Math.PI / 180;
   const dLon = (lon2 - lon1) * Math.PI / 180;
   const a = Math.sin(dLat/2)**2 +
@@ -876,6 +876,7 @@ async function fetchNearbyInfrastructure(lat, lon) {
     });
     if (!res.ok) return [];
     const data = await res.json();
+    console.debug('[Overpass] elements returned:', data.elements?.length, data.elements?.slice(0,3));
     return (data.elements || []).map(el => {
       const c = el.center || el;
       const p = el.tags   || {};
@@ -885,6 +886,7 @@ async function fetchNearbyInfrastructure(lat, lon) {
         geometry:   { type: 'Point', coordinates: [elLon, elLat] },
         properties: {
           name:       p.name       || '',
+          ref:        p.ref        || '',   // route number e.g. "US 258", "NC 125"
           amenity:    p.amenity    || '',
           highway:    p.highway    || '',
           healthcare: p.healthcare || '',
@@ -908,10 +910,10 @@ function buildContext(lat, lon, locationName, liveOSM) {
     .map(f => {
       const c = featCoords(f);
       if (!c) return null;
-      return { ...f.properties, _dist: haversineKm(lat, lon, c.lat, c.lon) };
+      return { ...f.properties, _dist: haversineMi(lat, lon, c.lat, c.lon) };
     })
     .filter(g => {
-      if (!g || g._dist > SEARCH_RADIUS_KM) return false;
+      if (!g || g._dist > SEARCH_RADIUS_MI) return false;
       // Deduplicate by site_id first, then site_name — one entry per physical station
       const key = g.site_id || g.site_no || g.site_name || (g.lat + ',' + g.lon);
       if (seenGauges.has(key)) return false;
@@ -926,9 +928,9 @@ function buildContext(lat, lon, locationName, liveOSM) {
     .map(f => {
       const c = featCoords(f);
       if (!c) return null;
-      return { ...f.properties, _dist: haversineKm(lat, lon, c.lat, c.lon) };
+      return { ...f.properties, _dist: haversineMi(lat, lon, c.lat, c.lon) };
     })
-    .filter(f => f && f._dist <= SEARCH_RADIUS_KM)
+    .filter(f => f && f._dist <= SEARCH_RADIUS_MI)
     .sort((a, b) => a._dist - b._dist)
     .slice(0, 5);
 
@@ -956,9 +958,9 @@ function buildContext(lat, lon, locationName, liveOSM) {
       const name = p.name || p.ref || p.operator || amenity || hw || '';
       if (!name && !['road','bridge'].includes(category)) return null;  // skip unnamed non-roads
       const displayName = name || (category === 'bridge' ? 'Unnamed Bridge' : hw.toUpperCase() + ' road');
-      return { name: displayName, category, _dist: haversineKm(lat, lon, c.lat, c.lon) };
+      return { name: displayName, category, _dist: haversineMi(lat, lon, c.lat, c.lon) };
     })
-    .filter(o => o && o._dist <= SEARCH_RADIUS_KM)
+    .filter(o => o && o._dist <= SEARCH_RADIUS_MI)
     .sort((a, b) => a._dist - b._dist)
     .filter((o, i, arr) => arr.findIndex(x => x.name === o.name && x.category === o.category) === i)  // dedup by name+category
     .slice(0, 15);
@@ -972,21 +974,21 @@ function buildContext(lat, lon, locationName, liveOSM) {
         const action = g.action_stage ?? '?';
         const flood  = g.flood_stage  ?? '?';
         const major  = g.major_stage  ?? '?';
-        return `  - ${name} (${g._dist.toFixed(1)} km): stage=${stage} ft, tier=${status}, action=${action} ft, flood=${flood} ft, major=${major} ft`;
+        return `  - ${name} (${g._dist.toFixed(1)} mi): stage=${stage} ft, tier=${status}, action=${action} ft, flood=${flood} ft, major=${major} ft`;
       }).join("\n")
-    : '  No USGS gauges within ' + SEARCH_RADIUS_KM + ' km.';
+    : '  No USGS gauges within ' + SEARCH_RADIUS_MI + ' miles.';
 
   const floodCtx = nearFloods.length
     ? nearFloods.map(f => {
         const title = f.title || f.headline || f.name || 'Flood event';
         const date  = f.date  || f.published || f.fetched_at || 'recent';
-        return `  - "${title}" (${f._dist.toFixed(1)} km, ${date})`;
+        return `  - "${title}" (${f._dist.toFixed(1)} mi, ${date})`;
       }).join("\n")
-    : '  No recent flood news events within ' + SEARCH_RADIUS_KM + ' km.';
+    : '  No recent flood news events within ' + SEARCH_RADIUS_MI + ' miles.';
 
   const byCategory = (cat) => nearOSM.filter(o => o.category === cat);
   const fmtGroup = (label, items) => items.length
-    ? `  ${label}: ${items.map(o => o.name + ' (' + o._dist.toFixed(1) + ' km)').join(', ')}`
+    ? `  ${label}: ${items.map(o => o.name + ' (' + o._dist.toFixed(1) + ' mi)').join(', ')}`
     : null;
 
   const osmCtx = nearOSM.length
@@ -1002,7 +1004,7 @@ function buildContext(lat, lon, locationName, liveOSM) {
     : '';
 
   // If user clicked a specific gauge, surface it prominently in context
-  const primaryGauge = selectedGauge && haversineKm(lat, lon, selectedGauge.lat, selectedGauge.lon) < 5
+  const primaryGauge = selectedGauge && haversineMi(lat, lon, selectedGauge.lat, selectedGauge.lon) < 3
     ? `SELECTED GAUGE (user clicked): ${selectedGauge.name} — ${selectedGauge.stage} ${selectedGauge.unit}, status: ${selectedGauge.bucket}\n\n`
     : '';
 
@@ -1010,7 +1012,7 @@ function buildContext(lat, lon, locationName, liveOSM) {
   const geoNote = `LOCATION: lat ${lat.toFixed(4)}, lon ${lon.toFixed(4)} — ${locationName}\n`;
 
   const osmSection = nearOSM.length && osmCtx
-    ? `NEARBY CRITICAL INFRASTRUCTURE (within ${SEARCH_RADIUS_KM} km):\n${osmCtx}\n\n`
+    ? `NEARBY CRITICAL INFRASTRUCTURE (within ${SEARCH_RADIUS_MI} miles):\n${osmCtx}\n\n`
     : '';
 
   return {
@@ -1020,10 +1022,10 @@ function buildContext(lat, lon, locationName, liveOSM) {
 The user is asking about flood risk near: "${locationName}".
 
 ${geoNote}
-${primaryGauge}NEARBY USGS GAUGES (within ${SEARCH_RADIUS_KM} km):
+${primaryGauge}NEARBY USGS GAUGES (within ${SEARCH_RADIUS_MI} miles):
 ${gaugeCtx}
 
-RECENT FLOOD NEWS (within ${SEARCH_RADIUS_KM} km):
+RECENT FLOOD NEWS (within ${SEARCH_RADIUS_MI} miles):
 ${floodCtx}
 
 ${osmSection}INSTRUCTIONS:
@@ -1032,7 +1034,10 @@ ${osmSection}INSTRUCTIONS:
 - If NO hospitals are listed, explicitly say so and note the nearest population center that may have medical facilities.
 - If gauge is at Watch or above, state the gap to flood stage in feet if flood stage is known.
 - If roads or bridges are listed and risk is elevated, mention potential access impacts.
-- Do NOT say "no data available" — if infrastructure is absent from the list, say none was found within 25 km.
+- ALWAYS use miles (not km or kilometers) for all distances.
+- If roads or bridges appear in the infrastructure list, name them specifically.
+- If no roads/bridges are listed, do NOT say "no roads identified" — simply omit that sentence.
+- If no hospitals listed, name the nearest city/town that likely has medical facilities based on the location context.
 - Maximum 4 sentences. Be specific and direct.`
   };
 }
@@ -1061,7 +1066,7 @@ function renderGaugeCard(gauges) {
     const dist   = g._dist.toFixed(1);
     html +=
       '<div class="gauge-card-row">' +
-        '<span class="gauge-card-label">' + name + ' (' + dist + ' km)</span>' +
+        '<span class="gauge-card-label">' + name + ' (' + dist + ' mi)</span>' +
         '<span class="gauge-card-val" style="color:' + color + '">' +
           escHtml(String(stage)) + ' ft · ' + escHtml(status) +
         '</span>' +
@@ -1212,7 +1217,7 @@ async function sendChat() {
       site_name: selectedGauge.name,
       stage_ft:  selectedGauge.stage,
       tier:      selectedGauge.bucket,
-      _dist:     haversineKm(geo.lat, geo.lon, selectedGauge.lat, selectedGauge.lon)
+      _dist:     haversineMi(geo.lat, geo.lon, selectedGauge.lat, selectedGauge.lon)
     };
     gaugesForCard = [sg, ...nearGauges.filter(g => g.site_name !== selectedGauge.name)].slice(0, 3);
   }
@@ -1223,7 +1228,7 @@ async function sendChat() {
     chatMsgs.appendChild(card);
     chatMsgs.scrollTop = chatMsgs.scrollHeight;
   } else if (!nearGauges.length) {
-    appendMsg('⚠ No USGS gauges found within ' + SEARCH_RADIUS_KM + ' km — assessment may be limited.', 'bot');
+    appendMsg('⚠ No USGS gauges found within ' + SEARCH_RADIUS_MI + ' miles — assessment may be limited.', 'bot');
   }
 
   // Stream LLM answer
