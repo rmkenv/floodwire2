@@ -1,0 +1,62 @@
+name: HEFS Site ETL — Nightly
+
+on:
+  schedule:
+    - cron: "30 5 * * *"   # 05:30 UTC = ~01:30 ET, just before flood ETL at 06:00
+  workflow_dispatch:        # manual trigger from GitHub UI
+
+jobs:
+  hefs-etl:
+    name: Fetch HEFS Sites
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests
+
+      - name: Run HEFS ETL
+        run: python fetch_hefs.py
+
+      - name: Summarise output
+        run: |
+          if [ -f data/hefs_sites.geojson ]; then
+            FEAT=$(python3 -c "import json; d=json.load(open('data/hefs_sites.geojson')); print(d.get('feature_count', len(d.get('features',[]))))")
+            echo "hefs_sites.geojson — $FEAT features"
+          else
+            echo "WARNING: hefs_sites.geojson not produced"
+          fi
+
+      - name: Copy to public dir
+        run: |
+          mkdir -p public
+          cp data/hefs_sites.geojson public/hefs_sites.geojson || true
+
+      - name: Commit data files
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/hefs_sites.geojson public/hefs_sites.geojson || true
+          if git diff --cached --quiet; then
+            echo "No changes to HEFS sites — nothing to commit."
+          else
+            DATESTAMP=$(date -u +"%Y-%m-%d")
+            git commit -m "chore: HEFS site update ${DATESTAMP} [skip ci]"
+            git push
+          fi
