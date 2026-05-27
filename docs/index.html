@@ -845,21 +845,18 @@ function buildContext(lat, lon, locationName) {
         `  - ${g.name || g.site_no || 'Unknown gauge'} (${g._dist.toFixed(1)} km away): ` +
         `stage=${g.stage ?? g.value ?? '?'} ft, status=${g.flood_stage || g.status || 'unknown'}, ` +
         `action_stage=${g.action_stage ?? '?'} ft, flood_stage=${g.flood_stage_ft ?? '?'} ft`
-      ).join('
-')
+      ).join("\n")
     : '  No USGS gauges within ' + SEARCH_RADIUS_KM + ' km.';
 
   const floodCtx = nearFloods.length
     ? nearFloods.map(f =>
         `  - "${f.title || f.headline || 'Flood event'}" (${f._dist.toFixed(1)} km, ` +
         `${f.date || f.published || 'recent'})`
-      ).join('
-')
+      ).join("\n")
     : '  No recent flood news events within ' + SEARCH_RADIUS_KM + ' km.';
 
   const osmCtx = nearOSM.length
-    ? nearOSM.map(o => `  - ${o.name} [${o.type}] (${o._dist.toFixed(1)} km)`).join('
-')
+    ? nearOSM.map(o => `  - ${o.name} [${o.type}] (${o._dist.toFixed(1)} km)`).join("\n")
     : '  OSM critical infrastructure data not yet available (ETL pending).';
 
   return {
@@ -960,8 +957,7 @@ async function streamOllama(systemPrompt, userQuery, targetEl) {
     if (done) break;
     const chunk = dec.decode(value, { stream: true });
     // Ollama streams newline-delimited JSON objects
-    for (const line of chunk.split('
-')) {
+    for (const line of chunk.split('\n')) {
       if (!line.trim()) continue;
       try {
         const obj  = JSON.parse(line);
