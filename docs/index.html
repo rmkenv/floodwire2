@@ -879,21 +879,32 @@ function buildContext(lat, lon, locationName) {
     .sort((a, b) => a._dist - b._dist)
     .slice(0, 5);
 
-  // Nearby critical infrastructure from OSM
-  const nearOSM = osmFeatures
+  // Nearby critical infrastructure — prefer live Overpass results over static file
+  const osmSource = (liveOSM && liveOSM.length) ? liveOSM : osmFeatures;
+  const nearOSM = osmSource
     .map(f => {
       const c = featCoords(f);
       if (!c) return null;
-      const p = f.properties;
-      return {
-        name:     p.name || p.amenity || p.highway || 'unnamed',
-        type:     p.amenity || p.highway || p.building || 'infrastructure',
-        _dist:    haversineKm(lat, lon, c.lat, c.lon)
-      };
+      const p   = f.properties;
+      const amenity = (p.amenity    || '').toLowerCase();
+      const hw      = (p.highway    || '').toLowerCase();
+      const hc      = (p.healthcare || '').toLowerCase();
+      const br      = (p.bridge     || '').toLowerCase();
+      // Derive a clean category
+      let category = 'infrastructure';
+      if (['hospital','clinic','doctors'].includes(amenity) || hc === 'hospital') category = 'hospital';
+      else if (amenity === 'fire_station')    category = 'fire_station';
+      else if (amenity === 'police')          category = 'police';
+      else if (amenity === 'shelter')         category = 'shelter';
+      else if (amenity === 'ambulance_station') category = 'ambulance';
+      else if (['motorway','trunk','primary'].includes(hw)) category = 'road';
+      else if (br === 'yes')                  category = 'bridge';
+      const name = p.name || p.operator || amenity || hw || 'unnamed';
+      return { name, category, _dist: haversineKm(lat, lon, c.lat, c.lon) };
     })
-    .filter(o => o && o._dist <= SEARCH_RADIUS_KM)
+    .filter(o => o && o._dist <= SEARCH_RADIUS_KM && o.name !== 'unnamed')
     .sort((a, b) => a._dist - b._dist)
-    .slice(0, 8);
+    .slice(0, 15);
 
   // Format gauge context
   const gaugeCtx = nearGauges.length
@@ -916,17 +927,29 @@ function buildContext(lat, lon, locationName) {
       }).join("\n")
     : '  No recent flood news events within ' + SEARCH_RADIUS_KM + ' km.';
 
+  const byCategory = (cat) => nearOSM.filter(o => o.category === cat);
+  const fmtGroup = (label, items) => items.length
+    ? `  ${label}: ${items.map(o => o.name + ' (' + o._dist.toFixed(1) + ' km)').join(', ')}`
+    : null;
+
   const osmCtx = nearOSM.length
-    ? nearOSM.map(o => `  - ${o.name} [${o.type}] (${o._dist.toFixed(1)} km)`).join("\n")
-    : '  OSM critical infrastructure data not yet available (ETL pending).';
+    ? [
+        fmtGroup('Hospitals/Clinics', byCategory('hospital')),
+        fmtGroup('Fire Stations',     byCategory('fire_station')),
+        fmtGroup('Police',            byCategory('police')),
+        fmtGroup('Shelters',          byCategory('shelter')),
+        fmtGroup('Ambulance',         byCategory('ambulance')),
+        fmtGroup('Major Roads',       byCategory('road')),
+        fmtGroup('Bridges',           byCategory('bridge')),
+      ].filter(Boolean).join("\n")
+    : '';
 
   // If user clicked a specific gauge, surface it prominently in context
   const primaryGauge = selectedGauge && haversineKm(lat, lon, selectedGauge.lat, selectedGauge.lon) < 5
     ? `SELECTED GAUGE (user clicked): ${selectedGauge.name} — ${selectedGauge.stage} ${selectedGauge.unit}, status: ${selectedGauge.bucket}\n\n`
     : '';
 
-  // Only mention OSM if data is actually loaded
-  const osmSection = osmFeatures.length
+  const osmSection = nearOSM.length && osmCtx
     ? `NEARBY CRITICAL INFRASTRUCTURE (within ${SEARCH_RADIUS_KM} km):\n${osmCtx}\n\n`
     : '';
 
