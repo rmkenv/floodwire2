@@ -397,7 +397,7 @@
       <span class="chat-subtitle">Powered by Ollama · Live gauge data</span>
     </div>
     <div id="chat-messages">
-      <div class="chat-msg bot">Ask me if a road, hospital, or address is at risk of flooding based on current gauge readings and recent flood events.</div>
+      <div class="chat-msg bot">Ask about flood risk near the selected gauge or current map view.</div>
     </div>
     <div id="chat-context-bar" style="padding:0.35rem 0.75rem 0; display:none; align-items:center; gap:0.4rem; flex-wrap:wrap;">
       <span id="chat-context-pill" style="
@@ -867,17 +867,42 @@ async function fetchNearbyInfrastructure(lat, lon) {
     + 'node[amenity=university]('       + bb + ');'
     + 'node[amenity=college]('          + bb + ');'
     + ');out center tags;';
-  try {
+  const tryOverpass = async (radiusM) => {
+    const bbr = 'around:' + radiusM + ',' + lat + ',' + lon;
+    const q = '[out:json][timeout:25];('
+      + 'node[amenity=hospital]('          + bbr + ');'
+      + 'way[amenity=hospital]('           + bbr + ');'
+      + 'node[amenity=clinic]('            + bbr + ');'
+      + 'node[healthcare=hospital]('       + bbr + ');'
+      + 'node[amenity=fire_station]('      + bbr + ');'
+      + 'node[amenity=police]('            + bbr + ');'
+      + 'node[amenity=shelter]('           + bbr + ');'
+      + 'node[amenity=ambulance_station](' + bbr + ');'
+      + 'node[amenity=school]('            + bbr + ');'
+      + 'way[amenity=school]('             + bbr + ');'
+      + 'node[amenity=university]('        + bbr + ');'
+      + 'node[amenity=college]('           + bbr + ');'
+      + ');out center tags;';
     const res = await fetch(OVERPASS_URL, {
       method:  'POST',
       headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-      body:    'data=' + encodeURIComponent(query),
-      signal:  AbortSignal.timeout(18000)
+      body:    'data=' + encodeURIComponent(q),
+      signal:  AbortSignal.timeout(25000)
     });
     if (!res.ok) return [];
     const data = await res.json();
-    console.debug('[Overpass] elements returned:', data.elements?.length, data.elements?.slice(0,3));
-    return (data.elements || []).map(el => {
+    console.debug('[Overpass] radius=' + radiusM + ' returned:', data.elements?.length);
+    return data.elements || [];
+  };
+
+  try {
+    // Try 25km first, expand to 50km if nothing found
+    let elements = await tryOverpass(25000);
+    if (elements.length === 0) {
+      console.debug('[Overpass] retrying with 50km radius');
+      elements = await tryOverpass(50000);
+    }
+    return elements.map(el => {
       const c = el.center || el;
       const p = el.tags   || {};
       const elLat = parseFloat(c.lat), elLon = parseFloat(c.lon);
