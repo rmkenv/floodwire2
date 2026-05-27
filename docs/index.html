@@ -762,9 +762,9 @@ const GAUGES_URL = 'https://raw.githubusercontent.com/rmkenv/floodwire2/main/dat
 const FLOODS_URL = 'https://raw.githubusercontent.com/rmkenv/floodwire2/main/data/floods.geojson';
 const OSM_URL      = 'https://raw.githubusercontent.com/rmkenv/floodwire2/main/data/osm_critical.geojson';
 const OVERPASS_URL = 'https://overpass-api.de/api/interpreter';
-const OSM_RADIUS_M = 15000;
+const OSM_RADIUS_M = 25000;   // 25 km — covers rural areas where hospitals may be farther
 
-const SEARCH_RADIUS_KM = 15;   // radius for nearest-gauge search
+const SEARCH_RADIUS_KM = 25;   // radius for nearest-gauge and infrastructure search
 
 let chatOpen      = false;
 let chatDataReady = false;
@@ -1000,6 +1000,9 @@ function buildContext(lat, lon, locationName, liveOSM) {
     ? `SELECTED GAUGE (user clicked): ${selectedGauge.name} — ${selectedGauge.stage} ${selectedGauge.unit}, status: ${selectedGauge.bucket}\n\n`
     : '';
 
+  // Give the LLM geographic context so it can reason about nearby cities even if OSM has no hospitals
+  const geoNote = `LOCATION: lat ${lat.toFixed(4)}, lon ${lon.toFixed(4)} — ${locationName}\n`;
+
   const osmSection = nearOSM.length && osmCtx
     ? `NEARBY CRITICAL INFRASTRUCTURE (within ${SEARCH_RADIUS_KM} km):\n${osmCtx}\n\n`
     : '';
@@ -1010,6 +1013,7 @@ function buildContext(lat, lon, locationName, liveOSM) {
     context: `You are FloodWire Intel, a concise flood risk assistant using live USGS gauge data.
 The user is asking about flood risk near: "${locationName}".
 
+${geoNote}
 ${primaryGauge}NEARBY USGS GAUGES (within ${SEARCH_RADIUS_KM} km):
 ${gaugeCtx}
 
@@ -1018,11 +1022,12 @@ ${floodCtx}
 
 ${osmSection}INSTRUCTIONS:
 - Lead with a one-sentence risk verdict: LOW / ELEVATED / HIGH, naming the gauge, stage, and status.
-- If hospitals or clinics are listed above, assess their flood risk by name.
-- If gauge is at Watch or above, state the gap to flood stage in feet.
+- If hospitals or clinics are listed above, assess their flood risk by name and distance.
+- If NO hospitals are listed, explicitly say so and note the nearest population center that may have medical facilities.
+- If gauge is at Watch or above, state the gap to flood stage in feet if flood stage is known.
 - If roads or bridges are listed and risk is elevated, mention potential access impacts.
-- Do NOT mention missing data — only speak to what is present above.
-- Do NOT hedge. Maximum 4 sentences. Be specific and direct.`
+- Do NOT say "no data available" — if infrastructure is absent from the list, say none was found within 25 km.
+- Maximum 4 sentences. Be specific and direct.`
   };
 }
 
