@@ -760,7 +760,9 @@ const OLLAMA_MODEL = 'gpt-oss:20b';
 // Data URLs — loaded lazily on first chat open
 const GAUGES_URL = 'https://raw.githubusercontent.com/rmkenv/floodwire2/main/data/gauges_current.geojson';
 const FLOODS_URL = 'https://raw.githubusercontent.com/rmkenv/floodwire2/main/data/floods.geojson';
-const OSM_URL    = 'https://raw.githubusercontent.com/rmkenv/floodwire2/main/data/osm_critical.geojson';
+const OSM_URL      = 'https://raw.githubusercontent.com/rmkenv/floodwire2/main/data/osm_critical.geojson';
+const OVERPASS_URL = 'https://overpass-api.de/api/interpreter';
+const OSM_RADIUS_M = 15000;
 
 const SEARCH_RADIUS_KM = 15;   // radius for nearest-gauge search
 
@@ -847,8 +849,57 @@ async function geocode(query) {
   };
 }
 
+// ── Live Overpass query for nearby critical infrastructure ────────────────────
+async function fetchNearbyInfrastructure(lat, lon) {
+  const bb = 'around:' + OSM_RADIUS_M + ',' + lat + ',' + lon;
+  const query = '[out:json][timeout:15];('
+    + 'node[amenity=hospital]('         + bb + ');'
+    + 'way[amenity=hospital]('          + bb + ');'
+    + 'node[amenity=clinic]('           + bb + ');'
+    + 'node[healthcare=hospital]('      + bb + ');'
+    + 'node[amenity=fire_station]('     + bb + ');'
+    + 'node[amenity=police]('           + bb + ');'
+    + 'node[amenity=shelter]('          + bb + ');'
+    + 'node[amenity=ambulance_station](' + bb + ');'
+    + 'way[highway=motorway]('          + bb + ');'
+    + 'way[highway=primary]('           + bb + ');'
+    + 'way[bridge=yes][highway]('       + bb + ');'
+    + ');out center tags;';
+  try {
+    const res = await fetch(OVERPASS_URL, {
+      method:  'POST',
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      body:    'data=' + encodeURIComponent(query),
+      signal:  AbortSignal.timeout(18000)
+    });
+    if (!res.ok) return [];
+    const data = await res.json();
+    return (data.elements || []).map(el => {
+      const c = el.center || el;
+      const p = el.tags   || {};
+      const elLat = parseFloat(c.lat), elLon = parseFloat(c.lon);
+      if (isNaN(elLat) || isNaN(elLon)) return null;
+      return {
+        geometry:   { type: 'Point', coordinates: [elLon, elLat] },
+        properties: {
+          name:       p.name       || '',
+          amenity:    p.amenity    || '',
+          highway:    p.highway    || '',
+          healthcare: p.healthcare || '',
+          bridge:     p.bridge     || '',
+          operator:   p.operator   || '',
+        }
+      };
+    }).filter(Boolean);
+  } catch(e) {
+    console.warn('[Chat] Overpass failed:', e.message);
+    return [];
+  }
+}
+
 // ── Spatial context builder ───────────────────────────────────────────────────
-function buildContext(lat, lon, locationName) {
+function buildContext(lat, lon, locationName, liveOSM) {
+  liveOSM = liveOSM || [];
   // Nearest gauges within radius, sorted by distance
   const seenGauges = new Set();
   const nearGauges = gaugeFeatures
@@ -1135,8 +1186,13 @@ async function sendChat() {
     chatBusy = false; chatSend.disabled = false; return;
   }
 
+  // Fetch live OSM infrastructure
+  const liveInfraEl = appendMsg('Querying nearby hospitals and infrastructure…', 'bot', true);
+  const liveOSM = await fetchNearbyInfrastructure(geo.lat, geo.lon);
+  liveInfraEl.remove();
+
   // Build spatial context
-  const { nearGauges, nearFloods, context } = buildContext(geo.lat, geo.lon, geo.displayName);
+  const { nearGauges, nearFloods, context } = buildContext(geo.lat, geo.lon, geo.displayName, liveOSM);
 
   // If a gauge was clicked, make sure it appears first in the card
   let gaugesForCard = nearGauges;
