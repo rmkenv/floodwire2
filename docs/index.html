@@ -399,8 +399,20 @@
     <div id="chat-messages">
       <div class="chat-msg bot">Ask me if a road, hospital, or address is at risk of flooding based on current gauge readings and recent flood events.</div>
     </div>
+    <div id="chat-context-bar" style="padding:0.35rem 0.75rem 0; display:none; align-items:center; gap:0.4rem; flex-wrap:wrap;">
+      <span id="chat-context-pill" style="
+        font-size:0.6rem; color:var(--accent);
+        background:rgba(46,168,255,0.1); border:1px solid rgba(46,168,255,0.25);
+        border-radius:99px; padding:0.15rem 0.55rem;
+        white-space:nowrap; max-width:280px; overflow:hidden; text-overflow:ellipsis;
+      "></span>
+      <button id="chat-context-clear" title="Clear context" style="
+        background:none; border:none; color:var(--muted);
+        font-size:0.65rem; cursor:pointer; padding:0; line-height:1;
+      ">✕</button>
+    </div>
     <div id="chat-footer">
-      <input id="chat-input" type="text" placeholder="e.g. Is Mercy Hospital in Baltimore at risk?" autocomplete="off" />
+      <input id="chat-input" type="text" placeholder="Ask about current map view…" autocomplete="off" />
       <button id="chat-send">Ask</button>
     </div>
   </div>
@@ -599,6 +611,24 @@ function parseTimeSeries(series, param, state) {
       '<div class="popup-row"><span class="popup-label">Updated</span><span class="popup-val">' + dt + '</span></div>' +
       (siteCode ? '<a class="popup-link" href="https://waterdata.usgs.gov/monitoring-location/' + siteCode + '" target="_blank" rel="noopener">→ USGS page</a>' : '')
     );
+    // Set selected gauge context for chat when popup opens
+    marker.on('popupopen', () => {
+      selectedGauge = {
+        name:     siteName,
+        lat:      lat,
+        lon:      lng,
+        stage:    val,
+        unit:     unit,
+        bucket:   bucket,
+        siteCode: siteCode,
+        state:    site.siteState || ''
+      };
+      updateChatContextPill();
+    });
+    marker.on('popupclose', () => {
+      // Keep selectedGauge set — user may still want to ask about it
+    });
+
     markers.push({ marker, bucket, state });
   });
   return markers;
@@ -703,6 +733,21 @@ document.getElementById('state-clear').addEventListener('click', () => {
 loadFloodNews();
 loadGauges();
 
+// ── Map context tracking ──────────────────────────────────────────────────────
+function updateMapViewContext() {
+  const c    = map.getCenter();
+  const zoom = map.getZoom();
+  // Human-readable zoom label
+  const zoomLabel = zoom >= 10 ? 'city' : zoom >= 7 ? 'county/metro' : zoom >= 5 ? 'state' : 'national';
+  mapViewContext = { lat: c.lat, lon: c.lng, zoom, label: zoomLabel };
+  updateChatContextPill();
+}
+
+map.on('moveend', updateMapViewContext);
+map.on('zoomend', updateMapViewContext);
+// Set initial context after map loads
+setTimeout(updateMapViewContext, 500);
+
 // ════════════════════════════════════════════════════════════════════════════
 // FLOOD INTELLIGENCE CHAT
 // Flow: user query → Nominatim geocode → spatial join (gauges + floods + OSM)
@@ -726,6 +771,10 @@ let chatBusy      = false;
 let gaugeFeatures = [];
 let floodFeatures = [];
 let osmFeatures   = [];
+
+// Active map context — updated automatically from map moves and gauge clicks
+let selectedGauge = null;   // {name, lat, lon, stage, unit, bucket, siteCode}
+let mapViewContext = null;   // {lat, lon, zoom, label}
 
 // ── DOM refs ──────────────────────────────────────────────────────────────────
 const chatBtn    = document.getElementById('chat-btn');
@@ -971,6 +1020,36 @@ async function streamOllama(systemPrompt, userQuery, targetEl) {
   return full || '(no response)';
 }
 
+// ── Context pill updater ─────────────────────────────────────────────────────
+function updateChatContextPill() {
+  const bar  = document.getElementById('chat-context-bar');
+  const pill = document.getElementById('chat-context-pill');
+  if (!bar || !pill) return;
+
+  let label = '';
+  if (selectedGauge) {
+    const stageStr = selectedGauge.stage != null
+      ? ' · ' + selectedGauge.stage.toFixed(2) + ' ' + selectedGauge.unit
+      : '';
+    label = '📍 ' + selectedGauge.name + stageStr + ' (' + selectedGauge.bucket + ')';
+  } else if (mapViewContext) {
+    label = '🗺 Map view: ' + mapViewContext.lat.toFixed(3) + ', ' + mapViewContext.lon.toFixed(3)
+            + ' (' + mapViewContext.label + ')';
+  }
+
+  if (label) {
+    pill.textContent = label;
+    bar.style.display = 'flex';
+  } else {
+    bar.style.display = 'none';
+  }
+}
+
+document.getElementById('chat-context-clear')?.addEventListener('click', () => {
+  selectedGauge = null;
+  updateChatContextPill();
+});
+
 // ── Main send handler ─────────────────────────────────────────────────────────
 async function sendChat() {
   const query = chatInput.value.trim();
@@ -989,23 +1068,44 @@ async function sendChat() {
     waitEl.remove();
   }
 
-  // Geocode
-  const geocodeEl = appendMsg('Locating "' + query + '"…', 'bot', true);
+  // Resolve location — use selected gauge or map center if no explicit place named
   let geo = null;
-  try {
-    geo = await geocode(query);
-  } catch(e) {
-    geocodeEl.textContent = '⚠ Geocoding failed: ' + e.message;
-    geocodeEl.classList.remove('typing');
-    chatBusy = false; chatSend.disabled = false; return;
+
+  // Try gauge context first
+  if (selectedGauge) {
+    geo = {
+      lat:         selectedGauge.lat,
+      lon:         selectedGauge.lon,
+      displayName: selectedGauge.name + (selectedGauge.state ? ', ' + selectedGauge.state : '')
+    };
+  }
+
+  // Try geocoding the query text
+  if (!geo) {
+    const geocodeEl = appendMsg('Locating "' + query + '"…', 'bot', true);
+    try {
+      geo = await geocode(query);
+    } catch(e) {
+      geocodeEl.textContent = '⚠ Geocoding failed: ' + e.message;
+      geocodeEl.classList.remove('typing');
+      chatBusy = false; chatSend.disabled = false; return;
+    }
+    geocodeEl.remove();
+  }
+
+  // Fall back to map view center
+  if (!geo && mapViewContext) {
+    geo = {
+      lat:         mapViewContext.lat,
+      lon:         mapViewContext.lon,
+      displayName: 'current map view (' + mapViewContext.lat.toFixed(3) + ', ' + mapViewContext.lon.toFixed(3) + ')'
+    };
   }
 
   if (!geo) {
-    geocodeEl.textContent = '⚠ Could not locate "' + query + '". Try adding a city or state.';
-    geocodeEl.classList.remove('typing');
+    appendMsg('⚠ Could not determine location. Try typing a place name, zoom the map, or click a gauge.', 'bot');
     chatBusy = false; chatSend.disabled = false; return;
   }
-  geocodeEl.remove();
 
   // Build spatial context
   const { nearGauges, nearFloods, context } = buildContext(geo.lat, geo.lon, geo.displayName);
