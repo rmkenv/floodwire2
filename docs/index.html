@@ -754,9 +754,8 @@ setTimeout(updateMapViewContext, 500);
 //       → build context → Ollama Cloud streaming → render gauge card + answer
 // ════════════════════════════════════════════════════════════════════════════
 
-const OLLAMA_URL   = 'https://ollama.com/api/chat';
+const OLLAMA_PROXY = '/api/chat';          // Vercel serverless proxy — no CORS, no key in browser
 const OLLAMA_MODEL = 'gpt-oss:20b';
-const OLLAMA_KEY   = '';   // set via window.OLLAMA_API_KEY or leave blank for open endpoint
 
 // Data URLs — loaded lazily on first chat open
 const GAUGES_URL = 'https://raw.githubusercontent.com/rmkenv/floodwire2/main/data/gauges_current.geojson';
@@ -978,23 +977,27 @@ function appendMsg(text, role, typing = false) {
   return el;
 }
 
-// ── Ollama streaming call ─────────────────────────────────────────────────────
+// ── Ollama streaming call (via /api/chat Vercel proxy) ───────────────────────
 async function streamOllama(systemPrompt, userQuery, targetEl) {
-  const apiKey = window.OLLAMA_API_KEY || OLLAMA_KEY;
-  const headers = { 'Content-Type': 'application/json' };
-  if (apiKey) headers['Authorization'] = 'Bearer ' + apiKey;
-
   const body = JSON.stringify({
-    model: OLLAMA_MODEL,
-    stream: true,
+    model:    OLLAMA_MODEL,
+    stream:   true,
     messages: [
       { role: 'system', content: systemPrompt },
       { role: 'user',   content: userQuery }
     ]
   });
 
-  const res = await fetch(OLLAMA_URL, { method: 'POST', headers, body });
-  if (!res.ok) throw new Error('Ollama HTTP ' + res.status);
+  const res = await fetch(OLLAMA_PROXY, {
+    method:  'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body
+  });
+
+  if (!res.ok) {
+    const err = await res.json().catch(() => ({}));
+    throw new Error((err.error || 'HTTP ' + res.status) + (err.detail ? ': ' + err.detail : ''));
+  }
 
   const reader = res.body.getReader();
   const dec    = new TextDecoder();
@@ -1009,12 +1012,14 @@ async function streamOllama(systemPrompt, userQuery, targetEl) {
     for (const line of chunk.split('\n')) {
       if (!line.trim()) continue;
       try {
-        const obj  = JSON.parse(line);
-        const tok  = obj?.message?.content || obj?.response || '';
-        full       += tok;
-        targetEl.textContent = full;
-        chatMsgs.scrollTop   = chatMsgs.scrollHeight;
-      } catch { /* partial line — skip */ }
+        const obj = JSON.parse(line);
+        const tok = obj?.message?.content || obj?.response || '';
+        if (tok) {
+          full += tok;
+          targetEl.textContent = full;
+          chatMsgs.scrollTop   = chatMsgs.scrollHeight;
+        }
+      } catch { /* partial line */ }
     }
   }
   return full || '(no response)';
@@ -1124,8 +1129,7 @@ async function sendChat() {
   try {
     await streamOllama(context, query, answerEl);
   } catch(e) {
-    answerEl.textContent = '⚠ Ollama unavailable: ' + e.message +
-      '. Set window.OLLAMA_API_KEY or check your Ollama Cloud endpoint.';
+    answerEl.textContent = '⚠ AI unavailable: ' + e.message;
     answerEl.classList.remove('typing');
   }
 
