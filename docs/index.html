@@ -313,6 +313,35 @@
     }
     #chat-send:disabled { opacity: 0.4; cursor: default; }
     #chat-send:hover:not(:disabled) { opacity: 0.85; }
+
+    /* ── Suggestion chips ── */
+    #chat-chips {
+      padding: 0 0.75rem 0.5rem;
+      display: flex; flex-wrap: wrap; gap: 0.35rem;
+    }
+    .chat-chip {
+      font-size: 0.62rem; font-family: 'DM Mono', monospace;
+      background: rgba(46,168,255,0.08);
+      border: 1px solid rgba(46,168,255,0.25);
+      color: var(--accent);
+      border-radius: 99px;
+      padding: 0.2rem 0.6rem;
+      cursor: pointer; white-space: nowrap;
+      transition: background 0.12s;
+    }
+    .chat-chip:hover { background: rgba(46,168,255,0.18); }
+
+    /* ── Trend badge ── */
+    .trend-badge {
+      display: inline-block;
+      font-size: 0.6rem; font-family: 'DM Mono', monospace;
+      padding: 0.1rem 0.45rem; border-radius: 4px;
+      font-weight: 700; margin-left: 0.4rem;
+      vertical-align: middle;
+    }
+    .trend-rising  { background: rgba(239,68,68,0.15);  color: #ef4444; }
+    .trend-falling { background: rgba(56,189,248,0.15); color: #38bdf8; }
+    .trend-steady  { background: rgba(148,163,184,0.15);color: #94a3b8; }
   </style>
 </head>
 <body>
@@ -399,6 +428,7 @@
     <div id="chat-messages">
       <div class="chat-msg bot">Ask about flood risk near the selected gauge or current map view.</div>
     </div>
+    <div id="chat-chips"></div>
     <div id="chat-context-bar" style="padding:0.35rem 0.75rem 0; display:none; align-items:center; gap:0.4rem; flex-wrap:wrap;">
       <span id="chat-context-pill" style="
         font-size:0.6rem; color:var(--accent);
@@ -621,9 +651,11 @@ function parseTimeSeries(series, param, state) {
         unit:     unit,
         bucket:   bucket,
         siteCode: siteCode,
-        state:    site.siteState || ''
+        state:    site.siteState || site.state || ''
       };
       updateChatContextPill();
+      // Auto-trigger assessment — slight delay so popup renders first
+      setTimeout(() => autoAssessGauge(selectedGauge), 300);
     });
     marker.on('popupclose', () => {
       // Keep selectedGauge set — user may still want to ask about it
@@ -1182,8 +1214,173 @@ function updateChatContextPill() {
 
 document.getElementById('chat-context-clear')?.addEventListener('click', () => {
   selectedGauge = null;
+  lastAutoGauge = null;
+  renderChips(null);
   updateChatContextPill();
 });
+
+// ── NWPS trend fetch ──────────────────────────────────────────────────────────
+async function fetchGaugeTrend(siteCode) {
+  if (!siteCode) return null;
+  try {
+    // USGS IV service — last 6 hours of readings to determine trend
+    const url = 'https://waterservices.usgs.gov/nwis/iv/?format=json&sites='
+      + siteCode + '&parameterCd=00065&period=PT6H&siteStatus=active';
+    const res = await fetch(url, { signal: AbortSignal.timeout(8000) });
+    if (!res.ok) return null;
+    const data = await res.json();
+    const series = data?.value?.timeSeries?.[0]?.values?.[0]?.value;
+    if (!series || series.length < 2) return null;
+    const first = parseFloat(series[0].value);
+    const last  = parseFloat(series[series.length - 1].value);
+    const delta = last - first;
+    if (Math.abs(delta) < 0.05) return { trend: 'steady', delta: 0 };
+    return delta > 0
+      ? { trend: 'rising',  delta: +delta.toFixed(2) }
+      : { trend: 'falling', delta: +Math.abs(delta).toFixed(2) };
+  } catch(e) {
+    console.warn('[Trend] fetch failed:', e.message);
+    return null;
+  }
+}
+
+// ── Suggestion chips ──────────────────────────────────────────────────────────
+function renderChips(gauge) {
+  const el = document.getElementById('chat-chips');
+  if (!el) return;
+  el.innerHTML = '';
+  if (!gauge) return;
+
+  const bucket = (gauge.bucket || '').toLowerCase();
+  const chips = [];
+
+  // Always show these
+  chips.push('What does this gauge reading mean?');
+  chips.push('Are any hospitals at risk?');
+  chips.push('Are any schools at risk?');
+
+  // Contextual chips based on flood tier
+  if (bucket === 'major') {
+    chips.push('How severe is major flood stage?');
+    chips.push('What should residents do now?');
+  } else if (bucket === 'warning') {
+    chips.push('Is flooding expected to worsen?');
+    chips.push('What actions should be taken?');
+  } else if (bucket === 'watch') {
+    chips.push('Should I be concerned?');
+  }
+
+  chips.slice(0, 4).forEach(text => {
+    const btn = document.createElement('button');
+    btn.className = 'chat-chip';
+    btn.textContent = text;
+    btn.addEventListener('click', () => {
+      chatInput.value = text;
+      sendChat();
+    });
+    el.appendChild(btn);
+  });
+}
+
+// ── Plain-language gauge explanation ─────────────────────────────────────────
+function gaugeExplainerMsg(gauge, trend) {
+  const bucket  = (gauge.bucket || 'unknown').toLowerCase();
+  const stage   = typeof gauge.stage === 'number' ? gauge.stage.toFixed(2) : gauge.stage;
+  const name    = gauge.name || 'This gauge';
+
+  const tierText = {
+    normal:  'water levels are normal — no flooding expected.',
+    watch:   'water is rising and approaching levels where flooding may begin. Stay alert.',
+    warning: 'flooding is occurring or imminent. Low-lying areas and roads may be affected.',
+    major:   'significant flooding is occurring. Structures, roads, and critical facilities may be inundated.'
+  }[bucket] || 'flood status is unknown.';
+
+  const trendText = !trend ? '' :
+    trend.trend === 'rising'  ? ` The river has risen ${trend.delta} ft in the last 6 hours.` :
+    trend.trend === 'falling' ? ` The river has fallen ${trend.delta} ft in the last 6 hours — conditions may be improving.` :
+    ' Water levels are holding steady.';
+
+  const trendBadge = !trend ? '' :
+    `<span class="trend-badge trend-${trend.trend}">${
+      trend.trend === 'rising' ? '▲ Rising' :
+      trend.trend === 'falling' ? '▼ Falling' : '● Steady'
+    }</span>`;
+
+  return `<strong>${name}</strong> reads <strong>${stage} ft</strong>${trendBadge}<br><br>`
+       + `At <strong>${bucket}</strong> stage, ${tierText}${trendText}`;
+}
+
+// ── Auto-assess on gauge click ────────────────────────────────────────────────
+let lastAutoGauge = null;
+
+async function autoAssessGauge(gauge) {
+  if (!gauge || chatBusy) return;
+  if (lastAutoGauge && lastAutoGauge.siteCode === gauge.siteCode) return; // don't re-fire same gauge
+  lastAutoGauge = gauge;
+
+  // Open chat panel
+  if (!chatOpen) {
+    chatOpen = true;
+    chatPanel.classList.add('open');
+    if (!chatDataReady) loadChatData();
+  }
+
+  // Clear old chips while loading
+  const chipsEl = document.getElementById('chat-chips');
+  if (chipsEl) chipsEl.innerHTML = '';
+
+  chatBusy = true;
+  chatSend.disabled = true;
+
+  // Fetch trend in parallel with infra
+  const [trend, liveOSM] = await Promise.all([
+    fetchGaugeTrend(gauge.siteCode),
+    fetchNearbyInfrastructure(gauge.lat, gauge.lon)
+  ]);
+
+  // Show plain-language explainer card
+  const explainerEl = appendMsg('', 'bot');
+  explainerEl.innerHTML = gaugeExplainerMsg(gauge, trend);
+
+  // Build context and run assessment
+  if (!chatDataReady) await loadChatData();
+  const { nearGauges, nearFloods, context } = buildContext(
+    gauge.lat, gauge.lon,
+    gauge.name + (gauge.state ? ', ' + gauge.state : ''),
+    liveOSM
+  );
+
+  // Gauge card
+  const gaugesForCard = nearGauges.length ? nearGauges : [{
+    site_name: gauge.name, stage_ft: gauge.stage,
+    tier: gauge.bucket, _dist: 0
+  }];
+  const card = renderGaugeCard(gaugesForCard);
+  if (card) chatMsgs.appendChild(card);
+
+  // LLM assessment
+  const answerEl = appendMsg('', 'bot', true);
+  try {
+    const raw = await streamOllama(context, 'Give me a full flood risk assessment for this location including nearby hospitals, schools, and emergency services.', answerEl);
+    if (raw && raw.includes('-')) {
+      answerEl.innerHTML = raw
+        .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+        .replace(/\n/g,'<br>')
+        .replace(/- (Hospitals|Schools|Emergency|Clinics|Universities)/g,
+          '<span style="color:var(--accent);font-weight:700;">◆ $1</span>');
+    }
+  } catch(e) {
+    answerEl.textContent = '⚠ Assessment unavailable: ' + e.message;
+    answerEl.classList.remove('typing');
+  }
+
+  // Render suggestion chips
+  renderChips(gauge);
+
+  chatBusy = false;
+  chatSend.disabled = false;
+  chatMsgs.scrollTop = chatMsgs.scrollHeight;
+}
 
 // ── Main send handler ─────────────────────────────────────────────────────────
 async function sendChat() {
@@ -1286,6 +1483,9 @@ async function sendChat() {
     answerEl.textContent = '⚠ AI unavailable: ' + e.message;
     answerEl.classList.remove('typing');
   }
+
+  // Re-render chips based on current gauge after manual query
+  if (selectedGauge) renderChips(selectedGauge);
 
   chatBusy = false;
   chatSend.disabled = false;
