@@ -106,8 +106,10 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          # stage all three outputs; || true so missing files don't fail the step
-          git add data/floods.geojson data/floods.csv data/daily_brief.md || true
+          # stage files individually so a missing daily_brief.md doesn't abort the commit
+          git add data/floods.geojson || true
+          git add data/floods.csv     || true
+          git add data/daily_brief.md 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No new flood data — nothing to commit."
           else
