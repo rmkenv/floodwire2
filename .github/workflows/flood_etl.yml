@@ -42,14 +42,14 @@ jobs:
           python-version: "3.11"
           cache: "pip"
 
-      # Nuclear option: pin spacy + click first before requirements.txt
-      # so the resolver can't pick an incompatible combo
+      # Nuclear option: pin spacy + click + model all by exact version
+      # Direct wheel URL avoids the version-resolution bug in `spacy download`
       - name: Install dependencies
         run: |
           pip install --upgrade pip
           pip install "spacy==3.7.4" "click>=8.1.0"
           pip install requests geopy pyyaml python-dateutil tenacity ollama tweepy
-          python -m spacy download en_core_web_sm
+          pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
 
       - name: Write config.yaml
         run: |
