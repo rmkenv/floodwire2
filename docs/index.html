@@ -411,6 +411,18 @@
         <div class="legend-dot" style="background:var(--c-news)"></div>
         <span>Last 24 hours only</span>
       </label>
+      <div class="legend-sep"></div>
+      <div class="legend-row" style="margin-bottom:0.4rem; font-size:0.65rem; color:var(--muted); text-transform:uppercase; letter-spacing:0.06em;">Weather Overlays</div>
+      <label class="legend-row filter-row" style="margin-bottom:0.3rem;">
+        <input type="checkbox" id="radar-toggle">
+        <div class="legend-dot" style="background:#38bdf8; border-radius:2px;"></div>
+        <span>NEXRAD Radar</span>
+      </label>
+      <label class="legend-row filter-row" style="margin-bottom:0;">
+        <input type="checkbox" id="nws-toggle">
+        <div class="legend-dot" style="background:#ff6600; border-radius:2px;"></div>
+        <span>NWS Flood Alerts</span>
+      </label>
     </div>
 
     <div id="loader">Fetching gauges…</div>
@@ -1494,6 +1506,105 @@ async function sendChat() {
 
 chatSend.addEventListener('click', sendChat);
 chatInput.addEventListener('keydown', e => { if (e.key === 'Enter' && !e.shiftKey) sendChat(); });
+
+// ── Weather Overlays ──────────────────────────────────────────────────────────
+
+// NEXRAD radar — Iowa Environmental Mesonet tiles, no API key needed
+let radarLayer = null;
+let radarTimer = null;
+
+function buildRadarLayer() {
+  return L.tileLayer(
+    `https://mesonet.agron.iastate.edu/cache/tile.py/1.0.0/nexrad-n0q-900913/{z}/{x}/{y}.png?_=${Date.now()}`,
+    { opacity: 0.55, attribution: 'NOAA/NWS via IEM', zIndex: 5 }
+  );
+}
+
+document.getElementById('radar-toggle').addEventListener('change', function () {
+  if (this.checked) {
+    radarLayer = buildRadarLayer().addTo(map);
+    radarTimer = setInterval(() => {
+      if (radarLayer) { map.removeLayer(radarLayer); }
+      radarLayer = buildRadarLayer().addTo(map);
+    }, 5 * 60 * 1000);
+  } else {
+    clearInterval(radarTimer);
+    if (radarLayer) { map.removeLayer(radarLayer); radarLayer = null; }
+  }
+});
+
+// NWS active flood alerts — api.weather.gov, no API key needed
+const NWS_COLORS = {
+  Extreme:  '#ff2d2d',
+  Severe:   '#ff6600',
+  Moderate: '#ffd166',
+  Minor:    '#4a9eff',
+  Unknown:  '#888888',
+};
+
+let nwsLayer = null;
+
+function nwsPopupHTML(p) {
+  const color   = NWS_COLORS[p.severity] || NWS_COLORS.Unknown;
+  const onset   = p.onset   ? new Date(p.onset).toLocaleString()   : '—';
+  const expires = p.expires ? new Date(p.expires).toLocaleString() : '—';
+  return `
+    <div style="max-width:260px;font-family:'DM Mono',monospace;font-size:0.72rem;">
+      <div style="display:inline-block;padding:2px 8px;border-radius:3px;font-size:0.6rem;
+                  text-transform:uppercase;letter-spacing:0.08em;margin-bottom:6px;
+                  background:${color}22;color:${color};">
+        ${p.severity || 'NWS'} — ${p.certainty || ''}
+      </div>
+      <div style="font-weight:700;color:#e6edf3;line-height:1.4;margin-bottom:6px;">${p.event || '—'}</div>
+      <div style="color:#8b949e;margin-bottom:2px;">\u{1F4CD} ${p.areaDesc || '—'}</div>
+      <div style="color:#8b949e;margin-bottom:2px;">Onset: ${onset}</div>
+      <div style="color:#8b949e;">Expires: ${expires}</div>
+      ${p.headline ? `<div style="color:#aaa;margin-top:6px;border-top:1px solid #30363d;padding-top:6px;font-size:0.65rem;">${p.headline}</div>` : ''}
+    </div>`;
+}
+
+async function loadNWSAlerts() {
+  const url = 'https://api.weather.gov/alerts/active'
+    + '?event=Flood%20Watch,Flash%20Flood%20Watch,Flash%20Flood%20Warning,'
+    + 'Flood%20Warning,Areal%20Flood%20Advisory'
+    + '&status=actual&message_type=alert&region_type=land';
+  const res  = await fetch(url, { headers: { Accept: 'application/geo+json' } });
+  const data = await res.json();
+
+  nwsLayer = L.layerGroup();
+  let count = 0;
+  (data.features || []).forEach(f => {
+    if (!f.geometry) return;
+    const sev   = f.properties.severity || 'Unknown';
+    const color = NWS_COLORS[sev] || NWS_COLORS.Unknown;
+    L.geoJSON(f, {
+      style: {
+        color,
+        weight:      1.5,
+        fillColor:   color,
+        fillOpacity: 0.15,
+        dashArray:   (sev === 'Extreme' || sev === 'Severe') ? null : '5 5',
+      },
+    })
+      .bindPopup(nwsPopupHTML(f.properties), { maxWidth: 280 })
+      .addTo(nwsLayer);
+    count++;
+  });
+
+  nwsLayer.addTo(map);
+  console.log('[NWS] ' + count + ' flood alert polygons loaded');
+}
+
+document.getElementById('nws-toggle').addEventListener('change', function () {
+  if (this.checked) {
+    loadNWSAlerts().catch(err => {
+      console.warn('[NWS alerts error]', err);
+      this.checked = false;
+    });
+  } else {
+    if (nwsLayer) { map.removeLayer(nwsLayer); nwsLayer = null; }
+  }
+});
 
 </script>
 
