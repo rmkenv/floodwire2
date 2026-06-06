@@ -1,5 +1,4 @@
 name: Flood ETL — Nightly
-
 on:
   schedule:
     - cron: "0 6 * * *"       # 06:00 UTC = 02:00 ET nightly
@@ -19,16 +18,18 @@ on:
         description: "Skip LLM screening (faster, less accurate)"
         type: boolean
         default: false
+      skip_tweet:
+        description: "Skip tweeting (useful for backfill/test runs)"
+        type: boolean
+        default: false
 
 jobs:
   etl:
     name: Run Flood ETL
     runs-on: ubuntu-latest
     timeout-minutes: 120
-
     permissions:
       contents: write
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -41,10 +42,13 @@ jobs:
           python-version: "3.11"
           cache: "pip"
 
+      # Nuclear option: pin spacy + click first before requirements.txt
+      # so the resolver can't pick an incompatible combo
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install requests spacy geopy pyyaml python-dateutil tenacity ollama
+          pip install "spacy==3.7.4" "click>=8.1.0"
+          pip install requests geopy pyyaml python-dateutil tenacity ollama tweepy
           python -m spacy download en_core_web_sm
 
       - name: Write config.yaml
@@ -54,16 +58,13 @@ jobs:
             serpapi_key: "${{ secrets.SERPAPI_KEY }}"
             user_agent: "flood_etl_iqspatial@github_actions"
             ollama_api_key: "${{ secrets.OLLAMA_API_KEY }}"
-
           geocoding:
             rate_limit_sec: 1.0
             buffer_meters: 300
             default_state: MD
             timeout_sec: 15
-
           screening:
             rate_limit_sec: 0.5
-
           etl:
             lookback_days: 1
             max_articles: 500
@@ -71,25 +72,42 @@ jobs:
             log_file: null
           EOF
 
+      # Run tests BEFORE ETL so a test failure doesn't silently skip data work
+      - name: Run unit tests
+        run: |
+          pip install pytest -q
+          pytest tests/ -v --tb=short
+
       - name: Run ETL
         if: ${{ !inputs.test_mode }}
         run: |
           ARGS=""
-          if [ -n "${{ inputs.start_date }}" ];  then ARGS="$ARGS --start ${{ inputs.start_date }}"; fi
-          if [ -n "${{ inputs.end_date }}" ];    then ARGS="$ARGS --end ${{ inputs.end_date }}";     fi
-          if [ "${{ inputs.skip_screening }}" = "true" ]; then ARGS="$ARGS --no-screen"; fi
+          if [ -n "${{ inputs.start_date }}" ];           then ARGS="$ARGS --start ${{ inputs.start_date }}"; fi
+          if [ -n "${{ inputs.end_date }}" ];             then ARGS="$ARGS --end ${{ inputs.end_date }}";     fi
+          if [ "${{ inputs.skip_screening }}" = "true" ]; then ARGS="$ARGS --no-screen";                     fi
           python src/main.py $ARGS
 
       - name: Run ETL (test mode)
         if: ${{ inputs.test_mode }}
         run: python src/main.py --test
 
+      - name: Generate situation report and tweet
+        if: ${{ !inputs.test_mode && !inputs.skip_tweet }}
+        env:
+          OLLAMA_API_KEY:        ${{ secrets.OLLAMA_API_KEY }}
+          TWITTER_API_KEY:       ${{ secrets.TWITTER_API_KEY }}
+          TWITTER_API_SECRET:    ${{ secrets.TWITTER_API_SECRET }}
+          TWITTER_ACCESS_TOKEN:  ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
+        run: python src/brief_and_tweet.py
+
       - name: Commit data files
         if: ${{ !inputs.test_mode }}
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/floods.geojson data/floods.csv || true
+          # stage all three outputs; || true so missing files don't fail the step
+          git add data/floods.geojson data/floods.csv data/daily_brief.md || true
           if git diff --cached --quiet; then
             echo "No new flood data — nothing to commit."
           else
@@ -97,12 +115,6 @@ jobs:
             git commit -m "chore: flood ETL update ${DATESTAMP} [skip ci]"
             git push
           fi
-
-      - name: Run unit tests
-        if: always()
-        run: |
-          pip install pytest -q
-          pytest tests/ -v --tb=short
 
       - name: Remove config.yaml
         if: always()
