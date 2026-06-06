@@ -74,12 +74,39 @@ function gaugePopup(p) {
     </div>`
 }
 
-export default function Map({ floods, gauges, center, selectedFeature, onSelectFeature }) {
+// NWS alert severity → color
+const NWS_COLORS = {
+  Extreme:  '#ff2d2d',
+  Severe:   '#ff6600',
+  Moderate: '#ffd166',
+  Minor:    '#4a9eff',
+  Unknown:  '#888',
+}
+
+function nwsAlertPopup(props) {
+  const color = NWS_COLORS[props.severity] || NWS_COLORS.Unknown
+  const onset  = props.onset  ? new Date(props.onset).toLocaleString()  : '—'
+  const expires = props.expires ? new Date(props.expires).toLocaleString() : '—'
+  return `
+    <div style="max-width:260px;font-family:'DM Sans',sans-serif;">
+      <div style="display:inline-block;padding:2px 8px;border-radius:3px;font-size:9px;font-family:'Space Mono',monospace;text-transform:uppercase;letter-spacing:0.08em;background:${color}22;color:${color};margin-bottom:6px;">${props.severity || 'NWS'} — ${props.certainty || ''}</div>
+      <div style="font-size:12px;font-weight:600;color:#fff;line-height:1.4;margin-bottom:6px;">${props.event || '—'}</div>
+      <div style="font-size:10px;color:#5a6a82;margin-bottom:2px;">📍 ${props.areaDesc || '—'}</div>
+      <div style="font-size:10px;color:#5a6a82;margin-bottom:2px;">Onset: ${onset}</div>
+      <div style="font-size:10px;color:#5a6a82;">Expires: ${expires}</div>
+      ${props.headline ? `<div style="font-size:10px;color:#aaa;margin-top:6px;border-top:1px solid #2a3040;padding-top:6px;">${props.headline}</div>` : ''}
+    </div>`
+}
+
+export default function Map({ floods, gauges, center, selectedFeature, onSelectFeature, overlays }) {
   const mapRef = useRef(null)
   const mapInstanceRef = useRef(null)
   const floodLayerRef = useRef(null)
   const gaugeLayerRef = useRef(null)
   const markerMapRef = useRef({})
+  const radarLayerRef = useRef(null)
+  const nwsLayerRef = useRef(null)
+  const radarTimerRef = useRef(null)
 
   // Init map
   useEffect(() => {
@@ -98,8 +125,76 @@ export default function Map({ floods, gauges, center, selectedFeature, onSelectF
 
     floodLayerRef.current = L.layerGroup().addTo(map)
     gaugeLayerRef.current = L.layerGroup().addTo(map)
+    radarLayerRef.current = L.layerGroup()   // not added yet — toggled by overlay state
+    nwsLayerRef.current   = L.layerGroup()
     mapInstanceRef.current = map
   }, [])
+
+  // NEXRAD radar tile overlay — auto-refreshes every 5 min
+  useEffect(() => {
+    if (!mapInstanceRef.current || !radarLayerRef.current) return
+    const map = mapInstanceRef.current
+    const layer = radarLayerRef.current
+
+    if (overlays?.radar) {
+      layer.clearLayers()
+      const tile = L.tileLayer(
+        'https://mesonet.agron.iastate.edu/cache/tile.py/1.0.0/nexrad-n0q-900913/{z}/{x}/{y}.png',
+        { opacity: 0.55, attribution: 'NOAA/NWS via IEM', zIndex: 5 }
+      )
+      layer.addLayer(tile)
+      map.addLayer(layer)
+
+      // refresh every 5 minutes so radar stays current
+      radarTimerRef.current = setInterval(() => {
+        layer.clearLayers()
+        layer.addLayer(L.tileLayer(
+          `https://mesonet.agron.iastate.edu/cache/tile.py/1.0.0/nexrad-n0q-900913/{z}/{x}/{y}.png?_=${Date.now()}`,
+          { opacity: 0.55, attribution: 'NOAA/NWS via IEM', zIndex: 5 }
+        ))
+      }, 5 * 60 * 1000)
+    } else {
+      clearInterval(radarTimerRef.current)
+      map.removeLayer(layer)
+    }
+    return () => clearInterval(radarTimerRef.current)
+  }, [overlays?.radar])
+
+  // NWS active flood alerts — fetched from api.weather.gov
+  useEffect(() => {
+    if (!mapInstanceRef.current || !nwsLayerRef.current) return
+    const map = mapInstanceRef.current
+    const layer = nwsLayerRef.current
+
+    if (overlays?.nwsAlerts) {
+      layer.clearLayers()
+      fetch('https://api.weather.gov/alerts/active?event=Flood%20Watch,Flash%20Flood%20Watch,Flash%20Flood%20Warning,Flood%20Warning,Areal%20Flood%20Advisory&status=actual&message_type=alert&region_type=land')
+        .then(r => r.json())
+        .then(data => {
+          if (!data.features) return
+          data.features.forEach(f => {
+            if (!f.geometry) return   // some alerts have no polygon — skip
+            const sev = f.properties.severity || 'Unknown'
+            const color = NWS_COLORS[sev] || NWS_COLORS.Unknown
+            L.geoJSON(f, {
+              style: {
+                color,
+                weight: 1.5,
+                fillColor: color,
+                fillOpacity: 0.15,
+                dashArray: sev === 'Extreme' || sev === 'Severe' ? null : '4 4',
+              },
+            })
+              .bindPopup(nwsAlertPopup(f.properties), { className: 'custom-popup', maxWidth: 280 })
+              .addTo(layer)
+          })
+          map.addLayer(layer)
+        })
+        .catch(err => console.warn('[NWS alerts]', err))
+    } else {
+      map.removeLayer(layer)
+    }
+  }, [overlays?.nwsAlerts])
 
   // Update flood markers
   useEffect(() => {
