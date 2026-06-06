@@ -9,8 +9,9 @@ const FLOOD_TYPES = [
 
 const DATE_RANGES = [7, 14, 30, 90, 180, 365]
 
-export default function Sidebar({ filters, setFilters, selectedFeature, floods, gauges, onSelectFeature }) {
-  const setFilter = (key, val) => setFilters(f => ({ ...f, [key]: val }))
+export default function Sidebar({ filters, setFilters, overlays, setOverlays, selectedFeature, floods, gauges, onSelectFeature }) {
+  const setFilter  = (key, val) => setFilters(f => ({ ...f, [key]: val }))
+  const setOverlay = (key, val) => setOverlays(o => ({ ...o, [key]: val }))
 
   const sortedFloods = [...floods].sort((a, b) =>
     new Date(b.properties.published_at) - new Date(a.properties.published_at)
@@ -62,6 +63,25 @@ export default function Sidebar({ filters, setFilters, selectedFeature, floods, 
                 onClick={() => setFilter('showGauges', !filters.showGauges)}
               >
                 ▲ Gauges
+              </button>
+            </div>
+          </div>
+          <div>
+            <div className="filter-label">Weather Overlays</div>
+            <div className="toggle-row">
+              <button
+                className={`toggle-btn ${overlays.radar ? 'active' : ''}`}
+                onClick={() => setOverlay('radar', !overlays.radar)}
+                title="NEXRAD base reflectivity radar — refreshes every 5 min"
+              >
+                🌧 Radar
+              </button>
+              <button
+                className={`toggle-btn ${overlays.nwsAlerts ? 'active' : ''}`}
+                onClick={() => setOverlay('nwsAlerts', !overlays.nwsAlerts)}
+                title="Active NWS Flood Watches & Warnings"
+              >
+                ⚠ NWS Alerts
               </button>
             </div>
           </div>
