@@ -12,10 +12,14 @@ export default function App() {
   const [selectedFeature, setSelectedFeature] = useState(null)
   const [filters, setFilters] = useState({
     floodType: 'all',
-    dateRange: 30, // days back
+    dateRange: 30,
     showGauges: true,
     showFloods: true,
     gaugeFilter: 'all',
+  })
+  const [overlays, setOverlays] = useState({
+    radar: false,
+    nwsAlerts: false,
   })
   const [mapCenter, setMapCenter] = useState([38.5, -96])
   const [stats, setStats] = useState({})
@@ -100,6 +104,8 @@ export default function App() {
         <Sidebar
           filters={filters}
           setFilters={setFilters}
+          overlays={overlays}
+          setOverlays={setOverlays}
           selectedFeature={selectedFeature}
           floods={filteredFloods()}
           gauges={filteredGauges()}
@@ -118,6 +124,7 @@ export default function App() {
             center={mapCenter}
             selectedFeature={selectedFeature}
             onSelectFeature={setSelectedFeature}
+            overlays={overlays}
           />
         </div>
       </div>
