@@ -32578,11 +32578,2299 @@
         "osm_id": 194000,
         "run_at": "2026-05-26T09:59:13.542685+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9730381,
+          30.4243909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/weather-impact/flash-flood-warning-issued-for-st-tammany-parish-washington-parish-and-parts-of-mississippi/289-ea2e62b4-fe5b-4d51-93b3-ec0ee8b214e0",
+        "title": "Flash Flood Warning issued for St. Tammany Parish, Washington Parish and parts of Mississippi",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-06T18:49:00Z",
+        "url": "https://www.wwltv.com/article/weather/weather-impact/flash-flood-warning-issued-for-st-tammany-parish-washington-parish-and-parts-of-mississippi/289-ea2e62b4-fe5b-4d51-93b3-ec0ee8b214e0",
+        "mention_text": "St. Tammany",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "St. Tammany Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836431,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7348497,
+          32.9715285
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/weather-impact/flash-flood-warning-issued-for-st-tammany-parish-washington-parish-and-parts-of-mississippi/289-ea2e62b4-fe5b-4d51-93b3-ec0ee8b214e0",
+        "title": "Flash Flood Warning issued for St. Tammany Parish, Washington Parish and parts of Mississippi",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-06T18:49:00Z",
+        "url": "https://www.wwltv.com/article/weather/weather-impact/flash-flood-warning-issued-for-st-tammany-parish-washington-parish-and-parts-of-mississippi/289-ea2e62b4-fe5b-4d51-93b3-ec0ee8b214e0",
+        "mention_text": "Mississippi",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 161943,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5781416,
+          39.100105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kansascity.com/news/weather-news/article316029405.html",
+        "title": "Update: Flood warning issued for the Kansas City area until early Tuesday morning",
+        "source": "Kansas City Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-06T15:07:05Z",
+        "url": "https://www.kansascity.com/news/weather-news/article316029405.html",
+        "mention_text": "Kansas City",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kansas City, Jackson County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 141008,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.344488,
+          32.7931661
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kniakrls.com/flash-flood-warning-issued-in-marion-and-warren-counties-until-445-am-saturday-morning/",
+        "title": "Flash Flood Warning Issued in Marion and Warren Counties Until 4:45 am Saturday Morning",
+        "source": "KNIA - KRLS",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-06T04:01:23Z",
+        "url": "https://www.kniakrls.com/flash-flood-warning-issued-in-marion-and-warren-counties-until-445-am-saturday-morning/",
+        "mention_text": "Marion",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Marion County, Texas, 75657, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839474,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2654452,
+          41.8119602
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kniakrls.com/flash-flood-warning-issued-in-marion-and-warren-counties-until-445-am-saturday-morning/",
+        "title": "Flash Flood Warning Issued in Marion and Warren Counties Until 4:45 am Saturday Morning",
+        "source": "KNIA - KRLS",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-06T04:01:23Z",
+        "url": "https://www.kniakrls.com/flash-flood-warning-issued-in-marion-and-warren-counties-until-445-am-saturday-morning/",
+        "mention_text": "Warren",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Warren County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 416689,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3510366,
+          33.0560857
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kmaland.com/news/breaking_weather/flash-flood-warnings-in-cass-and-otoe-counties-in-nebraska/article_95669f33-b41c-444d-a76f-1168a5c0afb7.html",
+        "title": "Flash Flood Warnings in Cass and Otoe Counties in Nebraska",
+        "source": "KMAland.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-06T03:00:00Z",
+        "url": "https://www.kmaland.com/news/breaking_weather/flash-flood-warnings-in-cass-and-otoe-counties-in-nebraska/article_95669f33-b41c-444d-a76f-1168a5c0afb7.html",
+        "mention_text": "Cass",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Cass County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839456,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5873816,
+          41.7370229
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kmaland.com/news/breaking_weather/flash-flood-warnings-in-cass-and-otoe-counties-in-nebraska/article_95669f33-b41c-444d-a76f-1168a5c0afb7.html",
+        "title": "Flash Flood Warnings in Cass and Otoe Counties in Nebraska",
+        "source": "KMAland.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-06T03:00:00Z",
+        "url": "https://www.kmaland.com/news/breaking_weather/flash-flood-warnings-in-cass-and-otoe-counties-in-nebraska/article_95669f33-b41c-444d-a76f-1168a5c0afb7.html",
+        "mention_text": "Nebraska",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Nebraska, United States",
+        "osm_type": "administrative",
+        "osm_id": 161648,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1458063,
+          40.3941712
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/video/news/flash-flood-warning-issued-for-hancock-county-and-pearl-river-county/289-34fc08c2-e1bb-4c85-ada6-8d59cf47c47f",
+        "title": "Flash Flood Warning issued for Hancock County and Pearl River County",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-06T18:58:00Z",
+        "url": "https://www.wwltv.com/video/news/flash-flood-warning-issued-for-hancock-county-and-pearl-river-county/289-34fc08c2-e1bb-4c85-ada6-8d59cf47c47f",
+        "mention_text": "Hancock County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hancock County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1789870,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5984726,
+          30.7761604
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/video/news/flash-flood-warning-issued-for-hancock-county-and-pearl-river-county/289-34fc08c2-e1bb-4c85-ada6-8d59cf47c47f",
+        "title": "Flash Flood Warning issued for Hancock County and Pearl River County",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-06T18:58:00Z",
+        "url": "https://www.wwltv.com/video/news/flash-flood-warning-issued-for-hancock-county-and-pearl-river-county/289-34fc08c2-e1bb-4c85-ada6-8d59cf47c47f",
+        "mention_text": "Pearl River County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pearl River County, Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832972,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5873816,
+          41.7370229
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kmaland.com/news/flash-flood-warnings-in-se-nebraska-and-sw-iowa/article_6eed7677-d9df-49a6-8d7b-7a521894cfc2.html",
+        "title": "Flash Flood Warnings in SE Nebraska and SW Iowa",
+        "source": "KMAland.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-06T03:45:00Z",
+        "url": "https://www.kmaland.com/news/flash-flood-warnings-in-se-nebraska-and-sw-iowa/article_6eed7677-d9df-49a6-8d7b-7a521894cfc2.html",
+        "mention_text": "Nebraska",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Nebraska, United States",
+        "osm_type": "administrative",
+        "osm_id": 161648,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3122705,
+          41.9216734
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kmaland.com/news/flash-flood-warnings-in-se-nebraska-and-sw-iowa/article_6eed7677-d9df-49a6-8d7b-7a521894cfc2.html",
+        "title": "Flash Flood Warnings in SE Nebraska and SW Iowa",
+        "source": "KMAland.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-06T03:45:00Z",
+        "url": "https://www.kmaland.com/news/flash-flood-warnings-in-se-nebraska-and-sw-iowa/article_6eed7677-d9df-49a6-8d7b-7a521894cfc2.html",
+        "mention_text": "Iowa",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Iowa, United States",
+        "osm_type": "administrative",
+        "osm_id": 161650,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3676974,
+          29.7589382
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.houstonchronicle.com/news/houston-texas/trending/article/road-flooding-houston-22293058.php",
+        "title": "Houston flash flood warning: Here's where drivers may encounter high water",
+        "source": "Houston Chronicle",
+        "outlet_city": "Houston",
+        "outlet_region": "Texas",
+        "published_at": "2026-06-05T22:32:25Z",
+        "url": "https://www.houstonchronicle.com/news/houston-texas/trending/article/road-flooding-houston-22293058.php",
+        "mention_text": "Houston",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Houston, Harris County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 2688911,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8168126,
+          37.913292
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.centralnebraskatoday.com/2026/06/04/flood-warning-issued-for-parts-of-phelps-harlan-counties/",
+        "title": "Flood Warning issued for parts of Phelps, Harlan counties",
+        "source": "Central Nebraska Today",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-04T13:11:42Z",
+        "url": "https://www.centralnebraskatoday.com/2026/06/04/flood-warning-issued-for-parts-of-phelps-harlan-counties/",
+        "mention_text": "Phelps",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Phelps County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180548,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.22678,
+          36.8411336
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.centralnebraskatoday.com/2026/06/04/flood-warning-issued-for-parts-of-phelps-harlan-counties/",
+        "title": "Flood Warning issued for parts of Phelps, Harlan counties",
+        "source": "Central Nebraska Today",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-04T13:11:42Z",
+        "url": "https://www.centralnebraskatoday.com/2026/06/04/flood-warning-issued-for-parts-of-phelps-harlan-counties/",
+        "mention_text": "Harlan",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Harlan County, Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 1846529,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4508165,
+          33.7876673
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.krqe.com/news/new-mexico/flash-flood-warning-in-effect-for-parts-of-lincoln-county-including-ruidoso/",
+        "title": "Flash flood warning in effect for parts of Lincoln County, including Ruidoso",
+        "source": "KRQE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-02T17:27:27Z",
+        "url": "https://www.krqe.com/news/new-mexico/flash-flood-warning-in-effect-for-parts-of-lincoln-county-including-ruidoso/",
+        "mention_text": "Lincoln County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lincoln County, Georgia, 30817, United States",
+        "osm_type": "administrative",
+        "osm_id": 448085,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.996047,
+          34.5802074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kob.com/news/top-news/flash-flood-warnings-issued-for-new-mexico-burn-scar-areas/",
+        "title": "Flash flood warnings issued for New Mexico burn scar areas",
+        "source": "KOB.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-03T20:03:28Z",
+        "url": "https://www.kob.com/news/top-news/flash-flood-warnings-issued-for-new-mexico-burn-scar-areas/",
+        "mention_text": "New Mexico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 162014,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7914107,
+          40.3672962
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kob.com/new-mexico/southeast-new-mexico/flash-flood-warning-issued-for-south-fork-and-salt-burn-scars-near-ruidoso/",
+        "title": "Flash flood warning issued for South Fork and Salt burn scars near Ruidoso",
+        "source": "KOB.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-02T17:32:34Z",
+        "url": "https://www.kob.com/new-mexico/southeast-new-mexico/flash-flood-warning-issued-for-south-fork-and-salt-burn-scars-near-ruidoso/",
+        "mention_text": "South Fork",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South Fork, Cambria County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 187584,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.673099,
+          33.3315804
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kob.com/new-mexico/southeast-new-mexico/flash-flood-warning-issued-for-south-fork-and-salt-burn-scars-near-ruidoso/",
+        "title": "Flash flood warning issued for South Fork and Salt burn scars near Ruidoso",
+        "source": "KOB.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-02T17:32:34Z",
+        "url": "https://www.kob.com/new-mexico/southeast-new-mexico/flash-flood-warning-issued-for-south-fork-and-salt-burn-scars-near-ruidoso/",
+        "mention_text": "Ruidoso",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ruidoso, Lincoln County, New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 171220,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1935973,
+          25.7741566
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/miami-flash-flood-threat-tropical-moisture-kalshi",
+        "title": "Flash flood threat rises in Miami as tropical moisture and warm temperatures grip Florida",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-03T19:37:00Z",
+        "url": "https://www.foxweather.com/weather-news/miami-flash-flood-threat-tropical-moisture-kalshi",
+        "mention_text": "Miami",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Miami, Miami-Dade County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1216769,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/miami-flash-flood-threat-tropical-moisture-kalshi",
+        "title": "Flash flood threat rises in Miami as tropical moisture and warm temperatures grip Florida",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-03T19:37:00Z",
+        "url": "https://www.foxweather.com/weather-news/miami-flash-flood-threat-tropical-moisture-kalshi",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5104781,
+          29.4263987
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kens5.com/video/weather/weather-ott/flash-flood-warning-in-effect-for-parts-of-bexar-county-kens-5-weather-impact-forecast/273-4e141e8d-ab1f-4bf0-b24f-8564949bee51",
+        "title": "Flash Flood Warning in effect for parts of Bexar County | KENS 5 Weather Impact Forecast",
+        "source": "kens5.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-05T11:46:00Z",
+        "url": "https://www.kens5.com/video/weather/weather-ott/flash-flood-warning-in-effect-for-parts-of-bexar-county-kens-5-weather-impact-forecast/273-4e141e8d-ab1f-4bf0-b24f-8564949bee51",
+        "mention_text": "Bexar County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Bexar County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 92026,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6064582,
+          35.1848107
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ktsm.com/news/flash-flood-warning-issued-for-central-northeast-el-paso/",
+        "title": "Flash flood warning issued for Central, Northeast El Paso",
+        "source": "KTSM 9 News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-03T02:06:34Z",
+        "url": "https://www.ktsm.com/news/flash-flood-warning-issued-for-central-northeast-el-paso/",
+        "mention_text": "Northeast El Paso",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "El Paso Natural Gas, Alameda Park Drive Northeast, Journal Center, Albuquerque, Bernalillo County, New Mexico, 87113, United States",
+        "osm_type": "energy_supplier",
+        "osm_id": 2670907980,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3676974,
+          29.7589382
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox26houston.com/news/houston-weather-flash-flood-warning-june-5-2026",
+        "title": "Houston weather: Flash flood warning ends for Harris County",
+        "source": "FOX 26 Houston",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-05T17:47:04Z",
+        "url": "https://www.fox26houston.com/news/houston-weather-flash-flood-warning-june-5-2026",
+        "mention_text": "Houston",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Houston, Harris County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 2688911,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3741247,
+          29.8119769
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox26houston.com/news/houston-weather-flash-flood-warning-june-5-2026",
+        "title": "Houston weather: Flash flood warning ends for Harris County",
+        "source": "FOX 26 Houston",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-05T17:47:04Z",
+        "url": "https://www.fox26houston.com/news/houston-weather-flash-flood-warning-june-5-2026",
+        "mention_text": "Harris County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Harris County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1560395,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9399309,
+          32.7884363
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.live5news.com/2026/06/02/first-alert-weather-flash-flood-warning-expires-charleston-area/",
+        "title": "FIRST ALERT WEATHER: Flash flood warning expires in the Charleston area",
+        "source": "Live 5 News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-02T02:05:00Z",
+        "url": "https://www.live5news.com/2026/06/02/first-alert-weather-flash-flood-warning-expires-charleston-area/",
+        "mention_text": "Charleston",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Charleston, Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 194119,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.103978,
+          35.9467093
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wate.com/news/top-stories/parrotsville-market-flood-rescue/",
+        "title": "\u2018Happened in no time\u2019: Cocke County store employee rescued from flash flood",
+        "source": "WATE 6 On Your Side",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-03T22:13:43Z",
+        "url": "https://www.wate.com/news/top-stories/parrotsville-market-flood-rescue/",
+        "mention_text": "Cocke County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Cocke County, East Tennessee, Tennessee, United States",
+        "osm_type": "administrative",
+        "osm_id": 1848170,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3122705,
+          41.9216734
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kmaland.com/news/breaking_weather/flash-flood-possible-in-sw-iowa-se-nebraska-with-more-rain-expected/article_a8066a65-e6c2-482a-b5de-33f29b6f93f0.html",
+        "title": "Flash Flood possible in SW Iowa SE Nebraska with more rain expected",
+        "source": "KMAland.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-05T21:30:00Z",
+        "url": "https://www.kmaland.com/news/breaking_weather/flash-flood-possible-in-sw-iowa-se-nebraska-with-more-rain-expected/article_a8066a65-e6c2-482a-b5de-33f29b6f93f0.html",
+        "mention_text": "Iowa",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Iowa, United States",
+        "osm_type": "administrative",
+        "osm_id": 161650,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5873816,
+          41.7370229
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kmaland.com/news/breaking_weather/flash-flood-possible-in-sw-iowa-se-nebraska-with-more-rain-expected/article_a8066a65-e6c2-482a-b5de-33f29b6f93f0.html",
+        "title": "Flash Flood possible in SW Iowa SE Nebraska with more rain expected",
+        "source": "KMAland.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-05T21:30:00Z",
+        "url": "https://www.kmaland.com/news/breaking_weather/flash-flood-possible-in-sw-iowa-se-nebraska-with-more-rain-expected/article_a8066a65-e6c2-482a-b5de-33f29b6f93f0.html",
+        "mention_text": "Nebraska",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Nebraska, United States",
+        "osm_type": "administrative",
+        "osm_id": 161648,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/videos/flash-flood-risk-extends-from-texas-to-central-gulf-coast/e9c4fd63-28c2-4e34-99ec-5e573d7fa219",
+        "title": "Flash flood risk extends from Texas to central Gulf Coast",
+        "source": "AccuWeather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-04T19:46:31Z",
+        "url": "https://www.accuweather.com/en/videos/flash-flood-risk-extends-from-texas-to-central-gulf-coast/e9c4fd63-28c2-4e34-99ec-5e573d7fa219",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.797738,
+          26.3011415
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/videos/flash-flood-risk-extends-from-texas-to-central-gulf-coast/e9c4fd63-28c2-4e34-99ec-5e573d7fa219",
+        "title": "Flash flood risk extends from Texas to central Gulf Coast",
+        "source": "AccuWeather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-04T19:46:31Z",
+        "url": "https://www.accuweather.com/en/videos/flash-flood-risk-extends-from-texas-to-central-gulf-coast/e9c4fd63-28c2-4e34-99ec-5e573d7fa219",
+        "mention_text": "Gulf Coast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Gulf Coast, Collier County, Florida, 34110, United States",
+        "osm_type": "residential",
+        "osm_id": 10852694,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8463851,
+          37.1670484
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/miami/video/flash-flood-warning-affecting-south-florida-wednesday-night/",
+        "title": "Flash Flood warning affecting South Florida Wednesday night",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-04T03:52:00Z",
+        "url": "https://www.cbsnews.com/miami/video/flash-flood-warning-affecting-south-florida-wednesday-night/",
+        "mention_text": "South Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South Florida, Columbus, Cherokee County, Kansas, 66725, United States",
+        "osm_type": "residential",
+        "osm_id": 12999746,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.988571,
+          37.5482697
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kmaland.com/news/breaking_weather/flash-flood-warning-for-fremont-montgomery-page-counties-until-9-30-p-m/article_99ac2dae-5ce8-49f4-8e0f-4068c77186f1.html",
+        "title": "Flash flood warning for Fremont, Montgomery, Page counties until 9:30 p.m.",
+        "source": "KMAland.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-04T21:33:00Z",
+        "url": "https://www.kmaland.com/news/breaking_weather/flash-flood-warning-for-fremont-montgomery-page-counties-until-9-30-p-m/article_99ac2dae-5ce8-49f4-8e0f-4068c77186f1.html",
+        "mention_text": "Fremont",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Fremont, Alameda County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 111943,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9399309,
+          32.7884363
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.live5news.com/video/2026/06/02/video-first-alert-weather-flash-flood-warning-expires-charleston-area/",
+        "title": "VIDEO: FIRST ALERT WEATHER: Flash flood warning expires in the Charleston area",
+        "source": "Live 5 News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-02T03:11:00Z",
+        "url": "https://www.live5news.com/video/2026/06/02/video-first-alert-weather-flash-flood-warning-expires-charleston-area/",
+        "mention_text": "Charleston",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Charleston, Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 194119,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.797738,
+          26.3011415
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/wet-weather-strong-winds-coastal-areas-east-mid-week",
+        "title": "Severe storm and flash flood threat mounts across Gulf Coast and Florida as coastal storm develops",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-02T13:55:00Z",
+        "url": "https://www.foxweather.com/weather-news/wet-weather-strong-winds-coastal-areas-east-mid-week",
+        "mention_text": "Gulf Coast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Gulf Coast, Collier County, Florida, 34110, United States",
+        "osm_type": "residential",
+        "osm_id": 10852694,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/wet-weather-strong-winds-coastal-areas-east-mid-week",
+        "title": "Severe storm and flash flood threat mounts across Gulf Coast and Florida as coastal storm develops",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-02T13:55:00Z",
+        "url": "https://www.foxweather.com/weather-news/wet-weather-strong-winds-coastal-areas-east-mid-week",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8463851,
+          37.1670484
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/flash-flood-warning-affecting-south-035200175.html",
+        "title": "Flash Flood warning affecting South Florida Wednesday night",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-04T03:52:00Z",
+        "url": "https://www.yahoo.com/news/videos/flash-flood-warning-affecting-south-035200175.html",
+        "mention_text": "South Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South Florida, Columbus, Cherokee County, Kansas, 66725, United States",
+        "osm_type": "residential",
+        "osm_id": 12999746,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6008692,
+          29.8217562
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nola.com/news/national-weather-service-flash-flood-warning/article_6862205b-05b7-42d2-a456-372672cfd74f.html",
+        "title": "Flash flood warning in effect in parts of New Orleans, Jefferson and St. Bernard",
+        "source": "NOLA.com",
+        "outlet_city": "New Orleans",
+        "outlet_region": "Louisiana",
+        "published_at": "2026-05-25T15:00:00Z",
+        "url": "https://www.nola.com/news/national-weather-service-flash-flood-warning/article_6862205b-05b7-42d2-a456-372672cfd74f.html",
+        "mention_text": "St. Bernard",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Saint Bernard Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836430,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6225075,
+          30.9298212
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ky3.com/2026/06/01/swift-water-rescue-saves-two-people-dog-camden-county-mo/",
+        "title": "Swift water rescue saves two people, dog in Camden County, Mo.",
+        "source": "KY3",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-01T16:33:00Z",
+        "url": "https://www.ky3.com/2026/06/01/swift-water-rescue-saves-two-people-dog-camden-county-mo/",
+        "mention_text": "Camden County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Camden County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 417391,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5617875,
+          38.7604815
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ky3.com/2026/06/01/swift-water-rescue-saves-two-people-dog-camden-county-mo/",
+        "title": "Swift water rescue saves two people, dog in Camden County, Mo.",
+        "source": "KY3",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-01T16:33:00Z",
+        "url": "https://www.ky3.com/2026/06/01/swift-water-rescue-saves-two-people-dog-camden-county-mo/",
+        "mention_text": "Mo.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 161638,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8463851,
+          37.1670484
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/miami/news/south-florida-weather-forecast-miami-fort-lauderdale-miami-dade-broward-june-4-2026/",
+        "title": "Risk of heavy downpours in South Florida on Thursday leads to renewed flash flood threat",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-04T12:19:00Z",
+        "url": "https://www.cbsnews.com/miami/news/south-florida-weather-forecast-miami-fort-lauderdale-miami-dade-broward-june-4-2026/",
+        "mention_text": "South Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South Florida, Columbus, Cherokee County, Kansas, 66725, United States",
+        "osm_type": "residential",
+        "osm_id": 12999746,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6064582,
+          35.1848107
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbs4local.com/newsletter-daily/hail-and-heavy-rain-hit-northeast-el-paso-after-severe-storm-and-flash-flood-warnings",
+        "title": "Hail and heavy rain hit Northeast El Paso after severe storm and flash flood warnings",
+        "source": "KDBC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-03T04:33:38Z",
+        "url": "https://cbs4local.com/newsletter-daily/hail-and-heavy-rain-hit-northeast-el-paso-after-severe-storm-and-flash-flood-warnings",
+        "mention_text": "Northeast El Paso",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "El Paso Natural Gas, Alameda Park Drive Northeast, Journal Center, Albuquerque, Bernalillo County, New Mexico, 87113, United States",
+        "osm_type": "energy_supplier",
+        "osm_id": 2670907980,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4951405,
+          29.4246002
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flood-warning-issued-san-antonio-130506835.html",
+        "title": "Flood Warning issued for San Antonio area - here's what we know",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-05T13:05:06Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flood-warning-issued-san-antonio-130506835.html",
+        "mention_text": "San Antonio",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Antonio, Bexar County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 253556,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4508165,
+          33.7876673
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-parts-192937972.html",
+        "title": "Flash flood warning issued for parts of Lincoln County in New Mexico",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-03T19:29:37Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-parts-192937972.html",
+        "mention_text": "Lincoln County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lincoln County, Georgia, 30817, United States",
+        "osm_type": "administrative",
+        "osm_id": 448085,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.996047,
+          34.5802074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-parts-192937972.html",
+        "title": "Flash flood warning issued for parts of Lincoln County in New Mexico",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-03T19:29:37Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-parts-192937972.html",
+        "mention_text": "New Mexico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 162014,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3676974,
+          29.7589382
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aol.com/news/houston-weather-flash-flood-warning-174704702.html",
+        "title": "Houston weather: Flash flood warning ends for Harris County",
+        "source": "AOL.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-05T22:44:51Z",
+        "url": "https://www.aol.com/news/houston-weather-flash-flood-warning-174704702.html",
+        "mention_text": "Houston",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Houston, Harris County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 2688911,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3741247,
+          29.8119769
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aol.com/news/houston-weather-flash-flood-warning-174704702.html",
+        "title": "Houston weather: Flash flood warning ends for Harris County",
+        "source": "AOL.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-05T22:44:51Z",
+        "url": "https://www.aol.com/news/houston-weather-flash-flood-warning-174704702.html",
+        "mention_text": "Harris County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Harris County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1560395,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flash-flood-risk-threatens-texas-180944584.html",
+        "title": "Flash Flood Risk Threatens Texas, New Mexico With Heavy Rain",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-02T18:09:44Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flash-flood-risk-threatens-texas-180944584.html",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/heavy-rainfall-florida-several-inches-flash-flood-threat",
+        "title": "Flash flood threat continues across Florida, Southeast as tropical downpours bring drought relief",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-31T15:49:00Z",
+        "url": "https://www.foxweather.com/weather-news/heavy-rainfall-florida-several-inches-flash-flood-threat",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4508165,
+          33.7876673
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-effect-parts-172727782.html",
+        "title": "Flash flood warning in effect for parts of Lincoln County, including Ruidoso",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-02T17:27:27Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-effect-parts-172727782.html",
+        "mention_text": "Lincoln County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lincoln County, Georgia, 30817, United States",
+        "osm_type": "administrative",
+        "osm_id": 448085,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1293894,
+          29.8502657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nola.com/news/weather/flood-advisory-issued-for-jefferson-st-charles-flash-flood-warnings-posted-north-of-lake-pontchartrain/article_efb8b3b9-5d4b-4e8f-aab2-4ac14be9c4f2.html",
+        "title": "Flood advisory issued for Jefferson, St. Charles; flash flood warnings posted north of Lake Pontchartrain",
+        "source": "NOLA.com",
+        "outlet_city": "New Orleans",
+        "outlet_region": "Louisiana",
+        "published_at": "2026-06-06T18:46:00Z",
+        "url": "https://www.nola.com/news/weather/flood-advisory-issued-for-jefferson-st-charles-flash-flood-warnings-posted-north-of-lake-pontchartrain/article_efb8b3b9-5d4b-4e8f-aab2-4ac14be9c4f2.html",
+        "mention_text": "Jefferson",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Jefferson Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836614,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3794968,
+          29.8883177
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nola.com/news/weather/flood-advisory-issued-for-jefferson-st-charles-flash-flood-warnings-posted-north-of-lake-pontchartrain/article_efb8b3b9-5d4b-4e8f-aab2-4ac14be9c4f2.html",
+        "title": "Flood advisory issued for Jefferson, St. Charles; flash flood warnings posted north of Lake Pontchartrain",
+        "source": "NOLA.com",
+        "outlet_city": "New Orleans",
+        "outlet_region": "Louisiana",
+        "published_at": "2026-06-06T18:46:00Z",
+        "url": "https://www.nola.com/news/weather/flood-advisory-issued-for-jefferson-st-charles-flash-flood-warnings-posted-north-of-lake-pontchartrain/article_efb8b3b9-5d4b-4e8f-aab2-4ac14be9c4f2.html",
+        "mention_text": "St. Charles",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "St. Charles Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836615,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0967594,
+          30.2050633
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nola.com/news/weather/flood-advisory-issued-for-jefferson-st-charles-flash-flood-warnings-posted-north-of-lake-pontchartrain/article_efb8b3b9-5d4b-4e8f-aab2-4ac14be9c4f2.html",
+        "title": "Flood advisory issued for Jefferson, St. Charles; flash flood warnings posted north of Lake Pontchartrain",
+        "source": "NOLA.com",
+        "outlet_city": "New Orleans",
+        "outlet_region": "Louisiana",
+        "published_at": "2026-06-06T18:46:00Z",
+        "url": "https://www.nola.com/news/weather/flood-advisory-issued-for-jefferson-st-charles-flash-flood-warnings-posted-north-of-lake-pontchartrain/article_efb8b3b9-5d4b-4e8f-aab2-4ac14be9c4f2.html",
+        "mention_text": "Lake Pontchartrain",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lake Pontchartrain, St. Tammany Parish, Louisiana, United States",
+        "osm_type": "lake",
+        "osm_id": 304641,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4134281,
+          26.1291189
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.valleycentral.com/weather2/flash-flood-advisory-issued-in-cameron-county/",
+        "title": "Flood advisory issued in Cameron County",
+        "source": "ValleyCentral.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-02T21:10:33Z",
+        "url": "https://www.valleycentral.com/weather2/flash-flood-advisory-issued-in-cameron-county/",
+        "mention_text": "Cameron County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cameron County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1828370,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0636359,
+          43.6466588
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.centralnebraskatoday.com/2026/06/02/flood-advisory-issued-for-parts-of-york-clay-fillmore-hamilton-counties/",
+        "title": "Flood Advisory issued for parts of York, Clay, Fillmore, Hamilton counties",
+        "source": "Central Nebraska Today",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-02T12:45:24Z",
+        "url": "https://www.centralnebraskatoday.com/2026/06/02/flood-advisory-issued-for-parts-of-york-clay-fillmore-hamilton-counties/",
+        "mention_text": "Fillmore",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Fillmore County, Minnesota, United States",
+        "osm_type": "administrative",
+        "osm_id": 1792813,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8705871,
+          29.4616211
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/weather-impact/flood-advisory-issued-for-parts-of-lafourche-and-terrebonne-parishes/289-aaee5adc-5519-45c3-a471-b7f80e07da3b",
+        "title": "Flood advisory expires for parts of Lafourche and Terrebonne parishes",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-02T20:05:00Z",
+        "url": "https://www.wwltv.com/article/weather/weather-impact/flood-advisory-issued-for-parts-of-lafourche-and-terrebonne-parishes/289-aaee5adc-5519-45c3-a471-b7f80e07da3b",
+        "mention_text": "Terrebonne",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Terrebonne Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836620,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.564561,
+          19.6273325
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.khon2.com/weather-blog/hawaii-county-flood-advisory/",
+        "title": "Hawaii County under flood advisory as rainfall causes flooding",
+        "source": "KHON2",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-03T02:31:59Z",
+        "url": "https://www.khon2.com/weather-blog/hawaii-county-flood-advisory/",
+        "mention_text": "Hawaii County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Hawai\u02bbi County, Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166562,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3327459,
+          32.753177
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article315984413.html",
+        "title": "UPDATE: Parker and Tarrant counties under a flood advisory Tuesday night",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-06-02T22:32:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article315984413.html",
+        "mention_text": "Fort Worth",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Fort Worth, Tarrant County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 115274,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article315968759.html",
+        "title": "UPDATE: The current flood advisory for Charleston County will be expiring at 8:15 p.m.",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-02T00:40:06Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article315968759.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article315958349.html",
+        "title": "Coastal flood advisory for Coastal Colleton and Charleston County until Sunday night",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-31T23:40:06Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article315958349.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0958187,
+          34.9705848
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article315947645.html",
+        "title": "UPDATE: Flood advisory issued for Anson County Saturday afternoon, says the NWS",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-30T15:51:05Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article315947645.html",
+        "mention_text": "Anson County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Anson County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528672,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8927522,
+          35.469331
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article315951282.html",
+        "title": "UPDATE: Flood advisory previously issued for Beaufort and Jasper counties will expire at 4 p.m.",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-31T20:14:06Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article315951282.html",
+        "mention_text": "Beaufort",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Beaufort County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528675,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.000884,
+          30.7485258
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article315951282.html",
+        "title": "UPDATE: Flood advisory previously issued for Beaufort and Jasper counties will expire at 4 p.m.",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-31T20:14:06Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article315951282.html",
+        "mention_text": "Jasper",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Jasper County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1840994,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1791849,
+          31.8390826
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article315887196.html",
+        "title": "Flood advisory for Cherokee County until Monday night caused by prolonged rainfall",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T23:55:06Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article315887196.html",
+        "mention_text": "Cherokee County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cherokee County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839605,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6182086,
+          33.5723191
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article315901674.html",
+        "title": "UPDATE: Flood advisory for Aiken County until early Wednesday, says the NWS",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-27T03:56:06Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article315901674.html",
+        "mention_text": "Aiken County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Aiken County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532496,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.000884,
+          30.7485258
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article315913466.html",
+        "title": "Jasper County under a flood advisory until Wednesday evening due to persistent downpours",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-27T21:20:03Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article315913466.html",
+        "mention_text": "Jasper County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Jasper County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1840994,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2471338,
+          37.8709542
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article315900550.html",
+        "title": "UPDATE: The current flood advisory for Greenwood County will expire at 1:30 a.m.",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-27T05:54:05Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article315900550.html",
+        "mention_text": "Greenwood County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Greenwood County, Kansas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1070369,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8139485,
+          35.2356385
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article315947236.html",
+        "title": "UPDATE: The current flood advisory for Mecklenburg County will expire at 4:45 p.m.",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-30T21:06:06Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article315947236.html",
+        "mention_text": "Mecklenburg County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Mecklenburg County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528722,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7965744,
+          32.5537587
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.springfieldnewssun.com/local/flood-advisory-issued-for-miami-valley-after-overnight-rain/article_62cea80d-602b-50b8-9cd5-7ce3ae54f681.html",
+        "title": "Flood advisory issued for Miami Valley after overnight rain",
+        "source": "Springfield News-Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-27T13:16:00Z",
+        "url": "https://www.springfieldnewssun.com/local/flood-advisory-issued-for-miami-valley-after-overnight-rain/article_62cea80d-602b-50b8-9cd5-7ce3ae54f681.html",
+        "mention_text": "Miami Valley",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Miami Valley, Fort Valley, Peach County, Georgia, 31380, United States",
+        "osm_type": "hamlet",
+        "osm_id": 153837931,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.778429,
+          33.4054944
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article315900820.html",
+        "title": "UPDATE: Flood advisory for Orangeburg County expected to expire at 5:45 p.m.",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-27T21:51:01Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article315900820.html",
+        "mention_text": "Orangeburg County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Orangeburg County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857005,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9388938,
+          32.4239975
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article315900115.html",
+        "title": "UPDATE: The flood advisory for Laurens County is expected to expire at 4:15 a.m.",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-27T08:27:04Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article315900115.html",
+        "mention_text": "Laurens County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Laurens County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 1027985,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8303536,
+          26.1488926
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article315906534.html",
+        "title": "UPDATE: Flood advisory affecting North Texas Wednesday midday, says the NWS",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-05-27T14:16:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article315906534.html",
+        "mention_text": "North Texas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Texas, North La Feria Village Colonia, La Feria, Cameron County, Texas, 78559, United States",
+        "osm_type": "residential",
+        "osm_id": 20771906,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.7104651,
+          21.2863293
+        ]
+      },
+      "properties": {
+        "article_id": "https://bigislandnow.com/2026/05/17/flood-advisory-issued-as-moderate-to-locally-heavy-rainfall-soaks-parts-of-east-hawaii/",
+        "title": "Flood advisory issued as moderate to locally heavy rainfall soaks parts of East Hawai\u2018i",
+        "source": "Big Island Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-17T07:00:00Z",
+        "url": "https://bigislandnow.com/2026/05/17/flood-advisory-issued-as-moderate-to-locally-heavy-rainfall-soaks-parts-of-east-hawaii/",
+        "mention_text": "East Hawai\u2018i",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hawai\u2019i Kai, Marina Central, East Honolulu, Honolulu, Honolulu County, Hawaii, 96825, United States",
+        "osm_type": "neighbourhood",
+        "osm_id": 150919682,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3056707,
+          40.0379958
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article315864007.html",
+        "title": "UPDATE: Flood advisory in place for Kershaw and Lancaster counties until 2 a.m. Saturday",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-23T07:00:00Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article315864007.html",
+        "mention_text": "Lancaster",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Lancaster, Lancaster County, Pennsylvania, 17575, United States",
+        "osm_type": "administrative",
+        "osm_id": 3997756,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9507234,
+          30.9551586
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article315945763.html",
+        "title": "Flood advisory in place for Madison County early Saturday morning",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-30T06:16:05Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article315945763.html",
+        "mention_text": "Madison County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Madison County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839085,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9023191,
+          35.3994626
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article315887357.html",
+        "title": "Flood advisory for Rutherford County Monday night caused by excessive rainfall",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T07:00:00Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article315887357.html",
+        "mention_text": "Rutherford County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Rutherford County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528741,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3045103,
+          41.6264414
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article315885230.html",
+        "title": "Flood advisory issued for Wayne County Monday evening triggered by prolonged downpours",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T19:27:05Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article315885230.html",
+        "mention_text": "Wayne County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Wayne County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417782,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0733934,
+          29.9561422
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nola.com/news/weather/flood-advisory-new-orleans/article_a5b42a0e-5f5b-4d62-9c96-a1a8257774bd.html",
+        "title": "Flood advisory issued for New Orleans area as thunderstorms soak the region",
+        "source": "NOLA.com",
+        "outlet_city": "New Orleans",
+        "outlet_region": "Louisiana",
+        "published_at": "2026-05-28T16:32:00Z",
+        "url": "https://www.nola.com/news/weather/flood-advisory-new-orleans/article_a5b42a0e-5f5b-4d62-9c96-a1a8257774bd.html",
+        "mention_text": "New Orleans",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "New Orleans, Orleans Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 131885,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3122705,
+          41.9216734
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.travelandtourworld.com/news/article/9n9kio9uqyek/",
+        "title": "Iowa Joins Nebraska, Kansas and Missouri Face Major Flood Emergency as Training Storms Trigger Widespread Rain Threat",
+        "source": "Travel And Tour World",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-04T18:13:32Z",
+        "url": "https://www.travelandtourworld.com/news/article/9n9kio9uqyek/",
+        "mention_text": "Iowa",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Iowa, United States",
+        "osm_type": "administrative",
+        "osm_id": 161650,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5873816,
+          41.7370229
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.travelandtourworld.com/news/article/9n9kio9uqyek/",
+        "title": "Iowa Joins Nebraska, Kansas and Missouri Face Major Flood Emergency as Training Storms Trigger Widespread Rain Threat",
+        "source": "Travel And Tour World",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-04T18:13:32Z",
+        "url": "https://www.travelandtourworld.com/news/article/9n9kio9uqyek/",
+        "mention_text": "Nebraska",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Nebraska, United States",
+        "osm_type": "administrative",
+        "osm_id": 161648,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5821872,
+          38.27312
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.travelandtourworld.com/news/article/9n9kio9uqyek/",
+        "title": "Iowa Joins Nebraska, Kansas and Missouri Face Major Flood Emergency as Training Storms Trigger Widespread Rain Threat",
+        "source": "Travel And Tour World",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-04T18:13:32Z",
+        "url": "https://www.travelandtourworld.com/news/article/9n9kio9uqyek/",
+        "mention_text": "Kansas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kansas, United States",
+        "osm_type": "administrative",
+        "osm_id": 161644,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5617875,
+          38.7604815
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.travelandtourworld.com/news/article/9n9kio9uqyek/",
+        "title": "Iowa Joins Nebraska, Kansas and Missouri Face Major Flood Emergency as Training Storms Trigger Widespread Rain Threat",
+        "source": "Travel And Tour World",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-04T18:13:32Z",
+        "url": "https://www.travelandtourworld.com/news/article/9n9kio9uqyek/",
+        "mention_text": "Missouri",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 161638,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7329309,
+          27.8778904
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tampabay.com/news/weather/2026/05/28/flood-advisory-active-pinellas-county-until-3-am-thursday-triggered-by-significant-rain/",
+        "title": "Flood advisory active for Pinellas County until 3 a.m. Thursday triggered by significant rain",
+        "source": "Tampa Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-28T07:00:00Z",
+        "url": "https://www.tampabay.com/news/weather/2026/05/28/flood-advisory-active-pinellas-county-until-3-am-thursday-triggered-by-significant-rain/",
+        "mention_text": "Pinellas County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Pinellas County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210726,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3488057,
+          27.9184543
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tampabay.com/news/weather/2026/05/28/flood-advisory-place-hillsborough-county-thursday-evening-triggered-by-significant-downpours/",
+        "title": "Flood advisory in place for Hillsborough County Thursday evening triggered by significant downpours",
+        "source": "Tampa Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-28T07:00:00Z",
+        "url": "https://www.tampabay.com/news/weather/2026/05/28/flood-advisory-place-hillsborough-county-thursday-evening-triggered-by-significant-downpours/",
+        "mention_text": "Hillsborough County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hillsborough County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210701,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7747273,
+          40.2258545
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tampabay.com/news/weather/2026/05/27/flood-advisory-issued-central-west-florida-wednesday-evening-caused-by-heavy-rainfall/",
+        "title": "Flood advisory issued for Central West Florida Wednesday evening caused by heavy rainfall",
+        "source": "Tampa Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-27T07:00:00Z",
+        "url": "https://www.tampabay.com/news/weather/2026/05/27/flood-advisory-issued-central-west-florida-wednesday-evening-caused-by-heavy-rainfall/",
+        "mention_text": "Central West",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Central West, Trenton, Mercer County, New Jersey, 08618, United States",
+        "osm_type": "neighbourhood",
+        "osm_id": 7550227119,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tampabay.com/news/weather/2026/05/27/flood-advisory-issued-central-west-florida-wednesday-evening-caused-by-heavy-rainfall/",
+        "title": "Flood advisory issued for Central West Florida Wednesday evening caused by heavy rainfall",
+        "source": "Tampa Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-27T07:00:00Z",
+        "url": "https://www.tampabay.com/news/weather/2026/05/27/flood-advisory-issued-central-west-florida-wednesday-evening-caused-by-heavy-rainfall/",
+        "mention_text": "Florida",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3801566,
+          27.5213933
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tampabay.com/news/weather/2026/05/28/flood-advisory-issued-manatee-county-early-thursday-morning-due-heavy-downpours/",
+        "title": "Flood advisory issued for Manatee County early Thursday morning due to heavy downpours",
+        "source": "Tampa Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-28T07:00:00Z",
+        "url": "https://www.tampabay.com/news/weather/2026/05/28/flood-advisory-issued-manatee-county-early-thursday-morning-due-heavy-downpours/",
+        "mention_text": "Manatee County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Manatee County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210690,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2899539,
+          36.8493695
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.13newsnow.com/article/weather/weather-impact/virginia-va-weather-coastal-flood-advisory-norfolk-chesapeake-hampton-roads/291-866dac2c-59f9-48f8-841e-77d4b33cb56e",
+        "title": "Coastal flood advisory issued for Norfolk, Chesapeake and surrounding areas",
+        "source": "13newsnow.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-26T07:00:00Z",
+        "url": "https://www.13newsnow.com/article/weather/weather-impact/virginia-va-weather-coastal-flood-advisory-norfolk-chesapeake-hampton-roads/291-866dac2c-59f9-48f8-841e-77d4b33cb56e",
+        "mention_text": "Norfolk",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Norfolk, Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 206672,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2494453,
+          36.7168315
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.13newsnow.com/article/weather/weather-impact/virginia-va-weather-coastal-flood-advisory-norfolk-chesapeake-hampton-roads/291-866dac2c-59f9-48f8-841e-77d4b33cb56e",
+        "title": "Coastal flood advisory issued for Norfolk, Chesapeake and surrounding areas",
+        "source": "13newsnow.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-26T07:00:00Z",
+        "url": "https://www.13newsnow.com/article/weather/weather-impact/virginia-va-weather-coastal-flood-advisory-norfolk-chesapeake-hampton-roads/291-866dac2c-59f9-48f8-841e-77d4b33cb56e",
+        "mention_text": "Chesapeake",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Chesapeake, Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 206671,
+        "run_at": "2026-06-06T20:18:30.383208+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-05-26T09:59:13.549166+00:00",
-    "total_features": 1253
+    "last_updated": "2026-06-06T20:18:30.389390+00:00",
+    "total_features": 1341
   }
 }
