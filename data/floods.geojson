@@ -34866,11 +34866,791 @@
         "osm_id": 206671,
         "run_at": "2026-06-06T20:18:30.383208+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7968559,
+          32.7762719
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox4news.com/weather/flash-flood-warnings-persist-across-dallas-fort-worth-metroplex-continuous-rain-saturates-region",
+        "title": "Flash flood warnings persist across Dallas-Fort Worth metroplex as continuous rain saturates region",
+        "source": "FOX 4 News Dallas-Fort Worth",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-07T12:44:14Z",
+        "url": "https://www.fox4news.com/weather/flash-flood-warnings-persist-across-dallas-fort-worth-metroplex-continuous-rain-saturates-region",
+        "mention_text": "Dallas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dallas, Dallas County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 6571629,
+        "run_at": "2026-06-07T14:45:08.317555+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3327459,
+          32.753177
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox4news.com/weather/flash-flood-warnings-persist-across-dallas-fort-worth-metroplex-continuous-rain-saturates-region",
+        "title": "Flash flood warnings persist across Dallas-Fort Worth metroplex as continuous rain saturates region",
+        "source": "FOX 4 News Dallas-Fort Worth",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-07T12:44:14Z",
+        "url": "https://www.fox4news.com/weather/flash-flood-warnings-persist-across-dallas-fort-worth-metroplex-continuous-rain-saturates-region",
+        "mention_text": "Fort Worth",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Fort Worth, Tarrant County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 115274,
+        "run_at": "2026-06-07T14:45:08.317555+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7790069,
+          32.7620405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article316035616.html",
+        "title": "UPDATE: Flash flood warning in place for Dallas County Sunday morning due to thunderstorms",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-06-07T07:37:30Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article316035616.html",
+        "mention_text": "Dallas County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dallas County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837698,
+        "run_at": "2026-06-07T14:45:08.317555+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1458063,
+          40.3941712
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/weather-impact/flash-flood-warning-issued-for-st-tammany-parish-washington-parish-and-parts-of-mississippi/289-ea2e62b4-fe5b-4d51-93b3-ec0ee8b214e0",
+        "title": "Flash Flood Warning issued for St. Tammany Parish, Hancock County and Pearl River County",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-06T18:49:00Z",
+        "url": "https://www.wwltv.com/article/weather/weather-impact/flash-flood-warning-issued-for-st-tammany-parish-washington-parish-and-parts-of-mississippi/289-ea2e62b4-fe5b-4d51-93b3-ec0ee8b214e0",
+        "mention_text": "Hancock County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hancock County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1789870,
+        "run_at": "2026-06-07T14:45:08.317555+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5984726,
+          30.7761604
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/weather-impact/flash-flood-warning-issued-for-st-tammany-parish-washington-parish-and-parts-of-mississippi/289-ea2e62b4-fe5b-4d51-93b3-ec0ee8b214e0",
+        "title": "Flash Flood Warning issued for St. Tammany Parish, Hancock County and Pearl River County",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-06T18:49:00Z",
+        "url": "https://www.wwltv.com/article/weather/weather-impact/flash-flood-warning-issued-for-st-tammany-parish-washington-parish-and-parts-of-mississippi/289-ea2e62b4-fe5b-4d51-93b3-ec0ee8b214e0",
+        "mention_text": "Pearl River County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pearl River County, Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832972,
+        "run_at": "2026-06-07T14:45:08.317555+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/US/severe-thunderstorms-targeting-millions-flash-flood-threat-texas/story?id=133652839",
+        "title": "Severe thunderstorms targeting millions, flash flood threat from Texas to Missouri",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-06T20:54:56Z",
+        "url": "https://abcnews.com/US/severe-thunderstorms-targeting-millions-flash-flood-threat-texas/story?id=133652839",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-06-07T14:45:08.317555+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5617875,
+          38.7604815
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/US/severe-thunderstorms-targeting-millions-flash-flood-threat-texas/story?id=133652839",
+        "title": "Severe thunderstorms targeting millions, flash flood threat from Texas to Missouri",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-06T20:54:56Z",
+        "url": "https://abcnews.com/US/severe-thunderstorms-targeting-millions-flash-flood-threat-texas/story?id=133652839",
+        "mention_text": "Missouri",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 161638,
+        "run_at": "2026-06-07T14:45:08.317555+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.135072,
+          32.6662689
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/heavy-rain-brings-flash-flood-125700290.html",
+        "title": "Heavy rain brings flash flood warnings to North Texas",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-07T12:57:00Z",
+        "url": "https://www.yahoo.com/news/videos/heavy-rain-brings-flash-flood-125700290.html",
+        "mention_text": "North Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North, Arlington, Tarrant County, Texas, 76017, United States",
+        "osm_type": "residential",
+        "osm_id": 10057724,
+        "run_at": "2026-06-07T14:45:08.317555+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3327459,
+          32.753177
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article316035266.html",
+        "title": "UPDATE: Flash flood warning in place for Johnson and Tarrant counties Sunday morning",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-06-07T04:25:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article316035266.html",
+        "mention_text": "Fort Worth",
+        "flood_type": "flash_flood",
+        "confidence": 0.4,
+        "osm_display": "Fort Worth, Tarrant County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 115274,
+        "run_at": "2026-06-07T14:45:08.317555+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3327459,
+          32.753177
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article316035471.html",
+        "title": "UPDATE: Flash flood warning previously issued will expire at 6 a.m.",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-06-07T06:35:11Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article316035471.html",
+        "mention_text": "Fort Worth",
+        "flood_type": "flash_flood",
+        "confidence": 0.4,
+        "osm_display": "Fort Worth, Tarrant County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 115274,
+        "run_at": "2026-06-07T14:45:08.317555+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1413417,
+          33.1838787
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article316034022.html",
+        "title": "Flash flood warning in place for Denton County Saturday night triggered by thunderstorms",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-06-06T23:08:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article316034022.html",
+        "mention_text": "Denton County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Denton County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837621,
+        "run_at": "2026-06-07T14:45:08.317555+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9730381,
+          30.4243909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/weather-impact/flash-flood-warning-issued-for-parts-of-st-tammany-parish-southern-mississippi/289-2c496510-62fe-48ca-8e2e-38e36a6d8348",
+        "title": "Flash flood warning issued for parts of St. Tammany Parish, southern Mississippi",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-01T20:40:00Z",
+        "url": "https://www.wwltv.com/article/weather/weather-impact/flash-flood-warning-issued-for-parts-of-st-tammany-parish-southern-mississippi/289-2c496510-62fe-48ca-8e2e-38e36a6d8348",
+        "mention_text": "St. Tammany",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "St. Tammany Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836431,
+        "run_at": "2026-06-07T14:45:08.317555+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7348497,
+          32.9715285
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/weather-impact/flash-flood-warning-issued-for-parts-of-st-tammany-parish-southern-mississippi/289-2c496510-62fe-48ca-8e2e-38e36a6d8348",
+        "title": "Flash flood warning issued for parts of St. Tammany Parish, southern Mississippi",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-01T20:40:00Z",
+        "url": "https://www.wwltv.com/article/weather/weather-impact/flash-flood-warning-issued-for-parts-of-st-tammany-parish-southern-mississippi/289-2c496510-62fe-48ca-8e2e-38e36a6d8348",
+        "mention_text": "Mississippi",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 161943,
+        "run_at": "2026-06-07T14:45:08.317555+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mensjournal.com/news/flash-flood-risk-threatens-texas-new-mexico-with-heavy-rain",
+        "title": "Flash Flood Risk Threatens Texas, New Mexico With Heavy Rain",
+        "source": "Men's Journal",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-02T18:09:44Z",
+        "url": "https://www.mensjournal.com/news/flash-flood-risk-threatens-texas-new-mexico-with-heavy-rain",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-06-07T14:45:08.317555+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5959641,
+          29.8298971
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wbtv.com/2026/05/27/flash-flood-warning-issued-caldwell-county/",
+        "title": "Flash flood warning issued for Caldwell County",
+        "source": "WBTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-27T07:00:00Z",
+        "url": "https://www.wbtv.com/2026/05/27/flash-flood-warning-issued-caldwell-county/",
+        "mention_text": "Caldwell County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Caldwell County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 92017,
+        "run_at": "2026-06-07T14:45:08.317555+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.335696,
+          32.7513658
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article316036027.html",
+        "title": "Flood advisory in place for Tarrant County Sunday morning caused by heavy rainfall",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-06-07T10:28:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article316036027.html",
+        "mention_text": "Tarrant County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Tarrant County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837628,
+        "run_at": "2026-06-07T14:45:08.317555+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6527477,
+          48.5158513
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theolympian.com/news/weather-news/article316032615.html",
+        "title": "Flood advisory in place for Okanogan County Saturday afternoon due to significant rainfall",
+        "source": "The Olympian",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-06T20:18:57Z",
+        "url": "https://www.theolympian.com/news/weather-news/article316032615.html",
+        "mention_text": "Okanogan County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Okanogan County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153069,
+        "run_at": "2026-06-07T14:45:08.317555+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8303536,
+          26.1488926
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article316035435.html",
+        "title": "Flood advisory for North Texas until 2 a.m. Sunday triggered by excessive downpours",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-06-07T05:45:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article316035435.html",
+        "mention_text": "North Texas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Texas, North La Feria Village Colonia, La Feria, Cameron County, Texas, 78559, United States",
+        "osm_type": "residential",
+        "osm_id": 20771906,
+        "run_at": "2026-06-07T14:45:08.317555+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1413417,
+          33.1838787
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article316034315.html",
+        "title": "Flood advisory in place for Denton County Saturday night triggered by substantial downpours",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-06-07T00:01:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article316034315.html",
+        "mention_text": "Denton County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Denton County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837621,
+        "run_at": "2026-06-07T14:45:08.317555+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0482171,
+          35.6608869
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article315912963.html",
+        "title": "McDowell County under a flood advisory Wednesday evening due to substantial rainfall",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-27T20:50:04Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article315912963.html",
+        "mention_text": "McDowell County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "McDowell County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528721,
+        "run_at": "2026-06-07T14:45:08.317555+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4275918,
+          33.829579
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article315901532.html",
+        "title": "UPDATE: The flood advisory for Oconee County is likely to expire at 1:45 a.m.",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-27T05:54:05Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article315901532.html",
+        "mention_text": "Oconee County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oconee County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 1020708,
+        "run_at": "2026-06-07T14:45:08.317555+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9023191,
+          35.3994626
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article315887357.html",
+        "title": "Flood advisory for Rutherford County Monday night caused by excessive rainfall",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T07:00:00Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article315887357.html",
+        "mention_text": "Rutherford County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Rutherford County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528741,
+        "run_at": "2026-06-07T14:45:08.317555+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9507234,
+          30.9551586
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article315945763.html",
+        "title": "Flood advisory in place for Madison County early Saturday morning",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-30T06:16:05Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article315945763.html",
+        "mention_text": "Madison County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Madison County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839085,
+        "run_at": "2026-06-07T14:45:08.317555+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.159631,
+          34.0005083
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tri-cityherald.com/news/weather-news/article315931945.html",
+        "title": "Flood advisory issued for Eastern Washington Thursday night caused by prolonged rainfall",
+        "source": "Tri-City Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-29T04:03:06Z",
+        "url": "https://www.tri-cityherald.com/news/weather-news/article315931945.html",
+        "mention_text": "Eastern Washington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Eastern / Washington, South Eastern Avenue, Commerce, Los Angeles County, California, 90040, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 8285354334,
+        "run_at": "2026-06-07T14:45:08.317555+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article315896639.html",
+        "title": "The Piedmont region placed under a flood advisory until Tuesday evening",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-26T07:00:00Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article315896639.html",
+        "mention_text": "Piedmont",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-06-07T14:45:08.317555+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.3609662,
+          35.0078434
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article315885434.html",
+        "title": "Flood advisory in place for Sampson County Monday evening due to persistent rain",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T19:49:05Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article315885434.html",
+        "mention_text": "Sampson County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Sampson County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528742,
+        "run_at": "2026-06-07T14:45:08.317555+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6418883,
+          39.7886111
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article315950843.html",
+        "title": "UPDATE: Flood advisory in place for Fairfield and Richland counties Saturday evening",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-30T23:51:05Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article315950843.html",
+        "mention_text": "Fairfield",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Fairfield County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 178391,
+        "run_at": "2026-06-07T14:45:08.317555+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0949352,
+          38.7060457
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article315950843.html",
+        "title": "UPDATE: Flood advisory in place for Fairfield and Richland counties Saturday evening",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-30T23:51:05Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article315950843.html",
+        "mention_text": "Richland",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Richland County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1801535,
+        "run_at": "2026-06-07T14:45:08.317555+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.564561,
+          19.6273325
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aol.com/news/hawaii-county-under-flood-advisory-023159991.html",
+        "title": "Hawaii County under flood advisory as rainfall causes flooding",
+        "source": "AOL.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-03T02:31:00Z",
+        "url": "https://www.aol.com/news/hawaii-county-under-flood-advisory-023159991.html",
+        "mention_text": "Hawaii County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Hawai\u02bbi County, Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166562,
+        "run_at": "2026-06-07T14:45:08.317555+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.076402,
+          28.6689748
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tampabay.com/news/weather/2026/05/12/flood-advisory-active-citrus-sumter-counties-early-tuesday-evening-due-prolonged-rain/",
+        "title": "Flood advisory active for Citrus and Sumter counties early Tuesday evening due to prolonged rain",
+        "source": "Tampa Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-12T07:00:00Z",
+        "url": "https://www.tampabay.com/news/weather/2026/05/12/flood-advisory-active-citrus-sumter-counties-early-tuesday-evening-due-prolonged-rain/",
+        "mention_text": "Sumter",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Sumter County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210752,
+        "run_at": "2026-06-07T14:45:08.317555+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-06-06T20:18:30.389390+00:00",
-    "total_features": 1341
+    "last_updated": "2026-06-07T14:45:08.324533+00:00",
+    "total_features": 1371
   }
 }
