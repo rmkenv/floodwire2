@@ -21,7 +21,7 @@ on:
       skip_tweet:
         description: "Skip tweeting (useful for backfill/test runs)"
         type: boolean
-        default: false
+        default: true
 
 jobs:
   etl:
