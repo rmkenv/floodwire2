@@ -21,7 +21,7 @@ on:
       skip_tweet:
         description: "Skip tweeting (useful for backfill/test runs)"
         type: boolean
-        default: true
+        default: false
 
 jobs:
   etl:
@@ -90,16 +90,6 @@ jobs:
       - name: Run ETL (test mode)
         if: ${{ inputs.test_mode }}
         run: python src/main.py --test
-
-      - name: Generate situation report and tweet
-        if: ${{ !inputs.test_mode && !inputs.skip_tweet }}
-        env:
-          OLLAMA_API_KEY:        ${{ secrets.OLLAMA_API_KEY }}
-          TWITTER_API_KEY:       ${{ secrets.TWITTER_API_KEY }}
-          TWITTER_API_SECRET:    ${{ secrets.TWITTER_API_SECRET }}
-          TWITTER_ACCESS_TOKEN:  ${{ secrets.TWITTER_ACCESS_TOKEN }}
-          TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
-        run: python src/brief_and_tweet.py
 
       - name: Commit data files
         if: ${{ !inputs.test_mode }}
