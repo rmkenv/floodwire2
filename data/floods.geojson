@@ -35646,11 +35646,375 @@
         "osm_id": 1210752,
         "run_at": "2026-06-07T14:45:08.317555+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6439575,
+          39.7990175
+        ]
+      },
+      "properties": {
+        "article_id": "https://ozarkradionews.com/local-news/the-national-weather-service-in-springfield-has-issued-a-flash-flood-warning-for-southwestern-howell-county-in-south-central-missouri-until-1215-am-cdt",
+        "title": "The National Weather Service in Springfield has issued a * Flash Flood Warning for... Southwestern Howell County in south central Missouri... * Until 1215 AM CDT.",
+        "source": "Ozark Radio News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-07T23:27:07Z",
+        "url": "https://ozarkradionews.com/local-news/the-national-weather-service-in-springfield-has-issued-a-flash-flood-warning-for-southwestern-howell-county-in-south-central-missouri-until-1215-am-cdt",
+        "mention_text": "Springfield",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Springfield, Sangamon County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 126326,
+        "run_at": "2026-06-08T10:57:15.719545+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5617875,
+          38.7604815
+        ]
+      },
+      "properties": {
+        "article_id": "https://ozarkradionews.com/local-news/the-national-weather-service-in-springfield-has-issued-a-flash-flood-warning-for-southwestern-howell-county-in-south-central-missouri-until-1215-am-cdt",
+        "title": "The National Weather Service in Springfield has issued a * Flash Flood Warning for... Southwestern Howell County in south central Missouri... * Until 1215 AM CDT.",
+        "source": "Ozark Radio News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-07T23:27:07Z",
+        "url": "https://ozarkradionews.com/local-news/the-national-weather-service-in-springfield-has-issued-a-flash-flood-warning-for-southwestern-howell-county-in-south-central-missouri-until-1215-am-cdt",
+        "mention_text": "Missouri",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 161638,
+        "run_at": "2026-06-08T10:57:15.719545+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.820246,
+          41.139981
+        ]
+      },
+      "properties": {
+        "article_id": "https://plattevalley.newschannelnebraska.com/story/298076335/flash-flood-warning-issued-for-cheyenne-kimball-counties-as-storms-continue",
+        "title": "Flash flood warning issued for Cheyenne, Kimball counties as storms continue",
+        "source": "Platte Valley - News Channel",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-08T03:13:29Z",
+        "url": "https://plattevalley.newschannelnebraska.com/story/298076335/flash-flood-warning-issued-for-cheyenne-kimball-counties-as-storms-continue",
+        "mention_text": "Cheyenne",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Cheyenne, Laramie County, Wyoming, United States",
+        "osm_type": "administrative",
+        "osm_id": 252208,
+        "run_at": "2026-06-08T10:57:15.719545+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.6997645,
+          41.1881305
+        ]
+      },
+      "properties": {
+        "article_id": "https://plattevalley.newschannelnebraska.com/story/298076335/flash-flood-warning-issued-for-cheyenne-kimball-counties-as-storms-continue",
+        "title": "Flash flood warning issued for Cheyenne, Kimball counties as storms continue",
+        "source": "Platte Valley - News Channel",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-08T03:13:29Z",
+        "url": "https://plattevalley.newschannelnebraska.com/story/298076335/flash-flood-warning-issued-for-cheyenne-kimball-counties-as-storms-continue",
+        "mention_text": "Kimball",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kimball County, Nebraska, United States",
+        "osm_type": "administrative",
+        "osm_id": 1411467,
+        "run_at": "2026-06-08T10:57:15.719545+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0939807,
+          34.4792641
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbs42.com/cbs-42-plues-weather/humidity-returns-storm-chances-increase-sunday-into-next-week/",
+        "title": "Flash Flood Risk Today; Hot and Humid Week Ahead",
+        "source": "CBS 42",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-07T11:45:00Z",
+        "url": "https://www.cbs42.com/cbs-42-plues-weather/humidity-returns-storm-chances-increase-sunday-into-next-week/",
+        "mention_text": "Hot",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Memorial Field, 525, Airport Road, Hot Springs, Garland County, Arkansas, 71913, United States",
+        "osm_type": "aerodrome",
+        "osm_id": 221357127,
+        "run_at": "2026-06-08T10:57:15.719545+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8303536,
+          26.1488926
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article316035266.html",
+        "title": "UPDATE: Flash flood warning for North Texas until Sunday midday caused by thunderstorms",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-06-07T04:25:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article316035266.html",
+        "mention_text": "North Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, North La Feria Village Colonia, La Feria, Cameron County, Texas, 78559, United States",
+        "osm_type": "residential",
+        "osm_id": 20771906,
+        "run_at": "2026-06-08T10:57:15.719545+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.135072,
+          32.6662689
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flood-watch-continues-storms-bring-100000230.html",
+        "title": "Live radar: Flood warning issued Sunday for parts of North Texas",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-07T10:00:00Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flood-watch-continues-storms-bring-100000230.html",
+        "mention_text": "North Texas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North, Arlington, Tarrant County, Texas, 76017, United States",
+        "osm_type": "residential",
+        "osm_id": 10057724,
+        "run_at": "2026-06-08T10:57:15.719545+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4508165,
+          33.7876673
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bellinghamherald.com/news/weather-news/article315931847.html",
+        "title": "Flash flood warning active for Lincoln County until Thursday night, says the NWS",
+        "source": "Bellingham Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-29T03:26:43Z",
+        "url": "https://www.bellinghamherald.com/news/weather-news/article315931847.html",
+        "mention_text": "Lincoln County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lincoln County, Georgia, 30817, United States",
+        "osm_type": "administrative",
+        "osm_id": 448085,
+        "run_at": "2026-06-08T10:57:15.719545+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8303536,
+          26.1488926
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article316034315.html",
+        "title": "UPDATE: Flood advisory for North Texas predicted to expire at 3 p.m.",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-06-07T00:01:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article316034315.html",
+        "mention_text": "North Texas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Texas, North La Feria Village Colonia, La Feria, Cameron County, Texas, 78559, United States",
+        "osm_type": "residential",
+        "osm_id": 20771906,
+        "run_at": "2026-06-08T10:57:15.719545+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6563925,
+          33.2139213
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article316033467.html",
+        "title": "Flood advisory active for Wise County until Saturday evening due to prolonged rain",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-06-06T21:53:26Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article316033467.html",
+        "mention_text": "Wise County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Wise County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836982,
+        "run_at": "2026-06-08T10:57:15.719545+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9507234,
+          30.9551586
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article315945763.html",
+        "title": "Flood advisory in place for Madison County early Saturday morning",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-30T06:16:05Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article315945763.html",
+        "mention_text": "Madison County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Madison County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839085,
+        "run_at": "2026-06-08T10:57:15.719545+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0166235,
+          33.2130154
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article315884706.html",
+        "title": "Flood advisory in place for Bamberg and Barnwell counties until early Monday evening",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T18:37:07Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article315884706.html",
+        "mention_text": "Bamberg",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Bamberg County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1856997,
+        "run_at": "2026-06-08T10:57:15.719545+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3045103,
+          41.6264414
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article315885230.html",
+        "title": "Flood advisory issued for Wayne County Monday evening triggered by prolonged downpours",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T07:00:00Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article315885230.html",
+        "mention_text": "Wayne County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Wayne County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417782,
+        "run_at": "2026-06-08T10:57:15.719545+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article315926125.html",
+        "title": "UPDATE: The current flood advisory for Charleston County will expire at 5 p.m.",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-28T21:23:06Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article315926125.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-06-08T10:57:15.719545+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-06-07T14:45:08.324533+00:00",
-    "total_features": 1371
+    "last_updated": "2026-06-08T10:57:15.726319+00:00",
+    "total_features": 1385
   }
 }
