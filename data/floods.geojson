@@ -36894,11 +36894,531 @@
         "osm_id": 1070369,
         "run_at": "2026-06-09T09:46:47.341994+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4512417,
+          32.6894727
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kfvs12.com/2026/06/10/heartland-tow-truck-company-responds-after-flash-flood/",
+        "title": "Heartland tow truck company responds after flash flood",
+        "source": "KFVS12",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-10T03:59:00Z",
+        "url": "https://www.kfvs12.com/2026/06/10/heartland-tow-truck-company-responds-after-flash-flood/",
+        "mention_text": "Heartland",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Heartland, Kaufman County, Texas, United States",
+        "osm_type": "town",
+        "osm_id": 7087487904,
+        "run_at": "2026-06-10T10:04:26.181117+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3182112,
+          40.7576063
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdrb.com/water-recedes-in-downtown-corydon-after-flash-flood/video_8712da86-1ab6-5ed8-a638-e693ef7986a3.html",
+        "title": "Water recedes in downtown Corydon after flash flood",
+        "source": "WDRB",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-09T22:41:00Z",
+        "url": "https://www.wdrb.com/water-recedes-in-downtown-corydon-after-flash-flood/video_8712da86-1ab6-5ed8-a638-e693ef7986a3.html",
+        "mention_text": "Corydon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Corydon, Wayne County, Iowa, United States",
+        "osm_type": "administrative",
+        "osm_id": 129021,
+        "run_at": "2026-06-10T10:04:26.181117+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1051993,
+          35.7995377
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wate.com/video/flash-flood-warnings-prompted-by-heavy-rain-in-east-tennessee/11864967/",
+        "title": "Flash Flood Warnings prompted by heavy rain in East Tennessee",
+        "source": "WATE 6 On Your Side",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-09T19:44:07Z",
+        "url": "https://www.wate.com/video/flash-flood-warnings-prompted-by-heavy-rain-in-east-tennessee/11864967/",
+        "mention_text": "East Tennessee",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "East Tennessee, Tennessee, United States",
+        "osm_type": "administrative",
+        "osm_id": 13056868,
+        "run_at": "2026-06-10T10:04:26.181117+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8295337,
+          33.2588817
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/extreme-weather/14-rescued-flooded-caves-alabama-flash-flood-emergency",
+        "title": "14 saved from flooded Alabama caves during Flash Flood Emergency",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-09T14:46:00Z",
+        "url": "https://www.foxweather.com/extreme-weather/14-rescued-flooded-caves-alabama-flash-flood-emergency",
+        "mention_text": "Alabama",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Alabama, United States",
+        "osm_type": "administrative",
+        "osm_id": 161950,
+        "run_at": "2026-06-10T10:04:26.181117+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6276904,
+          47.8012197
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tri-cityherald.com/news/weather-news/article316063184.html",
+        "title": "Flood warning issued for Chelan County until further notice, says the NWS",
+        "source": "Tri-City Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-09T17:57:15Z",
+        "url": "https://www.tri-cityherald.com/news/weather-news/article316063184.html",
+        "mention_text": "Chelan County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Chelan County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153517,
+        "run_at": "2026-06-10T10:04:26.181117+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4970393,
+          38.0464066
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.lex18.com/news/covering-kentucky/flash-flood-warning-issued-for-lexington-amid-heavy-rainfall",
+        "title": "'Turn around, don't drown': Flash flood warning issued for Lexington amid heavy rainfall",
+        "source": "LEX18",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-09T15:06:50Z",
+        "url": "https://www.lex18.com/news/covering-kentucky/flash-flood-warning-issued-for-lexington-amid-heavy-rainfall",
+        "mention_text": "Lexington",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lexington, Fayette County, Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 11078268,
+        "run_at": "2026-06-10T10:04:26.181117+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3182112,
+          40.7576063
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdrb.com/news/water-recedes-in-downtown-corydon-after-flash-flood/article_7e4bfda1-b996-47bb-a966-423e61c21033.html",
+        "title": "Water recedes in downtown Corydon after flash flood",
+        "source": "WDRB",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-09T19:00:00Z",
+        "url": "https://www.wdrb.com/news/water-recedes-in-downtown-corydon-after-flash-flood/article_7e4bfda1-b996-47bb-a966-423e61c21033.html",
+        "mention_text": "Corydon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Corydon, Wayne County, Iowa, United States",
+        "osm_type": "administrative",
+        "osm_id": 129021,
+        "run_at": "2026-06-10T10:04:26.181117+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.55561,
+          28.9224028
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-y1rigsyh1cqxm5c1",
+        "title": "Watch: Drone video shows parts of Jackson County, Alabama, inundated during Flash Flood Emergency",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-09T13:24:08Z",
+        "url": "https://www.foxweather.com/watch/fmc-y1rigsyh1cqxm5c1",
+        "mention_text": "Jackson County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Jackson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837671,
+        "run_at": "2026-06-10T10:04:26.181117+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8295337,
+          33.2588817
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-y1rigsyh1cqxm5c1",
+        "title": "Watch: Drone video shows parts of Jackson County, Alabama, inundated during Flash Flood Emergency",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-09T13:24:08Z",
+        "url": "https://www.foxweather.com/watch/fmc-y1rigsyh1cqxm5c1",
+        "mention_text": "Alabama",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Alabama, United States",
+        "osm_type": "administrative",
+        "osm_id": 161950,
+        "run_at": "2026-06-10T10:04:26.181117+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4970393,
+          38.0464066
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtvq.com/turn-around-dont-drown-flash-flood-warning-issued-for-lexington-amid-heavy-rainfall/",
+        "title": "\u2018Turn around don\u2019t drown\u2019: Flash flood warning issued for Lexington amid heavy rainfall",
+        "source": "WTVQ",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-09T18:00:22Z",
+        "url": "https://www.wtvq.com/turn-around-dont-drown-flash-flood-warning-issued-for-lexington-amid-heavy-rainfall/",
+        "mention_text": "Lexington",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lexington, Fayette County, Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 11078268,
+        "run_at": "2026-06-10T10:04:26.181117+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1551411,
+          37.5726028
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whas11.com/article/weather/weather-impact/kentucky-counties-flash-flood-warning/417-f9ee8375-e6bb-4cd0-ad66-b2a87ad1e7d2",
+        "title": "These Kentucky and Indiana counties are under a Flash Flood Warning",
+        "source": "WHAS11",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-09T10:21:00Z",
+        "url": "https://www.whas11.com/article/weather/weather-impact/kentucky-counties-flash-flood-warning/417-f9ee8375-e6bb-4cd0-ad66-b2a87ad1e7d2",
+        "mention_text": "Kentucky",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 161655,
+        "run_at": "2026-06-10T10:04:26.181117+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1746933,
+          40.3270127
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whas11.com/article/weather/weather-impact/kentucky-counties-flash-flood-warning/417-f9ee8375-e6bb-4cd0-ad66-b2a87ad1e7d2",
+        "title": "These Kentucky and Indiana counties are under a Flash Flood Warning",
+        "source": "WHAS11",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-09T10:21:00Z",
+        "url": "https://www.whas11.com/article/weather/weather-impact/kentucky-counties-flash-flood-warning/417-f9ee8375-e6bb-4cd0-ad66-b2a87ad1e7d2",
+        "mention_text": "Indiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Indiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 161816,
+        "run_at": "2026-06-10T10:04:26.181117+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2471338,
+          37.8709542
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article316064459.html",
+        "title": "Greenwood County under a flood advisory until Tuesday night, says the NWS",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-09T19:26:04Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article316064459.html",
+        "mention_text": "Greenwood County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Greenwood County, Kansas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1070369,
+        "run_at": "2026-06-10T10:04:26.181117+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9955954,
+          34.937029
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article316059210.html",
+        "title": "UPDATE: Flood advisory in place for Spartanburg County Tuesday afternoon",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-09T16:55:05Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article316059210.html",
+        "mention_text": "Spartanburg County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Spartanburg County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1357015,
+        "run_at": "2026-06-10T10:04:26.181117+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0482171,
+          35.6608869
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316058799.html",
+        "title": "UPDATE: Flood advisory affecting McDowell County Tuesday midday",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-09T15:36:04Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316058799.html",
+        "mention_text": "McDowell County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "McDowell County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528721,
+        "run_at": "2026-06-10T10:04:26.181117+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6527477,
+          48.5158513
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thenewstribune.com/news/weather-news/article316032615.html",
+        "title": "Flood advisory in place for Okanogan County Saturday afternoon due to significant rainfall",
+        "source": "Tacoma News Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-06T20:32:03Z",
+        "url": "https://www.thenewstribune.com/news/weather-news/article316032615.html",
+        "mention_text": "Okanogan County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Okanogan County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153069,
+        "run_at": "2026-06-10T10:04:26.181117+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6182086,
+          33.5723191
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article315901674.html",
+        "title": "UPDATE: Flood advisory for Aiken County until early Wednesday, says the NWS",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-27T03:56:06Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article315901674.html",
+        "mention_text": "Aiken County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Aiken County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532496,
+        "run_at": "2026-06-10T10:04:26.181117+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6418883,
+          39.7886111
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article315950843.html",
+        "title": "UPDATE: Flood advisory in place for Fairfield and Richland counties Saturday evening",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-30T23:51:05Z",
+        "url": "https://www.thestate.com/news/weather-news/article315950843.html",
+        "mention_text": "Fairfield",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Fairfield County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 178391,
+        "run_at": "2026-06-10T10:04:26.181117+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0949352,
+          38.7060457
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article315950843.html",
+        "title": "UPDATE: Flood advisory in place for Fairfield and Richland counties Saturday evening",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-30T23:51:05Z",
+        "url": "https://www.thestate.com/news/weather-news/article315950843.html",
+        "mention_text": "Richland",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Richland County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1801535,
+        "run_at": "2026-06-10T10:04:26.181117+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2115053,
+          35.7902384
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article315897415.html",
+        "title": "UPDATE: Flood advisory for Davidson County anticipated to expire at 6:30 p.m.",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-26T07:00:00Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article315897415.html",
+        "mention_text": "Davidson County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Davidson County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528693,
+        "run_at": "2026-06-10T10:04:26.181117+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-06-09T09:46:47.349590+00:00",
-    "total_features": 1419
+    "last_updated": "2026-06-10T10:04:26.187265+00:00",
+    "total_features": 1439
   }
 }
