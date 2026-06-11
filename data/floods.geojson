@@ -37414,11 +37414,635 @@
         "osm_id": 2528693,
         "run_at": "2026-06-10T10:04:26.181117+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.907094,
+          38.4825192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kfvs12.com/2026/06/11/flash-flood-squeezes-resources-scott-city/",
+        "title": "Flash flood squeezes resources in Scott City",
+        "source": "KFVS12",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-11T03:34:00Z",
+        "url": "https://www.kfvs12.com/2026/06/11/flash-flood-squeezes-resources-scott-city/",
+        "mention_text": "Scott City",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Scott City, Scott County, Kansas, 67871, United States",
+        "osm_type": "administrative",
+        "osm_id": 129938,
+        "run_at": "2026-06-11T10:27:13.186207+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.19932,
+          43.774851
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mynbc5.com/article/watch-massive-hole-found-in-hardwick-after-flash-flood-warning/71553376",
+        "title": "WATCH: Massive hole found in Hardwick after Flash Flood Warning",
+        "source": "WPTZ",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-11T03:59:00Z",
+        "url": "https://www.mynbc5.com/article/watch-massive-hole-found-in-hardwick-after-flash-flood-warning/71553376",
+        "mention_text": "Hardwick",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hardwick, Rock County, Minnesota, 56134, United States",
+        "osm_type": "administrative",
+        "osm_id": 137227,
+        "run_at": "2026-06-11T10:27:13.186207+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8590201,
+          45.709097
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wmtw.com/article/downpours-pose-flash-flood-risk-maine-and-newhampshire/71551036",
+        "title": "Downpours pose flash flood risk in parts of Maine",
+        "source": "WMTW",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-10T21:25:00Z",
+        "url": "https://www.wmtw.com/article/downpours-pose-flash-flood-risk-maine-and-newhampshire/71551036",
+        "mention_text": "Maine",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maine, United States",
+        "osm_type": "administrative",
+        "osm_id": 63512,
+        "run_at": "2026-06-11T10:27:13.186207+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.996047,
+          34.5802074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kob.com/new-mexico/new-mexico-heat-wave-continues-flash-flood-risk-rises-near-ruidoso-burn-scars/",
+        "title": "New Mexico heat wave continues; flash flood risk rises near Ruidoso burn scars",
+        "source": "KOB.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-11T05:16:18Z",
+        "url": "https://www.kob.com/new-mexico/new-mexico-heat-wave-continues-flash-flood-risk-rises-near-ruidoso-burn-scars/",
+        "mention_text": "New Mexico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 162014,
+        "run_at": "2026-06-11T10:27:13.186207+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.673099,
+          33.3315804
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kob.com/new-mexico/new-mexico-heat-wave-continues-flash-flood-risk-rises-near-ruidoso-burn-scars/",
+        "title": "New Mexico heat wave continues; flash flood risk rises near Ruidoso burn scars",
+        "source": "KOB.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-11T05:16:18Z",
+        "url": "https://www.kob.com/new-mexico/new-mexico-heat-wave-continues-flash-flood-risk-rises-near-ruidoso-burn-scars/",
+        "mention_text": "Ruidoso",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ruidoso, Lincoln County, New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 171220,
+        "run_at": "2026-06-11T10:27:13.186207+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7013751,
+          36.4135582
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316083559.html",
+        "title": "UPDATE: Flash flood warning affecting Surry County Wednesday night caused by thunderstorms",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-11T01:34:04Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316083559.html",
+        "mention_text": "Surry County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Surry County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528746,
+        "run_at": "2026-06-11T10:27:13.186207+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.907094,
+          38.4825192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kfvs12.com/video/2026/06/11/flash-floods-impact-scott-city/",
+        "title": "Flash flood's impact on Scott City",
+        "source": "KFVS12",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-11T03:38:44Z",
+        "url": "https://www.kfvs12.com/video/2026/06/11/flash-floods-impact-scott-city/",
+        "mention_text": "Scott City",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Scott City, Scott County, Kansas, 67871, United States",
+        "osm_type": "administrative",
+        "osm_id": 129938,
+        "run_at": "2026-06-11T10:27:13.186207+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1746933,
+          40.3270127
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whas11.com/article/weather/severe-weather/how-much-rain-indiana-kentucky-flash-flood-totals/417-b0db2171-582d-4c2d-b38d-9a2a7a6126ac",
+        "title": "How much did it rain in Indiana and Kentucky? | Flash flood totals",
+        "source": "WHAS11",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-10T13:24:00Z",
+        "url": "https://www.whas11.com/article/weather/severe-weather/how-much-rain-indiana-kentucky-flash-flood-totals/417-b0db2171-582d-4c2d-b38d-9a2a7a6126ac",
+        "mention_text": "Indiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Indiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 161816,
+        "run_at": "2026-06-11T10:27:13.186207+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1551411,
+          37.5726028
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whas11.com/article/weather/severe-weather/how-much-rain-indiana-kentucky-flash-flood-totals/417-b0db2171-582d-4c2d-b38d-9a2a7a6126ac",
+        "title": "How much did it rain in Indiana and Kentucky? | Flash flood totals",
+        "source": "WHAS11",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-10T13:24:00Z",
+        "url": "https://www.whas11.com/article/weather/severe-weather/how-much-rain-indiana-kentucky-flash-flood-totals/417-b0db2171-582d-4c2d-b38d-9a2a7a6126ac",
+        "mention_text": "Kentucky",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 161655,
+        "run_at": "2026-06-11T10:27:13.186207+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6012557,
+          35.8326703
+        ]
+      },
+      "properties": {
+        "article_id": "https://fox17.com/weather/flood-watch-in-effect-for-all-of-middle-tennessee-monday-1-to-3-inches-of-rain-expected",
+        "title": "Flood watch in effect for all of Middle Tennessee Monday \u2014 1 to 3 inches of rain expected",
+        "source": "WZTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-07T22:02:27Z",
+        "url": "https://fox17.com/weather/flood-watch-in-effect-for-all-of-middle-tennessee-monday-1-to-3-inches-of-rain-expected",
+        "mention_text": "Middle Tennessee",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Middle Tennessee, Tennessee, United States",
+        "osm_type": "administrative",
+        "osm_id": 13056869,
+        "run_at": "2026-06-11T10:27:13.186207+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.814958,
+          43.220622
+        ]
+      },
+      "properties": {
+        "article_id": "https://ca.news.yahoo.com/flash-flood-warning-wolcott-vermont-001609183.html",
+        "title": "Flash Flood Warning for Wolcott, Vermont area until 10:30 p.m.",
+        "source": "Yahoo News Canada",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-11T00:16:00Z",
+        "url": "https://ca.news.yahoo.com/flash-flood-warning-wolcott-vermont-001609183.html",
+        "mention_text": "Wolcott",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Village of Wolcott, Town of Wolcott, Wayne County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 176102,
+        "run_at": "2026-06-11T10:27:13.186207+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5002608,
+          44.5990718
+        ]
+      },
+      "properties": {
+        "article_id": "https://ca.news.yahoo.com/flash-flood-warning-wolcott-vermont-001609183.html",
+        "title": "Flash Flood Warning for Wolcott, Vermont area until 10:30 p.m.",
+        "source": "Yahoo News Canada",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-11T00:16:00Z",
+        "url": "https://ca.news.yahoo.com/flash-flood-warning-wolcott-vermont-001609183.html",
+        "mention_text": "Vermont",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Vermont, United States",
+        "osm_type": "administrative",
+        "osm_id": 60759,
+        "run_at": "2026-06-11T10:27:13.186207+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1137366,
+          32.3293809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wsbtv.com/news/local/heavy-rain-storms-with-risk-flooding-monday/SPLTBWJA7VDDNIWXGALE4DJJCI/",
+        "title": "Flash flood warning expires for north Georgia county",
+        "source": "WSB-TV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-09T00:48:00Z",
+        "url": "https://www.wsbtv.com/news/local/heavy-rain-storms-with-risk-flooding-monday/SPLTBWJA7VDDNIWXGALE4DJJCI/",
+        "mention_text": "Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 161957,
+        "run_at": "2026-06-11T10:27:13.186207+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3984882,
+          34.851354
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316079861.html",
+        "title": "Flood advisory affecting Greenville and Pickens counties until Wednesday evening",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-10T19:55:03Z",
+        "url": "https://www.thestate.com/news/weather-news/article316079861.html",
+        "mention_text": "Greenville",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Greenville, Greenville County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193989,
+        "run_at": "2026-06-11T10:27:13.186207+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3014412,
+          41.3334542
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whio.com/news/chance-storms-this-evening-then-it-gets-hot/MGH4I45IFRDHBGQI5QXD4GXD4E/",
+        "title": "Flood Advisory issued for Mercer County",
+        "source": "WHIO TV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-10T04:42:31Z",
+        "url": "https://www.whio.com/news/chance-storms-this-evening-then-it-gets-hot/MGH4I45IFRDHBGQI5QXD4GXD4E/",
+        "mention_text": "Mercer County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Mercer County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 416694,
+        "run_at": "2026-06-11T10:27:13.186207+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9955954,
+          34.937029
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316059210.html",
+        "title": "UPDATE: Flood advisory in place for Spartanburg County Tuesday afternoon",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-09T16:55:05Z",
+        "url": "https://www.thestate.com/news/weather-news/article316059210.html",
+        "mention_text": "Spartanburg County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Spartanburg County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1357015,
+        "run_at": "2026-06-11T10:27:13.186207+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2411283,
+          40.08067
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article315947238.html",
+        "title": "UPDATE: Flood advisory active for Lancaster County until Saturday evening",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-30T19:18:07Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article315947238.html",
+        "mention_text": "Lancaster County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Lancaster County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417768,
+        "run_at": "2026-06-11T10:27:13.186207+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0958187,
+          34.9705848
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article315947645.html",
+        "title": "UPDATE: Flood advisory issued for Anson County Saturday afternoon, says the NWS",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-30T15:51:05Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article315947645.html",
+        "mention_text": "Anson County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Anson County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528672,
+        "run_at": "2026-06-11T10:27:13.186207+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6418883,
+          39.7886111
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article315950843.html",
+        "title": "UPDATE: Flood advisory in place for Fairfield and Richland counties Saturday evening",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-30T23:51:05Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article315950843.html",
+        "mention_text": "Fairfield",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Fairfield County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 178391,
+        "run_at": "2026-06-11T10:27:13.186207+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0949352,
+          38.7060457
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article315950843.html",
+        "title": "UPDATE: Flood advisory in place for Fairfield and Richland counties Saturday evening",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-30T23:51:05Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article315950843.html",
+        "mention_text": "Richland",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Richland County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1801535,
+        "run_at": "2026-06-11T10:27:13.186207+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0482171,
+          35.6608869
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article315912963.html",
+        "title": "McDowell County under a flood advisory Wednesday evening due to substantial rainfall",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-27T20:50:04Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article315912963.html",
+        "mention_text": "McDowell County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "McDowell County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528721,
+        "run_at": "2026-06-11T10:27:13.186207+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.159631,
+          34.0005083
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theolympian.com/news/weather-news/article315931945.html",
+        "title": "Flood advisory issued for Eastern Washington Thursday night caused by prolonged rainfall",
+        "source": "The Olympian",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-28T07:00:00Z",
+        "url": "https://www.theolympian.com/news/weather-news/article315931945.html",
+        "mention_text": "Eastern Washington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Eastern / Washington, South Eastern Avenue, Commerce, Los Angeles County, California, 90040, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 8285354334,
+        "run_at": "2026-06-11T10:27:13.186207+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article315896639.html",
+        "title": "The Piedmont region placed under a flood advisory until Tuesday evening",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-26T19:17:05Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article315896639.html",
+        "mention_text": "Piedmont",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-06-11T10:27:13.186207+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9438572,
+          34.3609331
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article315869688.html",
+        "title": "UPDATE: The current flood advisory for Darlington and Florence counties will expire at 9:30 p.m.",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-24T01:49:05Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article315869688.html",
+        "mention_text": "Darlington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Darlington County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532503,
+        "run_at": "2026-06-11T10:27:13.186207+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-06-10T10:04:26.187265+00:00",
-    "total_features": 1439
+    "last_updated": "2026-06-11T10:27:13.193816+00:00",
+    "total_features": 1463
   }
 }
