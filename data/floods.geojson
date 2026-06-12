@@ -38038,11 +38038,583 @@
         "osm_id": 2532503,
         "run_at": "2026-06-11T10:27:13.186207+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5002608,
+          44.5990718
+        ]
+      },
+      "properties": {
+        "article_id": "https://vtdigger.org/2026/06/11/vermonts-flash-flood-season-opens-with-washed-out-roads-and-a-heat-advisory-right-behind-it/",
+        "title": "Vermont's flash flood season opens with washed-out roads \u2014 and a heat advisory right behind it",
+        "source": "VTDigger",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-11T21:30:53Z",
+        "url": "https://vtdigger.org/2026/06/11/vermonts-flash-flood-season-opens-with-washed-out-roads-and-a-heat-advisory-right-behind-it/",
+        "mention_text": "Vermont",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Vermont, United States",
+        "osm_type": "administrative",
+        "osm_id": 60759,
+        "run_at": "2026-06-12T10:14:47.059484+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.280075,
+          43.411391
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/intense-severe-storms-flash-flood-risk-midwest-cities-chicago-kalshi",
+        "title": "Intense severe storms increase flash flood risk across major Midwest cities following destructive derecho",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-11T19:43:00Z",
+        "url": "https://www.foxweather.com/weather-news/intense-severe-storms-flash-flood-risk-midwest-cities-chicago-kalshi",
+        "mention_text": "Midwest",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Midwest, Natrona County, Wyoming, United States",
+        "osm_type": "administrative",
+        "osm_id": 252227,
+        "run_at": "2026-06-12T10:14:47.059484+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4493796,
+          43.7533414
+        ]
+      },
+      "properties": {
+        "article_id": "https://kfiz.com/flash-flood-watch-issued-for-fond-du-lac-county-2/",
+        "title": "Flash Flood Watch issued for Fond du Lac County",
+        "source": "KFIZ",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-11T19:46:15Z",
+        "url": "https://kfiz.com/flash-flood-watch-issued-for-fond-du-lac-county-2/",
+        "mention_text": "Fond du Lac County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Fond du Lac County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 270626,
+        "run_at": "2026-06-12T10:14:47.059484+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5176418,
+          37.304731
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.southeastarrow.com/news/flash-flood-in-cape-girardeau-causes-17-million-in-damage-to-cape-police-department-ba29b165",
+        "title": "Flash flood in Cape Girardeau causes $1.7 million in damage to Cape Police Department",
+        "source": "southeastarrow.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-11T16:29:22Z",
+        "url": "https://www.southeastarrow.com/news/flash-flood-in-cape-girardeau-causes-17-million-in-damage-to-cape-police-department-ba29b165",
+        "mention_text": "Cape Girardeau",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Cape Girardeau, Cape Girardeau County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 141443,
+        "run_at": "2026-06-12T10:14:47.059484+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2175889,
+          29.9665252
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/hurricane/gulf-bears-watching-for-tropical-activity-with-flash-flood-risk-from-texas-to-florida/1900948",
+        "title": "Gulf bears watching for tropical activity with flash flood risk from Texas to Florida",
+        "source": "AccuWeather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-11T18:03:36Z",
+        "url": "https://www.accuweather.com/en/hurricane/gulf-bears-watching-for-tropical-activity-with-flash-flood-risk-from-texas-to-florida/1900948",
+        "mention_text": "Gulf",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Gulf County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210694,
+        "run_at": "2026-06-12T10:14:47.059484+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/hurricane/gulf-bears-watching-for-tropical-activity-with-flash-flood-risk-from-texas-to-florida/1900948",
+        "title": "Gulf bears watching for tropical activity with flash flood risk from Texas to Florida",
+        "source": "AccuWeather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-11T18:03:36Z",
+        "url": "https://www.accuweather.com/en/hurricane/gulf-bears-watching-for-tropical-activity-with-flash-flood-risk-from-texas-to-florida/1900948",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-06-12T10:14:47.059484+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/hurricane/gulf-bears-watching-for-tropical-activity-with-flash-flood-risk-from-texas-to-florida/1900948",
+        "title": "Gulf bears watching for tropical activity with flash flood risk from Texas to Florida",
+        "source": "AccuWeather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-11T18:03:36Z",
+        "url": "https://www.accuweather.com/en/hurricane/gulf-bears-watching-for-tropical-activity-with-flash-flood-risk-from-texas-to-florida/1900948",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-06-12T10:14:47.059484+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6553992,
+          43.4849133
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newscentermaine.com/video/news/regional/new-hampshire/new-hampshire-flash-flood-damage/97-3f4f5473-7814-47bd-aae8-c941711f88c3",
+        "title": "New Hampshire flash flood damage",
+        "source": "newscentermaine.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-11T21:21:00Z",
+        "url": "https://www.newscentermaine.com/video/news/regional/new-hampshire/new-hampshire-flash-flood-damage/97-3f4f5473-7814-47bd-aae8-c941711f88c3",
+        "mention_text": "New Hampshire",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Hampshire, United States",
+        "osm_type": "administrative",
+        "osm_id": 67213,
+        "run_at": "2026-06-12T10:14:47.059484+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6276904,
+          47.8012197
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bellinghamherald.com/news/weather-news/article316063184.html",
+        "title": "Flood warning issued for Chelan County until further notice, says the NWS",
+        "source": "Bellingham Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-09T18:06:04Z",
+        "url": "https://www.bellinghamherald.com/news/weather-news/article316063184.html",
+        "mention_text": "Chelan County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Chelan County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153517,
+        "run_at": "2026-06-12T10:14:47.059484+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5970308,
+          35.4804633
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316097534.html",
+        "title": "Eastern North Carolina placed under a flood advisory until Thursday night",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-11T22:39:03Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316097534.html",
+        "mention_text": "Eastern North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Eastern Correctional Institution, 2821, NC 903, Maury, Greene County, North Carolina, 28554, United States",
+        "osm_type": "prison",
+        "osm_id": 1353026405,
+        "run_at": "2026-06-12T10:14:47.059484+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7276989,
+          39.962493
+        ]
+      },
+      "properties": {
+        "article_id": "https://kgfw.com/2026/06/11/flood-advisory-issued-for-hamilton-york-counties-until-noon/",
+        "title": "Flood Advisory issued for Hamilton, York counties until noon",
+        "source": "1340 KGFW",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-11T15:13:05Z",
+        "url": "https://kgfw.com/2026/06/11/flood-advisory-issued-for-hamilton-york-counties-until-noon/",
+        "mention_text": "York",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "York, York County, Pennsylvania, 17401, United States",
+        "osm_type": "administrative",
+        "osm_id": 187708,
+        "run_at": "2026-06-12T10:14:47.059484+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercedsunstar.com/news/weather-news/article316070861.html",
+        "title": "UPDATE: North Bay Interior Valleys under a coastal flood advisory until Friday evening",
+        "source": "Merced Sun-Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-10T21:07:02Z",
+        "url": "https://www.mercedsunstar.com/news/weather-news/article316070861.html",
+        "mention_text": "North Bay",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-06-12T10:14:47.059484+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0482171,
+          35.6608869
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316080512.html",
+        "title": "Flood advisory in place for McDowell County until Wednesday evening caused by heavy rain",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-10T20:36:01Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316080512.html",
+        "mention_text": "McDowell County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "McDowell County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528721,
+        "run_at": "2026-06-12T10:14:47.059484+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0482171,
+          35.6608869
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316058799.html",
+        "title": "UPDATE: Flood advisory affecting McDowell County Tuesday midday",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-09T15:36:04Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316058799.html",
+        "mention_text": "McDowell County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "McDowell County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528721,
+        "run_at": "2026-06-12T10:14:47.059484+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7724889,
+          35.1982216
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article315888347.html",
+        "title": "UPDATE: Flood advisory in place for Henderson and Transylvania counties until Wednesday evening",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-26T03:13:00Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article315888347.html",
+        "mention_text": "Transylvania",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Transylvania County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528748,
+        "run_at": "2026-06-12T10:14:47.059484+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2411283,
+          40.08067
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article315947238.html",
+        "title": "UPDATE: Flood advisory active for Lancaster County until Saturday evening",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-30T19:18:07Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article315947238.html",
+        "mention_text": "Lancaster County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Lancaster County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417768,
+        "run_at": "2026-06-12T10:14:47.059484+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.159631,
+          34.0005083
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thenewstribune.com/news/weather-news/article315931945.html",
+        "title": "Flood advisory issued for Eastern Washington Thursday night caused by prolonged rainfall",
+        "source": "Tacoma News Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-28T07:00:00Z",
+        "url": "https://www.thenewstribune.com/news/weather-news/article315931945.html",
+        "mention_text": "Eastern Washington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Eastern / Washington, South Eastern Avenue, Commerce, Los Angeles County, California, 90040, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 8285354334,
+        "run_at": "2026-06-12T10:14:47.059484+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6418883,
+          39.7886111
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article315950843.html",
+        "title": "UPDATE: Flood advisory in place for Fairfield and Richland counties Saturday evening",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-30T23:51:05Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article315950843.html",
+        "mention_text": "Fairfield",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Fairfield County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 178391,
+        "run_at": "2026-06-12T10:14:47.059484+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0949352,
+          38.7060457
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article315950843.html",
+        "title": "UPDATE: Flood advisory in place for Fairfield and Richland counties Saturday evening",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-30T23:51:05Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article315950843.html",
+        "mention_text": "Richland",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Richland County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1801535,
+        "run_at": "2026-06-12T10:14:47.059484+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6182086,
+          33.5723191
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article315901674.html",
+        "title": "UPDATE: Flood advisory for Aiken County until early Wednesday, says the NWS",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-27T01:47:00Z",
+        "url": "https://www.thestate.com/news/weather-news/article315901674.html",
+        "mention_text": "Aiken County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Aiken County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532496,
+        "run_at": "2026-06-12T10:14:47.059484+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.000884,
+          30.7485258
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article315913466.html",
+        "title": "Jasper County under a flood advisory until Wednesday evening due to persistent downpours",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-27T20:59:41Z",
+        "url": "https://www.thestate.com/news/weather-news/article315913466.html",
+        "mention_text": "Jasper County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Jasper County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1840994,
+        "run_at": "2026-06-12T10:14:47.059484+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7724889,
+          35.1982216
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article315888309.html",
+        "title": "UPDATE: Flood advisory for Transylvania County predicted to expire at 1:45 a.m.",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-27T07:00:00Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article315888309.html",
+        "mention_text": "Transylvania County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Transylvania County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528748,
+        "run_at": "2026-06-12T10:14:47.059484+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-06-11T10:27:13.193816+00:00",
-    "total_features": 1463
+    "last_updated": "2026-06-12T10:14:47.067073+00:00",
+    "total_features": 1485
   }
 }
