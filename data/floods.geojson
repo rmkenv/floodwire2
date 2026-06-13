@@ -38610,11 +38610,661 @@
         "osm_id": 2528748,
         "run_at": "2026-06-12T10:14:47.059484+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5617875,
+          38.7604815
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/videos/flash-flood-debris-piles-up-in-rivers-through-missouri/a185bf2d-2495-4943-8dae-a085b0ce2767",
+        "title": "Flash flood debris piles up in rivers through Missouri",
+        "source": "AccuWeather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-13T00:44:03Z",
+        "url": "https://www.accuweather.com/en/videos/flash-flood-debris-piles-up-in-rivers-through-missouri/a185bf2d-2495-4943-8dae-a085b0ce2767",
+        "mention_text": "Missouri",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 161638,
+        "run_at": "2026-06-13T09:02:20.368548+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8244232,
+          27.190253
+        ]
+      },
+      "properties": {
+        "article_id": "https://desotocountynews.com/desoto-county-news/flash-flood-warning-issued-for-desoto-county/",
+        "title": "Flash Flood Warning Issued for DeSoto County",
+        "source": "DeSoto County News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-12T21:12:22Z",
+        "url": "https://desotocountynews.com/desoto-county-news/flash-flood-warning-issued-for-desoto-county/",
+        "mention_text": "DeSoto County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "DeSoto County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210695,
+        "run_at": "2026-06-13T09:02:20.368548+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8590201,
+          45.709097
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newscentermaine.com/article/weather/flash-flood-watch-issued-parts-maine-new-hampshire-friday-night/97-f42b746f-22cb-4d25-afb4-938110411759",
+        "title": "Flood watch issued for parts of Maine and New Hampshire Friday night",
+        "source": "newscentermaine.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-12T18:36:00Z",
+        "url": "https://www.newscentermaine.com/article/weather/flash-flood-watch-issued-parts-maine-new-hampshire-friday-night/97-f42b746f-22cb-4d25-afb4-938110411759",
+        "mention_text": "Maine",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Maine, United States",
+        "osm_type": "administrative",
+        "osm_id": 63512,
+        "run_at": "2026-06-13T09:02:20.368548+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6553992,
+          43.4849133
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newscentermaine.com/article/weather/flash-flood-watch-issued-parts-maine-new-hampshire-friday-night/97-f42b746f-22cb-4d25-afb4-938110411759",
+        "title": "Flood watch issued for parts of Maine and New Hampshire Friday night",
+        "source": "newscentermaine.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-12T18:36:00Z",
+        "url": "https://www.newscentermaine.com/article/weather/flash-flood-watch-issued-parts-maine-new-hampshire-friday-night/97-f42b746f-22cb-4d25-afb4-938110411759",
+        "mention_text": "New Hampshire",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "New Hampshire, United States",
+        "osm_type": "administrative",
+        "osm_id": 67213,
+        "run_at": "2026-06-13T09:02:20.368548+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5617875,
+          38.7604815
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/flash-flood-debris-piles-rivers-003121965.html",
+        "title": "Flash flood debris piles up in rivers through Missouri",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-13T00:31:00Z",
+        "url": "https://www.yahoo.com/news/videos/flash-flood-debris-piles-rivers-003121965.html",
+        "mention_text": "Missouri",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 161638,
+        "run_at": "2026-06-13T09:02:20.368548+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8590201,
+          45.709097
+        ]
+      },
+      "properties": {
+        "article_id": "https://wgme.com/news/local/repeated-rounds-of-rain-expected-prompts-flash-flood-watch-for-northern-maine",
+        "title": "Repeated rounds of rain expected prompts flash flood watch for northern Maine",
+        "source": "WGME",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-12T15:05:39Z",
+        "url": "https://wgme.com/news/local/repeated-rounds-of-rain-expected-prompts-flash-flood-watch-for-northern-maine",
+        "mention_text": "Maine",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maine, United States",
+        "osm_type": "administrative",
+        "osm_id": 63512,
+        "run_at": "2026-06-13T09:02:20.368548+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.0100258,
+          41.683432
+        ]
+      },
+      "properties": {
+        "article_id": "https://central.newschannelnebraska.com/story/302212395/flash-flood-hits-morrill-county",
+        "title": "Flash flood hits Morrill County",
+        "source": "Central - News Channel Nebraska",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-12T17:26:50Z",
+        "url": "https://central.newschannelnebraska.com/story/302212395/flash-flood-hits-morrill-county",
+        "mention_text": "Morrill County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Morrill County, Nebraska, United States",
+        "osm_type": "administrative",
+        "osm_id": 1425449,
+        "run_at": "2026-06-13T09:02:20.368548+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3876493,
+          41.9057542
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kciiradio.com/2026/06/12/turn-around-dont-drown-flood-warning-issued-for-english-and-iowa-river/",
+        "title": "Turn Around, Don\u2019t Drown \u2013 Flood Warning Issued for English and Iowa River",
+        "source": "KCII Radio",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-12T11:26:38Z",
+        "url": "https://www.kciiradio.com/2026/06/12/turn-around-dont-drown-flood-warning-issued-for-english-and-iowa-river/",
+        "mention_text": "Iowa River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Iowa River, United States",
+        "osm_type": "river",
+        "osm_id": 10020616,
+        "run_at": "2026-06-13T09:02:20.368548+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4549969,
+          26.1571313
+        ]
+      },
+      "properties": {
+        "article_id": "https://fathomjournal.org/f2b1c95a/90308619J6kD9SYTrZU",
+        "title": "Flash Flood Warning In Broward, Miami-Dade As Heavy Rain Continues Swinney (OPPmNuATpQ)",
+        "source": "Fathom Journal",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-12T21:25:30Z",
+        "url": "https://fathomjournal.org/f2b1c95a/90308619J6kD9SYTrZU",
+        "mention_text": "Broward",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Broward County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210714,
+        "run_at": "2026-06-13T09:02:20.368548+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4989467,
+          25.6364246
+        ]
+      },
+      "properties": {
+        "article_id": "https://fathomjournal.org/f2b1c95a/90308619J6kD9SYTrZU",
+        "title": "Flash Flood Warning In Broward, Miami-Dade As Heavy Rain Continues Swinney (OPPmNuATpQ)",
+        "source": "Fathom Journal",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-12T21:25:30Z",
+        "url": "https://fathomjournal.org/f2b1c95a/90308619J6kD9SYTrZU",
+        "mention_text": "Miami-Dade",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Miami-Dade County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210692,
+        "run_at": "2026-06-13T09:02:20.368548+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2175889,
+          29.9665252
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/gulf-bears-watching-tropical-activity-175413265.html",
+        "title": "Gulf bears watching for tropical activity with flash flood risk from Texas to Florida",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-11T17:54:13Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/gulf-bears-watching-tropical-activity-175413265.html",
+        "mention_text": "Gulf",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Gulf County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210694,
+        "run_at": "2026-06-13T09:02:20.368548+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/gulf-bears-watching-tropical-activity-175413265.html",
+        "title": "Gulf bears watching for tropical activity with flash flood risk from Texas to Florida",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-11T17:54:13Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/gulf-bears-watching-tropical-activity-175413265.html",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-06-13T09:02:20.368548+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/gulf-bears-watching-tropical-activity-175413265.html",
+        "title": "Gulf bears watching for tropical activity with flash flood risk from Texas to Florida",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-11T17:54:13Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/gulf-bears-watching-tropical-activity-175413265.html",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-06-13T09:02:20.368548+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4309337,
+          37.7867337
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/06/12/coastal-flood-advisory-affecting-northern-california-from-saturday-to-tuesday/amp/",
+        "title": "Coastal flood advisory affecting Northern California from Saturday to Tuesday",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-12T19:01:23Z",
+        "url": "https://www.eastbaytimes.com/2026/06/12/coastal-flood-advisory-affecting-northern-california-from-saturday-to-tuesday/amp/",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Japanese Cultural and Community Center of Northern California, 1840, Sutter Street, Japantown, Western Addition, San Francisco, California, 95115, United States",
+        "osm_type": "community_centre",
+        "osm_id": 257974849,
+        "run_at": "2026-06-13T09:02:20.368548+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4309337,
+          37.7867337
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article316108132.html",
+        "title": "UPDATE: Coastal flood advisory in place for Northern California from Saturday to Tuesday",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-13T02:54:01Z",
+        "url": "https://www.modbee.com/news/weather-news/article316108132.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Japanese Cultural and Community Center of Northern California, 1840, Sutter Street, Japantown, Western Addition, San Francisco, California, 95115, United States",
+        "osm_type": "community_centre",
+        "osm_id": 257974849,
+        "run_at": "2026-06-13T09:02:20.368548+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1413417,
+          33.1838787
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dallasnews.com/news/weather/article/flood-advisory-issued-denton-county-others-friday-22303056.php",
+        "title": "Flood advisory issued for Denton County, others Friday",
+        "source": "Dallas News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-12T19:11:59Z",
+        "url": "https://www.dallasnews.com/news/weather/article/flood-advisory-issued-denton-county-others-friday-22303056.php",
+        "mention_text": "Denton County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Denton County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837621,
+        "run_at": "2026-06-13T09:02:20.368548+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4309337,
+          37.7867337
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/06/12/coastal-flood-advisory-affecting-northern-california-from-saturday-to-tuesday/",
+        "title": "Coastal flood advisory affecting Northern California from Saturday to Tuesday",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-12T19:01:23Z",
+        "url": "https://www.eastbaytimes.com/2026/06/12/coastal-flood-advisory-affecting-northern-california-from-saturday-to-tuesday/",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Japanese Cultural and Community Center of Northern California, 1840, Sutter Street, Japantown, Western Addition, San Francisco, California, 95115, United States",
+        "osm_type": "community_centre",
+        "osm_id": 257974849,
+        "run_at": "2026-06-13T09:02:20.368548+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8303536,
+          26.1488926
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article316107685.html",
+        "title": "UPDATE: Flood advisory affecting North Texas Friday afternoon, says the NWS",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-06-12T18:39:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article316107685.html",
+        "mention_text": "North Texas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Texas, North La Feria Village Colonia, La Feria, Cameron County, Texas, 78559, United States",
+        "osm_type": "residential",
+        "osm_id": 20771906,
+        "run_at": "2026-06-13T09:02:20.368548+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article316070861.html",
+        "title": "UPDATE: North Bay Interior Valleys under a coastal flood advisory until 3 a.m. Wednesday",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-12T04:04:02Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article316070861.html",
+        "mention_text": "North Bay",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-06-13T09:02:20.368548+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5970308,
+          35.4804633
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316097534.html",
+        "title": "Eastern North Carolina placed under a flood advisory until Thursday night",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-11T22:39:03Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316097534.html",
+        "mention_text": "Eastern North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Eastern Correctional Institution, 2821, NC 903, Maury, Greene County, North Carolina, 28554, United States",
+        "osm_type": "prison",
+        "osm_id": 1353026405,
+        "run_at": "2026-06-13T09:02:20.368548+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/06/09/coastal-flood-advisory-issued-for-north-bay-interior-valleys-from-wednesday-to-saturday/",
+        "title": "Coastal flood advisory issued for North Bay Interior Valleys from Wednesday to Saturday",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-10T06:13:17Z",
+        "url": "https://www.eastbaytimes.com/2026/06/09/coastal-flood-advisory-issued-for-north-bay-interior-valleys-from-wednesday-to-saturday/",
+        "mention_text": "North Bay",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-06-13T09:02:20.368548+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1791849,
+          31.8390826
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article315887196.html",
+        "title": "Flood advisory for Cherokee County until Monday night caused by prolonged rainfall",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T07:00:00Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article315887196.html",
+        "mention_text": "Cherokee County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cherokee County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839605,
+        "run_at": "2026-06-13T09:02:20.368548+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2123296,
+          33.6856157
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article315887568.html",
+        "title": "Flood advisory for Clay County until Monday night, says the NWS",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-25T07:00:00Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article315887568.html",
+        "mention_text": "Clay County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Clay County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836929,
+        "run_at": "2026-06-13T09:02:20.368548+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/05/15/coastal-flood-advisory-active-for-north-bay-interior-valleys-from-saturday-to-tuesday/",
+        "title": "Coastal flood advisory active for North Bay Interior Valleys from Saturday to Tuesday",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-15T07:00:00Z",
+        "url": "https://www.eastbaytimes.com/2026/05/15/coastal-flood-advisory-active-for-north-bay-interior-valleys-from-saturday-to-tuesday/",
+        "mention_text": "North Bay",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-06-13T09:02:20.368548+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7348497,
+          32.9715285
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/woman-dies-vehicle-swept-away-152136115.html",
+        "title": "Woman dies after vehicle is swept away in Mississippi flash flood emergency",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-26T07:00:00Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/woman-dies-vehicle-swept-away-152136115.html",
+        "mention_text": "Mississippi",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 161943,
+        "run_at": "2026-06-13T09:02:20.368548+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-06-12T10:14:47.067073+00:00",
-    "total_features": 1485
+    "last_updated": "2026-06-13T09:02:20.376019+00:00",
+    "total_features": 1510
   }
 }
