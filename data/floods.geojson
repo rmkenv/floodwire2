@@ -39260,11 +39260,375 @@
         "osm_id": 161943,
         "run_at": "2026-06-13T09:02:20.368548+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1551404,
+          26.1748895
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.expressnews.com/san-antonio-weather/forecast/article/tropical-rain-gulf-storm-flood-texas-22303928.php",
+        "title": "As cold front nears, South Texas faces rising flash flood threat this week",
+        "source": "San Antonio Express-News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-14T09:16:20Z",
+        "url": "https://www.expressnews.com/san-antonio-weather/forecast/article/tropical-rain-gulf-storm-flood-texas-22303928.php",
+        "mention_text": "South Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South Texas, San Juan South Estates Colonia, San Juan, Hidalgo County, Texas, 78589, United States",
+        "osm_type": "residential",
+        "osm_id": 15287122,
+        "run_at": "2026-06-14T09:38:23.480395+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1746933,
+          40.3270127
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wlky.com/article/southern-indiana-cleanup-lanesville-flood/71579978",
+        "title": "Volunteers in southern Indiana work to clean up Lanesville following flash flood",
+        "source": "WLKY",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-14T03:34:00Z",
+        "url": "https://www.wlky.com/article/southern-indiana-cleanup-lanesville-flood/71579978",
+        "mention_text": "Indiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Indiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 161816,
+        "run_at": "2026-06-14T09:38:23.480395+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8408415,
+          38.4758406
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtrf.com/top-stories/top-west-virginia-officials-reflect-as-one-year-anniversary-of-flash-flood-approaches/",
+        "title": "Top West Virginia officials reflect as one year anniversary of flash flood approaches",
+        "source": "WTRF",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-11T22:37:29Z",
+        "url": "https://www.wtrf.com/top-stories/top-west-virginia-officials-reflect-as-one-year-anniversary-of-flash-flood-approaches/",
+        "mention_text": "West Virginia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "West Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 162068,
+        "run_at": "2026-06-14T09:38:23.480395+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5333603,
+          41.1457902
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wkyc.com/article/weather/weather-impact/heat-advisory-cleveland-weather-forecast-ashland-cuyahoga-huron-lorain-medina-nws/95-28f58288-022f-4aa6-9c7c-9a5935348a02",
+        "title": "Flash flood warning ends in Summit County following severe thunderstorms",
+        "source": "WKYC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-10T09:46:00Z",
+        "url": "https://www.wkyc.com/article/weather/weather-impact/heat-advisory-cleveland-weather-forecast-ashland-cuyahoga-huron-lorain-medina-nws/95-28f58288-022f-4aa6-9c7c-9a5935348a02",
+        "mention_text": "Summit County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Summit County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 911310,
+        "run_at": "2026-06-14T09:38:23.480395+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article316117706.html",
+        "title": "Coastal flood advisory issued for Coastal Colleton and Charleston County until Saturday night",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-13T20:57:04Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article316117706.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-06-14T09:38:23.480395+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0550731,
+          40.7381635
+        ]
+      },
+      "properties": {
+        "article_id": "https://patch.com/new-jersey/hoboken/flood-advisory-issued-hoboken-hudson-county-sunday-see-map-timing",
+        "title": "Flood Advisory Issued For Hoboken And Hudson County Sunday: See Map, Timing",
+        "source": "Patch",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-14T03:38:00Z",
+        "url": "https://patch.com/new-jersey/hoboken/flood-advisory-issued-hoboken-hudson-county-sunday-see-map-timing",
+        "mention_text": "Hudson County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hudson County, New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 957239,
+        "run_at": "2026-06-14T09:38:23.480395+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7276989,
+          39.962493
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.centralnebraskatoday.com/2026/06/11/flood-advisory-issued-for-hamilton-york-counties-until-noon/",
+        "title": "Flood Advisory issued for Hamilton, York counties until noon",
+        "source": "Central Nebraska Today",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-11T14:50:18Z",
+        "url": "https://www.centralnebraskatoday.com/2026/06/11/flood-advisory-issued-for-hamilton-york-counties-until-noon/",
+        "mention_text": "York",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "York, York County, Pennsylvania, 17401, United States",
+        "osm_type": "administrative",
+        "osm_id": 187708,
+        "run_at": "2026-06-14T09:38:23.480395+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2471338,
+          37.8709542
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article316064459.html",
+        "title": "Greenwood County under a flood advisory until Tuesday night, says the NWS",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-09T19:26:04Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article316064459.html",
+        "mention_text": "Greenwood County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Greenwood County, Kansas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1070369,
+        "run_at": "2026-06-14T09:38:23.480395+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.137227,
+          37.6233187
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/06/09/coastal-flood-advisory-in-place-for-san-francisco-bay-shoreline-and-san-francisco-county-from-thursday-to-saturday/",
+        "title": "Coastal flood advisory in place for San Francisco Bay Shoreline and San Francisco County from Thursday to Saturday",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-10T06:13:19Z",
+        "url": "https://www.mercurynews.com/2026/06/09/coastal-flood-advisory-in-place-for-san-francisco-bay-shoreline-and-san-francisco-county-from-thursday-to-saturday/",
+        "mention_text": "San Francisco Bay Shoreline",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hayward Shoreline Interpretive Center, San Francisco Bay Trail, Hayward, Alameda County, California, 94545, United States",
+        "osm_type": "museum",
+        "osm_id": 104588017,
+        "run_at": "2026-06-14T09:38:23.480395+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.8854639,
+          33.759478
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/06/09/coastal-flood-advisory-in-place-for-san-francisco-bay-shoreline-and-san-francisco-county-from-thursday-to-saturday/",
+        "title": "Coastal flood advisory in place for San Francisco Bay Shoreline and San Francisco County from Thursday to Saturday",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-10T06:13:19Z",
+        "url": "https://www.mercurynews.com/2026/06/09/coastal-flood-advisory-in-place-for-san-francisco-bay-shoreline-and-san-francisco-county-from-thursday-to-saturday/",
+        "mention_text": "San Francisco County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco, Catron County, New Mexico, United States",
+        "osm_type": "peak",
+        "osm_id": 11066998506,
+        "run_at": "2026-06-14T09:38:23.480395+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2899539,
+          36.8493695
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtkr.com/videos/sports/former-browns-running-back-rescued-from-flooded-road",
+        "title": "Former Browns running back rescued from flooded road",
+        "source": "WTKR",
+        "outlet_city": "Norfolk",
+        "outlet_region": "Virginia",
+        "published_at": "2026-06-13T03:09:50Z",
+        "url": "https://www.wtkr.com/videos/sports/former-browns-running-back-rescued-from-flooded-road",
+        "mention_text": "Norfolk",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Norfolk, Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 206672,
+        "run_at": "2026-06-14T09:38:23.480395+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7893178,
+          32.182598
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article315888347.html",
+        "title": "UPDATE: Flood advisory in place for Henderson and Transylvania counties until Wednesday evening",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-27T07:00:00Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article315888347.html",
+        "mention_text": "Henderson",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Henderson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839045,
+        "run_at": "2026-06-14T09:38:23.480395+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7724889,
+          35.1982216
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article315888347.html",
+        "title": "UPDATE: Flood advisory in place for Henderson and Transylvania counties until Wednesday evening",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-27T07:00:00Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article315888347.html",
+        "mention_text": "Transylvania",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Transylvania County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528748,
+        "run_at": "2026-06-14T09:38:23.480395+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.000884,
+          30.7485258
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article315913466.html",
+        "title": "Jasper County under a flood advisory until Wednesday evening due to persistent downpours",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-27T21:20:03Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article315913466.html",
+        "mention_text": "Jasper County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Jasper County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1840994,
+        "run_at": "2026-06-14T09:38:23.480395+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-06-13T09:02:20.376019+00:00",
-    "total_features": 1510
+    "last_updated": "2026-06-14T09:38:23.488274+00:00",
+    "total_features": 1524
   }
 }
