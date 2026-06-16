@@ -40794,11 +40794,1103 @@
         "osm_id": 1027985,
         "run_at": "2026-06-15T12:09:04.616364+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7561392,
+          30.2878569
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kvue.com/article/news/state/texas-news/texas-flood/emergency-alerts-flash-flood-warnings/269-39a249b3-6e73-4bc2-b83e-0513d02df651",
+        "title": "Travis County leaders stress importance of emergency alerts after overnight Flash Flood Warnings",
+        "source": "KVUE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T23:56:00Z",
+        "url": "https://www.kvue.com/article/news/state/texas-news/texas-flood/emergency-alerts-flash-flood-warnings/269-39a249b3-6e73-4bc2-b83e-0513d02df651",
+        "mention_text": "Travis County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Travis County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 91939,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7547964,
+          28.8782341
+        ]
+      },
+      "properties": {
+        "article_id": "https://news4sanantonio.com/news/local/river-flood-warning-issued-for-san-antonio-river-near-elmendorf",
+        "title": "River Flood Warning issued for San Antonio River, expected to rise above flood stage",
+        "source": "WOAI",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T03:04:57Z",
+        "url": "https://news4sanantonio.com/news/local/river-flood-warning-issued-for-san-antonio-river-near-elmendorf",
+        "mention_text": "San Antonio River",
+        "flood_type": "riverine",
+        "confidence": 0.9,
+        "osm_display": "San Antonio River, Texas, United States",
+        "osm_type": "river",
+        "osm_id": 7719215,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3676974,
+          29.7589382
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.houstonpublicmedia.org/articles/news/weather/2026/06/15/554550/weather-houston-flood-watch-rain/?amp=1",
+        "title": "\u2018Potential for life-threatening flooding\u2019: Houston area under flash flood warning as heavy rain falls",
+        "source": "Houston Public Media",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T17:27:47Z",
+        "url": "https://www.houstonpublicmedia.org/articles/news/weather/2026/06/15/554550/weather-houston-flood-watch-rain/?amp=1",
+        "mention_text": "Houston",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Houston, Harris County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 2688911,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4951405,
+          29.4246002
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.expressnews.com/news/education/article/summer-school-delayed-san-antonio-22305477.php",
+        "title": "Flash flood warning delays summer programs in San Antonio schools",
+        "source": "San Antonio Express-News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T18:09:10Z",
+        "url": "https://www.expressnews.com/news/education/article/summer-school-delayed-san-antonio-22305477.php",
+        "mention_text": "San Antonio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Antonio, Bexar County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 253556,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/US/17-million-flood-watch-texas-mississippi/story?id=133914566",
+        "title": "17 million under flood watch from Texas to Mississippi",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T10:39:21Z",
+        "url": "https://abcnews.com/US/17-million-flood-watch-texas-mississippi/story?id=133914566",
+        "mention_text": "Texas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7348497,
+          32.9715285
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/US/17-million-flood-watch-texas-mississippi/story?id=133914566",
+        "title": "17 million under flood watch from Texas to Mississippi",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T10:39:21Z",
+        "url": "https://abcnews.com/US/17-million-flood-watch-texas-mississippi/story?id=133914566",
+        "mention_text": "Mississippi",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 161943,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.007126,
+          30.8703881
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.shreveporttimes.com/story/news/local/2026/06/15/flash-flood-hits-northwest-louisiana/90563125007/",
+        "title": "Flash flood warning issued for northwest Louisiana",
+        "source": "Shreveport Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T22:54:00Z",
+        "url": "https://www.shreveporttimes.com/story/news/local/2026/06/15/flash-flood-hits-northwest-louisiana/90563125007/",
+        "mention_text": "Louisiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 224922,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.007126,
+          30.8703881
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.shreveporttimes.com/videos/news/local/2026/06/15/flash-flood-warning-issued-for-northwest-louisiana/90564180007/",
+        "title": "Flash flood warning issued for northwest Louisiana",
+        "source": "Shreveport Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T20:52:03Z",
+        "url": "https://www.shreveporttimes.com/videos/news/local/2026/06/15/flash-flood-warning-issued-for-northwest-louisiana/90564180007/",
+        "mention_text": "Louisiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 224922,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4951405,
+          29.4246002
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.expressnews.com/news/article/road-closures-rain-flash-flood-warning-22305533.php",
+        "title": "Flash flood risk shutters 40 streets. See San Antonio road closures here.",
+        "source": "San Antonio Express-News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T19:40:08Z",
+        "url": "https://www.expressnews.com/news/article/road-closures-rain-flash-flood-warning-22305533.php",
+        "mention_text": "San Antonio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Antonio, Bexar County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 253556,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.facebook.com/detroitfreepress/videos/heavy-rain-has-triggered-flash-flood-warnings-in-texas-as-rising-waters-flood-st/1662879061663535/",
+        "title": "Detroit Free Press. . Heavy rain has triggered flash flood warnings in Texas as rising waters flood streets and create potentially deadly driving conditions across.",
+        "source": "facebook.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T23:55:15Z",
+        "url": "https://www.facebook.com/detroitfreepress/videos/heavy-rain-has-triggered-flash-flood-warnings-in-texas-as-rising-waters-flood-st/1662879061663535/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7348497,
+          32.9715285
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.supertalk.fm/flash-flood-threat-issued-for-much-of-mississippi-as-heavy-rain-moves-in/",
+        "title": "Flash flood threat issued for much of Mississippi as heavy rain moves in",
+        "source": "SuperTalk Mississippi Media",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T18:07:12Z",
+        "url": "https://www.supertalk.fm/flash-flood-threat-issued-for-much-of-mississippi-as-heavy-rain-moves-in/",
+        "mention_text": "Mississippi",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 161943,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7348497,
+          32.9715285
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.clarionledger.com/story/weather/2026/06/15/flash-flooding-warning-in-mississippi-possible/90532094007/",
+        "title": "Flash flood possible in Mississippi weather forecast this week",
+        "source": "The Clarion-Ledger",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T15:30:19Z",
+        "url": "https://www.clarionledger.com/story/weather/2026/06/15/flash-flooding-warning-in-mississippi-possible/90532094007/",
+        "mention_text": "Mississippi",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 161943,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7906553,
+          32.051377
+        ]
+      },
+      "properties": {
+        "article_id": "https://thehendersonnews.com/2026/06/15/flash-flood-warning-issued-for-rusk-county-and-surrounding-areas/",
+        "title": "Flash Flood Warning issued for Rusk County and surrounding areas",
+        "source": "The Henderson News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T16:28:57Z",
+        "url": "https://thehendersonnews.com/2026/06/15/flash-flood-warning-issued-for-rusk-county-and-surrounding-areas/",
+        "mention_text": "Rusk County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Rusk County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839592,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.usatoday.com/videos/news/2026/06/15/flash-flood-warning-in-texas-as-streets-fill-with-water/90566139007/",
+        "title": "Floodwaters and flash flood warnings hit Texas",
+        "source": "USA Today",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T23:41:16Z",
+        "url": "https://www.usatoday.com/videos/news/2026/06/15/flash-flood-warning-in-texas-as-streets-fill-with-water/90566139007/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4951405,
+          29.4246002
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.expressnews.com/san-antonio-weather/article/power-outages-rain-storm-flash-flood-warning-22305478.php",
+        "title": "10,000 hit with power outages amid San Antonio flash flood warning",
+        "source": "San Antonio Express-News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T15:28:32Z",
+        "url": "https://www.expressnews.com/san-antonio-weather/article/power-outages-rain-storm-flash-flood-warning-22305478.php",
+        "mention_text": "San Antonio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Antonio, Bexar County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 253556,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://6amcity.com/web/tx/austin/city/central-texas-flash-flood-alley",
+        "title": "Why Central Texas is known as 'Flash Flood Alley'",
+        "source": "6AM City",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T15:43:26Z",
+        "url": "https://6amcity.com/web/tx/austin/city/central-texas-flash-flood-alley",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.216445,
+          26.3530256
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.krgv.com/news/monday-june-15-2026-flash-flood-warning-fo-hidalgo-county-extended-until-1-p-m-/",
+        "title": "WATCH LIVE: Flash flood warning for Hidalgo County in effect",
+        "source": "KRGV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T15:17:40Z",
+        "url": "https://www.krgv.com/news/monday-june-15-2026-flash-flood-warning-fo-hidalgo-county-extended-until-1-p-m-/",
+        "mention_text": "Hidalgo County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hidalgo County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1828367,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6763373,
+          35.0111473
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.krgv.com/news/watch-live-flash-flood-warning-for-hidalgo-county-in-effect/",
+        "title": "Flood watch in effect in the Rio Grande Valley",
+        "source": "KRGV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T01:40:48Z",
+        "url": "https://www.krgv.com/news/watch-live-flash-flood-warning-for-hidalgo-county-in-effect/",
+        "mention_text": "Rio Grande Valley",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Rio Grande, Kinney, South Valley, Bernalillo County, New Mexico, 87105, United States",
+        "osm_type": "river",
+        "osm_id": 551078330,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8085436,
+          31.4274044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kvue.com/video/news/local/flash-flood-warning-monday-austin-area-spicewood-springs-rain-northwest/269-b0458eff-151a-48bb-b482-2eb5bda86d36",
+        "title": "Flash flood warning issued Monday morning for parts of Central Texas",
+        "source": "KVUE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T13:36:00Z",
+        "url": "https://www.kvue.com/video/news/local/flash-flood-warning-monday-austin-area-spicewood-springs-rain-northwest/269-b0458eff-151a-48bb-b482-2eb5bda86d36",
+        "mention_text": "Central Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, Angelina County, Texas, 76969, United States",
+        "osm_type": "hamlet",
+        "osm_id": 151831870,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4951405,
+          29.4246002
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mysanantonio.com/news/weather/article/flood-warning-san-antonio-22305474.php",
+        "title": "Flood warning issued for San Antonio areas. Here's what we know",
+        "source": "MySA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T13:06:12Z",
+        "url": "https://www.mysanantonio.com/news/weather/article/flood-warning-san-antonio-22305474.php",
+        "mention_text": "San Antonio",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Antonio, Bexar County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 253556,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/blogs-webinars/life-threatening-flash-flood-risk-increasing-in-texas-and-louisiana-with-high-chance-of-tropical-rainstorm-development-in-the-western-gulf/1901880",
+        "title": "Life-threatening Flash Flood Risk Increasing in Texas and Louisiana with High Chance of Tropical Rainstorm Development in the Western Gulf",
+        "source": "AccuWeather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T18:49:54Z",
+        "url": "https://www.accuweather.com/en/blogs-webinars/life-threatening-flash-flood-risk-increasing-in-texas-and-louisiana-with-high-chance-of-tropical-rainstorm-development-in-the-western-gulf/1901880",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.007126,
+          30.8703881
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/blogs-webinars/life-threatening-flash-flood-risk-increasing-in-texas-and-louisiana-with-high-chance-of-tropical-rainstorm-development-in-the-western-gulf/1901880",
+        "title": "Life-threatening Flash Flood Risk Increasing in Texas and Louisiana with High Chance of Tropical Rainstorm Development in the Western Gulf",
+        "source": "AccuWeather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T18:49:54Z",
+        "url": "https://www.accuweather.com/en/blogs-webinars/life-threatening-flash-flood-risk-increasing-in-texas-and-louisiana-with-high-chance-of-tropical-rainstorm-development-in-the-western-gulf/1901880",
+        "mention_text": "Louisiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 224922,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6175031,
+          45.4693103
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox5atlanta.com/news/metro-atlanta-weather-tropical-rain-moves-georgia-bringing-flash-flood-risks",
+        "title": "Metro Atlanta weather: Tropical rain moves into Georgia bringing flash flood risks",
+        "source": "FOX 5 Atlanta",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T10:35:36Z",
+        "url": "https://www.fox5atlanta.com/news/metro-atlanta-weather-tropical-rain-moves-georgia-bringing-flash-flood-risks",
+        "mention_text": "Metro",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Metro, Multnomah County, Oregon, United States",
+        "osm_type": "special_district",
+        "osm_id": 11773800,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox5atlanta.com/news/metro-atlanta-weather-tropical-rain-moves-georgia-bringing-flash-flood-risks",
+        "title": "Metro Atlanta weather: Tropical rain moves into Georgia bringing flash flood risks",
+        "source": "FOX 5 Atlanta",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T10:35:36Z",
+        "url": "https://www.fox5atlanta.com/news/metro-atlanta-weather-tropical-rain-moves-georgia-bringing-flash-flood-risks",
+        "mention_text": "Atlanta",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1137366,
+          32.3293809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox5atlanta.com/news/metro-atlanta-weather-tropical-rain-moves-georgia-bringing-flash-flood-risks",
+        "title": "Metro Atlanta weather: Tropical rain moves into Georgia bringing flash flood risks",
+        "source": "FOX 5 Atlanta",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T10:35:36Z",
+        "url": "https://www.fox5atlanta.com/news/metro-atlanta-weather-tropical-rain-moves-georgia-bringing-flash-flood-risks",
+        "mention_text": "Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 161957,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article316139204.html",
+        "title": "Coastal flood advisory in place for Los Angeles until 2 a.m. Wednesday",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T20:55:03Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article316139204.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8419824,
+          34.0298253
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article316125410.html",
+        "title": "UPDATE: Coastal flood advisory in place for Malibu Coast until 2 a.m. Wednesday",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T20:56:05Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article316125410.html",
+        "mention_text": "Malibu Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Pacific Coast Highway, Trancas, Malibu, Los Angeles County, California, United States",
+        "osm_type": "trunk",
+        "osm_id": 74910492,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailynews.com/2026/06/15/coastal-flood-advisory-affecting-los-angeles-county-beaches-until-2-a-m-wednesday/",
+        "title": "Coastal flood advisory affecting Los Angeles County Beaches until 2 a.m. Wednesday",
+        "source": "Los Angeles Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T20:40:09Z",
+        "url": "https://www.dailynews.com/2026/06/15/coastal-flood-advisory-affecting-los-angeles-county-beaches-until-2-a-m-wednesday/",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article316139204.html",
+        "title": "Coastal flood advisory in place for Los Angeles until 2 a.m. Wednesday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T20:55:03Z",
+        "url": "https://www.sacbee.com/news/weather-news/article316139204.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7561392,
+          30.2878569
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbsaustin.com/news/local/driver-rescued-after-trying-to-cross-flooded-road-in-south-travis-county",
+        "title": "Driver rescued after trying to cross flooded road in south Travis County",
+        "source": "KEYE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T02:34:38Z",
+        "url": "https://cbsaustin.com/news/local/driver-rescued-after-trying-to-cross-flooded-road-in-south-travis-county",
+        "mention_text": "Travis County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Travis County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 91939,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7561392,
+          30.2878569
+        ]
+      },
+      "properties": {
+        "article_id": "https://news4sanantonio.com/news/local/driver-rescued-after-trying-to-cross-flooded-road-in-south-travis-county",
+        "title": "Driver rescued after trying to cross flooded road in south Travis County",
+        "source": "WOAI",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T19:07:35Z",
+        "url": "https://news4sanantonio.com/news/local/driver-rescued-after-trying-to-cross-flooded-road-in-south-travis-county",
+        "mention_text": "Travis County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Travis County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 91939,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article316125029.html",
+        "title": "Flood advisory in place for Myrtle Beach area and Georgetown County early Sunday evening",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-14T19:43:03Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article316125029.html",
+        "mention_text": "Myrtle Beach",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Myrtle Beach, Horry County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193842,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3343041,
+          33.4392245
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article316125029.html",
+        "title": "Flood advisory in place for Myrtle Beach area and Georgetown County early Sunday evening",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-14T19:43:03Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article316125029.html",
+        "mention_text": "Georgetown County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Georgetown County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532508,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article316124385.html",
+        "title": "Coastal flood advisory issued for Myrtle Beach area until Sunday night",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-14T18:39:03Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article316124385.html",
+        "mention_text": "Myrtle Beach",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Myrtle Beach, Horry County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193842,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.689423,
+          34.035591
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sgvtribune.com/2026/06/14/coastal-flood-advisory-for-malibu-until-2-a-m-tuesday/",
+        "title": "Coastal flood advisory for Malibu until 2 a.m. Tuesday",
+        "source": "San Gabriel Valley Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-14T21:40:55Z",
+        "url": "https://www.sgvtribune.com/2026/06/14/coastal-flood-advisory-for-malibu-until-2-a-m-tuesday/",
+        "mention_text": "Malibu",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Malibu, Los Angeles County, California, 90265, United States",
+        "osm_type": "administrative",
+        "osm_id": 3492156,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7436995,
+          30.2711286
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kxan.com/video/drivers-cross-flooded-road-in-austin-on-june-15-2026/11884026/",
+        "title": "Drivers cross flooded road in Austin on June 15, 2026",
+        "source": "KXAN Austin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T15:49:00Z",
+        "url": "https://www.kxan.com/video/drivers-cross-flooded-road-in-austin-on-june-15-2026/11884026/",
+        "mention_text": "Austin",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Austin, Travis County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 113314,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0482171,
+          35.6608869
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316080512.html",
+        "title": "Flood advisory in place for McDowell County until Wednesday evening caused by heavy rain",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-10T20:36:01Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316080512.html",
+        "mention_text": "McDowell County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "McDowell County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528721,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.137227,
+          37.6233187
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercedsunstar.com/news/weather-news/article316070863.html",
+        "title": "UPDATE: San Francisco Bay Shoreline and San Francisco County placed under a coastal flood advisory",
+        "source": "Merced Sun-Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-10T21:07:02Z",
+        "url": "https://www.mercedsunstar.com/news/weather-news/article316070863.html",
+        "mention_text": "San Francisco Bay Shoreline",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hayward Shoreline Interpretive Center, San Francisco Bay Trail, Hayward, Alameda County, California, 94545, United States",
+        "osm_type": "museum",
+        "osm_id": 104588017,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.8854639,
+          33.759478
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercedsunstar.com/news/weather-news/article316070863.html",
+        "title": "UPDATE: San Francisco Bay Shoreline and San Francisco County placed under a coastal flood advisory",
+        "source": "Merced Sun-Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-10T21:07:02Z",
+        "url": "https://www.mercedsunstar.com/news/weather-news/article316070863.html",
+        "mention_text": "San Francisco County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco, Catron County, New Mexico, United States",
+        "osm_type": "peak",
+        "osm_id": 11066998506,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3077942,
+          37.7140291
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercedsunstar.com/news/weather-news/article316070863.html",
+        "title": "UPDATE: San Francisco Bay Shoreline and San Francisco County placed under a coastal flood advisory",
+        "source": "Merced Sun-Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-10T21:07:02Z",
+        "url": "https://www.mercedsunstar.com/news/weather-news/article316070863.html",
+        "mention_text": "San Francisco Bay",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco Bay, San Mateo County, California, United States",
+        "osm_type": "bay",
+        "osm_id": 9451753,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article315958349.html",
+        "title": "Coastal flood advisory for Coastal Colleton and Charleston County until Sunday night",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-31T23:40:06Z",
+        "url": "https://www.thestate.com/news/weather-news/article315958349.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9955954,
+          34.937029
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article315898934.html",
+        "title": "UPDATE: The flood advisory for Spartanburg County is anticipated to expire at 8:15 p.m.",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-26T21:15:01Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article315898934.html",
+        "mention_text": "Spartanburg County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Spartanburg County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1357015,
+        "run_at": "2026-06-16T11:14:21.450222+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-06-15T12:09:04.624643+00:00",
-    "total_features": 1569
+    "last_updated": "2026-06-16T11:14:21.458594+00:00",
+    "total_features": 1611
   }
 }
