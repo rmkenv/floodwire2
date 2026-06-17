@@ -41886,11 +41886,1337 @@
         "osm_id": 1357015,
         "run_at": "2026-06-16T11:14:21.450222+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6541933,
+          30.881299
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wlbt.com/2026/06/16/central-mississippi-braces-significant-flash-flood-threat-through-thursday/",
+        "title": "Central Mississippi braces for a significant flash flood threat through Thursday",
+        "source": "WLBT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T23:14:00Z",
+        "url": "https://www.wlbt.com/2026/06/16/central-mississippi-braces-significant-flash-flood-threat-through-thursday/",
+        "mention_text": "Central Mississippi",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, George County, Mississippi, 39452, United States",
+        "osm_type": "hamlet",
+        "osm_id": 153540620,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6747372,
+          38.7877791
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/flash-flood-warnings-st-charles-jefferson-st-bernard-new-orleans/71606866",
+        "title": "Flash Flood Warning in effect for portions of St. Charles, Orleans, Jefferson,\ufeff and St. Bernard parishes",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T22:12:00Z",
+        "url": "https://www.wdsu.com/article/flash-flood-warnings-st-charles-jefferson-st-bernard-new-orleans/71606866",
+        "mention_text": "St. Charles",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Saint Charles County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180527,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6008692,
+          29.8217562
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/flash-flood-warnings-st-charles-jefferson-st-bernard-new-orleans/71606866",
+        "title": "Flash Flood Warning in effect for portions of St. Charles, Orleans, Jefferson,\ufeff and St. Bernard parishes",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T22:12:00Z",
+        "url": "https://www.wdsu.com/article/flash-flood-warnings-st-charles-jefferson-st-bernard-new-orleans/71606866",
+        "mention_text": "St. Bernard",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Saint Bernard Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836430,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8085436,
+          31.4274044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kxan.com/weather/nws-explains-differing-flash-flood-alerts-after-central-texas-storms/",
+        "title": "NWS explains differing flash flood alerts after Central Texas storms",
+        "source": "KXAN Austin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T20:13:29Z",
+        "url": "https://www.kxan.com/weather/nws-explains-differing-flash-flood-alerts-after-central-texas-storms/",
+        "mention_text": "Central Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, Angelina County, Texas, 76969, United States",
+        "osm_type": "hamlet",
+        "osm_id": 151831870,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox5atlanta.com/weather/metro-atlanta-tropical-trouble-south-texas-gulf-storm",
+        "title": "Atlanta weather: Tropical low brings flash flood risk to Georgia",
+        "source": "FOX 5 Atlanta",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T21:52:54Z",
+        "url": "https://www.fox5atlanta.com/weather/metro-atlanta-tropical-trouble-south-texas-gulf-storm",
+        "mention_text": "Atlanta",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1137366,
+          32.3293809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox5atlanta.com/weather/metro-atlanta-tropical-trouble-south-texas-gulf-storm",
+        "title": "Atlanta weather: Tropical low brings flash flood risk to Georgia",
+        "source": "FOX 5 Atlanta",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T21:52:54Z",
+        "url": "https://www.fox5atlanta.com/weather/metro-atlanta-tropical-trouble-south-texas-gulf-storm",
+        "mention_text": "Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 161957,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6175031,
+          45.4693103
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/video/weather/weather-impact-alert-flash-flood-warning-in-effect-for-much-of-the-metro-area/289-e668bd9b-785d-4011-81cc-5bf009a852fc",
+        "title": "Weather Impact Alert: Flash Flood warning in effect for much of the metro area",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T22:53:00Z",
+        "url": "https://www.wwltv.com/video/weather/weather-impact-alert-flash-flood-warning-in-effect-for-much-of-the-metro-area/289-e668bd9b-785d-4011-81cc-5bf009a852fc",
+        "mention_text": "metro",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Metro, Multnomah County, Oregon, United States",
+        "osm_type": "special_district",
+        "osm_id": 11773800,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox10phoenix.com/video/fmc-4j971tym44hxhy1x",
+        "title": "Flash flood warning and extreme heat hit Arizona",
+        "source": "FOX 10 Phoenix",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T23:42:33Z",
+        "url": "https://www.fox10phoenix.com/video/fmc-4j971tym44hxhy1x",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6747372,
+          38.7877791
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/flash-flood-warnings-in-effect-for-portions-of-tangipahoa-washington-parishes-pearl-river-county/71604010",
+        "title": "Flash Flood Warnings in effect for portions of St. Charles, Orleans, Jefferson,\ufeff and St. Bernard",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T22:05:00Z",
+        "url": "https://www.wdsu.com/article/flash-flood-warnings-in-effect-for-portions-of-tangipahoa-washington-parishes-pearl-river-county/71604010",
+        "mention_text": "St. Charles",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Saint Charles County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180527,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6008692,
+          29.8217562
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/flash-flood-warnings-in-effect-for-portions-of-tangipahoa-washington-parishes-pearl-river-county/71604010",
+        "title": "Flash Flood Warnings in effect for portions of St. Charles, Orleans, Jefferson,\ufeff and St. Bernard",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T22:05:00Z",
+        "url": "https://www.wdsu.com/article/flash-flood-warnings-in-effect-for-portions-of-tangipahoa-washington-parishes-pearl-river-county/71604010",
+        "mention_text": "St. Bernard",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Saint Bernard Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836430,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0733934,
+          29.9561422
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nola.com/news/crime_police/flash-flood-warning-issued-for-new-orleans-area-nws-says/article_c44ffbb5-326a-4ff7-a7e1-26977fad640f.html",
+        "title": "Flash flood warning issued for New Orleans area, NWS says",
+        "source": "NOLA.com",
+        "outlet_city": "New Orleans",
+        "outlet_region": "Louisiana",
+        "published_at": "2026-06-16T22:06:00Z",
+        "url": "https://www.nola.com/news/crime_police/flash-flood-warning-issued-for-new-orleans-area-nws-says/article_c44ffbb5-326a-4ff7-a7e1-26977fad640f.html",
+        "mention_text": "New Orleans",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Orleans, Orleans Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 131885,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2684063,
+          34.9550817
+        ]
+      },
+      "properties": {
+        "article_id": "https://okcfox.com/news/local/gov-stitt-deploys-two-oklahoma-swift-water-rescue-teams-to-aid-flood-response-in-texas",
+        "title": "Gov. Stitt deploys two Oklahoma swift water rescue teams to aid flood response in Texas",
+        "source": "KOKH",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T22:00:10Z",
+        "url": "https://okcfox.com/news/local/gov-stitt-deploys-two-oklahoma-swift-water-rescue-teams-to-aid-flood-response-in-texas",
+        "mention_text": "Oklahoma",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Oklahoma, United States",
+        "osm_type": "administrative",
+        "osm_id": 161645,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://okcfox.com/news/local/gov-stitt-deploys-two-oklahoma-swift-water-rescue-teams-to-aid-flood-response-in-texas",
+        "title": "Gov. Stitt deploys two Oklahoma swift water rescue teams to aid flood response in Texas",
+        "source": "KOKH",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T22:00:10Z",
+        "url": "https://okcfox.com/news/local/gov-stitt-deploys-two-oklahoma-swift-water-rescue-teams-to-aid-flood-response-in-texas",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2684063,
+          34.9550817
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newson6.com/tulsa-oklahoma-news/oklahoma-task-force-1-deploys-swiftwater-rescue-teams-to-texas-for-flood-response",
+        "title": "Oklahoma swift water rescue teams deploy to Texas flood response",
+        "source": "News On 6",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T20:02:08Z",
+        "url": "https://www.newson6.com/tulsa-oklahoma-news/oklahoma-task-force-1-deploys-swiftwater-rescue-teams-to-texas-for-flood-response",
+        "mention_text": "Oklahoma",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Oklahoma, United States",
+        "osm_type": "administrative",
+        "osm_id": 161645,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newson6.com/tulsa-oklahoma-news/oklahoma-task-force-1-deploys-swiftwater-rescue-teams-to-texas-for-flood-response",
+        "title": "Oklahoma swift water rescue teams deploy to Texas flood response",
+        "source": "News On 6",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T20:02:08Z",
+        "url": "https://www.newson6.com/tulsa-oklahoma-news/oklahoma-task-force-1-deploys-swiftwater-rescue-teams-to-texas-for-flood-response",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4498295,
+          31.3082622
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nola.com/news/hurricane/rain-flash-flooding-timeline/article_86acdff9-6384-4df9-b189-5fc46e06abc9.html",
+        "title": "Rain from Gulf disturbance will drench Louisiana for days. When is greatest flash flood risk?",
+        "source": "NOLA.com",
+        "outlet_city": "New Orleans",
+        "outlet_region": "Louisiana",
+        "published_at": "2026-06-16T21:36:00Z",
+        "url": "https://www.nola.com/news/hurricane/rain-flash-flooding-timeline/article_86acdff9-6384-4df9-b189-5fc46e06abc9.html",
+        "mention_text": "Gulf",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Gulf, Alexandria, Rapides Parish, Louisiana, 71309, United States",
+        "osm_type": "residential",
+        "osm_id": 13419665,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1854129,
+          30.4062005
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nola.com/news/hurricane/rain-flash-flooding-timeline/article_86acdff9-6384-4df9-b189-5fc46e06abc9.html",
+        "title": "Rain from Gulf disturbance will drench Louisiana for days. When is greatest flash flood risk?",
+        "source": "NOLA.com",
+        "outlet_city": "New Orleans",
+        "outlet_region": "Louisiana",
+        "published_at": "2026-06-16T21:36:00Z",
+        "url": "https://www.nola.com/news/hurricane/rain-flash-flooding-timeline/article_86acdff9-6384-4df9-b189-5fc46e06abc9.html",
+        "mention_text": "Louisiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Louisiana State University, Aster Street, University Terrace, South Baton Rouge, Baton Rouge, East Baton Rouge Parish, Louisiana, 70803, United States",
+        "osm_type": "university",
+        "osm_id": 38501878,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/US/dangerous-flooding-ongoing-texas-flash-flood-risks-region/story?id=133880461",
+        "title": "Dangerous flooding ongoing in Texas, with flash flood risks across the region",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T10:42:41Z",
+        "url": "https://abcnews.com/US/dangerous-flooding-ongoing-texas-flash-flood-risks-region/story?id=133880461",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.007126,
+          30.8703881
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/weather-impact/flash-flood-warning-issued-for-parts-of-southeast-louisiana/289-62cbd0df-6fd2-4018-9786-04497c5f0593",
+        "title": "Heavy rain prompts Flash Flood Warnings, Flood Watch across southeast Louisiana",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T15:57:00Z",
+        "url": "https://www.wwltv.com/article/weather/weather-impact/flash-flood-warning-issued-for-parts-of-southeast-louisiana/289-62cbd0df-6fd2-4018-9786-04497c5f0593",
+        "mention_text": "Louisiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 224922,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3676974,
+          29.7589382
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.houstonchronicle.com/news/houston-weather/article/flash-flood-warning-montgomery-harris-county-22307949.php",
+        "title": "Flood warning for parts of Montgomery and Harris counties extended until 2:15 p.m. Tuesday",
+        "source": "Houston Chronicle",
+        "outlet_city": "Houston",
+        "outlet_region": "Texas",
+        "published_at": "2026-06-16T18:32:46Z",
+        "url": "https://www.houstonchronicle.com/news/houston-weather/article/flash-flood-warning-montgomery-harris-county-22307949.php",
+        "mention_text": "Houston",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Houston, Harris County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 2688911,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7477839,
+          32.5135356
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ktalnews.com/news/local-news/shreveport-flash-flooding-response-stranded-vehicles-flood-shreveport-shreveport-flooding-safety-tips/",
+        "title": "Flash flood in Shreveport strands 60+ vehicles, 25 crashes",
+        "source": "KTALnews.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T14:05:02Z",
+        "url": "https://www.ktalnews.com/news/local-news/shreveport-flash-flooding-response-stranded-vehicles-flood-shreveport-shreveport-flooding-safety-tips/",
+        "mention_text": "Shreveport",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Shreveport, Caddo Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 132139,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7477839,
+          32.5135356
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ktalnews.com/video/flash-flood-in-shreveport-strands-60-vehicles-25-crashes/11887350/",
+        "title": "Flash flood in Shreveport strands 60+ vehicles, 25 crashes",
+        "source": "KTALnews.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T14:00:30Z",
+        "url": "https://www.ktalnews.com/video/flash-flood-in-shreveport-strands-60-vehicles-25-crashes/11887350/",
+        "mention_text": "Shreveport",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Shreveport, Caddo Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 132139,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0202708,
+          38.8861076
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wbrz.com/news/soaking-rains-to-cause-flash-flood-threat-through-the-end-of-the-week/",
+        "title": "FLOOD WATCH: tropical moisture brings threat of heavy rain to Capital Area",
+        "source": "WBRZ",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T20:25:59Z",
+        "url": "https://www.wbrz.com/news/soaking-rains-to-cause-flash-flood-threat-through-the-end-of-the-week/",
+        "mention_text": "Capital Area",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Capital Gallery, 600, 6th Street Southwest, Southwest Employment Area, Southwest Waterfront, Capitol Hill, Ward 6, Washington, District of Columbia, 20202, United States",
+        "osm_type": "office",
+        "osm_id": 64651362,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article316125410.html",
+        "title": "UPDATE: Coastal flood advisory active for Malibu Coast and Los Angeles until 2 a.m. Wednesday",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T21:32:09Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article316125410.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316124370.html",
+        "title": "UPDATE: Coastal flood advisory issued for Myrtle Beach area and Coastal Georgetown",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T18:28:07Z",
+        "url": "https://www.thestate.com/news/weather-news/article316124370.html",
+        "mention_text": "Myrtle Beach",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Myrtle Beach, Horry County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193842,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3595655,
+          38.6898781
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316124370.html",
+        "title": "UPDATE: Coastal flood advisory issued for Myrtle Beach area and Coastal Georgetown",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T18:28:07Z",
+        "url": "https://www.thestate.com/news/weather-news/article316124370.html",
+        "mention_text": "Coastal Georgetown",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Delaware Coastal Airport, Georgetown-Lewes Trail, Harlemtown, Georgetown, Sussex County, Delaware, 19947, United States",
+        "osm_type": "aerodrome",
+        "osm_id": 726617667,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article316156629.html",
+        "title": "Coastal flood advisory affecting Coastal Colleton and Charleston County until early Wednesday",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-17T01:19:06Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article316156629.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.797738,
+          26.3011415
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/video/133915343/",
+        "title": "Video Flash flood emergency stretches across Gulf Coast",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T11:35:48Z",
+        "url": "https://abcnews.com/video/133915343/",
+        "mention_text": "Gulf Coast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Gulf Coast, Collier County, Florida, 34110, United States",
+        "osm_type": "residential",
+        "osm_id": 10852694,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0149931,
+          44.9285276
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316124362.html",
+        "title": "UPDATE: Coastal flood advisory for Southeast Coast Sunday night",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T00:36:02Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316124362.html",
+        "mention_text": "Southeast Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oregon Coast Highway, Taft, Lincoln City, Lincoln County, Oregon, 97367, United States",
+        "osm_type": "trunk",
+        "osm_id": 458933020,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7561392,
+          30.2878569
+        ]
+      },
+      "properties": {
+        "article_id": "https://news4sanantonio.com/news/instagram/driver-rescued-after-trying-to-cross-flooded-road-in-south-travis-county",
+        "title": "Driver rescued after trying to cross flooded road in south Travis County",
+        "source": "WOAI",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T19:07:35Z",
+        "url": "https://news4sanantonio.com/news/instagram/driver-rescued-after-trying-to-cross-flooded-road-in-south-travis-county",
+        "mention_text": "Travis County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Travis County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 91939,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4309337,
+          37.7867337
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article316108132.html",
+        "title": "UPDATE: Coastal flood advisory in place for Northern California from Saturday to Tuesday",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-13T02:54:01Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article316108132.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Japanese Cultural and Community Center of Northern California, 1840, Sutter Street, Japantown, Western Addition, San Francisco, California, 95115, United States",
+        "osm_type": "community_centre",
+        "osm_id": 257974849,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.7104651,
+          21.2863293
+        ]
+      },
+      "properties": {
+        "article_id": "https://bigislandnow.com/2026/03/21/flood-advisory-in-effect-for-portions-of-north-south-hilo-and-puna/",
+        "title": "UPDATE: Flood advisory canceled for portions of East Hawai\u2018i as radar shows rainfall, flood threat diminished",
+        "source": "Big Island Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-03-21T07:00:00Z",
+        "url": "https://bigislandnow.com/2026/03/21/flood-advisory-in-effect-for-portions-of-north-south-hilo-and-puna/",
+        "mention_text": "East Hawai\u2018i",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hawai\u2019i Kai, Marina Central, East Honolulu, Honolulu, Honolulu County, Hawaii, 96825, United States",
+        "osm_type": "neighbourhood",
+        "osm_id": 150919682,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4215686,
+          28.1668756
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.oregonlive.com/weather-alerts/2025/12/coastal-flood-advisory-affecting-coastal-range-until-early-thursday-evening.html",
+        "title": "Update: Coastal flood advisory affecting Coastal Range Friday",
+        "source": "OregonLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-18T08:00:00Z",
+        "url": "https://www.oregonlive.com/weather-alerts/2025/12/coastal-flood-advisory-affecting-coastal-range-until-early-thursday-evening.html",
+        "mention_text": "Coastal Range",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Coastal Range Way, Cullaro, Lutz, Hillsborough County, Florida, 33559, United States",
+        "osm_type": "residential",
+        "osm_id": 206558366,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/florida-lake-county-flash-flood-emergency",
+        "title": "Florida's Lake County swamped by more than 19 inches of rain in rare Flash Flood Emergency",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-10-27T07:00:00Z",
+        "url": "https://www.foxweather.com/weather-news/florida-lake-county-flash-flood-emergency",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7940003,
+          39.124636
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/florida-lake-county-flash-flood-emergency",
+        "title": "Florida's Lake County swamped by more than 19 inches of rain in rare Flash Flood Emergency",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-10-27T07:00:00Z",
+        "url": "https://www.foxweather.com/weather-news/florida-lake-county-flash-flood-emergency",
+        "mention_text": "Lake County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lake County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396502,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/central-southern-plains-flash-flooding-severe-storms-texas-oklahoma-arkansas-louisiana-missouri",
+        "title": "Torrential rain triggers Flash Flood Emergency in Texas Hill Country, Dallas sets rainfall record",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-11-21T08:00:00Z",
+        "url": "https://www.foxweather.com/weather-news/central-southern-plains-flash-flooding-severe-storms-texas-oklahoma-arkansas-louisiana-missouri",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7968559,
+          32.7762719
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/central-southern-plains-flash-flooding-severe-storms-texas-oklahoma-arkansas-louisiana-missouri",
+        "title": "Torrential rain triggers Flash Flood Emergency in Texas Hill Country, Dallas sets rainfall record",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-11-21T08:00:00Z",
+        "url": "https://www.foxweather.com/weather-news/central-southern-plains-flash-flooding-severe-storms-texas-oklahoma-arkansas-louisiana-missouri",
+        "mention_text": "Dallas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dallas, Dallas County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 6571629,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8601604,
+          37.1075975
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.1011now.com/2026/01/22/ice-jam-near-columbus-prompts-flood-advisory-two-counties/",
+        "title": "Ice jam near Columbus prompts flood advisory for two counties",
+        "source": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-01-22T08:00:00Z",
+        "url": "https://www.1011now.com/2026/01/22/ice-jam-near-columbus-prompts-flood-advisory-two-counties/",
+        "mention_text": "Ice",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ice, Letcher County, Kentucky, 41858, United States",
+        "osm_type": "hamlet",
+        "osm_id": 154011568,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0007065,
+          39.9622601
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.1011now.com/2026/01/22/ice-jam-near-columbus-prompts-flood-advisory-two-counties/",
+        "title": "Ice jam near Columbus prompts flood advisory for two counties",
+        "source": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-01-22T08:00:00Z",
+        "url": "https://www.1011now.com/2026/01/22/ice-jam-near-columbus-prompts-flood-advisory-two-counties/",
+        "mention_text": "Columbus",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Columbus, Sharon, Franklin County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 182706,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.493895,
+          38.5810606
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article312905170.html",
+        "title": "Rainstorm prompts flood advisory Sacramento area, 17 Northern California counties",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-11-13T08:00:00Z",
+        "url": "https://www.sacbee.com/news/weather-news/article312905170.html",
+        "mention_text": "Sacramento",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Sacramento, Sacramento County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 6232940,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4309337,
+          37.7867337
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article312905170.html",
+        "title": "Rainstorm prompts flood advisory Sacramento area, 17 Northern California counties",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-11-13T08:00:00Z",
+        "url": "https://www.sacbee.com/news/weather-news/article312905170.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Japanese Cultural and Community Center of Northern California, 1840, Sutter Street, Japantown, Western Addition, San Francisco, California, 95115, United States",
+        "osm_type": "community_centre",
+        "osm_id": 257974849,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/01/03/flood-advisory-affecting-north-bay-until-saturday-morning-triggered-by-intense-downpours/",
+        "title": "Flood advisory affecting North Bay until Saturday morning triggered by intense downpours",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-01-03T08:00:00Z",
+        "url": "https://www.mercurynews.com/2026/01/03/flood-advisory-affecting-north-bay-until-saturday-morning-triggered-by-intense-downpours/",
+        "mention_text": "North Bay",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0931028,
+          44.9497487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.usgs.gov/media/images/real-time-flood-impact-map-flooded-road-impact-location-st-paul-mn",
+        "title": "Real-Time Flood Impact Map: flooded road impact location in St. Paul, MN",
+        "source": "USGS (.gov)",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-06-30T07:00:00Z",
+        "url": "https://www.usgs.gov/media/images/real-time-flood-impact-map-flooded-road-impact-location-st-paul-mn",
+        "mention_text": "St. Paul",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Saint Paul, Ramsey County, Minnesota, United States",
+        "osm_type": "administrative",
+        "osm_id": 136612,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8593329,
+          40.7380387
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nytimes.com/video/weather/100000010290569/flash-flooding-kansas-city-missouri.html",
+        "title": "Video: Heavy Rain in Kansas Leads to Flash Flood Emergency Alerts",
+        "source": "The New York Times",
+        "outlet_city": "New York",
+        "outlet_region": "New York",
+        "published_at": "2025-07-17T07:00:00Z",
+        "url": "https://www.nytimes.com/video/weather/100000010290569/flash-flooding-kansas-city-missouri.html",
+        "mention_text": "Kansas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kansas, 99-05, 58th Avenue, Queens, Queens County, New York, 11368, United States",
+        "osm_type": "apartments",
+        "osm_id": 250576310,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7278831,
+          40.9699889
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/flash-flood-emergency-pennsylvania-lancaster-june-2025",
+        "title": "Severe storms trigger 'life-threatening' Flash Flood Emergency in central Pennsylvania",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-07-01T07:00:00Z",
+        "url": "https://www.foxweather.com/weather-news/flash-flood-emergency-pennsylvania-lancaster-june-2025",
+        "mention_text": "Pennsylvania",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 162109,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5873816,
+          41.7370229
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/grand-island-nebraska-flash-flood-emergency-june-2025",
+        "title": "Flash Flood Emergency issued in Nebraska after torrential rain floods homes, strands vehicles",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-06-26T07:00:00Z",
+        "url": "https://www.foxweather.com/weather-news/grand-island-nebraska-flash-flood-emergency-june-2025",
+        "mention_text": "Nebraska",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Nebraska, United States",
+        "osm_type": "administrative",
+        "osm_id": 161648,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3122705,
+          41.9216734
+        ]
+      },
+      "properties": {
+        "article_id": "https://landline.media/additional-counties-added-to-iowa-flood-emergency/",
+        "title": "Additional counties added to Iowa flood emergency",
+        "source": "Land Line Media",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2024-07-01T07:00:00Z",
+        "url": "https://landline.media/additional-counties-added-to-iowa-flood-emergency/",
+        "mention_text": "Iowa",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Iowa, United States",
+        "osm_type": "administrative",
+        "osm_id": 161650,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/helene-atlanta-georgia-southeast",
+        "title": "Atlanta sees first-ever Flash Flood Emergency as Helene's fury forces multiple water rescues",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2024-09-27T07:00:00Z",
+        "url": "https://www.foxweather.com/weather-news/helene-atlanta-georgia-southeast",
+        "mention_text": "Atlanta",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4479108,
+          35.2048883
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/yellville-marion-county-rain-flood",
+        "title": "Arkansas nursing home evacuates 86 people amid Flash Flood Emergency",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2024-07-17T07:00:00Z",
+        "url": "https://www.foxweather.com/weather-news/yellville-marion-county-rain-flood",
+        "mention_text": "Arkansas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arkansas, United States",
+        "osm_type": "administrative",
+        "osm_id": 161646,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0733934,
+          29.9561422
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/hurricane-francine-flash-flooding-emergency-new-orleans",
+        "title": "Hurricane Francine triggers Flash Flood Emergency for New Orleans as torrential rainfall causes water rescues",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2024-09-11T07:00:00Z",
+        "url": "https://www.foxweather.com/weather-news/hurricane-francine-flash-flooding-emergency-new-orleans",
+        "mention_text": "New Orleans",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Orleans, Orleans Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 131885,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1263909,
+          40.3451668
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.lehighvalleylive.com/weather-alerts/2025/05/coastal-flood-advisory-issued-for-bucks-county-until-early-thursday.html",
+        "title": "Update: Coastal flood advisory issued for Bucks County until early Thursday",
+        "source": "LehighValleyLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-05-21T07:00:00Z",
+        "url": "https://www.lehighvalleylive.com/weather-alerts/2025/05/coastal-flood-advisory-issued-for-bucks-county-until-early-thursday.html",
+        "mention_text": "Bucks County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Bucks County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417843,
+        "run_at": "2026-06-17T10:58:23.362224+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-06-16T11:14:21.458594+00:00",
-    "total_features": 1611
+    "last_updated": "2026-06-17T10:58:23.370721+00:00",
+    "total_features": 1662
   }
 }
