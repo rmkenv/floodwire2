@@ -43212,11 +43212,1103 @@
         "osm_id": 417843,
         "run_at": "2026-06-17T10:58:23.362224+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1551411,
+          37.5726028
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whas11.com/article/weather/severe-weather/flash-flood-warning-kentucky-indiana-counties/417-7988bbf0-a26c-46a8-9702-ecaf2789a353",
+        "title": "Flash Flood Warning issued for these Kentucky and Indiana counties",
+        "source": "WHAS11",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T09:55:00Z",
+        "url": "https://www.whas11.com/article/weather/severe-weather/flash-flood-warning-kentucky-indiana-counties/417-7988bbf0-a26c-46a8-9702-ecaf2789a353",
+        "mention_text": "Kentucky",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 161655,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1746933,
+          40.3270127
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whas11.com/article/weather/severe-weather/flash-flood-warning-kentucky-indiana-counties/417-7988bbf0-a26c-46a8-9702-ecaf2789a353",
+        "title": "Flash Flood Warning issued for these Kentucky and Indiana counties",
+        "source": "WHAS11",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T09:55:00Z",
+        "url": "https://www.whas11.com/article/weather/severe-weather/flash-flood-warning-kentucky-indiana-counties/417-7988bbf0-a26c-46a8-9702-ecaf2789a353",
+        "mention_text": "Indiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Indiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 161816,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8164719,
+          42.6953035
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kold.com/video/2026/06/18/one-person-missing-eight-saved-during-massive-swift-water-rescue-interstate-19-ajo/",
+        "title": "One person missing, eight saved during massive swift-water rescue at Interstate 19, Ajo",
+        "source": "KOLD",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T04:28:57Z",
+        "url": "https://www.kold.com/video/2026/06/18/one-person-missing-eight-saved-during-massive-swift-water-rescue-interstate-19-ajo/",
+        "mention_text": "Interstate 19",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "19, Interstate Avenue, Roessleville, Town of Colonie, Albany County, New York, 12205, United States",
+        "osm_type": "yes",
+        "osm_id": 854496983,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.974847,
+          32.2228765
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kvoa.com/weather/monsoon/swift-water-rescue-underway-in-tucsons-santa-cruz-river/article_b1e2f5c0-bf20-472c-85a3-bff7d04b1462.html",
+        "title": "Swift water rescue underway in Tucson's Santa Cruz River",
+        "source": "KVOA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T06:58:19Z",
+        "url": "https://www.kvoa.com/weather/monsoon/swift-water-rescue-underway-in-tucsons-santa-cruz-river/article_b1e2f5c0-bf20-472c-85a3-bff7d04b1462.html",
+        "mention_text": "Tucson",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tucson, Pima County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 253824,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9755731,
+          31.8958732
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kvoa.com/weather/monsoon/swift-water-rescue-underway-in-tucsons-santa-cruz-river/article_b1e2f5c0-bf20-472c-85a3-bff7d04b1462.html",
+        "title": "Swift water rescue underway in Tucson's Santa Cruz River",
+        "source": "KVOA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T06:58:19Z",
+        "url": "https://www.kvoa.com/weather/monsoon/swift-water-rescue-underway-in-tucsons-santa-cruz-river/article_b1e2f5c0-bf20-472c-85a3-bff7d04b1462.html",
+        "mention_text": "Santa Cruz River",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Santa Cruz River, Arizona, United States",
+        "osm_type": "river",
+        "osm_id": 5753227,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8740206,
+          31.3887751
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kvoa.com/weather/monsoon/swift-water-rescue-underway-in-tucsons-santa-cruz-river/article_b1e2f5c0-bf20-472c-85a3-bff7d04b1462.html",
+        "title": "Swift water rescue underway in Tucson's Santa Cruz River",
+        "source": "KVOA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T06:58:19Z",
+        "url": "https://www.kvoa.com/weather/monsoon/swift-water-rescue-underway-in-tucsons-santa-cruz-river/article_b1e2f5c0-bf20-472c-85a3-bff7d04b1462.html",
+        "mention_text": "s Santa Cruz River",
+        "flood_type": "flash_flood",
+        "confidence": 0.75,
+        "osm_display": "Santa Cruz River Bridge, South River Road, Beyerville, Santa Cruz County, Arizona, 85621, United States",
+        "osm_type": "yes",
+        "osm_id": 512991692,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2740425,
+          39.1292841
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wlwt.com/article/cincinnati-weather-severe-threat-heavy-rain-strong-winds-overnight/71611448",
+        "title": "Flash flood warnings continue in parts Greater Cincinnati following storms",
+        "source": "WLWT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T09:02:00Z",
+        "url": "https://www.wlwt.com/article/cincinnati-weather-severe-threat-heavy-rain-strong-winds-overnight/71611448",
+        "mention_text": "Greater Cincinnati",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hindu Temple of Greater Cincinnati, 720, Barg Salt Run Road, Summerside Estates, Cincinnati, Union Township, Clermont County, Ohio, 45244, United States",
+        "osm_type": "place_of_worship",
+        "osm_id": 891095556,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6244212,
+          41.8755616
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.facebook.com/regionnewssource/photos/-flash-flood-warning-issued-for-the-region-the-national-weather-service-in-chica/1941564573655703/",
+        "title": "\ud83d\udea8 FLASH FLOOD WARNING ISSUED FOR THE REGION The National Weather Service in Chicago has issued a Flash Flood Warning for portions of Northwest Indiana and Southeast Cook County, Illinois until 7:00 PM CDT. Heavy rain is falling across the war",
+        "source": "facebook.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-17T20:59:08Z",
+        "url": "https://www.facebook.com/regionnewssource/photos/-flash-flood-warning-issued-for-the-region-the-national-weather-service-in-chica/1941564573655703/",
+        "mention_text": "Chicago",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Chicago, South Chicago Township, Cook County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 122604,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7466393,
+          41.4164496
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.facebook.com/regionnewssource/photos/-flash-flood-warning-issued-for-the-region-the-national-weather-service-in-chica/1941564573655703/",
+        "title": "\ud83d\udea8 FLASH FLOOD WARNING ISSUED FOR THE REGION The National Weather Service in Chicago has issued a Flash Flood Warning for portions of Northwest Indiana and Southeast Cook County, Illinois until 7:00 PM CDT. Heavy rain is falling across the war",
+        "source": "facebook.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-17T20:59:08Z",
+        "url": "https://www.facebook.com/regionnewssource/photos/-flash-flood-warning-issued-for-the-region-the-national-weather-service-in-chica/1941564573655703/",
+        "mention_text": "Northwest Indiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Northwest, 612, South Huntington Street, Wawasee Village, Syracuse, Kosciusko County, Indiana, 46567, United States",
+        "osm_type": "bank",
+        "osm_id": 849563963,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2405953,
+          42.0751735
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.facebook.com/regionnewssource/photos/-flash-flood-warning-issued-for-the-region-the-national-weather-service-in-chica/1941564573655703/",
+        "title": "\ud83d\udea8 FLASH FLOOD WARNING ISSUED FOR THE REGION The National Weather Service in Chicago has issued a Flash Flood Warning for portions of Northwest Indiana and Southeast Cook County, Illinois until 7:00 PM CDT. Heavy rain is falling across the war",
+        "source": "facebook.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-17T20:59:08Z",
+        "url": "https://www.facebook.com/regionnewssource/photos/-flash-flood-warning-issued-for-the-region-the-national-weather-service-in-chica/1941564573655703/",
+        "mention_text": "Southeast Cook County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Cook SE Dam, Box Butte County, Nebraska, United States",
+        "osm_type": "dam",
+        "osm_id": 1337721135,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4337288,
+          40.0796606
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.facebook.com/regionnewssource/photos/-flash-flood-warning-issued-for-the-region-the-national-weather-service-in-chica/1941564573655703/",
+        "title": "\ud83d\udea8 FLASH FLOOD WARNING ISSUED FOR THE REGION The National Weather Service in Chicago has issued a Flash Flood Warning for portions of Northwest Indiana and Southeast Cook County, Illinois until 7:00 PM CDT. Heavy rain is falling across the war",
+        "source": "facebook.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-17T20:59:08Z",
+        "url": "https://www.facebook.com/regionnewssource/photos/-flash-flood-warning-issued-for-the-region-the-national-weather-service-in-chica/1941564573655703/",
+        "mention_text": "Illinois",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 122586,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8164719,
+          42.6953035
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kold.com/2026/06/18/storms-cause-swift-water-rescues-outages-road-closures-throughout-tucson/",
+        "title": "One person missing, eight saved during massive swift-water rescue at Interstate 19, Ajo",
+        "source": "KOLD",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-17T23:56:00Z",
+        "url": "https://www.kold.com/2026/06/18/storms-cause-swift-water-rescues-outages-road-closures-throughout-tucson/",
+        "mention_text": "Interstate 19",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "19, Interstate Avenue, Roessleville, Town of Colonie, Albany County, New York, 12205, United States",
+        "osm_type": "yes",
+        "osm_id": 854496983,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.974847,
+          32.2228765
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kvoa.com/video/swift-water-rescue-underway-in-tucsons-santa-cruz-river/video_b8da514e-28ca-50c3-997a-9b90786e48c9.html",
+        "title": "Swift water rescue underway in Tucson's Santa Cruz River",
+        "source": "KVOA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T01:34:00Z",
+        "url": "https://www.kvoa.com/video/swift-water-rescue-underway-in-tucsons-santa-cruz-river/video_b8da514e-28ca-50c3-997a-9b90786e48c9.html",
+        "mention_text": "Tucson",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tucson, Pima County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 253824,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9755731,
+          31.8958732
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kvoa.com/video/swift-water-rescue-underway-in-tucsons-santa-cruz-river/video_b8da514e-28ca-50c3-997a-9b90786e48c9.html",
+        "title": "Swift water rescue underway in Tucson's Santa Cruz River",
+        "source": "KVOA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T01:34:00Z",
+        "url": "https://www.kvoa.com/video/swift-water-rescue-underway-in-tucsons-santa-cruz-river/video_b8da514e-28ca-50c3-997a-9b90786e48c9.html",
+        "mention_text": "Santa Cruz River",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Santa Cruz River, Arizona, United States",
+        "osm_type": "river",
+        "osm_id": 5753227,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8740206,
+          31.3887751
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kvoa.com/video/swift-water-rescue-underway-in-tucsons-santa-cruz-river/video_b8da514e-28ca-50c3-997a-9b90786e48c9.html",
+        "title": "Swift water rescue underway in Tucson's Santa Cruz River",
+        "source": "KVOA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T01:34:00Z",
+        "url": "https://www.kvoa.com/video/swift-water-rescue-underway-in-tucsons-santa-cruz-river/video_b8da514e-28ca-50c3-997a-9b90786e48c9.html",
+        "mention_text": "s Santa Cruz River",
+        "flood_type": "flash_flood",
+        "confidence": 0.75,
+        "osm_display": "Santa Cruz River Bridge, South River Road, Beyerville, Santa Cruz County, Arizona, 85621, United States",
+        "osm_type": "yes",
+        "osm_id": 512991692,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7846926,
+          32.1057008
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kgun9.com/news/local-news/tucson-fire-crews-respond-to-swift-water-rescue-near-santa-cruz-river",
+        "title": "One person missing as Tucson Fire crews respond to swift water rescue near Santa Cruz River",
+        "source": "KGUN 9",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T02:06:34Z",
+        "url": "https://www.kgun9.com/news/local-news/tucson-fire-crews-respond-to-swift-water-rescue-near-santa-cruz-river",
+        "mention_text": "Tucson Fire",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tucson Fire Station Number 19, 9700, East Esmond Loop, Rita Ranch, Tucson, Pima County, Arizona, 85747, United States",
+        "osm_type": "fire_station",
+        "osm_id": 274204450,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9755731,
+          31.8958732
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kgun9.com/news/local-news/tucson-fire-crews-respond-to-swift-water-rescue-near-santa-cruz-river",
+        "title": "One person missing as Tucson Fire crews respond to swift water rescue near Santa Cruz River",
+        "source": "KGUN 9",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T02:06:34Z",
+        "url": "https://www.kgun9.com/news/local-news/tucson-fire-crews-respond-to-swift-water-rescue-near-santa-cruz-river",
+        "mention_text": "Santa Cruz River",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Santa Cruz River, Arizona, United States",
+        "osm_type": "river",
+        "osm_id": 5753227,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.501183,
+          30.721093
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pnj.com/story/weather/2026/06/17/flood-warning-issued-for-perdido-river/90593822007/",
+        "title": "Flood warning issued for Perdido River",
+        "source": "Pensacola News Journal",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-17T20:29:00Z",
+        "url": "https://www.pnj.com/story/weather/2026/06/17/flood-warning-issued-for-perdido-river/90593822007/",
+        "mention_text": "Perdido River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Perdido River, Baldwin County, Alabama, United States",
+        "osm_type": "river",
+        "osm_id": 2193543,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox10phoenix.com/video/fmc-p1bcbrbc7lw34bcm",
+        "title": "Dust storm advisory, flash flood warnings in parts of Arizona",
+        "source": "FOX 10 Phoenix",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-17T23:35:51Z",
+        "url": "https://www.fox10phoenix.com/video/fmc-p1bcbrbc7lw34bcm",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5127405,
+          39.1012809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cincinnati.com/story/weather/2026/06/18/tornado-power-outage-reports-flash-flood-warning-hit-cincinnati-nky-latest-updates/90601684007/",
+        "title": "Tornado reports, power outages, flood warning in Cincinnati, NKY after storms",
+        "source": "Cincinnati Enquirer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T09:27:00Z",
+        "url": "https://www.cincinnati.com/story/weather/2026/06/18/tornado-power-outage-reports-flash-flood-warning-hit-cincinnati-nky-latest-updates/90601684007/",
+        "mention_text": "Cincinnati",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cincinnati, Hamilton County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 183453,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8164719,
+          42.6953035
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azfamily.com/video/2026/06/18/one-person-missing-eight-saved-during-massive-swift-water-rescue-interstate-19-ajo/",
+        "title": "One person missing, eight saved during massive swift-water rescue at Interstate 19, Ajo",
+        "source": "AZ Family",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T01:30:43Z",
+        "url": "https://www.azfamily.com/video/2026/06/18/one-person-missing-eight-saved-during-massive-swift-water-rescue-interstate-19-ajo/",
+        "mention_text": "Interstate 19",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "19, Interstate Avenue, Roessleville, Town of Colonie, Albany County, New York, 12205, United States",
+        "osm_type": "yes",
+        "osm_id": 854496983,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.007126,
+          30.8703881
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/news/local/tornado-watch-in-effect-for-parts-of-louisiana-and-mississippi/289-a17cf762-8b93-4ab1-8f76-a2f77f21207d",
+        "title": "Live Blog: Tornado, Flash Flood warnings in effect for parts of southeast Louisiana",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T03:26:00Z",
+        "url": "https://www.wwltv.com/article/news/local/tornado-watch-in-effect-for-parts-of-louisiana-and-mississippi/289-a17cf762-8b93-4ab1-8f76-a2f77f21207d",
+        "mention_text": "Louisiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 224922,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5127405,
+          39.1012809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.hindustantimes.com/world-news/us-news/cincinnati-flooding-flash-flood-warnings-issued-amid-tornado-warnings-in-ohio-scary-videos-show-rising-waters-i-75-nb-101781762723980.html",
+        "title": "Cincinnati flooding: Flash flood warnings issued amid tornado warnings in Ohio; scary videos show rising waters | Hindustan Times",
+        "source": "Hindustan Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T06:19:58Z",
+        "url": "https://www.hindustantimes.com/world-news/us-news/cincinnati-flooding-flash-flood-warnings-issued-amid-tornado-warnings-in-ohio-scary-videos-show-rising-waters-i-75-nb-101781762723980.html",
+        "mention_text": "Cincinnati",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Cincinnati, Hamilton County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 183453,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6881395,
+          40.2253569
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.hindustantimes.com/world-news/us-news/cincinnati-flooding-flash-flood-warnings-issued-amid-tornado-warnings-in-ohio-scary-videos-show-rising-waters-i-75-nb-101781762723980.html",
+        "title": "Cincinnati flooding: Flash flood warnings issued amid tornado warnings in Ohio; scary videos show rising waters | Hindustan Times",
+        "source": "Hindustan Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T06:19:58Z",
+        "url": "https://www.hindustantimes.com/world-news/us-news/cincinnati-flooding-flash-flood-warnings-issued-amid-tornado-warnings-in-ohio-scary-videos-show-rising-waters-i-75-nb-101781762723980.html",
+        "mention_text": "Ohio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 162061,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.4426212,
+          32.8085851
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azcentral.com/story/news/local/arizona-weather/2026/06/17/severe-thunderstorm-warning-issued-for-southern-arizona/90597346007/",
+        "title": "Flash flood warning issued for Pinal County",
+        "source": "azcentral.com and The Arizona Republic",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-17T22:24:00Z",
+        "url": "https://www.azcentral.com/story/news/local/arizona-weather/2026/06/17/severe-thunderstorm-warning-issued-for-southern-arizona/90597346007/",
+        "mention_text": "Pinal County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pinal County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832207,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2603073,
+          33.5942438
+        ]
+      },
+      "properties": {
+        "article_id": "https://wkkg.com/local-news/flood-advisory-is-in-effect-until-2-a-m-thursday-flood-warning-in-seymour/",
+        "title": "Flood advisory is in effect until 2 a.m. Thursday; Flood warning in Seymour",
+        "source": "101.5 WKKG",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T03:30:16Z",
+        "url": "https://wkkg.com/local-news/flood-advisory-is-in-effect-until-2-a-m-thursday-flood-warning-in-seymour/",
+        "mention_text": "Seymour",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Seymour, Baylor County, Texas, 76380, United States",
+        "osm_type": "administrative",
+        "osm_id": 8059640,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4970393,
+          38.0464066
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article316161151.html",
+        "title": "Lexington and Richland counties placed under a flood advisory Wednesday morning",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-17T13:44:05Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article316161151.html",
+        "mention_text": "Lexington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Lexington, Fayette County, Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 11078268,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7778785,
+          34.0259502
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article316125410.html",
+        "title": "UPDATE: Coastal flood advisory active for Malibu Coast and Los Angeles until 2 a.m. Wednesday",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T21:32:09Z",
+        "url": "https://www.modbee.com/news/weather-news/article316125410.html",
+        "mention_text": "Malibu Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Pacific Coast Highway, Malibu, Los Angeles County, California, 90265, United States",
+        "osm_type": "trunk",
+        "osm_id": 762799689,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article316125410.html",
+        "title": "UPDATE: Coastal flood advisory active for Malibu Coast and Los Angeles until 2 a.m. Wednesday",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T21:32:09Z",
+        "url": "https://www.modbee.com/news/weather-news/article316125410.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/video/133915250/",
+        "title": "Video Millions face flash flood emergency in Texas",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T11:34:28Z",
+        "url": "https://abcnews.com/video/133915250/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.goodmorningamerica.com/amp/video/133915250",
+        "title": "Millions face flash flood emergency in Texas",
+        "source": "Good Morning America",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T11:41:01Z",
+        "url": "https://www.goodmorningamerica.com/amp/video/133915250",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4226219,
+          37.7885259
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article316108132.html",
+        "title": "UPDATE: Coastal flood advisory in place for Northern California from Saturday to Tuesday",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-13T02:54:01Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article316108132.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Planned Parenthood Northern California, 1522, Bush Street, Western Addition, San Francisco, California, 94109, United States",
+        "osm_type": "clinic",
+        "osm_id": 10110556090,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4113477,
+          37.7766279
+        ]
+      },
+      "properties": {
+        "article_id": "https://patch.com/california/san-francisco/coastal-flood-advisory-issued-norcal",
+        "title": "Coastal Flood Advisory Issued In NorCal",
+        "source": "Patch",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T01:37:00Z",
+        "url": "https://patch.com/california/san-francisco/coastal-flood-advisory-issued-norcal",
+        "mention_text": "NorCal",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "NorCal Fight Shop, 1166A, Howard Street, West SoMa, Civic Center, South of Market, San Francisco, California, 94103, United States",
+        "osm_type": "sports",
+        "osm_id": 4370285796,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.260982,
+          37.5235288
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/06/09/coastal-flood-advisory-in-place-for-san-francisco-bay-shoreline-and-san-francisco-county-from-thursday-to-saturday/",
+        "title": "Coastal flood advisory in place for San Francisco Bay Shoreline and San Francisco County from Thursday to Saturday",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-10T06:13:19Z",
+        "url": "https://www.eastbaytimes.com/2026/06/09/coastal-flood-advisory-in-place-for-san-francisco-bay-shoreline-and-san-francisco-county-from-thursday-to-saturday/",
+        "mention_text": "San Francisco Bay Shoreline",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Grand Bay Hotel San Francisco, Shoreline Drive, Redwood City, San Mateo County, California, 94064, United States",
+        "osm_type": "atm",
+        "osm_id": 522277332,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.8854639,
+          33.759478
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/06/09/coastal-flood-advisory-in-place-for-san-francisco-bay-shoreline-and-san-francisco-county-from-thursday-to-saturday/",
+        "title": "Coastal flood advisory in place for San Francisco Bay Shoreline and San Francisco County from Thursday to Saturday",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-10T06:13:19Z",
+        "url": "https://www.eastbaytimes.com/2026/06/09/coastal-flood-advisory-in-place-for-san-francisco-bay-shoreline-and-san-francisco-county-from-thursday-to-saturday/",
+        "mention_text": "San Francisco County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco, Catron County, New Mexico, United States",
+        "osm_type": "peak",
+        "osm_id": 11066998506,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.8854639,
+          33.759478
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article316070863.html",
+        "title": "UPDATE: San Francisco County under a coastal flood advisory until early Thursday morning",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-10T06:13:00Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article316070863.html",
+        "mention_text": "San Francisco County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco, Catron County, New Mexico, United States",
+        "osm_type": "peak",
+        "osm_id": 11066998506,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.8854639,
+          33.759478
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article316070863.html",
+        "title": "UPDATE: San Francisco County under a coastal flood advisory until early Thursday morning",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-09T07:00:00Z",
+        "url": "https://www.modbee.com/news/weather-news/article316070863.html",
+        "mention_text": "San Francisco County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco, Catron County, New Mexico, United States",
+        "osm_type": "peak",
+        "osm_id": 11066998506,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.3181403,
+          39.1085921
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-mjug0d59hkoy30cv",
+        "title": "Growing flood threat covers nearly 50M from Upper Midwest to the South after Alabama Flood Emergency",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-08T07:00:00Z",
+        "url": "https://www.foxweather.com/watch/fmc-mjug0d59hkoy30cv",
+        "mention_text": "Upper Midwest",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Midwest Red Arrow Mine, Palisade Rim Upper Loop Trail, Mesa County, Colorado, 81526, United States",
+        "osm_type": "mine",
+        "osm_id": 369168328,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3170402,
+          29.8494044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-mjug0d59hkoy30cv",
+        "title": "Growing flood threat covers nearly 50M from Upper Midwest to the South after Alabama Flood Emergency",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-08T07:00:00Z",
+        "url": "https://www.foxweather.com/watch/fmc-mjug0d59hkoy30cv",
+        "mention_text": "South",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "St. Augustine South, Saint Johns County, Florida, 32086, United States",
+        "osm_type": "town",
+        "osm_id": 13203803220,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3984882,
+          34.851354
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article316079861.html",
+        "title": "Flood advisory affecting Greenville and Pickens counties until Wednesday evening",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-10T19:55:03Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article316079861.html",
+        "mention_text": "Greenville",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Greenville, Greenville County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193989,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.564561,
+          19.6273325
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.khon2.com/video/hawaii-county-under-flood-advisory-as-rainfall-causes-flooding/11848437/",
+        "title": "Hawaii County under flood advisory as rainfall causes flooding",
+        "source": "KHON2",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-03T06:07:32Z",
+        "url": "https://www.khon2.com/video/hawaii-county-under-flood-advisory-as-rainfall-causes-flooding/11848437/",
+        "mention_text": "Hawaii County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Hawai\u02bbi County, Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166562,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/06/09/coastal-flood-advisory-issued-for-north-bay-interior-valleys-from-wednesday-to-saturday/",
+        "title": "Coastal flood advisory issued for North Bay Interior Valleys from Wednesday to Saturday",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-10T06:13:17Z",
+        "url": "https://www.mercurynews.com/2026/06/09/coastal-flood-advisory-issued-for-north-bay-interior-valleys-from-wednesday-to-saturday/",
+        "mention_text": "North Bay",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-06-18T10:27:20.347671+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-06-17T10:58:23.370721+00:00",
-    "total_features": 1662
+    "last_updated": "2026-06-18T10:27:20.356123+00:00",
+    "total_features": 1704
   }
 }
