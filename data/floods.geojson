@@ -44304,11 +44304,921 @@
         "osm_id": 251484,
         "run_at": "2026-06-18T10:27:20.347671+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4597236,
+          31.196549
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdam.com/2026/06/19/covington-county-flash-flood-emergency-early-friday-morning/",
+        "title": "Covington County flash flood emergency early Friday morning",
+        "source": "WDAM-TV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-19T07:54:00Z",
+        "url": "https://www.wdam.com/2026/06/19/covington-county-flash-flood-emergency-early-friday-morning/",
+        "mention_text": "Covington County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Covington County, Alabama, United States",
+        "osm_type": "administrative",
+        "osm_id": 1848768,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3170402,
+          29.8494044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-vg0m8yym1n7u8vfb",
+        "title": "Millions across the South face ongoing, life-threatening flash flood risks",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-19T09:55:20Z",
+        "url": "https://www.foxweather.com/watch/fmc-vg0m8yym1n7u8vfb",
+        "mention_text": "South",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "St. Augustine South, Saint Johns County, Florida, 32086, United States",
+        "osm_type": "town",
+        "osm_id": 13203803220,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1704496,
+          29.834772
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwnytv.com/2026/06/19/lakeshore-flood-warning-issued-jefferson-county-wet-week-ahead-north-country/",
+        "title": "Lakeshore flood warning issued for Jefferson County, wet week ahead for North Country",
+        "source": "WWNY",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-19T10:13:00Z",
+        "url": "https://www.wwnytv.com/2026/06/19/lakeshore-flood-warning-issued-jefferson-county-wet-week-ahead-north-country/",
+        "mention_text": "Jefferson County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Jefferson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1841074,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9675232,
+          45.6806353
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwnytv.com/2026/06/19/lakeshore-flood-warning-issued-jefferson-county-wet-week-ahead-north-country/",
+        "title": "Lakeshore flood warning issued for Jefferson County, wet week ahead for North Country",
+        "source": "WWNY",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-19T10:13:00Z",
+        "url": "https://www.wwnytv.com/2026/06/19/lakeshore-flood-warning-issued-jefferson-county-wet-week-ahead-north-country/",
+        "mention_text": "North Country",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Country National Scenic Trail, Bliss Township, Emmet County, Michigan, United States",
+        "osm_type": "footway",
+        "osm_id": 628843424,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5002608,
+          44.5990718
+        ]
+      },
+      "properties": {
+        "article_id": "https://vtdigger.org/2026/06/18/thunderstorms-hit-vermont-downing-powerlines-and-causing-a-flash-flood-warning-in-bennington-county/",
+        "title": "Thunderstorms hit Vermont, downing powerlines and causing a flash flood warning in Bennington County",
+        "source": "VTDigger",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T21:33:20Z",
+        "url": "https://vtdigger.org/2026/06/18/thunderstorms-hit-vermont-downing-powerlines-and-causing-a-flash-flood-warning-in-bennington-county/",
+        "mention_text": "Vermont",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Vermont, United States",
+        "osm_type": "administrative",
+        "osm_id": 60759,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1473048,
+          43.0125713
+        ]
+      },
+      "properties": {
+        "article_id": "https://vtdigger.org/2026/06/18/thunderstorms-hit-vermont-downing-powerlines-and-causing-a-flash-flood-warning-in-bennington-county/",
+        "title": "Thunderstorms hit Vermont, downing powerlines and causing a flash flood warning in Bennington County",
+        "source": "VTDigger",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T21:33:20Z",
+        "url": "https://vtdigger.org/2026/06/18/thunderstorms-hit-vermont-downing-powerlines-and-causing-a-flash-flood-warning-in-bennington-county/",
+        "mention_text": "Bennington County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Bennington County, Vermont, United States",
+        "osm_type": "administrative",
+        "osm_id": 60803,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.007126,
+          30.8703881
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/louisiana-flash-flood-timeline/71633790",
+        "title": "Flash flood threat again; when to expect more storms in Louisiana",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-19T03:52:00Z",
+        "url": "https://www.wdsu.com/article/louisiana-flash-flood-timeline/71633790",
+        "mention_text": "Louisiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 224922,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3936114,
+          30.2226352
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/06/flash-flood-warning-for-washington-county-until-thursday-evening-triggered-by-thunderstorms.html",
+        "title": "Flash flood warning for Washington County until Thursday evening triggered by thunderstorms",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T18:52:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/06/flash-flood-warning-for-washington-county-until-thursday-evening-triggered-by-thunderstorms.html",
+        "mention_text": "Washington County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Washington County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837751,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5065944,
+          30.301949
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/06/flash-flood-warning-issued-for-montgomery-county-until-early-thursday-evening-triggered-by-thunderst.html",
+        "title": "Update: Flash flood warning issued for Montgomery County early Thursday evening triggered by thunderstorms",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T17:32:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/06/flash-flood-warning-issued-for-montgomery-county-until-early-thursday-evening-triggered-by-thunderst.html",
+        "mention_text": "Montgomery County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Montgomery County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1560394,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.280075,
+          43.411391
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/additional-rounds-severe-storms-heavy-rain-flash-flooding-threat-central-plains-midwest",
+        "title": "Additional rounds of severe storms to bring heavy rain, flash flood threats to Central Plains, Midwest",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T11:12:08Z",
+        "url": "https://www.foxweather.com/weather-news/additional-rounds-severe-storms-heavy-rain-flash-flooding-threat-central-plains-midwest",
+        "mention_text": "Midwest",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Midwest, Natrona County, Wyoming, United States",
+        "osm_type": "administrative",
+        "osm_id": 252227,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.946858,
+          45.1192108
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wxxv25.com/flash-flood-emergency-in-anchor-lake-area-of-pearl-river-county1/",
+        "title": "Flash Flood Emergency in Anchor Lake area of Pearl River County",
+        "source": "WXXV News 25",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T21:05:32Z",
+        "url": "https://www.wxxv25.com/flash-flood-emergency-in-anchor-lake-area-of-pearl-river-county1/",
+        "mention_text": "Anchor Lake",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Anchor Lake, Montmorency Township, Montmorency County, Michigan, United States",
+        "osm_type": "lake",
+        "osm_id": 424163770,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5984726,
+          30.7761604
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wxxv25.com/flash-flood-emergency-in-anchor-lake-area-of-pearl-river-county1/",
+        "title": "Flash Flood Emergency in Anchor Lake area of Pearl River County",
+        "source": "WXXV News 25",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T21:05:32Z",
+        "url": "https://www.wxxv25.com/flash-flood-emergency-in-anchor-lake-area-of-pearl-river-county1/",
+        "mention_text": "Pearl River County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pearl River County, Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832972,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1551411,
+          37.5726028
+        ]
+      },
+      "properties": {
+        "article_id": "https://fox56news.com/news/kentucky/these-kentucky-counties-are-under-a-flash-flood-warning/",
+        "title": "These Kentucky counties are under a flash flood warning",
+        "source": "FOX 56 News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T16:44:06Z",
+        "url": "https://fox56news.com/news/kentucky/these-kentucky-counties-are-under-a-flash-flood-warning/",
+        "mention_text": "Kentucky",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 161655,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7348497,
+          32.9715285
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/2026/06/18/news/weather/flash-flood-emergency-issued-compromised-dam-south-mississippi",
+        "title": "Flash flood emergency issued due to compromised dam in Mississippi",
+        "source": "The Weather Channel",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T20:53:00Z",
+        "url": "https://weather.com/2026/06/18/news/weather/flash-flood-emergency-issued-compromised-dam-south-mississippi",
+        "mention_text": "Mississippi",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 161943,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8712155,
+          43.0833231
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/06/saratoga-county-under-a-flash-flood-warning-until-early-thursday-evening-due-to-thunderstorms.html",
+        "title": "Update: Flash flood warning previously issued for Saratoga County will expire at 4:45 p.m.",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T17:41:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/06/saratoga-county-under-a-flash-flood-warning-until-early-thursday-evening-due-to-thunderstorms.html",
+        "mention_text": "Saratoga County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Saratoga County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1428790,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9755731,
+          31.8958732
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kgun9.com/news/community-inspired-journalism/westside-news/deputy-fire-chief-lays-safety-tips-after-11-people-swept-into-santa-cruz-river-in-tucson-swift-water-rescue",
+        "title": "Deputy fire chief lays safety tips after 11 people swept into Santa Cruz River in Tucson swift water rescue",
+        "source": "KGUN 9",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T23:13:04Z",
+        "url": "https://www.kgun9.com/news/community-inspired-journalism/westside-news/deputy-fire-chief-lays-safety-tips-after-11-people-swept-into-santa-cruz-river-in-tucson-swift-water-rescue",
+        "mention_text": "Santa Cruz River",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Santa Cruz River, Arizona, United States",
+        "osm_type": "river",
+        "osm_id": 5753227,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.974847,
+          32.2228765
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kgun9.com/news/community-inspired-journalism/westside-news/deputy-fire-chief-lays-safety-tips-after-11-people-swept-into-santa-cruz-river-in-tucson-swift-water-rescue",
+        "title": "Deputy fire chief lays safety tips after 11 people swept into Santa Cruz River in Tucson swift water rescue",
+        "source": "KGUN 9",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T23:13:04Z",
+        "url": "https://www.kgun9.com/news/community-inspired-journalism/westside-news/deputy-fire-chief-lays-safety-tips-after-11-people-swept-into-santa-cruz-river-in-tucson-swift-water-rescue",
+        "mention_text": "Tucson",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tucson, Pima County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 253824,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7936473,
+          31.4254801
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdam.com/2026/06/18/anchor-lake-dam-fails-pearl-river-county-flash-flood-emergency-issued/",
+        "title": "Anchor Lake Dam fails in Pearl River County, Flash Flood Emergency issued",
+        "source": "WDAM-TV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T17:17:00Z",
+        "url": "https://www.wdam.com/2026/06/18/anchor-lake-dam-fails-pearl-river-county-flash-flood-emergency-issued/",
+        "mention_text": "Anchor Lake Dam",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Anchor Lake Dam, Gatesville, Coryell County, Texas, United States",
+        "osm_type": "dam",
+        "osm_id": 1238713440,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5984726,
+          30.7761604
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdam.com/2026/06/18/anchor-lake-dam-fails-pearl-river-county-flash-flood-emergency-issued/",
+        "title": "Anchor Lake Dam fails in Pearl River County, Flash Flood Emergency issued",
+        "source": "WDAM-TV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T17:17:00Z",
+        "url": "https://www.wdam.com/2026/06/18/anchor-lake-dam-fails-pearl-river-county-flash-flood-emergency-issued/",
+        "mention_text": "Pearl River County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pearl River County, Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832972,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7936473,
+          31.4254801
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kplctv.com/2026/06/18/anchor-lake-dam-fails-pearl-river-county-flash-flood-emergency-issued/",
+        "title": "Anchor Lake Dam fails in Pearl River County, Flash Flood Emergency issued",
+        "source": "KPLC 7 News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T17:17:00Z",
+        "url": "https://www.kplctv.com/2026/06/18/anchor-lake-dam-fails-pearl-river-county-flash-flood-emergency-issued/",
+        "mention_text": "Anchor Lake Dam",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Anchor Lake Dam, Gatesville, Coryell County, Texas, United States",
+        "osm_type": "dam",
+        "osm_id": 1238713440,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5984726,
+          30.7761604
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kplctv.com/2026/06/18/anchor-lake-dam-fails-pearl-river-county-flash-flood-emergency-issued/",
+        "title": "Anchor Lake Dam fails in Pearl River County, Flash Flood Emergency issued",
+        "source": "KPLC 7 News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T17:17:00Z",
+        "url": "https://www.kplctv.com/2026/06/18/anchor-lake-dam-fails-pearl-river-county-flash-flood-emergency-issued/",
+        "mention_text": "Pearl River County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pearl River County, Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832972,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1410774,
+          42.1823035
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/06/flash-flood-warning-in-place-for-erie-county-thursday-morning-triggered-by-thunderstorms.html",
+        "title": "Update: Flash flood warning in place for Erie County Thursday morning triggered by thunderstorms",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T11:51:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/06/flash-flood-warning-in-place-for-erie-county-thursday-morning-triggered-by-thunderstorms.html",
+        "mention_text": "Erie County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Erie County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 416693,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7348497,
+          32.9715285
+        ]
+      },
+      "properties": {
+        "article_id": "https://bnonews.com/index.php/2026/06/flash-flood-emergency-issued-for-compromised-dam-in-mississippi/",
+        "title": "Flash flood emergency issued for compromised dam in Mississippi",
+        "source": "BNO News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T21:08:51Z",
+        "url": "https://bnonews.com/index.php/2026/06/flash-flood-emergency-issued-for-compromised-dam-in-mississippi/",
+        "mention_text": "Mississippi",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 161943,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4577554,
+          43.1260226
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tuscaloosanews.com/story/weather/2026/06/18/weather-alert/90605128007/",
+        "title": "Flood warning issued for West Alabama",
+        "source": "The Tuscaloosa News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T15:00:00Z",
+        "url": "https://www.tuscaloosanews.com/story/weather/2026/06/18/weather-alert/90605128007/",
+        "mention_text": "West Alabama",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "West Alabama, Town of Alabama, Genesee County, New York, United States",
+        "osm_type": "hamlet",
+        "osm_id": 158367963,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2427925,
+          41.6570126
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eaglecountryonline.com/news/local-news/flash-flood-warning-for-southeast-indiana/",
+        "title": "Flash Flood Warning for Southeast Indiana",
+        "source": "Eagle Country 99.3",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T11:57:05Z",
+        "url": "https://www.eaglecountryonline.com/news/local-news/flash-flood-warning-for-southeast-indiana/",
+        "mention_text": "Southeast Indiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Southeast, South Bend, Saint Joseph County, Indiana, 46613, United States",
+        "osm_type": "neighbourhood",
+        "osm_id": 11783966273,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8163816,
+          29.7663907
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kadn.com/news/local/flash-flood-warning-issued-for-parts-of-acadiana/article_859dd7eb-c66c-4a8e-8a16-c08a26e97fc3.html",
+        "title": "Flash Flood Warning issued for parts of Acadiana",
+        "source": "KADN News 15",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T14:00:00Z",
+        "url": "https://www.kadn.com/news/local/flash-flood-warning-issued-for-parts-of-acadiana/article_859dd7eb-c66c-4a8e-8a16-c08a26e97fc3.html",
+        "mention_text": "Acadiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Acadiana, 106 , Louisa Drive, Johnson Ridge, Thibodaux, Terrebonne Parish, Louisiana, 70301, United States",
+        "osm_type": "apartments",
+        "osm_id": 3631841493,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9759066,
+          33.7635851
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article316188974.html",
+        "title": "Aiken and Edgefield counties placed under a flood advisory until early Friday",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-19T03:01:06Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article316188974.html",
+        "mention_text": "Edgefield",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Edgefield County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532505,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7936473,
+          31.4254801
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox8live.com/2026/06/18/anker-lake-dam-fails-pearl-river-county-flash-flood-emergency-issued/",
+        "title": "Anchor Lake Dam fails in Pearl River County, Flash Flood Emergency issued",
+        "source": "fox8live.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T17:17:00Z",
+        "url": "https://www.fox8live.com/2026/06/18/anker-lake-dam-fails-pearl-river-county-flash-flood-emergency-issued/",
+        "mention_text": "Anchor Lake Dam",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Anchor Lake Dam, Gatesville, Coryell County, Texas, United States",
+        "osm_type": "dam",
+        "osm_id": 1238713440,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5984726,
+          30.7761604
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox8live.com/2026/06/18/anker-lake-dam-fails-pearl-river-county-flash-flood-emergency-issued/",
+        "title": "Anchor Lake Dam fails in Pearl River County, Flash Flood Emergency issued",
+        "source": "fox8live.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T17:17:00Z",
+        "url": "https://www.fox8live.com/2026/06/18/anker-lake-dam-fails-pearl-river-county-flash-flood-emergency-issued/",
+        "mention_text": "Pearl River County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pearl River County, Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832972,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2599081,
+          34.2189515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316186274.html",
+        "title": "Flood advisory issued for Western North Carolina Thursday night, says the NWS",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T22:37:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316186274.html",
+        "mention_text": "Western North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Western Drive, Bishopville, Lee County, South Carolina, 29010, United States",
+        "osm_type": "residential",
+        "osm_id": 12470936,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7348497,
+          32.9715285
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/videos/worst-i-ever-saw-flood-emergency-in-mississippi/564f19f2-6b8f-46f9-88ea-96efaedeb220",
+        "title": "'Worst I ever saw.' Flood emergency in Mississippi",
+        "source": "AccuWeather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T20:20:50Z",
+        "url": "https://www.accuweather.com/en/videos/worst-i-ever-saw-flood-emergency-in-mississippi/564f19f2-6b8f-46f9-88ea-96efaedeb220",
+        "mention_text": "Mississippi",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 161943,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2310245,
+          30.340697
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flash-flood-emergency-issued-due-205318256.html",
+        "title": "Flash flood emergency issued due to compromised dam in South Mississippi",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T20:53:18Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flash-flood-emergency-issued-due-205318256.html",
+        "mention_text": "South Mississippi",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South, Harrison County, Mississippi, 39571, United States",
+        "osm_type": "residential",
+        "osm_id": 13601660,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article316124370.html",
+        "title": "UPDATE: Coastal flood advisory issued for Myrtle Beach area and Coastal Georgetown",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T18:28:07Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article316124370.html",
+        "mention_text": "Myrtle Beach",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Myrtle Beach, Horry County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193842,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3595655,
+          38.6898781
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article316124370.html",
+        "title": "UPDATE: Coastal flood advisory issued for Myrtle Beach area and Coastal Georgetown",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T18:28:07Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article316124370.html",
+        "mention_text": "Coastal Georgetown",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Delaware Coastal Airport, Airport Road, Rogers Development, Georgetown, Sussex County, Delaware, 19947, United States",
+        "osm_type": "aerodrome",
+        "osm_id": 726617667,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7348497,
+          32.9715285
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/videos/floodwaters-overtake-dam-in-mississippi-prompting-a-flash-flood-emergency/3ac5f348-949a-4239-ba1b-cb3521e1dd63",
+        "title": "Floodwaters overtake dam in Mississippi, prompting a flash flood emergency",
+        "source": "AccuWeather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T23:31:00Z",
+        "url": "https://www.accuweather.com/en/videos/floodwaters-overtake-dam-in-mississippi-prompting-a-flash-flood-emergency/3ac5f348-949a-4239-ba1b-cb3521e1dd63",
+        "mention_text": "Mississippi",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 161943,
+        "run_at": "2026-06-19T10:28:52.968255+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-06-18T10:27:20.356123+00:00",
-    "total_features": 1704
+    "last_updated": "2026-06-19T10:28:52.977245+00:00",
+    "total_features": 1739
   }
 }
