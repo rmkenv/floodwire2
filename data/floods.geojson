@@ -45214,11 +45214,895 @@
         "osm_id": 161943,
         "run_at": "2026-06-19T10:28:52.968255+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4951405,
+          29.4246002
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.expressnews.com/san-antonio-weather/article/flood-flash-texas-san-antonio-rain-22313229.php",
+        "title": "Flash flood warning issued for San Antonio until 6 a.m. Saturday",
+        "source": "San Antonio Express-News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-20T07:30:46Z",
+        "url": "https://www.expressnews.com/san-antonio-weather/article/flood-flash-texas-san-antonio-rain-22313229.php",
+        "mention_text": "San Antonio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Antonio, Bexar County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 253556,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7348497,
+          32.9715285
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/mississippi-and-louisiana-flash-flood-warnings-issued/71642523",
+        "title": "Mississippi and Louisiana Flash Flood Warnings Issued",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-20T03:01:00Z",
+        "url": "https://www.wdsu.com/article/mississippi-and-louisiana-flash-flood-warnings-issued/71642523",
+        "mention_text": "Mississippi",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 161943,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.007126,
+          30.8703881
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/mississippi-and-louisiana-flash-flood-warnings-issued/71642523",
+        "title": "Mississippi and Louisiana Flash Flood Warnings Issued",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-20T03:01:00Z",
+        "url": "https://www.wdsu.com/article/mississippi-and-louisiana-flash-flood-warnings-issued/71642523",
+        "mention_text": "Louisiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 224922,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5069834,
+          27.5079211
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.lmtonline.com/local/article/lpd-police-flash-flood-warning-laredo-friday-night-22313069.php",
+        "title": "LPD: Flash flood warning issued for Laredo area",
+        "source": "Laredo Morning Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-20T02:57:40Z",
+        "url": "https://www.lmtonline.com/local/article/lpd-police-flash-flood-warning-laredo-friday-night-22313069.php",
+        "mention_text": "Laredo",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Laredo, Webb County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 113253,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2175889,
+          29.9665252
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/US/tropical-storm-arthur-forms-gulf-off-texas-nws/story?id=133964957",
+        "title": "Life-threatening flash flood threats continue to hit Gulf states",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-20T05:19:23Z",
+        "url": "https://abcnews.com/US/tropical-storm-arthur-forms-gulf-off-texas-nws/story?id=133964957",
+        "mention_text": "Gulf",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Gulf County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210694,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.007126,
+          30.8703881
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcnews.com/weather/storms/severe-weather-tropical-storm-arthur-rcna350862",
+        "title": "Louisiana braces for more heavy rainfall as millions are under flash flood watches across the South",
+        "source": "NBC News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-19T18:11:30Z",
+        "url": "https://www.nbcnews.com/weather/storms/severe-weather-tropical-storm-arthur-rcna350862",
+        "mention_text": "Louisiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 224922,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3170402,
+          29.8494044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcnews.com/weather/storms/severe-weather-tropical-storm-arthur-rcna350862",
+        "title": "Louisiana braces for more heavy rainfall as millions are under flash flood watches across the South",
+        "source": "NBC News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-19T18:11:30Z",
+        "url": "https://www.nbcnews.com/weather/storms/severe-weather-tropical-storm-arthur-rcna350862",
+        "mention_text": "South",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "St. Augustine South, Saint Johns County, Florida, 32086, United States",
+        "osm_type": "town",
+        "osm_id": 13203803220,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.007126,
+          30.8703881
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/mississippi-and-louisiana-flash-flood-warnings-issued-1781926168/71642631",
+        "title": "Louisiana and Mississippi Flash Flood Warnings Issued",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-20T03:34:00Z",
+        "url": "https://www.wdsu.com/article/mississippi-and-louisiana-flash-flood-warnings-issued-1781926168/71642631",
+        "mention_text": "Louisiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 224922,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7348497,
+          32.9715285
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/mississippi-and-louisiana-flash-flood-warnings-issued-1781926168/71642631",
+        "title": "Louisiana and Mississippi Flash Flood Warnings Issued",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-20T03:34:00Z",
+        "url": "https://www.wdsu.com/article/mississippi-and-louisiana-flash-flood-warnings-issued-1781926168/71642631",
+        "mention_text": "Mississippi",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 161943,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6060984,
+          33.1609629
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article316193021.html",
+        "title": "UPDATE: Flood warning issued for Collin County until Saturday afternoon",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-06-19T14:42:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article316193021.html",
+        "mention_text": "Collin County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Collin County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837688,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0363849,
+          38.8950982
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/weather-impact/weather-impact-alert-severe-thunderstorm-watch-issued-for-orleans-jefferson/289-14d81b7d-e8ed-4d95-9d00-e4c521d7d317",
+        "title": "Flash Flood Warning issued for Washington, St. Tammany Parish and parts of southern Mississippi",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-19T22:36:00Z",
+        "url": "https://www.wwltv.com/article/weather/weather-impact/weather-impact-alert-severe-thunderstorm-watch-issued-for-orleans-jefferson/289-14d81b7d-e8ed-4d95-9d00-e4c521d7d317",
+        "mention_text": "Washington",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Washington, District of Columbia, United States",
+        "osm_type": "city",
+        "osm_id": 5396194,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9730381,
+          30.4243909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/weather-impact/weather-impact-alert-severe-thunderstorm-watch-issued-for-orleans-jefferson/289-14d81b7d-e8ed-4d95-9d00-e4c521d7d317",
+        "title": "Flash Flood Warning issued for Washington, St. Tammany Parish and parts of southern Mississippi",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-19T22:36:00Z",
+        "url": "https://www.wwltv.com/article/weather/weather-impact/weather-impact-alert-severe-thunderstorm-watch-issued-for-orleans-jefferson/289-14d81b7d-e8ed-4d95-9d00-e4c521d7d317",
+        "mention_text": "St. Tammany",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "St. Tammany Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836431,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7348497,
+          32.9715285
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/weather-impact/weather-impact-alert-severe-thunderstorm-watch-issued-for-orleans-jefferson/289-14d81b7d-e8ed-4d95-9d00-e4c521d7d317",
+        "title": "Flash Flood Warning issued for Washington, St. Tammany Parish and parts of southern Mississippi",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-19T22:36:00Z",
+        "url": "https://www.wwltv.com/article/weather/weather-impact/weather-impact-alert-severe-thunderstorm-watch-issued-for-orleans-jefferson/289-14d81b7d-e8ed-4d95-9d00-e4c521d7d317",
+        "mention_text": "Mississippi",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 161943,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8303536,
+          26.1488926
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article316191930.html",
+        "title": "UPDATE: The current flash flood warning for North Texas will be expiring at 11:45 a.m.",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-06-19T12:48:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article316191930.html",
+        "mention_text": "North Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, North La Feria Village Colonia, La Feria, Cameron County, Texas, 78559, United States",
+        "osm_type": "residential",
+        "osm_id": 20771906,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.007126,
+          30.8703881
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/louisiana-flash-flood-threat/71633772",
+        "title": "Flash flood threat again Friday, Saturday in Louisiana",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-19T03:36:00Z",
+        "url": "https://www.wdsu.com/article/louisiana-flash-flood-threat/71633772",
+        "mention_text": "Louisiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 224922,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7968559,
+          32.7762719
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox4news.com/video/fmc-7zfugipfbi2r11qj",
+        "title": "Dallas weather: Flash Flood Warning in effect",
+        "source": "FOX 4 News Dallas-Fort Worth",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-19T13:00:04Z",
+        "url": "https://www.fox4news.com/video/fmc-7zfugipfbi2r11qj",
+        "mention_text": "Dallas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dallas, Dallas County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 6571629,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8463851,
+          37.1670484
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/miami/news/south-florida-weather-forecast-miami-fort-lauderdale-miami-dade-broward-june-19-2026/",
+        "title": "Extreme heat continues in South Florida on Friday as severe thunderstorm, flash flood risk rises",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-19T12:58:00Z",
+        "url": "https://www.cbsnews.com/miami/news/south-florida-weather-forecast-miami-fort-lauderdale-miami-dade-broward-june-19-2026/",
+        "mention_text": "South Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South Florida, Columbus, Cherokee County, Kansas, 66725, United States",
+        "osm_type": "residential",
+        "osm_id": 12999746,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4191791,
+          41.0389186
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.magnoliareporter.com/news_and_business/local_news/article_8143225d-6dba-4c81-9752-0f2c56908124.html",
+        "title": "Flash flood warning for Columbia County",
+        "source": "Magnolia Reporter",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-19T16:05:00Z",
+        "url": "https://www.magnoliareporter.com/news_and_business/local_news/article_8143225d-6dba-4c81-9752-0f2c56908124.html",
+        "mention_text": "Columbia County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Columbia County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417770,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.007126,
+          30.8703881
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.msn.com/en-us/weather/topstories/louisiana-braces-for-more-heavy-rainfall-as-millions-are-under-flash-flood-watches-across-the-south/ar-AA265jyN",
+        "title": "Louisiana braces for more heavy rainfall as millions are under flash flood watches across the South",
+        "source": "MSN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-19T16:55:58Z",
+        "url": "https://www.msn.com/en-us/weather/topstories/louisiana-braces-for-more-heavy-rainfall-as-millions-are-under-flash-flood-watches-across-the-south/ar-AA265jyN",
+        "mention_text": "Louisiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 224922,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3170402,
+          29.8494044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.msn.com/en-us/weather/topstories/louisiana-braces-for-more-heavy-rainfall-as-millions-are-under-flash-flood-watches-across-the-south/ar-AA265jyN",
+        "title": "Louisiana braces for more heavy rainfall as millions are under flash flood watches across the South",
+        "source": "MSN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-19T16:55:58Z",
+        "url": "https://www.msn.com/en-us/weather/topstories/louisiana-braces-for-more-heavy-rainfall-as-millions-are-under-flash-flood-watches-across-the-south/ar-AA265jyN",
+        "mention_text": "South",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "St. Augustine South, Saint Johns County, Florida, 32086, United States",
+        "osm_type": "town",
+        "osm_id": 13203803220,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8303536,
+          26.1488926
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article316190838.html",
+        "title": "Flood advisory for North Texas until Friday morning caused by heavy downpours",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-06-19T09:54:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article316190838.html",
+        "mention_text": "North Texas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Texas, North La Feria Village Colonia, La Feria, Cameron County, Texas, 78559, United States",
+        "osm_type": "residential",
+        "osm_id": 20771906,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4597236,
+          31.196549
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdam.com/2026/06/19/covington-county-flash-flood-emergency-early-friday-morning/?outputType=amp",
+        "title": "Covington County flash flood emergency early Friday morning",
+        "source": "WDAM-TV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-19T07:54:00Z",
+        "url": "https://www.wdam.com/2026/06/19/covington-county-flash-flood-emergency-early-friday-morning/?outputType=amp",
+        "mention_text": "Covington County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Covington County, Alabama, United States",
+        "osm_type": "administrative",
+        "osm_id": 1848768,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7936473,
+          31.4254801
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ksla.com/2026/06/18/anchor-lake-dam-fails-pearl-river-county-flash-flood-emergency-issued/?outputType=amp",
+        "title": "Anchor Lake Dam fails in Pearl River County, Flash Flood Emergency issued",
+        "source": "KSLA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T17:17:00Z",
+        "url": "https://www.ksla.com/2026/06/18/anchor-lake-dam-fails-pearl-river-county-flash-flood-emergency-issued/?outputType=amp",
+        "mention_text": "Anchor Lake Dam",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Anchor Lake Dam, Gatesville, Coryell County, Texas, United States",
+        "osm_type": "dam",
+        "osm_id": 1238713440,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5984726,
+          30.7761604
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ksla.com/2026/06/18/anchor-lake-dam-fails-pearl-river-county-flash-flood-emergency-issued/?outputType=amp",
+        "title": "Anchor Lake Dam fails in Pearl River County, Flash Flood Emergency issued",
+        "source": "KSLA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T17:17:00Z",
+        "url": "https://www.ksla.com/2026/06/18/anchor-lake-dam-fails-pearl-river-county-flash-flood-emergency-issued/?outputType=amp",
+        "mention_text": "Pearl River County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pearl River County, Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832972,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3327459,
+          32.753177
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article316191017.html",
+        "title": "UPDATE: Flood advisory affecting Wise and Montague counties until Friday midday",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-06-19T10:34:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article316191017.html",
+        "mention_text": "Fort Worth",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Fort Worth, Tarrant County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 115274,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article316124456.html",
+        "title": "Coastal Colleton and Charleston County under a coastal flood advisory until Sunday night",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-14T18:48:04Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article316124456.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.946858,
+          45.1192108
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wxxv25.com/flash-flood-emergency-in-anchor-lake-area-of-pearl-river-county/",
+        "title": "Flash Flood Emergency in Anchor Lake area of Pearl River County",
+        "source": "WXXV News 25",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T20:50:14Z",
+        "url": "https://www.wxxv25.com/flash-flood-emergency-in-anchor-lake-area-of-pearl-river-county/",
+        "mention_text": "Anchor Lake",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Anchor Lake, Montmorency Township, Montmorency County, Michigan, United States",
+        "osm_type": "lake",
+        "osm_id": 424163770,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5984726,
+          30.7761604
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wxxv25.com/flash-flood-emergency-in-anchor-lake-area-of-pearl-river-county/",
+        "title": "Flash Flood Emergency in Anchor Lake area of Pearl River County",
+        "source": "WXXV News 25",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T20:50:14Z",
+        "url": "https://www.wxxv25.com/flash-flood-emergency-in-anchor-lake-area-of-pearl-river-county/",
+        "mention_text": "Pearl River County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pearl River County, Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832972,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7936473,
+          31.4254801
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kplctv.com/2026/06/18/anchor-lake-dam-fails-pearl-river-county-flash-flood-emergency-issued/?outputType=amp",
+        "title": "Anchor Lake Dam fails in Pearl River County, Flash Flood Emergency issued",
+        "source": "KPLC 7 News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T17:17:00Z",
+        "url": "https://www.kplctv.com/2026/06/18/anchor-lake-dam-fails-pearl-river-county-flash-flood-emergency-issued/?outputType=amp",
+        "mention_text": "Anchor Lake Dam",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Anchor Lake Dam, Gatesville, Coryell County, Texas, United States",
+        "osm_type": "dam",
+        "osm_id": 1238713440,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5984726,
+          30.7761604
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kplctv.com/2026/06/18/anchor-lake-dam-fails-pearl-river-county-flash-flood-emergency-issued/?outputType=amp",
+        "title": "Anchor Lake Dam fails in Pearl River County, Flash Flood Emergency issued",
+        "source": "KPLC 7 News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T17:17:00Z",
+        "url": "https://www.kplctv.com/2026/06/18/anchor-lake-dam-fails-pearl-river-county-flash-flood-emergency-issued/?outputType=amp",
+        "mention_text": "Pearl River County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pearl River County, Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832972,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article316125029.html",
+        "title": "Flood advisory in place for Myrtle Beach area and Georgetown County early Sunday evening",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-14T19:43:03Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article316125029.html",
+        "mention_text": "Myrtle Beach",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Myrtle Beach, Horry County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193842,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3343041,
+          33.4392245
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article316125029.html",
+        "title": "Flood advisory in place for Myrtle Beach area and Georgetown County early Sunday evening",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-14T19:43:03Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article316125029.html",
+        "mention_text": "Georgetown County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Georgetown County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532508,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.745748,
+          15.2174228
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article316111303.html",
+        "title": "UPDATE: Coastal flood advisory affecting Northern Coastal Humboldt until 2 a.m. Tuesday",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-12T23:19:00Z",
+        "url": "https://www.modbee.com/news/weather-news/article316111303.html",
+        "mention_text": "Northern Coastal",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Coastal Drive, Wireless Ridge, Navy Hill, Garapan, Saipan Municipality, Northern Mariana Islands, 96950, United States",
+        "osm_type": "residential",
+        "osm_id": 24199777,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.8854639,
+          33.759478
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article316070863.html",
+        "title": "UPDATE: San Francisco County under a coastal flood advisory until early Thursday morning",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-10T06:13:00Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article316070863.html",
+        "mention_text": "San Francisco County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco, Catron County, New Mexico, United States",
+        "osm_type": "peak",
+        "osm_id": 11066998506,
+        "run_at": "2026-06-20T08:58:25.751007+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-06-19T10:28:52.977245+00:00",
-    "total_features": 1739
+    "last_updated": "2026-06-20T08:58:25.760148+00:00",
+    "total_features": 1773
   }
 }
