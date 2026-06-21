@@ -46098,11 +46098,323 @@
         "osm_id": 11066998506,
         "run_at": "2026-06-20T08:58:25.751007+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0733934,
+          29.9561422
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/flash-flood-warning-new-orleans-louisiana-rain-storms/71648128",
+        "title": "A Flash Flood Warning in effect for metro New Orleans",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-20T20:09:00Z",
+        "url": "https://www.wdsu.com/article/flash-flood-warning-new-orleans-louisiana-rain-storms/71648128",
+        "mention_text": "New Orleans",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Orleans, Orleans Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 131885,
+        "run_at": "2026-06-21T09:52:36.347537+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8295337,
+          33.2588817
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wvtm13.com/article/birmingham-flash-flood-warning-jefferson-shelby-counties/71647401",
+        "title": "Heavy rain triggered life-threatening flash flood warning in parts of central Alabama",
+        "source": "WVTM",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-21T01:00:00Z",
+        "url": "https://www.wvtm13.com/article/birmingham-flash-flood-warning-jefferson-shelby-counties/71647401",
+        "mention_text": "Alabama",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Alabama, United States",
+        "osm_type": "administrative",
+        "osm_id": 161950,
+        "run_at": "2026-06-21T09:52:36.347537+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1704496,
+          29.834772
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/video/syndication/watch-utility/tracking-storms-as-flash-flood-warning-issued-for-jefferson-st-charles-parishes/289-0f985bad-205f-47c2-9337-148d88b81dc8",
+        "title": "Tracking storms as Flash Flood Warning issued for Jefferson, St. Charles parishes",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-20T20:20:00Z",
+        "url": "https://www.wwltv.com/video/syndication/watch-utility/tracking-storms-as-flash-flood-warning-issued-for-jefferson-st-charles-parishes/289-0f985bad-205f-47c2-9337-148d88b81dc8",
+        "mention_text": "Jefferson",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Jefferson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1841074,
+        "run_at": "2026-06-21T09:52:36.347537+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6747372,
+          38.7877791
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/video/syndication/watch-utility/tracking-storms-as-flash-flood-warning-issued-for-jefferson-st-charles-parishes/289-0f985bad-205f-47c2-9337-148d88b81dc8",
+        "title": "Tracking storms as Flash Flood Warning issued for Jefferson, St. Charles parishes",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-20T20:20:00Z",
+        "url": "https://www.wwltv.com/video/syndication/watch-utility/tracking-storms-as-flash-flood-warning-issued-for-jefferson-st-charles-parishes/289-0f985bad-205f-47c2-9337-148d88b81dc8",
+        "mention_text": "St. Charles",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Saint Charles County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180527,
+        "run_at": "2026-06-21T09:52:36.347537+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.007126,
+          30.8703881
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/news/local/flash-flood-warning-issued-for-jefferson-st-charles/289-e4ea2224-2a17-4f6b-80ea-549058dc1cc3",
+        "title": "Flash Flood Warning expires for parts of southeast Louisiana",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-20T20:05:00Z",
+        "url": "https://www.wwltv.com/article/news/local/flash-flood-warning-issued-for-jefferson-st-charles/289-e4ea2224-2a17-4f6b-80ea-549058dc1cc3",
+        "mention_text": "Louisiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 224922,
+        "run_at": "2026-06-21T09:52:36.347537+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5781416,
+          39.100105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kansascity.com/news/weather-news/article316206916.html",
+        "title": "Update: Flood advisory issued for the Kansas City area Sunday morning",
+        "source": "Kansas City Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-21T08:32:06Z",
+        "url": "https://www.kansascity.com/news/weather-news/article316206916.html",
+        "mention_text": "Kansas City",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kansas City, Jackson County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 141008,
+        "run_at": "2026-06-21T09:52:36.347537+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9730381,
+          30.4243909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/flood-advisory-st-tammany-hancock-louisiana-mississippi/71648234",
+        "title": "A Flood Advisory issued for parts of St. Tammany and Hancock",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-20T20:27:00Z",
+        "url": "https://www.wdsu.com/article/flood-advisory-st-tammany-hancock-louisiana-mississippi/71648234",
+        "mention_text": "St. Tammany",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "St. Tammany Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836431,
+        "run_at": "2026-06-21T09:52:36.347537+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9759066,
+          33.7635851
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article316188974.html",
+        "title": "Aiken and Edgefield counties placed under a flood advisory until early Friday",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-19T03:01:06Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article316188974.html",
+        "mention_text": "Edgefield",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Edgefield County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532505,
+        "run_at": "2026-06-21T09:52:36.347537+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8445875,
+          34.0317624
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article316125410.html",
+        "title": "UPDATE: Coastal flood advisory in place for Malibu Coast until 2 a.m. Tuesday",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T03:44:04Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article316125410.html",
+        "mention_text": "Malibu Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Pacific Coast Highway, Trancas, Malibu, Los Angeles County, California, United States",
+        "osm_type": "trunk",
+        "osm_id": 607103546,
+        "run_at": "2026-06-21T09:52:36.347537+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4,
+          38.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article316127244.html",
+        "title": "Flood advisory in place for Central Valley Sunday evening caused by persistent rainfall",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T00:01:04Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article316127244.html",
+        "mention_text": "Central Valley",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Central Valley, San Joaquin County, California, 95201, United States",
+        "osm_type": "valley",
+        "osm_id": 5322066621,
+        "run_at": "2026-06-21T09:52:36.347537+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article316124456.html",
+        "title": "Coastal Colleton and Charleston County under a coastal flood advisory until Sunday night",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-14T18:48:04Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article316124456.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-06-21T09:52:36.347537+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5970308,
+          35.4804633
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316097534.html",
+        "title": "Eastern North Carolina placed under a flood advisory until Thursday night",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-11T22:39:03Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316097534.html",
+        "mention_text": "Eastern North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Eastern Correctional Institution, 2821, NC 903, Maury, Greene County, North Carolina, 28554, United States",
+        "osm_type": "prison",
+        "osm_id": 1353026405,
+        "run_at": "2026-06-21T09:52:36.347537+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-06-20T08:58:25.760148+00:00",
-    "total_features": 1773
+    "last_updated": "2026-06-21T09:52:36.355052+00:00",
+    "total_features": 1785
   }
 }
