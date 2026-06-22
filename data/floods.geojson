@@ -46410,11 +46410,531 @@
         "osm_id": 1353026405,
         "run_at": "2026-06-21T09:52:36.347537+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1893727,
+          36.0740389
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nwahomepage.com/news/featured-stories/early-morning-tornado-flash-flood-warnings-across-northwest-arkansas-river-valley/",
+        "title": "Early morning tornado, flash flood warnings across Northwest Arkansas, River Valley",
+        "source": "KNWA FOX24",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-22T11:26:04Z",
+        "url": "https://www.nwahomepage.com/news/featured-stories/early-morning-tornado-flash-flood-warnings-across-northwest-arkansas-river-valley/",
+        "mention_text": "Northwest Arkansas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Temple Shalom, 699, North Sang Avenue, Fayetteville, Washington County, Arkansas, 72701, United States",
+        "osm_type": "place_of_worship",
+        "osm_id": 474047923,
+        "run_at": "2026-06-22T11:56:25.651040+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7822406,
+          48.0202386
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nwahomepage.com/news/featured-stories/early-morning-tornado-flash-flood-warnings-across-northwest-arkansas-river-valley/",
+        "title": "Early morning tornado, flash flood warnings across Northwest Arkansas, River Valley",
+        "source": "KNWA FOX24",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-22T11:26:04Z",
+        "url": "https://www.nwahomepage.com/news/featured-stories/early-morning-tornado-flash-flood-warnings-across-northwest-arkansas-river-valley/",
+        "mention_text": "River Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "River Valley, Pennington County, Minnesota, United States",
+        "osm_type": "hamlet",
+        "osm_id": 151407263,
+        "run_at": "2026-06-22T11:56:25.651040+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1935973,
+          25.7741566
+        ]
+      },
+      "properties": {
+        "article_id": "https://ktul.com/news/local/flood-warning-issued-in-miami-06-21-2026",
+        "title": "Flood Warning issued in Miami",
+        "source": "KTUL",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-22T07:17:22Z",
+        "url": "https://ktul.com/news/local/flood-warning-issued-in-miami-06-21-2026",
+        "mention_text": "Miami",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Miami, Miami-Dade County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1216769,
+        "run_at": "2026-06-22T11:56:25.651040+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5617875,
+          38.7604815
+        ]
+      },
+      "properties": {
+        "article_id": "https://abc17news.com/news/local-news/2026/06/21/mid-missouri-residents-urged-to-avoid-flooded-roads-as-storms-trigger-flash-flood-warnings/",
+        "title": "Mid-Missouri residents urged to avoid flooded roads as storms trigger flash flood warnings",
+        "source": "ABC17NEWS",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-21T19:46:02Z",
+        "url": "https://abc17news.com/news/local-news/2026/06/21/mid-missouri-residents-urged-to-avoid-flooded-roads-as-storms-trigger-flash-flood-warnings/",
+        "mention_text": "Missouri",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 161638,
+        "run_at": "2026-06-22T11:56:25.651040+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1935973,
+          25.7741566
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox23.com/news/flood-warning-issued-in-miami/article_f5418d64-6c77-4a3e-8504-0f8bc2e795b6.html",
+        "title": "Flood Warning issued in Miami",
+        "source": "fox23.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-21T18:43:00Z",
+        "url": "https://www.fox23.com/news/flood-warning-issued-in-miami/article_f5418d64-6c77-4a3e-8504-0f8bc2e795b6.html",
+        "mention_text": "Miami",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Miami, Miami-Dade County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1216769,
+        "run_at": "2026-06-22T11:56:25.651040+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8449946,
+          43.1561681
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather/2026/06/ny-weather-flash-flood-watch-severe-storm-threat-issued-for-staten-island.html",
+        "title": "N.Y. Weather: Flash flood watch, severe storm threat issued for Staten Island",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-22T10:52:00Z",
+        "url": "https://www.silive.com/weather/2026/06/ny-weather-flash-flood-watch-severe-storm-threat-issued-for-staten-island.html",
+        "mention_text": "N.Y.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 61320,
+        "run_at": "2026-06-22T11:56:25.651040+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1496048,
+          40.5834557
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather/2026/06/ny-weather-flash-flood-watch-severe-storm-threat-issued-for-staten-island.html",
+        "title": "N.Y. Weather: Flash flood watch, severe storm threat issued for Staten Island",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-22T10:52:00Z",
+        "url": "https://www.silive.com/weather/2026/06/ny-weather-flash-flood-watch-severe-storm-threat-issued-for-staten-island.html",
+        "mention_text": "Staten Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Staten Island, Richmond County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 9691948,
+        "run_at": "2026-06-22T11:56:25.651040+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8204601,
+          39.1914156
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.therepublic.com/2026/06/21/tornado-watch-issued-for-bartholomew-county-through-early-monday-morning/",
+        "title": "Flash Flood Warning in effect until midnight for most of Bartholomew County",
+        "source": "The Republic News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-21T21:55:12Z",
+        "url": "https://www.therepublic.com/2026/06/21/tornado-watch-issued-for-bartholomew-county-through-early-monday-morning/",
+        "mention_text": "Bartholomew County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Bartholomew County, Indiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 1325365,
+        "run_at": "2026-06-22T11:56:25.651040+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8399077,
+          30.0294356
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/bridge-city-surrounding-areas-see-132705252.html",
+        "title": "Bridge City, surrounding areas see heavy rainfall under flash flood warning, STAN",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-21T13:27:05Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/bridge-city-surrounding-areas-see-132705252.html",
+        "mention_text": "Bridge City",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Bridge City, Orange County, Texas, 77611, United States",
+        "osm_type": "administrative",
+        "osm_id": 114737,
+        "run_at": "2026-06-22T11:56:25.651040+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4577554,
+          43.1260226
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tuscaloosanews.com/story/weather/2026/06/21/weather-alert/90635737007/",
+        "title": "Flood warning issued for West Alabama",
+        "source": "The Tuscaloosa News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-21T16:47:00Z",
+        "url": "https://www.tuscaloosanews.com/story/weather/2026/06/21/weather-alert/90635737007/",
+        "mention_text": "West Alabama",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "West Alabama, Town of Alabama, Genesee County, New York, United States",
+        "osm_type": "hamlet",
+        "osm_id": 158367963,
+        "run_at": "2026-06-22T11:56:25.651040+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1935973,
+          25.7741566
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newson6.com/tulsa-oklahoma-news/miami-oklahoma-flood-warning",
+        "title": "Flood Warning issued for Miami, Oklahoma",
+        "source": "News On 6",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-21T15:57:57Z",
+        "url": "https://www.newson6.com/tulsa-oklahoma-news/miami-oklahoma-flood-warning",
+        "mention_text": "Miami",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Miami, Miami-Dade County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1216769,
+        "run_at": "2026-06-22T11:56:25.651040+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2684063,
+          34.9550817
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newson6.com/tulsa-oklahoma-news/miami-oklahoma-flood-warning",
+        "title": "Flood Warning issued for Miami, Oklahoma",
+        "source": "News On 6",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-21T15:57:57Z",
+        "url": "https://www.newson6.com/tulsa-oklahoma-news/miami-oklahoma-flood-warning",
+        "mention_text": "Oklahoma",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oklahoma, United States",
+        "osm_type": "administrative",
+        "osm_id": 161645,
+        "run_at": "2026-06-22T11:56:25.651040+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8805728,
+          33.1038897
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.12newsnow.com/video/weather/met-stream/502-c1d33ee4-3aae-412d-87dc-73d5ade63a2a",
+        "title": "Flash flood warnings remain for parts of Southeast Texas after heavy rain",
+        "source": "12newsnow.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-21T15:45:00Z",
+        "url": "https://www.12newsnow.com/video/weather/met-stream/502-c1d33ee4-3aae-412d-87dc-73d5ade63a2a",
+        "mention_text": "Southeast Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Northeast Texas Community College, Southeast 14, Titus County, Texas, 75456, United States",
+        "osm_type": "college",
+        "osm_id": 15656498,
+        "run_at": "2026-06-22T11:56:25.651040+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5781416,
+          39.100105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kansascity.com/news/weather-news/article316207170.html",
+        "title": "Update: Flash flood warning issued for the Kansas City area Sunday morning",
+        "source": "Kansas City Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-21T11:13:07Z",
+        "url": "https://www.kansascity.com/news/weather-news/article316207170.html",
+        "mention_text": "Kansas City",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kansas City, Jackson County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 141008,
+        "run_at": "2026-06-22T11:56:25.651040+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8805728,
+          33.1038897
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.12newsnow.com/video/weather/1030a-met-stream/502-0598ba8a-3ef0-429a-ab07-f120d1c8ca7b",
+        "title": "Flash flood warnings continue after heavy overnight rain in Southeast Texas",
+        "source": "12newsnow.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-21T16:05:00Z",
+        "url": "https://www.12newsnow.com/video/weather/1030a-met-stream/502-0598ba8a-3ef0-429a-ab07-f120d1c8ca7b",
+        "mention_text": "Southeast Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Northeast Texas Community College, Southeast 14, Titus County, Texas, 75456, United States",
+        "osm_type": "college",
+        "osm_id": 15656498,
+        "run_at": "2026-06-22T11:56:25.651040+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1704496,
+          29.834772
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwnytv.com/video/2026/06/19/lakeshore-flood-warning-issued-jefferson-county-wet-week-ahead-north-country/",
+        "title": "Lakeshore flood warning issued for Jefferson County, wet week ahead for North Country",
+        "source": "WWNY",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-19T10:12:00Z",
+        "url": "https://www.wwnytv.com/video/2026/06/19/lakeshore-flood-warning-issued-jefferson-county-wet-week-ahead-north-country/",
+        "mention_text": "Jefferson County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Jefferson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1841074,
+        "run_at": "2026-06-22T11:56:25.651040+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9675232,
+          45.6806353
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwnytv.com/video/2026/06/19/lakeshore-flood-warning-issued-jefferson-county-wet-week-ahead-north-country/",
+        "title": "Lakeshore flood warning issued for Jefferson County, wet week ahead for North Country",
+        "source": "WWNY",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-19T10:12:00Z",
+        "url": "https://www.wwnytv.com/video/2026/06/19/lakeshore-flood-warning-issued-jefferson-county-wet-week-ahead-north-country/",
+        "mention_text": "North Country",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Country National Scenic Trail, Bliss Township, Emmet County, Michigan, United States",
+        "osm_type": "footway",
+        "osm_id": 628843424,
+        "run_at": "2026-06-22T11:56:25.651040+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5617875,
+          38.7604815
+        ]
+      },
+      "properties": {
+        "article_id": "https://fox2now.com/news/missouri/flood-advisory-in-missouri-tornado-watch-in-illinois/amp/",
+        "title": "Flood advisory in Missouri, tornado watches, warnings in Illinois",
+        "source": "FOX 2",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-21T15:08:19Z",
+        "url": "https://fox2now.com/news/missouri/flood-advisory-in-missouri-tornado-watch-in-illinois/amp/",
+        "mention_text": "Missouri",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 161638,
+        "run_at": "2026-06-22T11:56:25.651040+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4337288,
+          40.0796606
+        ]
+      },
+      "properties": {
+        "article_id": "https://fox2now.com/news/missouri/flood-advisory-in-missouri-tornado-watch-in-illinois/amp/",
+        "title": "Flood advisory in Missouri, tornado watches, warnings in Illinois",
+        "source": "FOX 2",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-21T15:08:19Z",
+        "url": "https://fox2now.com/news/missouri/flood-advisory-in-missouri-tornado-watch-in-illinois/amp/",
+        "mention_text": "Illinois",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 122586,
+        "run_at": "2026-06-22T11:56:25.651040+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2471338,
+          37.8709542
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article316064459.html",
+        "title": "Greenwood County under a flood advisory until Tuesday night, says the NWS",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-09T19:26:04Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article316064459.html",
+        "mention_text": "Greenwood County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Greenwood County, Kansas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1070369,
+        "run_at": "2026-06-22T11:56:25.651040+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-06-21T09:52:36.355052+00:00",
-    "total_features": 1785
+    "last_updated": "2026-06-22T11:56:25.660006+00:00",
+    "total_features": 1805
   }
 }
