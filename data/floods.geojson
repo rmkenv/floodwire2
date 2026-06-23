@@ -46930,11 +46930,687 @@
         "osm_id": 1070369,
         "run_at": "2026-06-22T11:56:25.651040+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.578509,
+          37.3859982
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wric.com/weather/severe-weather/flash-flood-warning-central-virginia-june-22/",
+        "title": "Flash flood warning issued in Chesterfield, Tri-Cities amid severe storms",
+        "source": "WRIC ABC 8News",
+        "outlet_city": "Richmond",
+        "outlet_region": "Virginia",
+        "published_at": "2026-06-23T01:36:03Z",
+        "url": "https://www.wric.com/weather/severe-weather/flash-flood-warning-central-virginia-june-22/",
+        "mention_text": "Chesterfield",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Chesterfield County, Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 2534172,
+        "run_at": "2026-06-23T09:42:34.730278+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0357266,
+          41.1519319
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/06/flash-flood-warning-issued-for-orange-and-rockland-counties-until-early-tuesday-morning-triggered-by.html",
+        "title": "Flash flood warning issued for Orange and Rockland counties until early Tuesday morning triggered by thunderstorms",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-23T06:49:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/06/flash-flood-warning-issued-for-orange-and-rockland-counties-until-early-tuesday-morning-triggered-by.html",
+        "mention_text": "Rockland",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Rockland County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1835363,
+        "run_at": "2026-06-23T09:42:34.730278+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8445755,
+          39.168867
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.rgj.com/picture-gallery/news/2026/06/22/see-hidden-valley-after-a-flash-flood-damaged-homes-yards-streets/90645911007/",
+        "title": "See photos from Hidden Valley flash flood",
+        "source": "Reno Gazette Journal",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-22T17:50:00Z",
+        "url": "https://www.rgj.com/picture-gallery/news/2026/06/22/see-hidden-valley-after-a-flash-flood-damaged-homes-yards-streets/90645911007/",
+        "mention_text": "Hidden Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hidden Valley, Miller Township, Dearborn County, Indiana, 47025, United States",
+        "osm_type": "census",
+        "osm_id": 127235,
+        "run_at": "2026-06-23T09:42:34.730278+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.812658,
+          39.5261788
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.rgj.com/videos/news/2026/06/22/renos-hidden-valley-hit-with-flash-flood-see-how-it-looks-days-after/90652226007/",
+        "title": "Reno's Hidden Valley hit with flash flood. See how it looks days after",
+        "source": "Reno Gazette Journal",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-23T01:11:05Z",
+        "url": "https://www.rgj.com/videos/news/2026/06/22/renos-hidden-valley-hit-with-flash-flood-see-how-it-looks-days-after/90652226007/",
+        "mention_text": "Reno",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Reno, Washoe County, Nevada, United States",
+        "osm_type": "administrative",
+        "osm_id": 170120,
+        "run_at": "2026-06-23T09:42:34.730278+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8445755,
+          39.168867
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.rgj.com/videos/news/2026/06/22/renos-hidden-valley-hit-with-flash-flood-see-how-it-looks-days-after/90652226007/",
+        "title": "Reno's Hidden Valley hit with flash flood. See how it looks days after",
+        "source": "Reno Gazette Journal",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-23T01:11:05Z",
+        "url": "https://www.rgj.com/videos/news/2026/06/22/renos-hidden-valley-hit-with-flash-flood-see-how-it-looks-days-after/90652226007/",
+        "mention_text": "Hidden Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hidden Valley, Miller Township, Dearborn County, Indiana, 47025, United States",
+        "osm_type": "census",
+        "osm_id": 127235,
+        "run_at": "2026-06-23T09:42:34.730278+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3702305,
+          40.2154361
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.phillyburbs.com/story/weather/2026/06/22/weather-alert-montgomery-county-pa-flash-flood-june-22/90651219007/",
+        "title": "Flash flood warning issued for Montgomery County",
+        "source": "PhillyBurbs",
+        "outlet_city": "Philadelphia",
+        "outlet_region": "Pennsylvania",
+        "published_at": "2026-06-22T22:33:00Z",
+        "url": "https://www.phillyburbs.com/story/weather/2026/06/22/weather-alert-montgomery-county-pa-flash-flood-june-22/90651219007/",
+        "mention_text": "Montgomery County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Montgomery County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417844,
+        "run_at": "2026-06-23T09:42:34.730278+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3648257,
+          41.2642925
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtae.com/article/parts-of-western-pa-under-flash-flood-warning-monday-june-22-2026/71667752",
+        "title": "Flash Flood Warning expires in Western Pennsylvania Monday",
+        "source": "WTAE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-23T01:08:00Z",
+        "url": "https://www.wtae.com/article/parts-of-western-pa-under-flash-flood-warning-monday-june-22-2026/71667752",
+        "mention_text": "Western Pennsylvania",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pennsylvania Avenue, The Village of Western Reserve, Streetsboro, Portage County, Ohio, 44241, United States",
+        "osm_type": "residential",
+        "osm_id": 19216015,
+        "run_at": "2026-06-23T09:42:34.730278+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6881395,
+          40.2253569
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtrf.com/top-stories/flash-flood-warning-issued-for-harrison-jefferson-counties-in-eastern-ohio/",
+        "title": "Flash Flood Warning issued in Ohio Valley",
+        "source": "WTRF",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-22T18:27:43Z",
+        "url": "https://www.wtrf.com/top-stories/flash-flood-warning-issued-for-harrison-jefferson-counties-in-eastern-ohio/",
+        "mention_text": "Ohio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 162061,
+        "run_at": "2026-06-23T09:42:34.730278+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9805484,
+          41.5595723
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtrf.com/top-stories/flash-flood-warning-issued-for-harrison-jefferson-counties-in-eastern-ohio/",
+        "title": "Flash Flood Warning issued in Ohio Valley",
+        "source": "WTRF",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-22T18:27:43Z",
+        "url": "https://www.wtrf.com/top-stories/flash-flood-warning-issued-for-harrison-jefferson-counties-in-eastern-ohio/",
+        "mention_text": "Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Valley County, Nebraska, United States",
+        "osm_type": "administrative",
+        "osm_id": 1425395,
+        "run_at": "2026-06-23T09:42:34.730278+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.812658,
+          39.5261788
+        ]
+      },
+      "properties": {
+        "article_id": "https://elkodaily.com/news/state-regional/nevada/article_5d706763-e688-5779-91b0-b2551c288a48.html",
+        "title": "Reno's Hidden Valley digging out after last week's flash flood",
+        "source": "Elko Daily Free Press",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-23T01:03:36Z",
+        "url": "https://elkodaily.com/news/state-regional/nevada/article_5d706763-e688-5779-91b0-b2551c288a48.html",
+        "mention_text": "Reno",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Reno, Washoe County, Nevada, United States",
+        "osm_type": "administrative",
+        "osm_id": 170120,
+        "run_at": "2026-06-23T09:42:34.730278+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8445755,
+          39.168867
+        ]
+      },
+      "properties": {
+        "article_id": "https://elkodaily.com/news/state-regional/nevada/article_5d706763-e688-5779-91b0-b2551c288a48.html",
+        "title": "Reno's Hidden Valley digging out after last week's flash flood",
+        "source": "Elko Daily Free Press",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-23T01:03:36Z",
+        "url": "https://elkodaily.com/news/state-regional/nevada/article_5d706763-e688-5779-91b0-b2551c288a48.html",
+        "mention_text": "Hidden Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hidden Valley, Miller Township, Dearborn County, Indiana, 47025, United States",
+        "osm_type": "census",
+        "osm_id": 127235,
+        "run_at": "2026-06-23T09:42:34.730278+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5002608,
+          44.5990718
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mychamplainvalley.com/video/localized-flash-flood-risk-for-vermont-new-hampshire/11904008/",
+        "title": "Localized flash flood risk for Vermont, New Hampshire \u2013 ABC22 & FOX44",
+        "source": "MyChamplainValley.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-22T12:33:30Z",
+        "url": "https://www.mychamplainvalley.com/video/localized-flash-flood-risk-for-vermont-new-hampshire/11904008/",
+        "mention_text": "Vermont",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Vermont, United States",
+        "osm_type": "administrative",
+        "osm_id": 60759,
+        "run_at": "2026-06-23T09:42:34.730278+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6553992,
+          43.4849133
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mychamplainvalley.com/video/localized-flash-flood-risk-for-vermont-new-hampshire/11904008/",
+        "title": "Localized flash flood risk for Vermont, New Hampshire \u2013 ABC22 & FOX44",
+        "source": "MyChamplainValley.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-22T12:33:30Z",
+        "url": "https://www.mychamplainvalley.com/video/localized-flash-flood-risk-for-vermont-new-hampshire/11904008/",
+        "mention_text": "New Hampshire",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Hampshire, United States",
+        "osm_type": "administrative",
+        "osm_id": 67213,
+        "run_at": "2026-06-23T09:42:34.730278+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8705871,
+          29.4616211
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/flash-flood-warning-louisiana-rain-storms-flooding/71648246",
+        "title": "A Flash Flood Warning is in effect for parts of Terrebonne and Lafourche",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-20T20:35:00Z",
+        "url": "https://www.wdsu.com/article/flash-flood-warning-louisiana-rain-storms-flooding/71648246",
+        "mention_text": "Terrebonne",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Terrebonne Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836620,
+        "run_at": "2026-06-23T09:42:34.730278+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9559692,
+          29.8381635
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wpxi.com/news/local/scattered-thunderstorms-possible-throughout-monday-afternoon/7O3CJRKK35ETNOJTOCGYA756ZY/",
+        "title": "Flash Flood Warning issued for parts of Fayette County",
+        "source": "WPXI",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-22T15:36:22Z",
+        "url": "https://www.wpxi.com/news/local/scattered-thunderstorms-possible-throughout-monday-afternoon/7O3CJRKK35ETNOJTOCGYA756ZY/",
+        "mention_text": "Fayette County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Fayette County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837665,
+        "run_at": "2026-06-23T09:42:34.730278+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5002608,
+          44.5990718
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/localized-flash-flood-risk-vermont-124214717.html",
+        "title": "Localized flash flood risk for Vermont, New Hampshire",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-22T12:42:14Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/localized-flash-flood-risk-vermont-124214717.html",
+        "mention_text": "Vermont",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Vermont, United States",
+        "osm_type": "administrative",
+        "osm_id": 60759,
+        "run_at": "2026-06-23T09:42:34.730278+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6553992,
+          43.4849133
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/localized-flash-flood-risk-vermont-124214717.html",
+        "title": "Localized flash flood risk for Vermont, New Hampshire",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-22T12:42:14Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/localized-flash-flood-risk-vermont-124214717.html",
+        "mention_text": "New Hampshire",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Hampshire, United States",
+        "osm_type": "administrative",
+        "osm_id": 67213,
+        "run_at": "2026-06-23T09:42:34.730278+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4577554,
+          43.1260226
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tuscaloosanews.com/story/weather/2026/06/22/weather-alert/90641588007/",
+        "title": "Flood warning issued for West Alabama",
+        "source": "The Tuscaloosa News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-22T14:09:00Z",
+        "url": "https://www.tuscaloosanews.com/story/weather/2026/06/22/weather-alert/90641588007/",
+        "mention_text": "West Alabama",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "West Alabama, Town of Alabama, Genesee County, New York, United States",
+        "osm_type": "hamlet",
+        "osm_id": 158367963,
+        "run_at": "2026-06-23T09:42:34.730278+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2512895,
+          45.0157576
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/2026/06/20/storms/severe/strong-tornadoes-central-plains-hail-wind-flood-weekend",
+        "title": "Severe weather, flash flood threats in Northeast, South, Plains",
+        "source": "The Weather Channel",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-20T15:44:00Z",
+        "url": "https://weather.com/2026/06/20/storms/severe/strong-tornadoes-central-plains-hail-wind-flood-weekend",
+        "mention_text": "Northeast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Northeast, Minneapolis, Hennepin County, Minnesota, 55418, United States",
+        "osm_type": "suburb",
+        "osm_id": 2084902014,
+        "run_at": "2026-06-23T09:42:34.730278+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3170402,
+          29.8494044
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/2026/06/20/storms/severe/strong-tornadoes-central-plains-hail-wind-flood-weekend",
+        "title": "Severe weather, flash flood threats in Northeast, South, Plains",
+        "source": "The Weather Channel",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-20T15:44:00Z",
+        "url": "https://weather.com/2026/06/20/storms/severe/strong-tornadoes-central-plains-hail-wind-flood-weekend",
+        "mention_text": "South",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "St. Augustine South, Saint Johns County, Florida, 32086, United States",
+        "osm_type": "town",
+        "osm_id": 13203803220,
+        "run_at": "2026-06-23T09:42:34.730278+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.280075,
+          43.411391
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/video/134070971/",
+        "title": "Video Flash flood threat in the Plains, Midwest",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-21T13:02:04Z",
+        "url": "https://abcnews.com/video/134070971/",
+        "mention_text": "Midwest",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Midwest, Natrona County, Wyoming, United States",
+        "osm_type": "administrative",
+        "osm_id": 252227,
+        "run_at": "2026-06-23T09:42:34.730278+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.007126,
+          30.8703881
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-jefferson-200208597.html",
+        "title": "Flash Flood Warning expires for parts of southeast Louisiana",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-20T20:02:08Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-jefferson-200208597.html",
+        "mention_text": "Louisiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 224922,
+        "run_at": "2026-06-23T09:42:34.730278+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4323617,
+          40.8325928
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tomahawkleader.com/stories/wps-to-test-jersey-dam-flood-emergency-warning-siren,341247",
+        "title": "WPS to test Jersey Dam flood emergency warning siren",
+        "source": "Tomahawk Leader",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-22T12:46:00Z",
+        "url": "https://www.tomahawkleader.com/stories/wps-to-test-jersey-dam-flood-emergency-warning-siren,341247",
+        "mention_text": "Jersey Dam",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "New Jersey No Name #56 Dam, Malapardis, Whippany, Hanover Township, Morris County, New Jersey, 07981, United States",
+        "osm_type": "dam",
+        "osm_id": 974235591,
+        "run_at": "2026-06-23T09:42:34.730278+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2599081,
+          34.2189515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316186274.html",
+        "title": "Flood advisory issued for Western North Carolina Thursday night, says the NWS",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T22:37:06Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316186274.html",
+        "mention_text": "Western North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Western Drive, Bishopville, Lee County, South Carolina, 29010, United States",
+        "osm_type": "residential",
+        "osm_id": 12470936,
+        "run_at": "2026-06-23T09:42:34.730278+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7907554,
+          41.1763139
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/06/update-flood-advisory-issued-for-westchester-county-until-1-a-m-tuesday-caused-by-prolonged-rain.html",
+        "title": "Update: Flood advisory issued for Westchester County until 2 a.m. Tuesday caused by prolonged rain",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-23T04:04:57Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/06/update-flood-advisory-issued-for-westchester-county-until-1-a-m-tuesday-caused-by-prolonged-rain.html",
+        "mention_text": "Westchester County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Westchester County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1838027,
+        "run_at": "2026-06-23T09:42:34.730278+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercedsunstar.com/news/weather-news/article316139204.html",
+        "title": "Coastal flood advisory in place for Los Angeles until 2 a.m. Wednesday",
+        "source": "Merced Sun-Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T20:55:03Z",
+        "url": "https://www.mercedsunstar.com/news/weather-news/article316139204.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-06-23T09:42:34.730278+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-06-22T11:56:25.660006+00:00",
-    "total_features": 1805
+    "last_updated": "2026-06-23T09:42:34.739202+00:00",
+    "total_features": 1831
   }
 }
