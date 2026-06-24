@@ -47606,11 +47606,739 @@
         "osm_id": 207359,
         "run_at": "2026-06-23T09:42:34.730278+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8445755,
+          39.168867
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kolotv.com/2026/06/23/hidden-valley-couple-faces-uncertain-next-steps-after-flash-flood-damages-home/",
+        "title": "Hidden Valley couple faces uncertain next steps after flash flood damages home",
+        "source": "KOLO | 8 News Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-23T23:15:00Z",
+        "url": "https://www.kolotv.com/2026/06/23/hidden-valley-couple-faces-uncertain-next-steps-after-flash-flood-damages-home/",
+        "mention_text": "Hidden Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hidden Valley, Miller Township, Dearborn County, Indiana, 47025, United States",
+        "osm_type": "census",
+        "osm_id": 127235,
+        "run_at": "2026-06-24T09:31:57.183843+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7838526,
+          39.3260541
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox5vegas.com/2026/06/23/regional-flood-control-district-kick-off-flash-flood-season-clark-county/",
+        "title": "Clark County officials urge flood preparedness ahead of flash flood season",
+        "source": "FOX5 Vegas",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-23T16:18:00Z",
+        "url": "https://www.fox5vegas.com/2026/06/23/regional-flood-control-district-kick-off-flash-flood-season-clark-county/",
+        "mention_text": "Clark County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Clark County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1801517,
+        "run_at": "2026-06-24T09:31:57.183843+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.017838,
+          34.3284948
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kxii.com/2026/06/23/flash-floods-impacting-multiple-counties-texoma/",
+        "title": "Heavy rain floods Texoma; flash flood emergency issued for Atoka County",
+        "source": "KXII",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-23T17:14:00Z",
+        "url": "https://www.kxii.com/2026/06/23/flash-floods-impacting-multiple-counties-texoma/",
+        "mention_text": "Atoka County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atoka County, Oklahoma, United States",
+        "osm_type": "administrative",
+        "osm_id": 1822190,
+        "run_at": "2026-06-24T09:31:57.183843+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5170536,
+          35.4729886
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.oklahoman.com/story/weather/2026/06/23/weather-alert/90664697007/",
+        "title": "Flash flood warning issued for Oklahoma City area",
+        "source": "The Oklahoman",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-23T19:48:00Z",
+        "url": "https://www.oklahoman.com/story/weather/2026/06/23/weather-alert/90664697007/",
+        "mention_text": "Oklahoma City",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Oklahoma City, Oklahoma County, Oklahoma, United States",
+        "osm_type": "administrative",
+        "osm_id": 185048,
+        "run_at": "2026-06-24T09:31:57.183843+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1211795,
+          33.1197504
+        ]
+      },
+      "properties": {
+        "article_id": "https://news3lv.com/news/local/summer-brings-flash-flood-season-to-southern-nevada",
+        "title": "Summer brings flash flood season to Southern Nevada",
+        "source": "KSNV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-23T21:10:37Z",
+        "url": "https://news3lv.com/news/local/summer-brings-flash-flood-season-to-southern-nevada",
+        "mention_text": "Southern Nevada",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Nevada Drive, Southern Acres Addition, Greenville, Hunt County, Texas, 75401, United States",
+        "osm_type": "residential",
+        "osm_id": 9558938,
+        "run_at": "2026-06-24T09:31:57.183843+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7838526,
+          39.3260541
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox5vegas.com/video/2026/06/23/water-always-wins-clark-county-officials-urge-preparedness-ahead-flash-flood-season/",
+        "title": "\u2018Water always wins\u2019: Clark County officials urge preparedness ahead of flash flood season",
+        "source": "FOX5 Vegas",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-23T18:54:00Z",
+        "url": "https://www.fox5vegas.com/video/2026/06/23/water-always-wins-clark-county-officials-urge-preparedness-ahead-flash-flood-season/",
+        "mention_text": "Clark County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Clark County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1801517,
+        "run_at": "2026-06-24T09:31:57.183843+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4114187,
+          36.9507552
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.13newsnow.com/video/news/local/mycity/norfolk/flash-flood-warning-issued-for-parts-of-hampton-roads-as-strong-storms-move-through/291-d7fc7e5b-7974-4da3-a31a-0daf70472b72",
+        "title": "Flash flood warning issued for parts of Hampton Roads as strong storms move through",
+        "source": "13newsnow.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-23T19:38:00Z",
+        "url": "https://www.13newsnow.com/video/news/local/mycity/norfolk/flash-flood-warning-issued-for-parts-of-hampton-roads-as-strong-storms-move-through/291-d7fc7e5b-7974-4da3-a31a-0daf70472b72",
+        "mention_text": "Hampton Roads",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hampton Roads, Newport News, Isle of Wight County, Virginia, United States",
+        "osm_type": "bay",
+        "osm_id": 11497477,
+        "run_at": "2026-06-24T09:31:57.183843+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6060984,
+          33.1609629
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article316237008.html",
+        "title": "Flood warning issued for Collin County for Wednesday and Thursday, says the NWS",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-06-23T19:10:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article316237008.html",
+        "mention_text": "Collin County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Collin County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837688,
+        "run_at": "2026-06-24T09:31:57.183843+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2512895,
+          45.0157576
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-r6l2j4513oskqxee",
+        "title": "Another round of rain, severe storms target Northeast, Mid-Atlantic as flash flood threat looms",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-23T13:03:40Z",
+        "url": "https://www.foxweather.com/watch/fmc-r6l2j4513oskqxee",
+        "mention_text": "Northeast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Northeast, Minneapolis, Hennepin County, Minnesota, 55418, United States",
+        "osm_type": "suburb",
+        "osm_id": 2084902014,
+        "run_at": "2026-06-24T09:31:57.183843+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.444328,
+          43.1606855
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-r6l2j4513oskqxee",
+        "title": "Another round of rain, severe storms target Northeast, Mid-Atlantic as flash flood threat looms",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-23T13:03:40Z",
+        "url": "https://www.foxweather.com/watch/fmc-r6l2j4513oskqxee",
+        "mention_text": "Mid-Atlantic",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mid-Atlantic, Atlantic Avenue, Penfield Center, Town of Penfield, Monroe County, New York, 14450, United States",
+        "osm_type": "pitch",
+        "osm_id": 76694673,
+        "run_at": "2026-06-24T09:31:57.183843+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4577554,
+          43.1260226
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tuscaloosanews.com/story/weather/2026/06/23/weather-alert/90656911007/",
+        "title": "Flood warning issued for West Alabama",
+        "source": "The Tuscaloosa News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-23T14:16:00Z",
+        "url": "https://www.tuscaloosanews.com/story/weather/2026/06/23/weather-alert/90656911007/",
+        "mention_text": "West Alabama",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "West Alabama, Town of Alabama, Genesee County, New York, United States",
+        "osm_type": "hamlet",
+        "osm_id": 158367963,
+        "run_at": "2026-06-24T09:31:57.183843+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4970393,
+          38.0464066
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wkyt.com/2026/06/23/lexington-urges-residents-report-flood-damage/",
+        "title": "Lexington urges residents to report flood damage",
+        "source": "WKYT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-23T19:41:00Z",
+        "url": "https://www.wkyt.com/2026/06/23/lexington-urges-residents-report-flood-damage/",
+        "mention_text": "Lexington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Lexington, Fayette County, Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 11078268,
+        "run_at": "2026-06-24T09:31:57.183843+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.boston25news.com/news/flash-flood-warning-effect-parts-massachusetts-this-morning/15cae439-b500-45e1-90e4-f0b5f69f2e55/",
+        "title": "Flash flood warning in effect for parts of Massachusetts this morning",
+        "source": "Boston 25 News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-23T10:21:55Z",
+        "url": "https://www.boston25news.com/news/flash-flood-warning-effect-parts-massachusetts-this-morning/15cae439-b500-45e1-90e4-f0b5f69f2e55/",
+        "mention_text": "Massachusetts",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 61315,
+        "run_at": "2026-06-24T09:31:57.183843+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0357266,
+          41.1519319
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/06/flash-flood-warning-issued-for-orange-and-rockland-counties-until-early-tuesday-morning-triggered-by.html",
+        "title": "Update: Flash flood warning issued for Rockland County early Tuesday morning triggered by thunderstorms",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-23T06:49:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/06/flash-flood-warning-issued-for-orange-and-rockland-counties-until-early-tuesday-morning-triggered-by.html",
+        "mention_text": "Rockland County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Rockland County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1835363,
+        "run_at": "2026-06-24T09:31:57.183843+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.5445643,
+          59.6454064
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ktbs.com/news/flash-flooding-triggers-water-rescue-in-homer-as-storms-slam-arklatex/article_59d5b389-4939-42db-8d16-0cb747a38dfd.html",
+        "title": "Flash flooding triggers water rescue in Homer as storms slam ArkLaTex",
+        "source": "KTBS 3",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-23T11:42:00Z",
+        "url": "https://www.ktbs.com/news/flash-flooding-triggers-water-rescue-in-homer-as-storms-slam-arklatex/article_59d5b389-4939-42db-8d16-0cb747a38dfd.html",
+        "mention_text": "Homer",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Homer, Kenai Peninsula Borough, Alaska, 99603, United States",
+        "osm_type": "administrative",
+        "osm_id": 16770732,
+        "run_at": "2026-06-24T09:31:57.183843+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.boston25news.com/news/local/flash-flood-warning-issued-parts-massachusetts-rhode-island-this-morning/ULNNFCVUZNHK3KFPTHDRJWGLDU/",
+        "title": "Flash flood warning issued for parts of Massachusetts, Rhode Island this morning",
+        "source": "Boston 25 News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-23T11:05:58Z",
+        "url": "https://www.boston25news.com/news/local/flash-flood-warning-issued-parts-massachusetts-rhode-island-this-morning/ULNNFCVUZNHK3KFPTHDRJWGLDU/",
+        "mention_text": "Massachusetts",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 61315,
+        "run_at": "2026-06-24T09:31:57.183843+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5992372,
+          41.7962409
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.boston25news.com/news/local/flash-flood-warning-issued-parts-massachusetts-rhode-island-this-morning/ULNNFCVUZNHK3KFPTHDRJWGLDU/",
+        "title": "Flash flood warning issued for parts of Massachusetts, Rhode Island this morning",
+        "source": "Boston 25 News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-23T11:05:58Z",
+        "url": "https://www.boston25news.com/news/local/flash-flood-warning-issued-parts-massachusetts-rhode-island-this-morning/ULNNFCVUZNHK3KFPTHDRJWGLDU/",
+        "mention_text": "Rhode Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Rhode Island, United States",
+        "osm_type": "administrative",
+        "osm_id": 392915,
+        "run_at": "2026-06-24T09:31:57.183843+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-parts-102058838.html",
+        "title": "Flash flood warning issued for parts of Massachusetts, Rhode Island this morning",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-23T11:05:58Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-parts-102058838.html",
+        "mention_text": "Massachusetts",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 61315,
+        "run_at": "2026-06-24T09:31:57.183843+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5992372,
+          41.7962409
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-parts-102058838.html",
+        "title": "Flash flood warning issued for parts of Massachusetts, Rhode Island this morning",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-23T11:05:58Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-parts-102058838.html",
+        "mention_text": "Rhode Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Rhode Island, United States",
+        "osm_type": "administrative",
+        "osm_id": 392915,
+        "run_at": "2026-06-24T09:31:57.183843+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.017838,
+          34.3284948
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kxii.com/video/2026/06/23/heavy-rain-floods-texoma-flash-flood-emergency-issued-atoka-county-3/",
+        "title": "Heavy rain floods Texoma; flash flood emergency issued for Atoka County",
+        "source": "KXII",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-23T19:27:35Z",
+        "url": "https://www.kxii.com/video/2026/06/23/heavy-rain-floods-texoma-flash-flood-emergency-issued-atoka-county-3/",
+        "mention_text": "Atoka County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atoka County, Oklahoma, United States",
+        "osm_type": "administrative",
+        "osm_id": 1822190,
+        "run_at": "2026-06-24T09:31:57.183843+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://foxrgv.tv/texas-flood-texas-lawmakers-release-report-on-camp-mismanagement-during-flood-emergency/",
+        "title": "Texas Flood: Texas Lawmakers Release Report On Camp Mismanagement During Flood Emergency",
+        "source": "Fox Rio Grande Valley",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-24T03:07:57Z",
+        "url": "https://foxrgv.tv/texas-flood-texas-lawmakers-release-report-on-camp-mismanagement-during-flood-emergency/",
+        "mention_text": "Texas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-06-24T09:31:57.183843+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.017838,
+          34.3284948
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kxii.com/video/2026/06/23/heavy-rain-floods-texoma-flash-flood-emergency-issued-atoka-county-2/",
+        "title": "Heavy rain floods Texoma; flash flood emergency issued for Atoka County",
+        "source": "KXII",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-23T18:19:14Z",
+        "url": "https://www.kxii.com/video/2026/06/23/heavy-rain-floods-texoma-flash-flood-emergency-issued-atoka-county-2/",
+        "mention_text": "Atoka County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atoka County, Oklahoma, United States",
+        "osm_type": "administrative",
+        "osm_id": 1822190,
+        "run_at": "2026-06-24T09:31:57.183843+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.017838,
+          34.3284948
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kxii.com/video/2026/06/23/heavy-rain-floods-texoma-flash-flood-emergency-issued-atoka-county-4/?outputType=amp",
+        "title": "Heavy rain floods Texoma; flash flood emergency issued for Atoka County",
+        "source": "KXII",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-23T04:09:55Z",
+        "url": "https://www.kxii.com/video/2026/06/23/heavy-rain-floods-texoma-flash-flood-emergency-issued-atoka-county-4/?outputType=amp",
+        "mention_text": "Atoka County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atoka County, Oklahoma, United States",
+        "osm_type": "administrative",
+        "osm_id": 1822190,
+        "run_at": "2026-06-24T09:31:57.183843+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article316124456.html",
+        "title": "Coastal Colleton and Charleston County under a coastal flood advisory until Sunday night",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-14T18:48:04Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article316124456.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-06-24T09:31:57.183843+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316125029.html",
+        "title": "Flood advisory in place for Myrtle Beach area and Georgetown County early Sunday evening",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-14T19:43:03Z",
+        "url": "https://www.thestate.com/news/weather-news/article316125029.html",
+        "mention_text": "Myrtle Beach",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Myrtle Beach, Horry County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193842,
+        "run_at": "2026-06-24T09:31:57.183843+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3343041,
+          33.4392245
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316125029.html",
+        "title": "Flood advisory in place for Myrtle Beach area and Georgetown County early Sunday evening",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-14T19:43:03Z",
+        "url": "https://www.thestate.com/news/weather-news/article316125029.html",
+        "mention_text": "Georgetown County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Georgetown County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532508,
+        "run_at": "2026-06-24T09:31:57.183843+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7561392,
+          30.2878569
+        ]
+      },
+      "properties": {
+        "article_id": "https://foxsanantonio.com/news/local/driver-rescued-after-trying-to-cross-flooded-road-in-south-travis-county",
+        "title": "Driver rescued after trying to cross flooded road in south Travis County",
+        "source": "KABB",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T22:38:46Z",
+        "url": "https://foxsanantonio.com/news/local/driver-rescued-after-trying-to-cross-flooded-road-in-south-travis-county",
+        "mention_text": "Travis County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Travis County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 91939,
+        "run_at": "2026-06-24T09:31:57.183843+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0482171,
+          35.6608869
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316080512.html",
+        "title": "Flood advisory in place for McDowell County until Wednesday evening caused by heavy rain",
+        "source": "News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-10T20:36:01Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316080512.html",
+        "mention_text": "McDowell County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "McDowell County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528721,
+        "run_at": "2026-06-24T09:31:57.183843+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-06-23T09:42:34.739202+00:00",
-    "total_features": 1831
+    "last_updated": "2026-06-24T09:31:57.193586+00:00",
+    "total_features": 1859
   }
 }
