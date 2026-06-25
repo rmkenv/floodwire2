@@ -48334,11 +48334,583 @@
         "osm_id": 2528721,
         "run_at": "2026-06-24T09:31:57.183843+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6884637,
+          44.4308975
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.jsonline.com/story/weather/2026/06/24/tornado-warning-issued-for-lafayette-county/90682274007/",
+        "title": "Flash flood warning issued for parts of southern Wisconsin",
+        "source": "Milwaukee Journal Sentinel",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-24T21:53:00Z",
+        "url": "https://www.jsonline.com/story/weather/2026/06/24/tornado-warning-issued-for-lafayette-county/90682274007/",
+        "mention_text": "Wisconsin",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 165466,
+        "run_at": "2026-06-25T09:06:35.537501+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7968559,
+          32.7762719
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcdfw.com/news/local/dallas-officer-six-people-flash-flood-water-rescue/4040792/",
+        "title": "Dallas officer recounts rescuing six people from flash flood waters",
+        "source": "NBC 5 Dallas-Fort Worth",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-24T21:09:37Z",
+        "url": "https://www.nbcdfw.com/news/local/dallas-officer-six-people-flash-flood-water-rescue/4040792/",
+        "mention_text": "Dallas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dallas, Dallas County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 6571629,
+        "run_at": "2026-06-25T09:06:35.537501+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1551404,
+          26.1748895
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.expressnews.com/san-antonio-weather/article/summer-july-flooding-texas-weather-storm-22318864.php",
+        "title": "South Texas is drying out, but flash flood season isn\u2019t done yet. Here's why.",
+        "source": "San Antonio Express-News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-24T17:23:30Z",
+        "url": "https://www.expressnews.com/san-antonio-weather/article/summer-july-flooding-texas-weather-storm-22318864.php",
+        "mention_text": "South Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South Texas, San Juan South Estates Colonia, San Juan, Hidalgo County, Texas, 78589, United States",
+        "osm_type": "residential",
+        "osm_id": 15287122,
+        "run_at": "2026-06-25T09:06:35.537501+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3880353,
+          40.795363
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.expressnews.com/san-antonio-weather/article/summer-july-flooding-texas-weather-storm-22318864.php",
+        "title": "South Texas is drying out, but flash flood season isn\u2019t done yet. Here's why.",
+        "source": "San Antonio Express-News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-24T17:23:30Z",
+        "url": "https://www.expressnews.com/san-antonio-weather/article/summer-july-flooding-texas-weather-storm-22318864.php",
+        "mention_text": "n\u2019t",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "T, Belantrae Greens, Florham Park, Morris County, New Jersey, 07932, United States",
+        "osm_type": "service",
+        "osm_id": 813183170,
+        "run_at": "2026-06-25T09:06:35.537501+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3835476,
+          35.8830723
+        ]
+      },
+      "properties": {
+        "article_id": "https://sapulpatimes.com/swift-water-rescue-team-comes-to-the-aid-of-a-stranded-public-transit-vehicle-in-creek-county-following-flash-flooding/",
+        "title": "\u201cSwift water rescue team\u201d comes to the aid of a stranded public transit vehicle in Creek County following flash flooding",
+        "source": "Sapulpa Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-24T22:16:02Z",
+        "url": "https://sapulpatimes.com/swift-water-rescue-team-comes-to-the-aid-of-a-stranded-public-transit-vehicle-in-creek-county-following-flash-flooding/",
+        "mention_text": "Creek County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Creek County, Oklahoma, United States",
+        "osm_type": "administrative",
+        "osm_id": 1822203,
+        "run_at": "2026-06-25T09:06:35.537501+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6131606,
+          40.5849048
+        ]
+      },
+      "properties": {
+        "article_id": "https://mynews4.com/news/local/dog-rescued-from-washoe-county-flash-flood-and-reunited-with-owner",
+        "title": "Dog rescued from Washoe County flash flood and reunited with owner",
+        "source": "mynews4.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-24T21:39:48Z",
+        "url": "https://mynews4.com/news/local/dog-rescued-from-washoe-county-flash-flood-and-reunited-with-owner",
+        "mention_text": "Washoe County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Washoe County, Nevada, United States",
+        "osm_type": "administrative",
+        "osm_id": 166456,
+        "run_at": "2026-06-25T09:06:35.537501+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2512895,
+          45.0157576
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/rain-flash-flood-threats-return-northeast-ohio-valley",
+        "title": "Another round of rain, flash flood threats looms over Northeast, Ohio Valley to end the week",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-24T14:24:00Z",
+        "url": "https://www.foxweather.com/weather-news/rain-flash-flood-threats-return-northeast-ohio-valley",
+        "mention_text": "Northeast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Northeast, Minneapolis, Hennepin County, Minnesota, 55418, United States",
+        "osm_type": "suburb",
+        "osm_id": 2084902014,
+        "run_at": "2026-06-25T09:06:35.537501+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9481441,
+          40.8656144
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/rain-flash-flood-threats-return-northeast-ohio-valley",
+        "title": "Another round of rain, flash flood threats looms over Northeast, Ohio Valley to end the week",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-24T14:24:00Z",
+        "url": "https://www.foxweather.com/weather-news/rain-flash-flood-threats-return-northeast-ohio-valley",
+        "mention_text": "Ohio Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Valley, Columbiana County, Ohio, 44619, United States",
+        "osm_type": "hamlet",
+        "osm_id": 154191523,
+        "run_at": "2026-06-25T09:06:35.537501+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2512895,
+          45.0157576
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-tcfx85vv050qytt0",
+        "title": "Rain and flash flood threats return to Northeast, Ohio Valley to end the week",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-24T15:12:48Z",
+        "url": "https://www.foxweather.com/watch/fmc-tcfx85vv050qytt0",
+        "mention_text": "Northeast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Northeast, Minneapolis, Hennepin County, Minnesota, 55418, United States",
+        "osm_type": "suburb",
+        "osm_id": 2084902014,
+        "run_at": "2026-06-25T09:06:35.537501+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9481441,
+          40.8656144
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-tcfx85vv050qytt0",
+        "title": "Rain and flash flood threats return to Northeast, Ohio Valley to end the week",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-24T15:12:48Z",
+        "url": "https://www.foxweather.com/watch/fmc-tcfx85vv050qytt0",
+        "mention_text": "Ohio Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Valley, Columbiana County, Ohio, 44619, United States",
+        "osm_type": "hamlet",
+        "osm_id": 154191523,
+        "run_at": "2026-06-25T09:06:35.537501+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3835476,
+          35.8830723
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newson6.com/tulsa-oklahoma-news/two-rescued-from-van-during-swift-water-rescue-in-creek-county",
+        "title": "Two rescued from van during swift water rescue in Creek County",
+        "source": "News On 6",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-24T23:20:13Z",
+        "url": "https://www.newson6.com/tulsa-oklahoma-news/two-rescued-from-van-during-swift-water-rescue-in-creek-county",
+        "mention_text": "Creek County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Creek County, Oklahoma, United States",
+        "osm_type": "administrative",
+        "osm_id": 1822203,
+        "run_at": "2026-06-25T09:06:35.537501+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3327459,
+          32.753177
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/local/article316250555.html",
+        "title": "Camp Mystic files for bankruptcy nearly a year after flash flood killed 28",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-06-24T17:19:26Z",
+        "url": "https://www.star-telegram.com/news/local/article316250555.html",
+        "mention_text": "Fort Worth",
+        "flood_type": "flash_flood",
+        "confidence": 0.4,
+        "osm_display": "Fort Worth, Tarrant County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 115274,
+        "run_at": "2026-06-25T09:06:35.537501+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8445755,
+          39.168867
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kolotv.com/2026/06/24/hidden-valley-couple-says-flood-damage-claim-denied-cleanup-costs-mount/",
+        "title": "Hidden Valley couple says flood damage claim denied as cleanup costs mount",
+        "source": "KOLO | 8 News Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-24T21:41:00Z",
+        "url": "https://www.kolotv.com/2026/06/24/hidden-valley-couple-says-flood-damage-claim-denied-cleanup-costs-mount/",
+        "mention_text": "Hidden Valley",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hidden Valley, Miller Township, Dearborn County, Indiana, 47025, United States",
+        "osm_type": "census",
+        "osm_id": 127235,
+        "run_at": "2026-06-25T09:06:35.537501+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.017838,
+          34.3284948
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kxii.com/video/2026/06/23/heavy-rain-floods-texoma-flash-flood-emergency-issued-atoka-county/",
+        "title": "Heavy rain floods Texoma; flash flood emergency issued for Atoka County",
+        "source": "KXII",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-23T17:19:19Z",
+        "url": "https://www.kxii.com/video/2026/06/23/heavy-rain-floods-texoma-flash-flood-emergency-issued-atoka-county/",
+        "mention_text": "Atoka County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atoka County, Oklahoma, United States",
+        "osm_type": "administrative",
+        "osm_id": 1822190,
+        "run_at": "2026-06-25T09:06:35.537501+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4970393,
+          38.0464066
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wkyt.com/video/2026/06/25/lexington-mechanics-what-you-should-do-if-your-car-had-flood-damage/",
+        "title": "Lexington mechanics on what you should do if your car had flood damage",
+        "source": "WKYT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-24T21:47:00Z",
+        "url": "https://www.wkyt.com/video/2026/06/25/lexington-mechanics-what-you-should-do-if-your-car-had-flood-damage/",
+        "mention_text": "Lexington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Lexington, Fayette County, Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 11078268,
+        "run_at": "2026-06-25T09:06:35.537501+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1551411,
+          37.5726028
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whas11.com/article/weather/weather-impact/kentucky-indiana-counties-flood-watch/417-af45120d-234c-4064-a9f6-0886cf3a46ed",
+        "title": "Flash Flood Warning remains in effect for parts of Kentucky",
+        "source": "WHAS11",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-22T09:58:00Z",
+        "url": "https://www.whas11.com/article/weather/weather-impact/kentucky-indiana-counties-flood-watch/417-af45120d-234c-4064-a9f6-0886cf3a46ed",
+        "mention_text": "Kentucky",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 161655,
+        "run_at": "2026-06-25T09:06:35.537501+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4191791,
+          41.0389186
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.magnoliareporter.com/news_and_business/local_news/article_560be03b-808c-4c77-b0fc-9f072df96e4a.html",
+        "title": "Flash flood warning affects Columbia County after 4 inches of rain",
+        "source": "Magnolia Reporter",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-24T13:24:00Z",
+        "url": "https://www.magnoliareporter.com/news_and_business/local_news/article_560be03b-808c-4c77-b0fc-9f072df96e4a.html",
+        "mention_text": "Columbia County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Columbia County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417770,
+        "run_at": "2026-06-25T09:06:35.537501+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1413417,
+          33.1838787
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article316191416.html",
+        "title": "Flood advisory active for Denton County Friday morning due to significant downpours",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-06-19T11:32:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article316191416.html",
+        "mention_text": "Denton County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Denton County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837621,
+        "run_at": "2026-06-25T09:06:35.537501+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316124456.html",
+        "title": "Coastal Colleton and Charleston County under a coastal flood advisory until Sunday night",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-14T18:48:04Z",
+        "url": "https://www.thestate.com/news/weather-news/article316124456.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-06-25T09:06:35.537501+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316117706.html",
+        "title": "Coastal flood advisory issued for Coastal Colleton and Charleston County until Saturday night",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-13T20:57:04Z",
+        "url": "https://www.thestate.com/news/weather-news/article316117706.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-06-25T09:06:35.537501+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pasadenastarnews.com/2026/06/15/coastal-flood-advisory-affecting-los-angeles-county-beaches-until-2-a-m-wednesday/",
+        "title": "Coastal flood advisory affecting Los Angeles County Beaches until 2 a.m. Wednesday",
+        "source": "Pasadena Star News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T23:25:08Z",
+        "url": "https://www.pasadenastarnews.com/2026/06/15/coastal-flood-advisory-affecting-los-angeles-county-beaches-until-2-a-m-wednesday/",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-06-25T09:06:35.537501+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6319754,
+          42.250303
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/06/update-flood-advisory-issued-for-westchester-county-until-1-a-m-tuesday-caused-by-prolonged-rain.html",
+        "title": "Update: Hudson Valley under a flood advisory Tuesday morning caused by significant rain",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-23T04:04:57Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/06/update-flood-advisory-issued-for-westchester-county-until-1-a-m-tuesday-caused-by-prolonged-rain.html",
+        "mention_text": "Hudson Valley",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hudson Valley, New York, United States",
+        "osm_type": "region",
+        "osm_id": 20410509,
+        "run_at": "2026-06-25T09:06:35.537501+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-06-24T09:31:57.193586+00:00",
-    "total_features": 1859
+    "last_updated": "2026-06-25T09:06:35.547396+00:00",
+    "total_features": 1881
   }
 }
