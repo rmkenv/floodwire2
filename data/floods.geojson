@@ -48906,11 +48906,479 @@
         "osm_id": 20410509,
         "run_at": "2026-06-25T09:06:35.537501+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0357266,
+          41.1519319
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/06/orange-and-rockland-counties-placed-under-a-flash-flood-warning-until-3-a-m-friday-triggered-by-thun.html",
+        "title": "Orange and Rockland counties placed under a flash flood warning until 3 a.m. Friday triggered by thunderstorms",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-26T05:51:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/06/orange-and-rockland-counties-placed-under-a-flash-flood-warning-until-3-a-m-friday-triggered-by-thun.html",
+        "mention_text": "Rockland",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Rockland County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1835363,
+        "run_at": "2026-06-26T09:06:57.478053+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azcentral.com/story/news/local/arizona-weather/2026/06/25/weather-alert-flash-flood-warning-northern-arizona/90701825007/",
+        "title": "Flash flood warning issued for northern Arizona",
+        "source": "azcentral.com and The Arizona Republic",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-25T22:21:00Z",
+        "url": "https://www.azcentral.com/story/news/local/arizona-weather/2026/06/25/weather-alert-flash-flood-warning-northern-arizona/90701825007/",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-06-26T09:06:57.478053+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -144.708313,
+          65.538809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/millions-americans-great-plains-central-us-flash-flooding",
+        "title": "Millions in the Central US brace for flash flood threat spanning 700+ miles amid relentless tropical downpours",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-25T00:56:00Z",
+        "url": "https://www.foxweather.com/weather-news/millions-americans-great-plains-central-us-flash-flooding",
+        "mention_text": "Central US",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, Unorganized Borough, Alaska, United States",
+        "osm_type": "census",
+        "osm_id": 254027,
+        "run_at": "2026-06-26T09:06:57.478053+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4970393,
+          38.0464066
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wkyt.com/2026/06/25/lexington-cafe-reopens-after-closing-due-flash-flood-damage/",
+        "title": "Lexington cafe reopens after closing due to flash flood damage",
+        "source": "WKYT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-25T11:29:00Z",
+        "url": "https://www.wkyt.com/2026/06/25/lexington-cafe-reopens-after-closing-due-flash-flood-damage/",
+        "mention_text": "Lexington",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lexington, Fayette County, Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 11078268,
+        "run_at": "2026-06-26T09:06:57.478053+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2512895,
+          45.0157576
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/storms-flash-flood-threat-return-225521832.html",
+        "title": "Storms, flash flood threat return to the Northeast, Ohio River Valley",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-25T22:55:21Z",
+        "url": "https://www.yahoo.com/news/videos/storms-flash-flood-threat-return-225521832.html",
+        "mention_text": "Northeast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Northeast, Minneapolis, Hennepin County, Minnesota, 55418, United States",
+        "osm_type": "suburb",
+        "osm_id": 2084902014,
+        "run_at": "2026-06-26T09:06:57.478053+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2490505,
+          39.1416652
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/storms-flash-flood-threat-return-225521832.html",
+        "title": "Storms, flash flood threat return to the Northeast, Ohio River Valley",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-25T22:55:21Z",
+        "url": "https://www.yahoo.com/news/videos/storms-flash-flood-threat-return-225521832.html",
+        "mention_text": "Ohio River Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "River Valley, Union Township, Clermont County, Ohio, United States",
+        "osm_type": "industrial",
+        "osm_id": 1304701654,
+        "run_at": "2026-06-26T09:06:57.478053+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2289889,
+          38.8197972
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/storms-flash-flood-threat-return-225521832.html",
+        "title": "Storms, flash flood threat return to the Northeast, Ohio River Valley",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-25T22:55:21Z",
+        "url": "https://www.yahoo.com/news/videos/storms-flash-flood-threat-return-225521832.html",
+        "mention_text": "Ohio River",
+        "flood_type": "flash_flood",
+        "confidence": 0.75,
+        "osm_display": "Ohio River, United States",
+        "osm_type": "river",
+        "osm_id": 2182501,
+        "run_at": "2026-06-26T09:06:57.478053+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8445755,
+          39.168867
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.rgj.com/picture-gallery/news/2026/06/25/a-look-at-the-muddy-remains-in-a-hidden-valley-home-after-flash-flood/90668694007/",
+        "title": "See what remains of a Hidden Valley home after Friday's flash flood",
+        "source": "Reno Gazette Journal",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-25T12:02:00Z",
+        "url": "https://www.rgj.com/picture-gallery/news/2026/06/25/a-look-at-the-muddy-remains-in-a-hidden-valley-home-after-flash-flood/90668694007/",
+        "mention_text": "Hidden Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hidden Valley, Miller Township, Dearborn County, Indiana, 47025, United States",
+        "osm_type": "census",
+        "osm_id": 127235,
+        "run_at": "2026-06-26T09:06:57.478053+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4337288,
+          40.0796606
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.westkentuckystar.com/News/Local-Regional/Flash-flood-watch-tonight-through-Saturday-for-Ill",
+        "title": "Flash flood watch through Saturday for Illinois, Missouri",
+        "source": "West Kentucky Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-25T15:49:10Z",
+        "url": "https://www.westkentuckystar.com/News/Local-Regional/Flash-flood-watch-tonight-through-Saturday-for-Ill",
+        "mention_text": "Illinois",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 122586,
+        "run_at": "2026-06-26T09:06:57.478053+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5617875,
+          38.7604815
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.westkentuckystar.com/News/Local-Regional/Flash-flood-watch-tonight-through-Saturday-for-Ill",
+        "title": "Flash flood watch through Saturday for Illinois, Missouri",
+        "source": "West Kentucky Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-25T15:49:10Z",
+        "url": "https://www.westkentuckystar.com/News/Local-Regional/Flash-flood-watch-tonight-through-Saturday-for-Ill",
+        "mention_text": "Missouri",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 161638,
+        "run_at": "2026-06-26T09:06:57.478053+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9382069,
+          39.5162401
+        ]
+      },
+      "properties": {
+        "article_id": "https://mshale.com/e307bfaf/50927a12lJJZeoAu4G4",
+        "title": "LIVE WEATHER | NWS: Coastal Flood Warning For DC, Maryland, Virginia | Afternoon Update Marco Rubio (Sv2HMKKgEr)",
+        "source": "Mshale",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-25T23:37:07Z",
+        "url": "https://mshale.com/e307bfaf/50927a12lJJZeoAu4G4",
+        "mention_text": "Maryland",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Maryland, United States",
+        "osm_type": "administrative",
+        "osm_id": 162112,
+        "run_at": "2026-06-26T09:06:57.478053+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4927721,
+          37.1232245
+        ]
+      },
+      "properties": {
+        "article_id": "https://mshale.com/e307bfaf/50927a12lJJZeoAu4G4",
+        "title": "LIVE WEATHER | NWS: Coastal Flood Warning For DC, Maryland, Virginia | Afternoon Update Marco Rubio (Sv2HMKKgEr)",
+        "source": "Mshale",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-25T23:37:07Z",
+        "url": "https://mshale.com/e307bfaf/50927a12lJJZeoAu4G4",
+        "mention_text": "Virginia",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 224042,
+        "run_at": "2026-06-26T09:06:57.478053+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0357266,
+          41.1519319
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/06/flood-advisory-active-for-orange-and-rockland-counties-until-3-a-m-friday-caused-by-persistent-rain.html",
+        "title": "Flood advisory active for Orange and Rockland counties until 3 a.m. Friday caused by persistent rain",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-26T05:41:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/06/flood-advisory-active-for-orange-and-rockland-counties-until-3-a-m-friday-caused-by-persistent-rain.html",
+        "mention_text": "Rockland",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Rockland County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1835363,
+        "run_at": "2026-06-26T09:06:57.478053+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5781416,
+          39.100105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kansascity.com/news/weather-news/article316272164.html",
+        "title": "Update: Flood advisory issued for the Kansas City area early Thursday evening",
+        "source": "Kansas City Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-25T21:16:20Z",
+        "url": "https://www.kansascity.com/news/weather-news/article316272164.html",
+        "mention_text": "Kansas City",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kansas City, Jackson County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 141008,
+        "run_at": "2026-06-26T09:06:57.478053+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercedsunstar.com/news/weather-news/article316125410.html",
+        "title": "UPDATE: Coastal flood advisory active for Malibu Coast and Los Angeles until 2 a.m. Wednesday",
+        "source": "Merced Sun-Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-16T21:32:09Z",
+        "url": "https://www.mercedsunstar.com/news/weather-news/article316125410.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-06-26T09:06:57.478053+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4,
+          38.0
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article316127244.html",
+        "title": "Flood advisory in place for Central Valley Sunday evening caused by persistent rainfall",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T00:01:04Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article316127244.html",
+        "mention_text": "Central Valley",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Central Valley, San Joaquin County, California, 95201, United States",
+        "osm_type": "valley",
+        "osm_id": 5322066621,
+        "run_at": "2026-06-26T09:06:57.478053+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7968559,
+          32.7762719
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article316191779.html",
+        "title": "Flood advisory active for Collin and Dallas counties until Friday morning",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-06-19T12:29:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article316191779.html",
+        "mention_text": "Dallas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Dallas, Dallas County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 6571629,
+        "run_at": "2026-06-26T09:06:57.478053+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article316156629.html",
+        "title": "Coastal flood advisory affecting Coastal Colleton and Charleston County until early Wednesday",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-17T01:19:06Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article316156629.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-06-26T09:06:57.478053+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-06-25T09:06:35.547396+00:00",
-    "total_features": 1881
+    "last_updated": "2026-06-26T09:06:57.487694+00:00",
+    "total_features": 1899
   }
 }
