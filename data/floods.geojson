@@ -49374,11 +49374,401 @@
         "osm_id": 1857000,
         "run_at": "2026-06-26T09:06:57.478053+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0687369,
+          31.9955331
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wave3.com/2026/06/27/national-weather-service-issues-flash-flood-warnings-southern-indiana-louisville-metro/",
+        "title": "National Weather service issues flash flood warnings for Southern Indiana and Louisville Metro",
+        "source": "WAVE News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-27T02:16:00Z",
+        "url": "https://www.wave3.com/2026/06/27/national-weather-service-issues-flash-flood-warnings-southern-indiana-louisville-metro/",
+        "mention_text": "Southern Indiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "East Indiana Avenue, Original Town, Midland, Midland County, Texas, 79701, United States",
+        "osm_type": "tertiary",
+        "osm_id": 21136377,
+        "run_at": "2026-06-27T08:40:20.667714+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8445755,
+          39.168867
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.rgj.com/story/news/government/2026/06/26/county-declares-hidden-valleys-flash-flood-event-a-state-of-emergency/90715332007/",
+        "title": "Washoe ratifies state of emergency for Hidden Valley flash flood",
+        "source": "Reno Gazette Journal",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-26T22:27:00Z",
+        "url": "https://www.rgj.com/story/news/government/2026/06/26/county-declares-hidden-valleys-flash-flood-event-a-state-of-emergency/90715332007/",
+        "mention_text": "Hidden Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hidden Valley, Miller Township, Dearborn County, Indiana, 47025, United States",
+        "osm_type": "census",
+        "osm_id": 127235,
+        "run_at": "2026-06-27T08:40:20.667714+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8445755,
+          39.168867
+        ]
+      },
+      "properties": {
+        "article_id": "https://mynews4.com/news/local/feet-of-mud-remain-inside-hidden-valley-flash-flood-victims-home-as-cleanup-continues",
+        "title": "Feet of mud, costly repairs for Hidden Valley flash flood victim as cleanup continues",
+        "source": "mynews4.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-26T23:15:13Z",
+        "url": "https://mynews4.com/news/local/feet-of-mud-remain-inside-hidden-valley-flash-flood-victims-home-as-cleanup-continues",
+        "mention_text": "Hidden Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hidden Valley, Miller Township, Dearborn County, Indiana, 47025, United States",
+        "osm_type": "census",
+        "osm_id": 127235,
+        "run_at": "2026-06-27T08:40:20.667714+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1055753,
+          37.930344
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.hutchnews.com/story/news/local/2026/06/26/flash-flood-warning-issued-for-reno-county-including-hutchinson/90705800007/",
+        "title": "Heavy rain triggers flash flood warning for Reno County",
+        "source": "The Hutchinson News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-26T13:39:00Z",
+        "url": "https://www.hutchnews.com/story/news/local/2026/06/26/flash-flood-warning-issued-for-reno-county-including-hutchinson/90705800007/",
+        "mention_text": "Reno County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Reno County, Kansas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1070327,
+        "run_at": "2026-06-27T08:40:20.667714+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1551411,
+          37.5726028
+        ]
+      },
+      "properties": {
+        "article_id": "https://fox56news.com/weather/forecast/kentucky-weather-today-flash-flood-threat-into-the-weekend/",
+        "title": "Kentucky weather today: Flash flood threat into the weekend",
+        "source": "FOX 56 News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-26T11:29:05Z",
+        "url": "https://fox56news.com/weather/forecast/kentucky-weather-today-flash-flood-threat-into-the-weekend/",
+        "mention_text": "Kentucky",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 161655,
+        "run_at": "2026-06-27T08:40:20.667714+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3375448,
+          37.6922361
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.audacy.com/knss/news/local/flash-flood-emergency-wichita",
+        "title": "Flash Flood Emergency overnight in the Wichita area",
+        "source": "Audacy",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-26T16:14:38Z",
+        "url": "https://www.audacy.com/knss/news/local/flash-flood-emergency-wichita",
+        "mention_text": "Wichita",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Wichita, Sedgwick County, Kansas, United States",
+        "osm_type": "administrative",
+        "osm_id": 129814,
+        "run_at": "2026-06-27T08:40:20.667714+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5127405,
+          39.1012809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cincinnati.com/story/weather/2026/06/26/flood-watch-in-cincinnati-nky-area-as-storms-bring-flash-flood-risk/90705453007/",
+        "title": "Flood watch in effect for Cincinnati, NKY through Saturday",
+        "source": "Cincinnati Enquirer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-26T10:42:00Z",
+        "url": "https://www.cincinnati.com/story/weather/2026/06/26/flood-watch-in-cincinnati-nky-area-as-storms-bring-flash-flood-risk/90705453007/",
+        "mention_text": "Cincinnati",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cincinnati, Hamilton County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 183453,
+        "run_at": "2026-06-27T08:40:20.667714+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9481441,
+          40.8656144
+        ]
+      },
+      "properties": {
+        "article_id": "https://95wxtk.iheart.com/featured/the-howie-carr-show/content/2026-06-26-rain-and-flash-flood-threat-looms-over-northeast-ohio-valley/",
+        "title": "Rain And Flash Flood Threat Looms Over Northeast, Ohio Valley",
+        "source": "Newsradio 95 WXTK",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-26T16:33:00Z",
+        "url": "https://95wxtk.iheart.com/featured/the-howie-carr-show/content/2026-06-26-rain-and-flash-flood-threat-looms-over-northeast-ohio-valley/",
+        "mention_text": "Ohio Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Valley, Columbiana County, Ohio, 44619, United States",
+        "osm_type": "hamlet",
+        "osm_id": 154191523,
+        "run_at": "2026-06-27T08:40:20.667714+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3126651,
+          41.3806114
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/rain-flash-flood-threats-return-northeast-ohio-valley",
+        "title": "Mounting flash flood threat as thunderstorms target millions across Ohio Valley, East Coast to start weekend",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-24T14:24:00Z",
+        "url": "https://www.foxweather.com/weather-news/rain-flash-flood-threats-return-northeast-ohio-valley",
+        "mention_text": "East Coast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "East Coast, Town of Goshen, Orange County, New York, United States",
+        "osm_type": "garden",
+        "osm_id": 1107357381,
+        "run_at": "2026-06-27T08:40:20.667714+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3375448,
+          37.6922361
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ksn.com/video/heavy-rain-leads-to-flash-flood-emergency-in-wichita-several-cars-submerged/11918712/",
+        "title": "Heavy rain leads to flash flood emergency in Wichita, several cars submerged",
+        "source": "KSN-TV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-26T12:49:46Z",
+        "url": "https://www.ksn.com/video/heavy-rain-leads-to-flash-flood-emergency-in-wichita-several-cars-submerged/11918712/",
+        "mention_text": "Wichita",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Wichita, Sedgwick County, Kansas, United States",
+        "osm_type": "administrative",
+        "osm_id": 129814,
+        "run_at": "2026-06-27T08:40:20.667714+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8445755,
+          39.168867
+        ]
+      },
+      "properties": {
+        "article_id": "https://mynews4.com/news/local/gallery/feet-of-mud-remain-inside-hidden-valley-flash-flood-victims-home-as-cleanup-continues",
+        "title": "Feet of mud, costly repairs for Hidden Valley flash flood victim as cleanup continues",
+        "source": "mynews4.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-26T23:14:01Z",
+        "url": "https://mynews4.com/news/local/gallery/feet-of-mud-remain-inside-hidden-valley-flash-flood-victims-home-as-cleanup-continues",
+        "mention_text": "Hidden Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hidden Valley, Miller Township, Dearborn County, Indiana, 47025, United States",
+        "osm_type": "census",
+        "osm_id": 127235,
+        "run_at": "2026-06-27T08:40:20.667714+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6527477,
+          48.5158513
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tri-cityherald.com/news/weather-news/article316291180.html",
+        "title": "UPDATE: Flood advisory for Ferry and Okanogan counties anticipated to expire at 7:30 p.m.",
+        "source": "Tri-City Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-27T02:39:06Z",
+        "url": "https://www.tri-cityherald.com/news/weather-news/article316291180.html",
+        "mention_text": "Okanogan",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Okanogan County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153069,
+        "run_at": "2026-06-27T08:40:20.667714+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.015407,
+          43.6447642
+        ]
+      },
+      "properties": {
+        "article_id": "https://idahonews.com/news/local/flood-advisory-in-effect-for-parts-of-southwest-idaho-eastern-oregon",
+        "title": "Flood advisory & Thunderstorm warning in effect for southwest Idaho",
+        "source": "KBOI",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-27T04:29:46Z",
+        "url": "https://idahonews.com/news/local/flood-advisory-in-effect-for-parts-of-southwest-idaho-eastern-oregon",
+        "mention_text": "Idaho",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Idaho, United States",
+        "osm_type": "administrative",
+        "osm_id": 162116,
+        "run_at": "2026-06-27T08:40:20.667714+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3375448,
+          37.6922361
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ksn.com/weather/weather-stories/heavy-rain-leads-to-flash-flood-emergency-in-wichita-several-cars-submerged/amp/",
+        "title": "Heavy rain leads to flash flood emergency in Wichita, several cars submerged",
+        "source": "KSN-TV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-26T06:46:04Z",
+        "url": "https://www.ksn.com/weather/weather-stories/heavy-rain-leads-to-flash-flood-emergency-in-wichita-several-cars-submerged/amp/",
+        "mention_text": "Wichita",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Wichita, Sedgwick County, Kansas, United States",
+        "osm_type": "administrative",
+        "osm_id": 129814,
+        "run_at": "2026-06-27T08:40:20.667714+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2115053,
+          35.7902384
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316052582.html",
+        "title": "Flood advisory issued for Davidson County until Monday night due to substantial rainfall",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-08T07:00:00Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316052582.html",
+        "mention_text": "Davidson County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Davidson County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528693,
+        "run_at": "2026-06-27T08:40:20.667714+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-06-26T09:06:57.487694+00:00",
-    "total_features": 1899
+    "last_updated": "2026-06-27T08:40:20.677775+00:00",
+    "total_features": 1914
   }
 }
