@@ -1,4 +1,89 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-71.4007",
+          "41.8072"
+        ]
+      },
+      "properties": {
+        "source": "NOAA",
+        "site_id": "8454000",
+        "site_name": "Providence",
+        "lat": "41.8072",
+        "lon": "-71.4007",
+        "stage_ft": 2.702,
+        "stage_datetime": "2026-06-27 19:12",
+        "tier": "normal",
+        "action_stage": 9.33,
+        "flood_stage": 10.33,
+        "major_stage": 12.33,
+        "url": "https://tidesandcurrents.noaa.gov/stationhome.html?id=8454000",
+        "city_lat": 41.7962409,
+        "city_lon": -71.5992372,
+        "fetched_at": "2026-06-27T18:04:31.945087+00:00",
+        "color": "#2d6a4f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-71.4007",
+          "41.8072"
+        ]
+      },
+      "properties": {
+        "source": "NOAA",
+        "site_id": "8454000",
+        "site_name": "Providence",
+        "lat": "41.8072",
+        "lon": "-71.4007",
+        "stage_ft": 2.702,
+        "stage_datetime": "2026-06-27 19:12",
+        "tier": "normal",
+        "action_stage": 9.33,
+        "flood_stage": 10.33,
+        "major_stage": 12.33,
+        "url": "https://tidesandcurrents.noaa.gov/stationhome.html?id=8454000",
+        "city_lat": 41.7962409,
+        "city_lon": -71.5992372,
+        "fetched_at": "2026-06-27T18:04:31.945087+00:00",
+        "color": "#2d6a4f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-146.362",
+          "61.125"
+        ]
+      },
+      "properties": {
+        "source": "NOAA",
+        "site_id": "9454240",
+        "site_name": "Valdez",
+        "lat": "61.125",
+        "lon": "-146.362",
+        "stage_ft": 5.918,
+        "stage_datetime": "2026-06-27 19:06",
+        "tier": "normal",
+        "action_stage": 19.89,
+        "flood_stage": 20.89,
+        "major_stage": 22.89,
+        "url": "https://tidesandcurrents.noaa.gov/stationhome.html?id=9454240",
+        "city_lat": 65.538809,
+        "city_lon": -144.708313,
+        "fetched_at": "2026-06-27T18:04:31.945087+00:00",
+        "color": "#2d6a4f"
+      }
+    }
+  ]
 }
