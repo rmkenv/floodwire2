@@ -50622,11 +50622,349 @@
         "osm_id": 11078268,
         "run_at": "2026-06-29T10:59:28.768263+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7893178,
+          32.182598
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316320297.html",
+        "title": "Flash flood warning issued for Henderson County until Monday night due to thunderstorms",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-30T00:02:05Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316320297.html",
+        "mention_text": "Henderson County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Henderson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839045,
+        "run_at": "2026-06-30T09:37:04.992237+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6254484,
+          36.9767017
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wnky.com/metcalfe-county-residents-recovering-after-flash-flood-over-weekend/",
+        "title": "Metcalfe County residents recovering after flash flood over weekend",
+        "source": "WNKY",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-29T22:52:44Z",
+        "url": "https://www.wnky.com/metcalfe-county-residents-recovering-after-flash-flood-over-weekend/",
+        "mention_text": "Metcalfe County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Metcalfe County, Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 1846564,
+        "run_at": "2026-06-30T09:37:04.992237+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5821872,
+          38.27312
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newson6.com/tulsa-oklahoma-news/couple-still-searching-for-4-cattle-after-caney-kansas-flash-flood",
+        "title": "Couple still searching for 4 cattle after Caney, Kansas flash flood",
+        "source": "News On 6",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-30T02:29:13Z",
+        "url": "https://www.newson6.com/tulsa-oklahoma-news/couple-still-searching-for-4-cattle-after-caney-kansas-flash-flood",
+        "mention_text": "Kansas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kansas, United States",
+        "osm_type": "administrative",
+        "osm_id": 161644,
+        "run_at": "2026-06-30T09:37:04.992237+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1551411,
+          37.5726028
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-zljh0alvkquedfy4",
+        "title": "Flash flooding kills at least 4, prompting Flash Flood Emergencies in central Kentucky",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-29T13:31:53Z",
+        "url": "https://www.foxweather.com/watch/fmc-zljh0alvkquedfy4",
+        "mention_text": "Kentucky",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 161655,
+        "run_at": "2026-06-30T09:37:04.992237+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1551411,
+          37.5726028
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/kentucky-grapples-flash-flood-aftermath-203238864.html",
+        "title": "Kentucky grapples with flash flood aftermath and extreme heat, Beshear urges caution",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-29T20:32:38Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/kentucky-grapples-flash-flood-aftermath-203238864.html",
+        "mention_text": "Kentucky",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 161655,
+        "run_at": "2026-06-30T09:37:04.992237+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.43428,
+          37.5385087
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.weku.org/lexington-richmond/2026-06-29/richmond-survivors-describe-flash-flood-that-left-2-neighbors-dead",
+        "title": "Richmond survivors describe flash flood that left 2 neighbors dead",
+        "source": "WEKU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-29T08:00:00Z",
+        "url": "https://www.weku.org/lexington-richmond/2026-06-29/richmond-survivors-describe-flash-flood-that-left-2-neighbors-dead",
+        "mention_text": "Richmond",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Richmond, Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 3864712,
+        "run_at": "2026-06-30T09:37:04.992237+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7893178,
+          32.182598
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316319196.html",
+        "title": "UPDATE: Flood advisory for Henderson County likely to expire at 10:15 p.m.",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-30T02:27:03Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316319196.html",
+        "mention_text": "Henderson County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Henderson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839045,
+        "run_at": "2026-06-30T09:37:04.992237+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7893178,
+          32.182598
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316319196.html",
+        "title": "Flood advisory active for Henderson County until Monday night due to persistent rain",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-29T22:31:02Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316319196.html",
+        "mention_text": "Henderson County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Henderson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839045,
+        "run_at": "2026-06-30T09:37:04.992237+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4405473,
+          39.8726542
+        ]
+      },
+      "properties": {
+        "article_id": "https://autos.yahoo.com/people-and-culture/articles/aston-martin-vantage-stalls-driving-153200027.html",
+        "title": "Aston Martin Vantage Stalls Out After Driving Onto Flooded Road, Driver Dubbed 'James Pond'",
+        "source": "Yahoo Autos",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-29T15:32:00Z",
+        "url": "https://autos.yahoo.com/people-and-culture/articles/aston-martin-vantage-stalls-driving-153200027.html",
+        "mention_text": "Aston",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Aston Township, Delaware County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 3072935,
+        "run_at": "2026-06-30T09:37:04.992237+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1527607,
+          33.3341652
+        ]
+      },
+      "properties": {
+        "article_id": "https://autos.yahoo.com/people-and-culture/articles/aston-martin-vantage-stalls-driving-153200027.html",
+        "title": "Aston Martin Vantage Stalls Out After Driving Onto Flooded Road, Driver Dubbed 'James Pond'",
+        "source": "Yahoo Autos",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-29T15:32:00Z",
+        "url": "https://autos.yahoo.com/people-and-culture/articles/aston-martin-vantage-stalls-driving-153200027.html",
+        "mention_text": "James Pond",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "James Pond, Augusta, Richmond County, Georgia, United States",
+        "osm_type": "reservoir",
+        "osm_id": 1116939210,
+        "run_at": "2026-06-30T09:37:04.992237+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5931208,
+          34.8496625
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316299937.html",
+        "title": "Flood advisory for Carteret County Saturday night due to heavy rain",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-28T01:27:04Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316299937.html",
+        "mention_text": "Carteret County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Carteret County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528682,
+        "run_at": "2026-06-30T09:37:04.992237+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2599081,
+          34.2189515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316186274.html",
+        "title": "Flood advisory issued for Western North Carolina Thursday night, says the NWS",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T22:37:06Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316186274.html",
+        "mention_text": "Western North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Western Drive, Bishopville, Lee County, South Carolina, 29010, United States",
+        "osm_type": "residential",
+        "osm_id": 12470936,
+        "run_at": "2026-06-30T09:37:04.992237+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sgvtribune.com/2026/06/15/coastal-flood-advisory-affecting-los-angeles-county-beaches-until-2-a-m-wednesday/",
+        "title": "Coastal flood advisory affecting Los Angeles County Beaches until 2 a.m. Wednesday",
+        "source": "San Gabriel Valley Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-15T07:00:00Z",
+        "url": "https://www.sgvtribune.com/2026/06/15/coastal-flood-advisory-affecting-los-angeles-county-beaches-until-2-a-m-wednesday/",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-06-30T09:37:04.992237+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-06-29T10:59:28.778297+00:00",
-    "total_features": 1947
+    "last_updated": "2026-06-30T09:37:05.001967+00:00",
+    "total_features": 1960
   }
 }
