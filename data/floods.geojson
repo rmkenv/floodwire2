@@ -50960,11 +50960,141 @@
         "osm_id": 207359,
         "run_at": "2026-06-30T09:37:04.992237+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1551411,
+          37.5726028
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.paxtonmedia.com/news/owensboro_messenger_inquirer/ofd-members-return-from-flash-flood-recovery-in-eastern-kentucky/article_fee783f6-697a-5b9b-b06a-43d283bfed84.html",
+        "title": "OFD members return from flash flood recovery in eastern Kentucky",
+        "source": "paxtonmedia.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-01T00:00:00Z",
+        "url": "https://www.paxtonmedia.com/news/owensboro_messenger_inquirer/ofd-members-return-from-flash-flood-recovery-in-eastern-kentucky/article_fee783f6-697a-5b9b-b06a-43d283bfed84.html",
+        "mention_text": "Kentucky",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 161655,
+        "run_at": "2026-07-01T09:47:39.033912+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6863808,
+          36.2228105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316335730.html",
+        "title": "Flood advisory issued for Watauga County Tuesday evening caused by excessive downpours",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-30T22:41:04Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316335730.html",
+        "mention_text": "Watauga County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Watauga County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528754,
+        "run_at": "2026-07-01T09:47:39.033912+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6863808,
+          36.2228105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316335730.html",
+        "title": "UPDATE: The flood advisory for Watauga County is anticipated to expire at 8:15 p.m.",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-01T00:25:01Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316335730.html",
+        "mention_text": "Watauga County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Watauga County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528754,
+        "run_at": "2026-07-01T09:47:39.033912+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.017838,
+          34.3284948
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kxii.com/video/2026/06/23/heavy-rain-floods-texoma-flash-flood-emergency-issued-atoka-county-4/",
+        "title": "Heavy rain floods Texoma; flash flood emergency issued for Atoka County",
+        "source": "KXII",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-23T17:33:51Z",
+        "url": "https://www.kxii.com/video/2026/06/23/heavy-rain-floods-texoma-flash-flood-emergency-issued-atoka-county-4/",
+        "mention_text": "Atoka County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atoka County, Oklahoma, United States",
+        "osm_type": "administrative",
+        "osm_id": 1822190,
+        "run_at": "2026-07-01T09:47:39.033912+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.689423,
+          34.035591
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailybreeze.com/2026/06/14/coastal-flood-advisory-for-malibu-until-2-a-m-tuesday/",
+        "title": "Coastal flood advisory for Malibu until 2 a.m. Tuesday",
+        "source": "Daily Breeze",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-14T07:00:00Z",
+        "url": "https://www.dailybreeze.com/2026/06/14/coastal-flood-advisory-for-malibu-until-2-a-m-tuesday/",
+        "mention_text": "Malibu",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Malibu, Los Angeles County, California, 90265, United States",
+        "osm_type": "administrative",
+        "osm_id": 3492156,
+        "run_at": "2026-07-01T09:47:39.033912+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-06-30T09:37:05.001967+00:00",
-    "total_features": 1960
+    "last_updated": "2026-07-01T09:47:39.043880+00:00",
+    "total_features": 1965
   }
 }
