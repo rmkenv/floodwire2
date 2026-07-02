@@ -6,8 +6,8 @@
       "site_name": "Southbank Riverwalk, St Johns River",
       "lat": "30.32",
       "lon": "-81.6583",
-      "stage_ft": 2.1,
-      "stage_datetime": "2026-07-02 15:00",
+      "stage_ft": 2.083,
+      "stage_datetime": "2026-07-02 17:18",
       "tier": "action",
       "action_stage": 1.64,
       "flood_stage": 2.64,
@@ -15,7 +15,7 @@
       "url": "https://tidesandcurrents.noaa.gov/stationhome.html?id=8720226",
       "city_lat": 30.3270682,
       "city_lon": -81.6623566,
-      "fetched_at": "2026-07-02T15:02:15.186641+00:00"
+      "fetched_at": "2026-07-02T17:22:44.447837+00:00"
     },
     {
       "source": "NOAA",
@@ -23,8 +23,8 @@
       "site_name": "Southbank Riverwalk, St Johns River",
       "lat": "30.32",
       "lon": "-81.6583",
-      "stage_ft": 2.1,
-      "stage_datetime": "2026-07-02 15:00",
+      "stage_ft": 2.083,
+      "stage_datetime": "2026-07-02 17:18",
       "tier": "action",
       "action_stage": 1.64,
       "flood_stage": 2.64,
@@ -32,7 +32,7 @@
       "url": "https://tidesandcurrents.noaa.gov/stationhome.html?id=8720226",
       "city_lat": 30.3270682,
       "city_lon": -81.6623566,
-      "fetched_at": "2026-07-02T15:02:15.186641+00:00"
+      "fetched_at": "2026-07-02T17:22:44.447837+00:00"
     }
   ]
 }
