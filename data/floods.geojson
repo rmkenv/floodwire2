@@ -51090,11 +51090,271 @@
         "osm_id": 3492156,
         "run_at": "2026-07-01T09:47:39.033912+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.007126,
+          30.8703881
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/parts-of-tangipahoa-parish-under-flash-flood-warning/289-da68321a-f4f8-402c-86d3-74cb174266f1",
+        "title": "Flood Warning issued for parts of Louisiana, Mississippi along the Pearl River",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-01T21:58:00Z",
+        "url": "https://www.wwltv.com/article/weather/parts-of-tangipahoa-parish-under-flash-flood-warning/289-da68321a-f4f8-402c-86d3-74cb174266f1",
+        "mention_text": "Louisiana",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 224922,
+        "run_at": "2026-07-02T09:02:08.452062+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7348497,
+          32.9715285
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/parts-of-tangipahoa-parish-under-flash-flood-warning/289-da68321a-f4f8-402c-86d3-74cb174266f1",
+        "title": "Flood Warning issued for parts of Louisiana, Mississippi along the Pearl River",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-01T21:58:00Z",
+        "url": "https://www.wwltv.com/article/weather/parts-of-tangipahoa-parish-under-flash-flood-warning/289-da68321a-f4f8-402c-86d3-74cb174266f1",
+        "mention_text": "Mississippi",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 161943,
+        "run_at": "2026-07-02T09:02:08.452062+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.676937,
+          45.5307084
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/parts-of-tangipahoa-parish-under-flash-flood-warning/289-da68321a-f4f8-402c-86d3-74cb174266f1",
+        "title": "Flood Warning issued for parts of Louisiana, Mississippi along the Pearl River",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-01T21:58:00Z",
+        "url": "https://www.wwltv.com/article/weather/parts-of-tangipahoa-parish-under-flash-flood-warning/289-da68321a-f4f8-402c-86d3-74cb174266f1",
+        "mention_text": "the Pearl River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "River District Navigation Center, 1111, Northwest Naito Parkway, Pearl District, Portland, Multnomah County, Oregon, 97209, United States",
+        "osm_type": "social_facility",
+        "osm_id": 945345426,
+        "run_at": "2026-07-02T09:02:08.452062+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2166599,
+          43.076606
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/07/flash-flood-warning-active-for-madison-and-oneida-counties-until-wednesday-night-caused-by-thunderst.html",
+        "title": "Update: Flash flood warning active for Central NY, Mohawk Valley Wednesday night caused by thunderstorms",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-02T02:08:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/07/flash-flood-warning-active-for-madison-and-oneida-counties-until-wednesday-night-caused-by-thunderst.html",
+        "mention_text": "Mohawk Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mohawk Valley Community College, 1101, Sherman Drive, City of Utica, Oneida County, New York, 13501, United States",
+        "osm_type": "college",
+        "osm_id": 126309741,
+        "run_at": "2026-07-02T09:02:08.452062+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/miami/video/south-florida-sees-flash-flood-risk-wednesday-afternoon-as-shower-thunderstorm-risk-grows/",
+        "title": "South Florida sees flash flood risk Wednesday afternoon as shower, thunderstorm risk grows",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-01T16:28:00Z",
+        "url": "https://www.cbsnews.com/miami/video/south-florida-sees-flash-flood-risk-wednesday-afternoon-as-shower-thunderstorm-risk-grows/",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-07-02T09:02:08.452062+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9507234,
+          30.9551586
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/madison-county-flash-flood-turns-190100541.html",
+        "title": "Madison County flash flood turns Union City Road into a river after 'the sky just busted'",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-01T19:01:00Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/madison-county-flash-flood-turns-190100541.html",
+        "mention_text": "Madison County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Madison County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839085,
+        "run_at": "2026-07-02T09:02:08.452062+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1169962,
+          42.0601369
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/madison-county-flash-flood-turns-190100541.html",
+        "title": "Madison County flash flood turns Union City Road into a river after 'the sky just busted'",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-01T19:01:00Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/madison-county-flash-flood-turns-190100541.html",
+        "mention_text": "Union City Road",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Union City Road, Union Township, Branch County, Michigan, 49094, United States",
+        "osm_type": "tertiary",
+        "osm_id": 17738710,
+        "run_at": "2026-07-02T09:02:08.452062+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9481252,
+          43.4911326
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/07/flash-flood-warning-active-for-herkimer-county-until-wednesday-night-triggered-by-thunderstorms.html",
+        "title": "Flash flood warning active for Herkimer County until Wednesday night triggered by thunderstorms",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-02T00:37:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/07/flash-flood-warning-active-for-herkimer-county-until-wednesday-night-triggered-by-thunderstorms.html",
+        "mention_text": "Herkimer County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Herkimer County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1835283,
+        "run_at": "2026-07-02T09:02:08.452062+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3170402,
+          29.8494044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-x0mmj88y39cms428",
+        "title": "Storms cause 4 deaths, Flash Flood Emergencies in the South",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-28T01:04:26Z",
+        "url": "https://www.foxweather.com/watch/fmc-x0mmj88y39cms428",
+        "mention_text": "South",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "St. Augustine South, Saint Johns County, Florida, 32086, United States",
+        "osm_type": "town",
+        "osm_id": 13203803220,
+        "run_at": "2026-07-02T09:02:08.452062+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9588587,
+          30.3031353
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.gulfcoastnewsnow.com/article/flood-advisory-lee-county-july-1-storm-rain/71800675",
+        "title": "Flood advisory issued for parts of Lee County expires 9:30 p.m. Wednesday",
+        "source": "Gulf Coast News and Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-02T01:46:54Z",
+        "url": "https://www.gulfcoastnewsnow.com/article/flood-advisory-lee-county-july-1-storm-rain/71800675",
+        "mention_text": "Lee County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Lee County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837662,
+        "run_at": "2026-07-02T09:02:08.452062+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-07-01T09:47:39.043880+00:00",
-    "total_features": 1965
+    "last_updated": "2026-07-02T09:02:08.461923+00:00",
+    "total_features": 1975
   }
 }
