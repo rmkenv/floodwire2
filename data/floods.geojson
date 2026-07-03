@@ -51350,11 +51350,193 @@
         "osm_id": 1837662,
         "run_at": "2026-07-02T09:02:08.452062+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.8997734,
+          40.5997415
+        ]
+      },
+      "properties": {
+        "article_id": "https://humboldtnews.com/articles/2026/07/02/weather-nws-issues-flash-flood-watch-humboldt-county",
+        "title": "WEATHER: NWS issues Flash Flood Watch for Humboldt County",
+        "source": "The Humboldt Independent",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-02T18:55:37Z",
+        "url": "https://humboldtnews.com/articles/2026/07/02/weather-nws-issues-flash-flood-watch-humboldt-county",
+        "mention_text": "Humboldt County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Humboldt County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396458,
+        "run_at": "2026-07-03T09:06:38.075479+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6113288,
+          45.9896587
+        ]
+      },
+      "properties": {
+        "article_id": "https://bringmethenews.com/minnesota-weather/flash-flood-warning-i-90-closure-after-5-inches-of-rain-falls-in-southeastern-minnesota",
+        "title": "Flash flood warning, I-90 closure after 5+ inches of rain falls in southeastern Minnesota",
+        "source": "Bring Me The News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-02T12:35:23Z",
+        "url": "https://bringmethenews.com/minnesota-weather/flash-flood-warning-i-90-closure-after-5-inches-of-rain-falls-in-southeastern-minnesota",
+        "mention_text": "Minnesota",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Minnesota, United States",
+        "osm_type": "administrative",
+        "osm_id": 165471,
+        "run_at": "2026-07-03T09:06:38.075479+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0125794,
+          44.5126379
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/2026/07/02/weather/local/sinclair/video/green-bay-weather-flash-flood-watch-severe-storms-possible-july-2-2026",
+        "title": "Green Bay weather: Flash flood watch, severe storms possible \u2014 July 2, 2026",
+        "source": "The Weather Channel",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-02T14:20:21Z",
+        "url": "https://weather.com/2026/07/02/weather/local/sinclair/video/green-bay-weather-flash-flood-watch-severe-storms-possible-july-2-2026",
+        "mention_text": "Green Bay",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Green Bay, Brown County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251488,
+        "run_at": "2026-07-03T09:06:38.075479+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.9467116,
+          48.6966449
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kulr8.com/top-videos/overnight-flood-advisory-in-glacier-county-temperatures-rising-through-weekend/video_f009814f-ac9d-59c8-91ee-45c11a6f2c2a.html",
+        "title": "Overnight flood advisory in Glacier County, temperatures rising through weekend",
+        "source": "NonStop Local Billings",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-02T23:57:00Z",
+        "url": "https://www.kulr8.com/top-videos/overnight-flood-advisory-in-glacier-county-temperatures-rising-through-weekend/video_f009814f-ac9d-59c8-91ee-45c11a6f2c2a.html",
+        "mention_text": "Glacier County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Glacier County, Montana, United States",
+        "osm_type": "administrative",
+        "osm_id": 1232200,
+        "run_at": "2026-07-03T09:06:38.075479+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9588587,
+          30.3031353
+        ]
+      },
+      "properties": {
+        "article_id": "http://www.abc-7.com/article/flood-advisory-lee-county-july-1-storm-rain/71800675",
+        "title": "Flood advisory issued for parts of Lee County until 9:30 p.m. Wednesday",
+        "source": "Gulf Coast News and Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-01T23:53:50Z",
+        "url": "http://www.abc-7.com/article/flood-advisory-lee-county-july-1-storm-rain/71800675",
+        "mention_text": "Lee County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Lee County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837662,
+        "run_at": "2026-07-03T09:06:38.075479+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3984882,
+          34.851354
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article316079861.html",
+        "title": "Flood advisory affecting Greenville and Pickens counties until Wednesday evening",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-10T19:55:03Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article316079861.html",
+        "mention_text": "Greenville",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Greenville, Greenville County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193989,
+        "run_at": "2026-07-03T09:06:38.075479+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0482171,
+          35.6608869
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316058799.html",
+        "title": "UPDATE: Flood advisory affecting McDowell County Tuesday midday",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-09T07:00:00Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316058799.html",
+        "mention_text": "McDowell County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "McDowell County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528721,
+        "run_at": "2026-07-03T09:06:38.075479+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-07-02T09:02:08.461923+00:00",
-    "total_features": 1975
+    "last_updated": "2026-07-03T09:06:38.085325+00:00",
+    "total_features": 1982
   }
 }
