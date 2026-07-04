@@ -51532,11 +51532,271 @@
         "osm_id": 2528721,
         "run_at": "2026-07-03T09:06:38.075479+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7844944,
+          41.5733669
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.facebook.com/regionnewssource/posts/flash-flood-warning-including-hammond-in-tinley-park-il-and-calumet-city-il-unti/1957182328760594/",
+        "title": "Flash Flood Warning including Hammond IN, Tinley Park IL and Calumet City IL until 1:15 AM CDT",
+        "source": "facebook.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-04T03:11:31Z",
+        "url": "https://www.facebook.com/regionnewssource/posts/flash-flood-warning-including-hammond-in-tinley-park-il-and-calumet-city-il-unti/1957182328760594/",
+        "mention_text": "Tinley Park IL",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tinley Park, Bremen Township, Cook County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 125791,
+        "run_at": "2026-07-04T08:40:25.896646+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5295837,
+          41.616016
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.facebook.com/regionnewssource/posts/flash-flood-warning-including-hammond-in-tinley-park-il-and-calumet-city-il-unti/1957182328760594/",
+        "title": "Flash Flood Warning including Hammond IN, Tinley Park IL and Calumet City IL until 1:15 AM CDT",
+        "source": "facebook.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-04T03:11:31Z",
+        "url": "https://www.facebook.com/regionnewssource/posts/flash-flood-warning-including-hammond-in-tinley-park-il-and-calumet-city-il-unti/1957182328760594/",
+        "mention_text": "Calumet City IL",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Calumet City, Thornton Township, Cook County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 126338,
+        "run_at": "2026-07-04T08:40:25.896646+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6249494,
+          41.5868654
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.desmoinesregister.com/story/weather/iowa/2026/07/03/updated-flood-warning-issued-for-des-moines-area/90793498007/",
+        "title": "Fourmile Creek flood warning extended to July 4 in Des Moines",
+        "source": "The Des Moines Register",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-04T01:40:00Z",
+        "url": "https://www.desmoinesregister.com/story/weather/iowa/2026/07/03/updated-flood-warning-issued-for-des-moines-area/90793498007/",
+        "mention_text": "Des Moines",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Des Moines, Polk County, Iowa, United States",
+        "osm_type": "administrative",
+        "osm_id": 128653,
+        "run_at": "2026-07-04T08:40:25.896646+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9795114,
+          33.3339686
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.desmoinesregister.com/story/weather/iowa/2026/07/03/updated-flood-warning-issued-for-des-moines-area/90793498007/",
+        "title": "Fourmile Creek flood warning extended to July 4 in Des Moines",
+        "source": "The Des Moines Register",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-04T01:40:00Z",
+        "url": "https://www.desmoinesregister.com/story/weather/iowa/2026/07/03/updated-flood-warning-issued-for-des-moines-area/90793498007/",
+        "mention_text": "Fourmile Creek",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Fourmile Creek, Miller County, Arkansas, United States",
+        "osm_type": "river",
+        "osm_id": 20828724,
+        "run_at": "2026-07-04T08:40:25.896646+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8192175,
+          30.7642828
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.weareiowa.com/article/weather/severe-weather/ankeny-flash-flooding-iowa-weather-rain-totals/524-5ae2874d-095f-4db0-8805-ae05291c7d7e",
+        "title": "Flood Warning persists in Polk County as Fourmile Creek overflows, closing roads",
+        "source": "weareiowa.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-03T10:56:00Z",
+        "url": "https://www.weareiowa.com/article/weather/severe-weather/ankeny-flash-flooding-iowa-weather-rain-totals/524-5ae2874d-095f-4db0-8805-ae05291c7d7e",
+        "mention_text": "Polk County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Polk County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1841042,
+        "run_at": "2026-07-04T08:40:25.896646+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9795114,
+          33.3339686
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.weareiowa.com/article/weather/severe-weather/ankeny-flash-flooding-iowa-weather-rain-totals/524-5ae2874d-095f-4db0-8805-ae05291c7d7e",
+        "title": "Flood Warning persists in Polk County as Fourmile Creek overflows, closing roads",
+        "source": "weareiowa.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-03T10:56:00Z",
+        "url": "https://www.weareiowa.com/article/weather/severe-weather/ankeny-flash-flooding-iowa-weather-rain-totals/524-5ae2874d-095f-4db0-8805-ae05291c7d7e",
+        "mention_text": "Fourmile Creek",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Fourmile Creek, Miller County, Arkansas, United States",
+        "osm_type": "river",
+        "osm_id": 20828724,
+        "run_at": "2026-07-04T08:40:25.896646+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6244212,
+          41.8755616
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/chicago/video/flood-advisory-and-warning-issued-for-chicago-area-on-friday/",
+        "title": "Flood advisory and warning issued for Chicago area on Friday",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-03T14:29:00Z",
+        "url": "https://www.cbsnews.com/chicago/video/flood-advisory-and-warning-issued-for-chicago-area-on-friday/",
+        "mention_text": "Chicago",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Chicago, South Chicago Township, Cook County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 122604,
+        "run_at": "2026-07-04T08:40:25.896646+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0822281,
+          30.872634
+        ]
+      },
+      "properties": {
+        "article_id": "https://weisradio.com/2026/07/03/flood-advisory-issued-for-cherokee-county-friday-evening/",
+        "title": "Flood Advisory Issued for Cherokee County Friday Evening - WEIS | Local & Area News, Sports, & Weather",
+        "source": "weisradio.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-03T21:44:26Z",
+        "url": "https://weisradio.com/2026/07/03/flood-advisory-issued-for-cherokee-county-friday-evening/",
+        "mention_text": "Sports",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Sports, Polk County, Texas, United States",
+        "osm_type": "residential",
+        "osm_id": 21186647,
+        "run_at": "2026-07-04T08:40:25.896646+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6863808,
+          36.2228105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316335730.html",
+        "title": "UPDATE: The flood advisory for Watauga County is anticipated to expire at 8:15 p.m.",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-01T00:25:01Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316335730.html",
+        "mention_text": "Watauga County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Watauga County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528754,
+        "run_at": "2026-07-04T08:40:25.896646+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9759066,
+          33.7635851
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article316188974.html",
+        "title": "Aiken and Edgefield counties placed under a flood advisory until early Friday",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-19T03:01:06Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article316188974.html",
+        "mention_text": "Edgefield",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Edgefield County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532505,
+        "run_at": "2026-07-04T08:40:25.896646+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-07-03T09:06:38.085325+00:00",
-    "total_features": 1982
+    "last_updated": "2026-07-04T08:40:25.907272+00:00",
+    "total_features": 1992
   }
 }
