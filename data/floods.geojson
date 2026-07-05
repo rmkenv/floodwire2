@@ -51792,11 +51792,427 @@
         "osm_id": 2532505,
         "run_at": "2026-07-04T08:40:25.896646+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0522661,
+          41.6107243
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.facebook.com/regionnewssource/posts/flash-flood-warning-including-portage-in-valparaiso-in-and-chesterton-in-until-9/1957982515347242/",
+        "title": "Flash Flood Warning including Portage IN, Valparaiso IN and Chesterton IN until 9:30 PM CDT",
+        "source": "facebook.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-04T22:43:53Z",
+        "url": "https://www.facebook.com/regionnewssource/posts/flash-flood-warning-including-portage-in-valparaiso-in-and-chesterton-in-until-9/1957982515347242/",
+        "mention_text": "Chesterton",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Chesterton, Porter County, Indiana, 46304, United States",
+        "osm_type": "administrative",
+        "osm_id": 127423,
+        "run_at": "2026-07-05T08:56:35.426615+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5781416,
+          39.100105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kansascity.com/news/weather-news/article316383464.html",
+        "title": "Update: Flash flood warning in place for the Kansas City area until Saturday evening",
+        "source": "Kansas City Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-04T18:40:04Z",
+        "url": "https://www.kansascity.com/news/weather-news/article316383464.html",
+        "mention_text": "Kansas City",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kansas City, Jackson County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 141008,
+        "run_at": "2026-07-05T08:56:35.426615+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6881395,
+          40.2253569
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtrf.com/weather/flash-flood-warning-issued-in-ohio-valley-2/",
+        "title": "Flash Flood Warning issued in Ohio Valley",
+        "source": "WTRF",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-05T00:36:38Z",
+        "url": "https://www.wtrf.com/weather/flash-flood-warning-issued-in-ohio-valley-2/",
+        "mention_text": "Ohio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 162061,
+        "run_at": "2026-07-05T08:56:35.426615+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9805484,
+          41.5595723
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtrf.com/weather/flash-flood-warning-issued-in-ohio-valley-2/",
+        "title": "Flash Flood Warning issued in Ohio Valley",
+        "source": "WTRF",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-05T00:36:38Z",
+        "url": "https://www.wtrf.com/weather/flash-flood-warning-issued-in-ohio-valley-2/",
+        "mention_text": "Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Valley County, Nebraska, United States",
+        "osm_type": "administrative",
+        "osm_id": 1425395,
+        "run_at": "2026-07-05T08:56:35.426615+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.874857,
+          42.8843421
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/07/flash-flood-warning-active-for-finger-lakes-central-ny-until-saturday-evening-due-to-thunderstorms.html",
+        "title": "Flash flood warning active for Finger Lakes, Central NY until Saturday evening due to thunderstorms",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-04T20:10:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/07/flash-flood-warning-active-for-finger-lakes-central-ny-until-saturday-evening-due-to-thunderstorms.html",
+        "mention_text": "Central NY",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Downtown, Buffalo, Erie County, New York, 14203, United States",
+        "osm_type": "suburb",
+        "osm_id": 6426523866,
+        "run_at": "2026-07-05T08:56:35.426615+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox5atlanta.com/video/fmc-fswho2tp4qg31qlc",
+        "title": "Flash flood warning remains after severe storms in metro Atlanta",
+        "source": "FOX 5 Atlanta",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-04T23:29:15Z",
+        "url": "https://www.fox5atlanta.com/video/fmc-fswho2tp4qg31qlc",
+        "mention_text": "Atlanta",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-07-05T08:56:35.426615+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6244212,
+          41.8755616
+        ]
+      },
+      "properties": {
+        "article_id": "https://abc7chicago.com/amp/post/chicago-flood-warning-flash-flooding-impacts-road-conditions-harvey-dolton-illinois-comed-power-outages-reported/19446400/",
+        "title": "Chicago Flood Warning: Flash flooding impacts road conditions in Harvey and Dolton, Illinois; ComEd power outages reported",
+        "source": "ABC7 Chicago",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-04T10:51:26Z",
+        "url": "https://abc7chicago.com/amp/post/chicago-flood-warning-flash-flooding-impacts-road-conditions-harvey-dolton-illinois-comed-power-outages-reported/19446400/",
+        "mention_text": "Chicago",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Chicago, South Chicago Township, Cook County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 122604,
+        "run_at": "2026-07-05T08:56:35.426615+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4486267,
+          38.0352315
+        ]
+      },
+      "properties": {
+        "article_id": "https://abc7chicago.com/amp/post/chicago-flood-warning-flash-flooding-impacts-road-conditions-harvey-dolton-illinois-comed-power-outages-reported/19446400/",
+        "title": "Chicago Flood Warning: Flash flooding impacts road conditions in Harvey and Dolton, Illinois; ComEd power outages reported",
+        "source": "ABC7 Chicago",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-04T10:51:26Z",
+        "url": "https://abc7chicago.com/amp/post/chicago-flood-warning-flash-flooding-impacts-road-conditions-harvey-dolton-illinois-comed-power-outages-reported/19446400/",
+        "mention_text": "Harvey",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Harvey County, Kansas, United States",
+        "osm_type": "administrative",
+        "osm_id": 962837,
+        "run_at": "2026-07-05T08:56:35.426615+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.607268,
+          41.6389236
+        ]
+      },
+      "properties": {
+        "article_id": "https://abc7chicago.com/amp/post/chicago-flood-warning-flash-flooding-impacts-road-conditions-harvey-dolton-illinois-comed-power-outages-reported/19446400/",
+        "title": "Chicago Flood Warning: Flash flooding impacts road conditions in Harvey and Dolton, Illinois; ComEd power outages reported",
+        "source": "ABC7 Chicago",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-04T10:51:26Z",
+        "url": "https://abc7chicago.com/amp/post/chicago-flood-warning-flash-flooding-impacts-road-conditions-harvey-dolton-illinois-comed-power-outages-reported/19446400/",
+        "mention_text": "Dolton",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dolton, Thornton Township, Cook County, Illinois, 60419, United States",
+        "osm_type": "administrative",
+        "osm_id": 123415,
+        "run_at": "2026-07-05T08:56:35.426615+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4337288,
+          40.0796606
+        ]
+      },
+      "properties": {
+        "article_id": "https://abc7chicago.com/amp/post/chicago-flood-warning-flash-flooding-impacts-road-conditions-harvey-dolton-illinois-comed-power-outages-reported/19446400/",
+        "title": "Chicago Flood Warning: Flash flooding impacts road conditions in Harvey and Dolton, Illinois; ComEd power outages reported",
+        "source": "ABC7 Chicago",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-04T10:51:26Z",
+        "url": "https://abc7chicago.com/amp/post/chicago-flood-warning-flash-flooding-impacts-road-conditions-harvey-dolton-illinois-comed-power-outages-reported/19446400/",
+        "mention_text": "Illinois",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 122586,
+        "run_at": "2026-07-05T08:56:35.426615+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox5atlanta.com/weather/atlanta-scorching-triple-digit-heatwave-july-4th-weekend-2026",
+        "title": "Severe storms trigger flash flood warning across metro Atlanta counties",
+        "source": "FOX 5 Atlanta",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-03T01:36:14Z",
+        "url": "https://www.fox5atlanta.com/weather/atlanta-scorching-triple-digit-heatwave-july-4th-weekend-2026",
+        "mention_text": "Atlanta",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-07-05T08:56:35.426615+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6244212,
+          41.8755616
+        ]
+      },
+      "properties": {
+        "article_id": "https://abc7chicago.com/post/chicago-flood-warning-flash-flooding-impacts-road-conditions-harvey-dolton-illinois-comed-power-outages-reported/19446400/",
+        "title": "Chicago weather: Flood Warning for area as storms cause damage power outages; woman dies in Kendall Co.; July 4 fireworks canceled",
+        "source": "ABC7 Chicago",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-04T11:52:26Z",
+        "url": "https://abc7chicago.com/post/chicago-flood-warning-flash-flooding-impacts-road-conditions-harvey-dolton-illinois-comed-power-outages-reported/19446400/",
+        "mention_text": "Chicago",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Chicago, South Chicago Township, Cook County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 122604,
+        "run_at": "2026-07-05T08:56:35.426615+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2803933,
+          40.1541581
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wsmv.com/2026/06/28/two-rescues-reported-following-flash-flood-emergency-cumberland-county-ky/",
+        "title": "Two rescues reported following Flash Flood Emergency in Cumberland County, Ky",
+        "source": "WSMV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-28T18:27:00Z",
+        "url": "https://www.wsmv.com/2026/06/28/two-rescues-reported-following-flash-flood-emergency-cumberland-county-ky/",
+        "mention_text": "Cumberland County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Cumberland County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417440,
+        "run_at": "2026-07-05T08:56:35.426615+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1551411,
+          37.5726028
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.messenger-inquirer.com/news/local/ofd-members-return-from-flash-flood-recovery-in-eastern-kentucky/article_79276642-75c7-5423-9af6-594ba543589f.html",
+        "title": "OFD members return from flash flood recovery in eastern Kentucky",
+        "source": "Messenger-Inquirer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-01T00:00:00Z",
+        "url": "https://www.messenger-inquirer.com/news/local/ofd-members-return-from-flash-flood-recovery-in-eastern-kentucky/article_79276642-75c7-5423-9af6-594ba543589f.html",
+        "mention_text": "Kentucky",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 161655,
+        "run_at": "2026-07-05T08:56:35.426615+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7348497,
+          32.9715285
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flood-advisory-parts-southeast-louisiana-005455040.html",
+        "title": "Flood Advisory for parts of southeast Louisiana & southern Mississippi",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-05T00:54:00Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flood-advisory-parts-southeast-louisiana-005455040.html",
+        "mention_text": "Mississippi",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 161943,
+        "run_at": "2026-07-05T08:56:35.426615+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316156629.html",
+        "title": "Coastal flood advisory affecting Coastal Colleton and Charleston County until early Wednesday",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-17T01:19:06Z",
+        "url": "https://www.thestate.com/news/weather-news/article316156629.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-07-05T08:56:35.426615+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-07-04T08:40:25.907272+00:00",
-    "total_features": 1992
+    "last_updated": "2026-07-05T08:56:35.436724+00:00",
+    "total_features": 2008
   }
 }
