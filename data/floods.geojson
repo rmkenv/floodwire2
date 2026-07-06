@@ -52208,11 +52208,1207 @@
         "osm_id": 1857000,
         "run_at": "2026-07-05T08:56:35.426615+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1635262,
+          39.9527237
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcphiladelphia.com/weather/stories-weather/first-alert-flash-flood-threat-continues-monday-for-philadelphia-region-monday-july-6-2026/4428772/",
+        "title": "First Alert: Flash flood threat continues Monday for Philadelphia region",
+        "source": "NBC10 Philadelphia",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-06T09:09:45Z",
+        "url": "https://www.nbcphiladelphia.com/weather/stories-weather/first-alert-flash-flood-threat-continues-monday-for-philadelphia-region-monday-july-6-2026/4428772/",
+        "mention_text": "Philadelphia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Philadelphia, Philadelphia County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 188022,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1410774,
+          42.1823035
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cleveland19.com/2026/07/06/roads-close-parts-erie-co-including-kelleys-island-under-flash-flood-warning/",
+        "title": "Roads close in Erie County, including Kelleys Island, during flash flood warning",
+        "source": "Cleveland 19 News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-06T09:47:00Z",
+        "url": "https://www.cleveland19.com/2026/07/06/roads-close-parts-erie-co-including-kelleys-island-under-flash-flood-warning/",
+        "mention_text": "Erie County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Erie County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 416693,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7074044,
+          41.6042153
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cleveland19.com/2026/07/06/roads-close-parts-erie-co-including-kelleys-island-under-flash-flood-warning/",
+        "title": "Roads close in Erie County, including Kelleys Island, during flash flood warning",
+        "source": "Cleveland 19 News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-06T09:47:00Z",
+        "url": "https://www.cleveland19.com/2026/07/06/roads-close-parts-erie-co-including-kelleys-island-under-flash-flood-warning/",
+        "mention_text": "Kelleys Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kelleys Island, Erie County, Ohio, 43438, United States",
+        "osm_type": "administrative",
+        "osm_id": 183379,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7074044,
+          41.6042153
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kold.com/video/2026/07/06/flash-flood-warning-kelleys-island/",
+        "title": "Flash flood warning for Kelleys Island",
+        "source": "KOLD",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-06T09:40:00Z",
+        "url": "https://www.kold.com/video/2026/07/06/flash-flood-warning-kelleys-island/",
+        "mention_text": "Kelleys Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kelleys Island, Erie County, Ohio, 43438, United States",
+        "osm_type": "administrative",
+        "osm_id": 183379,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.7550406,
+          18.3356013
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/flash-flood-warning-new-orleans-jstjohn-stcharles-parish-louisiana-weather-forecast/71826665",
+        "title": "Flash Flood Warning for St. John and St. Charles parishes",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-05T19:48:00Z",
+        "url": "https://www.wdsu.com/article/flash-flood-warning-new-orleans-jstjohn-stcharles-parish-louisiana-weather-forecast/71826665",
+        "mention_text": "St. John",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Saint John, Cruz Bay, Saint Thomas - Saint John District, United States Virgin Islands, United States",
+        "osm_type": "island",
+        "osm_id": 254585,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6747372,
+          38.7877791
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/flash-flood-warning-new-orleans-jstjohn-stcharles-parish-louisiana-weather-forecast/71826665",
+        "title": "Flash Flood Warning for St. John and St. Charles parishes",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-05T19:48:00Z",
+        "url": "https://www.wdsu.com/article/flash-flood-warning-new-orleans-jstjohn-stcharles-parish-louisiana-weather-forecast/71826665",
+        "mention_text": "St. Charles",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Saint Charles County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180527,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7074044,
+          41.6042153
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wsfa.com/video/2026/07/06/flash-flood-warning-kelleys-island/",
+        "title": "Flash flood warning for Kelleys Island",
+        "source": "WSFA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-06T09:40:00Z",
+        "url": "https://www.wsfa.com/video/2026/07/06/flash-flood-warning-kelleys-island/",
+        "mention_text": "Kelleys Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kelleys Island, Erie County, Ohio, 43438, United States",
+        "osm_type": "administrative",
+        "osm_id": 183379,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7074044,
+          41.6042153
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdbj7.com/video/2026/07/06/flash-flood-warning-kelleys-island/",
+        "title": "Flash flood warning for Kelleys Island",
+        "source": "WDBJ7",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-06T09:40:00Z",
+        "url": "https://www.wdbj7.com/video/2026/07/06/flash-flood-warning-kelleys-island/",
+        "mention_text": "Kelleys Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kelleys Island, Erie County, Ohio, 43438, United States",
+        "osm_type": "administrative",
+        "osm_id": 183379,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.007126,
+          30.8703881
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/severe-weather/much-of-southeast-louisiana-under-flash-flood-warning-amid-heavy-thunderstorms/289-bd141b21-05fa-469f-962b-a1df56d2ec92",
+        "title": "Flash Flood Warnings expire for several southeast Louisiana parishes",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-05T19:55:00Z",
+        "url": "https://www.wwltv.com/article/weather/severe-weather/much-of-southeast-louisiana-under-flash-flood-warning-amid-heavy-thunderstorms/289-bd141b21-05fa-469f-962b-a1df56d2ec92",
+        "mention_text": "Louisiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 224922,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.280075,
+          43.411391
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/persistent-heavy-rain-flash-flood-threat-midwest",
+        "title": "Days of persistent heavy rain puts millions in flash flood threat throughout the Midwest",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-05T17:11:00Z",
+        "url": "https://www.foxweather.com/weather-news/persistent-heavy-rain-flash-flood-threat-midwest",
+        "mention_text": "Midwest",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Midwest, Natrona County, Wyoming, United States",
+        "osm_type": "administrative",
+        "osm_id": 252227,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7074044,
+          41.6042153
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cleveland19.com/video/2026/07/06/flash-flood-warning-kelleys-island/",
+        "title": "Flash flood warning for Kelleys Island",
+        "source": "Cleveland 19 News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-06T09:40:00Z",
+        "url": "https://www.cleveland19.com/video/2026/07/06/flash-flood-warning-kelleys-island/",
+        "mention_text": "Kelleys Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kelleys Island, Erie County, Ohio, 43438, United States",
+        "osm_type": "administrative",
+        "osm_id": 183379,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1704496,
+          29.834772
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/flash-flood-warning-new-orleans-jefferson-plaquemines-parish-louisiana-weather-forecast/71826607",
+        "title": "Flash Flood Warning for Orleans, Jefferson, St. Bernard, St. John etc.",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-05T21:10:00Z",
+        "url": "https://www.wdsu.com/article/flash-flood-warning-new-orleans-jefferson-plaquemines-parish-louisiana-weather-forecast/71826607",
+        "mention_text": "Jefferson",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Jefferson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1841074,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6008692,
+          29.8217562
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/flash-flood-warning-new-orleans-jefferson-plaquemines-parish-louisiana-weather-forecast/71826607",
+        "title": "Flash Flood Warning for Orleans, Jefferson, St. Bernard, St. John etc.",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-05T21:10:00Z",
+        "url": "https://www.wdsu.com/article/flash-flood-warning-new-orleans-jefferson-plaquemines-parish-louisiana-weather-forecast/71826607",
+        "mention_text": "St. Bernard",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Saint Bernard Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836430,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.7550406,
+          18.3356013
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/flash-flood-warning-new-orleans-jefferson-plaquemines-parish-louisiana-weather-forecast/71826607",
+        "title": "Flash Flood Warning for Orleans, Jefferson, St. Bernard, St. John etc.",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-05T21:10:00Z",
+        "url": "https://www.wdsu.com/article/flash-flood-warning-new-orleans-jefferson-plaquemines-parish-louisiana-weather-forecast/71826607",
+        "mention_text": "St. John",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Saint John, Cruz Bay, Saint Thomas - Saint John District, United States Virgin Islands, United States",
+        "osm_type": "island",
+        "osm_id": 254585,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5117017,
+          41.4402556
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/07/flash-flood-warning-in-place-for-sullivan-county-until-1-a-m-monday-triggered-by-thunderstorms.html",
+        "title": "Update: Flash flood warning in place for Sullivan County until 2 a.m. Monday triggered by thunderstorms",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-06T02:30:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/07/flash-flood-warning-in-place-for-sullivan-county-until-1-a-m-monday-triggered-by-thunderstorms.html",
+        "mention_text": "Sullivan County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Sullivan County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 416683,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1635262,
+          39.9527237
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox29.com/weather/flash-flood-warning-issued-philadelphia-area-parts-new-jersey",
+        "title": "Flash flood warning issued for Philadelphia area and parts of New Jersey",
+        "source": "FOX 29 Philadelphia",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-06T00:08:04Z",
+        "url": "https://www.fox29.com/weather/flash-flood-warning-issued-philadelphia-area-parts-new-jersey",
+        "mention_text": "Philadelphia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Philadelphia, Philadelphia County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 188022,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4041622,
+          40.0757384
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox29.com/weather/flash-flood-warning-issued-philadelphia-area-parts-new-jersey",
+        "title": "Flash flood warning issued for Philadelphia area and parts of New Jersey",
+        "source": "FOX 29 Philadelphia",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-06T00:08:04Z",
+        "url": "https://www.fox29.com/weather/flash-flood-warning-issued-philadelphia-area-parts-new-jersey",
+        "mention_text": "New Jersey",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 224951,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2411283,
+          40.08067
+        ]
+      },
+      "properties": {
+        "article_id": "https://lancasteronline.com/news/local/flash-flood-warning-issued-for-lancaster-county/article_9a35f3ab-3c63-4083-99c2-3995aa2a1bcb.html",
+        "title": "Flash flood warning issued for Lancaster County [update]",
+        "source": "LancasterOnline",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-06T01:01:00Z",
+        "url": "https://lancasteronline.com/news/local/flash-flood-warning-issued-for-lancaster-county/article_9a35f3ab-3c63-4083-99c2-3995aa2a1bcb.html",
+        "mention_text": "Lancaster County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lancaster County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417768,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2890283,
+          40.3966461
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wgal.com/article/flash-flood-warning-issued-for-perry-county/71827231",
+        "title": "Flash Flood Warning issued for Perry County",
+        "source": "WGAL",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-05T22:34:00Z",
+        "url": "https://www.wgal.com/article/flash-flood-warning-issued-for-perry-county/71827231",
+        "mention_text": "Perry County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Perry County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417432,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2618518,
+          41.8689317
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/07/flash-flood-warning-active-for-ulster-county-until-sunday-night-triggered-by-thunderstorms.html",
+        "title": "Flash flood warning active for Ulster County until Sunday night triggered by thunderstorms",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-06T00:00:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/07/flash-flood-warning-active-for-ulster-county-until-sunday-night-triggered-by-thunderstorms.html",
+        "mention_text": "Ulster County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ulster County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1838026,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8722311,
+          33.750631
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/07/flash-flood-warning-issued-for-orange-county-until-early-monday-triggered-by-thunderstorms.html",
+        "title": "Flash flood warning issued for Orange County until early Monday triggered by thunderstorms",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-06T00:58:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/07/flash-flood-warning-issued-for-orange-county-until-early-monday-triggered-by-thunderstorms.html",
+        "mention_text": "Orange County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Orange County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396466,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2411283,
+          40.08067
+        ]
+      },
+      "properties": {
+        "article_id": "https://lancasteronline.com/news/local/flash-flood-warning-issued-for-lancaster-county-update/article_9a35f3ab-3c63-4083-99c2-3995aa2a1bcb.html",
+        "title": "Flash flood warning issued for Lancaster County [update]",
+        "source": "LancasterOnline",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-06T01:01:00Z",
+        "url": "https://lancasteronline.com/news/local/flash-flood-warning-issued-for-lancaster-county-update/article_9a35f3ab-3c63-4083-99c2-3995aa2a1bcb.html",
+        "mention_text": "Lancaster County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lancaster County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417768,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0025666,
+          40.4406968
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/pittsburgh/news/flood-watch-pittsburgh-area-national-weather-service-rainfall/",
+        "title": "Flood watch issued for parts of the Pittsburgh area",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-06T08:54:13Z",
+        "url": "https://www.cbsnews.com/pittsburgh/news/flood-watch-pittsburgh-area-national-weather-service-rainfall/",
+        "mention_text": "Pittsburgh",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Pittsburgh, Allegheny County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 188553,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4001639,
+          39.9194117
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/07/flash-flood-warning-for-delaware-county-sunday-night-due-to-thunderstorms.html",
+        "title": "Update: Flash flood warning for Delaware County until Sunday night due to thunderstorms",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-05T22:50:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/07/flash-flood-warning-for-delaware-county-sunday-night-due-to-thunderstorms.html",
+        "mention_text": "Delaware County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Delaware County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417846,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0430134,
+          33.5718345
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wsmv.com/2026/07/05/5-kayakers-including-children-rescued-after-becoming-stranded-red-river-during-flash-flood/",
+        "title": "5 kayakers, including children, rescued after becoming stranded on Red River during flash flood",
+        "source": "WSMV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-05T23:20:00Z",
+        "url": "https://www.wsmv.com/2026/07/05/5-kayakers-including-children-rescued-after-becoming-stranded-red-river-during-flash-flood/",
+        "mention_text": "Red River",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Red River County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1827726,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7865722,
+          40.9381735
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.centredaily.com/news/weather-news/article316391562.html",
+        "title": "Flash flood warning issued for part of Centre County as storms move through area",
+        "source": "Centre Daily Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-05T21:23:34Z",
+        "url": "https://www.centredaily.com/news/weather-news/article316391562.html",
+        "mention_text": "Centre County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Centre County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 416637,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://pix11.com/news/local-news/travel-advisory-issued-for-nyc-amid-flash-flood-threat/",
+        "title": "Travel advisory issued for NYC amid flash flood threat",
+        "source": "PIX11",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-06T02:29:21Z",
+        "url": "https://pix11.com/news/local-news/travel-advisory-issued-for-nyc-amid-flash-flood-threat/",
+        "mention_text": "NYC",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.254256,
+          41.7741691
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mytwintiers.com/news-cat/flash-flood-warning-issued-for-tioga-county-pa/",
+        "title": "Flash Flood Warning issued for Tioga County, PA",
+        "source": "WETM",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-05T21:52:17Z",
+        "url": "https://www.mytwintiers.com/news-cat/flash-flood-warning-issued-for-tioga-county-pa/",
+        "mention_text": "Tioga County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tioga County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 416680,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1640198,
+          41.1241573
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wkyc.com/article/weather/weather-impact/flood-watch-issued-multiple-northeast-ohio-counties-nws-warns-showers-thunderstorms/95-c6bf73e2-bc45-41d3-9767-f931cfef65af",
+        "title": "Flash Flood Warning, Flood Watch issued for multiple Northeast Ohio counties as NWS warns of showers, thunderstorms",
+        "source": "WKYC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-05T15:41:00Z",
+        "url": "https://www.wkyc.com/article/weather/weather-impact/flood-watch-issued-multiple-northeast-ohio-counties-nws-warns-showers-thunderstorms/95-c6bf73e2-bc45-41d3-9767-f931cfef65af",
+        "mention_text": "Northeast Ohio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ohio Avenue, Northeast Tiffin Historic District, Tiffin, Seneca County, Ohio, 44884, United States",
+        "osm_type": "residential",
+        "osm_id": 8794379,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6881395,
+          40.2253569
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtrf.com/top-stories/flash-flood-warning-issued-in-ohio-valley-3/",
+        "title": "Flash Flood Warning issued in Ohio Valley",
+        "source": "WTRF",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-05T19:20:32Z",
+        "url": "https://www.wtrf.com/top-stories/flash-flood-warning-issued-in-ohio-valley-3/",
+        "mention_text": "Ohio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 162061,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9805484,
+          41.5595723
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtrf.com/top-stories/flash-flood-warning-issued-in-ohio-valley-3/",
+        "title": "Flash Flood Warning issued in Ohio Valley",
+        "source": "WTRF",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-05T19:20:32Z",
+        "url": "https://www.wtrf.com/top-stories/flash-flood-warning-issued-in-ohio-valley-3/",
+        "mention_text": "Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Valley County, Nebraska, United States",
+        "osm_type": "administrative",
+        "osm_id": 1425395,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2803933,
+          40.1541581
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pennlive.com/weather/2026/07/flash-flood-warning-issued-for-dauphin-cumberland-york-counties.html",
+        "title": "Flash flood warning issued for Dauphin, Cumberland, York counties",
+        "source": "PennLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-06T00:34:00Z",
+        "url": "https://www.pennlive.com/weather/2026/07/flash-flood-warning-issued-for-dauphin-cumberland-york-counties.html",
+        "mention_text": "Cumberland",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Cumberland County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417440,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0733934,
+          29.9561422
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.audacy.com/wwl/news/local/new-orleans-neutral-ground-parking",
+        "title": "New Orleans allows neutral ground parking amid flash flood threat",
+        "source": "Audacy",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-05T20:16:09Z",
+        "url": "https://www.audacy.com/wwl/news/local/new-orleans-neutral-ground-parking",
+        "mention_text": "New Orleans",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Orleans, Orleans Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 131885,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2360391,
+          40.7887367
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.news5cleveland.com/weather/weather-news/flood-alerts-issued-for-several-northeast-ohio-counties",
+        "title": "Flash flood warning issued for Ashland, Richland counties",
+        "source": "News 5 Cleveland WEWS",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-05T17:48:22Z",
+        "url": "https://www.news5cleveland.com/weather/weather-news/flood-alerts-issued-for-several-northeast-ohio-counties",
+        "mention_text": "Ashland",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ashland County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 911247,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0949352,
+          38.7060457
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.news5cleveland.com/weather/weather-news/flood-alerts-issued-for-several-northeast-ohio-counties",
+        "title": "Flash flood warning issued for Ashland, Richland counties",
+        "source": "News 5 Cleveland WEWS",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-05T17:48:22Z",
+        "url": "https://www.news5cleveland.com/weather/weather-news/flood-alerts-issued-for-several-northeast-ohio-counties",
+        "mention_text": "Richland",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Richland County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1801535,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7278831,
+          40.9699889
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.2822news.com/weather/pennsylvania-weather-flood-watch-more-storms-to-end-weekend/",
+        "title": "Pennsylvania weather: NWS issues Flash Flood Warnings for parts of NEPA",
+        "source": "28/22 News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-05T13:57:37Z",
+        "url": "https://www.2822news.com/weather/pennsylvania-weather-flood-watch-more-storms-to-end-weekend/",
+        "mention_text": "Pennsylvania",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 162109,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0733934,
+          29.9561422
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nola.com/news/weather/flash-flood-new-orleans/article_34b64429-34d1-4e00-a3fa-af55c0cd5742.html",
+        "title": "Flash flood warning issued for New Orleans area as severe thunderstorms soak the region",
+        "source": "NOLA.com",
+        "outlet_city": "New Orleans",
+        "outlet_region": "Louisiana",
+        "published_at": "2026-07-05T21:18:00Z",
+        "url": "https://www.nola.com/news/weather/flash-flood-new-orleans/article_34b64429-34d1-4e00-a3fa-af55c0cd5742.html",
+        "mention_text": "New Orleans",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Orleans, Orleans Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 131885,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8449946,
+          43.1561681
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/ny-state/2026/07/ny-weather-new-york-faces-flash-flood-threat-as-heavy-rain-expected.html",
+        "title": "N.Y. Weather: New York faces flash flood threat as heavy rain expected",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-05T12:52:00Z",
+        "url": "https://www.silive.com/ny-state/2026/07/ny-weather-new-york-faces-flash-flood-threat-as-heavy-rain-expected.html",
+        "mention_text": "N.Y.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 61320,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/ny-state/2026/07/ny-weather-new-york-faces-flash-flood-threat-as-heavy-rain-expected.html",
+        "title": "N.Y. Weather: New York faces flash flood threat as heavy rain expected",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-05T12:52:00Z",
+        "url": "https://www.silive.com/ny-state/2026/07/ny-weather-new-york-faces-flash-flood-threat-as-heavy-rain-expected.html",
+        "mention_text": "New York",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.969835,
+          42.4590797
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/heavy-rain-flash-flood-threat-125542850.html",
+        "title": "Heavy rain and flash flood threat looms for Western Mass. late Sunday night into Tuesday",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-05T12:55:42Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/heavy-rain-flash-flood-threat-125542850.html",
+        "mention_text": "Western Mass.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mass Broker Services, 869, Western Avenue, Raddin Station, Lynn, Essex County, Massachusetts, 01905, United States",
+        "osm_type": "insurance",
+        "osm_id": 9946039978,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8449946,
+          43.1561681
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather/2026/07/ny-weather-flash-flood-watch-issued-as-heavy-rain-threatens-staten-island.html",
+        "title": "N.Y. Weather: Flash flood watch issued as heavy rain threatens Staten Island",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-05T12:29:00Z",
+        "url": "https://www.silive.com/weather/2026/07/ny-weather-flash-flood-watch-issued-as-heavy-rain-threatens-staten-island.html",
+        "mention_text": "N.Y.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 61320,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1496048,
+          40.5834557
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather/2026/07/ny-weather-flash-flood-watch-issued-as-heavy-rain-threatens-staten-island.html",
+        "title": "N.Y. Weather: Flash flood watch issued as heavy rain threatens Staten Island",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-05T12:29:00Z",
+        "url": "https://www.silive.com/weather/2026/07/ny-weather-flash-flood-watch-issued-as-heavy-rain-threatens-staten-island.html",
+        "mention_text": "Staten Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Staten Island, Richmond County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 9691948,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9452985,
+          40.7952819
+        ]
+      },
+      "properties": {
+        "article_id": "https://kvia.com/news/top-stories/2026/07/05/abc-7-first-alert-flood-advisory-for-central-and-east-el-paso-until-615-pm/",
+        "title": "ABC-7 First Alert: Flood Advisory for Central and East El Paso until 6:15 PM",
+        "source": "KVIA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-06T01:40:10Z",
+        "url": "https://kvia.com/news/top-stories/2026/07/05/abc-7-first-alert-flood-advisory-for-central-and-east-el-paso-until-615-pm/",
+        "mention_text": "East El Paso",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "El Paso, 123, East 110th Street, East Harlem, Manhattan Community Board 11, Manhattan, New York County, New York, 10029, United States",
+        "osm_type": "restaurant",
+        "osm_id": 6206711584,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.564371,
+          35.4045503
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316391762.html",
+        "title": "UPDATE: Flood advisory affecting Cabarrus County Sunday evening caused by heavy rainfall",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-05T22:18:05Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316391762.html",
+        "mention_text": "Cabarrus County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cabarrus County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528680,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8722311,
+          33.750631
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/07/flood-advisory-affecting-orange-county-sunday-night-triggered-by-substantial-rain.html",
+        "title": "Flood advisory affecting Orange County Sunday night triggered by substantial rain",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-05T23:25:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/07/flood-advisory-affecting-orange-county-sunday-night-triggered-by-substantial-rain.html",
+        "mention_text": "Orange County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Orange County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396466,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7348497,
+          32.9715285
+        ]
+      },
+      "properties": {
+        "article_id": "https://wgno.com/news/flood-advisory-for-parts-of-southeast-louisiana-southern-mississippi/",
+        "title": "Flood Advisory for parts of southeast Louisiana & southern Mississippi",
+        "source": "WGNO",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-05T00:54:55Z",
+        "url": "https://wgno.com/news/flood-advisory-for-parts-of-southeast-louisiana-southern-mississippi/",
+        "mention_text": "Mississippi",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 161943,
+        "run_at": "2026-07-06T10:21:40.140354+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-07-05T08:56:35.436724+00:00",
-    "total_features": 2008
+    "last_updated": "2026-07-06T10:21:40.151329+00:00",
+    "total_features": 2054
   }
 }
