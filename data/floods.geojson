@@ -54704,11 +54704,973 @@
         "osm_id": 1353026405,
         "run_at": "2026-07-07T09:43:58.972672+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5970308,
+          35.4804633
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316423377.html",
+        "title": "Flash flood warning affecting Eastern North Carolina until 2 a.m. Wednesday",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-08T03:31:04Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316423377.html",
+        "mention_text": "Eastern North Carolina",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Eastern Correctional Institution, 2821, NC 903, Maury, Greene County, North Carolina, 28554, United States",
+        "osm_type": "prison",
+        "osm_id": 1353026405,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2272835,
+          43.2244513
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/weather-impact/flash-flood-warning-issued-for-parts-of-orleans-jefferson-st-bernard-st-charles-parishes/289-cac8e6b4-6ebd-4631-8c43-4a7490aa9939",
+        "title": "Flash flood warning issued for parts of Orleans, Jefferson, St. Bernard, St. Charles parishes",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-07T22:05:00Z",
+        "url": "https://www.wwltv.com/article/weather/weather-impact/flash-flood-warning-issued-for-parts-of-orleans-jefferson-st-bernard-st-charles-parishes/289-cac8e6b4-6ebd-4631-8c43-4a7490aa9939",
+        "mention_text": "Orleans",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Orleans County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 68855,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1704496,
+          29.834772
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/weather-impact/flash-flood-warning-issued-for-parts-of-orleans-jefferson-st-bernard-st-charles-parishes/289-cac8e6b4-6ebd-4631-8c43-4a7490aa9939",
+        "title": "Flash flood warning issued for parts of Orleans, Jefferson, St. Bernard, St. Charles parishes",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-07T22:05:00Z",
+        "url": "https://www.wwltv.com/article/weather/weather-impact/flash-flood-warning-issued-for-parts-of-orleans-jefferson-st-bernard-st-charles-parishes/289-cac8e6b4-6ebd-4631-8c43-4a7490aa9939",
+        "mention_text": "Jefferson",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Jefferson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1841074,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6008692,
+          29.8217562
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/weather-impact/flash-flood-warning-issued-for-parts-of-orleans-jefferson-st-bernard-st-charles-parishes/289-cac8e6b4-6ebd-4631-8c43-4a7490aa9939",
+        "title": "Flash flood warning issued for parts of Orleans, Jefferson, St. Bernard, St. Charles parishes",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-07T22:05:00Z",
+        "url": "https://www.wwltv.com/article/weather/weather-impact/flash-flood-warning-issued-for-parts-of-orleans-jefferson-st-bernard-st-charles-parishes/289-cac8e6b4-6ebd-4631-8c43-4a7490aa9939",
+        "mention_text": "St. Bernard",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Saint Bernard Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836430,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6747372,
+          38.7877791
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/weather-impact/flash-flood-warning-issued-for-parts-of-orleans-jefferson-st-bernard-st-charles-parishes/289-cac8e6b4-6ebd-4631-8c43-4a7490aa9939",
+        "title": "Flash flood warning issued for parts of Orleans, Jefferson, St. Bernard, St. Charles parishes",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-07T22:05:00Z",
+        "url": "https://www.wwltv.com/article/weather/weather-impact/flash-flood-warning-issued-for-parts-of-orleans-jefferson-st-bernard-st-charles-parishes/289-cac8e6b4-6ebd-4631-8c43-4a7490aa9939",
+        "mention_text": "St. Charles",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Saint Charles County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180527,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1551411,
+          37.5726028
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whas11.com/article/weather/flash-flood-warning-issued-kentucky-counties-latest-alerts-july-7/417-8b0764f4-8f62-417e-84ee-3a86c33683fa",
+        "title": "Flash flood warning issued for these Kentucky counties | Latest alerts",
+        "source": "whas11.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-07T21:29:00Z",
+        "url": "https://www.whas11.com/article/weather/flash-flood-warning-issued-kentucky-counties-latest-alerts-july-7/417-8b0764f4-8f62-417e-84ee-3a86c33683fa",
+        "mention_text": "Kentucky",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 161655,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316420549.html",
+        "title": "Flash flood warning for North Carolina Tuesday evening due to thunderstorms",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-07T22:19:05Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316420549.html",
+        "mention_text": "North Carolina",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0733934,
+          29.9561422
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nola.com/flash-flood-warning-issued-storms-tuesday-weather-service/article_47bff4ba-2cec-48d0-9969-d44d6f489084.html",
+        "title": "Flash flood warning issued as storms develop Tuesday evening",
+        "source": "NOLA.com",
+        "outlet_city": "New Orleans",
+        "outlet_region": "Louisiana",
+        "published_at": "2026-07-07T22:09:00Z",
+        "url": "https://www.nola.com/flash-flood-warning-issued-storms-tuesday-weather-service/article_47bff4ba-2cec-48d0-9969-d44d6f489084.html",
+        "mention_text": "New Orleans",
+        "flood_type": "flash_flood",
+        "confidence": 0.4,
+        "osm_display": "New Orleans, Orleans Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 131885,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9664647,
+          35.937078
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbs17.com/news/local-news/johnston-county-news/johnston-wayne-and-wilson-counties-under-severe-thunderstorm-warning/",
+        "title": "Central NC counties under flash flood, severe thunderstorm warnings",
+        "source": "CBS 17",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-07T20:42:22Z",
+        "url": "https://www.cbs17.com/news/local-news/johnston-county-news/johnston-wayne-and-wilson-counties-under-severe-thunderstorm-warning/",
+        "mention_text": "Central NC",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, Iredell County, North Carolina, United States",
+        "osm_type": "hamlet",
+        "osm_id": 154300865,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6118311,
+          35.7979355
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316407589.html",
+        "title": "UPDATE: Flash flood warning for Wake County Tuesday night caused by thunderstorms",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-08T01:19:04Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316407589.html",
+        "mention_text": "Wake County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Wake County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528697,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1525761,
+          38.1793809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsleader.com/story/weather/2026/07/07/augusta-county-faces-flash-flood-risk-from-tropical-rain/90832217007/",
+        "title": "Augusta County faces flash flood risk from tropical rain",
+        "source": "The News Leader | Staunton, VA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-07T14:28:00Z",
+        "url": "https://www.newsleader.com/story/weather/2026/07/07/augusta-county-faces-flash-flood-risk-from-tropical-rain/90832217007/",
+        "mention_text": "Augusta County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Augusta County, Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 2534166,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7537839,
+          44.2057083
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-1rm6kro1xf16ykhi",
+        "title": "Flash flood threat persists in New England, targets Mid-Atlantic after inundating New York tri-state",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-07T10:16:08Z",
+        "url": "https://www.foxweather.com/watch/fmc-1rm6kro1xf16ykhi",
+        "mention_text": "New England",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New England, United States",
+        "osm_type": "region",
+        "osm_id": 9660059,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.444328,
+          43.1606855
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-1rm6kro1xf16ykhi",
+        "title": "Flash flood threat persists in New England, targets Mid-Atlantic after inundating New York tri-state",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-07T10:16:08Z",
+        "url": "https://www.foxweather.com/watch/fmc-1rm6kro1xf16ykhi",
+        "mention_text": "Mid-Atlantic",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mid-Atlantic, Atlantic Avenue, Penfield Center, Town of Penfield, Monroe County, New York, 14450, United States",
+        "osm_type": "pitch",
+        "osm_id": 76694673,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-1rm6kro1xf16ykhi",
+        "title": "Flash flood threat persists in New England, targets Mid-Atlantic after inundating New York tri-state",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-07T10:16:08Z",
+        "url": "https://www.foxweather.com/watch/fmc-1rm6kro1xf16ykhi",
+        "mention_text": "New York",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7074044,
+          41.6042153
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kltv.com/video/2026/07/06/flash-flood-warning-kelleys-island/",
+        "title": "Flash flood warning for Kelleys Island",
+        "source": "KLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-06T09:40:00Z",
+        "url": "https://www.kltv.com/video/2026/07/06/flash-flood-warning-kelleys-island/",
+        "mention_text": "Kelleys Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kelleys Island, Erie County, Ohio, 43438, United States",
+        "osm_type": "administrative",
+        "osm_id": 183379,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8751582,
+          36.0181316
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316407589.html",
+        "title": "UPDATE: Flash flood warning for Durham County likely to expire at 1:30 a.m.",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-07T05:37:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316407589.html",
+        "mention_text": "Durham County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Durham County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528696,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.629641,
+          36.0768949
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316402645.html",
+        "title": "UPDATE: Flash flood warning in place for Chowan County Monday evening",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-06T21:55:04Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316402645.html",
+        "mention_text": "Chowan County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Chowan County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1242006,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7074044,
+          41.6042153
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wafb.com/video/2026/07/06/flash-flood-warning-kelleys-island/",
+        "title": "Flash flood warning for Kelleys Island",
+        "source": "WAFB",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-06T09:40:00Z",
+        "url": "https://www.wafb.com/video/2026/07/06/flash-flood-warning-kelleys-island/",
+        "mention_text": "Kelleys Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kelleys Island, Erie County, Ohio, 43438, United States",
+        "osm_type": "administrative",
+        "osm_id": 183379,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6869011,
+          35.6333866
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316402648.html",
+        "title": "Dare County placed under a flash flood warning early Monday evening caused by thunderstorms",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-06T19:34:05Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316402648.html",
+        "mention_text": "Dare County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dare County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1232267,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7074044,
+          41.6042153
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.keyc.com/video/2026/07/06/flash-flood-warning-kelleys-island/",
+        "title": "Flash flood warning for Kelleys Island",
+        "source": "KEYC News Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-06T09:40:00Z",
+        "url": "https://www.keyc.com/video/2026/07/06/flash-flood-warning-kelleys-island/",
+        "mention_text": "Kelleys Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kelleys Island, Erie County, Ohio, 43438, United States",
+        "osm_type": "administrative",
+        "osm_id": 183379,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4291882,
+          37.7863765
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/07/07/coastal-flood-advisory-in-place-for-northern-california-from-saturday-to-wednesday/amp/",
+        "title": "Coastal flood advisory in place for Northern California from Saturday to Wednesday",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-08T04:04:50Z",
+        "url": "https://www.mercurynews.com/2026/07/07/coastal-flood-advisory-in-place-for-northern-california-from-saturday-to-wednesday/amp/",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Japanese American Association of Northern California, 1759, Sutter Street, Japantown, Western Addition, San Francisco, California, 95115, United States",
+        "osm_type": "yes",
+        "osm_id": 257960526,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.8854639,
+          33.759478
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/07/07/coastal-flood-advisory-active-for-san-francisco-county-from-thursday-to-thursday/amp/",
+        "title": "Coastal flood advisory active for San Francisco County from Thursday to Thursday",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-08T04:04:49Z",
+        "url": "https://www.mercurynews.com/2026/07/07/coastal-flood-advisory-active-for-san-francisco-county-from-thursday-to-thursday/amp/",
+        "mention_text": "San Francisco County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco, Catron County, New Mexico, United States",
+        "osm_type": "peak",
+        "osm_id": 11066998506,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/07/07/coastal-flood-advisory-issued-for-north-bay-interior-valleys-and-san-francisco-bay-shoreline-from-thursday-to-thursday/amp/",
+        "title": "Coastal flood advisory issued for North Bay Interior Valleys and San Francisco Bay Shoreline from Thursday to Thursday",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-08T04:04:39Z",
+        "url": "https://www.mercurynews.com/2026/07/07/coastal-flood-advisory-issued-for-north-bay-interior-valleys-and-san-francisco-bay-shoreline-from-thursday-to-thursday/amp/",
+        "mention_text": "North Bay",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.260982,
+          37.5235288
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/07/07/coastal-flood-advisory-issued-for-north-bay-interior-valleys-and-san-francisco-bay-shoreline-from-thursday-to-thursday/amp/",
+        "title": "Coastal flood advisory issued for North Bay Interior Valleys and San Francisco Bay Shoreline from Thursday to Thursday",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-08T04:04:39Z",
+        "url": "https://www.mercurynews.com/2026/07/07/coastal-flood-advisory-issued-for-north-bay-interior-valleys-and-san-francisco-bay-shoreline-from-thursday-to-thursday/amp/",
+        "mention_text": "San Francisco Bay Shoreline",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Grand Bay Hotel San Francisco, Shoreline Drive, Redwood City, San Mateo County, California, 94064, United States",
+        "osm_type": "atm",
+        "osm_id": 522277332,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercedsunstar.com/news/weather-news/article316423544.html",
+        "title": "Coastal flood advisory issued for North Bay Interior Valleys and San Francisco Bay Shoreline",
+        "source": "Merced Sun-Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-08T04:19:06Z",
+        "url": "https://www.mercedsunstar.com/news/weather-news/article316423544.html",
+        "mention_text": "North Bay",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.260982,
+          37.5235288
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercedsunstar.com/news/weather-news/article316423544.html",
+        "title": "Coastal flood advisory issued for North Bay Interior Valleys and San Francisco Bay Shoreline",
+        "source": "Merced Sun-Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-08T04:19:06Z",
+        "url": "https://www.mercedsunstar.com/news/weather-news/article316423544.html",
+        "mention_text": "San Francisco Bay Shoreline",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Grand Bay Hotel San Francisco, Shoreline Drive, Redwood City, San Mateo County, California, 94064, United States",
+        "osm_type": "atm",
+        "osm_id": 522277332,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.8854639,
+          33.759478
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/07/07/coastal-flood-advisory-active-for-san-francisco-county-from-thursday-to-thursday/",
+        "title": "Coastal flood advisory active for San Francisco County from Thursday to Thursday",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-08T04:04:49Z",
+        "url": "https://www.eastbaytimes.com/2026/07/07/coastal-flood-advisory-active-for-san-francisco-county-from-thursday-to-thursday/",
+        "mention_text": "San Francisco County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco, Catron County, New Mexico, United States",
+        "osm_type": "peak",
+        "osm_id": 11066998506,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4291882,
+          37.7863765
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/07/07/coastal-flood-advisory-in-place-for-northern-california-from-saturday-to-wednesday/",
+        "title": "Coastal flood advisory in place for Northern California from Saturday to Wednesday",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-08T04:04:50Z",
+        "url": "https://www.mercurynews.com/2026/07/07/coastal-flood-advisory-in-place-for-northern-california-from-saturday-to-wednesday/",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Japanese American Association of Northern California, 1759, Sutter Street, Japantown, Western Addition, San Francisco, California, 95115, United States",
+        "osm_type": "yes",
+        "osm_id": 257960526,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article316418344.html",
+        "title": "Flood advisory for Myrtle Beach area and Georgetown County Tuesday evening",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-07T20:24:06Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article316418344.html",
+        "mention_text": "Myrtle Beach",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Myrtle Beach, Horry County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193842,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3343041,
+          33.4392245
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article316418344.html",
+        "title": "Flood advisory for Myrtle Beach area and Georgetown County Tuesday evening",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-07T20:24:06Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article316418344.html",
+        "mention_text": "Georgetown County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Georgetown County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532508,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8003641,
+          33.6797275
+        ]
+      },
+      "properties": {
+        "article_id": "https://riverheadnewsreview.timesreview.com/2026/07/135289/flood-advisory-extended-as-storms-threaten-east-end-with-more-rain/",
+        "title": "Flood advisory extended as storms threaten East End with more rain",
+        "source": "Riverhead News Review",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-06T15:14:35Z",
+        "url": "https://riverheadnewsreview.timesreview.com/2026/07/135289/flood-advisory-extended-as-storms-threaten-east-end-with-more-rain/",
+        "mention_text": "East End",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "East End, Scottsdale, Maricopa County, Arizona, United States",
+        "osm_type": "peak",
+        "osm_id": 359265329,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6736551,
+          28.5031572
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article316407001.html",
+        "title": "UPDATE: Flood advisory issued for Calhoun and Orangeburg counties Monday night",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-07T02:07:04Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article316407001.html",
+        "mention_text": "Calhoun",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Calhoun County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1828434,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8556476,
+          33.4918203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article316407001.html",
+        "title": "UPDATE: Flood advisory issued for Calhoun and Orangeburg counties Monday night",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-07T02:07:04Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article316407001.html",
+        "mention_text": "Orangeburg",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Orangeburg, Orangeburg County, South Carolina, 29115, United States",
+        "osm_type": "administrative",
+        "osm_id": 193825,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5931208,
+          34.8496625
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316299937.html",
+        "title": "Flood advisory for Carteret County Saturday night due to heavy rain",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-28T01:27:04Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316299937.html",
+        "mention_text": "Carteret County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Carteret County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528682,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316297743.html",
+        "title": "Flood advisory affecting North Carolina Saturday evening due to significant downpours",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-27T20:30:04Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316297743.html",
+        "mention_text": "North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6527477,
+          48.5158513
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bellinghamherald.com/news/weather-news/article316291180.html",
+        "title": "UPDATE: Flood advisory for Ferry and Okanogan counties anticipated to expire at 7:30 p.m.",
+        "source": "Bellingham Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-26T07:00:00Z",
+        "url": "https://www.bellinghamherald.com/news/weather-news/article316291180.html",
+        "mention_text": "Okanogan",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Okanogan County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153069,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9759066,
+          33.7635851
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316188974.html",
+        "title": "Aiken and Edgefield counties placed under a flood advisory until early Friday",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-18T07:00:00Z",
+        "url": "https://www.thestate.com/news/weather-news/article316188974.html",
+        "mention_text": "Edgefield",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Edgefield County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532505,
+        "run_at": "2026-07-08T08:31:18.169920+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-07-07T09:43:58.982717+00:00",
-    "total_features": 2104
+    "last_updated": "2026-07-08T08:31:18.176835+00:00",
+    "total_features": 2141
   }
 }
