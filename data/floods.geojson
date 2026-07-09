@@ -55666,11 +55666,531 @@
         "osm_id": 2532505,
         "run_at": "2026-07-08T08:31:18.169920+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9090751,
+          43.0386475
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.jsonline.com/story/weather/2026/07/08/weather-alert/90857876007/",
+        "title": "Flash flood warning issued for Milwaukee area",
+        "source": "Milwaukee Journal Sentinel",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-09T03:55:00Z",
+        "url": "https://www.jsonline.com/story/weather/2026/07/08/weather-alert/90857876007/",
+        "mention_text": "Milwaukee",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Milwaukee, Milwaukee County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251075,
+        "run_at": "2026-07-09T09:42:25.220644+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9579748,
+          43.3569041
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wisn.com/article/heat-humidity-and-evening-storms-threat-southeast-wisconsin/71865224",
+        "title": "Flash flood warning issued for Ozaukee and Washington counties",
+        "source": "WISN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-09T03:30:00Z",
+        "url": "https://www.wisn.com/article/heat-humidity-and-evening-storms-threat-southeast-wisconsin/71865224",
+        "mention_text": "Ozaukee",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ozaukee County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 1799452,
+        "run_at": "2026-07-09T09:42:25.220644+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0363849,
+          38.8950982
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wisn.com/article/heat-humidity-and-evening-storms-threat-southeast-wisconsin/71865224",
+        "title": "Flash flood warning issued for Ozaukee and Washington counties",
+        "source": "WISN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-09T03:30:00Z",
+        "url": "https://www.wisn.com/article/heat-humidity-and-evening-storms-threat-southeast-wisconsin/71865224",
+        "mention_text": "Washington",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Washington, D.C., District of Columbia, United States",
+        "osm_type": "city",
+        "osm_id": 5396194,
+        "run_at": "2026-07-09T09:42:25.220644+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1551411,
+          37.5726028
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whas11.com/article/weather/weather-impact/flash-flood-warning-issues-for-these-kentucky-counties-louisville/417-743eecf9-4122-4d86-842c-f3a7c7c65156",
+        "title": "Flash Flood Warning issued for these Kentucky counties",
+        "source": "whas11.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-08T17:58:00Z",
+        "url": "https://www.whas11.com/article/weather/weather-impact/flash-flood-warning-issues-for-these-kentucky-counties-louisville/417-743eecf9-4122-4d86-842c-f3a7c7c65156",
+        "mention_text": "Kentucky",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 161655,
+        "run_at": "2026-07-09T09:42:25.220644+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2803933,
+          40.1541581
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wbko.com/2026/07/09/phase-2-cleanup-begins-cumberland-county-after-flash-flood/",
+        "title": "Phase 2 of cleanup begins in Cumberland County after flash flood",
+        "source": "WBKO",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-09T01:59:00Z",
+        "url": "https://www.wbko.com/2026/07/09/phase-2-cleanup-begins-cumberland-county-after-flash-flood/",
+        "mention_text": "Cumberland County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Cumberland County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417440,
+        "run_at": "2026-07-09T09:42:25.220644+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1551411,
+          37.5726028
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/weather-forecasts/downpours-may-rapidly-elevate-flash-flood-risk-centered-on-kentucky/1909418",
+        "title": "Downpours may rapidly elevate flash flood risk centered on Kentucky",
+        "source": "AccuWeather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-08T19:51:01Z",
+        "url": "https://www.accuweather.com/en/weather-forecasts/downpours-may-rapidly-elevate-flash-flood-risk-centered-on-kentucky/1909418",
+        "mention_text": "Kentucky",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 161655,
+        "run_at": "2026-07-09T09:42:25.220644+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3501681,
+          43.6763617
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.albertleatribune.com/news/flash-flood-warning-issued-for-northern-freeborn-county-16d69de5",
+        "title": "Flash flood watch still in effect for Freeborn County",
+        "source": "Albert Lea Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-09T03:30:15Z",
+        "url": "https://www.albertleatribune.com/news/flash-flood-warning-issued-for-northern-freeborn-county-16d69de5",
+        "mention_text": "Freeborn County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Freeborn County, Minnesota, United States",
+        "osm_type": "administrative",
+        "osm_id": 1792985,
+        "run_at": "2026-07-09T09:42:25.220644+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.759407,
+          38.2542376
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.courier-journal.com/story/weather/local/severe/2026/07/08/flood-advisory-issued-for-louisville-southern-indiana/90849327007/",
+        "title": "Flash flood warning in effect for Louisville metro",
+        "source": "The Courier-Journal",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-08T18:08:00Z",
+        "url": "https://www.courier-journal.com/story/weather/local/severe/2026/07/08/flood-advisory-issued-for-louisville-southern-indiana/90849327007/",
+        "mention_text": "Louisville",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Louisville, Jefferson County, Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 1804307,
+        "run_at": "2026-07-09T09:42:25.220644+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.759407,
+          38.2542376
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.courier-journal.com/videos/weather/local/2026/07/08/heavy-rain-louisville-flash-flood-risk/90850137007/",
+        "title": "Heavy rain hits Louisville area ahead of flash flood risk",
+        "source": "The Courier-Journal",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-08T18:32:12Z",
+        "url": "https://www.courier-journal.com/videos/weather/local/2026/07/08/heavy-rain-louisville-flash-flood-risk/90850137007/",
+        "mention_text": "Louisville",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Louisville, Jefferson County, Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 1804307,
+        "run_at": "2026-07-09T09:42:25.220644+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6884637,
+          44.4308975
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox6now.com/weather/wisconsin-weather-strong-storms-heat-back",
+        "title": "Wisconsin weather: Flash flood warning until 2 a.m. Thursday",
+        "source": "FOX6 News Milwaukee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-08T12:49:37Z",
+        "url": "https://www.fox6now.com/weather/wisconsin-weather-strong-storms-heat-back",
+        "mention_text": "Wisconsin",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 165466,
+        "run_at": "2026-07-09T09:42:25.220644+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6881395,
+          40.2253569
+        ]
+      },
+      "properties": {
+        "article_id": "https://fox8.com/news/5-year-old-boy-found-dead-after-reported-missing-during-flash-flood-in-ohio/",
+        "title": "5-year-old boy found dead after reported missing during flash flood in Ohio",
+        "source": "FOX 8 News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-08T14:55:27Z",
+        "url": "https://fox8.com/news/5-year-old-boy-found-dead-after-reported-missing-during-flash-flood-in-ohio/",
+        "mention_text": "Ohio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 162061,
+        "run_at": "2026-07-09T09:42:25.220644+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5970308,
+          35.4804633
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316423377.html",
+        "title": "Flash flood warning affecting Eastern North Carolina until 2 a.m. Wednesday",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-08T03:31:04Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316423377.html",
+        "mention_text": "Eastern North Carolina",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Eastern Correctional Institution, 2821, NC 903, Maury, Greene County, North Carolina, 28554, United States",
+        "osm_type": "prison",
+        "osm_id": 1353026405,
+        "run_at": "2026-07-09T09:42:25.220644+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6118311,
+          35.7979355
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316407589.html",
+        "title": "UPDATE: The flash flood warning for Wake County is predicted to expire at 11 p.m.",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-07T02:08:00Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316407589.html",
+        "mention_text": "Wake County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Wake County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528697,
+        "run_at": "2026-07-09T09:42:25.220644+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5781416,
+          39.100105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kansascity.com/news/weather-news/article316439630.html",
+        "title": "Flood advisory in place for the Kansas City area Thursday morning due to excessive rain",
+        "source": "Kansas City Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-09T09:14:03Z",
+        "url": "https://www.kansascity.com/news/weather-news/article316439630.html",
+        "mention_text": "Kansas City",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kansas City, Jackson County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 141008,
+        "run_at": "2026-07-09T09:42:25.220644+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6118311,
+          35.7979355
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316436314.html",
+        "title": "UPDATE: Flood advisory for Wake County Wednesday night due to substantial rain",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-09T00:29:05Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316436314.html",
+        "mention_text": "Wake County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Wake County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528697,
+        "run_at": "2026-07-09T09:42:25.220644+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4181487,
+          37.747992
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/07/07/coastal-flood-advisory-in-place-for-northern-california-from-saturday-to-wednesday/",
+        "title": "Coastal flood advisory in place for Northern California from Saturday to Wednesday",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-08T04:04:50Z",
+        "url": "https://www.eastbaytimes.com/2026/07/07/coastal-flood-advisory-in-place-for-northern-california-from-saturday-to-wednesday/",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Central American Resource Center of Northern California - CARECEN SF, 3101, Mission Street, Bernal Heights, Mission, San Francisco, California, 94110, United States",
+        "osm_type": "ngo",
+        "osm_id": 12922396896,
+        "run_at": "2026-07-09T09:42:25.220644+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.564371,
+          35.4045503
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316406818.html",
+        "title": "UPDATE: The flood advisory for Cabarrus County is expected to expire at 4:15 a.m.",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-07T08:19:04Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316406818.html",
+        "mention_text": "Cabarrus County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cabarrus County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528680,
+        "run_at": "2026-07-09T09:42:25.220644+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.159631,
+          34.0005083
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bellinghamherald.com/news/weather-news/article315931945.html",
+        "title": "Flood advisory issued for Eastern Washington Thursday night caused by prolonged rainfall",
+        "source": "Bellingham Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-05-28T07:00:00Z",
+        "url": "https://www.bellinghamherald.com/news/weather-news/article315931945.html",
+        "mention_text": "Eastern Washington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Eastern / Washington, South Eastern Avenue, Commerce, Los Angeles County, California, 90040, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 8285354334,
+        "run_at": "2026-07-09T09:42:25.220644+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6199638,
+          38.0409144
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/01/05/flood-advisory-in-place-for-marin-and-sonoma-counties-until-monday-evening-due-to-excessive-rain/",
+        "title": "Flood advisory in place for Marin and Sonoma counties until Monday evening due to excessive rain",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-01-05T08:00:00Z",
+        "url": "https://www.eastbaytimes.com/2026/01/05/flood-advisory-in-place-for-marin-and-sonoma-counties-until-monday-evening-due-to-excessive-rain/",
+        "mention_text": "Marin",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Marin County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396461,
+        "run_at": "2026-07-09T09:42:25.220644+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8473388,
+          38.5110803
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/01/05/flood-advisory-in-place-for-marin-and-sonoma-counties-until-monday-evening-due-to-excessive-rain/",
+        "title": "Flood advisory in place for Marin and Sonoma counties until Monday evening due to excessive rain",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-01-05T08:00:00Z",
+        "url": "https://www.eastbaytimes.com/2026/01/05/flood-advisory-in-place-for-marin-and-sonoma-counties-until-monday-evening-due-to-excessive-rain/",
+        "mention_text": "Sonoma",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Sonoma County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396468,
+        "run_at": "2026-07-09T09:42:25.220644+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-07-08T08:31:18.176835+00:00",
-    "total_features": 2141
+    "last_updated": "2026-07-09T09:42:25.231222+00:00",
+    "total_features": 2161
   }
 }
