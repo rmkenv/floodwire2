@@ -56186,11 +56186,843 @@
         "osm_id": 396468,
         "run_at": "2026-07-09T09:42:25.220644+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcnewyork.com/weather/weather-stories/how-much-rain-today-thunderstorm-watch-nyc-weather-forecast/6523811/",
+        "title": "Flash flood warnings issued for parts of NYC, rain-battered NJ as storms fire up",
+        "source": "NBC New York",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-09T15:28:47Z",
+        "url": "https://www.nbcnewyork.com/weather/weather-stories/how-much-rain-today-thunderstorm-watch-nyc-weather-forecast/6523811/",
+        "mention_text": "NYC",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-07-10T09:38:42.119118+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.576902,
+          37.8652866
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wkyt.com/2026/07/10/jessamine-county-business-edge-ahead-additional-flash-flood-threats/",
+        "title": "Jessamine County business on edge ahead of additional flash flood threats",
+        "source": "WKYT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T02:15:00Z",
+        "url": "https://www.wkyt.com/2026/07/10/jessamine-county-business-edge-ahead-additional-flash-flood-threats/",
+        "mention_text": "Jessamine County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Jessamine County, Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 1846537,
+        "run_at": "2026-07-10T09:38:42.119118+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8115168,
+          40.398036
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wgal.com/article/flash-flood-warning-parts-of-adams-cumberland-dauphin-york-counties/71887690",
+        "title": "PA flash flood warning for parts of Adams, Cumberland, Dauphin and York counties",
+        "source": "WGAL",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-09T19:42:00Z",
+        "url": "https://www.wgal.com/article/flash-flood-warning-parts-of-adams-cumberland-dauphin-york-counties/71887690",
+        "mention_text": "Dauphin",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dauphin County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417730,
+        "run_at": "2026-07-10T09:38:42.119118+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7519263,
+          46.7216047
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wgal.com/article/flash-flood-warning-parts-of-adams-cumberland-dauphin-york-counties/71887690",
+        "title": "PA flash flood warning for parts of Adams, Cumberland, Dauphin and York counties",
+        "source": "WGAL",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-09T19:42:00Z",
+        "url": "https://www.wgal.com/article/flash-flood-warning-parts-of-adams-cumberland-dauphin-york-counties/71887690",
+        "mention_text": "and York",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "York, Lewis and Clark County, Montana, United States",
+        "osm_type": "hamlet",
+        "osm_id": 150956988,
+        "run_at": "2026-07-10T09:38:42.119118+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2411283,
+          40.08067
+        ]
+      },
+      "properties": {
+        "article_id": "https://lancasteronline.com/news/local/flash-flood-warning-issued-for-parts-of-lancaster-county/article_08c7096e-bfd4-480f-adda-42aced99a5e4.html",
+        "title": "Flash flood warning issued for parts of Lancaster County",
+        "source": "LancasterOnline",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-09T18:24:00Z",
+        "url": "https://lancasteronline.com/news/local/flash-flood-warning-issued-for-parts-of-lancaster-county/article_08c7096e-bfd4-480f-adda-42aced99a5e4.html",
+        "mention_text": "Lancaster County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lancaster County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417768,
+        "run_at": "2026-07-10T09:38:42.119118+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2411283,
+          40.08067
+        ]
+      },
+      "properties": {
+        "article_id": "https://lancasteronline.com/news/local/flash-flood-warning-issued-for-northern-lancaster-county/article_08c7096e-bfd4-480f-adda-42aced99a5e4.html",
+        "title": "Flash flood warning issued for northern Lancaster County",
+        "source": "LancasterOnline",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-09T18:24:00Z",
+        "url": "https://lancasteronline.com/news/local/flash-flood-warning-issued-for-northern-lancaster-county/article_08c7096e-bfd4-480f-adda-42aced99a5e4.html",
+        "mention_text": "Lancaster County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lancaster County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417768,
+        "run_at": "2026-07-10T09:38:42.119118+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3056707,
+          40.0379958
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wgal.com/article/flash-flood-warning-issued-portions-york-lancaster-counties/71889669",
+        "title": "A flash flood warning has been issued for southeastern Lancaster and York counties",
+        "source": "WGAL",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-09T22:22:00Z",
+        "url": "https://www.wgal.com/article/flash-flood-warning-issued-portions-york-lancaster-counties/71889669",
+        "mention_text": "Lancaster",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lancaster, Lancaster County, Pennsylvania, 17575, United States",
+        "osm_type": "administrative",
+        "osm_id": 3997756,
+        "run_at": "2026-07-10T09:38:42.119118+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7276989,
+          39.962493
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wgal.com/article/flash-flood-warning-issued-portions-york-lancaster-counties/71889669",
+        "title": "A flash flood warning has been issued for southeastern Lancaster and York counties",
+        "source": "WGAL",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-09T22:22:00Z",
+        "url": "https://www.wgal.com/article/flash-flood-warning-issued-portions-york-lancaster-counties/71889669",
+        "mention_text": "York",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "York, York County, Pennsylvania, 17401, United States",
+        "osm_type": "administrative",
+        "osm_id": 187708,
+        "run_at": "2026-07-10T09:38:42.119118+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.576902,
+          37.8652866
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wkyt.com/video/2026/07/10/jessamine-county-business-edge-ahead-additional-flash-flood-threats/",
+        "title": "Jessamine County business on edge ahead of additional flash flood threats",
+        "source": "WKYT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T00:16:22Z",
+        "url": "https://www.wkyt.com/video/2026/07/10/jessamine-county-business-edge-ahead-additional-flash-flood-threats/",
+        "mention_text": "Jessamine County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Jessamine County, Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 1846537,
+        "run_at": "2026-07-10T09:38:42.119118+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5594479,
+          37.4452288
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.courierpostonline.com/story/weather/2026/07/09/flash-flood-warning-issued-gloucester-county-salem-county-july-9/90864208007/",
+        "title": "Flash flood warning issued for Gloucester County, Salem County",
+        "source": "Courier-Post",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-09T17:58:00Z",
+        "url": "https://www.courierpostonline.com/story/weather/2026/07/09/flash-flood-warning-issued-gloucester-county-salem-county-july-9/90864208007/",
+        "mention_text": "Gloucester County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Gloucester County, Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 2534178,
+        "run_at": "2026-07-10T09:38:42.119118+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3488201,
+          39.5980987
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.courierpostonline.com/story/weather/2026/07/09/flash-flood-warning-issued-gloucester-county-salem-county-july-9/90864208007/",
+        "title": "Flash flood warning issued for Gloucester County, Salem County",
+        "source": "Courier-Post",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-09T17:58:00Z",
+        "url": "https://www.courierpostonline.com/story/weather/2026/07/09/flash-flood-warning-issued-gloucester-county-salem-county-july-9/90864208007/",
+        "mention_text": "Salem County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Salem County, New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 1863173,
+        "run_at": "2026-07-10T09:38:42.119118+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7278831,
+          40.9699889
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pennlive.com/weather/2026/07/dangerous-flash-flood-warning-issued-for-central-pa-thursday-afternoon.html",
+        "title": "Dangerous flash flood warning issued for central Pa. Thursday afternoon",
+        "source": "PennLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-09T19:49:00Z",
+        "url": "https://www.pennlive.com/weather/2026/07/dangerous-flash-flood-warning-issued-for-central-pa-thursday-afternoon.html",
+        "mention_text": "Pa.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 162109,
+        "run_at": "2026-07-10T09:38:42.119118+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9922951,
+          39.9184524
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cnn.com/2026/07/09/weather/video/flash-flood-ohio-valley-and-mid-south-wxapp",
+        "title": "Flash flood risk grows across the Ohio Valley and Mid-South",
+        "source": "CNN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-09T18:09:00Z",
+        "url": "https://www.cnn.com/2026/07/09/weather/video/flash-flood-ohio-valley-and-mid-south-wxapp",
+        "mention_text": "the Ohio Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Nacco Slurry Refuse Disposal Dam, Belmont County, Ohio, 43902, United States",
+        "osm_type": "dam",
+        "osm_id": 357493548,
+        "run_at": "2026-07-10T09:38:42.119118+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8796413,
+          39.1066148
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cnn.com/2026/07/09/weather/video/flash-flood-ohio-valley-and-mid-south-wxapp",
+        "title": "Flash flood risk grows across the Ohio Valley and Mid-South",
+        "source": "CNN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-09T18:09:00Z",
+        "url": "https://www.cnn.com/2026/07/09/weather/video/flash-flood-ohio-valley-and-mid-south-wxapp",
+        "mention_text": "Mid-South",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South, Kimbles Beach, Middle Township, Cape May County, New Jersey, 08210, United States",
+        "osm_type": "residential",
+        "osm_id": 11603350,
+        "run_at": "2026-07-10T09:38:42.119118+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5781416,
+          39.100105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kansascity.com/news/weather-news/article316441141.html",
+        "title": "Update: The current flash flood warning for the Kansas City area will expire at 9:45 a.m.",
+        "source": "Kansas City Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-09T14:52:07Z",
+        "url": "https://www.kansascity.com/news/weather-news/article316441141.html",
+        "mention_text": "Kansas City",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kansas City, Jackson County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 141008,
+        "run_at": "2026-07-10T09:38:42.119118+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1635262,
+          39.9527237
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox29.com/video/fmc-5737ve7xpyuwgqwh",
+        "title": "Philadelphia weather: Flash Flood Warning in effect until 6pm",
+        "source": "FOX 29 Philadelphia",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-09T19:52:36Z",
+        "url": "https://www.fox29.com/video/fmc-5737ve7xpyuwgqwh",
+        "mention_text": "Philadelphia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Philadelphia, Philadelphia County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 188022,
+        "run_at": "2026-07-10T09:38:42.119118+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5781416,
+          39.100105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kmbc.com/article/kansas-city-flash-flood-warning-overnight-rainfall/71882175",
+        "title": "Kansas City metro under flash flood warning as flooding closes trouble spots and traps drivers",
+        "source": "KMBC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-09T12:54:00Z",
+        "url": "https://www.kmbc.com/article/kansas-city-flash-flood-warning-overnight-rainfall/71882175",
+        "mention_text": "Kansas City",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kansas City, Jackson County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 141008,
+        "run_at": "2026-07-10T09:38:42.119118+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://pix11.com/news/local-news/flash-flood-warning-issued-for-parts-of-new-york-and-new-jersey/",
+        "title": "Flash flood warning issued for parts of New York and New Jersey",
+        "source": "PIX11",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-09T17:52:50Z",
+        "url": "https://pix11.com/news/local-news/flash-flood-warning-issued-for-parts-of-new-york-and-new-jersey/",
+        "mention_text": "New York",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-07-10T09:38:42.119118+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4041622,
+          40.0757384
+        ]
+      },
+      "properties": {
+        "article_id": "https://pix11.com/news/local-news/flash-flood-warning-issued-for-parts-of-new-york-and-new-jersey/",
+        "title": "Flash flood warning issued for parts of New York and New Jersey",
+        "source": "PIX11",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-09T17:52:50Z",
+        "url": "https://pix11.com/news/local-news/flash-flood-warning-issued-for-parts-of-new-york-and-new-jersey/",
+        "mention_text": "New Jersey",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 224951,
+        "run_at": "2026-07-10T09:38:42.119118+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1671114,
+          40.2932319
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.app.com/story/weather/2026/07/09/flash-flood-warning-issued-for-parts-of-monmouth-county/90866029007/",
+        "title": "Flash flood warning issued for parts of Monmouth County",
+        "source": "Asbury Park Press",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-09T19:46:00Z",
+        "url": "https://www.app.com/story/weather/2026/07/09/flash-flood-warning-issued-for-parts-of-monmouth-county/90866029007/",
+        "mention_text": "Monmouth County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Monmouth County, New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 961390,
+        "run_at": "2026-07-10T09:38:42.119118+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2803933,
+          40.1541581
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wbko.com/video/2026/07/09/phase-2-cleanup-begins-cumberland-county-after-flash-flood/",
+        "title": "Phase 2 of cleanup begins in Cumberland County after flash flood",
+        "source": "WBKO",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-09T10:56:09Z",
+        "url": "https://www.wbko.com/video/2026/07/09/phase-2-cleanup-begins-cumberland-county-after-flash-flood/",
+        "mention_text": "Cumberland County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Cumberland County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417440,
+        "run_at": "2026-07-10T09:38:42.119118+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4041622,
+          40.0757384
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nj.com/weather/2026/07/nj-weather-flash-flood-warnings-issued-as-heavy-rain-strong-thunderstorms-soak-region.html",
+        "title": "N.J. weather: Flash flood warnings issued as heavy rain, strong thunderstorms soak region",
+        "source": "NJ.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-09T17:33:00Z",
+        "url": "https://www.nj.com/weather/2026/07/nj-weather-flash-flood-warnings-issued-as-heavy-rain-strong-thunderstorms-soak-region.html",
+        "mention_text": "N.J.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 224951,
+        "run_at": "2026-07-10T09:38:42.119118+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1635262,
+          39.9527237
+        ]
+      },
+      "properties": {
+        "article_id": "https://patch.com/pennsylvania/philadelphia/life-threatening-flash-flood-warning-philly-delco",
+        "title": "Life-Threatening Flash Flood Warning In Philly, Delco",
+        "source": "Patch",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-09T18:22:07Z",
+        "url": "https://patch.com/pennsylvania/philadelphia/life-threatening-flash-flood-warning-philly-delco",
+        "mention_text": "Philly",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Philadelphia, Philadelphia County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 188022,
+        "run_at": "2026-07-10T09:38:42.119118+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7013751,
+          36.4135582
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316434182.html",
+        "title": "UPDATE: Flash flood warning in place for Surry County until early Thursday",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-09T02:10:05Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316434182.html",
+        "mention_text": "Surry County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Surry County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528746,
+        "run_at": "2026-07-10T09:38:42.119118+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.08565,
+          33.85856
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/philadelphia/news/philadelphia-weather-storms-rain-heavy-wind/",
+        "title": "Flood watch in effect for parts South Jersey as storms move through Philadelphia region Thursday night",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T01:14:05Z",
+        "url": "https://www.cbsnews.com/philadelphia/news/philadelphia-weather-storms-rain-heavy-wind/",
+        "mention_text": "South Jersey",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "South-Jersey, South Street, Artesia, Los Angeles County, California, 90703, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 6356006215,
+        "run_at": "2026-07-10T09:38:42.119118+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1635262,
+          39.9527237
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/philadelphia/news/philadelphia-weather-storms-rain-heavy-wind/",
+        "title": "Flood watch in effect for parts South Jersey as storms move through Philadelphia region Thursday night",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T01:14:05Z",
+        "url": "https://www.cbsnews.com/philadelphia/news/philadelphia-weather-storms-rain-heavy-wind/",
+        "mention_text": "Philadelphia",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Philadelphia, Philadelphia County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 188022,
+        "run_at": "2026-07-10T09:38:42.119118+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3558473,
+          37.7884969
+        ]
+      },
+      "properties": {
+        "article_id": "https://localnewsmatters.org/2026/07/09/bay-area-coastal-flood-advisory-king-tides-wildfire-risk/",
+        "title": "Flood advisory issued for Bay Area shorelines, coast through next week",
+        "source": "Local News Matters",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T06:00:00Z",
+        "url": "https://localnewsmatters.org/2026/07/09/bay-area-coastal-flood-advisory-king-tides-wildfire-risk/",
+        "mention_text": "Bay Area",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco Bay Area, San Francisco, California, 94130, United States",
+        "osm_type": "region",
+        "osm_id": 2157162589,
+        "run_at": "2026-07-10T09:38:42.119118+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/07/07/coastal-flood-advisory-issued-for-north-bay-interior-valleys-and-san-francisco-bay-shoreline-from-thursday-to-thursday/amp/",
+        "title": "Coastal flood advisory issued for North Bay Interior Valleys and San Francisco Bay Shoreline from Thursday to Thursday",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-08T04:04:39Z",
+        "url": "https://www.eastbaytimes.com/2026/07/07/coastal-flood-advisory-issued-for-north-bay-interior-valleys-and-san-francisco-bay-shoreline-from-thursday-to-thursday/amp/",
+        "mention_text": "North Bay",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-07-10T09:38:42.119118+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.137227,
+          37.6233187
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/07/07/coastal-flood-advisory-issued-for-north-bay-interior-valleys-and-san-francisco-bay-shoreline-from-thursday-to-thursday/amp/",
+        "title": "Coastal flood advisory issued for North Bay Interior Valleys and San Francisco Bay Shoreline from Thursday to Thursday",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-08T04:04:39Z",
+        "url": "https://www.eastbaytimes.com/2026/07/07/coastal-flood-advisory-issued-for-north-bay-interior-valleys-and-san-francisco-bay-shoreline-from-thursday-to-thursday/amp/",
+        "mention_text": "San Francisco Bay Shoreline",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hayward Shoreline Interpretive Center, San Francisco Bay Trail, Hayward, Alameda County, California, 94545, United States",
+        "osm_type": "museum",
+        "osm_id": 104588017,
+        "run_at": "2026-07-10T09:38:42.119118+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7893178,
+          32.182598
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316319196.html",
+        "title": "UPDATE: Flood advisory for Henderson County likely to expire at 10:15 p.m.",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-29T07:00:00Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316319196.html",
+        "mention_text": "Henderson County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Henderson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839045,
+        "run_at": "2026-07-10T09:38:42.119118+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6869011,
+          35.6333866
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316294307.html",
+        "title": "UPDATE: Flood advisory for Dare County Saturday afternoon due to substantial downpours",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-27T15:12:04Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316294307.html",
+        "mention_text": "Dare County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Dare County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1232267,
+        "run_at": "2026-07-10T09:38:42.119118+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3992505,
+          36.0702678
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316306643.html",
+        "title": "Alamance County under a flood advisory Sunday evening due to heavy rain",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-06-28T23:40:02Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316306643.html",
+        "mention_text": "Alamance County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Alamance County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528669,
+        "run_at": "2026-07-10T09:38:42.119118+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-07-09T09:42:25.231222+00:00",
-    "total_features": 2161
+    "last_updated": "2026-07-10T09:38:42.130144+00:00",
+    "total_features": 2193
   }
 }
