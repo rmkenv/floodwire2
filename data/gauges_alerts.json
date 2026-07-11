@@ -1,3 +1,38 @@
 {
-  "alerts": []
+  "alerts": [
+    {
+      "source": "NOAA",
+      "site_id": "8726384",
+      "site_name": "Port Manatee",
+      "lat": "27.6387",
+      "lon": "-82.5621",
+      "stage_ft": 3.566,
+      "stage_datetime": "2026-07-11 14:06",
+      "tier": "action",
+      "action_stage": 3.38,
+      "flood_stage": 4.38,
+      "major_stage": 6.38,
+      "url": "https://tidesandcurrents.noaa.gov/stationhome.html?id=8726384",
+      "city_lat": 27.5213933,
+      "city_lon": -82.3801566,
+      "fetched_at": "2026-07-11T14:15:35.071918+00:00"
+    },
+    {
+      "source": "NOAA",
+      "site_id": "8726384",
+      "site_name": "Port Manatee",
+      "lat": "27.6387",
+      "lon": "-82.5621",
+      "stage_ft": 3.566,
+      "stage_datetime": "2026-07-11 14:06",
+      "tier": "action",
+      "action_stage": 3.38,
+      "flood_stage": 4.38,
+      "major_stage": 6.38,
+      "url": "https://tidesandcurrents.noaa.gov/stationhome.html?id=8726384",
+      "city_lat": 27.5213933,
+      "city_lon": -82.3801566,
+      "fetched_at": "2026-07-11T14:15:35.071918+00:00"
+    }
+  ]
 }
