@@ -57018,11 +57018,1649 @@
         "osm_id": 2528669,
         "run_at": "2026-07-10T09:38:42.119118+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9659462,
+          37.3762658
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kfvs12.com/2026/07/11/reynolds-county-rescue-efforts-following-flash-flood/",
+        "title": "Reynolds County rescue efforts following flash flood",
+        "source": "KFVS12",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-11T03:32:00Z",
+        "url": "https://www.kfvs12.com/2026/07/11/reynolds-county-rescue-efforts-following-flash-flood/",
+        "mention_text": "Reynolds County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Reynolds County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180542,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0025666,
+          40.4406968
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.post-gazette.com/news/weather-news/2026/07/10/pittsburgh-weather-flood-watch-rain/stories/202607100041",
+        "title": "Parts of Pittsburgh region under flash flood warning, with rainfall rates up to 3 inches per hour possible",
+        "source": "Pittsburgh Post-Gazette",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-11T04:18:25Z",
+        "url": "https://www.post-gazette.com/news/weather-news/2026/07/10/pittsburgh-weather-flood-watch-rain/stories/202607100041",
+        "mention_text": "Pittsburgh",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pittsburgh, Allegheny County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 188553,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article316464775.html",
+        "title": "UPDATE: Charleston County under a flash flood warning until Friday night",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T23:02:06Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article316464775.html",
+        "mention_text": "Charleston County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7278831,
+          40.9699889
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wgal.com/article/flash-flood-warning-issued-several-susquehanna-valley-counties/71900796",
+        "title": "Flash flood warning issued for south-central Pennsylvania counties",
+        "source": "WGAL",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T21:30:00Z",
+        "url": "https://www.wgal.com/article/flash-flood-warning-issued-several-susquehanna-valley-counties/71900796",
+        "mention_text": "Pennsylvania",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 162109,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2803933,
+          40.1541581
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wgal.com/article/flash-flood-warning-issued-cumberland-york-counties/71900397",
+        "title": "National Weather Service | Flash flood warning issued for Cumberland and York counties",
+        "source": "WGAL",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T20:47:00Z",
+        "url": "https://www.wgal.com/article/flash-flood-warning-issued-cumberland-york-counties/71900397",
+        "mention_text": "Cumberland",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Cumberland County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417440,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7276989,
+          39.962493
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wgal.com/article/flash-flood-warning-issued-cumberland-york-counties/71900397",
+        "title": "National Weather Service | Flash flood warning issued for Cumberland and York counties",
+        "source": "WGAL",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T20:47:00Z",
+        "url": "https://www.wgal.com/article/flash-flood-warning-issued-cumberland-york-counties/71900397",
+        "mention_text": "York",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "York, York County, Pennsylvania, 17401, United States",
+        "osm_type": "administrative",
+        "osm_id": 187708,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9659462,
+          37.3762658
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kfvs12.com/video/2026/07/11/reynolds-county-rescue-efforts-following-flash-flood/",
+        "title": "Reynolds County rescue efforts following flash flood",
+        "source": "KFVS12",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-11T00:47:20Z",
+        "url": "https://www.kfvs12.com/video/2026/07/11/reynolds-county-rescue-efforts-following-flash-flood/",
+        "mention_text": "Reynolds County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Reynolds County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180542,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1746933,
+          40.3270127
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.indianagazette.com/news/local/flash-flood-warning-issued-for-armstrong-and-indiana-counties/article_535b02a1-283c-4b03-9c52-a7005b793f2b.html",
+        "title": "Flash flood warning issued for Armstrong and Indiana counties",
+        "source": "Indiana Gazette Online",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T20:46:00Z",
+        "url": "https://www.indianagazette.com/news/local/flash-flood-warning-issued-for-armstrong-and-indiana-counties/article_535b02a1-283c-4b03-9c52-a7005b793f2b.html",
+        "mention_text": "Indiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Indiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 161816,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.190009,
+          38.6254063
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kctv5.com/2026/07/10/st-louis-area-swift-water-rescue-teams-head-southern-mo-assist-flash-flooding-rescues/",
+        "title": "St. Louis area swift water rescue teams head to Southern Mo. to assist in flash flooding rescues",
+        "source": "KCTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T15:41:00Z",
+        "url": "https://www.kctv5.com/2026/07/10/st-louis-area-swift-water-rescue-teams-head-southern-mo-assist-flash-flooding-rescues/",
+        "mention_text": "St. Louis",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Saint Louis, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180533,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7918418,
+          41.1772449
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kctv5.com/2026/07/10/st-louis-area-swift-water-rescue-teams-head-southern-mo-assist-flash-flooding-rescues/",
+        "title": "St. Louis area swift water rescue teams head to Southern Mo. to assist in flash flooding rescues",
+        "source": "KCTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T15:41:00Z",
+        "url": "https://www.kctv5.com/2026/07/10/st-louis-area-swift-water-rescue-teams-head-southern-mo-assist-flash-flooding-rescues/",
+        "mention_text": "Southern Mo.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Smokin' Mo's Southern BBQ, 15, US 206;CR 521, Normanook, Sandyston Township, Sussex County, New Jersey, 07826, United States",
+        "osm_type": "fast_food",
+        "osm_id": 13785468720,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6881395,
+          40.2253569
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtrf.com/top-stories/flash-flood-warning-issued-for-ohio-and-west-virginia/",
+        "title": "Flash Flood Warning expired for Ohio and West Virginia",
+        "source": "WTRF",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T20:39:32Z",
+        "url": "https://www.wtrf.com/top-stories/flash-flood-warning-issued-for-ohio-and-west-virginia/",
+        "mention_text": "Ohio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 162061,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8408415,
+          38.4758406
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtrf.com/top-stories/flash-flood-warning-issued-for-ohio-and-west-virginia/",
+        "title": "Flash Flood Warning expired for Ohio and West Virginia",
+        "source": "WTRF",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T20:39:32Z",
+        "url": "https://www.wtrf.com/top-stories/flash-flood-warning-issued-for-ohio-and-west-virginia/",
+        "mention_text": "West Virginia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "West Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 162068,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0025666,
+          40.4406968
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.audacy.com/kdkaradio/news/local/flash-flood-warning",
+        "title": "Flash Flood Warning in effect in and around Pittsburgh",
+        "source": "Audacy",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T22:52:02Z",
+        "url": "https://www.audacy.com/kdkaradio/news/local/flash-flood-warning",
+        "mention_text": "Pittsburgh",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pittsburgh, Allegheny County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 188553,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6881395,
+          40.2253569
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtrf.com/top-stories/flash-flood-warning-issued-for-parts-of-ohio-and-west-virginia/",
+        "title": "Flash Flood Warning issued for parts of Ohio and West Virginia",
+        "source": "WTRF",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T20:15:41Z",
+        "url": "https://www.wtrf.com/top-stories/flash-flood-warning-issued-for-parts-of-ohio-and-west-virginia/",
+        "mention_text": "Ohio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 162061,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8408415,
+          38.4758406
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtrf.com/top-stories/flash-flood-warning-issued-for-parts-of-ohio-and-west-virginia/",
+        "title": "Flash Flood Warning issued for parts of Ohio and West Virginia",
+        "source": "WTRF",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T20:15:41Z",
+        "url": "https://www.wtrf.com/top-stories/flash-flood-warning-issued-for-parts-of-ohio-and-west-virginia/",
+        "mention_text": "West Virginia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "West Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 162068,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2803933,
+          40.1541581
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pennlive.com/weather/2026/07/parts-of-cumberland-york-counties-under-flash-flood-warning-forecasters-say.html",
+        "title": "Parts of Cumberland, York counties under flash flood warning, forecasters say",
+        "source": "PennLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T21:09:00Z",
+        "url": "https://www.pennlive.com/weather/2026/07/parts-of-cumberland-york-counties-under-flash-flood-warning-forecasters-say.html",
+        "mention_text": "Cumberland",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Cumberland County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417440,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5617875,
+          38.7604815
+        ]
+      },
+      "properties": {
+        "article_id": "https://krcgtv.com/news/local/national-weather-service-declares-flash-flood-emergency-in-several-parts-of-missouri",
+        "title": "National Weather Service declares Flash Flood Emergency in several parts of Missouri",
+        "source": "KRCG",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T14:53:54Z",
+        "url": "https://krcgtv.com/news/local/national-weather-service-declares-flash-flood-emergency-in-several-parts-of-missouri",
+        "mention_text": "Missouri",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 161638,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7640658,
+          39.0541154
+        ]
+      },
+      "properties": {
+        "article_id": "https://herald-review.com/news/local/weather/article_9a24c646-6068-523f-b457-c1608bcbd730.html",
+        "title": "Flash Flood Warning from FRI 11:34 PM CDT until SAT 2:45 AM CDT",
+        "source": "Herald-Review.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-11T04:34:00Z",
+        "url": "https://herald-review.com/news/local/weather/article_9a24c646-6068-523f-b457-c1608bcbd730.html",
+        "mention_text": "FRI",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Marshall Army Airfield, Ray Road, Geary County, Kansas, 66442, United States",
+        "osm_type": "airfield",
+        "osm_id": 368388786,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5617875,
+          38.7604815
+        ]
+      },
+      "properties": {
+        "article_id": "https://ca.news.yahoo.com/gov-kehoe-declares-state-emergency-194712575.html",
+        "title": "Gov. Kehoe declares state of emergency amid flash flood emergency in SE Missouri",
+        "source": "Yahoo News Canada",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T19:47:12Z",
+        "url": "https://ca.news.yahoo.com/gov-kehoe-declares-state-emergency-194712575.html",
+        "mention_text": "Missouri",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 161638,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1551411,
+          37.5726028
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whas11.com/article/weather/weather-impact/flash-flood-warning-issued-kentucky-indiana-counties-louisville-jefferson/417-d179c515-a21a-4d5f-910f-30e8d3953cd3",
+        "title": "Flash Flood Warning issued for these Kentucky and Indiana counties",
+        "source": "whas11.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T09:40:00Z",
+        "url": "https://www.whas11.com/article/weather/weather-impact/flash-flood-warning-issued-kentucky-indiana-counties-louisville-jefferson/417-d179c515-a21a-4d5f-910f-30e8d3953cd3",
+        "mention_text": "Kentucky",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 161655,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1746933,
+          40.3270127
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whas11.com/article/weather/weather-impact/flash-flood-warning-issued-kentucky-indiana-counties-louisville-jefferson/417-d179c515-a21a-4d5f-910f-30e8d3953cd3",
+        "title": "Flash Flood Warning issued for these Kentucky and Indiana counties",
+        "source": "whas11.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T09:40:00Z",
+        "url": "https://www.whas11.com/article/weather/weather-impact/flash-flood-warning-issued-kentucky-indiana-counties-louisville-jefferson/417-d179c515-a21a-4d5f-910f-30e8d3953cd3",
+        "mention_text": "Indiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Indiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 161816,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0097516,
+          40.0057737
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtrf.com/top-stories/flash-flood-warning-issued-for-belmont-guernsey-counties/",
+        "title": "Flash Flood Warning issued for Belmont, Guernsey counties",
+        "source": "WTRF",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T17:55:09Z",
+        "url": "https://www.wtrf.com/top-stories/flash-flood-warning-issued-for-belmont-guernsey-counties/",
+        "mention_text": "Belmont",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Belmont County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 911264,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4859433,
+          40.0802222
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtrf.com/top-stories/flash-flood-warning-issued-for-belmont-guernsey-counties/",
+        "title": "Flash Flood Warning issued for Belmont, Guernsey counties",
+        "source": "WTRF",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T17:55:09Z",
+        "url": "https://www.wtrf.com/top-stories/flash-flood-warning-issued-for-belmont-guernsey-counties/",
+        "mention_text": "Guernsey",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Guernsey County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 911270,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7561177,
+          30.0203993
+        ]
+      },
+      "properties": {
+        "article_id": "https://fox56.com/news/local/schiels-family-market-to-reopen-hanover-street-store-after-flash-flood-damage",
+        "title": "Schiel's Family Market to reopen Hanover Street store after flash flood damage",
+        "source": "fox56.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T20:25:53Z",
+        "url": "https://fox56.com/news/local/schiels-family-market-to-reopen-hanover-street-store-after-flash-flood-damage",
+        "mention_text": "Schiel",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Schiel Road, Fairfield, Harris County, Texas, 77433, United States",
+        "osm_type": "tertiary",
+        "osm_id": 126389568,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.008964,
+          40.7050855
+        ]
+      },
+      "properties": {
+        "article_id": "https://fox56.com/news/local/schiels-family-market-to-reopen-hanover-street-store-after-flash-flood-damage",
+        "title": "Schiel's Family Market to reopen Hanover Street store after flash flood damage",
+        "source": "fox56.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T20:25:53Z",
+        "url": "https://fox56.com/news/local/schiels-family-market-to-reopen-hanover-street-store-after-flash-flood-damage",
+        "mention_text": "Hanover Street",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hanover Street, Financial District, Lower Manhattan, Manhattan, New York County, New York, 10005, United States",
+        "osm_type": "residential",
+        "osm_id": 388281630,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.464888,
+          40.3759469
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.timesreporter.com/story/weather/2026/07/10/weather-alert/90815213007/",
+        "title": "Flash flood warning issued for Tuscarawas County",
+        "source": "Times Reporter",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T21:19:00Z",
+        "url": "https://www.timesreporter.com/story/weather/2026/07/10/weather-alert/90815213007/",
+        "mention_text": "Tuscarawas County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tuscarawas County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 911305,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7278831,
+          40.9699889
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pennlive.com/weather/2026/07/parts-of-pa-under-a-flash-flood-watch-with-more-storms-in-the-forecast.html",
+        "title": "Parts of Pa. under a flash flood watch with more storms in the forecast",
+        "source": "PennLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T13:44:00Z",
+        "url": "https://www.pennlive.com/weather/2026/07/parts-of-pa-under-a-flash-flood-watch-with-more-storms-in-the-forecast.html",
+        "mention_text": "Pa.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 162109,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5617875,
+          38.7604815
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-xcs8iv6512q84rj1",
+        "title": "Flash Flood Emergency declared in Missouri",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T09:39:42Z",
+        "url": "https://www.foxweather.com/watch/fmc-xcs8iv6512q84rj1",
+        "mention_text": "Missouri",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 161638,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6439575,
+          39.7990175
+        ]
+      },
+      "properties": {
+        "article_id": "https://abc17news.com/alerts/2026/07/10/flood-warning-issued-july-10-at-958am-cdt-until-july-10-at-1000pm-cdt-by-nws-springfield-mo/",
+        "title": "Flood Warning issued July 10 at 9:58AM CDT until July 10 at 10:00PM CDT by NWS Springfield MO",
+        "source": "ABC17NEWS",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T15:22:47Z",
+        "url": "https://abc17news.com/alerts/2026/07/10/flood-warning-issued-july-10-at-958am-cdt-until-july-10-at-1000pm-cdt-by-nws-springfield-mo/",
+        "mention_text": "Springfield",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Springfield, Sangamon County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 126326,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5940123,
+          43.0382381
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-0vdrei39yrv4fw3w",
+        "title": "Watch: Floodwaters inundate Lesterville, Missouri, during Flash Flood Emergency",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T13:12:47Z",
+        "url": "https://www.foxweather.com/watch/fmc-0vdrei39yrv4fw3w",
+        "mention_text": "Lesterville",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lesterville, Lesterville Township, Yankton County, South Dakota, 57040, United States",
+        "osm_type": "administrative",
+        "osm_id": 194878,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5617875,
+          38.7604815
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-0vdrei39yrv4fw3w",
+        "title": "Watch: Floodwaters inundate Lesterville, Missouri, during Flash Flood Emergency",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T13:12:47Z",
+        "url": "https://www.foxweather.com/watch/fmc-0vdrei39yrv4fw3w",
+        "mention_text": "Missouri",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 161638,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1551411,
+          37.5726028
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtvq.com/flash-flood-threat-continues-across-kentucky-as-multiple-rounds-of-rain-move-through/",
+        "title": "Flash flood threat continues across Kentucky as multiple rounds of rain move through",
+        "source": "WTVQ",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T16:57:48Z",
+        "url": "https://www.wtvq.com/flash-flood-threat-continues-across-kentucky-as-multiple-rounds-of-rain-move-through/",
+        "mention_text": "Kentucky",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 161655,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4291882,
+          37.7863765
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article316468999.html",
+        "title": "Coastal flood advisory in place for Northern California until early Thursday morning",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-11T02:49:02Z",
+        "url": "https://www.sacbee.com/news/weather-news/article316468999.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Japanese American Association of Northern California, 1759, Sutter Street, Japantown, Western Addition, San Francisco, California, 95115, United States",
+        "osm_type": "yes",
+        "osm_id": 257960526,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3558473,
+          37.7884969
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcbayarea.com/news/local/flood-advisory-bay-area-shorelines-coast/4111880/",
+        "title": "Flood advisory issued for Bay Area shorelines, coast",
+        "source": "NBC Bay Area",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T16:02:37Z",
+        "url": "https://www.nbcbayarea.com/news/local/flood-advisory-bay-area-shorelines-coast/4111880/",
+        "mention_text": "Bay Area",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco Bay Area, San Francisco, California, 94130, United States",
+        "osm_type": "region",
+        "osm_id": 2157162589,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4291882,
+          37.7863765
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/07/10/coastal-flood-advisory-for-northern-california-until-early-thursday-morning/",
+        "title": "Coastal flood advisory for Northern California until early Thursday morning",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-11T02:28:28Z",
+        "url": "https://www.mercurynews.com/2026/07/10/coastal-flood-advisory-for-northern-california-until-early-thursday-morning/",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Japanese American Association of Northern California, 1759, Sutter Street, Japantown, Western Addition, San Francisco, California, 95115, United States",
+        "osm_type": "yes",
+        "osm_id": 257960526,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4041622,
+          40.0757384
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/newyork/video/dramatic-video-shows-n-j-police-rescue-driver-stuck-on-flooded-road/",
+        "title": "Dramatic video shows N.J. police rescue driver stuck on flooded road",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T21:21:00Z",
+        "url": "https://www.cbsnews.com/newyork/video/dramatic-video-shows-n-j-police-rescue-driver-stuck-on-flooded-road/",
+        "mention_text": "N.J.",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 224951,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5617875,
+          38.7604815
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ksdk.com/video/weather/forecast/flash-flood-emergency-issued-in-parts-of-reynolds-iron-counties-in-missouri/63-7be3a3a2-c00c-46c8-a8c8-59b67320add6",
+        "title": "Flash Flood emergency issued in parts of Reynolds, Iron counties in Missouri",
+        "source": "KSDK",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T11:17:00Z",
+        "url": "https://www.ksdk.com/video/weather/forecast/flash-flood-emergency-issued-in-parts-of-reynolds-iron-counties-in-missouri/63-7be3a3a2-c00c-46c8-a8c8-59b67320add6",
+        "mention_text": "Missouri",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 161638,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6953467,
+          37.575509
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kmov.com/2026/07/10/flash-flood-emergency-declared-parts-iron-county-reynolds-county/",
+        "title": "Flash flood emergency declared in parts of Iron County, Reynolds County",
+        "source": "KMOV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T10:24:00Z",
+        "url": "https://www.kmov.com/2026/07/10/flash-flood-emergency-declared-parts-iron-county-reynolds-county/",
+        "mention_text": "Iron County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Iron County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180466,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9659462,
+          37.3762658
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kmov.com/2026/07/10/flash-flood-emergency-declared-parts-iron-county-reynolds-county/",
+        "title": "Flash flood emergency declared in parts of Iron County, Reynolds County",
+        "source": "KMOV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T10:24:00Z",
+        "url": "https://www.kmov.com/2026/07/10/flash-flood-emergency-declared-parts-iron-county-reynolds-county/",
+        "mention_text": "Reynolds County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Reynolds County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180542,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article316418344.html",
+        "title": "Flood advisory for Myrtle Beach area and Georgetown County Tuesday evening",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-07T20:24:06Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article316418344.html",
+        "mention_text": "Myrtle Beach",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Myrtle Beach, Horry County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193842,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3343041,
+          33.4392245
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article316418344.html",
+        "title": "Flood advisory for Myrtle Beach area and Georgetown County Tuesday evening",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-07T20:24:06Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article316418344.html",
+        "mention_text": "Georgetown County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Georgetown County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532508,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5617875,
+          38.7604815
+        ]
+      },
+      "properties": {
+        "article_id": "https://watchers.news/2026/07/10/flash-flood-emergency-issued-after-heavy-rain-in-southeast-missouri-united-states/",
+        "title": "Flash Flood Emergency issued after heavy rain in southeast Missouri, United States",
+        "source": "The Watchers - Watching the world evolve and transform",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T15:06:14Z",
+        "url": "https://watchers.news/2026/07/10/flash-flood-emergency-issued-after-heavy-rain-in-southeast-missouri-united-states/",
+        "mention_text": "Missouri",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 161638,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.445882,
+          39.7837304
+        ]
+      },
+      "properties": {
+        "article_id": "https://watchers.news/2026/07/10/flash-flood-emergency-issued-after-heavy-rain-in-southeast-missouri-united-states/",
+        "title": "Flash Flood Emergency issued after heavy rain in southeast Missouri, United States",
+        "source": "The Watchers - Watching the world evolve and transform",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T15:06:14Z",
+        "url": "https://watchers.news/2026/07/10/flash-flood-emergency-issued-after-heavy-rain-in-southeast-missouri-united-states/",
+        "mention_text": "United States",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "United States",
+        "osm_type": "administrative",
+        "osm_id": 148838,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2279324,
+          37.180059
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/flash-flood-emergency-issued-southern-155128164.html",
+        "title": "Flash Flood Emergency issued in Southern Missouri",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T15:51:28Z",
+        "url": "https://www.yahoo.com/news/videos/flash-flood-emergency-issued-southern-155128164.html",
+        "mention_text": "Southern Missouri",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "State Bank of Southwest Missouri, South Ingram Mill Road, Southern Hills, Springfield, Greene County, Missouri, 65804, United States",
+        "osm_type": "bank",
+        "osm_id": 510308584,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3588703,
+          36.5277607
+        ]
+      },
+      "properties": {
+        "article_id": "https://clarksvillenow.com/local/weekend-weather-heavy-rain-likely-with-flood-watch-in-effect/",
+        "title": "UPDATE: Flood Advisory issued for roads, rivers, streams in Clarksville",
+        "source": "Clarksville Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-09T15:08:00Z",
+        "url": "https://clarksvillenow.com/local/weekend-weather-heavy-rain-likely-with-flood-watch-in-effect/",
+        "mention_text": "Clarksville",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Clarksville, Montgomery County, Middle Tennessee, Tennessee, United States",
+        "osm_type": "administrative",
+        "osm_id": 196122,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316420074.html",
+        "title": "Flood advisory active for North Carolina until Tuesday evening caused by prolonged rainfall",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-07T21:49:14Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316420074.html",
+        "mention_text": "North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5617875,
+          38.7604815
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/first-responders-race-rescue-stranded-160101364.html",
+        "title": "First responders race to rescue stranded campers amid Missouri Flash Flood Emergency",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T16:01:01Z",
+        "url": "https://www.yahoo.com/news/videos/first-responders-race-rescue-stranded-160101364.html",
+        "mention_text": "Missouri",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 161638,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -169.5107016,
+          16.7524461
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316406106.html",
+        "title": "Johnston and Wake counties placed under a flood advisory Monday night, says the NWS",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-06T23:17:05Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316406106.html",
+        "mention_text": "Johnston",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Johnston Atoll, United States",
+        "osm_type": "region",
+        "osm_id": 7248458,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5617875,
+          38.7604815
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/life-threatening-flash-flood-emergency-124756974.html",
+        "title": "Life-threatening Flash Flood Emergency in southeast Missouri as storms target 40M across Heartland",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T12:47:56Z",
+        "url": "https://www.yahoo.com/news/videos/life-threatening-flash-flood-emergency-124756974.html",
+        "mention_text": "Missouri",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 161638,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4512417,
+          32.6894727
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/life-threatening-flash-flood-emergency-124756974.html",
+        "title": "Life-threatening Flash Flood Emergency in southeast Missouri as storms target 40M across Heartland",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T12:47:56Z",
+        "url": "https://www.yahoo.com/news/videos/life-threatening-flash-flood-emergency-124756974.html",
+        "mention_text": "Heartland",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Heartland, Kaufman County, Texas, United States",
+        "osm_type": "town",
+        "osm_id": 7087487904,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316421479.html",
+        "title": "The Piedmont region under a flood advisory until Tuesday night, says the NWS",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-07T23:30:04Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316421479.html",
+        "mention_text": "Piedmont",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5940123,
+          43.0382381
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/watch-floodwaters-inundate-lesterville-missouri-131247904.html",
+        "title": "Watch: Floodwaters inundate Lesterville, Missouri, during Flash Flood Emergency",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T13:12:47Z",
+        "url": "https://www.yahoo.com/news/videos/watch-floodwaters-inundate-lesterville-missouri-131247904.html",
+        "mention_text": "Lesterville",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lesterville, Lesterville Township, Yankton County, South Dakota, 57040, United States",
+        "osm_type": "administrative",
+        "osm_id": 194878,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5617875,
+          38.7604815
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/watch-floodwaters-inundate-lesterville-missouri-131247904.html",
+        "title": "Watch: Floodwaters inundate Lesterville, Missouri, during Flash Flood Emergency",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T13:12:47Z",
+        "url": "https://www.yahoo.com/news/videos/watch-floodwaters-inundate-lesterville-missouri-131247904.html",
+        "mention_text": "Missouri",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 161638,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.190009,
+          38.6254063
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/nws-st-louis-lead-meteorologist-142344445.html",
+        "title": "NWS St. Louis lead meteorologist joins FOX Weather amid Missouri Flash Flood Emergency",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T14:23:44Z",
+        "url": "https://www.yahoo.com/news/videos/nws-st-louis-lead-meteorologist-142344445.html",
+        "mention_text": "St. Louis",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Saint Louis, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180533,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5617875,
+          38.7604815
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/nws-st-louis-lead-meteorologist-142344445.html",
+        "title": "NWS St. Louis lead meteorologist joins FOX Weather amid Missouri Flash Flood Emergency",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T14:23:44Z",
+        "url": "https://www.yahoo.com/news/videos/nws-st-louis-lead-meteorologist-142344445.html",
+        "mention_text": "Missouri",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 161638,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6863808,
+          36.2228105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316404344.html",
+        "title": "Flood advisory affecting Watauga County Monday evening due to persistent rainfall",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-06T21:10:07Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316404344.html",
+        "mention_text": "Watauga County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Watauga County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528754,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1253302,
+          35.3935017
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316404129.html",
+        "title": "Flood advisory for Dare and Hyde counties Monday evening triggered by heavy downpours",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-06T20:58:06Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316404129.html",
+        "mention_text": "Hyde",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hyde County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1236353,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6953467,
+          37.575509
+        ]
+      },
+      "properties": {
+        "article_id": "https://fox2now.com/news/missouri/flash-flood-emergency-issued-for-iron-reynolds-county/amp/",
+        "title": "Flash flood emergency issued for Iron, Reynolds County",
+        "source": "FOX 2",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T05:59:39Z",
+        "url": "https://fox2now.com/news/missouri/flash-flood-emergency-issued-for-iron-reynolds-county/amp/",
+        "mention_text": "Iron",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Iron County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180466,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9659462,
+          37.3762658
+        ]
+      },
+      "properties": {
+        "article_id": "https://fox2now.com/news/missouri/flash-flood-emergency-issued-for-iron-reynolds-county/amp/",
+        "title": "Flash flood emergency issued for Iron, Reynolds County",
+        "source": "FOX 2",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-10T05:59:39Z",
+        "url": "https://fox2now.com/news/missouri/flash-flood-emergency-issued-for-iron-reynolds-county/amp/",
+        "mention_text": "Reynolds County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Reynolds County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180542,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5617875,
+          38.7604815
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/30-million-brace-renewed-flood-threat-across-heartland-northeast",
+        "title": "90+ people rescued, 10 to 17 still missing after dangerous Flash Flood Emergency unfolds across Missouri",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-09T11:56:00Z",
+        "url": "https://www.foxweather.com/weather-news/30-million-brace-renewed-flood-threat-across-heartland-northeast",
+        "mention_text": "Missouri",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 161638,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.564371,
+          35.4045503
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316391762.html",
+        "title": "UPDATE: Flood advisory affecting Cabarrus County Sunday evening caused by heavy rainfall",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-05T22:18:05Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316391762.html",
+        "mention_text": "Cabarrus County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cabarrus County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528680,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5617875,
+          38.7604815
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/30-million-across-heartland-northeast-115615200.html",
+        "title": "First responders race to reach stranded campers as dangerous Flash Flood Emergency unfolds across Missouri",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-09T11:56:15Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/30-million-across-heartland-northeast-115615200.html",
+        "mention_text": "Missouri",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 161638,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7385978,
+          33.7898432
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316390148.html",
+        "title": "Flood advisory active for Wilkes County until early Sunday evening, says the NWS",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-05T18:02:04Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316390148.html",
+        "mention_text": "Wilkes County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Wilkes County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 1074323,
+        "run_at": "2026-07-11T07:58:08.663935+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-07-10T09:38:42.130144+00:00",
-    "total_features": 2193
+    "last_updated": "2026-07-11T07:58:08.674951+00:00",
+    "total_features": 2256
   }
 }
