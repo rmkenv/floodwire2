@@ -59670,11 +59670,999 @@
         "osm_id": 161838,
         "run_at": "2026-07-12T08:19:24.710528+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.007126,
+          30.8703881
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/louisiana-weather-forecast-severe-storm-flood-new-orleans-rain/71911105",
+        "title": "Flash flood risk in Louisiana's weather forecast to start the week",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-13T03:40:00Z",
+        "url": "https://www.wdsu.com/article/louisiana-weather-forecast-severe-storm-flood-new-orleans-rain/71911105",
+        "mention_text": "Louisiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 224922,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/US/missouri-governor-declares-state-emergency-flooding-rain/story?id=134658727",
+        "title": "Flash flood threats from Tennessee to Florida after devastating Missouri, prompting hundreds of rescues",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-13T08:25:59Z",
+        "url": "https://abcnews.com/US/missouri-governor-declares-state-emergency-flooding-rain/story?id=134658727",
+        "mention_text": "Tennessee",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tennessee, United States",
+        "osm_type": "administrative",
+        "osm_id": 161838,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/US/missouri-governor-declares-state-emergency-flooding-rain/story?id=134658727",
+        "title": "Flash flood threats from Tennessee to Florida after devastating Missouri, prompting hundreds of rescues",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-13T08:25:59Z",
+        "url": "https://abcnews.com/US/missouri-governor-declares-state-emergency-flooding-rain/story?id=134658727",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5617875,
+          38.7604815
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/US/missouri-governor-declares-state-emergency-flooding-rain/story?id=134658727",
+        "title": "Flash flood threats from Tennessee to Florida after devastating Missouri, prompting hundreds of rescues",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-13T08:25:59Z",
+        "url": "https://abcnews.com/US/missouri-governor-declares-state-emergency-flooding-rain/story?id=134658727",
+        "mention_text": "Missouri",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 161638,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2599081,
+          34.2189515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316485077.html",
+        "title": "UPDATE: Flash flood warning affecting Western North Carolina early Monday morning",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-13T08:15:04Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316485077.html",
+        "mention_text": "Western North Carolina",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Western Drive, Bishopville, Lee County, South Carolina, 29010, United States",
+        "osm_type": "residential",
+        "osm_id": 12470936,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3997706,
+          36.8159611
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.13newsnow.com/article/weather/weather-impact/hampton-roads-weather-rain-floods-sunday-storm-forecast-warning-watch/291-4defb0da-f0ca-4628-9bc7-47040e37bdd4",
+        "title": "National Weather Service issues flood watch with potential for flash flooding for most of Hampton Roads",
+        "source": "13newsnow.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-12T19:11:00Z",
+        "url": "https://www.13newsnow.com/article/weather/weather-impact/hampton-roads-weather-rain-floods-sunday-storm-forecast-warning-watch/291-4defb0da-f0ca-4628-9bc7-47040e37bdd4",
+        "mention_text": "Hampton Roads",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hampton Roads, Virginia, United States",
+        "osm_type": "statistical",
+        "osm_id": 21086422,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wxii12.com/article/severe-rain-storms-north-carolina-cooler-sunday/71908739",
+        "title": "Impact Day: Flash Flood threat along with scattered strong storms possible in North Carolina",
+        "source": "WXII",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-13T02:37:00Z",
+        "url": "https://www.wxii12.com/article/severe-rain-storms-north-carolina-cooler-sunday/71908739",
+        "mention_text": "North Carolina",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7970224,
+          35.1238031
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316484995.html",
+        "title": "Flash flood warning affecting Beaufort and Pamlico counties until early Monday morning",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-13T05:45:04Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316484995.html",
+        "mention_text": "Pamlico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pamlico County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528731,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7385978,
+          33.7898432
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316484853.html",
+        "title": "UPDATE: Flash flood warning in place for Wilkes County until 3 a.m. Monday",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-13T06:04:05Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316484853.html",
+        "mention_text": "Wilkes County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Wilkes County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 1074323,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6546163,
+          32.1112624
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azcentral.com/story/news/local/arizona-weather/2026/07/12/weather-alert/90896296007/",
+        "title": "Flash flood warning issued for Pima County",
+        "source": "azcentral.com and The Arizona Republic",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-13T01:05:00Z",
+        "url": "https://www.azcentral.com/story/news/local/arizona-weather/2026/07/12/weather-alert/90896296007/",
+        "mention_text": "Pima County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pima County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832206,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.135072,
+          32.6662689
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/texas/video/storms-slow-over-north-texas-raising-flash-flood-threat/",
+        "title": "Storms slow over North Texas, raising flash flood threat",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-13T03:19:00Z",
+        "url": "https://www.cbsnews.com/texas/video/storms-slow-over-north-texas-raising-flash-flood-threat/",
+        "mention_text": "North Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North, Arlington, Tarrant County, Texas, 76017, United States",
+        "osm_type": "residential",
+        "osm_id": 10057724,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1551411,
+          37.5726028
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whas11.com/article/weather/weather-impact/flash-flood-warning-kentucky-counties-july-12/417-b1d3020b-bd20-4c4c-8ed3-e6d0aeb3c5bb",
+        "title": "Flash flood warning expire for Kentucky counties Sunday",
+        "source": "WHAS11",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-12T15:48:00Z",
+        "url": "https://www.whas11.com/article/weather/weather-impact/flash-flood-warning-kentucky-counties-july-12/417-b1d3020b-bd20-4c4c-8ed3-e6d0aeb3c5bb",
+        "mention_text": "Kentucky",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 161655,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316484208.html",
+        "title": "UPDATE: Flash flood warning for North Carolina likely to expire at 2:45 a.m.",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-13T07:00:04Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316484208.html",
+        "mention_text": "North Carolina",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3997706,
+          36.8159611
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pilotonline.com/2026/07/12/flood-watch-for-hampton-roads/",
+        "title": "Flood watch issued for Hampton Roads as heavy rain threatens flash flooding",
+        "source": "The Virginian-Pilot",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-12T20:07:16Z",
+        "url": "https://www.pilotonline.com/2026/07/12/flood-watch-for-hampton-roads/",
+        "mention_text": "Hampton Roads",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hampton Roads, Virginia, United States",
+        "osm_type": "statistical",
+        "osm_id": 21086422,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.186346,
+          37.3592837
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wric.com/weather/severe-weather/flash-flood-central-virginia-july-12/",
+        "title": "Flash flood warning issued in several Central Virginia localities",
+        "source": "WRIC ABC 8News",
+        "outlet_city": "Richmond",
+        "outlet_region": "Virginia",
+        "published_at": "2026-07-12T15:14:28Z",
+        "url": "https://www.wric.com/weather/severe-weather/flash-flood-central-virginia-july-12/",
+        "mention_text": "Central Virginia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central Virginia Community College, 3506, Wards Road, Lynchburg, Virginia, 24502, United States",
+        "osm_type": "college",
+        "osm_id": 117607560,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1791849,
+          31.8390826
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316478240.html",
+        "title": "Flash flood warning in place for Cherokee County until Sunday morning",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-12T07:28:02Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316478240.html",
+        "mention_text": "Cherokee County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Cherokee County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839605,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4512417,
+          32.6894727
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/video/134689398/",
+        "title": "Video Rounds of heavy rain trigger flash flood threats across Heartland and South",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-12T12:38:43Z",
+        "url": "https://abcnews.com/video/134689398/",
+        "mention_text": "Heartland",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Heartland, Kaufman County, Texas, United States",
+        "osm_type": "town",
+        "osm_id": 7087487904,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3170402,
+          29.8494044
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/video/134689398/",
+        "title": "Video Rounds of heavy rain trigger flash flood threats across Heartland and South",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-12T12:38:43Z",
+        "url": "https://abcnews.com/video/134689398/",
+        "mention_text": "South",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "St. Augustine South, Saint Johns County, Florida, 32086, United States",
+        "osm_type": "town",
+        "osm_id": 13203803220,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8987707,
+          29.357515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wate.com/video/del-rio-restaurants-damaged-by-flash-flood-waters/11963948/",
+        "title": "Del Rio restaurants damaged by flash flood waters",
+        "source": "WATE 6 On Your Side",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-12T06:45:24Z",
+        "url": "https://www.wate.com/video/del-rio-restaurants-damaged-by-flash-flood-waters/11963948/",
+        "mention_text": "Del Rio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Del Rio, Val Verde County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 6587587,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4512417,
+          32.6894727
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.centraloregondaily.com/news/nation-world/rounds-of-heavy-rain-trigger-flash-flood-threats-across-heartland-and-south/video_a707e7dc-d3eb-52fb-a98a-4a526036d16b.html",
+        "title": "Rounds of heavy rain trigger flash flood threats across Heartland and South",
+        "source": "Central Oregon Daily",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-12T13:45:36Z",
+        "url": "https://www.centraloregondaily.com/news/nation-world/rounds-of-heavy-rain-trigger-flash-flood-threats-across-heartland-and-south/video_a707e7dc-d3eb-52fb-a98a-4a526036d16b.html",
+        "mention_text": "Heartland",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Heartland, Kaufman County, Texas, United States",
+        "osm_type": "town",
+        "osm_id": 7087487904,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3170402,
+          29.8494044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.centraloregondaily.com/news/nation-world/rounds-of-heavy-rain-trigger-flash-flood-threats-across-heartland-and-south/video_a707e7dc-d3eb-52fb-a98a-4a526036d16b.html",
+        "title": "Rounds of heavy rain trigger flash flood threats across Heartland and South",
+        "source": "Central Oregon Daily",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-12T13:45:36Z",
+        "url": "https://www.centraloregondaily.com/news/nation-world/rounds-of-heavy-rain-trigger-flash-flood-threats-across-heartland-and-south/video_a707e7dc-d3eb-52fb-a98a-4a526036d16b.html",
+        "mention_text": "South",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "St. Augustine South, Saint Johns County, Florida, 32086, United States",
+        "osm_type": "town",
+        "osm_id": 13203803220,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316485151.html",
+        "title": "Coastal flood advisory for Myrtle Beach area and Coastal Georgetown until Monday night",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-13T06:43:05Z",
+        "url": "https://www.thestate.com/news/weather-news/article316485151.html",
+        "mention_text": "Myrtle Beach",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Myrtle Beach, Horry County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193842,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3595655,
+          38.6898781
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316485151.html",
+        "title": "Coastal flood advisory for Myrtle Beach area and Coastal Georgetown until Monday night",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-13T06:43:05Z",
+        "url": "https://www.thestate.com/news/weather-news/article316485151.html",
+        "mention_text": "Coastal Georgetown",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Delaware Coastal Airport, Aviation Avenue, Harlemtown, Georgetown, Sussex County, Delaware, 19947, United States",
+        "osm_type": "aerodrome",
+        "osm_id": 726617667,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3502834,
+          37.1801529
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316485155.html",
+        "title": "Flood advisory in place for Alexander County until early Monday morning",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-13T06:45:04Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316485155.html",
+        "mention_text": "Alexander County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Alexander County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1800890,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3997706,
+          36.8159611
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailypress.com/2026/07/12/flood-watch-for-hampton-roads/",
+        "title": "Flood watch issued for Hampton Roads as heavy rain threatens flash flooding",
+        "source": "Daily Press",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-12T20:08:24Z",
+        "url": "https://www.dailypress.com/2026/07/12/flood-watch-for-hampton-roads/",
+        "mention_text": "Hampton Roads",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hampton Roads, Virginia, United States",
+        "osm_type": "statistical",
+        "osm_id": 21086422,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3997706,
+          36.8159611
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.msn.com/en-us/weather/topstories/flood-watch-issued-for-hampton-roads-as-heavy-rain-threatens-flash-flooding/ar-AA27LnJf",
+        "title": "Flood watch issued for Hampton Roads as heavy rain threatens flash flooding",
+        "source": "MSN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-12T20:06:00Z",
+        "url": "https://www.msn.com/en-us/weather/topstories/flood-watch-issued-for-hampton-roads-as-heavy-rain-threatens-flash-flooding/ar-AA27LnJf",
+        "mention_text": "Hampton Roads",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hampton Roads, Virginia, United States",
+        "osm_type": "statistical",
+        "osm_id": 21086422,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2599081,
+          34.2189515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316484901.html",
+        "title": "Flood advisory active for Western North Carolina until early Monday morning",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-13T04:58:40Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316484901.html",
+        "mention_text": "Western North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Western Drive, Bishopville, Lee County, South Carolina, 29010, United States",
+        "osm_type": "residential",
+        "osm_id": 12470936,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2599081,
+          34.2189515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316484671.html",
+        "title": "UPDATE: Flood advisory for Western North Carolina early Monday morning",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-13T07:58:05Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316484671.html",
+        "mention_text": "Western North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Western Drive, Bishopville, Lee County, South Carolina, 29010, United States",
+        "osm_type": "residential",
+        "osm_id": 12470936,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6747372,
+          38.7877791
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/flood-advisory-louisiana-weather-forecast-jefferson-st-charles-new-orleans-parish/71910515",
+        "title": "Flood Advisory for Jefferson and St. Charles parishes",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-12T20:09:00Z",
+        "url": "https://www.wdsu.com/article/flood-advisory-louisiana-weather-forecast-jefferson-st-charles-new-orleans-parish/71910515",
+        "mention_text": "St. Charles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Saint Charles County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180527,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.745748,
+          15.2174228
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article316483166.html",
+        "title": "Coastal flood advisory issued for Northern Coastal Humboldt until early Monday",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-12T22:29:02Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article316483166.html",
+        "mention_text": "Northern Coastal",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Coastal Drive, Wireless Ridge, Navy Hill, Garapan, Saipan Municipality, Northern Mariana Islands, 96950, United States",
+        "osm_type": "residential",
+        "osm_id": 24199777,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0192824,
+          44.931179
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316485158.html",
+        "title": "Southeast Coast placed under a coastal flood advisory until Monday night",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-13T06:45:05Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316485158.html",
+        "mention_text": "Southeast Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oregon Coast Highway, Taft, Lincoln City, Lincoln County, Oregon, 97367, United States",
+        "osm_type": "trunk",
+        "osm_id": 119209008,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8303536,
+          26.1488926
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article316484548.html",
+        "title": "Flood advisory in place for North Texas until early Monday triggered by prolonged rain",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-07-13T02:47:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article316484548.html",
+        "mention_text": "North Texas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Texas, North La Feria Village Colonia, La Feria, Cameron County, Texas, 78559, United States",
+        "osm_type": "residential",
+        "osm_id": 20771906,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3992505,
+          36.0702678
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316482740.html",
+        "title": "UPDATE: The current flood advisory for Alamance County will expire at 8:15 p.m.",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-13T00:30:04Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316482740.html",
+        "mention_text": "Alamance County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Alamance County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528669,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.000884,
+          30.7485258
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article316484171.html",
+        "title": "UPDATE: Flood advisory previously issued for Hampton and Jasper counties will expire at 11:45 p.m.",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-13T03:55:04Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article316484171.html",
+        "mention_text": "Jasper",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Jasper County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1840994,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6495453,
+          27.7712026
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/sanfrancisco/news/bay-area-central-coast-weather-thunderstorm-threat-coastal-flood-advisory/",
+        "title": "Humid Bay Area, Central Coast see thunderstorm threat, coastal flood advisory",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-12T18:01:00Z",
+        "url": "https://www.cbsnews.com/sanfrancisco/news/bay-area-central-coast-weather-thunderstorm-threat-coastal-flood-advisory/",
+        "mention_text": "Central Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Coast, Central Avenue, Edge District, Saint Petersburg, Pinellas County, Florida, 33701, United States",
+        "osm_type": "bicycle_rental",
+        "osm_id": 6753734742,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4030376,
+          37.7887644
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article316423541.html",
+        "title": "Coastal flood advisory affecting Northern California from Saturday to Wednesday",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-08T04:19:05Z",
+        "url": "https://www.modbee.com/news/weather-news/article316423541.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "First National Bank of Northern California, Post Street, Union Square, Financial District, South of Market, San Francisco, California, 94104, United States",
+        "osm_type": "bank",
+        "osm_id": 32946665,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.8854639,
+          33.759478
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article316423542.html",
+        "title": "Coastal flood advisory in place for San Francisco County from Thursday to Thursday",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-08T04:19:05Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article316423542.html",
+        "mention_text": "San Francisco County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco, Catron County, New Mexico, United States",
+        "osm_type": "peak",
+        "osm_id": 11066998506,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.564371,
+          35.4045503
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316391762.html",
+        "title": "UPDATE: Flood advisory affecting Cabarrus County Sunday evening caused by heavy rainfall",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-05T22:18:05Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316391762.html",
+        "mention_text": "Cabarrus County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cabarrus County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528680,
+        "run_at": "2026-07-13T09:29:56.261946+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-07-12T08:19:24.721981+00:00",
-    "total_features": 2295
+    "last_updated": "2026-07-13T09:29:56.274282+00:00",
+    "total_features": 2333
   }
 }
