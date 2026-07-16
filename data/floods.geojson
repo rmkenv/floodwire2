@@ -63050,11 +63050,1571 @@
         "osm_id": 193825,
         "run_at": "2026-07-15T08:13:30.032014+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.reuters.com/business/environment/flash-flood-emergency-strikes-texas-year-after-camp-mystic-disaster-2026-07-16/",
+        "title": "Flash flood emergency strikes Texas year after Camp Mystic disaster",
+        "source": "Reuters",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T02:57:00Z",
+        "url": "https://www.reuters.com/business/environment/flash-flood-emergency-strikes-texas-year-after-camp-mystic-disaster-2026-07-16/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/US/flash-flood-emergency-occurring-same-texas-region-camp/story?id=134780971",
+        "title": "Flash flood emergency occurring in same Texas region as Camp Mystic tragedy",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T01:54:01Z",
+        "url": "https://abcnews.com/US/flash-flood-emergency-occurring-same-texas-region-camp/story?id=134780971",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.565996,
+          39.0589084
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kkco11news.com/2026/07/15/flash-flood-warning-issued-turner-gulch-burn-scar-mesa-county/",
+        "title": "Flash flood warning issued for Turner Gulch burn scar in Mesa County",
+        "source": "KKCO 11 News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T23:04:00Z",
+        "url": "https://www.kkco11news.com/2026/07/15/flash-flood-warning-issued-turner-gulch-burn-scar-mesa-county/",
+        "mention_text": "Mesa County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mesa County, Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 1411341,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azcentral.com/story/news/local/arizona-weather/2026/07/15/weather-alert-northern-arizona/90936105007/",
+        "title": "Flash flood warning extended for northern Arizona",
+        "source": "azcentral.com and The Arizona Republic",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T01:26:00Z",
+        "url": "https://www.azcentral.com/story/news/local/arizona-weather/2026/07/15/weather-alert-northern-arizona/90936105007/",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2509362,
+          43.5128161
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nytimes.com/2026/07/15/weather/texas-flooding-boerne.html",
+        "title": "Flash Flood Emergency Is Issued in Texas After Days of Pounding Rain",
+        "source": "The New York Times",
+        "outlet_city": "New York",
+        "outlet_region": "New York",
+        "published_at": "2026-07-15T18:00:45Z",
+        "url": "https://www.nytimes.com/2026/07/15/weather/texas-flooding-boerne.html",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, Town of Mexico, Oswego County, New York, 13114, United States",
+        "osm_type": "hamlet",
+        "osm_id": 158655975,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kold.com/video/2026/07/16/flash-flood-watch-active-thursday-monsoonal-tropical-moisture-merge-over-southern-arizona/",
+        "title": "Flash Flood Watch active Thursday as monsoonal and tropical moisture merge over southern Arizona",
+        "source": "KOLD",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T00:38:30Z",
+        "url": "https://www.kold.com/video/2026/07/16/flash-flood-watch-active-thursday-monsoonal-tropical-moisture-merge-over-southern-arizona/",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7547964,
+          28.8782341
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wilsoncountynews.com/articles/flood-warning-issued-for-san-antonio-river-in-wilson-bexar-counties/",
+        "title": "Flood warning issued for San Antonio River in Wilson, Bexar counties",
+        "source": "Wilson County News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T17:28:55Z",
+        "url": "https://www.wilsoncountynews.com/articles/flood-warning-issued-for-san-antonio-river-in-wilson-bexar-counties/",
+        "mention_text": "San Antonio River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Antonio River, Texas, United States",
+        "osm_type": "river",
+        "osm_id": 7719215,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azcentral.com/story/news/local/arizona-weather/2026/07/15/flash-flood-warning-issued-for-southern-arizona-including-biosphere-2/90936037007/",
+        "title": "Flash flood warnings issued for southern Arizona, including Biosphere 2",
+        "source": "azcentral.com and The Arizona Republic",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T00:43:00Z",
+        "url": "https://www.azcentral.com/story/news/local/arizona-weather/2026/07/15/flash-flood-warning-issued-for-southern-arizona-including-biosphere-2/90936037007/",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1551404,
+          26.1748895
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kens5.com/video/weather/flash-flood-threat-grows-as-more-heavy-rain-targets-south-texas-kens-5-weather-impact-forecast/273-dcbb7dac-6089-47a6-84aa-9e426d5d44ce",
+        "title": "Flash flood threat grows as more heavy rain targets South Texas | KENS 5 Weather Impact Forecast",
+        "source": "kens5.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T22:26:00Z",
+        "url": "https://www.kens5.com/video/weather/flash-flood-threat-grows-as-more-heavy-rain-targets-south-texas-kens-5-weather-impact-forecast/273-dcbb7dac-6089-47a6-84aa-9e426d5d44ce",
+        "mention_text": "South Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South Texas, San Juan South Estates Colonia, San Juan, Hidalgo County, Texas, 78589, United States",
+        "osm_type": "residential",
+        "osm_id": 15287122,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4951405,
+          29.4246002
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kens5.com/video/news/flash-flood-warnings-continue-for-counties-west-of-san-antonio/273-3cc79d83-eaa9-469a-920e-e07bdd469f82",
+        "title": "Flash Flood Warnings continue for counties west of San Antonio",
+        "source": "kens5.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T02:18:00Z",
+        "url": "https://www.kens5.com/video/news/flash-flood-warnings-continue-for-counties-west-of-san-antonio/273-3cc79d83-eaa9-469a-920e-e07bdd469f82",
+        "mention_text": "San Antonio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Antonio, Bexar County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 253556,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbs19.tv/video/news/local/flash-flood-threat-grows-across-texas-as-heavy-rain-prompts-disaster-declarations/501-31ffa3fc-cdce-45c3-b6b4-d71d644849b7",
+        "title": "Flash flood threat grows across Texas as heavy rain prompts disaster declarations",
+        "source": "cbs19.tv",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T22:48:00Z",
+        "url": "https://www.cbs19.tv/video/news/local/flash-flood-threat-grows-across-texas-as-heavy-rain-prompts-disaster-declarations/501-31ffa3fc-cdce-45c3-b6b4-d71d644849b7",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.2news.com/news/national/dangerous-flash-flood-warnings-in-effect-in-south-texas/video_55e681ff-5b52-5686-b1d5-2dfab7560f07.html",
+        "title": "Dangerous flash flood warnings in effect in south Texas",
+        "source": "KTVN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T00:24:00Z",
+        "url": "https://www.2news.com/news/national/dangerous-flash-flood-warnings-in-effect-in-south-texas/video_55e681ff-5b52-5686-b1d5-2dfab7560f07.html",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.gilmermirror.com/2026/07/15/live-updates-heavy-rains-continue-as-texas-flash-flood-concerns-persist/",
+        "title": "Live updates: Heavy rains continue as Texas\u2019 flash flood concerns persist",
+        "source": "The Gilmer Mirror",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T15:28:39Z",
+        "url": "https://www.gilmermirror.com/2026/07/15/live-updates-heavy-rains-continue-as-texas-flash-flood-concerns-persist/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.abc4.com/utah-weather/utah-weather-monsoonal-moisture-continues-with-flash-flood-risk-for-some/",
+        "title": "Utah Weather: Monsoonal moisture continues with flash flood risk for some",
+        "source": "ABC4 Utah",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T13:07:30Z",
+        "url": "https://www.abc4.com/utah-weather/utah-weather-monsoonal-moisture-continues-with-flash-flood-risk-for-some/",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9086643,
+          30.2954086
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbsaustin.com/news/local/gillespie-county-hit-by-heavy-rain-flash-flood-warning-issued",
+        "title": "Flash flood warnings expand to Gillespie, Blanco, Hays counties",
+        "source": "KEYE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T20:14:43Z",
+        "url": "https://cbsaustin.com/news/local/gillespie-county-hit-by-heavy-rain-flash-flood-warning-issued",
+        "mention_text": "Gillespie",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Gillespie County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1827125,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4004594,
+          30.2419274
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbsaustin.com/news/local/gillespie-county-hit-by-heavy-rain-flash-flood-warning-issued",
+        "title": "Flash flood warnings expand to Gillespie, Blanco, Hays counties",
+        "source": "KEYE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T20:14:43Z",
+        "url": "https://cbsaustin.com/news/local/gillespie-county-hit-by-heavy-rain-flash-flood-warning-issued",
+        "mention_text": "Blanco",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Blanco County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 91933,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7258845,
+          29.943885
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kxan.com/weather/severe-weather/flash-flood-emergency-declared-for-kendall-county/",
+        "title": "Flash Flood Emergency issued for Kendall, Medina counties",
+        "source": "KXAN Austin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T17:34:02Z",
+        "url": "https://www.kxan.com/weather/severe-weather/flash-flood-emergency-declared-for-kendall-county/",
+        "mention_text": "Kendall",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kendall County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 92032,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1126826,
+          29.2836281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kxan.com/weather/severe-weather/flash-flood-emergency-declared-for-kendall-county/",
+        "title": "Flash Flood Emergency issued for Kendall, Medina counties",
+        "source": "KXAN Austin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T17:34:02Z",
+        "url": "https://www.kxan.com/weather/severe-weather/flash-flood-emergency-declared-for-kendall-county/",
+        "mention_text": "Medina",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Medina County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1651194,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9026057,
+          37.3393746
+        ]
+      },
+      "properties": {
+        "article_id": "https://kerrcountylead.com/flood-warning-issued-for-guadalupe-river-at-hunt-with-crest-expected-above-flood-stage-thursday-morning/",
+        "title": "Flood warning issued for Guadalupe River at Hunt, with crest expected above flood stage Thursday morning",
+        "source": "The Kerr County Lead",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T04:02:47Z",
+        "url": "https://kerrcountylead.com/flood-warning-issued-for-guadalupe-river-at-hunt-with-crest-expected-above-flood-stage-thursday-morning/",
+        "mention_text": "Guadalupe River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Guadalupe River, San Jose, Santa Clara County, California, United States",
+        "osm_type": "river",
+        "osm_id": 19804223,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox10phoenix.com/video/fmc-lhujo8g81eazpxez",
+        "title": "Flash flood threat rises across Arizona ahead of severe storms",
+        "source": "FOX 10 Phoenix",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T23:28:02Z",
+        "url": "https://www.fox10phoenix.com/video/fmc-lhujo8g81eazpxez",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5104781,
+          29.4263987
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kens5.com/video/weather/weather-impact/flash-flood-warning-in-bexar-county-dangerous-conditions-in-boerne-weather-impact-alert/273-2ee05026-be9a-4a29-856b-5a713b622bcf",
+        "title": "Flash Flood Warning in Bexar County; Dangerous conditions in Boerne | Weather Impact Alert",
+        "source": "kens5.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T21:01:00Z",
+        "url": "https://www.kens5.com/video/weather/weather-impact/flash-flood-warning-in-bexar-county-dangerous-conditions-in-boerne-weather-impact-alert/273-2ee05026-be9a-4a29-856b-5a713b622bcf",
+        "mention_text": "Bexar County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Bexar County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 92026,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7319703,
+          29.7946641
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kens5.com/video/weather/weather-impact/flash-flood-warning-in-bexar-county-dangerous-conditions-in-boerne-weather-impact-alert/273-2ee05026-be9a-4a29-856b-5a713b622bcf",
+        "title": "Flash Flood Warning in Bexar County; Dangerous conditions in Boerne | Weather Impact Alert",
+        "source": "kens5.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T21:01:00Z",
+        "url": "https://www.kens5.com/video/weather/weather-impact/flash-flood-warning-in-bexar-county-dangerous-conditions-in-boerne-weather-impact-alert/273-2ee05026-be9a-4a29-856b-5a713b622bcf",
+        "mention_text": "Boerne",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Boerne, Kendall County, Texas, 78006, United States",
+        "osm_type": "administrative",
+        "osm_id": 113353,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1551404,
+          26.1748895
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.expressnews.com/san-antonio-weather/article/rain-flood-flash-river-storm-weather-texas-22346068.php",
+        "title": "Several flash flood warning issued Wednesday in South Texas. Here's where.",
+        "source": "San Antonio Express-News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T16:14:55Z",
+        "url": "https://www.expressnews.com/san-antonio-weather/article/rain-flood-flash-river-storm-weather-texas-22346068.php",
+        "mention_text": "South Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South Texas, San Juan South Estates Colonia, San Juan, Hidalgo County, Texas, 78589, United States",
+        "osm_type": "residential",
+        "osm_id": 15287122,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/texas-hill-country-hit-flash-042200428.html",
+        "title": "Texas Hill Country hit with flash flood emergency after 16 inches of rain, dozens rescued",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T04:22:00Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/texas-hill-country-hit-flash-042200428.html",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.12news.com/article/weather/life-threatening-flash-flood-warning-issued-flagstaff-arizona/75-0c90079d-5d01-48bd-82a9-605fac38d72b",
+        "title": "'Life-threatening' flash flood warning issued for parts of Arizona",
+        "source": "12News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T22:28:00Z",
+        "url": "https://www.12news.com/article/weather/life-threatening-flash-flood-warning-issued-flagstaff-arizona/75-0c90079d-5d01-48bd-82a9-605fac38d72b",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7258845,
+          29.943885
+        ]
+      },
+      "properties": {
+        "article_id": "https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2026/07/15/flash-flood-emergency-kendall-county",
+        "title": "National Weather Service issues flash flood emergency for Kendall County",
+        "source": "Spectrum News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T17:30:00Z",
+        "url": "https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2026/07/15/flash-flood-emergency-kendall-county",
+        "mention_text": "Kendall County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kendall County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 92032,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8085436,
+          31.4274044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kxan.com/weather/weather-blog-july-15-2026/",
+        "title": "Live updates: Flash flood risk continues as heavy rain falls across Central Texas",
+        "source": "KXAN Austin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T17:19:14Z",
+        "url": "https://www.kxan.com/weather/weather-blog-july-15-2026/",
+        "mention_text": "Central Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, Angelina County, Texas, 76969, United States",
+        "osm_type": "hamlet",
+        "osm_id": 151831870,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.376398,
+          33.9597677
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbs19.tv/article/news/local/athens-declares-disaster-after-flash-flood-causes-137-million-damage-roads-and-drainage/501-575e22b5-7dc2-4b65-95b5-7980354eb3a5",
+        "title": "Athens declares disaster after flash flood causes $1.37 million damage to roads and drainage",
+        "source": "cbs19.tv",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T14:01:00Z",
+        "url": "https://www.cbs19.tv/article/news/local/athens-declares-disaster-after-flash-flood-causes-137-million-damage-roads-and-drainage/501-575e22b5-7dc2-4b65-95b5-7980354eb3a5",
+        "mention_text": "Athens",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Athens, Clarke County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119353,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1551404,
+          26.1748895
+        ]
+      },
+      "properties": {
+        "article_id": "https://foxsanantonio.com/news/local/watch-live-flash-flood-warnings-in-san-antonio-medina-bandera-and-bexar-counties-07-15-2026",
+        "title": "LIVE: Flood Watch stays in effect through Thursday evening as storms threaten South Texas",
+        "source": "KABB",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T05:26:15Z",
+        "url": "https://foxsanantonio.com/news/local/watch-live-flash-flood-warnings-in-san-antonio-medina-bandera-and-bexar-counties-07-15-2026",
+        "mention_text": "South Texas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "South Texas, San Juan South Estates Colonia, San Juan, Hidalgo County, Texas, 78589, United States",
+        "osm_type": "residential",
+        "osm_id": 15287122,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.12news.com/article/news/local/arizona/life-threatening-flash-flood-warning-issued-flagstaff-arizona/75-0c90079d-5d01-48bd-82a9-605fac38d72b",
+        "title": "Flash flood warnings, dust advisory issued across Arizona",
+        "source": "12News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T22:28:00Z",
+        "url": "https://www.12news.com/article/news/local/arizona/life-threatening-flash-flood-warning-issued-flagstaff-arizona/75-0c90079d-5d01-48bd-82a9-605fac38d72b",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/videos/flash-flood-emergency-inundates-texas-communities/69f9d772-1064-4bd8-b526-11d0d59c4e7e",
+        "title": "Flash flood emergency inundates Texas communities",
+        "source": "AccuWeather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T22:13:52Z",
+        "url": "https://www.accuweather.com/en/videos/flash-flood-emergency-inundates-texas-communities/69f9d772-1064-4bd8-b526-11d0d59c4e7e",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myfoxzone.com/video/news/west-texas-shifts-to-rainy-pattern-with-flash-flood-risk-through-friday/504-9ee04a8b-42a1-4c3a-936b-2a56431ebf1e",
+        "title": "West Texas shifts to rainy pattern with flash flood risk through Friday",
+        "source": "myfoxzone.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T22:30:00Z",
+        "url": "https://www.myfoxzone.com/video/news/west-texas-shifts-to-rainy-pattern-with-flash-flood-risk-through-friday/504-9ee04a8b-42a1-4c3a-936b-2a56431ebf1e",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/life-threatening-flash-flood-warning-221429588.html",
+        "title": "'Life-threatening' flash flood warning issued for parts of Arizona",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T22:14:29Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/life-threatening-flash-flood-warning-221429588.html",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1551404,
+          26.1748895
+        ]
+      },
+      "properties": {
+        "article_id": "https://news4sanantonio.com/news/local/watch-live-flash-flood-warnings-in-san-antonio-medina-bandera-and-bexar-counties",
+        "title": "LIVE: Flood Watch stays in effect through Thursday evening as storms threaten South Texas",
+        "source": "WOAI",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T05:27:26Z",
+        "url": "https://news4sanantonio.com/news/local/watch-live-flash-flood-warnings-in-san-antonio-medina-bandera-and-bexar-counties",
+        "mention_text": "South Texas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "South Texas, San Juan South Estates Colonia, San Juan, Hidalgo County, Texas, 78589, United States",
+        "osm_type": "residential",
+        "osm_id": 15287122,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.445882,
+          39.7837304
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whas11.com/video/news/national/heat-smoke-and-flash-flood-erupting-all-across-america/417-4b109361-52f9-48a7-8575-1f823418245c",
+        "title": "Heat, smoke and flash flood erupting all across America",
+        "source": "whas11.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T21:19:00Z",
+        "url": "https://www.whas11.com/video/news/national/heat-smoke-and-flash-flood-erupting-all-across-america/417-4b109361-52f9-48a7-8575-1f823418245c",
+        "mention_text": "America",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "United States",
+        "osm_type": "administrative",
+        "osm_id": 148838,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2684063,
+          34.9550817
+        ]
+      },
+      "properties": {
+        "article_id": "https://okcfox.com/news/local/oklahoma-sends-swift-water-rescue-teams-to-texas-to-aid-flood-response",
+        "title": "Oklahoma sends swift water rescue teams to Texas to aid flood response",
+        "source": "KOKH",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T13:05:11Z",
+        "url": "https://okcfox.com/news/local/oklahoma-sends-swift-water-rescue-teams-to-texas-to-aid-flood-response",
+        "mention_text": "Oklahoma",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Oklahoma, United States",
+        "osm_type": "administrative",
+        "osm_id": 161645,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://okcfox.com/news/local/oklahoma-sends-swift-water-rescue-teams-to-texas-to-aid-flood-response",
+        "title": "Oklahoma sends swift water rescue teams to Texas to aid flood response",
+        "source": "KOKH",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T13:05:11Z",
+        "url": "https://okcfox.com/news/local/oklahoma-sends-swift-water-rescue-teams-to-texas-to-aid-flood-response",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/dangerous-heavy-rain-hammering-parts-070130467.html",
+        "title": "Flash flood emergencies, dozens of rescues in southern Texas after more than half a year\u2019s worth of rain falls",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T19:04:23Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/dangerous-heavy-rain-hammering-parts-070130467.html",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6309832,
+          29.3647924
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mysanantonio.com/news/weather/article/flash-flood-san-antonio-22346095.php",
+        "title": "More San Antonio-area cities added to Flash Flood Warning",
+        "source": "MySA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T13:29:50Z",
+        "url": "https://www.mysanantonio.com/news/weather/article/flash-flood-san-antonio-22346095.php",
+        "mention_text": "San Antonio-area",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Greater San Antonio, Texas, United States",
+        "osm_type": "statistical",
+        "osm_id": 21086216,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3884839,
+          30.045717
+        ]
+      },
+      "properties": {
+        "article_id": "https://kerrcountylead.com/flash-flood-warning-remains-in-effect-as-heavy-rain-continues-to-soak-kerr-county-early-wednesday/",
+        "title": "Flash flood warning remains in effect as heavy rain continues to soak Kerr County early Wednesday",
+        "source": "The Kerr County Lead",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T11:51:35Z",
+        "url": "https://kerrcountylead.com/flash-flood-warning-remains-in-effect-as-heavy-rain-continues-to-soak-kerr-county-early-wednesday/",
+        "mention_text": "Kerr County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kerr County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1827126,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N43I00U:0-flash-flood-emergency-strikes-texas-year-after-camp-mystic-disaster/",
+        "title": "Flash flood emergency strikes Texas year after Camp Mystic disaster",
+        "source": "TradingView",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T02:53:00Z",
+        "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N43I00U:0-flash-flood-emergency-strikes-texas-year-after-camp-mystic-disaster/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aol.com/articles/flash-flood-warning-issued-southern-001326073.html",
+        "title": "Flash flood warning issued for southern Arizona, including Biosphere 2",
+        "source": "AOL.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T00:16:55Z",
+        "url": "https://www.aol.com/articles/flash-flood-warning-issued-southern-001326073.html",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.straitstimes.com/world/united-states/flash-flood-emergency-strikes-texas-year-after-camp-mystic-disaster",
+        "title": "Flash flood emergency strikes Texas year after Camp Mystic disaster",
+        "source": "The Straits Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T03:01:01Z",
+        "url": "https://www.straitstimes.com/world/united-states/flash-flood-emergency-strikes-texas-year-after-camp-mystic-disaster",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6921555,
+          35.76851
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.krqe.com/news/new-mexico/disaster-response-nonprofit-clears-acequias-after-flash-flood-in-village-of-jemez-springs/",
+        "title": "Disaster-response nonprofit clears acequias after flash flood in Village of Jemez Springs",
+        "source": "KRQE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-13T11:36:53Z",
+        "url": "https://www.krqe.com/news/new-mexico/disaster-response-nonprofit-clears-acequias-after-flash-flood-in-village-of-jemez-springs/",
+        "mention_text": "Jemez Springs",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Jemez Springs, Sandoval County, New Mexico, 87924, United States",
+        "osm_type": "administrative",
+        "osm_id": 171228,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316493435.html",
+        "title": "UPDATE: Coastal Colleton and Charleston County placed under a coastal flood advisory",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T02:02:05Z",
+        "url": "https://www.thestate.com/news/weather-news/article316493435.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4691519,
+          37.7641353
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercedsunstar.com/news/weather-news/article316516599.html",
+        "title": "Coastal flood advisory issued for Northern California until early Thursday morning",
+        "source": "Merced Sun-Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T10:51:03Z",
+        "url": "https://www.mercedsunstar.com/news/weather-news/article316516599.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Business Coaching of Northern California, 1032, Irving Street, Inner Sunset, Richmond District, San Francisco, California, 94122, United States",
+        "osm_type": "company",
+        "osm_id": 5068329117,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/amp/US/flash-flood-emergency-occurring-same-texas-region-camp/story?id=134780971",
+        "title": "Flash flood emergency occurring in same Texas region as Camp Mystic tragedy",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T22:08:00Z",
+        "url": "https://abcnews.com/amp/US/flash-flood-emergency-occurring-same-texas-region-camp/story?id=134780971",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4691519,
+          37.7641353
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/07/15/coastal-flood-advisory-active-for-northern-california-until-early-thursday-morning/",
+        "title": "Coastal flood advisory active for Northern California until early Thursday morning",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T10:41:40Z",
+        "url": "https://www.mercurynews.com/2026/07/15/coastal-flood-advisory-active-for-northern-california-until-early-thursday-morning/",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Business Coaching of Northern California, 1032, Irving Street, Inner Sunset, Richmond District, San Francisco, California, 94122, United States",
+        "osm_type": "company",
+        "osm_id": 5068329117,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4691519,
+          37.7641353
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article316516597.html",
+        "title": "The current coastal flood advisory for Northern California will be expiring at 4 a.m.",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T10:50:04Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article316516597.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Business Coaching of Northern California, 1032, Irving Street, Inner Sunset, Richmond District, San Francisco, California, 94122, United States",
+        "osm_type": "company",
+        "osm_id": 5068329117,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.745748,
+          15.2174228
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article316483166.html",
+        "title": "UPDATE: Coastal flood advisory affecting Northern Coastal Humboldt until 1 a.m. Tuesday",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-13T10:11:02Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article316483166.html",
+        "mention_text": "Northern Coastal",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Coastal Drive, Wireless Ridge, Navy Hill, Garapan, Saipan Municipality, Northern Mariana Islands, 96950, United States",
+        "osm_type": "residential",
+        "osm_id": 24199777,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0212848,
+          44.9331884
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316485158.html",
+        "title": "Southeast Coast placed under a coastal flood advisory until Monday night",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-13T06:45:05Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316485158.html",
+        "mention_text": "Southeast Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oregon Coast Highway, Taft, Lincoln City, Lincoln County, Oregon, 97367, United States",
+        "osm_type": "trunk",
+        "osm_id": 119208836,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0482171,
+          35.6608869
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316484901.html",
+        "title": "UPDATE: McDowell County placed under a flood advisory until Monday evening",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-13T17:39:02Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316484901.html",
+        "mention_text": "McDowell County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "McDowell County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528721,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316484671.html",
+        "title": "UPDATE: Flood advisory active for North Carolina until Monday afternoon",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-13T16:09:05Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316484671.html",
+        "mention_text": "North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8107962,
+          38.0472916
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316495264.html",
+        "title": "UPDATE: The current flood advisory for Randolph County will be expiring at 7 p.m.",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-13T23:00:05Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316495264.html",
+        "mention_text": "Randolph County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Randolph County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1800898,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.straitstimes.com/world/flash-flood-emergency-strikes-texas-year-after-camp-mystic-disaster?ref=latest-headlines",
+        "title": "Flash flood emergency strikes Texas year after Camp Mystic disaster",
+        "source": "The Straits Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T03:01:01Z",
+        "url": "https://www.straitstimes.com/world/flash-flood-emergency-strikes-texas-year-after-camp-mystic-disaster?ref=latest-headlines",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.internazionale.it/ultime-notizie-reuters/2026/07/16/flash-flood-emergency-strikes-texas-year-after-camp-mystic-disaster",
+        "title": "Flash flood emergency strikes Texas year after Camp Mystic disaster",
+        "source": "Internazionale",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T02:57:20Z",
+        "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/07/16/flash-flood-emergency-strikes-texas-year-after-camp-mystic-disaster",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4691519,
+          37.7641353
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/07/13/coastal-flood-advisory-for-northern-california-until-early-thursday-morning-2/amp/",
+        "title": "Coastal flood advisory for Northern California until early Thursday morning",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-14T06:56:17Z",
+        "url": "https://www.eastbaytimes.com/2026/07/13/coastal-flood-advisory-for-northern-california-until-early-thursday-morning-2/amp/",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Business Coaching of Northern California, 1032, Irving Street, Inner Sunset, Richmond District, San Francisco, California, 94122, United States",
+        "osm_type": "company",
+        "osm_id": 5068329117,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9507234,
+          30.9551586
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316471731.html",
+        "title": "Flood advisory active for Madison County until Saturday midday caused by heavy rainfall",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-11T13:36:04Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316471731.html",
+        "mention_text": "Madison County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Madison County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839085,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3520606,
+          30.6108618
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.chron.com/news/article/central-texas-flooding-storms-22346072.php",
+        "title": "'Life-Threatening' flood emergency grips Texas as rescues mount",
+        "source": "chron.com",
+        "outlet_city": "Houston",
+        "outlet_region": "Texas",
+        "published_at": "2026-07-15T18:50:58Z",
+        "url": "https://www.chron.com/news/article/central-texas-flooding-storms-22346072.php",
+        "mention_text": "Texas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Texas A&M University, 400, Bizzell Street, College Station, Brazos County, Texas, 77843, United States",
+        "osm_type": "university",
+        "osm_id": 8556620,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5617875,
+          38.7604815
+        ]
+      },
+      "properties": {
+        "article_id": "https://beinsure.com/news/missouri-regulator-warns-homeowners-after-flood/",
+        "title": "Missouri insurance regulator Angela Nelson warns homeowners after rare flood emergency",
+        "source": "Beinsure",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T14:40:36Z",
+        "url": "https://beinsure.com/news/missouri-regulator-warns-homeowners-after-flood/",
+        "mention_text": "Missouri",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 161638,
+        "run_at": "2026-07-16T08:17:47.783928+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-07-15T08:13:30.043511+00:00",
-    "total_features": 2425
+    "last_updated": "2026-07-16T08:17:47.796174+00:00",
+    "total_features": 2485
   }
 }
