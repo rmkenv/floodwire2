@@ -64610,11 +64610,2559 @@
         "osm_id": 161638,
         "run_at": "2026-07-16T08:17:47.783928+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.14893,
+          34.1981483
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.abc4.com/news/southern-utah/forsyth-fire-burn-scar-flash-flood-warning/",
+        "title": "Flash flood warning issued for Forsyth Fire burn scar area, as locals take precautions",
+        "source": "ABC4 Utah",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T01:40:49Z",
+        "url": "https://www.abc4.com/news/southern-utah/forsyth-fire-burn-scar-flash-flood-warning/",
+        "mention_text": "Forsyth Fire",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Forsyth County Fire Station #1, 234, Castleberry Industrial Drive, Cumming, Forsyth County, Georgia, 30041, United States",
+        "osm_type": "fire_station",
+        "osm_id": 387512367,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5617875,
+          38.7604815
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kshb.com/news/local-news/flash-flood-warning-for-parts-of-jackson-county",
+        "title": "Flash flood warning issued for parts of Johnson, Lafayette, Pettis counties in Missouri",
+        "source": "KSHB 41 Kansas City",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T19:03:57Z",
+        "url": "https://www.kshb.com/news/local-news/flash-flood-warning-for-parts-of-jackson-county",
+        "mention_text": "Missouri",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 161638,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.409005,
+          38.6394278
+        ]
+      },
+      "properties": {
+        "article_id": "https://moabsunnews.com/2026/07/16/flash-flood-warning-for-moab-castle-valley-until-845-p-m/",
+        "title": "Castle Valley, Moab under flash flood warning until 8:45 p.m.",
+        "source": "Moab Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T00:45:03Z",
+        "url": "https://moabsunnews.com/2026/07/16/flash-flood-warning-for-moab-castle-valley-until-845-p-m/",
+        "mention_text": "Castle Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Castle Valley, Grand County, Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 198929,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox13now.com/news/local-news/southern-utah/flash-flood-warning-issued-for-southeastern-utah-including-dead-horse-point-state-park",
+        "title": "Flash Flood Warnings issued across southern, eastern Utah",
+        "source": "FOX 13 News Utah",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T01:03:10Z",
+        "url": "https://www.fox13now.com/news/local-news/southern-utah/flash-flood-warning-issued-for-southeastern-utah-including-dead-horse-point-state-park",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2026/07/16/flash-flood-emergencies-in-texas",
+        "title": "'Losing every\u00adthing for a second time': Flash flood emer\u00adgencies declared in Texas Hill Country; at least 2 dead",
+        "source": "Spectrum News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T13:43:00Z",
+        "url": "https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2026/07/16/flash-flood-emergencies-in-texas",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.55561,
+          28.9224028
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kansascity.com/news/weather-news/article316539190.html",
+        "title": "Update: Flash flood warning active for Jackson County Thursday evening",
+        "source": "Kansas City Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T20:39:06Z",
+        "url": "https://www.kansascity.com/news/weather-news/article316539190.html",
+        "mention_text": "Jackson County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Jackson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837671,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3884839,
+          30.045717
+        ]
+      },
+      "properties": {
+        "article_id": "https://texasstandard.org/stories/today-on-texas-standard-july-16-2026/",
+        "title": "Texas Standard for July 16, 2026: Flash flood emergencies and shelter-in-place alerts follow heavy rainfall in Kerr County",
+        "source": "Texas Standard",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T19:02:15Z",
+        "url": "https://texasstandard.org/stories/today-on-texas-standard-july-16-2026/",
+        "mention_text": "Kerr County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kerr County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1827126,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.7733181,
+          29.300357
+        ]
+      },
+      "properties": {
+        "article_id": "https://news4sanantonio.com/news/local/flood-watch-to-expire-in-bexar-county-extended-across-others-as-rain-continues",
+        "title": "LIVE: Flash Flood Warning in effect in Uvalde, Real, Bandera, and Kerr counties",
+        "source": "WOAI",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T07:04:21Z",
+        "url": "https://news4sanantonio.com/news/local/flood-watch-to-expire-in-bexar-county-extended-across-others-as-rain-continues",
+        "mention_text": "Uvalde",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Uvalde County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1827044,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.234526,
+          29.7643475
+        ]
+      },
+      "properties": {
+        "article_id": "https://news4sanantonio.com/news/local/flood-watch-to-expire-in-bexar-county-extended-across-others-as-rain-continues",
+        "title": "LIVE: Flash Flood Warning in effect in Uvalde, Real, Bandera, and Kerr counties",
+        "source": "WOAI",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T07:04:21Z",
+        "url": "https://news4sanantonio.com/news/local/flood-watch-to-expire-in-bexar-county-extended-across-others-as-rain-continues",
+        "mention_text": "Bandera",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Bandera County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1651195,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kold.com/video/2026/07/17/flash-flood-watch-continues-through-friday-morning-southeast-arizona/",
+        "title": "Tucson Weather: Flash Flood Watch continues through Friday morning for southeast Arizona",
+        "source": "KOLD",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T00:47:44Z",
+        "url": "https://www.kold.com/video/2026/07/17/flash-flood-watch-continues-through-friday-morning-southeast-arizona/",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azcentral.com/story/news/local/arizona-weather/2026/07/16/phoenix-flood-watch-heavy-rainfall/90946487007/",
+        "title": "Flash flood watch hits 'decent chunk of Arizona.' Sandbags available",
+        "source": "azcentral.com and The Arizona Republic",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T04:27:00Z",
+        "url": "https://www.azcentral.com/story/news/local/arizona-weather/2026/07/16/phoenix-flood-watch-heavy-rainfall/90946487007/",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.koamnewsnow.com/news/joplin-news-first/quapaw-nation-swift-water-rescue-team-ok-tf1-deploy-to-assist-in-texas-flood-zone/article_6c009a12-3c52-4f35-b598-80c9c2c31ccc.html",
+        "title": "Quapaw Nation Swift Water Rescue Team & OK-TF1 deploy to assist in Texas Flood Zone",
+        "source": "KOAM News Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T00:13:46Z",
+        "url": "https://www.koamnewsnow.com/news/joplin-news-first/quapaw-nation-swift-water-rescue-team-ok-tf1-deploy-to-assist-in-texas-flood-zone/article_6c009a12-3c52-4f35-b598-80c9c2c31ccc.html",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.12news.com/video/news/the-a-block-flash-flood-warnings-across-arizona-shooting-in-peoria-leaves-1-dead/75-3e87c2e3-6779-4e15-84e9-34af490739ca",
+        "title": "The A-Block: Flash flood warnings across Arizona, shooting in Peoria leaves 1 dead",
+        "source": "12News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T05:28:00Z",
+        "url": "https://www.12news.com/video/news/the-a-block-flash-flood-warnings-across-arizona-shooting-in-peoria-leaves-1-dead/75-3e87c2e3-6779-4e15-84e9-34af490739ca",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5891008,
+          40.6938609
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.12news.com/video/news/the-a-block-flash-flood-warnings-across-arizona-shooting-in-peoria-leaves-1-dead/75-3e87c2e3-6779-4e15-84e9-34af490739ca",
+        "title": "The A-Block: Flash flood warnings across Arizona, shooting in Peoria leaves 1 dead",
+        "source": "12News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T05:28:00Z",
+        "url": "https://www.12news.com/video/news/the-a-block-flash-flood-warnings-across-arizona-shooting-in-peoria-leaves-1-dead/75-3e87c2e3-6779-4e15-84e9-34af490739ca",
+        "mention_text": "Peoria",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Peoria, Peoria County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 126009,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://abc13.com/story/flash-flood-emergency-occurring-same-texas-region-camp-mystic-tragedy/19519397/",
+        "title": "Flash flood emergency occurring in same Texas region as Camp Mystic tragedy",
+        "source": "ABC13 Houston",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T15:23:15Z",
+        "url": "https://abc13.com/story/flash-flood-emergency-occurring-same-texas-region-camp-mystic-tragedy/19519397/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wsmv.com/2026/07/16/flash-flood-emergency-issued-camp-mystic-disaster-area-rivers-rise-southern-texas/",
+        "title": "Flash flood emergency issued for Camp Mystic disaster area as rivers rise in southern Texas",
+        "source": "WSMV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T14:32:00Z",
+        "url": "https://www.wsmv.com/2026/07/16/flash-flood-emergency-issued-camp-mystic-disaster-area-rivers-rise-southern-texas/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://ny1.com/nyc/all-boroughs/news/2026/07/16/flash-flood-emergencies-in-texas",
+        "title": "Flash flood emergencies declared in Texas Hill Country",
+        "source": "Spectrum News NY1",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T13:43:00Z",
+        "url": "https://ny1.com/nyc/all-boroughs/news/2026/07/16/flash-flood-emergencies-in-texas",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8085436,
+          31.4274044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtnh.com/news/national/live-updates-flash-flood-emergency-in-texas-turns-fatal/",
+        "title": "Live updates: One death confirmed as Flash Flood Emergency continues in Central Texas",
+        "source": "WTNH.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T18:31:18Z",
+        "url": "https://www.wtnh.com/news/national/live-updates-flash-flood-emergency-in-texas-turns-fatal/",
+        "mention_text": "Central Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, Angelina County, Texas, 76969, United States",
+        "osm_type": "hamlet",
+        "osm_id": 151831870,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.628184,
+          30.2404089
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbsaustin.com/news/local/pedernales-river-flooding-near-fredericksburg-for-first-time-since-2018",
+        "title": "Pedernales River hits highest level since 1979, flash flood emergency in place",
+        "source": "KEYE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T18:52:15Z",
+        "url": "https://cbsaustin.com/news/local/pedernales-river-flooding-near-fredericksburg-for-first-time-since-2018",
+        "mention_text": "Pedernales River",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pedernales River, Texas, United States",
+        "osm_type": "river",
+        "osm_id": 20162893,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.99059,
+          37.050096
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nogalesinternational.com/free-access/flash-flood-watch-in-effect-for-santa-cruz-county/article_0acfa1d0-7bde-41ec-a95e-c0b8793ada85.html",
+        "title": "Flash flood watch in effect for Santa Cruz County",
+        "source": "Nogales International",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T17:40:00Z",
+        "url": "https://www.nogalesinternational.com/free-access/flash-flood-watch-in-effect-for-santa-cruz-county/article_0acfa1d0-7bde-41ec-a95e-c0b8793ada85.html",
+        "mention_text": "Santa Cruz County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Santa Cruz County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 7870163,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://spectrumlocalnews.com/nys/buffalo/news/2026/07/16/flash-flood-emergencies-in-texas",
+        "title": "Flash flood emergencies declared in Texas Hill Country",
+        "source": "Spectrum News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T13:43:00Z",
+        "url": "https://spectrumlocalnews.com/nys/buffalo/news/2026/07/16/flash-flood-emergencies-in-texas",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1399464,
+          30.048469
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.conchovalleyhomepage.com/video/july-16-2026-flash-flood-emergency-latest-reports-from-kerrville-uvalde/11979516/",
+        "title": "July 16, 2026 Flash Flood Emergency: Latest reports from Kerrville, Uvalde",
+        "source": "ConchoValleyHomepage.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T23:14:14Z",
+        "url": "https://www.conchovalleyhomepage.com/video/july-16-2026-flash-flood-emergency-latest-reports-from-kerrville-uvalde/11979516/",
+        "mention_text": "Kerrville",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kerrville, Kerr County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 7718574,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9026057,
+          37.3393746
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcdfw.com/video/news/local/texas-news/at-least-1-killed-in-flooding-flash-flood-emergency-issued-as-guadalupe-river-rises/4050476/",
+        "title": "At least 1 killed in flooding; Flash Flood Emergency issued as Guadalupe River rises",
+        "source": "NBC 5 Dallas-Fort Worth",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T16:30:00Z",
+        "url": "https://www.nbcdfw.com/video/news/local/texas-news/at-least-1-killed-in-flooding-flash-flood-emergency-issued-as-guadalupe-river-rises/4050476/",
+        "mention_text": "Guadalupe River",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Guadalupe River, San Jose, Santa Clara County, California, United States",
+        "osm_type": "river",
+        "osm_id": 19804223,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://kutv.com/news/local/national-weather-service-issues-flash-flood-warnings-across-central-southern-utah",
+        "title": "PHOTOS: National Weather Service issues Flash Flood Warnings across central, southern Utah",
+        "source": "KUTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T01:15:27Z",
+        "url": "https://kutv.com/news/local/national-weather-service-issues-flash-flood-warnings-across-central-southern-utah",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5781416,
+          39.100105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kansascity.com/news/weather-news/article316539252.html",
+        "title": "Afternoon storms drench Kansas City; flash flood warning issued",
+        "source": "Kansas City Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T19:25:47Z",
+        "url": "https://www.kansascity.com/news/weather-news/article316539252.html",
+        "mention_text": "Kansas City",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kansas City, Jackson County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 141008,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://ruralradio.com/rrn/abc_news/1-dead-in-texas-hill-country-flash-flood-emergency-governor-says-abcid04ead31e/",
+        "title": "1 dead in Texas Hill Country flash flood emergency, governor says",
+        "source": "Rural Radio Network",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T20:45:44Z",
+        "url": "https://ruralradio.com/rrn/abc_news/1-dead-in-texas-hill-country-flash-flood-emergency-governor-says-abcid04ead31e/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://kfor.com/video/third-oklahoma-swift-water-rescue-team-heading-to-texas/11978873/",
+        "title": "Third Oklahoma swift water rescue team heading to Texas",
+        "source": "KFOR.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T21:26:34Z",
+        "url": "https://kfor.com/video/third-oklahoma-swift-water-rescue-team-heading-to-texas/11978873/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2643033,
+          36.5798257
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kens5.com/video/news/live-radar-tracking-storms-ongoing-flash-flood-warnings-hill-country-san-antonio/273-f85e8688-21ae-4fd2-a017-ba86f73c26ad",
+        "title": "LIVE RADAR: Tracking storms amid ongoing flash flood warnings in Hill Country",
+        "source": "kens5.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T22:05:00Z",
+        "url": "https://www.kens5.com/video/news/live-radar-tracking-storms-ongoing-flash-flood-warnings-hill-country-san-antonio/273-f85e8688-21ae-4fd2-a017-ba86f73c26ad",
+        "mention_text": "Hill Country",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hill Country, Walnut Hill, Sullivan County, East Tennessee, Tennessee, 37621, United States",
+        "osm_type": "neighbourhood",
+        "osm_id": 154113248,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.628184,
+          30.2404089
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kvue.com/article/weather/severe-weather/flash-flood-emergency-issued-thursday-for-areas-along-pedernales-river-in-gillespie-and-blanco-county/269-2c2d176e-7329-4860-9756-e72b6b1d805c",
+        "title": "Flash Flood Emergency issued Thursday for areas along Pedernales River in Gillespie and Blanco County",
+        "source": "KVUE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T13:54:00Z",
+        "url": "https://www.kvue.com/article/weather/severe-weather/flash-flood-emergency-issued-thursday-for-areas-along-pedernales-river-in-gillespie-and-blanco-county/269-2c2d176e-7329-4860-9756-e72b6b1d805c",
+        "mention_text": "Pedernales River",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pedernales River, Texas, United States",
+        "osm_type": "river",
+        "osm_id": 20162893,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9086643,
+          30.2954086
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kvue.com/article/weather/severe-weather/flash-flood-emergency-issued-thursday-for-areas-along-pedernales-river-in-gillespie-and-blanco-county/269-2c2d176e-7329-4860-9756-e72b6b1d805c",
+        "title": "Flash Flood Emergency issued Thursday for areas along Pedernales River in Gillespie and Blanco County",
+        "source": "KVUE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T13:54:00Z",
+        "url": "https://www.kvue.com/article/weather/severe-weather/flash-flood-emergency-issued-thursday-for-areas-along-pedernales-river-in-gillespie-and-blanco-county/269-2c2d176e-7329-4860-9756-e72b6b1d805c",
+        "mention_text": "Gillespie",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Gillespie County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1827125,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4004594,
+          30.2419274
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kvue.com/article/weather/severe-weather/flash-flood-emergency-issued-thursday-for-areas-along-pedernales-river-in-gillespie-and-blanco-county/269-2c2d176e-7329-4860-9756-e72b6b1d805c",
+        "title": "Flash Flood Emergency issued Thursday for areas along Pedernales River in Gillespie and Blanco County",
+        "source": "KVUE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T13:54:00Z",
+        "url": "https://www.kvue.com/article/weather/severe-weather/flash-flood-emergency-issued-thursday-for-areas-along-pedernales-river-in-gillespie-and-blanco-county/269-2c2d176e-7329-4860-9756-e72b6b1d805c",
+        "mention_text": "Blanco County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Blanco County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 91933,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://newscord.org/article/texas-gov-greg-abbott-confirms-two-deaths-in-kerrville-flash-flood-emergency--Story_20260716_Atleast2deadincatastfeac574f",
+        "title": "Texas Gov. Greg Abbott Confirms Two Deaths In Kerrville Flash Flood Emergency: 27 Sources (Western Mainstream: 8)",
+        "source": "NewsCord",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T23:47:56Z",
+        "url": "https://newscord.org/article/texas-gov-greg-abbott-confirms-two-deaths-in-kerrville-flash-flood-emergency--Story_20260716_Atleast2deadincatastfeac574f",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8085436,
+          31.4274044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.conchovalleyhomepage.com/video/helicopter-responds-during-flash-flood-emergency-in-central-texas/11977365/",
+        "title": "Helicopter responds during Flash Flood Emergency in Central Texas",
+        "source": "ConchoValleyHomepage.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T15:16:00Z",
+        "url": "https://www.conchovalleyhomepage.com/video/helicopter-responds-during-flash-flood-emergency-in-central-texas/11977365/",
+        "mention_text": "Central Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, Angelina County, Texas, 76969, United States",
+        "osm_type": "hamlet",
+        "osm_id": 151831870,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4041622,
+          40.0757384
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/severe-thunderstorm-warnings-issued-2-212658016.html",
+        "title": "Severe thunderstorm warnings, flash flood alert issued in 2 N.J. counties, with more spotty storms possible tonight",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T01:45:00Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/severe-thunderstorm-warnings-issued-2-212658016.html",
+        "mention_text": "N.J.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 224951,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9050337,
+          29.967715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kens5.com/article/news/local/texas/family-reunion-comfort-flood-evacuation-guadalupe-river-rises-flash-flooding/273-43cc6651-15e9-4780-99c3-8f0ca91f0acd",
+        "title": "'We all rallied together': Family reunion in Comfort turns into flood evacuation as Guadalupe River rises",
+        "source": "kens5.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T23:54:00Z",
+        "url": "https://www.kens5.com/article/news/local/texas/family-reunion-comfort-flood-evacuation-guadalupe-river-rises-flash-flooding/273-43cc6651-15e9-4780-99c3-8f0ca91f0acd",
+        "mention_text": "Comfort",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Comfort, Kendall County, Texas, 70813, United States",
+        "osm_type": "town",
+        "osm_id": 151518224,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9026057,
+          37.3393746
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kens5.com/article/news/local/texas/family-reunion-comfort-flood-evacuation-guadalupe-river-rises-flash-flooding/273-43cc6651-15e9-4780-99c3-8f0ca91f0acd",
+        "title": "'We all rallied together': Family reunion in Comfort turns into flood evacuation as Guadalupe River rises",
+        "source": "kens5.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T23:54:00Z",
+        "url": "https://www.kens5.com/article/news/local/texas/family-reunion-comfort-flood-evacuation-guadalupe-river-rises-flash-flooding/273-43cc6651-15e9-4780-99c3-8f0ca91f0acd",
+        "mention_text": "Guadalupe River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Guadalupe River, San Jose, Santa Clara County, California, United States",
+        "osm_type": "river",
+        "osm_id": 19804223,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article316542410.html",
+        "title": "UPDATE: San Diego County placed under a flood advisory Thursday evening",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T23:10:05Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article316542410.html",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0372472,
+          33.7219991
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article316542427.html",
+        "title": "Flood advisory in place for Riverside County Thursday evening due to substantial rain",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T22:34:08Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article316542427.html",
+        "mention_text": "Riverside County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Riverside County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396495,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1399464,
+          30.048469
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kxan.com/video/july-16-2026-flash-flood-emergency-latest-reports-from-kerrville-uvalde/11979516/",
+        "title": "July 16, 2026 Flash Flood Emergency: Latest reports from Kerrville, Uvalde",
+        "source": "KXAN Austin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T23:14:14Z",
+        "url": "https://www.kxan.com/video/july-16-2026-flash-flood-emergency-latest-reports-from-kerrville-uvalde/11979516/",
+        "mention_text": "Kerrville",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kerrville, Kerr County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 7718574,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0372472,
+          33.7219991
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.redlandsdailyfacts.com/2026/07/16/flood-advisory-in-place-for-riverside-county-thursday-evening-due-to-heavy-rain/",
+        "title": "Flood advisory in place for Riverside County Thursday evening due to heavy rain",
+        "source": "Redlands Daily Facts",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T03:18:06Z",
+        "url": "https://www.redlandsdailyfacts.com/2026/07/16/flood-advisory-in-place-for-riverside-county-thursday-evening-due-to-heavy-rain/",
+        "mention_text": "Riverside County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Riverside County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396495,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.weau.com/2026/07/16/flash-flood-emergency-issued-camp-mystic-disaster-area-rivers-rise-southern-texas/",
+        "title": "Flash flood emergency issued for Camp Mystic disaster area as rivers rise in southern Texas",
+        "source": "WEAU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T14:32:00Z",
+        "url": "https://www.weau.com/2026/07/16/flash-flood-emergency-issued-camp-mystic-disaster-area-rivers-rise-southern-texas/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7215681,
+          29.9757312
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kxan.com/video/flooded-road-in-sisterdale-texas-july-16/11978299/",
+        "title": "Flooded road in Sisterdale, Texas | July 16",
+        "source": "KXAN Austin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T19:06:00Z",
+        "url": "https://www.kxan.com/video/flooded-road-in-sisterdale-texas-july-16/11978299/",
+        "mention_text": "Sisterdale",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Sisterdale, Kendall County, Texas, United States",
+        "osm_type": "suburb",
+        "osm_id": 151962825,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kxan.com/video/flooded-road-in-sisterdale-texas-july-16/11978299/",
+        "title": "Flooded road in Sisterdale, Texas | July 16",
+        "source": "KXAN Austin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T19:06:00Z",
+        "url": "https://www.kxan.com/video/flooded-road-in-sisterdale-texas-july-16/11978299/",
+        "mention_text": "Texas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9026057,
+          37.3393746
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox7austin.com/video/fmc-ga7edu6yt2m7ll4h",
+        "title": "Kerrville Flash Flood Emergency: Guadalupe River Rising",
+        "source": "FOX 7 Austin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T14:19:11Z",
+        "url": "https://www.fox7austin.com/video/fmc-ga7edu6yt2m7ll4h",
+        "mention_text": "Guadalupe River",
+        "flood_type": "flash_flood",
+        "confidence": 0.75,
+        "osm_display": "Guadalupe River, San Jose, Santa Clara County, California, United States",
+        "osm_type": "river",
+        "osm_id": 19804223,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.49123,
+          33.34883
+        ]
+      },
+      "properties": {
+        "article_id": "https://inmaricopa.com/flood-advisory-issued-for-parts-of-maricopa-and-pinal/",
+        "title": "Flood advisory issued for parts of Maricopa",
+        "source": "InMaricopa.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T01:28:56Z",
+        "url": "https://inmaricopa.com/flood-advisory-issued-for-parts-of-maricopa-and-pinal/",
+        "mention_text": "Maricopa",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Maricopa County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832201,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thecooldown.com/outdoors/texas-hill-country-flood-emergency-rescue-efforts/",
+        "title": "Texas flash flood emergency swamps homes, and leaves Kerr County residents stranded",
+        "source": "The Cool Down",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T07:27:00Z",
+        "url": "https://www.thecooldown.com/outdoors/texas-hill-country-flood-emergency-rescue-efforts/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3884839,
+          30.045717
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thecooldown.com/outdoors/texas-hill-country-flood-emergency-rescue-efforts/",
+        "title": "Texas flash flood emergency swamps homes, and leaves Kerr County residents stranded",
+        "source": "The Cool Down",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T07:27:00Z",
+        "url": "https://www.thecooldown.com/outdoors/texas-hill-country-flood-emergency-rescue-efforts/",
+        "mention_text": "Kerr County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kerr County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1827126,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7215681,
+          29.9757312
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.conchovalleyhomepage.com/video/flooded-road-in-sisterdale-texas-july-16/11978299/",
+        "title": "Flooded road in Sisterdale, Texas | July 16",
+        "source": "ConchoValleyHomepage.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T19:06:00Z",
+        "url": "https://www.conchovalleyhomepage.com/video/flooded-road-in-sisterdale-texas-july-16/11978299/",
+        "mention_text": "Sisterdale",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Sisterdale, Kendall County, Texas, United States",
+        "osm_type": "suburb",
+        "osm_id": 151962825,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.conchovalleyhomepage.com/video/flooded-road-in-sisterdale-texas-july-16/11978299/",
+        "title": "Flooded road in Sisterdale, Texas | July 16",
+        "source": "ConchoValleyHomepage.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T19:06:00Z",
+        "url": "https://www.conchovalleyhomepage.com/video/flooded-road-in-sisterdale-texas-july-16/11978299/",
+        "mention_text": "Texas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8035409,
+          42.844176
+        ]
+      },
+      "properties": {
+        "article_id": "https://herald-zeitung.com/news/mandatory-flood-evacuation-issued-along-river-from-guadalupe-state-park-to-fm-311-in-comal/article_0c5386a7-cf29-497d-a2a3-465d2d92fa06.html",
+        "title": "Mandatory flood evacuation issued along river from Guadalupe State Park to FM 311 in Comal County",
+        "source": "Herald-Zeitung",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T23:13:00Z",
+        "url": "https://herald-zeitung.com/news/mandatory-flood-evacuation-issued-along-river-from-guadalupe-state-park-to-fm-311-in-comal/article_0c5386a7-cf29-497d-a2a3-465d2d92fa06.html",
+        "mention_text": "Guadalupe State Park",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Guadalupe Pass, Town of Clifton Park, Saratoga County, New York, 12065, United States",
+        "osm_type": "residential",
+        "osm_id": 5650043,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2690787,
+          29.7979704
+        ]
+      },
+      "properties": {
+        "article_id": "https://herald-zeitung.com/news/mandatory-flood-evacuation-issued-along-river-from-guadalupe-state-park-to-fm-311-in-comal/article_0c5386a7-cf29-497d-a2a3-465d2d92fa06.html",
+        "title": "Mandatory flood evacuation issued along river from Guadalupe State Park to FM 311 in Comal County",
+        "source": "Herald-Zeitung",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T23:13:00Z",
+        "url": "https://herald-zeitung.com/news/mandatory-flood-evacuation-issued-along-river-from-guadalupe-state-park-to-fm-311-in-comal/article_0c5386a7-cf29-497d-a2a3-465d2d92fa06.html",
+        "mention_text": "Comal County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Comal County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 91911,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.komu.com/news/nationworld/flash-flood-emergency-issued-in-southern-texas-around-camp-mystic-area/article_2c6a56f1-3de6-58fe-93cc-3274ddd63ddd.amp.html",
+        "title": "Flash flood emergency issued in southern Texas around Camp Mystic area",
+        "source": "KOMU 8",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T15:58:00Z",
+        "url": "https://www.komu.com/news/nationworld/flash-flood-emergency-issued-in-southern-texas-around-camp-mystic-area/article_2c6a56f1-3de6-58fe-93cc-3274ddd63ddd.amp.html",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3706164,
+          30.009346
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.komu.com/news/nationworld/flash-flood-emergency-issued-in-southern-texas-around-camp-mystic-area/article_2c6a56f1-3de6-58fe-93cc-3274ddd63ddd.amp.html",
+        "title": "Flash flood emergency issued in southern Texas around Camp Mystic area",
+        "source": "KOMU 8",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T15:58:00Z",
+        "url": "https://www.komu.com/news/nationworld/flash-flood-emergency-issued-in-southern-texas-around-camp-mystic-area/article_2c6a56f1-3de6-58fe-93cc-3274ddd63ddd.amp.html",
+        "mention_text": "Camp Mystic",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Camp Mystic Guadalupe River, 2689, State Highway 39, Hunt, Kerr County, Texas, 78024, United States",
+        "osm_type": "summer_camp",
+        "osm_id": 581009591,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.628184,
+          30.2404089
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kvue.com/video/news/live_breaking/live-flash-flood-emergency-issued-for-pedernales-river-in-gillespie-and-blanco-counties/269-2d96ad07-d74e-42b0-8959-c01aa1ae01d1",
+        "title": "LIVE: Flash Flood Emergency issued for Pedernales River in Gillespie and Blanco Counties",
+        "source": "KVUE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T13:58:00Z",
+        "url": "https://www.kvue.com/video/news/live_breaking/live-flash-flood-emergency-issued-for-pedernales-river-in-gillespie-and-blanco-counties/269-2d96ad07-d74e-42b0-8959-c01aa1ae01d1",
+        "mention_text": "Pedernales River",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pedernales River, Texas, United States",
+        "osm_type": "river",
+        "osm_id": 20162893,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9086643,
+          30.2954086
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kvue.com/video/news/live_breaking/live-flash-flood-emergency-issued-for-pedernales-river-in-gillespie-and-blanco-counties/269-2d96ad07-d74e-42b0-8959-c01aa1ae01d1",
+        "title": "LIVE: Flash Flood Emergency issued for Pedernales River in Gillespie and Blanco Counties",
+        "source": "KVUE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T13:58:00Z",
+        "url": "https://www.kvue.com/video/news/live_breaking/live-flash-flood-emergency-issued-for-pedernales-river-in-gillespie-and-blanco-counties/269-2d96ad07-d74e-42b0-8959-c01aa1ae01d1",
+        "mention_text": "Gillespie",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Gillespie County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1827125,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1399464,
+          30.048469
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcdfw.com/weather/weather-connection/flash-flood-emergency-issued-in-kerrville-area-as-guadalupe-river-rises-16-feet-in-30-minutes/4050312/?amp=1",
+        "title": "Flash Flood Emergency issued in Kerrville area as Guadalupe River rises 16 feet in 30 minutes",
+        "source": "NBC 5 Dallas-Fort Worth",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T11:40:41Z",
+        "url": "https://www.nbcdfw.com/weather/weather-connection/flash-flood-emergency-issued-in-kerrville-area-as-guadalupe-river-rises-16-feet-in-30-minutes/4050312/?amp=1",
+        "mention_text": "Kerrville",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kerrville, Kerr County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 7718574,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9026057,
+          37.3393746
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcdfw.com/weather/weather-connection/flash-flood-emergency-issued-in-kerrville-area-as-guadalupe-river-rises-16-feet-in-30-minutes/4050312/?amp=1",
+        "title": "Flash Flood Emergency issued in Kerrville area as Guadalupe River rises 16 feet in 30 minutes",
+        "source": "NBC 5 Dallas-Fort Worth",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T11:40:41Z",
+        "url": "https://www.nbcdfw.com/weather/weather-connection/flash-flood-emergency-issued-in-kerrville-area-as-guadalupe-river-rises-16-feet-in-30-minutes/4050312/?amp=1",
+        "mention_text": "Guadalupe River",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Guadalupe River, San Jose, Santa Clara County, California, United States",
+        "osm_type": "river",
+        "osm_id": 19804223,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7215681,
+          29.9757312
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox21news.com/video/flooded-road-in-sisterdale-texas-july-16/11978299/",
+        "title": "Flooded road in Sisterdale, Texas | July 16",
+        "source": "FOX21 News Colorado",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T20:28:15Z",
+        "url": "https://www.fox21news.com/video/flooded-road-in-sisterdale-texas-july-16/11978299/",
+        "mention_text": "Sisterdale",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Sisterdale, Kendall County, Texas, United States",
+        "osm_type": "suburb",
+        "osm_id": 151962825,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox21news.com/video/flooded-road-in-sisterdale-texas-july-16/11978299/",
+        "title": "Flooded road in Sisterdale, Texas | July 16",
+        "source": "FOX21 News Colorado",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T20:28:15Z",
+        "url": "https://www.fox21news.com/video/flooded-road-in-sisterdale-texas-july-16/11978299/",
+        "mention_text": "Texas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8085436,
+          31.4274044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kxan.com/video/helicopter-responds-during-flash-flood-emergency-in-central-texas/11977365/",
+        "title": "Helicopter responds during Flash Flood Emergency in Central Texas",
+        "source": "KXAN Austin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T15:16:00Z",
+        "url": "https://www.kxan.com/video/helicopter-responds-during-flash-flood-emergency-in-central-texas/11977365/",
+        "mention_text": "Central Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, Angelina County, Texas, 76969, United States",
+        "osm_type": "hamlet",
+        "osm_id": 151831870,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.7733181,
+          29.300357
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kens5.com/article/news/local/flash-flood-emergency-uvalde-county-highway-83-leona-river-frio-sabinal-nueces-water-rescues-evacuations-flooded-roads-heavy-rain/273-229a8460-3441-486c-90d6-1aef39d2d8c9",
+        "title": "Flash Flood Emergency issued for Uvalde County as rivers rise and roads flood",
+        "source": "kens5.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T10:03:00Z",
+        "url": "https://www.kens5.com/article/news/local/flash-flood-emergency-uvalde-county-highway-83-leona-river-frio-sabinal-nueces-water-rescues-evacuations-flooded-roads-heavy-rain/273-229a8460-3441-486c-90d6-1aef39d2d8c9",
+        "mention_text": "Uvalde County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Uvalde County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1827044,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3884839,
+          30.045717
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kxan.com/news/texas/flash-flood-emergency-in-texas-as-rain-continues-to-pound-kerr-county-south-texas/",
+        "title": "Flash Flood emergency in Kerr County as rain continues to pound Texas",
+        "source": "KXAN Austin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T09:58:16Z",
+        "url": "https://www.kxan.com/news/texas/flash-flood-emergency-in-texas-as-rain-continues-to-pound-kerr-county-south-texas/",
+        "mention_text": "Kerr County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kerr County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1827126,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kxan.com/news/texas/flash-flood-emergency-in-texas-as-rain-continues-to-pound-kerr-county-south-texas/",
+        "title": "Flash Flood emergency in Kerr County as rain continues to pound Texas",
+        "source": "KXAN Austin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T09:58:16Z",
+        "url": "https://www.kxan.com/news/texas/flash-flood-emergency-in-texas-as-rain-continues-to-pound-kerr-county-south-texas/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8085436,
+          31.4274044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwlp.com/video/helicopter-responds-during-flash-flood-emergency-in-central-texas/11977365/",
+        "title": "Helicopter responds during Flash Flood Emergency in Central Texas",
+        "source": "WWLP",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T15:16:00Z",
+        "url": "https://www.wwlp.com/video/helicopter-responds-during-flash-flood-emergency-in-central-texas/11977365/",
+        "mention_text": "Central Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, Angelina County, Texas, 76969, United States",
+        "osm_type": "hamlet",
+        "osm_id": 151831870,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.628184,
+          30.2404089
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kvue.com/video/news/local/flash-flood-emergency-thursday-pedernales-river-gillespie-and-blanco-counties/269-69fc372c-335a-428c-bc52-9541e9cd5432",
+        "title": "Flash Flood Emergency issued Thursday along Pedernales River in Gillespie, Blanco counties",
+        "source": "KVUE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T14:07:00Z",
+        "url": "https://www.kvue.com/video/news/local/flash-flood-emergency-thursday-pedernales-river-gillespie-and-blanco-counties/269-69fc372c-335a-428c-bc52-9541e9cd5432",
+        "mention_text": "Pedernales River",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pedernales River, Texas, United States",
+        "osm_type": "river",
+        "osm_id": 20162893,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9086643,
+          30.2954086
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kvue.com/video/news/local/flash-flood-emergency-thursday-pedernales-river-gillespie-and-blanco-counties/269-69fc372c-335a-428c-bc52-9541e9cd5432",
+        "title": "Flash Flood Emergency issued Thursday along Pedernales River in Gillespie, Blanco counties",
+        "source": "KVUE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T14:07:00Z",
+        "url": "https://www.kvue.com/video/news/local/flash-flood-emergency-thursday-pedernales-river-gillespie-and-blanco-counties/269-69fc372c-335a-428c-bc52-9541e9cd5432",
+        "mention_text": "Gillespie",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Gillespie County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1827125,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4004594,
+          30.2419274
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kvue.com/video/news/local/flash-flood-emergency-thursday-pedernales-river-gillespie-and-blanco-counties/269-69fc372c-335a-428c-bc52-9541e9cd5432",
+        "title": "Flash Flood Emergency issued Thursday along Pedernales River in Gillespie, Blanco counties",
+        "source": "KVUE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T14:07:00Z",
+        "url": "https://www.kvue.com/video/news/local/flash-flood-emergency-thursday-pedernales-river-gillespie-and-blanco-counties/269-69fc372c-335a-428c-bc52-9541e9cd5432",
+        "mention_text": "Blanco",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Blanco County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 91933,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8085436,
+          31.4274044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox21news.com/video/helicopter-responds-during-flash-flood-emergency-in-central-texas/11977365/",
+        "title": "Helicopter responds during Flash Flood Emergency in Central Texas",
+        "source": "FOX21 News Colorado",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T15:16:00Z",
+        "url": "https://www.fox21news.com/video/helicopter-responds-during-flash-flood-emergency-in-central-texas/11977365/",
+        "mention_text": "Central Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, Angelina County, Texas, 76969, United States",
+        "osm_type": "hamlet",
+        "osm_id": 151831870,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.khou.com/video/news/local/texas/watch-automated-flood-sirens-wake-campers-during-texas-flash-flood-emergency/285-81939491-62c2-436d-8735-8d331965db5a",
+        "title": "Watch: Automated flood sirens wake campers during Texas Flash Flood Emergency",
+        "source": "KHOU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T18:36:00Z",
+        "url": "https://www.khou.com/video/news/local/texas/watch-automated-flood-sirens-wake-campers-during-texas-flash-flood-emergency/285-81939491-62c2-436d-8735-8d331965db5a",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/severe-weather/flash-flood-emergency-underway-in-texas-hill-country-after-rivers-surge-from-extreme-rain/1911997",
+        "title": "Flash flood emergency underway in Texas Hill Country after rivers surge from extreme rain",
+        "source": "AccuWeather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T15:42:05Z",
+        "url": "https://www.accuweather.com/en/severe-weather/flash-flood-emergency-underway-in-texas-hill-country-after-rivers-surge-from-extreme-rain/1911997",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8085436,
+          31.4274044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kxan.com/news/texas/flash-flood-emergency-in-texas-thursday-july-16-2026/",
+        "title": "Live updates: Two deaths confirmed as Flash Flood Emergency continues in Central Texas",
+        "source": "KXAN Austin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T09:58:16Z",
+        "url": "https://www.kxan.com/news/texas/flash-flood-emergency-in-texas-thursday-july-16-2026/",
+        "mention_text": "Central Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, Angelina County, Texas, 76969, United States",
+        "osm_type": "hamlet",
+        "osm_id": 151831870,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8085436,
+          31.4274044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.borderreport.com/news/live-updates-one-death-confirmed-as-flash-flood-emergency-continues-in-central-texas/amp/",
+        "title": "Live updates: One death confirmed as Flash Flood Emergency continues in Central Texas",
+        "source": "BorderReport",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T14:31:25Z",
+        "url": "https://www.borderreport.com/news/live-updates-one-death-confirmed-as-flash-flood-emergency-continues-in-central-texas/amp/",
+        "mention_text": "Central Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, Angelina County, Texas, 76969, United States",
+        "osm_type": "hamlet",
+        "osm_id": 151831870,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3884839,
+          30.045717
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kxan.com/news/flash-flood-emergency-in-kerr-county-heavy-rain/",
+        "title": "Flash Flood Emergency in Kerr County, heavy rain",
+        "source": "KXAN Austin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T10:34:58Z",
+        "url": "https://www.kxan.com/news/flash-flood-emergency-in-kerr-county-heavy-rain/",
+        "mention_text": "Kerr County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kerr County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1827126,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://upnorthlive.com/news/nation-world/gallery-historic-texas-flood-emergency-grows-as-high-water-rescues-mount-evacuations-expand-uvalde-search-and-rescue-game-wardens-guadalupe-river-camp-mystic-national-weather-service-rainfall-gov-greg-abbott-disaster-declaration",
+        "title": "GALLERY: Texas flood emergency grows as high-water rescues mount, evacuations expand",
+        "source": "WPBN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T13:23:40Z",
+        "url": "https://upnorthlive.com/news/nation-world/gallery-historic-texas-flood-emergency-grows-as-high-water-rescues-mount-evacuations-expand-uvalde-search-and-rescue-game-wardens-guadalupe-river-camp-mystic-national-weather-service-rainfall-gov-greg-abbott-disaster-declaration",
+        "mention_text": "Texas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3884839,
+          30.045717
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-yzcxoto2d8ns3e2k",
+        "title": "Flash Flood Emergency issued for Kerr County as life-threatening floods slam Texas Hill Country",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T09:42:23Z",
+        "url": "https://www.foxweather.com/watch/fmc-yzcxoto2d8ns3e2k",
+        "mention_text": "Kerr County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kerr County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1827126,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3884839,
+          30.045717
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ksat.com/video/news/2026/07/16/evacuations-underway-in-kerr-county-amid-flash-flood-emergency/",
+        "title": "Evacuations underway in Kerr County amid Flash Flood Emergency",
+        "source": "KSAT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T11:27:32Z",
+        "url": "https://www.ksat.com/video/news/2026/07/16/evacuations-underway-in-kerr-county-amid-flash-flood-emergency/",
+        "mention_text": "Kerr County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kerr County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1827126,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3884839,
+          30.045717
+        ]
+      },
+      "properties": {
+        "article_id": "https://cw39.com/news/texas/live-updates-flash-flood-emergency-in-kerr-county-as-rain-continues-to-pound-texas/",
+        "title": "Live updates: Flash Flood emergency in Kerr County as rain continues to pound Texas",
+        "source": "CW39 Houston",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T11:47:15Z",
+        "url": "https://cw39.com/news/texas/live-updates-flash-flood-emergency-in-kerr-county-as-rain-continues-to-pound-texas/",
+        "mention_text": "Kerr County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kerr County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1827126,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://cw39.com/news/texas/live-updates-flash-flood-emergency-in-kerr-county-as-rain-continues-to-pound-texas/",
+        "title": "Live updates: Flash Flood emergency in Kerr County as rain continues to pound Texas",
+        "source": "CW39 Houston",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T11:47:15Z",
+        "url": "https://cw39.com/news/texas/live-updates-flash-flood-emergency-in-kerr-county-as-rain-continues-to-pound-texas/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.628184,
+          30.2404089
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fredericksburgstandard.com/news/article_1c35076e-c874-40cc-a2d3-484414d6f20b.html",
+        "title": "Flash flood emergency issued for Pedernales River; SH 16 South closed as river rises",
+        "source": "fredericksburgstandard.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T14:47:00Z",
+        "url": "https://www.fredericksburgstandard.com/news/article_1c35076e-c874-40cc-a2d3-484414d6f20b.html",
+        "mention_text": "Pedernales River",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pedernales River, Texas, United States",
+        "osm_type": "river",
+        "osm_id": 20162893,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3884839,
+          30.045717
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ksat.com/video/news/2026/07/16/flash-flood-emergency-issued-for-kerr-county/",
+        "title": "Flash Flood Emergency issued for Kerr County",
+        "source": "KSAT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T10:29:59Z",
+        "url": "https://www.ksat.com/video/news/2026/07/16/flash-flood-emergency-issued-for-kerr-county/",
+        "mention_text": "Kerr County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kerr County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1827126,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9026057,
+          37.3393746
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ksat.com/video/news/2026/07/16/guadalupe-river-rises-in-comfort-amid-flash-flood-emergency/",
+        "title": "Guadalupe River rises in Comfort amid Flash Flood Emergency",
+        "source": "KSAT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T12:14:03Z",
+        "url": "https://www.ksat.com/video/news/2026/07/16/guadalupe-river-rises-in-comfort-amid-flash-flood-emergency/",
+        "mention_text": "Guadalupe River",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Guadalupe River, San Jose, Santa Clara County, California, United States",
+        "osm_type": "river",
+        "osm_id": 19804223,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9050337,
+          29.967715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ksat.com/video/news/2026/07/16/guadalupe-river-rises-in-comfort-amid-flash-flood-emergency/",
+        "title": "Guadalupe River rises in Comfort amid Flash Flood Emergency",
+        "source": "KSAT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T12:14:03Z",
+        "url": "https://www.ksat.com/video/news/2026/07/16/guadalupe-river-rises-in-comfort-amid-flash-flood-emergency/",
+        "mention_text": "Comfort",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Comfort, Kendall County, Texas, 70813, United States",
+        "osm_type": "town",
+        "osm_id": 151518224,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4030376,
+          37.7887644
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article316532292.html",
+        "title": "The current coastal flood advisory for Northern California will expire at 4 a.m.",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T10:51:08Z",
+        "url": "https://www.modbee.com/news/weather-news/article316532292.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "First National Bank of Northern California, Post Street, Union Square, Financial District, South of Market, San Francisco, California, 94104, United States",
+        "osm_type": "bank",
+        "osm_id": 32946665,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wane.com/news/national-world/live-updates-flash-flood-emergency-in-texas-turns-fatal/amp/",
+        "title": "Live updates: Flash Flood Emergency in Texas turns fatal",
+        "source": "WANE 15",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T14:30:32Z",
+        "url": "https://www.wane.com/news/national-world/live-updates-flash-flood-emergency-in-texas-turns-fatal/amp/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1399464,
+          30.048469
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/watch-flooded-guadalupe-river-rushes-224510961.html",
+        "title": "Watch: Flooded Guadalupe River rushes through Kerrville during Flash Flood Emergency",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T22:45:10Z",
+        "url": "https://www.yahoo.com/news/videos/watch-flooded-guadalupe-river-rushes-224510961.html",
+        "mention_text": "Kerrville",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kerrville, Kerr County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 7718574,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1399464,
+          30.048469
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/july-16-2026-flash-flood-231414708.html",
+        "title": "July 16, 2026 Flash Flood Emergency: Latest reports from Kerrville, Uvalde",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T23:14:14Z",
+        "url": "https://www.yahoo.com/news/videos/july-16-2026-flash-flood-231414708.html",
+        "mention_text": "Kerrville",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kerrville, Kerr County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 7718574,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3884839,
+          30.045717
+        ]
+      },
+      "properties": {
+        "article_id": "https://dallasexpress.com/state/flash-flood-emergency-issued-along-guadalupe-river-as-rescues-underway-in-kerr-county/",
+        "title": "Flash Flood Emergency Issued Along Guadalupe River As Rescues Underway In Kerr County",
+        "source": "Dallas Express",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T15:44:45Z",
+        "url": "https://dallasexpress.com/state/flash-flood-emergency-issued-along-guadalupe-river-as-rescues-underway-in-kerr-county/",
+        "mention_text": "Kerr County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kerr County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1827126,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1399464,
+          30.048469
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.khou.com/video/weather/flash-flood-emergency-kerrville-ingram-texas/285-1fe6aac0-e0ce-403a-97ee-012f860305e2",
+        "title": "Flash Flood Emergency issued for Kerrville, Ingram area of Texas Thursday morning",
+        "source": "KHOU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T10:09:00Z",
+        "url": "https://www.khou.com/video/weather/flash-flood-emergency-kerrville-ingram-texas/285-1fe6aac0-e0ce-403a-97ee-012f860305e2",
+        "mention_text": "Kerrville",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kerrville, Kerr County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 7718574,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.khou.com/video/weather/flash-flood-emergency-kerrville-ingram-texas/285-1fe6aac0-e0ce-403a-97ee-012f860305e2",
+        "title": "Flash Flood Emergency issued for Kerrville, Ingram area of Texas Thursday morning",
+        "source": "KHOU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T10:09:00Z",
+        "url": "https://www.khou.com/video/weather/flash-flood-emergency-kerrville-ingram-texas/285-1fe6aac0-e0ce-403a-97ee-012f860305e2",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8085436,
+          31.4274044
+        ]
+      },
+      "properties": {
+        "article_id": "https://pix11.com/video/helicopter-responds-during-flash-flood-emergency-in-central-texas/11977365/",
+        "title": "Helicopter responds during Flash Flood Emergency in Central Texas",
+        "source": "PIX11",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T15:16:00Z",
+        "url": "https://pix11.com/video/helicopter-responds-during-flash-flood-emergency-in-central-texas/11977365/",
+        "mention_text": "Central Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, Angelina County, Texas, 76969, United States",
+        "osm_type": "hamlet",
+        "osm_id": 151831870,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/severe-weather/flash-flood-emergency-underway-in-texas-hill-country-after-guadalupe-river-surges-32-feet/1911997",
+        "title": "Flash flood emergency underway in Texas Hill Country after Guadalupe River surges 32 feet",
+        "source": "AccuWeather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T11:45:32Z",
+        "url": "https://www.accuweather.com/en/severe-weather/flash-flood-emergency-underway-in-texas-hill-country-after-guadalupe-river-surges-32-feet/1911997",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9026057,
+          37.3393746
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/severe-weather/flash-flood-emergency-underway-in-texas-hill-country-after-guadalupe-river-surges-32-feet/1911997",
+        "title": "Flash flood emergency underway in Texas Hill Country after Guadalupe River surges 32 feet",
+        "source": "AccuWeather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T11:45:32Z",
+        "url": "https://www.accuweather.com/en/severe-weather/flash-flood-emergency-underway-in-texas-hill-country-after-guadalupe-river-surges-32-feet/1911997",
+        "mention_text": "Guadalupe River",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Guadalupe River, San Jose, Santa Clara County, California, United States",
+        "osm_type": "river",
+        "osm_id": 19804223,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1399464,
+          30.048469
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/immediate-danger-flash-flood-emergency-113814954.html",
+        "title": "'Immediate danger' flash flood emergency issued for Kerrville, Hunt and Ingram",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T11:38:14Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/immediate-danger-flash-flood-emergency-113814954.html",
+        "mention_text": "Kerrville",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kerrville, Kerr County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 7718574,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9026057,
+          37.3393746
+        ]
+      },
+      "properties": {
+        "article_id": "https://kerrcountylead.com/guadalupe-river-flood-emergency-intensifies-at-center-point-catastrophic-damage-threat-as-more-rain-looms/",
+        "title": "Guadalupe River flood emergency intensifies at Center Point; catastrophic damage threat as more rain looms",
+        "source": "The Kerr County Lead",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T10:52:53Z",
+        "url": "https://kerrcountylead.com/guadalupe-river-flood-emergency-intensifies-at-center-point-catastrophic-damage-threat-as-more-rain-looms/",
+        "mention_text": "Guadalupe River",
+        "flood_type": "riverine",
+        "confidence": 0.9,
+        "osm_display": "Guadalupe River, San Jose, Santa Clara County, California, United States",
+        "osm_type": "river",
+        "osm_id": 19804223,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9026057,
+          37.3393746
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.khou.com/video/news/local/texas/guadalupe-river-deadly-flood-wave-flash-flood-emergency/285-514cdf5b-c4a1-48f1-9cc2-3b5e3c69e170",
+        "title": "Flash Flood Emergency issued as deadly flood wave moves down Guadalupe River",
+        "source": "KHOU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T11:37:00Z",
+        "url": "https://www.khou.com/video/news/local/texas/guadalupe-river-deadly-flood-wave-flash-flood-emergency/285-514cdf5b-c4a1-48f1-9cc2-3b5e3c69e170",
+        "mention_text": "Guadalupe River",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Guadalupe River, San Jose, Santa Clara County, California, United States",
+        "osm_type": "river",
+        "osm_id": 19804223,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4951405,
+          29.4246002
+        ]
+      },
+      "properties": {
+        "article_id": "https://foxsanantonio.com/news/local/live-slow-moving-storm-system-fuels-tornado-warnings-flood-emergency-west-of-san-antonio",
+        "title": "LIVE: Slow-moving storm system fuels tornado warnings, flood emergency west of San Antonio",
+        "source": "KABB",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T10:47:55Z",
+        "url": "https://foxsanantonio.com/news/local/live-slow-moving-storm-system-fuels-tornado-warnings-flood-emergency-west-of-san-antonio",
+        "mention_text": "San Antonio",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Antonio, Bexar County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 253556,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3884839,
+          30.045717
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mysanantonio.com/news/weather/article/flash-flood-kerr-county-22347460.php",
+        "title": "Flash flood emergency underway for parts of Kerr County",
+        "source": "MySA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T11:05:48Z",
+        "url": "https://www.mysanantonio.com/news/weather/article/flash-flood-kerr-county-22347460.php",
+        "mention_text": "Kerr County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kerr County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1827126,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.628184,
+          30.2404089
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbsaustin.com/news/local/gallery/pedernales-river-flooding-near-fredericksburg-for-first-time-since-2018",
+        "title": "Pedernales River hits highest level aince 1979, flash flood emergency in place",
+        "source": "KEYE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T15:06:55Z",
+        "url": "https://cbsaustin.com/news/local/gallery/pedernales-river-flooding-near-fredericksburg-for-first-time-since-2018",
+        "mention_text": "Pedernales River",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pedernales River, Texas, United States",
+        "osm_type": "river",
+        "osm_id": 20162893,
+        "run_at": "2026-07-17T08:13:04.990098+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-07-16T08:17:47.796174+00:00",
-    "total_features": 2485
+    "last_updated": "2026-07-17T08:13:05.003987+00:00",
+    "total_features": 2583
   }
 }
