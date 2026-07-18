@@ -67158,11 +67158,1649 @@
         "osm_id": 20162893,
         "run_at": "2026-07-17T08:13:04.990098+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article316558818.html",
+        "title": "UPDATE: Flash flood warning in place for San Bernardino County Friday night",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-18T03:32:04Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article316558818.html",
+        "mention_text": "San Bernardino County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8295337,
+          33.2588817
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wvtm13.com/article/alabama-sends-swift-water-rescue-teams-to-assist-with-texas-flooding/73173169",
+        "title": "Alabama sends swift water rescue teams to assist with Texas flooding",
+        "source": "wvtm",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T23:41:00Z",
+        "url": "https://www.wvtm13.com/article/alabama-sends-swift-water-rescue-teams-to-assist-with-texas-flooding/73173169",
+        "mention_text": "Alabama",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Alabama, United States",
+        "osm_type": "administrative",
+        "osm_id": 161950,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wvtm13.com/article/alabama-sends-swift-water-rescue-teams-to-assist-with-texas-flooding/73173169",
+        "title": "Alabama sends swift water rescue teams to assist with Texas flooding",
+        "source": "wvtm",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T23:41:00Z",
+        "url": "https://www.wvtm13.com/article/alabama-sends-swift-water-rescue-teams-to-assist-with-texas-flooding/73173169",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article316558818.html",
+        "title": "UPDATE: The current flash flood warning for San Bernardino County will be expiring at 9:45 p.m.",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-18T05:02:04Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article316558818.html",
+        "mention_text": "San Bernardino County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9210261,
+          35.9603948
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.knoxnews.com/story/weather/2026/07/17/knoxville-farragut-and-surrounding-areas-under-another-flash-flood-warning/90960441007/",
+        "title": "Knoxville, Farragut and surrounding areas under another flash flood warning",
+        "source": "Knoxville News Sentinel",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T20:06:00Z",
+        "url": "https://www.knoxnews.com/story/weather/2026/07/17/knoxville-farragut-and-surrounding-areas-under-another-flash-flood-warning/90960441007/",
+        "mention_text": "Knoxville",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Knoxville, Knox County, East Tennessee, Tennessee, United States",
+        "osm_type": "administrative",
+        "osm_id": 197353,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9433305,
+          40.4113762
+        ]
+      },
+      "properties": {
+        "article_id": "https://berksweekly.com/news/weather/flood-watch-issued-for-berks-county-as-heavy-rain-raises-flash-flood-threat-saturday/",
+        "title": "Flood Watch issued for Berks County as heavy rain raises flash flood threat Saturday",
+        "source": "Berks Weekly",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T18:18:56Z",
+        "url": "https://berksweekly.com/news/weather/flood-watch-issued-for-berks-county-as-heavy-rain-raises-flash-flood-threat-saturday/",
+        "mention_text": "Berks County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Berks County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417841,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5065944,
+          30.301949
+        ]
+      },
+      "properties": {
+        "article_id": "https://clarksvillenow.com/local/weather-alert-flash-flood-warning-for-east-montgomery-county-as-storm-rolls-in/",
+        "title": "WEATHER ALERT: Flash Flood Warning for east Montgomery County as storm rolls in",
+        "source": "Clarksville Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T21:54:00Z",
+        "url": "https://clarksvillenow.com/local/weather-alert-flash-flood-warning-for-east-montgomery-county-as-storm-rolls-in/",
+        "mention_text": "Montgomery County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Montgomery County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1560394,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/atlanta/video/thunderstorms-causing-flash-flood-warnings-for-metro-atlanta-north-georgia/",
+        "title": "Thunderstorms causing flash flood warnings for metro Atlanta, North Georgia",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T22:02:00Z",
+        "url": "https://www.cbsnews.com/atlanta/video/thunderstorms-causing-flash-flood-warnings-for-metro-atlanta-north-georgia/",
+        "mention_text": "Atlanta",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3773921,
+          33.9583384
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/atlanta/video/thunderstorms-causing-flash-flood-warnings-for-metro-atlanta-north-georgia/",
+        "title": "Thunderstorms causing flash flood warnings for metro Atlanta, North Georgia",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T22:02:00Z",
+        "url": "https://www.cbsnews.com/atlanta/video/thunderstorms-causing-flash-flood-warnings-for-metro-atlanta-north-georgia/",
+        "mention_text": "North Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia Theatre, 215, North Lumpkin Street, Athens, Clarke County, Georgia, 30601, United States",
+        "osm_type": "music_venue",
+        "osm_id": 242751392,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azcentral.com/story/news/local/arizona-weather/2026/07/17/weather-alert-pima-county-tucson/90962447007/",
+        "title": "Flash flood warnings issued for northern, southern Arizona",
+        "source": "azcentral.com and The Arizona Republic",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-18T00:33:00Z",
+        "url": "https://www.azcentral.com/story/news/local/arizona-weather/2026/07/17/weather-alert-pima-county-tucson/90962447007/",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/atlanta/news/flash-flood-warning-issued-for-ellijay-and-parts-of-north-georgia-as-heavy-rain-falls/",
+        "title": "Flash flood warnings in effect for parts of metro Atlanta and North Georgia as storms continue",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T18:29:00Z",
+        "url": "https://www.cbsnews.com/atlanta/news/flash-flood-warning-issued-for-ellijay-and-parts-of-north-georgia-as-heavy-rain-falls/",
+        "mention_text": "Atlanta",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3773921,
+          33.9583384
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/atlanta/news/flash-flood-warning-issued-for-ellijay-and-parts-of-north-georgia-as-heavy-rain-falls/",
+        "title": "Flash flood warnings in effect for parts of metro Atlanta and North Georgia as storms continue",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T18:29:00Z",
+        "url": "https://www.cbsnews.com/atlanta/news/flash-flood-warning-issued-for-ellijay-and-parts-of-north-georgia-as-heavy-rain-falls/",
+        "mention_text": "North Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia Theatre, 215, North Lumpkin Street, Athens, Clarke County, Georgia, 30601, United States",
+        "osm_type": "music_venue",
+        "osm_id": 242751392,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2684063,
+          34.9550817
+        ]
+      },
+      "properties": {
+        "article_id": "https://okcfox.com/news/local/oklahoma-sends-more-swift-water-rescue-teams-to-aid-texas-hill-country-flooding",
+        "title": "Oklahoma sends more swift water rescue teams to aid Texas Hill Country flooding",
+        "source": "KOKH",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T22:26:18Z",
+        "url": "https://okcfox.com/news/local/oklahoma-sends-more-swift-water-rescue-teams-to-aid-texas-hill-country-flooding",
+        "mention_text": "Oklahoma",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Oklahoma, United States",
+        "osm_type": "administrative",
+        "osm_id": 161645,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9026057,
+          37.3393746
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/texas/video/heroic-wildlife-rescue-unfolds-as-guadalupe-river-flash-flood-strikes/",
+        "title": "Heroic wildlife rescue unfolds as Guadalupe River flash flood strikes",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-18T03:23:00Z",
+        "url": "https://www.cbsnews.com/texas/video/heroic-wildlife-rescue-unfolds-as-guadalupe-river-flash-flood-strikes/",
+        "mention_text": "Guadalupe River",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Guadalupe River, San Jose, Santa Clara County, California, United States",
+        "osm_type": "river",
+        "osm_id": 19804223,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0994583,
+          41.0366655
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.krqe.com/news/new-mexico/flash-flood-alert-issued-for-cedar-creek-in-ruidoso/",
+        "title": "Flash Flood alert issued for Cedar Creek in Ruidoso",
+        "source": "KRQE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T21:06:39Z",
+        "url": "https://www.krqe.com/news/new-mexico/flash-flood-alert-issued-for-cedar-creek-in-ruidoso/",
+        "mention_text": "Cedar Creek",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Cedar Creek, Eight Mile Grove Precinct, Cass County, Nebraska, 68016, United States",
+        "osm_type": "administrative",
+        "osm_id": 169349,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.673099,
+          33.3315804
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.krqe.com/news/new-mexico/flash-flood-alert-issued-for-cedar-creek-in-ruidoso/",
+        "title": "Flash Flood alert issued for Cedar Creek in Ruidoso",
+        "source": "KRQE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T21:06:39Z",
+        "url": "https://www.krqe.com/news/new-mexico/flash-flood-alert-issued-for-cedar-creek-in-ruidoso/",
+        "mention_text": "Ruidoso",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ruidoso, Lincoln County, New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 171220,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wsbtv.com/news/local/flash-flood-warning-issued-north-georgia-counties/KOY7A4SPWRABJD6TXNNRVFEUBQ/",
+        "title": "Flash Flood Warnings across metro Atlanta, north Georgia counties",
+        "source": "WSB-TV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T22:31:52Z",
+        "url": "https://www.wsbtv.com/news/local/flash-flood-warning-issued-north-georgia-counties/KOY7A4SPWRABJD6TXNNRVFEUBQ/",
+        "mention_text": "Atlanta",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1137366,
+          32.3293809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wsbtv.com/news/local/flash-flood-warning-issued-north-georgia-counties/KOY7A4SPWRABJD6TXNNRVFEUBQ/",
+        "title": "Flash Flood Warnings across metro Atlanta, north Georgia counties",
+        "source": "WSB-TV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T22:31:52Z",
+        "url": "https://www.wsbtv.com/news/local/flash-flood-warning-issued-north-georgia-counties/KOY7A4SPWRABJD6TXNNRVFEUBQ/",
+        "mention_text": "Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 161957,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.074141,
+          33.4484367
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azfamily.com/video/2026/07/17/rain-winds-down-across-phoenix-area-flash-flood-warnings-gila-county/",
+        "title": "Rain winds down across Phoenix area; flash flood warnings in Gila County",
+        "source": "AZ Family",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T19:41:00Z",
+        "url": "https://www.azfamily.com/video/2026/07/17/rain-winds-down-across-phoenix-area-flash-flood-warnings-gila-county/",
+        "mention_text": "Phoenix",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Phoenix, Maricopa County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 111257,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6814579,
+          33.7416269
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azfamily.com/video/2026/07/17/rain-winds-down-across-phoenix-area-flash-flood-warnings-gila-county/",
+        "title": "Rain winds down across Phoenix area; flash flood warnings in Gila County",
+        "source": "AZ Family",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T19:41:00Z",
+        "url": "https://www.azfamily.com/video/2026/07/17/rain-winds-down-across-phoenix-area-flash-flood-warnings-gila-county/",
+        "mention_text": "Gila County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Gila County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832190,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/videos/texas-residents-forced-to-evacuate-during-flash-flood-emergency/81a62abd-2a33-494c-b26f-feceb1d2d73a",
+        "title": "Texas residents forced to evacuate during flash flood emergency",
+        "source": "AccuWeather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T23:45:39Z",
+        "url": "https://www.accuweather.com/en/videos/texas-residents-forced-to-evacuate-during-flash-flood-emergency/81a62abd-2a33-494c-b26f-feceb1d2d73a",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.49123,
+          33.34883
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azcentral.com/story/news/local/phoenix-weather/2026/07/17/flash-flood-warning-issued-for-maricopa-county/90955894007/",
+        "title": "Flash flood warning issued for Maricopa County",
+        "source": "azcentral.com and The Arizona Republic",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T16:06:00Z",
+        "url": "https://www.azcentral.com/story/news/local/phoenix-weather/2026/07/17/flash-flood-warning-issued-for-maricopa-county/90955894007/",
+        "mention_text": "Maricopa County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maricopa County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832201,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6009001,
+          29.3862862
+        ]
+      },
+      "properties": {
+        "article_id": "https://news4sanantonio.com/news/local/jbsa-identifies-dr-kenneth-stuart-76-as-civilian-killed-in-lackland-flash-flood",
+        "title": "JBSA identifies Dr. Kenneth Stuart, 76, as civilian killed in Lackland flash flood",
+        "source": "WOAI",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T20:38:23Z",
+        "url": "https://news4sanantonio.com/news/local/jbsa-identifies-dr-kenneth-stuart-76-as-civilian-killed-in-lackland-flash-flood",
+        "mention_text": "Lackland",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lackland Air Force Base, Dale Road, San Antonio, Bexar County, Texas, 78237, United States",
+        "osm_type": "base",
+        "osm_id": 3334509,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-04p6auhxbe02kfsr",
+        "title": "Flash Flood Emergencies issued in two Texas counties as ongoing flood threat continues",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T14:03:57Z",
+        "url": "https://www.foxweather.com/watch/fmc-04p6auhxbe02kfsr",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1335644,
+          34.235309
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forsythnews.com/news/weather/parts-of-forsyth-county-under-flash-flood-warning-hazardous-weather-outlook-as-storms-hit-region/",
+        "title": "Parts of Forsyth County under flash flood warning, hazardous weather outlook as storms hit region",
+        "source": "Forsyth County News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T21:18:18Z",
+        "url": "https://www.forsythnews.com/news/weather/parts-of-forsyth-county-under-flash-flood-warning-hazardous-weather-outlook-as-storms-hit-region/",
+        "mention_text": "Forsyth County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Forsyth County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 1024740,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.12news.com/article/weather/monsoon-storms-continue-throughout-arizona-road-closures-for-some-areas/75-107536ac-371c-4829-9ff9-23ae9b7792c7",
+        "title": "Monsoon storms continue throughout Arizona, flash flood warnings for some areas",
+        "source": "12News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T13:19:00Z",
+        "url": "https://www.12news.com/article/weather/monsoon-storms-continue-throughout-arizona-road-closures-for-some-areas/75-107536ac-371c-4829-9ff9-23ae9b7792c7",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.usatoday.com/story/weather/2026/07/17/see-texas-road-conditions-flash-flood-warnings-river-levels/90953385007/",
+        "title": "Texas flooding map: See counties under flash flood warning",
+        "source": "USA Today",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T16:09:00Z",
+        "url": "https://www.usatoday.com/story/weather/2026/07/17/see-texas-road-conditions-flash-flood-warnings-river-levels/90953385007/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ajc.com/news/2026/07/flash-flood-warnings-issued-in-metro-atlanta-as-rain-soaks-friday-commute/",
+        "title": "Flash flood warnings issued in metro Atlanta as rain soaks Friday commute",
+        "source": "AJC.com",
+        "outlet_city": "Atlanta",
+        "outlet_region": "Georgia",
+        "published_at": "2026-07-17T22:18:00Z",
+        "url": "https://www.ajc.com/news/2026/07/flash-flood-warnings-issued-in-metro-atlanta-as-rain-soaks-friday-commute/",
+        "mention_text": "Atlanta",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6009001,
+          29.3862862
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.expressnews.com/news/article/kenneth-stuart-air-force-jbsa-lackland-flood-22349425.php",
+        "title": "Flash flood at Lackland Air Force Base kills weapons physicist",
+        "source": "San Antonio Express-News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T17:58:51Z",
+        "url": "https://www.expressnews.com/news/article/kenneth-stuart-air-force-jbsa-lackland-flood-22349425.php",
+        "mention_text": "Lackland Air Force Base",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lackland Air Force Base, Southwest 36th Street, San Antonio, Bexar County, Texas, 78237, United States",
+        "osm_type": "base",
+        "osm_id": 3334509,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.1072105,
+          42.1028695
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kivitv.com/weather/flash-flood-watch-in-effect-as-storms-target-idaho-mountains",
+        "title": "Flash flood watch in effect as storms target Idaho Mountains",
+        "source": "Idaho News 6",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T10:20:47Z",
+        "url": "https://www.kivitv.com/weather/flash-flood-watch-in-effect-as-storms-target-idaho-mountains",
+        "mention_text": "Idaho Mountains",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Black Pine Mountains, Cassia County, Idaho, United States",
+        "osm_type": "mountain_range",
+        "osm_id": 1280376747,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1137366,
+          32.3293809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-north-180749871.html",
+        "title": "Flash flood warning issued in north Georgia counties",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T18:07:49Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-north-180749871.html",
+        "mention_text": "Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 161957,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article316555258.html",
+        "title": "UPDATE: San Bernardino County placed under a flood advisory Friday night",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-18T03:30:05Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article316555258.html",
+        "mention_text": "San Bernardino County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4970393,
+          38.0464066
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article316558957.html",
+        "title": "UPDATE: The current flood advisory for Aiken and Lexington counties will be expiring at 12:15 a.m.",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-18T04:27:03Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article316558957.html",
+        "mention_text": "Lexington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Lexington, Fayette County, Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 11078268,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article316555258.html",
+        "title": "UPDATE: The current flood advisory for San Bernardino County will be expiring at 9:30 p.m.",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-18T04:45:04Z",
+        "url": "https://www.modbee.com/news/weather-news/article316555258.html",
+        "mention_text": "San Bernardino County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4970393,
+          38.0464066
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article316558957.html",
+        "title": "Flood advisory in place for Aiken and Lexington counties until early Saturday",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-18T02:31:04Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article316558957.html",
+        "mention_text": "Lexington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Lexington, Fayette County, Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 11078268,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sbsun.com/2026/07/17/flood-advisory-active-for-san-bernardino-county-until-early-friday-evening-caused-by-excessive-rainfall/",
+        "title": "Flood advisory active for San Bernardino County until early Friday evening caused by excessive rainfall",
+        "source": "San Bernardino Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-18T02:11:17Z",
+        "url": "https://www.sbsun.com/2026/07/17/flood-advisory-active-for-san-bernardino-county-until-early-friday-evening-caused-by-excessive-rainfall/",
+        "mention_text": "San Bernardino County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9602376,
+          39.8455208
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316555430.html",
+        "title": "UPDATE: Flood advisory in place for Macon County Friday evening, says the NWS",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T21:14:06Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316555430.html",
+        "mention_text": "Macon County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Macon County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1800576,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercedsunstar.com/news/weather-news/article316555258.html",
+        "title": "Flood advisory affecting San Bernardino County until early Friday evening",
+        "source": "Merced Sun-Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T20:22:04Z",
+        "url": "https://www.mercedsunstar.com/news/weather-news/article316555258.html",
+        "mention_text": "San Bernardino County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.55561,
+          28.9224028
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316555760.html",
+        "title": "Jackson County under a flood advisory until Friday night triggered by prolonged rain",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T20:53:23Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316555760.html",
+        "mention_text": "Jackson County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Jackson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837671,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kens5.com/video/weather/severe-weather/flood-emergency-response-across-texas-isnt-over-as-gov-abbott-declares-major-disaster-declaration/273-83f0c2b0-f803-4f62-8712-f262304050c6",
+        "title": "Flood emergency response across Texas isn't over as Gov. Abbott declares major disaster declaration",
+        "source": "kens5.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T22:16:00Z",
+        "url": "https://www.kens5.com/video/weather/severe-weather/flood-emergency-response-across-texas-isnt-over-as-gov-abbott-declares-major-disaster-declaration/273-83f0c2b0-f803-4f62-8712-f262304050c6",
+        "mention_text": "Texas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sbsun.com/2026/07/17/update-flood-advisory-active-for-san-bernardino-county-until-friday-night-due-to-substantial-rainfall/",
+        "title": "Update: Flood advisory active for San Bernardino County until Friday night due to substantial rainfall",
+        "source": "San Bernardino Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-18T02:11:17Z",
+        "url": "https://www.sbsun.com/2026/07/17/update-flood-advisory-active-for-san-bernardino-county-until-friday-night-due-to-substantial-rainfall/",
+        "mention_text": "San Bernardino County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://wtvbam.com/2026/07/15/flash-flood-emergency-strikes-texas-year-after-camp-mystic-disaster/",
+        "title": "Flash flood emergency strikes Texas year after Camp Mystic disaster",
+        "source": "WTVB",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T03:11:21Z",
+        "url": "https://wtvbam.com/2026/07/15/flash-flood-emergency-strikes-texas-year-after-camp-mystic-disaster/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9050337,
+          29.967715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kvue.com/video/news/state/family-reunion-turns-to-flood-evacuation-comfort-texas-guadalupe-river-along/269-67c6ea53-0a2b-407e-86a4-badc2a04110a",
+        "title": "Family reunion turns to flood evacuation Thursday in Comfort, Texas",
+        "source": "KVUE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T11:06:00Z",
+        "url": "https://www.kvue.com/video/news/state/family-reunion-turns-to-flood-evacuation-comfort-texas-guadalupe-river-along/269-67c6ea53-0a2b-407e-86a4-badc2a04110a",
+        "mention_text": "Comfort",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Comfort, Kendall County, Texas, 70813, United States",
+        "osm_type": "town",
+        "osm_id": 151518224,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kvue.com/video/news/state/family-reunion-turns-to-flood-evacuation-comfort-texas-guadalupe-river-along/269-67c6ea53-0a2b-407e-86a4-badc2a04110a",
+        "title": "Family reunion turns to flood evacuation Thursday in Comfort, Texas",
+        "source": "KVUE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T11:06:00Z",
+        "url": "https://www.kvue.com/video/news/state/family-reunion-turns-to-flood-evacuation-comfort-texas-guadalupe-river-along/269-67c6ea53-0a2b-407e-86a4-badc2a04110a",
+        "mention_text": "Texas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1357572,
+          39.1227966
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.komu.com/news/midmissourinews/two-stranded-people-rescued-from-flooded-road-in-owensville/article_0cec8490-1711-4d9b-9c73-9dff7eeb72e1.html",
+        "title": "Two stranded people rescued from flooded road in Owensville",
+        "source": "KOMU 8",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T12:30:00Z",
+        "url": "https://www.komu.com/news/midmissourinews/two-stranded-people-rescued-from-flooded-road-in-owensville/article_0cec8490-1711-4d9b-9c73-9dff7eeb72e1.html",
+        "mention_text": "Owensville",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Owensville, Stonelick Township, Clermont County, Ohio, 45160, United States",
+        "osm_type": "administrative",
+        "osm_id": 182746,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7215681,
+          29.9757312
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.borderreport.com/video/flooded-road-in-sisterdale-texas-july-16/11978299/",
+        "title": "Flooded road in Sisterdale, Texas | July 16",
+        "source": "BorderReport",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T19:06:00Z",
+        "url": "https://www.borderreport.com/video/flooded-road-in-sisterdale-texas-july-16/11978299/",
+        "mention_text": "Sisterdale",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Sisterdale, Kendall County, Texas, United States",
+        "osm_type": "suburb",
+        "osm_id": 151962825,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.borderreport.com/video/flooded-road-in-sisterdale-texas-july-16/11978299/",
+        "title": "Flooded road in Sisterdale, Texas | July 16",
+        "source": "BorderReport",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T19:06:00Z",
+        "url": "https://www.borderreport.com/video/flooded-road-in-sisterdale-texas-july-16/11978299/",
+        "mention_text": "Texas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4030376,
+          37.7887644
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article316516599.html",
+        "title": "Coastal flood advisory issued for Northern California until early Thursday morning",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T10:51:03Z",
+        "url": "https://www.sacbee.com/news/weather-news/article316516599.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "First National Bank of Northern California, Post Street, Union Square, Financial District, South of Market, San Francisco, California, 94104, United States",
+        "osm_type": "bank",
+        "osm_id": 32946665,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1399464,
+          30.048469
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.qcnews.com/video/july-16-2026-flash-flood-emergency-latest-reports-from-kerrville-uvalde/11979516/",
+        "title": "July 16, 2026 Flash Flood Emergency: Latest reports from Kerrville, Uvalde",
+        "source": "Queen City News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T23:14:14Z",
+        "url": "https://www.qcnews.com/video/july-16-2026-flash-flood-emergency-latest-reports-from-kerrville-uvalde/11979516/",
+        "mention_text": "Kerrville",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kerrville, Kerr County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 7718574,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1399464,
+          30.048469
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwlp.com/video/july-16-2026-flash-flood-emergency-latest-reports-from-kerrville-uvalde/11979516/",
+        "title": "July 16, 2026 Flash Flood Emergency: Latest reports from Kerrville, Uvalde",
+        "source": "WWLP",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T23:14:14Z",
+        "url": "https://www.wwlp.com/video/july-16-2026-flash-flood-emergency-latest-reports-from-kerrville-uvalde/11979516/",
+        "mention_text": "Kerrville",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kerrville, Kerr County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 7718574,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1399464,
+          30.048469
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myarklamiss.com/video/july-16-2026-flash-flood-emergency-latest-reports-from-kerrville-uvalde/11979516/",
+        "title": "July 16, 2026 Flash Flood Emergency: Latest reports from Kerrville, Uvalde",
+        "source": "KTVE \u2013 myarklamiss.com \u2013 Your ArkLaMiss News Source",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T23:14:14Z",
+        "url": "https://www.myarklamiss.com/video/july-16-2026-flash-flood-emergency-latest-reports-from-kerrville-uvalde/11979516/",
+        "mention_text": "Kerrville",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kerrville, Kerr County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 7718574,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://ruralradio.com/kmor/abc_news/1-dead-in-texas-hill-country-flash-flood-emergency-governor-says-abcid04ead31e/",
+        "title": "KMOR - 1 dead in Texas Hill Country flash flood emergency, governor says",
+        "source": "Rural Radio Network",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T23:00:51Z",
+        "url": "https://ruralradio.com/kmor/abc_news/1-dead-in-texas-hill-country-flash-flood-emergency-governor-says-abcid04ead31e/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cnn.com/2026/07/15/weather/texas-flooding-rain-july-climate",
+        "title": "Flash flood emergency issued for Camp Mystic disaster area as rivers rise in southern Texas",
+        "source": "CNN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T07:01:30Z",
+        "url": "https://www.cnn.com/2026/07/15/weather/texas-flooding-rain-july-climate",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4030376,
+          37.7887644
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article316516597.html",
+        "title": "The current coastal flood advisory for Northern California will be expiring at 4 a.m.",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T10:50:04Z",
+        "url": "https://www.sacbee.com/news/weather-news/article316516597.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "First National Bank of Northern California, Post Street, Union Square, Financial District, South of Market, San Francisco, California, 94104, United States",
+        "osm_type": "bank",
+        "osm_id": 32946665,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7215681,
+          29.9757312
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwlp.com/video/flooded-road-in-sisterdale-texas-july-16/11978299/",
+        "title": "Flooded road in Sisterdale, Texas | July 16",
+        "source": "WWLP",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T19:06:00Z",
+        "url": "https://www.wwlp.com/video/flooded-road-in-sisterdale-texas-july-16/11978299/",
+        "mention_text": "Sisterdale",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Sisterdale, Kendall County, Texas, United States",
+        "osm_type": "suburb",
+        "osm_id": 151962825,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwlp.com/video/flooded-road-in-sisterdale-texas-july-16/11978299/",
+        "title": "Flooded road in Sisterdale, Texas | July 16",
+        "source": "WWLP",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T19:06:00Z",
+        "url": "https://www.wwlp.com/video/flooded-road-in-sisterdale-texas-july-16/11978299/",
+        "mention_text": "Texas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7215681,
+          29.9757312
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myarklamiss.com/video/flooded-road-in-sisterdale-texas-july-16/11978299/",
+        "title": "Flooded road in Sisterdale, Texas | July 16",
+        "source": "KTVE \u2013 myarklamiss.com \u2013 Your ArkLaMiss News Source",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T19:06:00Z",
+        "url": "https://www.myarklamiss.com/video/flooded-road-in-sisterdale-texas-july-16/11978299/",
+        "mention_text": "Sisterdale",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Sisterdale, Kendall County, Texas, United States",
+        "osm_type": "suburb",
+        "osm_id": 151962825,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myarklamiss.com/video/flooded-road-in-sisterdale-texas-july-16/11978299/",
+        "title": "Flooded road in Sisterdale, Texas | July 16",
+        "source": "KTVE \u2013 myarklamiss.com \u2013 Your ArkLaMiss News Source",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T19:06:00Z",
+        "url": "https://www.myarklamiss.com/video/flooded-road-in-sisterdale-texas-july-16/11978299/",
+        "mention_text": "Texas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://ruralradio.com/kozy/abc_news/torrential-rain-prompts-texas-hill-country-flash-flood-emergency-warnings-abcid04ead31e/",
+        "title": "1 dead in Texas Hill Country flash flood emergency, governor says",
+        "source": "Rural Radio Network",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T20:27:33Z",
+        "url": "https://ruralradio.com/kozy/abc_news/torrential-rain-prompts-texas-hill-country-flash-flood-emergency-warnings-abcid04ead31e/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8085436,
+          31.4274044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/live-updates-flash-flood-emergency-095816351.html",
+        "title": "Live updates: One death confirmed as Flash Flood Emergency continues in Central Texas",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T09:58:16Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/live-updates-flash-flood-emergency-095816351.html",
+        "mention_text": "Central Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, Angelina County, Texas, 76969, United States",
+        "osm_type": "hamlet",
+        "osm_id": 151831870,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6742033,
+          34.5810346
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article316498114.html",
+        "title": "UPDATE: Flood advisory active for Marlboro County Monday night, says the NWS",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-14T00:52:04Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article316498114.html",
+        "mention_text": "Marlboro County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Marlboro County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532516,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9026057,
+          37.3393746
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ktsm.com/news/large-flood-wave-on-guadalupe-river-prompts-evacuations-amid-flash-flood-emergency/amp/",
+        "title": "\u2018Large\u2019 flood wave on Guadalupe River prompts evacuations amid flash flood emergency",
+        "source": "KTSM 9 News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T07:14:56Z",
+        "url": "https://www.ktsm.com/news/large-flood-wave-on-guadalupe-river-prompts-evacuations-amid-flash-flood-emergency/amp/",
+        "mention_text": "Guadalupe River",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Guadalupe River, San Jose, Santa Clara County, California, United States",
+        "osm_type": "river",
+        "osm_id": 19804223,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4030376,
+          37.7887644
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article316468999.html",
+        "title": "UPDATE: Coastal flood advisory for Northern California until early Thursday morning",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-13T04:13:05Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article316468999.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "First National Bank of Northern California, Post Street, Union Square, Financial District, South of Market, San Francisco, California, 94104, United States",
+        "osm_type": "bank",
+        "osm_id": 32946665,
+        "run_at": "2026-07-18T07:54:30.981602+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-07-17T08:13:05.003987+00:00",
-    "total_features": 2583
+    "last_updated": "2026-07-18T07:54:30.993927+00:00",
+    "total_features": 2646
   }
 }
