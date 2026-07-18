@@ -6,8 +6,8 @@
       "site_name": "Southbank Riverwalk, St Johns River",
       "lat": "30.32",
       "lon": "-81.6583",
-      "stage_ft": 2.119,
-      "stage_datetime": "2026-07-18 18:36",
+      "stage_ft": 1.864,
+      "stage_datetime": "2026-07-18 19:54",
       "tier": "action",
       "action_stage": 1.64,
       "flood_stage": 2.64,
@@ -15,7 +15,7 @@
       "url": "https://tidesandcurrents.noaa.gov/stationhome.html?id=8720226",
       "city_lat": 30.3270682,
       "city_lon": -81.6623566,
-      "fetched_at": "2026-07-18T18:41:36.139483+00:00"
+      "fetched_at": "2026-07-18T19:56:35.930007+00:00"
     },
     {
       "source": "NOAA",
@@ -23,8 +23,8 @@
       "site_name": "Southbank Riverwalk, St Johns River",
       "lat": "30.32",
       "lon": "-81.6583",
-      "stage_ft": 2.119,
-      "stage_datetime": "2026-07-18 18:36",
+      "stage_ft": 1.864,
+      "stage_datetime": "2026-07-18 19:54",
       "tier": "action",
       "action_stage": 1.64,
       "flood_stage": 2.64,
@@ -32,24 +32,7 @@
       "url": "https://tidesandcurrents.noaa.gov/stationhome.html?id=8720226",
       "city_lat": 30.3270682,
       "city_lon": -81.6623566,
-      "fetched_at": "2026-07-18T18:41:36.139483+00:00"
-    },
-    {
-      "source": "NOAA",
-      "site_id": "8531680",
-      "site_name": "Sandy Hook",
-      "lat": "40.4669",
-      "lon": "-74.0094",
-      "stage_ft": 12.601,
-      "stage_datetime": "2026-07-18 18:36",
-      "tier": "major",
-      "action_stage": 8.74,
-      "flood_stage": 9.74,
-      "major_stage": 11.74,
-      "url": "https://tidesandcurrents.noaa.gov/stationhome.html?id=8531680",
-      "city_lat": 40.2932319,
-      "city_lon": -74.1671114,
-      "fetched_at": "2026-07-18T18:41:36.139483+00:00"
+      "fetched_at": "2026-07-18T19:56:35.930007+00:00"
     }
   ]
 }
