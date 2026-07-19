@@ -68796,11 +68796,1337 @@
         "osm_id": 32946665,
         "run_at": "2026-07-18T07:54:30.981602+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4424631,
+          41.3718962
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.lohud.com/story/weather/2026/07/18/weather-alert/90970197007/",
+        "title": "Flash flood warning issued for Lower Hudson Valley",
+        "source": "Lohud",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-19T00:39:00Z",
+        "url": "https://www.lohud.com/story/weather/2026/07/18/weather-alert/90970197007/",
+        "mention_text": "Lower Hudson Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hudson Valley United Reformed Church, 1047, County Route 12, Gardnerville, New Hampton, Town of Wawayanda, Orange County, New York, 10958, United States",
+        "osm_type": "church",
+        "osm_id": 674827999,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7907554,
+          41.1763139
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/07/update-flash-flood-warning-affecting-westchester-county-until-saturday-night-triggered-by-thundersto.html",
+        "title": "Update: Flash flood warning affecting Westchester County until Saturday night triggered by thunderstorms",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-19T00:26:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/07/update-flash-flood-warning-affecting-westchester-county-until-saturday-night-triggered-by-thundersto.html",
+        "mention_text": "Westchester County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Westchester County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1838027,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6870693,
+          35.0349239
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.koat.com/article/flash-flood-warning-issued-for-north-central-bernalillo-county/73177137",
+        "title": "Flash flood warning issued for north central Bernalillo County",
+        "source": "KOAT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-18T23:30:00Z",
+        "url": "https://www.koat.com/article/flash-flood-warning-issued-for-north-central-bernalillo-county/73177137",
+        "mention_text": "Bernalillo County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Bernalillo County, New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832180,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3063733,
+          38.8462236
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wcpo.com/news/local-news/father-and-daughter-die-in-flash-flood-25-years-ago-in-fairfax-home",
+        "title": "Father and daughter die in flash flood 25 years ago in Fairfax home",
+        "source": "WCPO 9 Cincinnati",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-19T03:36:20Z",
+        "url": "https://www.wcpo.com/news/local-news/father-and-daughter-die-in-flash-flood-25-years-ago-in-fairfax-home",
+        "mention_text": "Fairfax",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Fairfax, Virginia, 20030, United States",
+        "osm_type": "administrative",
+        "osm_id": 206874,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3077936,
+          38.7742136
+        ]
+      },
+      "properties": {
+        "article_id": "https://moabsunnews.com/2026/07/18/flash-flood-family-bicknell-sunglow-july-2026/",
+        "title": "Five dead in flash flood at Sunglow Campground near Bicknell",
+        "source": "Moab Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-18T20:31:43Z",
+        "url": "https://moabsunnews.com/2026/07/18/flash-flood-family-bicknell-sunglow-july-2026/",
+        "mention_text": "Bicknell",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Bicknell, Knox County, Indiana, 47512, United States",
+        "osm_type": "administrative",
+        "osm_id": 127813,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4740302,
+          39.2744355
+        ]
+      },
+      "properties": {
+        "article_id": "https://kvia.com/news/top-stories/2026/07/18/abc-7-first-alert-flash-flood-warning-for-canutillo-westway-and-vinton-until-930-pm-nearly-1-5-inches-of-rain-fallen-over-la-union-and-chamberino/",
+        "title": "ABC-7 First Alert: Flash Flood Warning for Canutillo, Westway, and Vinton until 9:30 PM, nearly 1.5 inches of rain fallen over La Union and Chamberino",
+        "source": "KVIA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-19T02:19:07Z",
+        "url": "https://kvia.com/news/top-stories/2026/07/18/abc-7-first-alert-flash-flood-warning-for-canutillo-westway-and-vinton-until-930-pm-nearly-1-5-inches-of-rain-fallen-over-la-union-and-chamberino/",
+        "mention_text": "Vinton",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Vinton County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 911308,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.68618,
+          32.0370072
+        ]
+      },
+      "properties": {
+        "article_id": "https://kvia.com/news/top-stories/2026/07/18/abc-7-first-alert-flash-flood-warning-for-canutillo-westway-and-vinton-until-930-pm-nearly-1-5-inches-of-rain-fallen-over-la-union-and-chamberino/",
+        "title": "ABC-7 First Alert: Flash Flood Warning for Canutillo, Westway, and Vinton until 9:30 PM, nearly 1.5 inches of rain fallen over La Union and Chamberino",
+        "source": "KVIA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-19T02:19:07Z",
+        "url": "https://kvia.com/news/top-stories/2026/07/18/abc-7-first-alert-flash-flood-warning-for-canutillo-westway-and-vinton-until-930-pm-nearly-1-5-inches-of-rain-fallen-over-la-union-and-chamberino/",
+        "mention_text": "Chamberino",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Chamberino, Do\u00f1a Ana County, New Mexico, 88027, United States",
+        "osm_type": "village",
+        "osm_id": 506444216,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5631125,
+          40.8682487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thelcn.com/news/update-5-15-p-m-flash-flood-warning-issued-for-livingston-county/article_6785fe4b-4c62-4533-b7e5-6e142060b389.html",
+        "title": "UPDATE, 5:15 p.m.: Flash flood warning issued for Livingston County",
+        "source": "TheLCN.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-18T17:51:00Z",
+        "url": "https://www.thelcn.com/news/update-5-15-p-m-flash-flood-warning-issued-for-livingston-county/article_6785fe4b-4c62-4533-b7e5-6e142060b389.html",
+        "mention_text": "Livingston County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Livingston County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1800376,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1099413,
+          34.0400577
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldextra.com/news/2026/jul/18/provo-fire-captain-family-members-killed-in-wayne-county-flash-flood/",
+        "title": "Provo Fire captain, family members killed in Wayne County flash flood",
+        "source": "heraldextra.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-19T03:01:56Z",
+        "url": "https://www.heraldextra.com/news/2026/jul/18/provo-fire-captain-family-members-killed-in-wayne-county-flash-flood/",
+        "mention_text": "Provo Fire",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Provo Volunteer Fire Department, Sevier County 285/Community Road, Provo, Sevier County, Arkansas, United States",
+        "osm_type": "fire_station",
+        "osm_id": 367130164,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3045103,
+          41.6264414
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldextra.com/news/2026/jul/18/provo-fire-captain-family-members-killed-in-wayne-county-flash-flood/",
+        "title": "Provo Fire captain, family members killed in Wayne County flash flood",
+        "source": "heraldextra.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-19T03:01:56Z",
+        "url": "https://www.heraldextra.com/news/2026/jul/18/provo-fire-captain-family-members-killed-in-wayne-county-flash-flood/",
+        "mention_text": "Wayne County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Wayne County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417782,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2411283,
+          40.08067
+        ]
+      },
+      "properties": {
+        "article_id": "https://lancasteronline.com/news/local/flash-flood-alert-issued-for-lancaster-county-with-heavy-rain-in-forecast/article_7a79cfd8-6364-4b48-a233-c04cca75bd82.html",
+        "title": "Flash flood alert issued for Lancaster County with heavy rain in forecast",
+        "source": "LancasterOnline",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-18T13:55:00Z",
+        "url": "https://lancasteronline.com/news/local/flash-flood-alert-issued-for-lancaster-county-with-heavy-rain-in-forecast/article_7a79cfd8-6364-4b48-a233-c04cca75bd82.html",
+        "mention_text": "Lancaster County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lancaster County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417768,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3249475,
+          41.0400423
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/07/flood-warning-issued-for-monroe-county-until-early-sunday-evening-due-to-prolonged-downpours.html",
+        "title": "Flood warning issued for Monroe County until early Sunday evening due to prolonged downpours",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-18T19:59:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/07/flood-warning-issued-for-monroe-county-until-early-sunday-evening-due-to-prolonged-downpours.html",
+        "mention_text": "Monroe County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Monroe County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417787,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox13now.com/news/local-news/southern-utah/3-dead-following-flooding-at-sunglow-campground",
+        "title": "Provo firefighter, his wife, and 3 sons killed by flash flood in southern Utah",
+        "source": "FOX 13 News Utah",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-19T03:45:03Z",
+        "url": "https://www.fox13now.com/news/local-news/southern-utah/3-dead-following-flooding-at-sunglow-campground",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1263909,
+          40.3451668
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.phillyburbs.com/story/weather/2026/07/18/weather-alert-severe-thunderstorm-warning-issued-for-bucks-county-flash-flood-warning/90967805007/",
+        "title": "Severe thunderstorm and flash flood warnings issued for Bucks County",
+        "source": "PhillyBurbs",
+        "outlet_city": "Philadelphia",
+        "outlet_region": "Pennsylvania",
+        "published_at": "2026-07-18T19:36:00Z",
+        "url": "https://www.phillyburbs.com/story/weather/2026/07/18/weather-alert-severe-thunderstorm-warning-issued-for-bucks-county-flash-flood-warning/90967805007/",
+        "mention_text": "Bucks County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Bucks County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417843,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4041622,
+          40.0757384
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nj.com/weather/2026/07/nj-weather-flash-flood-warnings-issued-as-strong-thunderstorms-dump-drenching-rain-on-region.html",
+        "title": "N.J. weather: Flash flood warnings issued as strong thunderstorms dump drenching rain.",
+        "source": "NJ.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-18T16:11:00Z",
+        "url": "https://www.nj.com/weather/2026/07/nj-weather-flash-flood-warnings-issued-as-strong-thunderstorms-dump-drenching-rain-on-region.html",
+        "mention_text": "N.J.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 224951,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://newscord.org/article/wildfire-smoke-from-canada-blankets-new-york-city-as-flash-flood-warnings-hit-ne--Story_20260718_USfacestripleextreme0c93bff8",
+        "title": "Wildfire Smoke From Canada Blankets New York City as Flash Flood Warnings Hit New Jersey",
+        "source": "NewsCord",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-18T23:00:45Z",
+        "url": "https://newscord.org/article/wildfire-smoke-from-canada-blankets-new-york-city-as-flash-flood-warnings-hit-ne--Story_20260718_USfacestripleextreme0c93bff8",
+        "mention_text": "New York City",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4041622,
+          40.0757384
+        ]
+      },
+      "properties": {
+        "article_id": "https://newscord.org/article/wildfire-smoke-from-canada-blankets-new-york-city-as-flash-flood-warnings-hit-ne--Story_20260718_USfacestripleextreme0c93bff8",
+        "title": "Wildfire Smoke From Canada Blankets New York City as Flash Flood Warnings Hit New Jersey",
+        "source": "NewsCord",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-18T23:00:45Z",
+        "url": "https://newscord.org/article/wildfire-smoke-from-canada-blankets-new-york-city-as-flash-flood-warnings-hit-ne--Story_20260718_USfacestripleextreme0c93bff8",
+        "mention_text": "New Jersey",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 224951,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1640198,
+          41.1241573
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wkyc.com/article/weather/severe-weather/severe-thunderstorm-watch-all-northeast-ohio/95-c1062895-e9fd-45c8-9c53-904587e03f1d",
+        "title": "Severe thunderstorm watch ends for most of Northeast Ohio; flash flood warning in place for Carroll County",
+        "source": "WKYC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-18T17:19:00Z",
+        "url": "https://www.wkyc.com/article/weather/severe-weather/severe-thunderstorm-watch-all-northeast-ohio/95-c1062895-e9fd-45c8-9c53-904587e03f1d",
+        "mention_text": "Northeast Ohio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ohio Avenue, Northeast Tiffin Historic District, Tiffin, Seneca County, Ohio, 44884, United States",
+        "osm_type": "residential",
+        "osm_id": 8794379,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9556785,
+          42.0647352
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wkyc.com/article/weather/severe-weather/severe-thunderstorm-watch-all-northeast-ohio/95-c1062895-e9fd-45c8-9c53-904587e03f1d",
+        "title": "Severe thunderstorm watch ends for most of Northeast Ohio; flash flood warning in place for Carroll County",
+        "source": "WKYC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-18T17:19:00Z",
+        "url": "https://www.wkyc.com/article/weather/severe-weather/severe-thunderstorm-watch-all-northeast-ohio/95-c1062895-e9fd-45c8-9c53-904587e03f1d",
+        "mention_text": "Carroll County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Carroll County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1792161,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4041622,
+          40.0757384
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warnings-issued-n-165733245.html",
+        "title": "Flash flood warnings issued in N.J. as strong thunderstorms dump drenching rain",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-18T18:17:10Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warnings-issued-n-165733245.html",
+        "mention_text": "N.J.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 224951,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox13now.com/videos/news/local-news/southern-utah/provo-firefighter-his-wife-and-3-sons-killed-by-flash-flood-in-southern-utah",
+        "title": "Provo firefighter, his wife, and 3 sons killed by flash flood in southern Utah",
+        "source": "FOX 13 News Utah",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-19T03:21:51Z",
+        "url": "https://www.fox13now.com/videos/news/local-news/southern-utah/provo-firefighter-his-wife-and-3-sons-killed-by-flash-flood-in-southern-utah",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0563254,
+          40.9678345
+        ]
+      },
+      "properties": {
+        "article_id": "https://patch.com/new-jersey/ridgewood/flash-flood-warning-issued-bergen-county-thunderstorms-weather-forecast",
+        "title": "Flash Flood Warning Issued For Bergen County, More Thunderstorms In Weather Forecast",
+        "source": "Patch",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-18T15:58:30Z",
+        "url": "https://patch.com/new-jersey/ridgewood/flash-flood-warning-issued-bergen-county-thunderstorms-weather-forecast",
+        "mention_text": "Bergen County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Bergen County, New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 958930,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wane.com/news/national-world/live-updates-flash-flood-emergency-in-texas-turns-fatal/",
+        "title": "Live updates: Flash Flood Emergency in Texas turns fatal",
+        "source": "WANE 15",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T18:30:32Z",
+        "url": "https://www.wane.com/news/national-world/live-updates-flash-flood-emergency-in-texas-turns-fatal/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8283132,
+          40.7135078
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aol.com/articles/yorkers-told-not-attempt-travel-170119000.html",
+        "title": "New Yorkers told 'do not attempt to travel' during flash flood warning for Queens and Brooklyn",
+        "source": "AOL.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-19T06:11:44Z",
+        "url": "https://www.aol.com/articles/yorkers-told-not-attempt-travel-170119000.html",
+        "mention_text": "Queens",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Queens, Queens County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 9691819,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9497211,
+          40.6526006
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aol.com/articles/yorkers-told-not-attempt-travel-170119000.html",
+        "title": "New Yorkers told 'do not attempt to travel' during flash flood warning for Queens and Brooklyn",
+        "source": "AOL.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-19T06:11:44Z",
+        "url": "https://www.aol.com/articles/yorkers-told-not-attempt-travel-170119000.html",
+        "mention_text": "Brooklyn",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Brooklyn, Kings County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 9691750,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox7austin.com/news/trump-approves-texas-flood-emergency-declaration-authorizing-fema-relief",
+        "title": "Trump approves Texas flood emergency declaration, authorizing FEMA relief",
+        "source": "FOX 7 Austin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-18T23:00:14Z",
+        "url": "https://www.fox7austin.com/news/trump-approves-texas-flood-emergency-declaration-authorizing-fema-relief",
+        "mention_text": "Texas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8578027,
+          40.8832318
+        ]
+      },
+      "properties": {
+        "article_id": "https://riverheadlocal.com/2026/07/18/flood-advisory-issued-for-suffolk-as-heavy-downpours-cause-minor-flooding/",
+        "title": "Flood advisory issued for Suffolk as heavy downpours cause minor flooding",
+        "source": "RiverheadLOCAL",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-18T18:22:25Z",
+        "url": "https://riverheadlocal.com/2026/07/18/flood-advisory-issued-for-suffolk-as-heavy-downpours-cause-minor-flooding/",
+        "mention_text": "Suffolk",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Suffolk County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 404243,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7893178,
+          32.182598
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316565965.html",
+        "title": "Buncombe and Henderson counties under a flood advisory Saturday night",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-19T00:04:05Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316565965.html",
+        "mention_text": "Henderson",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Henderson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839045,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.495919,
+          31.7573731
+        ]
+      },
+      "properties": {
+        "article_id": "https://kvia.com/news/top-stories/2026/07/18/abc-7-first-alert-flood-advisory-for-santa-teresa-and-sunland-park-until-945-pm/",
+        "title": "ABC-7 First Alert: Flood Advisory for West El Paso, Santa Teresa, and Sunland Park until 9:45 PM",
+        "source": "KVIA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-19T02:54:08Z",
+        "url": "https://kvia.com/news/top-stories/2026/07/18/abc-7-first-alert-flood-advisory-for-santa-teresa-and-sunland-park-until-945-pm/",
+        "mention_text": "West El Paso",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "El Paso, West Paisano Drive, El Paso, El Paso County, Texas, 79901, United States",
+        "osm_type": "station",
+        "osm_id": 5799164131,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6865799,
+          31.8700346
+        ]
+      },
+      "properties": {
+        "article_id": "https://kvia.com/news/top-stories/2026/07/18/abc-7-first-alert-flood-advisory-for-santa-teresa-and-sunland-park-until-945-pm/",
+        "title": "ABC-7 First Alert: Flood Advisory for West El Paso, Santa Teresa, and Sunland Park until 9:45 PM",
+        "source": "KVIA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-19T02:54:08Z",
+        "url": "https://kvia.com/news/top-stories/2026/07/18/abc-7-first-alert-flood-advisory-for-santa-teresa-and-sunland-park-until-945-pm/",
+        "mention_text": "Santa Teresa",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Santa Teresa, Do\u00f1a Ana County, New Mexico, 88008, United States",
+        "osm_type": "administrative",
+        "osm_id": 171075,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.579989,
+          31.796496
+        ]
+      },
+      "properties": {
+        "article_id": "https://kvia.com/news/top-stories/2026/07/18/abc-7-first-alert-flood-advisory-for-santa-teresa-and-sunland-park-until-945-pm/",
+        "title": "ABC-7 First Alert: Flood Advisory for West El Paso, Santa Teresa, and Sunland Park until 9:45 PM",
+        "source": "KVIA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-19T02:54:08Z",
+        "url": "https://kvia.com/news/top-stories/2026/07/18/abc-7-first-alert-flood-advisory-for-santa-teresa-and-sunland-park-until-945-pm/",
+        "mention_text": "Sunland Park",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Sunland Park, Do\u00f1a Ana County, New Mexico, 88063, United States",
+        "osm_type": "administrative",
+        "osm_id": 171077,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8085436,
+          31.4274044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ksn.com/video/helicopter-responds-during-flash-flood-emergency-in-central-texas/11977365/",
+        "title": "Helicopter responds during Flash Flood Emergency in Central Texas",
+        "source": "KSN.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-18T18:40:54Z",
+        "url": "https://www.ksn.com/video/helicopter-responds-during-flash-flood-emergency-in-central-texas/11977365/",
+        "mention_text": "Central Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, Angelina County, Texas, 76969, United States",
+        "osm_type": "hamlet",
+        "osm_id": 151831870,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5781416,
+          39.100105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kansascity.com/news/weather-news/article316538854.html",
+        "title": "Update: Flood advisory affecting the Kansas City area Thursday evening",
+        "source": "Kansas City Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T20:45:09Z",
+        "url": "https://www.kansascity.com/news/weather-news/article316538854.html",
+        "mention_text": "Kansas City",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kansas City, Jackson County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 141008,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6863808,
+          36.2228105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316563945.html",
+        "title": "Flood advisory issued for Watauga County early Saturday evening, says the NWS",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-18T19:44:05Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316563945.html",
+        "mention_text": "Watauga County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Watauga County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528754,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9602376,
+          39.8455208
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316555430.html",
+        "title": "UPDATE: Flood advisory in place for Macon County Friday evening, says the NWS",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T21:14:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316555430.html",
+        "mention_text": "Macon County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Macon County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1800576,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailybulletin.com/2026/07/17/flood-advisory-active-for-san-bernardino-county-until-early-friday-evening-caused-by-excessive-rainfall/",
+        "title": "Flood advisory active for San Bernardino County until early Friday evening caused by excessive rainfall",
+        "source": "Daily Bulletin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T22:00:14Z",
+        "url": "https://www.dailybulletin.com/2026/07/17/flood-advisory-active-for-san-bernardino-county-until-early-friday-evening-caused-by-excessive-rainfall/",
+        "mention_text": "San Bernardino County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox44news.com/news/state/live-updates-flash-flooding-emergency-along-pedernales-river-for-gillespie-blanco-counties/",
+        "title": "Live updates: Flash Flood Emergency in Texas turns fatal",
+        "source": "KWKT - FOX 44",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T15:02:30Z",
+        "url": "https://www.fox44news.com/news/state/live-updates-flash-flooding-emergency-along-pedernales-river-for-gillespie-blanco-counties/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8085436,
+          31.4274044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.borderreport.com/video/helicopter-responds-during-flash-flood-emergency-in-central-texas/11977365/",
+        "title": "Helicopter responds during Flash Flood Emergency in Central Texas",
+        "source": "BorderReport",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T15:16:00Z",
+        "url": "https://www.borderreport.com/video/helicopter-responds-during-flash-flood-emergency-in-central-texas/11977365/",
+        "mention_text": "Central Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, Angelina County, Texas, 76969, United States",
+        "osm_type": "hamlet",
+        "osm_id": 151831870,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1399464,
+          30.048469
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ksn.com/video/july-16-2026-flash-flood-emergency-latest-reports-from-kerrville-uvalde/11979516/",
+        "title": "July 16, 2026 Flash Flood Emergency: Latest reports from Kerrville, Uvalde",
+        "source": "KSN.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T23:14:14Z",
+        "url": "https://www.ksn.com/video/july-16-2026-flash-flood-emergency-latest-reports-from-kerrville-uvalde/11979516/",
+        "mention_text": "Kerrville",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kerrville, Kerr County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 7718574,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1399464,
+          30.048469
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wkrg.com/video/july-16-2026-flash-flood-emergency-latest-reports-from-kerrville-uvalde/11979516/",
+        "title": "July 16, 2026 Flash Flood Emergency: Latest reports from Kerrville, Uvalde",
+        "source": "WKRG",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T23:14:14Z",
+        "url": "https://www.wkrg.com/video/july-16-2026-flash-flood-emergency-latest-reports-from-kerrville-uvalde/11979516/",
+        "mention_text": "Kerrville",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kerrville, Kerr County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 7718574,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.628184,
+          30.2404089
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kvue.com/video/news/live-flash-flood-emergency-issued-for-pedernales-river-in-gillespie-and-blanco-counties/269-2d96ad07-d74e-42b0-8959-c01aa1ae01d1",
+        "title": "LIVE: Flash Flood Emergency issued for Pedernales River in Gillespie and Blanco Counties",
+        "source": "KVUE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T13:58:00Z",
+        "url": "https://www.kvue.com/video/news/live-flash-flood-emergency-issued-for-pedernales-river-in-gillespie-and-blanco-counties/269-2d96ad07-d74e-42b0-8959-c01aa1ae01d1",
+        "mention_text": "Pedernales River",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pedernales River, Texas, United States",
+        "osm_type": "river",
+        "osm_id": 20162893,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9086643,
+          30.2954086
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kvue.com/video/news/live-flash-flood-emergency-issued-for-pedernales-river-in-gillespie-and-blanco-counties/269-2d96ad07-d74e-42b0-8959-c01aa1ae01d1",
+        "title": "LIVE: Flash Flood Emergency issued for Pedernales River in Gillespie and Blanco Counties",
+        "source": "KVUE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T13:58:00Z",
+        "url": "https://www.kvue.com/video/news/live-flash-flood-emergency-issued-for-pedernales-river-in-gillespie-and-blanco-counties/269-2d96ad07-d74e-42b0-8959-c01aa1ae01d1",
+        "mention_text": "Gillespie",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Gillespie County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1827125,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.redlandsdailyfacts.com/2026/07/17/update-flood-advisory-active-for-san-bernardino-county-until-friday-night-due-to-substantial-rainfall/",
+        "title": "Update: Flood advisory active for San Bernardino County until Friday night due to substantial rainfall",
+        "source": "Redlands Daily Facts",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-18T03:14:43Z",
+        "url": "https://www.redlandsdailyfacts.com/2026/07/17/update-flood-advisory-active-for-san-bernardino-county-until-friday-night-due-to-substantial-rainfall/",
+        "mention_text": "San Bernardino County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6742033,
+          34.5810346
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article316498114.html",
+        "title": "UPDATE: Flood advisory active for Marlboro County Monday night, says the NWS",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-14T00:52:04Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article316498114.html",
+        "mention_text": "Marlboro County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Marlboro County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532516,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article316502266.html",
+        "title": "UPDATE: The current flood advisory for Charleston County will be expiring at 9:30 a.m.",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-14T13:43:04Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article316502266.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article316499320.html",
+        "title": "Flood advisory for Myrtle Beach area until 2 a.m. Tuesday, says the NWS",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-14T03:27:05Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article316499320.html",
+        "mention_text": "Myrtle Beach",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Myrtle Beach, Horry County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193842,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2643033,
+          36.5798257
+        ]
+      },
+      "properties": {
+        "article_id": "https://ktrh.iheart.com/featured/houston-texas-news/content/2026-07-16-flash-flood-emergency-in-hill-country-as-san-antonio-is-hit-with-more-rain/",
+        "title": "Flash Flood Emergency in Hill Country as San Antonio is Hit with More Rain",
+        "source": "NewsRadio 740 KTRH",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T09:08:24Z",
+        "url": "https://ktrh.iheart.com/featured/houston-texas-news/content/2026-07-16-flash-flood-emergency-in-hill-country-as-san-antonio-is-hit-with-more-rain/",
+        "mention_text": "Hill Country",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hill Country, Walnut Hill, Sullivan County, East Tennessee, Tennessee, 37621, United States",
+        "osm_type": "neighbourhood",
+        "osm_id": 154113248,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4951405,
+          29.4246002
+        ]
+      },
+      "properties": {
+        "article_id": "https://ktrh.iheart.com/featured/houston-texas-news/content/2026-07-16-flash-flood-emergency-in-hill-country-as-san-antonio-is-hit-with-more-rain/",
+        "title": "Flash Flood Emergency in Hill Country as San Antonio is Hit with More Rain",
+        "source": "NewsRadio 740 KTRH",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T09:08:24Z",
+        "url": "https://ktrh.iheart.com/featured/houston-texas-news/content/2026-07-16-flash-flood-emergency-in-hill-country-as-san-antonio-is-hit-with-more-rain/",
+        "mention_text": "San Antonio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Antonio, Bexar County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 253556,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wsjm.com/2026/07/16/1-dead-in-texas-hill-country-flash-flood-emergency-governor-says/",
+        "title": "1 dead in Texas Hill Country flash flood emergency, governor says",
+        "source": "News/Talk/Sports 94.9 WSJM",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T23:07:44Z",
+        "url": "https://www.wsjm.com/2026/07/16/1-dead-in-texas-hill-country-flash-flood-emergency-governor-says/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/texas-flash-flood-emergency-swamps-072700624.html",
+        "title": "Texas flash flood emergency swamps homes, and leaves Kerr County residents stranded",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T07:27:00Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/texas-flash-flood-emergency-swamps-072700624.html",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3884839,
+          30.045717
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/texas-flash-flood-emergency-swamps-072700624.html",
+        "title": "Texas flash flood emergency swamps homes, and leaves Kerr County residents stranded",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T07:27:00Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/texas-flash-flood-emergency-swamps-072700624.html",
+        "mention_text": "Kerr County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kerr County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1827126,
+        "run_at": "2026-07-19T08:20:13.558814+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-07-18T07:54:30.993927+00:00",
-    "total_features": 2646
+    "last_updated": "2026-07-19T08:20:13.571749+00:00",
+    "total_features": 2697
   }
 }
