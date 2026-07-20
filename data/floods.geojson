@@ -70122,11 +70122,739 @@
         "osm_id": 1827126,
         "run_at": "2026-07-19T08:20:13.558814+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.43428,
+          37.5385087
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316574092.html",
+        "title": "UPDATE: Flash flood warning affecting Anson and Richmond counties early Monday morning",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-20T06:51:04Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316574092.html",
+        "mention_text": "Richmond",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Richmond, Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 3864712,
+        "run_at": "2026-07-20T09:02:07.537888+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/US/wireStory/5-family-members-found-dead-after-flash-flood-134896454",
+        "title": "5 family members found dead after flash flood in a scenic Utah canyon, authorities say",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-20T07:02:18Z",
+        "url": "https://abcnews.com/US/wireStory/5-family-members-found-dead-after-flash-flood-134896454",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-07-20T09:02:07.537888+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3709999,
+          40.6916624
+        ]
+      },
+      "properties": {
+        "article_id": "https://kutv.com/news/local/evacuations-underway-in-beaver-as-debris-flow-triggers-flash-flood-emergency",
+        "title": "Evacuations underway in Beaver as debris flow triggers flash flood emergency",
+        "source": "KUTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-20T04:32:34Z",
+        "url": "https://kutv.com/news/local/evacuations-underway-in-beaver-as-debris-flow-triggers-flash-flood-emergency",
+        "mention_text": "Beaver",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Beaver County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 2563474,
+        "run_at": "2026-07-20T09:02:07.537888+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.6495508,
+          37.7633081
+        ]
+      },
+      "properties": {
+        "article_id": "https://gephardtdaily.com/local/flash-flood-warning-issued-for-area-of-babylon-burn-scar-in-san-juan-county/",
+        "title": "Flash Flood warning issued for area of Babylon burn scar in San Juan County",
+        "source": "Gephardt Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-19T20:53:18Z",
+        "url": "https://gephardtdaily.com/local/flash-flood-warning-issued-for-area-of-babylon-burn-scar-in-san-juan-county/",
+        "mention_text": "San Juan County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Juan County, Colorado, 81433, United States",
+        "osm_type": "administrative",
+        "osm_id": 416522,
+        "run_at": "2026-07-20T09:02:07.537888+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8284874,
+          40.1353697
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.stgeorgeutah.com/flood-and-fire/updated-beaver-city-residents-urged-to-seek-higher-ground-now-as-flash-flood-hits-canyon/article_10826662-4ec4-41e1-a1a5-53e84bbae620.html",
+        "title": "UPDATED: Beaver City residents urged to \"seek higher ground now\" as flash flood hits canyon",
+        "source": "St. George News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-20T01:15:00Z",
+        "url": "https://www.stgeorgeutah.com/flood-and-fire/updated-beaver-city-residents-urged-to-seek-higher-ground-now-as-flash-flood-hits-canyon/article_10826662-4ec4-41e1-a1a5-53e84bbae620.html",
+        "mention_text": "Beaver City",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Beaver City, Furnas County, Nebraska, 68926, United States",
+        "osm_type": "administrative",
+        "osm_id": 169367,
+        "run_at": "2026-07-20T09:02:07.537888+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3801566,
+          27.5213933
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bradenton.com/news/weather/article316570888.html",
+        "title": "Flood warning issued for Manatee County after heavy rain, forecasters say",
+        "source": "Bradenton Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-19T19:39:00Z",
+        "url": "https://www.bradenton.com/news/weather/article316570888.html",
+        "mention_text": "Manatee County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Manatee County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210690,
+        "run_at": "2026-07-20T09:02:07.537888+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3936114,
+          30.2226352
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.stgeorgeutah.com/flood-and-fire/southern-utahns-assess-storm-damage-as-new-flash-flood-warning-issued-for-washington-county/article_bcbce080-8ec7-490a-a81e-441ad72fd658.html",
+        "title": "Southern Utahns assess storm damage as new flash flood warning issued for Washington County",
+        "source": "St. George News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-20T01:00:00Z",
+        "url": "https://www.stgeorgeutah.com/flood-and-fire/southern-utahns-assess-storm-damage-as-new-flash-flood-warning-issued-for-washington-county/article_bcbce080-8ec7-490a-a81e-441ad72fd658.html",
+        "mention_text": "Washington County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Washington County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837751,
+        "run_at": "2026-07-20T09:02:07.537888+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.607716,
+          38.7251776
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/colorado/video/national-weather-service-warns-colorado-wildfires-creating-hydrophobic-soil-flash-flood-dangers/",
+        "title": "National Weather Service warns Colorado wildfires creating hydrophobic soil, flash flood dangers",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-19T18:19:00Z",
+        "url": "https://www.cbsnews.com/colorado/video/national-weather-service-warns-colorado-wildfires-creating-hydrophobic-soil-flash-flood-dangers/",
+        "mention_text": "Colorado",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 161961,
+        "run_at": "2026-07-20T09:02:07.537888+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7919454,
+          32.8551267
+        ]
+      },
+      "properties": {
+        "article_id": "https://kvia.com/news/top-stories/2026/07/19/abc-7-first-alert-flash-flood-warning-extended-to-eastern-las-cruces-until-6-pm-1-to-1-5-inches-of-rain-have-fallen-turn-around-dont-drown/",
+        "title": "ABC-7 First Alert: Flash Flood Warning extended to Eastern Las Cruces including University Park until 6 PM, 1 to 1.5 inches of rain have fallen... Turn Around, Don't Drown",
+        "source": "KVIA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-19T22:06:51Z",
+        "url": "https://kvia.com/news/top-stories/2026/07/19/abc-7-first-alert-flash-flood-warning-extended-to-eastern-las-cruces-until-6-pm-1-to-1-5-inches-of-rain-have-fallen-turn-around-dont-drown/",
+        "mention_text": "University Park",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "University Park, Dallas County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 3480034,
+        "run_at": "2026-07-20T09:02:07.537888+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://kyma.com/news/national-world/2026/07/19/five-family-members-die-in-a-utah-flash-flood/",
+        "title": "Five family members die in a Utah flash flood",
+        "source": "kyma.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-19T17:40:15Z",
+        "url": "https://kyma.com/news/national-world/2026/07/19/five-family-members-die-in-a-utah-flash-flood/",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-07-20T09:02:07.537888+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://kutv.com/news/local/flash-flood-threat-returns-as-monsoon-storms-continue-across-utah",
+        "title": "Flash flood threat returns as monsoon storms continue across Utah",
+        "source": "KUTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-19T18:33:33Z",
+        "url": "https://kutv.com/news/local/flash-flood-threat-returns-as-monsoon-storms-continue-across-utah",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-07-20T09:02:07.537888+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastidahonews.com/2026/07/provo-fire-captain-and-family-identified-as-victims-of-southern-utah-flash-flood/",
+        "title": "Provo fire captain and family identified as victims of southern Utah flash flood",
+        "source": "East Idaho News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-19T21:05:00Z",
+        "url": "https://www.eastidahonews.com/2026/07/provo-fire-captain-and-family-identified-as-victims-of-southern-utah-flash-flood/",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-07-20T09:02:07.537888+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://kutv.com/news/local/gallery/flash-flood-threat-returns-as-monsoon-storms-continue-across-utah",
+        "title": "Flash flood threat returns as monsoon storms continue across Utah",
+        "source": "KUTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-19T18:33:48Z",
+        "url": "https://kutv.com/news/local/gallery/flash-flood-threat-returns-as-monsoon-storms-continue-across-utah",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-07-20T09:02:07.537888+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1137366,
+          32.3293809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wsbtv.com/news/local/tracking-scattered-storms-threat-damaging-wind-gusts-across-metro-atlanta-this-hot-sunday/2W4OMWZQBBBYPEBGZPYXX5DO44/",
+        "title": "Flash flood, severe thunderstorm warnings expire for north Georgia",
+        "source": "WSB-TV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-20T01:20:00Z",
+        "url": "https://www.wsbtv.com/news/local/tracking-scattered-storms-threat-damaging-wind-gusts-across-metro-atlanta-this-hot-sunday/2W4OMWZQBBBYPEBGZPYXX5DO44/",
+        "mention_text": "Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 161957,
+        "run_at": "2026-07-20T09:02:07.537888+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6881395,
+          40.2253569
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtrf.com/weather/severe-thunderstorm-warning-issued-in-ohio-valley-4/",
+        "title": "Flash Flood Warning issued in Ohio Valley",
+        "source": "WTRF",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-18T20:28:41Z",
+        "url": "https://www.wtrf.com/weather/severe-thunderstorm-warning-issued-in-ohio-valley-4/",
+        "mention_text": "Ohio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 162061,
+        "run_at": "2026-07-20T09:02:07.537888+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9805484,
+          41.5595723
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtrf.com/weather/severe-thunderstorm-warning-issued-in-ohio-valley-4/",
+        "title": "Flash Flood Warning issued in Ohio Valley",
+        "source": "WTRF",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-18T20:28:41Z",
+        "url": "https://www.wtrf.com/weather/severe-thunderstorm-warning-issued-in-ohio-valley-4/",
+        "mention_text": "Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Valley County, Nebraska, United States",
+        "osm_type": "administrative",
+        "osm_id": 1425395,
+        "run_at": "2026-07-20T09:02:07.537888+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316572608.html",
+        "title": "UPDATE: Flood advisory affecting the Piedmont region early Monday morning",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-20T07:22:01Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316572608.html",
+        "mention_text": "Piedmont",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-07-20T09:02:07.537888+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316570536.html",
+        "title": "UPDATE: Flood advisory for the Piedmont region until early Monday morning",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-20T06:09:05Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316570536.html",
+        "mention_text": "Piedmont",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-07-20T09:02:07.537888+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8927522,
+          35.469331
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316571447.html",
+        "title": "UPDATE: Flood advisory active for Beaufort and Hyde counties Sunday evening",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-19T21:36:02Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316571447.html",
+        "mention_text": "Beaufort",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Beaufort County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528675,
+        "run_at": "2026-07-20T09:02:07.537888+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1253302,
+          35.3935017
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316571447.html",
+        "title": "UPDATE: Flood advisory active for Beaufort and Hyde counties Sunday evening",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-19T21:36:02Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316571447.html",
+        "mention_text": "Hyde",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hyde County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1236353,
+        "run_at": "2026-07-20T09:02:07.537888+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox26houston.com/news/trump-approves-texas-flood-emergency-declaration-authorizing-fema-relief",
+        "title": "Trump approves Texas flood emergency declaration, authorizing FEMA relief",
+        "source": "FOX 26 Houston",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-18T23:00:14Z",
+        "url": "https://www.fox26houston.com/news/trump-approves-texas-flood-emergency-declaration-authorizing-fema-relief",
+        "mention_text": "Texas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-20T09:02:07.537888+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316572783.html",
+        "title": "UPDATE: North Carolina placed under a flood advisory until 1 a.m. Monday",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-20T02:17:02Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316572783.html",
+        "mention_text": "North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-07-20T09:02:07.537888+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316570912.html",
+        "title": "UPDATE: The current flood advisory for North Carolina will expire at 5 p.m.",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-19T21:13:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316570912.html",
+        "mention_text": "North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-07-20T09:02:07.537888+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.conchovalleyhomepage.com/news/texas/live-updates-flash-flood-emergency-in-kerr-county-as-rain-continues-to-pound-texas/",
+        "title": "Live updates: Flash Flood Emergency in Texas turns fatal",
+        "source": "ConchoValleyHomepage.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T12:46:18Z",
+        "url": "https://www.conchovalleyhomepage.com/news/texas/live-updates-flash-flood-emergency-in-kerr-county-as-rain-continues-to-pound-texas/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-20T09:02:07.537888+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1399464,
+          30.048469
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.borderreport.com/video/july-16-2026-flash-flood-emergency-latest-reports-from-kerrville-uvalde/11979516/",
+        "title": "July 16, 2026 Flash Flood Emergency: Latest reports from Kerrville, Uvalde",
+        "source": "BorderReport",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T23:14:14Z",
+        "url": "https://www.borderreport.com/video/july-16-2026-flash-flood-emergency-latest-reports-from-kerrville-uvalde/11979516/",
+        "mention_text": "Kerrville",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kerrville, Kerr County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 7718574,
+        "run_at": "2026-07-20T09:02:07.537888+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8085436,
+          31.4274044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbs42.com/video/helicopter-responds-during-flash-flood-emergency-in-central-texas/11977365/",
+        "title": "Helicopter responds during Flash Flood Emergency in Central Texas",
+        "source": "CBS 42",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T15:16:00Z",
+        "url": "https://www.cbs42.com/video/helicopter-responds-during-flash-flood-emergency-in-central-texas/11977365/",
+        "mention_text": "Central Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, Angelina County, Texas, 76969, United States",
+        "osm_type": "hamlet",
+        "osm_id": 151831870,
+        "run_at": "2026-07-20T09:02:07.537888+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0372472,
+          33.7219991
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sbsun.com/2026/07/16/flood-advisory-in-place-for-riverside-county-thursday-evening-due-to-heavy-rain/",
+        "title": "Flood advisory in place for Riverside County Thursday evening due to heavy rain",
+        "source": "San Bernardino Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T02:12:12Z",
+        "url": "https://www.sbsun.com/2026/07/16/flood-advisory-in-place-for-riverside-county-thursday-evening-due-to-heavy-rain/",
+        "mention_text": "Riverside County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Riverside County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396495,
+        "run_at": "2026-07-20T09:02:07.537888+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://ruralradio.com/kneb-tv/abc_news/1-dead-in-texas-hill-country-flash-flood-emergency-governor-says-abcid04ead31e/",
+        "title": "1 dead in Texas Hill Country flash flood emergency, governor says",
+        "source": "Rural Radio Network",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-17T02:25:14Z",
+        "url": "https://ruralradio.com/kneb-tv/abc_news/1-dead-in-texas-hill-country-flash-flood-emergency-governor-says-abcid04ead31e/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-20T09:02:07.537888+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-07-19T08:20:13.571749+00:00",
-    "total_features": 2697
+    "last_updated": "2026-07-20T09:02:07.552016+00:00",
+    "total_features": 2725
   }
 }
