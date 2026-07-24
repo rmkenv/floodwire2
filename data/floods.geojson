@@ -73892,11 +73892,1259 @@
         "osm_id": 162068,
         "run_at": "2026-07-23T08:33:44.671143+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2411283,
+          40.08067
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article316637707.html",
+        "title": "Flash flood warning issued for Lancaster County until early Friday morning",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-24T05:53:06Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article316637707.html",
+        "mention_text": "Lancaster County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lancaster County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417768,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.996047,
+          34.5802074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kob.com/new-mexico/flash-flood-risk-rises-as-storms-bring-heavy-rain-to-parts-of-new-mexico/",
+        "title": "Flash flood risk rises as storms bring heavy rain to parts of New Mexico",
+        "source": "KOB 4",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-24T06:00:04Z",
+        "url": "https://www.kob.com/new-mexico/flash-flood-risk-rises-as-storms-bring-heavy-rain-to-parts-of-new-mexico/",
+        "mention_text": "New Mexico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 162014,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5171754,
+          35.6315952
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316637706.html",
+        "title": "Flood warning issued for Rowan County until Friday morning",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-24T05:53:06Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316637706.html",
+        "mention_text": "Rowan County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Rowan County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528740,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5255603,
+          35.6292222
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316634716.html",
+        "title": "Flash flood warning affecting Buncombe County until early Friday, says the NWS",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T22:20:09Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316634716.html",
+        "mention_text": "Buncombe County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Buncombe County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528678,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0933471,
+          31.8034812
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kunc.org/regional-news/2026-07-23/rains-bring-flash-flood-risk-to-the-west-including-near-burn-scars",
+        "title": "Rains bring flash flood risk to the West, including near burn scars",
+        "source": "KUNC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T14:45:00Z",
+        "url": "https://www.kunc.org/regional-news/2026-07-23/rains-bring-flash-flood-risk-to-the-west-including-near-burn-scars",
+        "mention_text": "West",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "West, McLennan County, Texas, 14673, United States",
+        "osm_type": "administrative",
+        "osm_id": 6584731,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5551149,
+          30.2635712
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.salisburypost.com/2026/07/23/fire-crews-respond-to-tinseltown-amid-flash-flood-emergency-calls/",
+        "title": "Fire crews respond to Tinseltown amid flash flood emergency calls",
+        "source": "Salisbury Post",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-24T02:54:46Z",
+        "url": "https://www.salisburypost.com/2026/07/23/fire-crews-respond-to-tinseltown-amid-flash-flood-emergency-calls/",
+        "mention_text": "Tinseltown",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tinseltown, Jacksonville, Duval County, Florida, United States",
+        "osm_type": "retail",
+        "osm_id": 658961461,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316623888.html",
+        "title": "UPDATE: Flash flood warning in place for North Carolina until Thursday afternoon",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T15:56:07Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316623888.html",
+        "mention_text": "North Carolina",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8408415,
+          38.4758406
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdtv.com/2026/07/23/west-virginia-dads-home-camera-captures-90-second-flash-flood-escape/",
+        "title": "West Virginia dad\u2019s home camera captures 90-second flash flood escape",
+        "source": "WDTV 5",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T21:15:00Z",
+        "url": "https://www.wdtv.com/2026/07/23/west-virginia-dads-home-camera-captures-90-second-flash-flood-escape/",
+        "mention_text": "West Virginia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "West Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 162068,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2803933,
+          40.1541581
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fayobserver.com/story/news/local/2026/07/23/flash-flood-risk-grows-in-cumberland-county-as-heavy-rain-falls/91020652007/",
+        "title": "Flood Watch in effect in Cumberland County through Friday morning",
+        "source": "The Fayetteville Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T14:01:00Z",
+        "url": "https://www.fayobserver.com/story/news/local/2026/07/23/flash-flood-risk-grows-in-cumberland-county-as-heavy-rain-falls/91020652007/",
+        "mention_text": "Cumberland County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cumberland County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417440,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5537864,
+          35.6258667
+        ]
+      },
+      "properties": {
+        "article_id": "https://828newsnow.com/news/228822-heavy-rain-causes-flooding-road-hazards-across-asheville-area/",
+        "title": "Flash Flood Warning issued for Asheville as Merrimon Avenue floods, stranded vehicles reported",
+        "source": "828 News Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T23:21:42Z",
+        "url": "https://828newsnow.com/news/228822-heavy-rain-causes-flooding-road-hazards-across-asheville-area/",
+        "mention_text": "Merrimon Avenue",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Merrimon Avenue, Grace, Asheville, Buncombe County, North Carolina, 28804, United States",
+        "osm_type": "primary",
+        "osm_id": 236938555,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1137366,
+          32.3293809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/atlanta/video/flash-flood-watch-heavy-rain-and-storms-threaten-north-georgia-this-weekend/",
+        "title": "Flash Flood Watch: Heavy rain and storms threaten north Georgia this weekend",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T22:23:00Z",
+        "url": "https://www.cbsnews.com/atlanta/video/flash-flood-watch-heavy-rain-and-storms-threaten-north-georgia-this-weekend/",
+        "mention_text": "Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 161957,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7984208,
+          31.810931
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.abc4.com/utah-weather/utah-flooding/helicopter-rescue-stranded-flash-flood-proctor-canyon/",
+        "title": "Helicopter rescues 6 stranded from flash flood in Proctor Canyon",
+        "source": "ABC4 Utah",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T13:27:02Z",
+        "url": "https://www.abc4.com/utah-weather/utah-flooding/helicopter-rescue-stranded-flash-flood-proctor-canyon/",
+        "mention_text": "Proctor Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Proctor Spring, Box Canyon Road, Pima County, Arizona, United States",
+        "osm_type": "spring",
+        "osm_id": 2006092290,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.153438,
+          32.6651718
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox13now.com/weather/6-people-rescued-via-helicopter-following-flash-flood-near-hatch",
+        "title": "6 people rescued via helicopter following flash flood near Hatch",
+        "source": "FOX 13 News Utah",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T14:34:21Z",
+        "url": "https://www.fox13now.com/weather/6-people-rescued-via-helicopter-following-flash-flood-near-hatch",
+        "mention_text": "Hatch",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hatch, Do\u00f1a Ana County, New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 171259,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5970308,
+          35.4804633
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316623457.html",
+        "title": "Flash flood warning issued for Eastern North Carolina until Thursday morning",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T10:19:10Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316623457.html",
+        "mention_text": "Eastern North Carolina",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Eastern Correctional Institution, 2821, NC 903, Maury, Greene County, North Carolina, 28554, United States",
+        "osm_type": "prison",
+        "osm_id": 1353026405,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://spectrumlocalnews.com/nc/triad/weather/2026/07/23/flood-risk-for-north-carolina",
+        "title": "Flash Flood threat continues for North Carolina",
+        "source": "Spectrum News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T14:00:00Z",
+        "url": "https://spectrumlocalnews.com/nc/triad/weather/2026/07/23/flood-risk-for-north-carolina",
+        "mention_text": "North Carolina",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.607716,
+          38.7251776
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/colorado/video/more-storms-target-colorado-thursday-with-heavy-rain-and-flash-flood-threat-before-weekend-heat-retu/",
+        "title": "More storms target Colorado Thursday with heavy rain and flash flood threat before weekend heat retu",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T14:07:00Z",
+        "url": "https://www.cbsnews.com/colorado/video/more-storms-target-colorado-thursday-with-heavy-rain-and-flash-flood-threat-before-weekend-heat-retu/",
+        "mention_text": "Colorado",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 161961,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://islandfreepress.org/outer-banks-news/flood-watch-in-effect-as-heavy-rain-flash-flooding-threaten-eastern-north-carolina/",
+        "title": "Flood Watch in effect as heavy rain, flash flooding threaten eastern North Carolina",
+        "source": "Island Free Press",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T12:25:15Z",
+        "url": "https://islandfreepress.org/outer-banks-news/flood-watch-in-effect-as-heavy-rain-flash-flooding-threaten-eastern-north-carolina/",
+        "mention_text": "North Carolina",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azcentral.com/story/news/local/arizona-weather/2026/07/23/severe-thunderstorm-hail-flash-flood-warnings-for-northern-arizona/91028454007/",
+        "title": "Severe thunderstorm, flash flood, hail warnings for northern Arizona",
+        "source": "azcentral.com and The Arizona Republic",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T20:22:00Z",
+        "url": "https://www.azcentral.com/story/news/local/arizona-weather/2026/07/23/severe-thunderstorm-hail-flash-flood-warnings-for-northern-arizona/91028454007/",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0969821,
+          38.9786684
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.westernslopenow.com/top-stories/interstate-70-fully-reopened-after-massive-flash-flood/",
+        "title": "Interstate 70 fully reopened after massive flash flood",
+        "source": "WesternSlopeNow.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T15:22:45Z",
+        "url": "https://www.westernslopenow.com/top-stories/interstate-70-fully-reopened-after-massive-flash-flood/",
+        "mention_text": "Interstate 70",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Interstate 70, Vandalia, Fayette County, Illinois, 62471, United States",
+        "osm_type": "motorway",
+        "osm_id": 158061631,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.153438,
+          32.6651718
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox13now.com/videos/weather/6-people-rescued-via-helicopter-following-flash-flood-near-hatch",
+        "title": "6 people rescued via helicopter following flash flood near Hatch",
+        "source": "FOX 13 News Utah",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T14:27:14Z",
+        "url": "https://www.fox13now.com/videos/weather/6-people-rescued-via-helicopter-following-flash-flood-near-hatch",
+        "mention_text": "Hatch",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hatch, Do\u00f1a Ana County, New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 171259,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7876063,
+          33.7127577
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sfchronicle.com/weather/article/tahoe-food-watch-22352979.php",
+        "title": "California thunderstorms: latest on flash flood risk in Tahoe, Mammoth",
+        "source": "San Francisco Chronicle",
+        "outlet_city": "Houston",
+        "outlet_region": "Texas",
+        "published_at": "2026-07-21T11:07:21Z",
+        "url": "https://www.sfchronicle.com/weather/article/tahoe-food-watch-22352979.php",
+        "mention_text": "California",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, Walnut, Irvine, Orange County, California, 92782, United States",
+        "osm_type": "residential",
+        "osm_id": 13315119,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.5777138,
+          31.972677
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sfchronicle.com/weather/article/tahoe-food-watch-22352979.php",
+        "title": "California thunderstorms: latest on flash flood risk in Tahoe, Mammoth",
+        "source": "San Francisco Chronicle",
+        "outlet_city": "Houston",
+        "outlet_region": "Texas",
+        "published_at": "2026-07-21T11:07:21Z",
+        "url": "https://www.sfchronicle.com/weather/article/tahoe-food-watch-22352979.php",
+        "mention_text": "Tahoe",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tahoe, Westway, El Paso County, Texas, 79821, United States",
+        "osm_type": "residential",
+        "osm_id": 17317240,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4264802,
+          30.5966638
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sfchronicle.com/weather/article/tahoe-food-watch-22352979.php",
+        "title": "California thunderstorms: latest on flash flood risk in Tahoe, Mammoth",
+        "source": "San Francisco Chronicle",
+        "outlet_city": "Houston",
+        "outlet_region": "Texas",
+        "published_at": "2026-07-21T11:07:21Z",
+        "url": "https://www.sfchronicle.com/weather/article/tahoe-food-watch-22352979.php",
+        "mention_text": "Mammoth",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mammoth, Taylor, Williamson County, Texas, 76574, United States",
+        "osm_type": "residential",
+        "osm_id": 218872514,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0785945,
+          40.9745493
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316628265.html",
+        "title": "UPDATE: Flood advisory for Union County Thursday night triggered by intense rainfall",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-24T01:30:06Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316628265.html",
+        "mention_text": "Union County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Union County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 416655,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0785945,
+          40.9745493
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316628265.html",
+        "title": "UPDATE: Flood advisory for Union County Thursday night triggered by intense rainfall",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-24T01:30:06Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316628265.html",
+        "mention_text": "Union County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Union County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 416655,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3984882,
+          34.851354
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article316632700.html",
+        "title": "Flood advisory for Greenville and Spartanburg counties until Thursday night",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T20:22:09Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article316632700.html",
+        "mention_text": "Greenville",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Greenville, Greenville County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193989,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9320157,
+          34.9498007
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article316632700.html",
+        "title": "Flood advisory for Greenville and Spartanburg counties until Thursday night",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T20:22:09Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article316632700.html",
+        "mention_text": "Spartanburg",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Spartanburg, Spartanburg County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193950,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2411283,
+          40.08067
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article316637625.html",
+        "title": "Flood advisory in place for Lancaster County until 3 a.m. Friday triggered by heavy rain",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-24T05:07:06Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article316637625.html",
+        "mention_text": "Lancaster County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Lancaster County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417768,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5255603,
+          35.6292222
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316634254.html",
+        "title": "Flood advisory affecting Buncombe County until Thursday night caused by intense rainfall",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T21:49:08Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316634254.html",
+        "mention_text": "Buncombe County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Buncombe County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528678,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5970308,
+          35.4804633
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316625563.html",
+        "title": "Flood advisory active for Eastern North Carolina until Thursday midday",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T13:47:09Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316625563.html",
+        "mention_text": "Eastern North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Eastern Correctional Institution, 2821, NC 903, Maury, Greene County, North Carolina, 28554, United States",
+        "osm_type": "prison",
+        "osm_id": 1353026405,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7893178,
+          32.182598
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316634254.html",
+        "title": "UPDATE: Flood advisory active for Buncombe and Henderson counties until early Friday",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T22:48:06Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316634254.html",
+        "mention_text": "Henderson",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Henderson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839045,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0958187,
+          34.9705848
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316621825.html",
+        "title": "UPDATE: The flood advisory for Anson County is anticipated to expire at 8 p.m.",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-24T00:11:08Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316621825.html",
+        "mention_text": "Anson County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Anson County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528672,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5171754,
+          35.6315952
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316623629.html",
+        "title": "UPDATE: Flood advisory in place for Rowan County until early Friday morning",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T20:58:06Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316623629.html",
+        "mention_text": "Rowan County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Rowan County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528740,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6869011,
+          35.6333866
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316626215.html",
+        "title": "UPDATE: The current flood advisory for Dare County will expire at 5:45 p.m.",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T22:01:07Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316626215.html",
+        "mention_text": "Dare County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Dare County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1232267,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1253302,
+          35.3935017
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316627188.html",
+        "title": "Flood advisory affecting Hyde County until Thursday afternoon, says the NWS",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T15:26:08Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316627188.html",
+        "mention_text": "Hyde County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hyde County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1236353,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1253302,
+          35.3935017
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316627188.html",
+        "title": "UPDATE: The flood advisory for Hyde County is expected to expire at 5:15 p.m.",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T21:33:07Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316627188.html",
+        "mention_text": "Hyde County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hyde County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1236353,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6869011,
+          35.6333866
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316626215.html",
+        "title": "Flood advisory issued for Dare County Thursday afternoon due to prolonged rain",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T14:32:08Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316626215.html",
+        "mention_text": "Dare County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Dare County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1232267,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316621825.html",
+        "title": "UPDATE: Flood advisory for the Piedmont region predicted to expire at noon",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T16:20:08Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316621825.html",
+        "mention_text": "Piedmont",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1335644,
+          34.235309
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316619187.html",
+        "title": "UPDATE: Flood advisory active for Davidson and Forsyth counties Thursday morning",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T10:42:27Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316619187.html",
+        "mention_text": "Forsyth",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Forsyth County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 1024740,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7737991,
+          37.1716264
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article316602169.html",
+        "title": "UPDATE: Flood advisory previously issued for Madera and Mariposa counties will expire at 4 p.m.",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-21T23:23:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article316602169.html",
+        "mention_text": "Madera",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Madera County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396488,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8408415,
+          38.4758406
+        ]
+      },
+      "properties": {
+        "article_id": "https://edition.cnn.com/2026/07/21/weather/video/flash-flood-emergency-issued-in-west-virginia-weather-us-emergency-hnk-digvid-vrtc-dirty",
+        "title": "Flash flood emergency issued in West Virginia",
+        "source": "CNN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-22T02:59:00Z",
+        "url": "https://edition.cnn.com/2026/07/21/weather/video/flash-flood-emergency-issued-in-west-virginia-weather-us-emergency-hnk-digvid-vrtc-dirty",
+        "mention_text": "West Virginia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "West Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 162068,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7385978,
+          33.7898432
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316583518.html",
+        "title": "Flood advisory in place for Wilkes County Monday evening due to intense rainfall",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-20T19:21:09Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316583518.html",
+        "mention_text": "Wilkes County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Wilkes County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 1074323,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8408415,
+          38.4758406
+        ]
+      },
+      "properties": {
+        "article_id": "https://edition.cnn.com/2026/07/22/weather/video/flash-flood-emergency-issued-in-west-virginia-us-weather-warning-hnk-digvid-hori-dirty",
+        "title": "Flash flood emergency issued in West Virginia",
+        "source": "CNN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-22T06:14:40Z",
+        "url": "https://edition.cnn.com/2026/07/22/weather/video/flash-flood-emergency-issued-in-west-virginia-us-weather-warning-hnk-digvid-hori-dirty",
+        "mention_text": "West Virginia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "West Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 162068,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5959641,
+          29.8298971
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316585368.html",
+        "title": "Flood advisory issued for Caldwell County until Monday evening, says the NWS",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-20T21:02:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316585368.html",
+        "mention_text": "Caldwell County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Caldwell County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 92017,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8927522,
+          35.469331
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316571447.html",
+        "title": "UPDATE: Flood advisory active for Beaufort and Hyde counties Sunday evening",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-19T21:36:02Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316571447.html",
+        "mention_text": "Beaufort",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Beaufort County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528675,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1253302,
+          35.3935017
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316571447.html",
+        "title": "UPDATE: Flood advisory active for Beaufort and Hyde counties Sunday evening",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-19T21:36:02Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316571447.html",
+        "mention_text": "Hyde",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hyde County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1236353,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8408415,
+          38.4758406
+        ]
+      },
+      "properties": {
+        "article_id": "https://nypost.com/2026/07/22/us-news/state-of-emergency-issued-in-west-virginia-after-catastrophic-flooding-slams-the-state/",
+        "title": "Catastrophic flooding slams West Virginia \u2014 prompting Flash Flood Emergency from NWS",
+        "source": "New York Post",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-22T14:22:00Z",
+        "url": "https://nypost.com/2026/07/22/us-news/state-of-emergency-issued-in-west-virginia-after-catastrophic-flooding-slams-the-state/",
+        "mention_text": "West Virginia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "West Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 162068,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ktsm.com/news/large-flood-wave-on-guadalupe-river-prompts-evacuations-amid-flash-flood-emergency/",
+        "title": "Live updates: Flash Flood Emergency in Texas turns fatal",
+        "source": "KTSM 9 News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T13:14:56Z",
+        "url": "https://www.ktsm.com/news/large-flood-wave-on-guadalupe-river-prompts-evacuations-amid-flash-flood-emergency/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-24T08:32:11.325568+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-07-23T08:33:44.685708+00:00",
-    "total_features": 2842
+    "last_updated": "2026-07-24T08:32:11.341158+00:00",
+    "total_features": 2890
   }
 }
