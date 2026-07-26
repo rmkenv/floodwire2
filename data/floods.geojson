@@ -76180,11 +76180,453 @@
         "osm_id": 1857000,
         "run_at": "2026-07-25T08:11:21.333274+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5107018,
+          36.2810821
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wvlt.tv/2026/07/26/grainger-county-mayor-petitions-state-emergency-tennessee-amidst-continuing-flash-flooding-recovery-efforts/",
+        "title": "Grainger County Mayor petitions for state of emergency from Tennessee after flash flood damages, displacement",
+        "source": "WVLT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-26T02:16:00Z",
+        "url": "https://www.wvlt.tv/2026/07/26/grainger-county-mayor-petitions-state-emergency-tennessee-amidst-continuing-flash-flooding-recovery-efforts/",
+        "mention_text": "Grainger County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grainger County, East Tennessee, Tennessee, United States",
+        "osm_type": "administrative",
+        "osm_id": 1848177,
+        "run_at": "2026-07-26T08:30:36.573126+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wvlt.tv/2026/07/26/grainger-county-mayor-petitions-state-emergency-tennessee-amidst-continuing-flash-flooding-recovery-efforts/",
+        "title": "Grainger County Mayor petitions for state of emergency from Tennessee after flash flood damages, displacement",
+        "source": "WVLT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-26T02:16:00Z",
+        "url": "https://www.wvlt.tv/2026/07/26/grainger-county-mayor-petitions-state-emergency-tennessee-amidst-continuing-flash-flooding-recovery-efforts/",
+        "mention_text": "Tennessee",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tennessee, United States",
+        "osm_type": "administrative",
+        "osm_id": 161838,
+        "run_at": "2026-07-26T08:30:36.573126+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5627714,
+          34.627971
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316655314.html",
+        "title": "UPDATE: Flash flood warning active for Bladen and Columbus counties Saturday afternoon",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-25T16:32:13Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316655314.html",
+        "mention_text": "Bladen",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Bladen County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528676,
+        "run_at": "2026-07-26T08:30:36.573126+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0007065,
+          39.9622601
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316655314.html",
+        "title": "UPDATE: Flash flood warning active for Bladen and Columbus counties Saturday afternoon",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-25T16:32:13Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316655314.html",
+        "mention_text": "Columbus",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Columbus, Sharon, Franklin County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 182706,
+        "run_at": "2026-07-26T08:30:36.573126+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2684063,
+          34.9550817
+        ]
+      },
+      "properties": {
+        "article_id": "https://okcfox.com/news/local/oklahoma-swift-water-rescue-teams-return-home-from-texas-floods",
+        "title": "Oklahoma swift water rescue teams return home from Texas floods",
+        "source": "KOKH",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-25T17:14:50Z",
+        "url": "https://okcfox.com/news/local/oklahoma-swift-water-rescue-teams-return-home-from-texas-floods",
+        "mention_text": "Oklahoma",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Oklahoma, United States",
+        "osm_type": "administrative",
+        "osm_id": 161645,
+        "run_at": "2026-07-26T08:30:36.573126+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://okcfox.com/news/local/oklahoma-swift-water-rescue-teams-return-home-from-texas-floods",
+        "title": "Oklahoma swift water rescue teams return home from Texas floods",
+        "source": "KOKH",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-25T17:14:50Z",
+        "url": "https://okcfox.com/news/local/oklahoma-swift-water-rescue-teams-return-home-from-texas-floods",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-07-26T08:30:36.573126+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4508165,
+          33.7876673
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.krqe.com/news/new-mexico/flash-flood-warning-issued-for-south-fork-burn-scar-in-lincoln-county-2/",
+        "title": "Flash Flood warning issued for South Fork Burn Scar in Lincoln County",
+        "source": "KRQE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-24T21:20:31Z",
+        "url": "https://www.krqe.com/news/new-mexico/flash-flood-warning-issued-for-south-fork-burn-scar-in-lincoln-county-2/",
+        "mention_text": "Lincoln County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lincoln County, Georgia, 30817, United States",
+        "osm_type": "administrative",
+        "osm_id": 448085,
+        "run_at": "2026-07-26T08:30:36.573126+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2411283,
+          40.08067
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316637707.html",
+        "title": "Flash flood warning issued for Lancaster County until early Friday morning",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-24T05:53:06Z",
+        "url": "https://www.thestate.com/news/weather-news/article316637707.html",
+        "mention_text": "Lancaster County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lancaster County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417768,
+        "run_at": "2026-07-26T08:30:36.573126+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4074712,
+          36.5595325
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercedsunstar.com/news/weather-news/article316650933.html",
+        "title": "UPDATE: Flash flood warning previously issued for Inyo County will expire at 7:30 p.m.",
+        "source": "Merced Sun-Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-25T02:41:06Z",
+        "url": "https://www.mercedsunstar.com/news/weather-news/article316650933.html",
+        "mention_text": "Inyo County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Inyo County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396491,
+        "run_at": "2026-07-26T08:30:36.573126+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316623888.html",
+        "title": "UPDATE: Flash flood warning in place for North Carolina until Thursday afternoon",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T15:56:07Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316623888.html",
+        "mention_text": "North Carolina",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-07-26T08:30:36.573126+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9320157,
+          34.9498007
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article316660149.html",
+        "title": "Flood advisory for Cherokee and Spartanburg counties until early Sunday morning",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-26T06:05:06Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article316660149.html",
+        "mention_text": "Spartanburg",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Spartanburg, Spartanburg County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193950,
+        "run_at": "2026-07-26T08:30:36.573126+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0007065,
+          39.9622601
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316655072.html",
+        "title": "UPDATE: Flood advisory in place for Columbus and Robeson counties Saturday midday",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-25T14:55:06Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316655072.html",
+        "mention_text": "Columbus",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Columbus, Sharon, Franklin County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 182706,
+        "run_at": "2026-07-26T08:30:36.573126+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8463851,
+          37.1670484
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/miami/video/flood-advisory-in-effect-for-south-florida-this-weekend/",
+        "title": "Flood advisory in effect for South Florida this weekend",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-26T00:12:00Z",
+        "url": "https://www.cbsnews.com/miami/video/flood-advisory-in-effect-for-south-florida-this-weekend/",
+        "mention_text": "South Florida",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "South Florida, Columbus, Cherokee County, Kansas, 66725, United States",
+        "osm_type": "residential",
+        "osm_id": 12999746,
+        "run_at": "2026-07-26T08:30:36.573126+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316653504.html",
+        "title": "UPDATE: Flood advisory issued for the Piedmont region until Saturday midday",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-25T13:42:06Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316653504.html",
+        "mention_text": "Piedmont",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-07-26T08:30:36.573126+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0439978,
+          35.0808574
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316649418.html",
+        "title": "Flood advisory issued for Craven County Friday evening triggered by persistent rain",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-24T21:33:08Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316649418.html",
+        "mention_text": "Craven County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Craven County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528690,
+        "run_at": "2026-07-26T08:30:36.573126+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5970308,
+          35.4804633
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316572123.html",
+        "title": "Flood advisory in place for Eastern North Carolina until Sunday evening",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-19T21:58:02Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316572123.html",
+        "mention_text": "Eastern North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Eastern Correctional Institution, 2821, NC 903, Maury, Greene County, North Carolina, 28554, United States",
+        "osm_type": "prison",
+        "osm_id": 1353026405,
+        "run_at": "2026-07-26T08:30:36.573126+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439336,
+          37.8003441
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article316516599.html",
+        "title": "Coastal flood advisory issued for Northern California until early Thursday morning",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-15T10:51:03Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article316516599.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "First National Bank of Northern California, 2197, Chestnut Street, Cow Hollow, Marina District, San Francisco, California, 94123, United States",
+        "osm_type": "bank",
+        "osm_id": 4548821903,
+        "run_at": "2026-07-26T08:30:36.573126+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-07-25T08:11:21.347662+00:00",
-    "total_features": 2930
+    "last_updated": "2026-07-26T08:30:36.587728+00:00",
+    "total_features": 2947
   }
 }
