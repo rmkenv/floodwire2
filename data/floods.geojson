@@ -76622,11 +76622,531 @@
         "osm_id": 4548821903,
         "run_at": "2026-07-26T08:30:36.573126+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.186346,
+          37.3592837
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wric.com/weather/severe-weather/flash-flood-warning-issued-in-multiple-central-virginia-localities/",
+        "title": "Flash flood warning issued in multiple Central Virginia localities",
+        "source": "WRIC ABC 8News",
+        "outlet_city": "Richmond",
+        "outlet_region": "Virginia",
+        "published_at": "2026-07-26T23:26:14Z",
+        "url": "https://www.wric.com/weather/severe-weather/flash-flood-warning-issued-in-multiple-central-virginia-localities/",
+        "mention_text": "Central Virginia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central Virginia Community College, 3506, Wards Road, Lynchburg, Virginia, 24502, United States",
+        "osm_type": "college",
+        "osm_id": 117607560,
+        "run_at": "2026-07-27T09:55:47.517292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.7414887,
+          38.146044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kjct8.com/2026/07/26/flash-flood-advisory-issued-ouray-county-highway-550/",
+        "title": "Flash flood advisory issued for Ouray County, highway 550",
+        "source": "KJCT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-26T22:47:15Z",
+        "url": "https://www.kjct8.com/2026/07/26/flash-flood-advisory-issued-ouray-county-highway-550/",
+        "mention_text": "Ouray County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ouray County, Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 1411345,
+        "run_at": "2026-07-27T09:55:47.517292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article316664179.html",
+        "title": "UPDATE: Charleston County placed under a flash flood warning early Sunday evening",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-26T19:37:07Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article316664179.html",
+        "mention_text": "Charleston County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-07-27T09:55:47.517292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9399309,
+          32.7884363
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.counton2.com/news/nws-issues-severe-flash-flood-warning-for-charleston-county/",
+        "title": "NWS issues severe flash flood warnings for Charleston, Berkeley, and Dorchester counties",
+        "source": "WCBD News 2",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-26T17:33:35Z",
+        "url": "https://www.counton2.com/news/nws-issues-severe-flash-flood-warning-for-charleston-county/",
+        "mention_text": "Charleston",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Charleston, Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 194119,
+        "run_at": "2026-07-27T09:55:47.517292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.272863,
+          37.8708393
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.counton2.com/news/nws-issues-severe-flash-flood-warning-for-charleston-county/",
+        "title": "NWS issues severe flash flood warnings for Charleston, Berkeley, and Dorchester counties",
+        "source": "WCBD News 2",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-26T17:33:35Z",
+        "url": "https://www.counton2.com/news/nws-issues-severe-flash-flood-warning-for-charleston-county/",
+        "mention_text": "Berkeley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Berkeley, Alameda County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 2833528,
+        "run_at": "2026-07-27T09:55:47.517292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews4.com/news/local/flash-flood-warning-issued-for-portion-of-charleston-county-sunday",
+        "title": "Flash flood warning issued for portion of Charleston County Sunday",
+        "source": "WCIV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-27T00:34:29Z",
+        "url": "https://abcnews4.com/news/local/flash-flood-warning-issued-for-portion-of-charleston-county-sunday",
+        "mention_text": "Charleston County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-07-27T09:55:47.517292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5627714,
+          34.627971
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316655314.html",
+        "title": "UPDATE: Flash flood warning active for Bladen and Columbus counties Saturday afternoon",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-25T16:32:13Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316655314.html",
+        "mention_text": "Bladen",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Bladen County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528676,
+        "run_at": "2026-07-27T09:55:47.517292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0007065,
+          39.9622601
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316655314.html",
+        "title": "UPDATE: Flash flood warning active for Bladen and Columbus counties Saturday afternoon",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-25T16:32:13Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316655314.html",
+        "mention_text": "Columbus",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Columbus, Sharon, Franklin County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 182706,
+        "run_at": "2026-07-27T09:55:47.517292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.7482751,
+          32.38363
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/local/article316629939.html",
+        "title": "Flash flood threat in Hilton Head area this weekend. Here\u2019s how much rain we could get",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-24T09:30:00Z",
+        "url": "https://www.islandpacket.com/news/local/article316629939.html",
+        "mention_text": "Hilton Head",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hilton Head, The Villages of Abilene, Abilene, Taylor County, Texas, 79606, United States",
+        "osm_type": "residential",
+        "osm_id": 299872343,
+        "run_at": "2026-07-27T09:55:47.517292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0563254,
+          40.9678345
+        ]
+      },
+      "properties": {
+        "article_id": "https://patch.com/new-jersey/hoboken/thunderstorms-heavy-rain-weather-forecast-bergen-county-again-see-timing",
+        "title": "Thunderstorms And Flash Flood Threat In Bergen County Weather Forecast Again: See Timing",
+        "source": "Patch",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-26T13:08:30Z",
+        "url": "https://patch.com/new-jersey/hoboken/thunderstorms-heavy-rain-weather-forecast-bergen-county-again-see-timing",
+        "mention_text": "Bergen County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Bergen County, New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 958930,
+        "run_at": "2026-07-27T09:55:47.517292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5970308,
+          35.4804633
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316623457.html",
+        "title": "Flash flood warning issued for Eastern North Carolina until Thursday morning",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T10:19:10Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316623457.html",
+        "mention_text": "Eastern North Carolina",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Eastern Correctional Institution, 2821, NC 903, Maury, Greene County, North Carolina, 28554, United States",
+        "osm_type": "prison",
+        "osm_id": 1353026405,
+        "run_at": "2026-07-27T09:55:47.517292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6118311,
+          35.7979355
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316667767.html",
+        "title": "Flood advisory active for Wake County until early Monday morning caused by prolonged rain",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-27T06:20:08Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316667767.html",
+        "mention_text": "Wake County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Wake County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528697,
+        "run_at": "2026-07-27T09:55:47.517292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.677114,
+          32.8620726
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article316665380.html",
+        "title": "UPDATE: The flood advisory for Colleton County is anticipated to expire at 10 p.m.",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-27T02:12:09Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article316665380.html",
+        "mention_text": "Colleton County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Colleton County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857001,
+        "run_at": "2026-07-27T09:55:47.517292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9320157,
+          34.9498007
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316660149.html",
+        "title": "Flood advisory for Cherokee and Spartanburg counties until early Sunday morning",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-26T06:05:06Z",
+        "url": "https://www.thestate.com/news/weather-news/article316660149.html",
+        "mention_text": "Spartanburg",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Spartanburg, Spartanburg County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193950,
+        "run_at": "2026-07-27T09:55:47.517292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6869011,
+          35.6333866
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316661828.html",
+        "title": "Flood advisory for Dare County until Sunday afternoon triggered by heavy downpours",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-26T13:59:06Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316661828.html",
+        "mention_text": "Dare County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Dare County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1232267,
+        "run_at": "2026-07-27T09:55:47.517292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316570536.html",
+        "title": "UPDATE: Flood advisory active for North Carolina until 3 a.m. Tuesday",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-21T03:42:06Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316570536.html",
+        "mention_text": "North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-07-27T09:55:47.517292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8408415,
+          38.4758406
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ntd.com/severe-flooding-brings-national-guard-to-west-virginia_1161172.html",
+        "title": "Flood Emergency Brings National Guard to West Virginia",
+        "source": "NTD News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-22T15:54:48Z",
+        "url": "https://www.ntd.com/severe-flooding-brings-national-guard-to-west-virginia_1161172.html",
+        "mention_text": "West Virginia",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "West Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 162068,
+        "run_at": "2026-07-27T09:55:47.517292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8927522,
+          35.469331
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316571447.html",
+        "title": "UPDATE: Flood advisory active for Beaufort and Hyde counties Sunday evening",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-19T21:36:02Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316571447.html",
+        "mention_text": "Beaufort",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Beaufort County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528675,
+        "run_at": "2026-07-27T09:55:47.517292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1253302,
+          35.3935017
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316571447.html",
+        "title": "UPDATE: Flood advisory active for Beaufort and Hyde counties Sunday evening",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-19T21:36:02Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316571447.html",
+        "mention_text": "Hyde",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hyde County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1236353,
+        "run_at": "2026-07-27T09:55:47.517292+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439336,
+          37.8003441
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article316499182.html",
+        "title": "Northern California under a flood advisory Monday night due to excessive rain",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-14T03:01:04Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article316499182.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "First National Bank of Northern California, 2197, Chestnut Street, Cow Hollow, Marina District, San Francisco, California, 94123, United States",
+        "osm_type": "bank",
+        "osm_id": 4548821903,
+        "run_at": "2026-07-27T09:55:47.517292+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-07-26T08:30:36.587728+00:00",
-    "total_features": 2947
+    "last_updated": "2026-07-27T09:55:47.531958+00:00",
+    "total_features": 2967
   }
 }
