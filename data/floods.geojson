@@ -78286,11 +78286,1727 @@
         "osm_id": 1857001,
         "run_at": "2026-07-28T08:39:49.708581+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6869011,
+          35.6333866
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316694765.html",
+        "title": "Flash flood warning issued for Dare County until 2 a.m. Wednesday caused by thunderstorms",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T03:51:07Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316694765.html",
+        "mention_text": "Dare County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dare County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1232267,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.996047,
+          34.5802074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kob.com/new-mexico/flash-flood-watch-and-heat-advisories-in-effect-for-parts-of-new-mexico/",
+        "title": "Flash flood watch and heat advisories in effect for parts of New Mexico",
+        "source": "KOB 4",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T05:16:32Z",
+        "url": "https://www.kob.com/new-mexico/flash-flood-watch-and-heat-advisories-in-effect-for-parts-of-new-mexico/",
+        "mention_text": "New Mexico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 162014,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5970308,
+          35.4804633
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316694752.html",
+        "title": "Eastern North Carolina under a flash flood warning until 2 a.m. Wednesday",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T03:47:06Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316694752.html",
+        "mention_text": "Eastern North Carolina",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Eastern Correctional Institution, 2821, NC 903, Maury, Greene County, North Carolina, 28554, United States",
+        "osm_type": "prison",
+        "osm_id": 1353026405,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3709999,
+          40.6916624
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.abc4.com/utah-weather/utah-flooding/flash-flood-warning-beaver-piute-counties/",
+        "title": "Flash Flood Warning issued for areas of Beaver, Piute counties",
+        "source": "ABC4 Utah",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T01:23:40Z",
+        "url": "https://www.abc4.com/utah-weather/utah-flooding/flash-flood-warning-beaver-piute-counties/",
+        "mention_text": "Beaver",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Beaver County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 2563474,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.8503919,
+          34.7325886
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.koat.com/article/flash-flood-warning-issued-for-socorro-and-valencia-county-until-1015-pm/73290729",
+        "title": "Flash flood warning issued for Socorro and Valencia County until 10:15 p.m.",
+        "source": "KOAT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T03:24:00Z",
+        "url": "https://www.koat.com/article/flash-flood-warning-issued-for-socorro-and-valencia-county-until-1015-pm/73290729",
+        "mention_text": "Valencia County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Valencia County, New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832214,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7516205,
+          41.7194303
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/07/flash-flood-warning-in-place-for-dutchess-county-until-wednesday-morning-caused-by-thunderstorms.html",
+        "title": "Flash flood warning in place for Dutchess County until Wednesday morning caused by thunderstorms",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T07:12:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/07/flash-flood-warning-in-place-for-dutchess-county-until-wednesday-morning-caused-by-thunderstorms.html",
+        "mention_text": "Dutchess County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dutchess County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1427979,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.754968,
+          42.6511674
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/07/flash-flood-warning-issued-for-greene-and-ulster-counties-until-early-wednesday-morning-due-to-heavy.html",
+        "title": "Update: Flash flood warning active for Albany and Schenectady counties until Wednesday morning",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T04:54:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/07/flash-flood-warning-issued-for-greene-and-ulster-counties-until-early-wednesday-morning-due-to-heavy.html",
+        "mention_text": "Albany",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "City of Albany, Albany County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175549,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9395687,
+          42.8142432
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/07/flash-flood-warning-issued-for-greene-and-ulster-counties-until-early-wednesday-morning-due-to-heavy.html",
+        "title": "Update: Flash flood warning active for Albany and Schenectady counties until Wednesday morning",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T04:54:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/07/flash-flood-warning-issued-for-greene-and-ulster-counties-until-early-wednesday-morning-due-to-heavy.html",
+        "mention_text": "Schenectady",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "City of Schenectady, Schenectady County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175481,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5076569,
+          36.4393554
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wbtv.com/2026/07/28/severe-thunderstorm-flash-flood-warnings-issued-ashe-county/",
+        "title": "Severe thunderstorm and flash flood warnings issued for Ashe County",
+        "source": "WBTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-28T18:51:49Z",
+        "url": "https://www.wbtv.com/2026/07/28/severe-thunderstorm-flash-flood-warnings-issued-ashe-county/",
+        "mention_text": "Ashe County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ashe County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528673,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316693986.html",
+        "title": "The Piedmont region under a flash flood warning until early Wednesday",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T01:52:08Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316693986.html",
+        "mention_text": "Piedmont",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6485444,
+          42.9432099
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.lohud.com/story/weather/2026/07/28/flash-flood-warning-orange-rockland-putnam-westchester-july-2026/91082704007/",
+        "title": "Flash flood warning issued for parts of the Hudson Valley. See impacted areas",
+        "source": "Lohud",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-28T21:50:00Z",
+        "url": "https://www.lohud.com/story/weather/2026/07/28/flash-flood-warning-orange-rockland-putnam-westchester-july-2026/91082704007/",
+        "mention_text": "the Hudson Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Parish of All Saints on the Hudson (North Church), 895, Hudson Avenue, Village of Stillwater, Town of Stillwater, Saratoga County, New York, 12170, United States",
+        "osm_type": "place_of_worship",
+        "osm_id": 163427953,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.607716,
+          38.7251776
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-wjzjvq2dx0pd9nj3",
+        "title": "Flash Flood Emergency declared near Colorado burn scar as heavy rain impacts the region",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T02:16:37Z",
+        "url": "https://www.foxweather.com/watch/fmc-wjzjvq2dx0pd9nj3",
+        "mention_text": "Colorado",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 161961,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4220646,
+          39.1170227
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox21news.com/news/aspen-acres-fire-new-team-takes-over-high-flooding-danger-in-burn-scar/",
+        "title": "UPDATE: Flash flood warning issued, Hwy 78 closed at Beulah Hill",
+        "source": "FOX21 News Colorado",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-28T18:12:24Z",
+        "url": "https://www.fox21news.com/news/aspen-acres-fire-new-team-takes-over-high-flooding-danger-in-burn-scar/",
+        "mention_text": "Beulah Hill",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Beulah Hill, Wirt County, West Virginia, United States",
+        "osm_type": "hamlet",
+        "osm_id": 154190495,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1635262,
+          39.9527237
+        ]
+      },
+      "properties": {
+        "article_id": "https://northeasttimes.com/2026/07/28/severe-storms-flash-flood-warnings-hit-philadelphia-area-monday/",
+        "title": "Severe storms, flash flood warnings hit Philadelphia area Monday",
+        "source": "Northeast Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T03:00:00Z",
+        "url": "https://northeasttimes.com/2026/07/28/severe-storms-flash-flood-warnings-hit-philadelphia-area-monday/",
+        "mention_text": "Philadelphia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Philadelphia, Philadelphia County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 188022,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1340843,
+          36.5029951
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316686059.html",
+        "title": "UPDATE: Flash flood warning active for Alleghany County until Tuesday evening",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-28T19:12:06Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316686059.html",
+        "mention_text": "Alleghany County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Alleghany County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528671,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7342163,
+          41.6500201
+        ]
+      },
+      "properties": {
+        "article_id": "http://www.registercitizen.com/weather/article/ct-weather-forecast-7-29-26-flood-watch-heavy-rain-22363216.php",
+        "title": "Connecticut flood watch continues Wednesday as more heavy rain threatens flash flooding",
+        "source": "CT Insider",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T07:03:25Z",
+        "url": "http://www.registercitizen.com/weather/article/ct-weather-forecast-7-29-26-flood-watch-heavy-rain-22363216.php",
+        "mention_text": "Connecticut",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Connecticut, United States",
+        "osm_type": "administrative",
+        "osm_id": 165794,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.607716,
+          38.7251776
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/life-threatening-flash-flood-emergency-colorado",
+        "title": "Life-threatening Flash Flood Emergency issued near Colorado burn scar, triggering debris flows",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T00:30:00Z",
+        "url": "https://www.foxweather.com/weather-news/life-threatening-flash-flood-emergency-colorado",
+        "mention_text": "Colorado",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 161961,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.777946,
+          47.26334
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.9news.com/article/weather/severe-weather/flash-flood-emergency-aspen-acres-burn-scar-beulah/73-f29bba03-f107-46b2-817d-b0827b0347aa",
+        "title": "Flash Flood Emergency expires for Aspen Acres burn scar near Beulah",
+        "source": "9News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-28T23:57:00Z",
+        "url": "https://www.9news.com/article/weather/severe-weather/flash-flood-emergency-aspen-acres-burn-scar-beulah/73-f29bba03-f107-46b2-817d-b0827b0347aa",
+        "mention_text": "Beulah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Beulah, Mercer County, North Dakota, 58523, United States",
+        "osm_type": "administrative",
+        "osm_id": 181707,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.322998,
+          40.8464107
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.stgeorgeutah.com/news/alert-grove-residents-urged-to-leave-area-as-flash-flood-warning-is-issued-on-beaver/article_1b596c17-7058-4ea0-9fe1-b17d52769f26.html",
+        "title": "Alert: Grove residents urged to leave area as flash flood warning is issued on Beaver River",
+        "source": "St. George News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T02:32:00Z",
+        "url": "https://www.stgeorgeutah.com/news/alert-grove-residents-urged-to-leave-area-as-flash-flood-warning-is-issued-on-beaver/article_1b596c17-7058-4ea0-9fe1-b17d52769f26.html",
+        "mention_text": "Beaver River",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Beaver River, Big Beaver, Beaver County, Pennsylvania, United States",
+        "osm_type": "river",
+        "osm_id": 5977750,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.lohud.com/story/weather/2026/07/28/nyc-hudson-valley-flood-watch-heavy-rain-flash-flooding-july-2026/91073391007/",
+        "title": "Flood watch issued for NYC, Hudson Valley as up to 4 inches of rain could trigger flash flooding",
+        "source": "Lohud",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-28T12:17:00Z",
+        "url": "https://www.lohud.com/story/weather/2026/07/28/nyc-hudson-valley-flood-watch-heavy-rain-flash-flooding-july-2026/91073391007/",
+        "mention_text": "NYC",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6319754,
+          42.250303
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.lohud.com/story/weather/2026/07/28/nyc-hudson-valley-flood-watch-heavy-rain-flash-flooding-july-2026/91073391007/",
+        "title": "Flood watch issued for NYC, Hudson Valley as up to 4 inches of rain could trigger flash flooding",
+        "source": "Lohud",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-28T12:17:00Z",
+        "url": "https://www.lohud.com/story/weather/2026/07/28/nyc-hudson-valley-flood-watch-heavy-rain-flash-flooding-july-2026/91073391007/",
+        "mention_text": "Hudson Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hudson Valley, New York, United States",
+        "osm_type": "region",
+        "osm_id": 20410509,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4726907,
+          40.6810174
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.coloradoan.com/story/weather/2026/07/28/flash-flood-warning-issued-for-larimer-county/91081294007/",
+        "title": "Flash flood warning issued for Larimer County, Cameron Peak burn scar",
+        "source": "The Coloradoan",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-28T19:29:00Z",
+        "url": "https://www.coloradoan.com/story/weather/2026/07/28/flash-flood-warning-issued-for-larimer-county/91081294007/",
+        "mention_text": "Larimer County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Larimer County, Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 1411323,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3537474,
+          40.6143392
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mcall.com/2026/07/28/storms-shower-the-lehigh-valley-elsewhere-amid-flash-flood-warnings-photos/",
+        "title": "Storms shower the Lehigh Valley, elsewhere amid flash flood warnings | PHOTOS",
+        "source": "The Morning Call",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T00:09:11Z",
+        "url": "https://www.mcall.com/2026/07/28/storms-shower-the-lehigh-valley-elsewhere-amid-flash-flood-warnings-photos/",
+        "mention_text": "the Lehigh Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lehigh Valley Rail Management, Spillman Drive, South Bethlehem, South Terrace, Bethlehem, Northampton County, Pennsylvania, 18016, United States",
+        "osm_type": "dismantled",
+        "osm_id": 134584322,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8408415,
+          38.4758406
+        ]
+      },
+      "properties": {
+        "article_id": "https://wchstv.com/news/local/flash-flood-warning-issued-for-parts-of-west-virginia-ohio",
+        "title": "Flash flood warning issued for parts of West Virginia, Ohio",
+        "source": "WCHS",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T00:05:36Z",
+        "url": "https://wchstv.com/news/local/flash-flood-warning-issued-for-parts-of-west-virginia-ohio",
+        "mention_text": "West Virginia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "West Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 162068,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6881395,
+          40.2253569
+        ]
+      },
+      "properties": {
+        "article_id": "https://wchstv.com/news/local/flash-flood-warning-issued-for-parts-of-west-virginia-ohio",
+        "title": "Flash flood warning issued for parts of West Virginia, Ohio",
+        "source": "WCHS",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T00:05:36Z",
+        "url": "https://wchstv.com/news/local/flash-flood-warning-issued-for-parts-of-west-virginia-ohio",
+        "mention_text": "Ohio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 162061,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.777946,
+          47.26334
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.9news.com/video/weather/weather-ott/flash-flood-emergency-expires-for-aspen-acres-burn-scar-near-beulah/73-6b023552-b7c9-4e3e-9615-4194289e6e53",
+        "title": "Flash Flood Emergency expires for Aspen Acres burn scar near Beulah",
+        "source": "9News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T03:55:00Z",
+        "url": "https://www.9news.com/video/weather/weather-ott/flash-flood-emergency-expires-for-aspen-acres-burn-scar-near-beulah/73-6b023552-b7c9-4e3e-9615-4194289e6e53",
+        "mention_text": "Beulah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Beulah, Mercer County, North Dakota, 58523, United States",
+        "osm_type": "administrative",
+        "osm_id": 181707,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mychamplainvalley.com/news/local-news/flash-flood-threat-today-for-parts-of-new-york-vermont/",
+        "title": "Flash flood threat today for parts of New York, Vermont",
+        "source": "MyChamplainValley.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-28T13:28:38Z",
+        "url": "https://www.mychamplainvalley.com/news/local-news/flash-flood-threat-today-for-parts-of-new-york-vermont/",
+        "mention_text": "New York",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5002608,
+          44.5990718
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mychamplainvalley.com/news/local-news/flash-flood-threat-today-for-parts-of-new-york-vermont/",
+        "title": "Flash flood threat today for parts of New York, Vermont",
+        "source": "MyChamplainValley.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-28T13:28:38Z",
+        "url": "https://www.mychamplainvalley.com/news/local-news/flash-flood-threat-today-for-parts-of-new-york-vermont/",
+        "mention_text": "Vermont",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Vermont, United States",
+        "osm_type": "administrative",
+        "osm_id": 60759,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3056707,
+          40.0379958
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wgal.com/article/flash-flood-warning-parts-of-lancaster-lebanon-counties/73288766",
+        "title": "FLASH FLOOD WARNING for parts of Lancaster, Lebanon counties",
+        "source": "WGAL",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-28T21:47:00Z",
+        "url": "https://www.wgal.com/article/flash-flood-warning-parts-of-lancaster-lebanon-counties/73288766",
+        "mention_text": "Lancaster",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lancaster, Lancaster County, Pennsylvania, 17575, United States",
+        "osm_type": "administrative",
+        "osm_id": 3997756,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4626118,
+          40.375713
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wgal.com/article/flash-flood-warning-parts-of-lancaster-lebanon-counties/73288766",
+        "title": "FLASH FLOOD WARNING for parts of Lancaster, Lebanon counties",
+        "source": "WGAL",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-28T21:47:00Z",
+        "url": "https://www.wgal.com/article/flash-flood-warning-parts-of-lancaster-lebanon-counties/73288766",
+        "mention_text": "Lebanon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lebanon County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417767,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8115168,
+          40.398036
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wgal.com/article/flash-flood-warning-parts-of-dauphin-lebanon-counties/73288329",
+        "title": "Flash flood warning issued for parts of Dauphin, Lebanon counties",
+        "source": "WGAL",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-28T21:06:00Z",
+        "url": "https://www.wgal.com/article/flash-flood-warning-parts-of-dauphin-lebanon-counties/73288329",
+        "mention_text": "Dauphin",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dauphin County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417730,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4626118,
+          40.375713
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wgal.com/article/flash-flood-warning-parts-of-dauphin-lebanon-counties/73288329",
+        "title": "Flash flood warning issued for parts of Dauphin, Lebanon counties",
+        "source": "WGAL",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-28T21:06:00Z",
+        "url": "https://www.wgal.com/article/flash-flood-warning-parts-of-dauphin-lebanon-counties/73288329",
+        "mention_text": "Lebanon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lebanon County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417767,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4788048,
+          42.4610056
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/07/flash-flood-warning-affecting-tompkins-county-tuesday-afternoon-due-to-thunderstorms.html",
+        "title": "Flash flood warning affecting Tompkins County Tuesday afternoon due to thunderstorms",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-28T15:48:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/07/flash-flood-warning-affecting-tompkins-county-tuesday-afternoon-due-to-thunderstorms.html",
+        "mention_text": "Tompkins County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tompkins County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1838025,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4041622,
+          40.0757384
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nj.com/weather/2026/07/live-updates-flash-flood-warnings-issued-in-nj.html",
+        "title": "Live updates: Flash flood warnings issued in N.J.",
+        "source": "NJ.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-28T19:22:00Z",
+        "url": "https://www.nj.com/weather/2026/07/live-updates-flash-flood-warnings-issued-in-nj.html",
+        "mention_text": "N.J.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 224951,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2512895,
+          45.0157576
+        ]
+      },
+      "properties": {
+        "article_id": "https://westfaironline.com/latest-news/unusually-strong-summer-storm-creates-northeast-flash-flood-threat/",
+        "title": "Unusually strong summer storm creates Northeast flash flood threat",
+        "source": "Westfair Communications",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-28T14:47:13Z",
+        "url": "https://westfaironline.com/latest-news/unusually-strong-summer-storm-creates-northeast-flash-flood-threat/",
+        "mention_text": "Northeast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Northeast, Minneapolis, Hennepin County, Minnesota, United States",
+        "osm_type": "administrative",
+        "osm_id": 20599855,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4788048,
+          42.4610056
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.14850.com/072846606-flash-flood-tompkins-2607/",
+        "title": "Flash flood warning in effect for southeastern Tompkins County until 2:45pm",
+        "source": "14850.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-28T22:07:41Z",
+        "url": "https://www.14850.com/072846606-flash-flood-tompkins-2607/",
+        "mention_text": "Tompkins County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tompkins County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1838025,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0415528,
+          39.9980022
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mycentraljersey.com/story/weather/2026/07/28/somerset-hunterdon-mercer-flash-flood-warning-heavy-rain-2026/91079914007/",
+        "title": "Flash Flood Warning issued for parts of Somerset, Hunterdon",
+        "source": "Central New Jersey News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-28T18:20:00Z",
+        "url": "https://www.mycentraljersey.com/story/weather/2026/07/28/somerset-hunterdon-mercer-flash-flood-warning-heavy-rain-2026/91079914007/",
+        "mention_text": "Somerset",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Somerset County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417155,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wqow.com/news/new-york-city-philadelphia-are-at-the-center-of-a-serious-northeast-flash-flood-threat/article_cde79de7-46fd-531f-95a0-f695195977f4.html",
+        "title": "New York City, Philadelphia are at the center of a serious Northeast flash flood threat",
+        "source": "WQOW",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T01:00:00Z",
+        "url": "https://www.wqow.com/news/new-york-city-philadelphia-are-at-the-center-of-a-serious-northeast-flash-flood-threat/article_cde79de7-46fd-531f-95a0-f695195977f4.html",
+        "mention_text": "New York City",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1635262,
+          39.9527237
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wqow.com/news/new-york-city-philadelphia-are-at-the-center-of-a-serious-northeast-flash-flood-threat/article_cde79de7-46fd-531f-95a0-f695195977f4.html",
+        "title": "New York City, Philadelphia are at the center of a serious Northeast flash flood threat",
+        "source": "WQOW",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T01:00:00Z",
+        "url": "https://www.wqow.com/news/new-york-city-philadelphia-are-at-the-center-of-a-serious-northeast-flash-flood-threat/article_cde79de7-46fd-531f-95a0-f695195977f4.html",
+        "mention_text": "Philadelphia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Philadelphia, Philadelphia County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 188022,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2512895,
+          45.0157576
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wqow.com/news/new-york-city-philadelphia-are-at-the-center-of-a-serious-northeast-flash-flood-threat/article_cde79de7-46fd-531f-95a0-f695195977f4.html",
+        "title": "New York City, Philadelphia are at the center of a serious Northeast flash flood threat",
+        "source": "WQOW",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T01:00:00Z",
+        "url": "https://www.wqow.com/news/new-york-city-philadelphia-are-at-the-center-of-a-serious-northeast-flash-flood-threat/article_cde79de7-46fd-531f-95a0-f695195977f4.html",
+        "mention_text": "Northeast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Northeast, Minneapolis, Hennepin County, Minnesota, United States",
+        "osm_type": "administrative",
+        "osm_id": 20599855,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mychamplainvalley.com/video/flash-flood-threat-today-for-parts-of-new-york-vermont/12012175/",
+        "title": "Flash flood threat today for parts of New York, Vermont \u2013 ABC22 & FOX44",
+        "source": "MyChamplainValley.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-28T13:17:46Z",
+        "url": "https://www.mychamplainvalley.com/video/flash-flood-threat-today-for-parts-of-new-york-vermont/12012175/",
+        "mention_text": "New York",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5002608,
+          44.5990718
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mychamplainvalley.com/video/flash-flood-threat-today-for-parts-of-new-york-vermont/12012175/",
+        "title": "Flash flood threat today for parts of New York, Vermont \u2013 ABC22 & FOX44",
+        "source": "MyChamplainValley.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-28T13:17:46Z",
+        "url": "https://www.mychamplainvalley.com/video/flash-flood-threat-today-for-parts-of-new-york-vermont/12012175/",
+        "mention_text": "Vermont",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Vermont, United States",
+        "osm_type": "administrative",
+        "osm_id": 60759,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9851524,
+          42.8796134
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.lehighvalleylive.com/weather/2026/07/flash-flood-severe-thunderstorm-warnings-issued-for-lehigh-valley.html",
+        "title": "Tornado, Flash Flood, Severe Thunderstorm warnings issued for Lehigh Valley",
+        "source": "LehighValleyLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-28T17:42:00Z",
+        "url": "https://www.lehighvalleylive.com/weather/2026/07/flash-flood-severe-thunderstorm-warnings-issued-for-lehigh-valley.html",
+        "mention_text": "Lehigh Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lehigh Valley, 12, Wilbur Avenue, City of Geneva, Ontario County, New York, 14456, United States",
+        "osm_type": "yes",
+        "osm_id": 108707281,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5002608,
+          44.5990718
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wcax.com/2026/07/28/first-alert-flash-flood-risk-some-vermont-through-midweek/",
+        "title": "First Alert: Flash flood risk for some in Vermont through midweek",
+        "source": "WCAX",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-27T23:56:00Z",
+        "url": "https://www.wcax.com/2026/07/28/first-alert-flash-flood-risk-some-vermont-through-midweek/",
+        "mention_text": "Vermont",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Vermont, United States",
+        "osm_type": "administrative",
+        "osm_id": 60759,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2512895,
+          45.0157576
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.centraloregondaily.com/news/nation-world/dangerous-flash-flood-threat-targets-major-northeast-cities/video_cbe5598b-7d9e-5aaa-81a8-14f2a809c181.html",
+        "title": "Dangerous flash flood threat targets major Northeast cities",
+        "source": "Central Oregon Daily",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-28T19:05:14Z",
+        "url": "https://www.centraloregondaily.com/news/nation-world/dangerous-flash-flood-threat-targets-major-northeast-cities/video_cbe5598b-7d9e-5aaa-81a8-14f2a809c181.html",
+        "mention_text": "Northeast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Northeast, Minneapolis, Hennepin County, Minnesota, United States",
+        "osm_type": "administrative",
+        "osm_id": 20599855,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.607716,
+          38.7251776
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.denver7.com/videos/weather/weather-news/colorado-weather-update-flash-flood-watch-now-in-effect-for-northeast-co-plains",
+        "title": "Colorado weather update: Flash flood watch now in effect for northeast CO plains",
+        "source": "Denver7",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-28T21:28:34Z",
+        "url": "https://www.denver7.com/videos/weather/weather-news/colorado-weather-update-flash-flood-watch-now-in-effect-for-northeast-co-plains",
+        "mention_text": "Colorado",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 161961,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7278831,
+          40.9699889
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pennlive.com/weather/2026/07/parts-of-pa-placed-under-severe-thunderstorm-flash-flood-watches.html",
+        "title": "Parts of Pa. placed under severe thunderstorm, flash flood watches",
+        "source": "PennLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-28T17:08:00Z",
+        "url": "https://www.pennlive.com/weather/2026/07/parts-of-pa-placed-under-severe-thunderstorm-flash-flood-watches.html",
+        "mention_text": "Pa.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 162109,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8946031,
+          42.8977142
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mycentraljersey.com/story/weather/2026/07/28/central-jersey-flash-flood-watch-5-inches-rain/91075215007/",
+        "title": "Flash flood threat grows in Central Jersey as storms dump heavy rain",
+        "source": "Central New Jersey News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-28T18:35:00Z",
+        "url": "https://www.mycentraljersey.com/story/weather/2026/07/28/central-jersey-flash-flood-watch-5-inches-rain/91075215007/",
+        "mention_text": "Central Jersey",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Jersey Street, West Side, Buffalo, Erie County, New York, 14201, United States",
+        "osm_type": "residential",
+        "osm_id": 670991439,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2509362,
+          43.5128161
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.democratandchronicle.com/story/weather/2026/07/28/flash-flood-warning-new-york-beach-hazards-heavy-rain/91073281007/",
+        "title": "Flash flood warnings issued as heavy rain pounds New York; beach hazards also posted",
+        "source": "Democrat and Chronicle",
+        "outlet_city": "Houston",
+        "outlet_region": "Texas",
+        "published_at": "2026-07-28T08:45:00Z",
+        "url": "https://www.democratandchronicle.com/story/weather/2026/07/28/flash-flood-warning-new-york-beach-hazards-heavy-rain/91073281007/",
+        "mention_text": "New York",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, Town of Mexico, Oswego County, New York, 13114, United States",
+        "osm_type": "hamlet",
+        "osm_id": 158655975,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2062682,
+          33.9510011
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercedsunstar.com/news/weather-news/article316677947.html",
+        "title": "UPDATE: Coastal flood advisory for Southern California from Wednesday to Saturday",
+        "source": "Merced Sun-Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T02:40:08Z",
+        "url": "https://www.mercedsunstar.com/news/weather-news/article316677947.html",
+        "mention_text": "Southern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Southern @ California, Southern Avenue, South Gate, Los Angeles County, California, 90280, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 11056179472,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5970308,
+          35.4804633
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316694709.html",
+        "title": "Flood advisory in place for Eastern North Carolina until 2 a.m. Wednesday",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T03:37:06Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316694709.html",
+        "mention_text": "Eastern North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Eastern Correctional Institution, 2821, NC 903, Maury, Greene County, North Carolina, 28554, United States",
+        "osm_type": "prison",
+        "osm_id": 1353026405,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6319754,
+          42.250303
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/07/flood-advisory-active-for-orange-county-early-tuesday-evening-due-to-substantial-rain.html",
+        "title": "Update: Flood advisory active for Hudson Valley until Tuesday evening due to substantial rain",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-28T18:57:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/07/flood-advisory-active-for-orange-county-early-tuesday-evening-due-to-substantial-rain.html",
+        "mention_text": "Hudson Valley",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hudson Valley, New York, United States",
+        "osm_type": "region",
+        "osm_id": 20410509,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5970308,
+          35.4804633
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316694643.html",
+        "title": "Flood advisory issued for Eastern North Carolina until 2 a.m. Wednesday",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T03:22:06Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316694643.html",
+        "mention_text": "Eastern North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Eastern Correctional Institution, 2821, NC 903, Maury, Greene County, North Carolina, 28554, United States",
+        "osm_type": "prison",
+        "osm_id": 1353026405,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316693044.html",
+        "title": "UPDATE: Flood advisory active for the Piedmont region until Tuesday night",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T00:48:06Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316693044.html",
+        "mention_text": "Piedmont",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9507234,
+          30.9551586
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316692280.html",
+        "title": "Madison County under a flood advisory Tuesday night due to prolonged downpours",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-28T22:49:07Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316692280.html",
+        "mention_text": "Madison County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Madison County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839085,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6118311,
+          35.7979355
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316667767.html",
+        "title": "UPDATE: Flood advisory active for Wake County early Monday morning caused by prolonged rain",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-27T08:21:06Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316667767.html",
+        "mention_text": "Wake County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Wake County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528697,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sgvtribune.com/2026/07/27/coastal-flood-advisory-issued-for-los-angeles-county-beaches-from-wednesday-to-saturday/",
+        "title": "Coastal flood advisory issued for Los Angeles County beaches from Wednesday to Saturday",
+        "source": "San Gabriel Valley Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-28T08:55:33Z",
+        "url": "https://www.sgvtribune.com/2026/07/27/coastal-flood-advisory-issued-for-los-angeles-county-beaches-from-wednesday-to-saturday/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9001941,
+          32.4821843
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sgvtribune.com/2026/07/27/catalina-santa-barbara-islands-under-a-coastal-flood-advisory-from-wednesday-to-saturday/",
+        "title": "Catalina/Santa Barbara Islands under a coastal flood advisory from Wednesday to Saturday",
+        "source": "San Gabriel Valley Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-28T03:41:46Z",
+        "url": "https://www.sgvtribune.com/2026/07/27/catalina-santa-barbara-islands-under-a-coastal-flood-advisory-from-wednesday-to-saturday/",
+        "mention_text": "Catalina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Catalina, Pima County, Arizona, United States",
+        "osm_type": "census",
+        "osm_id": 11180516,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.702667,
+          34.4221319
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sgvtribune.com/2026/07/27/catalina-santa-barbara-islands-under-a-coastal-flood-advisory-from-wednesday-to-saturday/",
+        "title": "Catalina/Santa Barbara Islands under a coastal flood advisory from Wednesday to Saturday",
+        "source": "San Gabriel Valley Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-28T03:41:46Z",
+        "url": "https://www.sgvtribune.com/2026/07/27/catalina-santa-barbara-islands-under-a-coastal-flood-advisory-from-wednesday-to-saturday/",
+        "mention_text": "Santa Barbara",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Santa Barbara, Santa Barbara County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 112224,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5171754,
+          35.6315952
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316623629.html",
+        "title": "UPDATE: Flood advisory in place for Rowan County until early Friday evening",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-24T16:46:10Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316623629.html",
+        "mention_text": "Rowan County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Rowan County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528740,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2803933,
+          40.1541581
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316621825.html",
+        "title": "UPDATE: Flood advisory for Cumberland County until early Friday morning",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-24T06:05:09Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316621825.html",
+        "mention_text": "Cumberland County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cumberland County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417440,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0785945,
+          40.9745493
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316628265.html",
+        "title": "UPDATE: Flood advisory for Union County early Friday morning triggered by intense rainfall",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-24T05:31:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316628265.html",
+        "mention_text": "Union County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Union County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 416655,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2803933,
+          40.1541581
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316621825.html",
+        "title": "UPDATE: Flood advisory for Cumberland County until early Friday morning",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-24T06:05:09Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316621825.html",
+        "mention_text": "Cumberland County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cumberland County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417440,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1253302,
+          35.3935017
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316627188.html",
+        "title": "UPDATE: Flood advisory in place for Hyde County until early Thursday evening",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T18:32:09Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316627188.html",
+        "mention_text": "Hyde County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hyde County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1236353,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4074712,
+          36.5595325
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercedsunstar.com/news/weather-news/article316603802.html",
+        "title": "UPDATE: Flood advisory active for Inyo County Tuesday evening due to prolonged rain",
+        "source": "Merced Sun-Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-22T00:57:06Z",
+        "url": "https://www.mercedsunstar.com/news/weather-news/article316603802.html",
+        "mention_text": "Inyo County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Inyo County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396491,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316570536.html",
+        "title": "UPDATE: Flood advisory active for North Carolina until 3 a.m. Tuesday",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-21T03:42:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316570536.html",
+        "mention_text": "North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-07-29T08:44:57.128725+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-07-28T08:39:49.724405+00:00",
-    "total_features": 3011
+    "last_updated": "2026-07-29T08:44:57.143801+00:00",
+    "total_features": 3077
   }
 }
