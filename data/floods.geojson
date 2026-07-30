@@ -80002,11 +80002,1129 @@
         "osm_id": 224045,
         "run_at": "2026-07-29T08:44:57.128725+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.8776144,
+          39.5462048
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.postindependent.com/news/flash-flood-warning-issued-for-eastern-garfield-county/",
+        "title": "Flash flood warning issued for eastern Garfield County",
+        "source": "Post Independent",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-30T02:03:28Z",
+        "url": "https://www.postindependent.com/news/flash-flood-warning-issued-for-eastern-garfield-county/",
+        "mention_text": "Garfield County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Garfield County, Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 1411340,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4248315,
+          41.923434
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.abc4.com/news/flood-wave-flash-flooding-kane-county/",
+        "title": "\u2018VERY large\u2019 flood wave expected amid flash flood warning in Kane County",
+        "source": "ABC4 Utah",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-30T03:34:33Z",
+        "url": "https://www.abc4.com/news/flood-wave-flash-flooding-kane-county/",
+        "mention_text": "Kane County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kane County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1383784,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4248315,
+          41.923434
+        ]
+      },
+      "properties": {
+        "article_id": "https://kutv.com/news/local/dangerous-life-threatening-flash-flood-warning-issued-near-kane-county",
+        "title": "'Dangerous, life-threatening' flash flood warning issued near Kane County",
+        "source": "KUTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-30T03:08:08Z",
+        "url": "https://kutv.com/news/local/dangerous-life-threatening-flash-flood-warning-issued-near-kane-county",
+        "mention_text": "Kane County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kane County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1383784,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.facebook.com/Boston25News/posts/severe-weather-alert-a-flash-flood-warning-has-been-issued-for-parts-of-massachu/1525834572911537/",
+        "title": "SEVERE WEATHER ALERT: A flash flood warning has been issued for parts of Massachusetts as heavy rain continues to drench the region.",
+        "source": "facebook.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T19:17:45Z",
+        "url": "https://www.facebook.com/Boston25News/posts/severe-weather-alert-a-flash-flood-warning-has-been-issued-for-parts-of-massachu/1525834572911537/",
+        "mention_text": "Massachusetts",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 61315,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5387341,
+          41.0534302
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.stamfordadvocate.com/news/article/stamford-special-needs-senior-dog-sanctuary-flood-22366187.php",
+        "title": "Stamford dog sanctuary raises money to repair flash flood damage",
+        "source": "Stamford Advocate",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-30T00:02:05Z",
+        "url": "https://www.stamfordadvocate.com/news/article/stamford-special-needs-senior-dog-sanctuary-flood-22366187.php",
+        "mention_text": "Stamford",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Stamford, Western Connecticut Planning Region, Connecticut, United States",
+        "osm_type": "administrative",
+        "osm_id": 3306055,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ksl.com/article/51603685/live-like-the-longs-family-killed-in-utah-flash-flood-honored-in-funeral",
+        "title": "'Live like the Longs': Family killed in Utah flash flood laid to rest",
+        "source": "KSL.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-30T03:03:56Z",
+        "url": "https://www.ksl.com/article/51603685/live-like-the-longs-family-killed-in-utah-flash-flood-honored-in-funeral",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2322639,
+          42.3999954
+        ]
+      },
+      "properties": {
+        "article_id": "https://theberkshireedge.com/flood-warning-issued-for-berkshire-county/",
+        "title": "Flood warning issued for Berkshire County",
+        "source": "The Berkshire Edge",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T18:15:57Z",
+        "url": "https://theberkshireedge.com/flood-warning-issued-for-berkshire-county/",
+        "mention_text": "Berkshire County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Berkshire County, Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 61321,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.abc4.com/weather/flash-flood-severe-thunderstorm-warnings-issued-in-southern-utah/",
+        "title": "Flash flood, severe thunderstorm warnings issued in southern Utah",
+        "source": "ABC4 Utah",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T18:12:32Z",
+        "url": "https://www.abc4.com/weather/flash-flood-severe-thunderstorm-warnings-issued-in-southern-utah/",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2512895,
+          45.0157576
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.applevalleynewsnow.com/news/national-news/life-threatening-flash-flood-threats-in-northeast-3-30pet/video_2df0dbd4-f3e3-5abd-b5e4-5a3f8be96861.html",
+        "title": "LIFE-THREATENING FLASH FLOOD THREATS IN NORTHEAST (3:30pET)",
+        "source": "applevalleynewsnow.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T19:29:50Z",
+        "url": "https://www.applevalleynewsnow.com/news/national-news/life-threatening-flash-flood-threats-in-northeast-3-30pet/video_2df0dbd4-f3e3-5abd-b5e4-5a3f8be96861.html",
+        "mention_text": "NORTHEAST",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Northeast, Minneapolis, Hennepin County, Minnesota, United States",
+        "osm_type": "administrative",
+        "osm_id": 20599855,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2512895,
+          45.0157576
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kxly.com/news/national-and-world-news/life-threatening-flash-flood-threats-in-northeast-3-30pet/video_d321004f-5eeb-5531-bc0b-422e87d9144b.html",
+        "title": "LIFE-THREATENING FLASH FLOOD THREATS IN NORTHEAST (3:30pET)",
+        "source": "KXLY.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T19:29:50Z",
+        "url": "https://www.kxly.com/news/national-and-world-news/life-threatening-flash-flood-threats-in-northeast-3-30pet/video_d321004f-5eeb-5531-bc0b-422e87d9144b.html",
+        "mention_text": "NORTHEAST",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Northeast, Minneapolis, Hennepin County, Minnesota, United States",
+        "osm_type": "administrative",
+        "osm_id": 20599855,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.facebook.com/Boston25News/photos/severe-weather-alert-a-flash-flood-warning-has-been-issued-for-parts-of-massachu/1525834556244872/",
+        "title": "SEVERE WEATHER ALERT: A flash flood warning has been issued for parts of Massachusetts as heavy rain continues to drench the region.",
+        "source": "facebook.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T19:17:45Z",
+        "url": "https://www.facebook.com/Boston25News/photos/severe-weather-alert-a-flash-flood-warning-has-been-issued-for-parts-of-massachu/1525834556244872/",
+        "mention_text": "Massachusetts",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 61315,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.607716,
+          38.7251776
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.denver7.com/weather/weather-news/colorado-weather-blog-another-round-of-thunderstorms-localized-flash-floods-in-colorado",
+        "title": "Colorado weather blog: Flash flood warnings, advisories now in effect as t-storms roll through",
+        "source": "Denver7",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-30T08:02:33Z",
+        "url": "https://www.denver7.com/weather/weather-news/colorado-weather-blog-another-round-of-thunderstorms-localized-flash-floods-in-colorado",
+        "mention_text": "Colorado",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 161961,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8404114,
+          42.1455623
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/07/flash-flood-warning-affecting-broome-county-wednesday-night.html",
+        "title": "Flash flood warning affecting Broome County Wednesday night",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T22:19:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/07/flash-flood-warning-affecting-broome-county-wednesday-night.html",
+        "mention_text": "Broome County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Broome County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1838014,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.969835,
+          42.4590797
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.masslive.com/weather/2026/07/flash-flood-warning-issued-for-much-of-western-mass-wednesday-afternoon.html",
+        "title": "Flash flood warning issued for most of Western Mass. Wednesday afternoon",
+        "source": "MassLive",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T19:15:00Z",
+        "url": "https://www.masslive.com/weather/2026/07/flash-flood-warning-issued-for-much-of-western-mass-wednesday-afternoon.html",
+        "mention_text": "Western Mass.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mass Broker Services, 869, Western Avenue, Raddin Station, Lynn, Essex County, Massachusetts, 01905, United States",
+        "osm_type": "insurance",
+        "osm_id": 9946039978,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.12news.com/video/weather/flash-flood-warning-triggered-in-northern-arizona-july-29/75-4d084bb3-4657-4f56-a941-d2d50e64a71f",
+        "title": "Flash-flood warning triggered in northern Arizona",
+        "source": "12News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T20:52:00Z",
+        "url": "https://www.12news.com/video/weather/flash-flood-warning-triggered-in-northern-arizona-july-29/75-4d084bb3-4657-4f56-a941-d2d50e64a71f",
+        "mention_text": "Arizona",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sltrib.com/news/2026/07/29/funeral-takes-place-utah-family/",
+        "title": "\u2018How could God take almost an entire family?\u2019: Funeral honors 5 family members killed in Utah flash flood",
+        "source": "The Salt Lake Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T23:17:15Z",
+        "url": "https://www.sltrib.com/news/2026/07/29/funeral-takes-place-utah-family/",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.984862,
+          39.7392364
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/colorado/news/flood-advisory-colorado-backup-interstate-25/",
+        "title": "Flash flood warning issued in area south of Denver and ground stop in effect at Denver International Airport",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T21:30:00Z",
+        "url": "https://www.cbsnews.com/colorado/news/flood-advisory-colorado-backup-interstate-25/",
+        "mention_text": "Denver",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Denver, Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 1411339,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6853673,
+          39.8606676
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/colorado/news/flood-advisory-colorado-backup-interstate-25/",
+        "title": "Flash flood warning issued in area south of Denver and ground stop in effect at Denver International Airport",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T21:30:00Z",
+        "url": "https://www.cbsnews.com/colorado/news/flood-advisory-colorado-backup-interstate-25/",
+        "mention_text": "Denver International Airport",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Denver International Airport, 8500, Pe\u00f1a Boulevard, Denver, Colorado, 80249, United States",
+        "osm_type": "aerodrome",
+        "osm_id": 851424893,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2512895,
+          45.0157576
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wfaa.com/video/weather/severe-weather/storms-trigger-flash-flood-threat-in-northeast/287-1feafa84-3bfe-47cb-81ae-6a13fdf9fa8a",
+        "title": "Storms trigger flash flood threat in Northeast",
+        "source": "WFAA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-30T00:40:00Z",
+        "url": "https://www.wfaa.com/video/weather/severe-weather/storms-trigger-flash-flood-threat-in-northeast/287-1feafa84-3bfe-47cb-81ae-6a13fdf9fa8a",
+        "mention_text": "Northeast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Northeast, Minneapolis, Hennepin County, Minnesota, United States",
+        "osm_type": "administrative",
+        "osm_id": 20599855,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3045103,
+          41.6264414
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldextra.com/news/2026/jul/29/adventurous-and-service-oriented-hundreds-gather-to-honor-long-family-killed-in-wayne-county-flash-flood/",
+        "title": "Adventurous and service-oriented: Hundreds gather to honor Long family killed in Wayne County flash flood",
+        "source": "heraldextra.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T22:52:52Z",
+        "url": "https://www.heraldextra.com/news/2026/jul/29/adventurous-and-service-oriented-hundreds-gather-to-honor-long-family-killed-in-wayne-county-flash-flood/",
+        "mention_text": "Wayne County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Wayne County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417782,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.boston25news.com/news/local/flash-flood-warning-issued-parts-massachusetts/SQPCOVV7HVCSPPG2P7PCZAXDJE/",
+        "title": "Flash flood warning issued for parts of Massachusetts",
+        "source": "Boston 25 News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T19:14:17Z",
+        "url": "https://www.boston25news.com/news/local/flash-flood-warning-issued-parts-massachusetts/SQPCOVV7HVCSPPG2P7PCZAXDJE/",
+        "mention_text": "Massachusetts",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 61315,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.boston.com/weather/local-news/2026/07/29/parts-of-mass-under-flash-flood-warning-as-state-sees-heavy-rain/",
+        "title": "Parts of Mass. under flash flood warning as state sees heavy rain",
+        "source": "Boston.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T21:23:00Z",
+        "url": "https://www.boston.com/weather/local-news/2026/07/29/parts-of-mass-under-flash-flood-warning-as-state-sees-heavy-rain/",
+        "mention_text": "Mass.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 61315,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.607716,
+          38.7251776
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-vjtu6xhti84pvy7s",
+        "title": "Colorado flood threat renews near Aspen Acres Fire burn scar after Flash Flood Emergency",
+        "source": "foxweather.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T13:33:11Z",
+        "url": "https://www.foxweather.com/watch/fmc-vjtu6xhti84pvy7s",
+        "mention_text": "Colorado",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 161961,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6908547,
+          41.764582
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcconnecticut.com/weather-news/stories/periods-of-heavy-rain-expected-wednesday-flooding-possible/3759571/",
+        "title": "Flash Flood Warning in effect for parts of Hartford, Tolland counties",
+        "source": "NBC Connecticut",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T08:34:11Z",
+        "url": "https://www.nbcconnecticut.com/weather-news/stories/periods-of-heavy-rain-expected-wednesday-flooding-possible/3759571/",
+        "mention_text": "Hartford",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hartford, Capitol Planning Region, Connecticut, United States",
+        "osm_type": "administrative",
+        "osm_id": 3909995,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3677153,
+          41.8700166
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcconnecticut.com/weather-news/stories/periods-of-heavy-rain-expected-wednesday-flooding-possible/3759571/",
+        "title": "Flash Flood Warning in effect for parts of Hartford, Tolland counties",
+        "source": "NBC Connecticut",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T08:34:11Z",
+        "url": "https://www.nbcconnecticut.com/weather-news/stories/periods-of-heavy-rain-expected-wednesday-flooding-possible/3759571/",
+        "mention_text": "Tolland",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tolland, Capitol Planning Region, Connecticut, 06084, United States",
+        "osm_type": "administrative",
+        "osm_id": 11059519,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.67054,
+          41.7628612
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.news10.com/video/flash-flood-warning-in-effect-around-the-capital-region/12016093/",
+        "title": "Flash flood warning in effect around the Capital Region",
+        "source": "NEWS10 ABC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T12:47:11Z",
+        "url": "https://www.news10.com/video/flash-flood-warning-in-effect-around-the-capital-region/12016093/",
+        "mention_text": "the Capital Region",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "The Capital Grille, 44, Front Street, Main Street Historic District No. 2, Downtown Hartford, Coltville, Hartford, Connecticut, 06103, United States",
+        "osm_type": "restaurant",
+        "osm_id": 3644647486,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-parts-191417565.html",
+        "title": "Flash flood warning issued for parts of Massachusetts",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T19:14:17Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-parts-191417565.html",
+        "mention_text": "Massachusetts",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 61315,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7342163,
+          41.6500201
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtnh.com/news/connecticut/new-haven/flash-flood-warning-issued-for-parts-of-connecticut-as-heavy-rain-hits-the-state/",
+        "title": "Flash flood warning issued for parts of Connecticut as heavy rain hits the state",
+        "source": "WTNH.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T09:18:18Z",
+        "url": "https://www.wtnh.com/news/connecticut/new-haven/flash-flood-warning-issued-for-parts-of-connecticut-as-heavy-rain-hits-the-state/",
+        "mention_text": "Connecticut",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Connecticut, United States",
+        "osm_type": "administrative",
+        "osm_id": 165794,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6869011,
+          35.6333866
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316694765.html",
+        "title": "Flash flood warning issued for Dare County until 2 a.m. Wednesday caused by thunderstorms",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T03:51:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316694765.html",
+        "mention_text": "Dare County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dare County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1232267,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbs8.com/video/syndication/ott/weather-plus/coastal-flood-advisory-issued-for-the-coast-temperatures-peak-on-saturday-across-san-diego-county/509-4702b0af-b8e8-4699-a665-f13d6a949a4d",
+        "title": "Coastal Flood Advisory issued for the coast, temperatures peak on Saturday across San Diego County",
+        "source": "cbs8.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-30T02:51:00Z",
+        "url": "https://www.cbs8.com/video/syndication/ott/weather-plus/coastal-flood-advisory-issued-for-the-coast-temperatures-peak-on-saturday-across-san-diego-county/509-4702b0af-b8e8-4699-a665-f13d6a949a4d",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article316677624.html",
+        "title": "UPDATE: Coastal flood advisory for San Diego County Coastal Areas and Orange County Coastal",
+        "source": "sacbee.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-30T00:35:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article316677624.html",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.101923,
+          28.2678746
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kiiitv.com/video/syndication/mobile-auto/flooded-road-closes-shelter-opens-in-live-oak-county/503-0b1a3a60-0aea-4484-82fd-db93a43f1c18",
+        "title": "Flooded road closes, shelter opens in Live Oak County",
+        "source": "kiiitv.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-30T03:03:00Z",
+        "url": "https://www.kiiitv.com/video/syndication/mobile-auto/flooded-road-closes-shelter-opens-in-live-oak-county/503-0b1a3a60-0aea-4484-82fd-db93a43f1c18",
+        "mention_text": "Live Oak County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Live Oak County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1828421,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5970308,
+          35.4804633
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316694709.html",
+        "title": "Flood advisory in place for Eastern North Carolina until 2 a.m. Wednesday",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T03:37:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316694709.html",
+        "mention_text": "Eastern North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Eastern Correctional Institution, 2821, NC 903, Maury, Greene County, North Carolina, 28554, United States",
+        "osm_type": "prison",
+        "osm_id": 1353026405,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.101923,
+          28.2678746
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kiiitv.com/video/news/10pm-wednesday-0729-flooded-road-closes-shelter-opens-in-live-oak-county-as-nueces-river-rises/503-12e87faa-560d-4ef4-9f86-577def06b0e5",
+        "title": "10PM Wednesday, 07/29: flooded road closes, shelter opens in Live Oak County as Nueces River rises",
+        "source": "kiiitv.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-30T03:50:00Z",
+        "url": "https://www.kiiitv.com/video/news/10pm-wednesday-0729-flooded-road-closes-shelter-opens-in-live-oak-county-as-nueces-river-rises/503-12e87faa-560d-4ef4-9f86-577def06b0e5",
+        "mention_text": "Live Oak County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Live Oak County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1828421,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2036858,
+          28.3975531
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kiiitv.com/video/news/10pm-wednesday-0729-flooded-road-closes-shelter-opens-in-live-oak-county-as-nueces-river-rises/503-12e87faa-560d-4ef4-9f86-577def06b0e5",
+        "title": "10PM Wednesday, 07/29: flooded road closes, shelter opens in Live Oak County as Nueces River rises",
+        "source": "kiiitv.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-30T03:50:00Z",
+        "url": "https://www.kiiitv.com/video/news/10pm-wednesday-0729-flooded-road-closes-shelter-opens-in-live-oak-county-as-nueces-river-rises/503-12e87faa-560d-4ef4-9f86-577def06b0e5",
+        "mention_text": "Nueces River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Nueces River, United States",
+        "osm_type": "river",
+        "osm_id": 11265430,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercedsunstar.com/news/weather-news/article316677624.html",
+        "title": "UPDATE: Coastal flood advisory for San Diego County Coastal Areas and Orange County Coastal",
+        "source": "Merced Sun-Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T04:22:08Z",
+        "url": "https://www.mercedsunstar.com/news/weather-news/article316677624.html",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6118311,
+          35.7979355
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316667767.html",
+        "title": "UPDATE: Flood advisory active for Wake County early Monday morning caused by prolonged rain",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-27T08:21:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316667767.html",
+        "mention_text": "Wake County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Wake County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528697,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.777946,
+          47.26334
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flash-flood-emergency-issued-aspen-233908727.html",
+        "title": "Flash Flood Emergency expires for Aspen Acres burn scar near Beulah",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-28T23:39:08Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flash-flood-emergency-issued-aspen-233908727.html",
+        "mention_text": "Beulah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Beulah, Mercer County, North Dakota, 58523, United States",
+        "osm_type": "administrative",
+        "osm_id": 181707,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.607716,
+          38.7251776
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/life-threatening-flash-flood-emergency-003058157.html",
+        "title": "Life-threatening Flash Flood Emergency issued near Colorado burn scar, triggering debris flows",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T00:30:00Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/life-threatening-flash-flood-emergency-003058157.html",
+        "mention_text": "Colorado",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 161961,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6869011,
+          35.6333866
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316627188.html",
+        "title": "UPDATE: Dare County placed under a flood advisory Friday afternoon, says the NWS",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-24T15:42:08Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316627188.html",
+        "mention_text": "Dare County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Dare County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1232267,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.607716,
+          38.7251776
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/flash-flood-emergency-declared-near-021637446.html",
+        "title": "Flash Flood Emergency declared near Colorado burn scar as heavy rain impacts the region",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T02:16:00Z",
+        "url": "https://www.yahoo.com/news/videos/flash-flood-emergency-declared-near-021637446.html",
+        "mention_text": "Colorado",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 161961,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316619187.html",
+        "title": "UPDATE: Flood advisory active for the Piedmont region until Thursday midday",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T13:50:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316619187.html",
+        "mention_text": "Piedmont",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316619187.html",
+        "title": "UPDATE: Flood advisory active for the Piedmont region until Thursday midday",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T13:50:07Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316619187.html",
+        "mention_text": "Piedmont",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-07-30T08:29:47.655718+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-07-29T08:44:57.143801+00:00",
-    "total_features": 3077
+    "last_updated": "2026-07-30T08:29:47.670596+00:00",
+    "total_features": 3120
   }
 }
