@@ -82134,11 +82134,557 @@
         "osm_id": 2528690,
         "run_at": "2026-08-01T08:22:13.147096+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.076402,
+          28.6689748
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316739160.html",
+        "title": "UPDATE: Flash flood warning in place for Sumter County Saturday night due to thunderstorms",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T01:29:06Z",
+        "url": "https://www.thestate.com/news/weather-news/article316739160.html",
+        "mention_text": "Sumter County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Sumter County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210752,
+        "run_at": "2026-08-02T08:25:37.019143+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1791849,
+          31.8390826
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316740295.html",
+        "title": "Cherokee County under a flash flood warning until 2 a.m. Sunday triggered by thunderstorms",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T04:03:06Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316740295.html",
+        "mention_text": "Cherokee County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Cherokee County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839605,
+        "run_at": "2026-08-02T08:25:37.019143+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1791849,
+          31.8390826
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316740295.html",
+        "title": "UPDATE: Flash flood warning active for Cherokee County until early Sunday morning",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T04:44:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316740295.html",
+        "mention_text": "Cherokee County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Cherokee County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839605,
+        "run_at": "2026-08-02T08:25:37.019143+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wxii12.com/article/flash-flood-alerts-north-carolina-foothills-mount-airy/73325559",
+        "title": "Flash flood emergency | LIFE-THREATENING flooding happening in the Foothills of North Carolina",
+        "source": "WXII",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T06:38:00Z",
+        "url": "https://www.wxii12.com/article/flash-flood-alerts-north-carolina-foothills-mount-airy/73325559",
+        "mention_text": "North Carolina",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-08-02T08:25:37.019143+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7442135,
+          33.6442699
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article316738569.html",
+        "title": "UPDATE: The current flash flood warning for Williamsburg County will expire at 7 p.m.",
+        "source": "islandpacket.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-01T23:22:06Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article316738569.html",
+        "mention_text": "Williamsburg County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Williamsburg County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532523,
+        "run_at": "2026-08-02T08:25:37.019143+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.1404795,
+          32.0168058
+        ]
+      },
+      "properties": {
+        "article_id": "https://kvia.com/news/top-stories/2026/08/01/abc-7-first-alert-flash-flood-warning-for-dona-ana-until-8-pm-this-evening-up-to-an-inch-of-rain-has-fallen-over-the-dona-ana-mountains/",
+        "title": "ABC-7 First Alert: Flash Flood Warning for Dona Ana until 8 PM this evening, up to an inch of rain has fallen over the Dona Ana Mountains",
+        "source": "KVIA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T00:11:41Z",
+        "url": "https://kvia.com/news/top-stories/2026/08/01/abc-7-first-alert-flash-flood-warning-for-dona-ana-until-8-pm-this-evening-up-to-an-inch-of-rain-has-fallen-over-the-dona-ana-mountains/",
+        "mention_text": "Dona Ana Mountains",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Organ Mountains-Desert Peaks National Monument, Do\u00f1a Ana County, New Mexico, United States",
+        "osm_type": "national_park",
+        "osm_id": 1113594,
+        "run_at": "2026-08-02T08:25:37.019143+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-6i78xp70xs3b7fmm",
+        "title": "Florida flash flood threat increasing through the weekend",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-01T14:06:38Z",
+        "url": "https://www.foxweather.com/watch/fmc-6i78xp70xs3b7fmm",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-08-02T08:25:37.019143+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1583502,
+          39.7683331
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.techtimes.com/articles/322665/20260801/indianapolis-flash-flood-warning-grounds-nfls-back-together-saturday-practice.htm",
+        "title": "Indianapolis Flash Flood Warning Grounds NFL\u2019s Back Together Saturday Practice",
+        "source": "Tech Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-01T22:25:18Z",
+        "url": "https://www.techtimes.com/articles/322665/20260801/indianapolis-flash-flood-warning-grounds-nfls-back-together-saturday-practice.htm",
+        "mention_text": "Indianapolis",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Indianapolis, Marion County, Indiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 18438530,
+        "run_at": "2026-08-02T08:25:37.019143+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mynbc5.com/article/rain-chances-highest-in-new-york-sunday-watching-flash-flood-potential-8-01-26/73324759",
+        "title": "Rain chances highest in New York Sunday, watching flash flood potential",
+        "source": "WPTZ",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-01T22:41:13Z",
+        "url": "https://www.mynbc5.com/article/rain-chances-highest-in-new-york-sunday-watching-flash-flood-potential-8-01-26/73324759",
+        "mention_text": "New York",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-08-02T08:25:37.019143+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6244212,
+          41.8755616
+        ]
+      },
+      "properties": {
+        "article_id": "https://abc7chicago.com/post/chicago-weather-today-heavy-rain-saturday-cook-dupage-kendall-will-counties-flash-flood-warning/19611352/",
+        "title": "Chicago weather: Heavy rain Saturday across area causes flooding for roads, homes, businesses; Flood Warning, Flood Watch for most",
+        "source": "ABC7 Chicago",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-01T18:28:25Z",
+        "url": "https://abc7chicago.com/post/chicago-weather-today-heavy-rain-saturday-cook-dupage-kendall-will-counties-flash-flood-warning/19611352/",
+        "mention_text": "Chicago",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Chicago, South Chicago Township, Cook County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 122604,
+        "run_at": "2026-08-02T08:25:37.019143+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4041622,
+          40.0757384
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nj.com/weather/2026/08/nj-weather-thunderstorm-flash-flood-threats-in-forecast-sunday-night-after-warm-sunny-weekend.html",
+        "title": "N.J. weather: Thunderstorm, flash flood threats in forecast Sunday night after warm, sunny weekend",
+        "source": "NJ.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-01T12:20:00Z",
+        "url": "https://www.nj.com/weather/2026/08/nj-weather-thunderstorm-flash-flood-threats-in-forecast-sunday-night-after-warm-sunny-weekend.html",
+        "mention_text": "N.J.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 224951,
+        "run_at": "2026-08-02T08:25:37.019143+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9994754,
+          41.4194058
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.shawlocal.com/the-herald-news/2026/08/01/flood-warning-issued-for-dupage-river-in-will-county/",
+        "title": "Flood warning remains for parts of Will County near DuPage River",
+        "source": "Shaw Local",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T02:18:00Z",
+        "url": "https://www.shawlocal.com/the-herald-news/2026/08/01/flood-warning-issued-for-dupage-river-in-will-county/",
+        "mention_text": "Will County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Will County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 963483,
+        "run_at": "2026-08-02T08:25:37.019143+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1844127,
+          41.5501578
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.shawlocal.com/the-herald-news/2026/08/01/flood-warning-issued-for-dupage-river-in-will-county/",
+        "title": "Flood warning remains for parts of Will County near DuPage River",
+        "source": "Shaw Local",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T02:18:00Z",
+        "url": "https://www.shawlocal.com/the-herald-news/2026/08/01/flood-warning-issued-for-dupage-river-in-will-county/",
+        "mention_text": "DuPage River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "DuPage River, Joliet, Troy Township, Will County, Illinois, United States",
+        "osm_type": "river",
+        "osm_id": 18271271,
+        "run_at": "2026-08-02T08:25:37.019143+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1746933,
+          40.3270127
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wrtv.com/weather/rain-spreads-across-indiana-with-flash-flood-threat-through-early-next-week",
+        "title": "Rain spreads across Indiana with flash flood threat through early next week",
+        "source": "WRTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-31T23:50:50Z",
+        "url": "https://www.wrtv.com/weather/rain-spreads-across-indiana-with-flash-flood-threat-through-early-next-week",
+        "mention_text": "Indiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Indiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 161816,
+        "run_at": "2026-08-02T08:25:37.019143+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1791849,
+          31.8390826
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316740247.html",
+        "title": "UPDATE: Flood advisory issued for Cherokee County until 2 a.m. Sunday",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T03:47:06Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316740247.html",
+        "mention_text": "Cherokee County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cherokee County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839605,
+        "run_at": "2026-08-02T08:25:37.019143+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4190808,
+          33.2641009
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article316738568.html",
+        "title": "UPDATE: Flood advisory for Barnwell County likely to expire at 10 p.m.",
+        "source": "islandpacket.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T02:17:07Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article316738568.html",
+        "mention_text": "Barnwell County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Barnwell County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532497,
+        "run_at": "2026-08-02T08:25:37.019143+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article316730826.html",
+        "title": "UPDATE: Coastal flood advisory in place for Los Angeles County until 3 a.m. Saturday",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-01T03:50:06Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article316730826.html",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-08-02T08:25:37.019143+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7442135,
+          33.6442699
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article316738191.html",
+        "title": "UPDATE: Flood advisory for Williamsburg County has been replaced, says the NWS",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-01T22:10:07Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article316738191.html",
+        "mention_text": "Williamsburg County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Williamsburg County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532523,
+        "run_at": "2026-08-02T08:25:37.019143+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article316677624.html",
+        "title": "Coastal flood advisory issued for San Diego County Coastal Areas and Orange County Coastal",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-27T21:16:10Z",
+        "url": "https://www.modbee.com/news/weather-news/article316677624.html",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-08-02T08:25:37.019143+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6869011,
+          35.6333866
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316661828.html",
+        "title": "Flood advisory for Dare County until Sunday afternoon triggered by heavy downpours",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-26T13:59:06Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316661828.html",
+        "mention_text": "Dare County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Dare County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1232267,
+        "run_at": "2026-08-02T08:25:37.019143+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5970308,
+          35.4804633
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316625563.html",
+        "title": "Flood advisory active for Eastern North Carolina until Thursday midday",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-23T13:47:09Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316625563.html",
+        "mention_text": "Eastern North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Eastern Correctional Institution, 2821, NC 903, Maury, Greene County, North Carolina, 28554, United States",
+        "osm_type": "prison",
+        "osm_id": 1353026405,
+        "run_at": "2026-08-02T08:25:37.019143+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-08-01T08:22:13.162727+00:00",
-    "total_features": 3159
+    "last_updated": "2026-08-02T08:25:37.035825+00:00",
+    "total_features": 3180
   }
 }
