@@ -82680,11 +82680,947 @@
         "osm_id": 1353026405,
         "run_at": "2026-08-02T08:25:37.019143+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7342163,
+          41.6500201
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcconnecticut.com/weather-news/stories/flash-flood-warning-issued-for-parts-of-conn-as-showers-and-thunderstorms-move-in/3761039/",
+        "title": "Flash flood warning issued for parts of Conn. as showers and thunderstorms move in",
+        "source": "NBC Connecticut",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T08:33:22Z",
+        "url": "https://www.nbcconnecticut.com/weather-news/stories/flash-flood-warning-issued-for-parts-of-conn-as-showers-and-thunderstorms-move-in/3761039/",
+        "mention_text": "Conn.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Connecticut, United States",
+        "osm_type": "administrative",
+        "osm_id": 165794,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316745140.html",
+        "title": "UPDATE: Western North Carolina placed under a flash flood warning until 2 a.m. Monday",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T02:48:06Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316745140.html",
+        "mention_text": "North Carolina",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6130279,
+          42.4784565
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/08/flash-flood-warning-for-southern-tier-sunday-night-triggered-by-heavy-rain.html",
+        "title": "Update: Flash flood warning for Broome and Chenango counties Sunday night \u2014 high damage threat",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T00:32:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/08/flash-flood-warning-for-southern-tier-sunday-night-triggered-by-heavy-rain.html",
+        "mention_text": "Chenango",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Chenango County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1838015,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9433305,
+          40.4113762
+        ]
+      },
+      "properties": {
+        "article_id": "https://berksweekly.com/news/weather/flood-watch-issued-for-berks-county-as-heavy-rain-threatens-flash-flooding/",
+        "title": "Flood Watch issued for Berks County as heavy rain threatens flash flooding",
+        "source": "Berks Weekly",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T23:29:16Z",
+        "url": "https://berksweekly.com/news/weather/flood-watch-issued-for-berks-county-as-heavy-rain-threatens-flash-flooding/",
+        "mention_text": "Berks County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Berks County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417841,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8408415,
+          38.4758406
+        ]
+      },
+      "properties": {
+        "article_id": "https://wchstv.com/news/local/national-weather-service-issues-flash-flood-warning-for-parts-of-west-virginia",
+        "title": "National Weather Service issues flash flood warning for parts of West Virginia",
+        "source": "WCHS",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T20:32:57Z",
+        "url": "https://wchstv.com/news/local/national-weather-service-issues-flash-flood-warning-for-parts-of-west-virginia",
+        "mention_text": "West Virginia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "West Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 162068,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7676017,
+          43.2042439
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/08/flash-flood-warning-issued-for-niagara-and-orleans-counties-until-sunday-night-triggered-by-thunders.html",
+        "title": "Flash flood warning issued for Niagara and Orleans counties until Sunday night triggered by thunderstorms",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T21:51:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/08/flash-flood-warning-issued-for-niagara-and-orleans-counties-until-sunday-night-triggered-by-thunders.html",
+        "mention_text": "Niagara",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Niagara County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 36267,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1137366,
+          32.3293809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wsbtv.com/news/local/warm-humid-sunday-after-storms-dump-up-6-inches-overnight/55NE7NHVQNFIHI43HHL6SJFMZE/",
+        "title": "LIVE UPDATES: Flash flood warning in north Georgia; storms dumped up to 6 inches overnight",
+        "source": "WSB-TV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T00:47:00Z",
+        "url": "https://www.wsbtv.com/news/local/warm-humid-sunday-after-storms-dump-up-6-inches-overnight/55NE7NHVQNFIHI43HHL6SJFMZE/",
+        "mention_text": "Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 161957,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6881395,
+          40.2253569
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtrf.com/weather/flash-flood-warning-issued-in-ohio-valley-4/",
+        "title": "Flash Flood Warning issued in Ohio Valley",
+        "source": "WTRF",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T19:13:56Z",
+        "url": "https://www.wtrf.com/weather/flash-flood-warning-issued-in-ohio-valley-4/",
+        "mention_text": "Ohio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 162061,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9805484,
+          41.5595723
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtrf.com/weather/flash-flood-warning-issued-in-ohio-valley-4/",
+        "title": "Flash Flood Warning issued in Ohio Valley",
+        "source": "WTRF",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T19:13:56Z",
+        "url": "https://www.wtrf.com/weather/flash-flood-warning-issued-in-ohio-valley-4/",
+        "mention_text": "Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Valley County, Nebraska, United States",
+        "osm_type": "administrative",
+        "osm_id": 1425395,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.076402,
+          28.6689748
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article316739160.html",
+        "title": "UPDATE: Flash flood warning in place for Sumter County Saturday night due to thunderstorms",
+        "source": "heraldonline.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T01:29:06Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article316739160.html",
+        "mention_text": "Sumter County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Sumter County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210752,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.audacy.com/wben/news/local/soggy-sunday-brings-flood-watch-risk-of-isolated-flash-flooding-in-western-new-york",
+        "title": "Soggy Sunday Brings Flood Watch, Risk of Isolated Flash Flooding in Western New York",
+        "source": "Audacy",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T11:30:00Z",
+        "url": "https://www.audacy.com/wben/news/local/soggy-sunday-brings-flood-watch-risk-of-isolated-flash-flooding-in-western-new-york",
+        "mention_text": "New York",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4970393,
+          38.0464066
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316737959.html",
+        "title": "UPDATE: Flash flood warning issued for Lexington and Richland counties Saturday evening",
+        "source": "thestate.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-01T22:40:06Z",
+        "url": "https://www.thestate.com/news/weather-news/article316737959.html",
+        "mention_text": "Lexington",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lexington, Fayette County, Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 11078268,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0949352,
+          38.7060457
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316737959.html",
+        "title": "UPDATE: Flash flood warning issued for Lexington and Richland counties Saturday evening",
+        "source": "thestate.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-01T22:40:06Z",
+        "url": "https://www.thestate.com/news/weather-news/article316737959.html",
+        "mention_text": "Richland",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Richland County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1801535,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9851524,
+          42.8796134
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mcall.com/2026/08/02/allentown-weather-storms-flash-flooding-sunday-night-monday/",
+        "title": "Multiple rounds of storms in Lehigh Valley could bring more flash flooding; flood watch issued",
+        "source": "The Morning Call",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T18:40:10Z",
+        "url": "https://www.mcall.com/2026/08/02/allentown-weather-storms-flash-flooding-sunday-night-monday/",
+        "mention_text": "Lehigh Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lehigh Valley, 12, Wilbur Avenue, City of Geneva, Ontario County, New York, 14456, United States",
+        "osm_type": "yes",
+        "osm_id": 108707281,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1071186,
+          32.7355816
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.arlnow.com/2026/08/02/weather-alert-flood-watch-issued-for-arlington-and-d-c-area-2/",
+        "title": "DEVELOPING: Flood Flood Warning issued for Arlington and part of D.C. area",
+        "source": "ARLnow",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T20:05:22Z",
+        "url": "https://www.arlnow.com/2026/08/02/weather-alert-flood-watch-issued-for-arlington-and-d-c-area-2/",
+        "mention_text": "Arlington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Arlington, Tarrant County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 115329,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9880428,
+          38.8938474
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.arlnow.com/2026/08/02/weather-alert-flood-watch-issued-for-arlington-and-d-c-area-2/",
+        "title": "DEVELOPING: Flood Flood Warning issued for Arlington and part of D.C. area",
+        "source": "ARLnow",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T20:05:22Z",
+        "url": "https://www.arlnow.com/2026/08/02/weather-alert-flood-watch-issued-for-arlington-and-d-c-area-2/",
+        "mention_text": "D.C.",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "District of Columbia, United States",
+        "osm_type": "administrative",
+        "osm_id": 162069,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.463243,
+          42.8149244
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wgrz.com/article/weather/weather-impact/weather-impact-alert-issued-for-sunday-as-widespread-rain-moves-into-wny/71-7fbd1e81-ecd6-49c6-81b3-c5dfe4a21b6f",
+        "title": "Weather Impact Alert: Flash Flood Warning issued for parts of Western New York",
+        "source": "wgrz.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-31T18:27:00Z",
+        "url": "https://www.wgrz.com/article/weather/weather-impact/weather-impact-alert-issued-for-sunday-as-widespread-rain-moves-into-wny/71-7fbd1e81-ecd6-49c6-81b3-c5dfe4a21b6f",
+        "mention_text": "Western New York",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Western New York, New York, United States",
+        "osm_type": "region",
+        "osm_id": 20410506,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8722311,
+          33.750631
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/08/flood-advisory-in-place-for-orange-county-until-early-monday-morning-caused-by-persistent-downpours.html",
+        "title": "Flood advisory in place for Orange County until early Monday morning caused by persistent downpours",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T05:22:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/08/flood-advisory-in-place-for-orange-county-until-early-monday-morning-caused-by-persistent-downpours.html",
+        "mention_text": "Orange County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Orange County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396466,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316745265.html",
+        "title": "Flood advisory for the Piedmont region until early Monday, says the NWS",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T01:25:06Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316745265.html",
+        "mention_text": "Piedmont",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4970393,
+          38.0464066
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316744484.html",
+        "title": "Flood advisory active for Lexington and Richland counties Sunday evening",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T22:24:07Z",
+        "url": "https://www.thestate.com/news/weather-news/article316744484.html",
+        "mention_text": "Lexington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Lexington, Fayette County, Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 11078268,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0949352,
+          38.7060457
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316744484.html",
+        "title": "Flood advisory active for Lexington and Richland counties Sunday evening",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T22:24:07Z",
+        "url": "https://www.thestate.com/news/weather-news/article316744484.html",
+        "mention_text": "Richland",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Richland County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1801535,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8873655,
+          27.3923408
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbs12.com/news/local/flood-advisory-for-southern-okeechobee-county-as-slow-moving-storms-increase-flood-threat",
+        "title": "Flood advisory for southern Okeechobee County as slow moving storms increase flood threat",
+        "source": "cbs12.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T21:32:57Z",
+        "url": "https://cbs12.com/news/local/flood-advisory-for-southern-okeechobee-county-as-slow-moving-storms-increase-flood-threat",
+        "mention_text": "Okeechobee County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Okeechobee County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210747,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9955954,
+          34.937029
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article316744483.html",
+        "title": "Flood advisory for Spartanburg County until Sunday night caused by excessive rain",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T22:24:07Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article316744483.html",
+        "mention_text": "Spartanburg County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Spartanburg County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1357015,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2272835,
+          43.2244513
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/flood-advisory-in-effect-for-parts-of-orleans-jefferson-st-bernard-parishes/289-5cb443af-579f-4ab6-a0a9-2ee06f4abe2a",
+        "title": "Flood Advisory lifted for Orleans, Jefferson, St. Bernard parishes",
+        "source": "wwltv.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T13:34:00Z",
+        "url": "https://www.wwltv.com/article/weather/flood-advisory-in-effect-for-parts-of-orleans-jefferson-st-bernard-parishes/289-5cb443af-579f-4ab6-a0a9-2ee06f4abe2a",
+        "mention_text": "Orleans",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Orleans County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 68855,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1704496,
+          29.834772
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/flood-advisory-in-effect-for-parts-of-orleans-jefferson-st-bernard-parishes/289-5cb443af-579f-4ab6-a0a9-2ee06f4abe2a",
+        "title": "Flood Advisory lifted for Orleans, Jefferson, St. Bernard parishes",
+        "source": "wwltv.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T13:34:00Z",
+        "url": "https://www.wwltv.com/article/weather/flood-advisory-in-effect-for-parts-of-orleans-jefferson-st-bernard-parishes/289-5cb443af-579f-4ab6-a0a9-2ee06f4abe2a",
+        "mention_text": "Jefferson",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Jefferson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1841074,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6008692,
+          29.8217562
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/flood-advisory-in-effect-for-parts-of-orleans-jefferson-st-bernard-parishes/289-5cb443af-579f-4ab6-a0a9-2ee06f4abe2a",
+        "title": "Flood Advisory lifted for Orleans, Jefferson, St. Bernard parishes",
+        "source": "wwltv.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T13:34:00Z",
+        "url": "https://www.wwltv.com/article/weather/flood-advisory-in-effect-for-parts-of-orleans-jefferson-st-bernard-parishes/289-5cb443af-579f-4ab6-a0a9-2ee06f4abe2a",
+        "mention_text": "St. Bernard",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Saint Bernard Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836430,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0733934,
+          29.9561422
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nola.com/news/weather/flood-advisory-storms-new-orleans-area/article_8d6fdb48-6bf4-497f-ad14-06b065ababcf.html",
+        "title": "Flood advisory in effect as thunderstorms drop rain across New Orleans area, NWS says",
+        "source": "NOLA.com",
+        "outlet_city": "New Orleans",
+        "outlet_region": "Louisiana",
+        "published_at": "2026-08-02T13:41:00Z",
+        "url": "https://www.nola.com/news/weather/flood-advisory-storms-new-orleans-area/article_8d6fdb48-6bf4-497f-ad14-06b065ababcf.html",
+        "mention_text": "New Orleans",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "New Orleans, Orleans Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 131885,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4190808,
+          33.2641009
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article316738568.html",
+        "title": "UPDATE: Flood advisory for Barnwell County likely to expire at 10 p.m.",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T02:17:07Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article316738568.html",
+        "mention_text": "Barnwell County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Barnwell County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532497,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6881395,
+          40.2253569
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/multiday-storms-plains-midwest-flash-flood-heavy-rain-threat-july-2026",
+        "title": "Severe storms from Ohio Valley prompt Flash Flood Emergency in North Carolina",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T11:54:00Z",
+        "url": "https://www.foxweather.com/weather-news/multiday-storms-plains-midwest-flash-flood-heavy-rain-threat-july-2026",
+        "mention_text": "Ohio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 162061,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9805484,
+          41.5595723
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/multiday-storms-plains-midwest-flash-flood-heavy-rain-threat-july-2026",
+        "title": "Severe storms from Ohio Valley prompt Flash Flood Emergency in North Carolina",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T11:54:00Z",
+        "url": "https://www.foxweather.com/weather-news/multiday-storms-plains-midwest-flash-flood-heavy-rain-threat-july-2026",
+        "mention_text": "Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Valley County, Nebraska, United States",
+        "osm_type": "administrative",
+        "osm_id": 1425395,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/multiday-storms-plains-midwest-flash-flood-heavy-rain-threat-july-2026",
+        "title": "Severe storms from Ohio Valley prompt Flash Flood Emergency in North Carolina",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T11:54:00Z",
+        "url": "https://www.foxweather.com/weather-news/multiday-storms-plains-midwest-flash-flood-heavy-rain-threat-july-2026",
+        "mention_text": "North Carolina",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6072138,
+          36.4993877
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wfmynews2.com/article/weather/severe-weather/flash-flooding-closes-part-shoals-road-pilot-mountain-storm-report/83-4086c6cf-73db-4d0b-9bbf-081f50404ce2",
+        "title": "Weather Impact Alert: Flash Flood Emergency overnight for Mount Airy and northern Surry County as Ararat River overflows",
+        "source": "wfmynews2.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T02:27:00Z",
+        "url": "https://www.wfmynews2.com/article/weather/severe-weather/flash-flooding-closes-part-shoals-road-pilot-mountain-storm-report/83-4086c6cf-73db-4d0b-9bbf-081f50404ce2",
+        "mention_text": "Mount Airy",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mount Airy, Surry County, North Carolina, 27030, United States",
+        "osm_type": "administrative",
+        "osm_id": 180139,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7013751,
+          36.4135582
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wfmynews2.com/article/weather/severe-weather/flash-flooding-closes-part-shoals-road-pilot-mountain-storm-report/83-4086c6cf-73db-4d0b-9bbf-081f50404ce2",
+        "title": "Weather Impact Alert: Flash Flood Emergency overnight for Mount Airy and northern Surry County as Ararat River overflows",
+        "source": "wfmynews2.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T02:27:00Z",
+        "url": "https://www.wfmynews2.com/article/weather/severe-weather/flash-flooding-closes-part-shoals-road-pilot-mountain-storm-report/83-4086c6cf-73db-4d0b-9bbf-081f50404ce2",
+        "mention_text": "Surry County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Surry County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528746,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5817411,
+          36.4537734
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wfmynews2.com/article/weather/severe-weather/flash-flooding-closes-part-shoals-road-pilot-mountain-storm-report/83-4086c6cf-73db-4d0b-9bbf-081f50404ce2",
+        "title": "Weather Impact Alert: Flash Flood Emergency overnight for Mount Airy and northern Surry County as Ararat River overflows",
+        "source": "wfmynews2.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T02:27:00Z",
+        "url": "https://www.wfmynews2.com/article/weather/severe-weather/flash-flooding-closes-part-shoals-road-pilot-mountain-storm-report/83-4086c6cf-73db-4d0b-9bbf-081f50404ce2",
+        "mention_text": "Ararat River",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ararat River, Surry County, North Carolina, United States",
+        "osm_type": "river",
+        "osm_id": 14444600,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2599081,
+          34.2189515
+        ]
+      },
+      "properties": {
+        "article_id": "https://currently.att.yahoo.com/att/flash-flood-emergency-issued-western-112541550.html",
+        "title": "Flash Flood Emergency issued in Western North Carolina",
+        "source": "currently.att.yahoo.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T11:25:41Z",
+        "url": "https://currently.att.yahoo.com/att/flash-flood-emergency-issued-western-112541550.html",
+        "mention_text": "Western North Carolina",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Western Drive, Bishopville, Lee County, South Carolina, 29010, United States",
+        "osm_type": "residential",
+        "osm_id": 12470936,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316693044.html",
+        "title": "UPDATE: Flood advisory active for the Piedmont region until Tuesday night",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T00:48:06Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316693044.html",
+        "mention_text": "Piedmont",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-08-03T09:47:33.171802+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-08-02T08:25:37.035825+00:00",
-    "total_features": 3180
+    "last_updated": "2026-08-03T09:47:33.187034+00:00",
+    "total_features": 3216
   }
 }
