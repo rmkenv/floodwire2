@@ -83616,11 +83616,1259 @@
         "osm_id": 2999176,
         "run_at": "2026-08-03T09:47:33.171802+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6869011,
+          35.6333866
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316758098.html",
+        "title": "Flash flood warning active for Dare County Tuesday morning caused by thunderstorms",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-04T07:27:06Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316758098.html",
+        "mention_text": "Dare County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dare County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1232267,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.186346,
+          37.3592837
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wric.com/weather/severe-weather/flash-flood-warning-issued-in-central-virginia-localities/",
+        "title": "Flash flood warning issued in Central Virginia localities",
+        "source": "WRIC ABC 8News",
+        "outlet_city": "Richmond",
+        "outlet_region": "Virginia",
+        "published_at": "2026-08-03T21:59:11Z",
+        "url": "https://www.wric.com/weather/severe-weather/flash-flood-warning-issued-in-central-virginia-localities/",
+        "mention_text": "Central Virginia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central Virginia Community College, 3506, Wards Road, Lynchburg, Virginia, 24502, United States",
+        "osm_type": "college",
+        "osm_id": 117607560,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9438572,
+          34.3609331
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article316755772.html",
+        "title": "UPDATE: Darlington County placed under a flash flood warning Monday night",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-04T00:13:07Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article316755772.html",
+        "mention_text": "Darlington County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Darlington County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532503,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.masslive.com/weather/2026/08/flash-flood-warning-issued-for-much-of-bristol-county-monday-afternoon.html",
+        "title": "Flash flood warning issued for much of Mass. county Tuesday afternoon",
+        "source": "MassLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T17:52:00Z",
+        "url": "https://www.masslive.com/weather/2026/08/flash-flood-warning-issued-for-much-of-bristol-county-monday-afternoon.html",
+        "mention_text": "Mass.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 61315,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.facebook.com/Boston25News/posts/severe-weather-alert-heads-up-a-new-flash-flood-warning-has-been-issued-for-part/1530534802441514/",
+        "title": "SEVERE WEATHER ALERT: Heads up! A new flash flood warning has been issued for parts of southeastern Massachusetts.",
+        "source": "facebook.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T16:24:30Z",
+        "url": "https://www.facebook.com/Boston25News/posts/severe-weather-alert-heads-up-a-new-flash-flood-warning-has-been-issued-for-part/1530534802441514/",
+        "mention_text": "Massachusetts",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 61315,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6151604,
+          42.0688621
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.westernmassnews.com/2026/08/03/flash-flood-traps-drivers-disrupts-commuters-agawam-shopping-plaza/",
+        "title": "Flash flood traps drivers, disrupts commuters at Agawam shopping plaza",
+        "source": "westernmassnews.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T17:27:00Z",
+        "url": "https://www.westernmassnews.com/2026/08/03/flash-flood-traps-drivers-disrupts-commuters-agawam-shopping-plaza/",
+        "mention_text": "Agawam",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Agawam, Hampden County, Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 1181612,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.facebook.com/Boston25News/photos/severe-weather-alert-heads-up-a-new-flash-flood-warning-has-been-issued-for-part/1530534782441516/",
+        "title": "SEVERE WEATHER ALERT: Heads up! A new flash flood warning has been issued for parts of southeastern Massachusetts.",
+        "source": "facebook.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T16:24:30Z",
+        "url": "https://www.facebook.com/Boston25News/photos/severe-weather-alert-heads-up-a-new-flash-flood-warning-has-been-issued-for-part/1530534782441516/",
+        "mention_text": "Massachusetts",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 61315,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0357266,
+          41.1519319
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcnewyork.com/weather/flash-flood-warning-nyc-nj-today-rain-radar/6532990/",
+        "title": "Flash flood warning lingers for parts of NJ, NY's Rockland County through early PM",
+        "source": "NBC New York",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T11:11:40Z",
+        "url": "https://www.nbcnewyork.com/weather/flash-flood-warning-nyc-nj-today-rain-radar/6532990/",
+        "mention_text": "Rockland County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Rockland County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1835363,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcboston.com/video/weather/video-weather/flash-flood-warnings-in-mass-as-heavy-rain-moves-across-new-england/3991165/",
+        "title": "Flash flood warnings in Mass. as heavy rain moves across New England",
+        "source": "NBC Boston",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T10:51:39Z",
+        "url": "https://www.nbcboston.com/video/weather/video-weather/flash-flood-warnings-in-mass-as-heavy-rain-moves-across-new-england/3991165/",
+        "mention_text": "Mass.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 61315,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7537839,
+          44.2057083
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcboston.com/video/weather/video-weather/flash-flood-warnings-in-mass-as-heavy-rain-moves-across-new-england/3991165/",
+        "title": "Flash flood warnings in Mass. as heavy rain moves across New England",
+        "source": "NBC Boston",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T10:51:39Z",
+        "url": "https://www.nbcboston.com/video/weather/video-weather/flash-flood-warnings-in-mass-as-heavy-rain-moves-across-new-england/3991165/",
+        "mention_text": "New England",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New England, United States",
+        "osm_type": "region",
+        "osm_id": 9660059,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.boston25news.com/news/local/flash-flood-warning-issued-parts-massachusetts-new-hampshire/UZJDHHG3JZFDTIR3CTTUD7W3IA/",
+        "title": "Flash flood warning issued for parts of Massachusetts, New Hampshire",
+        "source": "Boston 25 News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T11:29:55Z",
+        "url": "https://www.boston25news.com/news/local/flash-flood-warning-issued-parts-massachusetts-new-hampshire/UZJDHHG3JZFDTIR3CTTUD7W3IA/",
+        "mention_text": "Massachusetts",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 61315,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6553992,
+          43.4849133
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.boston25news.com/news/local/flash-flood-warning-issued-parts-massachusetts-new-hampshire/UZJDHHG3JZFDTIR3CTTUD7W3IA/",
+        "title": "Flash flood warning issued for parts of Massachusetts, New Hampshire",
+        "source": "Boston 25 News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T11:29:55Z",
+        "url": "https://www.boston25news.com/news/local/flash-flood-warning-issued-parts-massachusetts-new-hampshire/UZJDHHG3JZFDTIR3CTTUD7W3IA/",
+        "mention_text": "New Hampshire",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Hampshire, United States",
+        "osm_type": "administrative",
+        "osm_id": 67213,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.boston25news.com/news/local/new-flash-flood-warning-issued-southeastern-massachusetts/PDOFEIU3CNEFRNYOKLLOYOCEWQ/",
+        "title": "New flash flood warning issued for southeastern Massachusetts",
+        "source": "Boston 25 News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T16:17:04Z",
+        "url": "https://www.boston25news.com/news/local/new-flash-flood-warning-issued-southeastern-massachusetts/PDOFEIU3CNEFRNYOKLLOYOCEWQ/",
+        "mention_text": "Massachusetts",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 61315,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8430827,
+          35.2272086
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.qcnews.com/weather/weather-forecast/daily-storm-chances-and-isolated-flash-flood-threats-for-charlotte/",
+        "title": "Daily storm chances and isolated flash flood threats for Charlotte",
+        "source": "Queen City News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T11:38:28Z",
+        "url": "https://www.qcnews.com/weather/weather-forecast/daily-storm-chances-and-isolated-flash-flood-threats-for-charlotte/",
+        "mention_text": "Charlotte",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Charlotte, Mecklenburg County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 177415,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.08565,
+          33.85856
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.courierpostonline.com/story/weather/2026/08/03/flash-flood-warnings-nws-new-jersey-flooding-philadelphia-rain-weather-forecast/91150475007/",
+        "title": "Flash flood warnings set to last into afternoon in South Jersey",
+        "source": "Courier-Post",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T15:51:00Z",
+        "url": "https://www.courierpostonline.com/story/weather/2026/08/03/flash-flood-warnings-nws-new-jersey-flooding-philadelphia-rain-weather-forecast/91150475007/",
+        "mention_text": "South Jersey",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South-Jersey, South Street, Artesia, Los Angeles County, California, 90703, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 6356006215,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7342163,
+          41.6500201
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thehour.com/weather/article/ct-flash-flood-warning-heavy-rain-monday-22371267.php",
+        "title": "Flash flood warnings issued as heavy rain drenches western Connecticut",
+        "source": "Norwalk Hour",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T10:04:39Z",
+        "url": "https://www.thehour.com/weather/article/ct-flash-flood-warning-heavy-rain-monday-22371267.php",
+        "mention_text": "Connecticut",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Connecticut, United States",
+        "osm_type": "administrative",
+        "osm_id": 165794,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6553992,
+          43.4849133
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.facebook.com/Boston25News/posts/severe-weather-alert-heads-up-a-new-flash-flood-warning-has-been-issued-for-sout/1530305895797738/",
+        "title": "SEVERE WEATHER ALERT: Heads up! A new flash flood warning has been issued for southern New Hampshire.",
+        "source": "facebook.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T11:36:22Z",
+        "url": "https://www.facebook.com/Boston25News/posts/severe-weather-alert-heads-up-a-new-flash-flood-warning-has-been-issued-for-sout/1530305895797738/",
+        "mention_text": "New Hampshire",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Hampshire, United States",
+        "osm_type": "administrative",
+        "osm_id": 67213,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7226665,
+          39.9325409
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.courierpostonline.com/story/weather/2026/08/03/weather-alert-burlington-county-flood-watch-august-3/91146709007/",
+        "title": "Flood warning issued for Burlington County",
+        "source": "Courier-Post",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T12:22:00Z",
+        "url": "https://www.courierpostonline.com/story/weather/2026/08/03/weather-alert-burlington-county-flood-watch-august-3/91146709007/",
+        "mention_text": "Burlington County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Burlington County, New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 963152,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.facebook.com/Boston25News/photos/severe-weather-alert-heads-up-a-flash-flood-warning-has-been-issued-for-parts-of/1530287232466271/",
+        "title": "SEVERE WEATHER ALERT: Heads up! A flash flood warning has been issued for parts of Massachusetts through the morning commute.",
+        "source": "facebook.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T11:09:26Z",
+        "url": "https://www.facebook.com/Boston25News/photos/severe-weather-alert-heads-up-a-flash-flood-warning-has-been-issued-for-parts-of/1530287232466271/",
+        "mention_text": "Massachusetts",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 61315,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6319754,
+          42.250303
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcnewyork.com/weather/monday-storms-flash-flooding-nyc/6532804/",
+        "title": "Flash flood warning issued for NYC, NJ, Hudson Valley as heavy rain hits",
+        "source": "NBC New York",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T13:58:08Z",
+        "url": "https://www.nbcnewyork.com/weather/monday-storms-flash-flooding-nyc/6532804/",
+        "mention_text": "Hudson Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hudson Valley, New York, United States",
+        "osm_type": "region",
+        "osm_id": 20410509,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.boston25news.com/news/flash-flood-warning-issued-southeastern-massachusetts-through-3-pm-monday/9a029de6-903f-446f-9fa3-3f6d694dbecb/",
+        "title": "Flash flood warning issued in southeastern Massachusetts through 3 p.m. Monday",
+        "source": "Boston 25 News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T16:20:14Z",
+        "url": "https://www.boston25news.com/news/flash-flood-warning-issued-southeastern-massachusetts-through-3-pm-monday/9a029de6-903f-446f-9fa3-3f6d694dbecb/",
+        "mention_text": "Massachusetts",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 61315,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://pix11.com/news/local-news/flood-watch-issued-in-nyc-things-to-know/",
+        "title": "Flash flood warning ends in NYC: Things to know",
+        "source": "PIX11",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T09:46:16Z",
+        "url": "https://pix11.com/news/local-news/flood-watch-issued-in-nyc-things-to-know/",
+        "mention_text": "NYC",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.facebook.com/Boston25News/posts/severe-weather-alert-heads-up-a-flash-flood-warning-has-been-issued-for-parts-of/1530287252466269/",
+        "title": "SEVERE WEATHER ALERT: Heads up! A flash flood warning has been issued for parts of Massachusetts through the morning commute.",
+        "source": "facebook.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T11:09:26Z",
+        "url": "https://www.facebook.com/Boston25News/posts/severe-weather-alert-heads-up-a-flash-flood-warning-has-been-issued-for-parts-of/1530287252466269/",
+        "mention_text": "Massachusetts",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 61315,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.662956,
+          39.6159851
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.delawareonline.com/story/news/local/2026/08/03/flash-flood-warning-new-castle-county-delaware-weather-alert/91148393007/",
+        "title": "Flash flood warning issued for New Castle County",
+        "source": "Delawareonline.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T13:26:00Z",
+        "url": "https://www.delawareonline.com/story/news/local/2026/08/03/flash-flood-warning-new-castle-county-delaware-weather-alert/91148393007/",
+        "mention_text": "New Castle County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Castle County, Delaware, United States",
+        "osm_type": "administrative",
+        "osm_id": 1245077,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.masslive.com/weather/2026/08/flash-flood-warning-in-effect-for-parts-of-mass-as-thunder-rain-soaks-state.html",
+        "title": "Flash flood warning in effect for parts of Mass. as thunder, rain soaks state",
+        "source": "MassLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T10:29:00Z",
+        "url": "https://www.masslive.com/weather/2026/08/flash-flood-warning-in-effect-for-parts-of-mass-as-thunder-rain-soaks-state.html",
+        "mention_text": "Mass.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 61315,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3126651,
+          41.3806114
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/east-coast-double-threat-flooding-tropical-downpours",
+        "title": "Storms pound East Coast stretching from Florida to Northeast as flash flood threat unfolds",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T21:29:00Z",
+        "url": "https://www.foxweather.com/weather-news/east-coast-double-threat-flooding-tropical-downpours",
+        "mention_text": "East Coast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "East Coast, Town of Goshen, Orange County, New York, United States",
+        "osm_type": "garden",
+        "osm_id": 1107357381,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/east-coast-double-threat-flooding-tropical-downpours",
+        "title": "Storms pound East Coast stretching from Florida to Northeast as flash flood threat unfolds",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T21:29:00Z",
+        "url": "https://www.foxweather.com/weather-news/east-coast-double-threat-flooding-tropical-downpours",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2512895,
+          45.0157576
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/east-coast-double-threat-flooding-tropical-downpours",
+        "title": "Storms pound East Coast stretching from Florida to Northeast as flash flood threat unfolds",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T21:29:00Z",
+        "url": "https://www.foxweather.com/weather-news/east-coast-double-threat-flooding-tropical-downpours",
+        "mention_text": "Northeast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Northeast, Minneapolis, Hennepin County, Minnesota, United States",
+        "osm_type": "administrative",
+        "osm_id": 20599855,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/newyork/video/flash-flood-warning-for-nyc-due-to-heavy-rain-and-storms/",
+        "title": "Flash flood warning for NYC due to heavy rain and storms",
+        "source": "cbsnews.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T10:22:00Z",
+        "url": "https://www.cbsnews.com/newyork/video/flash-flood-warning-for-nyc-due-to-heavy-rain-and-storms/",
+        "mention_text": "NYC",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9909373,
+          40.1363699
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.phillyburbs.com/story/weather/2026/08/03/flood-warning-has-expired-for-bucks-county-montco/91146048007/",
+        "title": "Flash flood warning issued for Lower Bucks County",
+        "source": "PhillyBurbs",
+        "outlet_city": "Philadelphia",
+        "outlet_region": "Pennsylvania",
+        "published_at": "2026-08-03T13:33:00Z",
+        "url": "https://www.phillyburbs.com/story/weather/2026/08/03/flood-warning-has-expired-for-bucks-county-montco/91146048007/",
+        "mention_text": "Lower Bucks County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pennsylvania Turnpike, Feasterville-Trevose, Lower Southampton Township, Bucks County, Pennsylvania, 19053, United States",
+        "osm_type": "motorway",
+        "osm_id": 43113014,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.lohud.com/story/weather/2026/08/03/flood-advisories-flash-flood-warning-nyc-hudson-valley/91145882007/",
+        "title": "Flood advisories, flash flood warning issued for NYC, Hudson Valley",
+        "source": "Lohud",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T10:19:00Z",
+        "url": "https://www.lohud.com/story/weather/2026/08/03/flood-advisories-flash-flood-warning-nyc-hudson-valley/91145882007/",
+        "mention_text": "NYC",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6319754,
+          42.250303
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.lohud.com/story/weather/2026/08/03/flood-advisories-flash-flood-warning-nyc-hudson-valley/91145882007/",
+        "title": "Flood advisories, flash flood warning issued for NYC, Hudson Valley",
+        "source": "Lohud",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T10:19:00Z",
+        "url": "https://www.lohud.com/story/weather/2026/08/03/flood-advisories-flash-flood-warning-nyc-hudson-valley/91145882007/",
+        "mention_text": "Hudson Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hudson Valley, New York, United States",
+        "osm_type": "region",
+        "osm_id": 20410509,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6553992,
+          43.4849133
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.boston25news.com/news/flash-flood-warning-issued-parts-southern-new-hampshire/ad4c7f58-f6a7-4c0a-a3b9-4399c67fa1c8/",
+        "title": "Flash flood warning issued for parts of southern New Hampshire",
+        "source": "Boston 25 News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T11:47:05Z",
+        "url": "https://www.boston25news.com/news/flash-flood-warning-issued-parts-southern-new-hampshire/ad4c7f58-f6a7-4c0a-a3b9-4399c67fa1c8/",
+        "mention_text": "New Hampshire",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Hampshire, United States",
+        "osm_type": "administrative",
+        "osm_id": 67213,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9897782,
+          41.1509835
+        ]
+      },
+      "properties": {
+        "article_id": "https://hudsonvalley.news12.com/flash-flood-warning-issued-for-new-city-spring-valley-and-ossining",
+        "title": "Flash flood warning issued for New City, Spring Valley and Ossining",
+        "source": "News 12 - Hudson Valley",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T09:37:50Z",
+        "url": "https://hudsonvalley.news12.com/flash-flood-warning-issued-for-new-city-spring-valley-and-ossining",
+        "mention_text": "New City",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New City, Town of Clarkstown, Rockland County, New York, 10956, United States",
+        "osm_type": "census",
+        "osm_id": 175804,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0437839,
+          41.1130231
+        ]
+      },
+      "properties": {
+        "article_id": "https://hudsonvalley.news12.com/flash-flood-warning-issued-for-new-city-spring-valley-and-ossining",
+        "title": "Flash flood warning issued for New City, Spring Valley and Ossining",
+        "source": "News 12 - Hudson Valley",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T09:37:50Z",
+        "url": "https://hudsonvalley.news12.com/flash-flood-warning-issued-for-new-city-spring-valley-and-ossining",
+        "mention_text": "Spring Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Village of Spring Valley, Town of Ramapo, Rockland County, New York, 10977, United States",
+        "osm_type": "administrative",
+        "osm_id": 176222,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8620367,
+          41.1613168
+        ]
+      },
+      "properties": {
+        "article_id": "https://hudsonvalley.news12.com/flash-flood-warning-issued-for-new-city-spring-valley-and-ossining",
+        "title": "Flash flood warning issued for New City, Spring Valley and Ossining",
+        "source": "News 12 - Hudson Valley",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T09:37:50Z",
+        "url": "https://hudsonvalley.news12.com/flash-flood-warning-issued-for-new-city-spring-valley-and-ossining",
+        "mention_text": "Ossining",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Village of Ossining, Town of Ossining, Westchester County, New York, 10562, United States",
+        "osm_type": "administrative",
+        "osm_id": 174882,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6869011,
+          35.6333866
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316757983.html",
+        "title": "Dare County under a flood advisory early Tuesday morning caused by significant downpours",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-04T06:36:06Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316757983.html",
+        "mention_text": "Dare County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Dare County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1232267,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9438572,
+          34.3609331
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article316755334.html",
+        "title": "UPDATE: Darlington and Marlboro counties under a flood advisory Monday evening",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T22:59:06Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article316755334.html",
+        "mention_text": "Darlington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Darlington County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532503,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3056707,
+          40.0379958
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article316756446.html",
+        "title": "Flood advisory for Kershaw and Lancaster counties Monday night due to persistent downpours",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-04T00:13:06Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article316756446.html",
+        "mention_text": "Lancaster",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Lancaster, Lancaster County, Pennsylvania, 17575, United States",
+        "osm_type": "administrative",
+        "osm_id": 3997756,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.666593,
+          34.2814497
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316753509.html",
+        "title": "UPDATE: Flood advisory previously issued for Columbus County will expire at 5:30 p.m.",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T21:51:08Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316753509.html",
+        "mention_text": "Columbus County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Columbus County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528689,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316756470.html",
+        "title": "Flood advisory in place for North Carolina Monday night triggered by substantial downpours",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-04T00:19:07Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316756470.html",
+        "mention_text": "North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4970393,
+          38.0464066
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article316744484.html",
+        "title": "Flood advisory active for Lexington and Richland counties Sunday evening",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T22:24:07Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article316744484.html",
+        "mention_text": "Lexington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Lexington, Fayette County, Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 11078268,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0949352,
+          38.7060457
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article316744484.html",
+        "title": "Flood advisory active for Lexington and Richland counties Sunday evening",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T22:24:07Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article316744484.html",
+        "mention_text": "Richland",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Richland County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1801535,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7442135,
+          33.6442699
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article316738191.html",
+        "title": "UPDATE: Flood advisory for Williamsburg County has been replaced, says the NWS",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-01T22:10:07Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article316738191.html",
+        "mention_text": "Williamsburg County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Williamsburg County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532523,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6944133,
+          36.4412509
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316694663.html",
+        "title": "Flood advisory affecting Gates County until 2 a.m. Wednesday, says the NWS",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-29T03:25:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316694663.html",
+        "mention_text": "Gates County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Gates County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1242003,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9507234,
+          30.9551586
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316692280.html",
+        "title": "Madison County under a flood advisory Tuesday night due to prolonged downpours",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-28T22:49:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316692280.html",
+        "mention_text": "Madison County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Madison County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839085,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9001941,
+          32.4821843
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailynews.com/2026/07/27/catalina-santa-barbara-islands-under-a-coastal-flood-advisory-from-wednesday-to-saturday/",
+        "title": "Catalina/Santa Barbara Islands under a coastal flood advisory from Wednesday to Saturday",
+        "source": "Los Angeles Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-27T21:32:49Z",
+        "url": "https://www.dailynews.com/2026/07/27/catalina-santa-barbara-islands-under-a-coastal-flood-advisory-from-wednesday-to-saturday/",
+        "mention_text": "Catalina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Catalina, Pima County, Arizona, United States",
+        "osm_type": "census",
+        "osm_id": 11180516,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.702667,
+          34.4221319
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailynews.com/2026/07/27/catalina-santa-barbara-islands-under-a-coastal-flood-advisory-from-wednesday-to-saturday/",
+        "title": "Catalina/Santa Barbara Islands under a coastal flood advisory from Wednesday to Saturday",
+        "source": "Los Angeles Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-27T21:32:49Z",
+        "url": "https://www.dailynews.com/2026/07/27/catalina-santa-barbara-islands-under-a-coastal-flood-advisory-from-wednesday-to-saturday/",
+        "mention_text": "Santa Barbara",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Santa Barbara, Santa Barbara County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 112224,
+        "run_at": "2026-08-04T08:41:27.454826+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-08-03T09:47:33.187034+00:00",
-    "total_features": 3216
+    "last_updated": "2026-08-04T08:41:27.471244+00:00",
+    "total_features": 3264
   }
 }
