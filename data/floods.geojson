@@ -84864,11 +84864,843 @@
         "osm_id": 112224,
         "run_at": "2026-08-04T08:41:27.454826+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1340843,
+          36.5029951
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316769315.html",
+        "title": "UPDATE: Flash flood warning affecting Alleghany County until 2 a.m. Wednesday",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-05T03:05:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316769315.html",
+        "mention_text": "Alleghany County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Alleghany County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528671,
+        "run_at": "2026-08-05T08:40:23.800333+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6186108,
+          41.8872114
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/rounds-heavy-rain-thunderstorms-flash-flood-threat-east-coast",
+        "title": "Incoming rounds of heavy rain and thunderstorms trigger midweek flash flood threat across the East Coast",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-04T21:49:00Z",
+        "url": "https://www.foxweather.com/weather-news/rounds-heavy-rain-thunderstorms-flash-flood-threat-east-coast",
+        "mention_text": "the East Coast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "The Coast at Lakeshore East, 345, East Wacker Drive, New East Side, Loop, Chicago, South Chicago Township, Cook County, Illinois, 60601, United States",
+        "osm_type": "apartments",
+        "osm_id": 235391301,
+        "run_at": "2026-08-05T08:40:23.800333+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1340843,
+          36.5029951
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316769315.html",
+        "title": "Flash flood warning affecting Alleghany County until 2 a.m. Wednesday",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-05T00:44:06Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316769315.html",
+        "mention_text": "Alleghany County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Alleghany County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528671,
+        "run_at": "2026-08-05T08:40:23.800333+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.186346,
+          37.3592837
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wric.com/weather/severe-weather/central-virginia-flash-flood-warnings-aug-4/",
+        "title": "Flash flood warning issued in some Central Virginia localities",
+        "source": "WRIC ABC 8News",
+        "outlet_city": "Richmond",
+        "outlet_region": "Virginia",
+        "published_at": "2026-08-04T10:52:58Z",
+        "url": "https://www.wric.com/weather/severe-weather/central-virginia-flash-flood-warnings-aug-4/",
+        "mention_text": "Central Virginia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central Virginia Community College, 3506, Wards Road, Lynchburg, Virginia, 24502, United States",
+        "osm_type": "college",
+        "osm_id": 117607560,
+        "run_at": "2026-08-05T08:40:23.800333+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3997706,
+          36.8159611
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wavy.com/weather/weather-photos/flood-warning-issued-for-hampton-roads-due-to-incoming-thunderstorms/",
+        "title": "Flood warning issued for Hampton Roads due to incoming thunderstorms",
+        "source": "WAVY.com",
+        "outlet_city": "Norfolk",
+        "outlet_region": "Virginia",
+        "published_at": "2026-08-04T18:48:04Z",
+        "url": "https://www.wavy.com/weather/weather-photos/flood-warning-issued-for-hampton-roads-due-to-incoming-thunderstorms/",
+        "mention_text": "Hampton Roads",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hampton Roads, Virginia, United States",
+        "osm_type": "statistical",
+        "osm_id": 21086422,
+        "run_at": "2026-08-05T08:40:23.800333+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wsbtv.com/news/local/heavy-rain-storms-moving-through-metro-atlanta-ground-stop-effect-airport/CHRQRLOITFC3RNWOY7ADHADTYI/",
+        "title": "Flash flood warning for multiple metro Atlanta counties; ground stop for flights to Atlanta",
+        "source": "WSB-TV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-04T17:33:05Z",
+        "url": "https://www.wsbtv.com/news/local/heavy-rain-storms-moving-through-metro-atlanta-ground-stop-effect-airport/CHRQRLOITFC3RNWOY7ADHADTYI/",
+        "mention_text": "Atlanta",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-08-05T08:40:23.800333+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1845556,
+          40.4714305
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/atlanta/news/flash-flood-warning-issued-for-cobb-and-fulton-counties-ground-stop-in-place-at-atlanta-airport/",
+        "title": "Flash flood warning issued for Cobb and Fulton counties, ground delays at Atlanta airport",
+        "source": "cbsnews.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-04T17:04:00Z",
+        "url": "https://www.cbsnews.com/atlanta/news/flash-flood-warning-issued-for-cobb-and-fulton-counties-ground-stop-in-place-at-atlanta-airport/",
+        "mention_text": "Fulton",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Fulton County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1800719,
+        "run_at": "2026-08-05T08:40:23.800333+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/atlanta/news/flash-flood-warning-issued-for-cobb-and-fulton-counties-ground-stop-in-place-at-atlanta-airport/",
+        "title": "Flash flood warning issued for Cobb and Fulton counties, ground delays at Atlanta airport",
+        "source": "cbsnews.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-04T17:04:00Z",
+        "url": "https://www.cbsnews.com/atlanta/news/flash-flood-warning-issued-for-cobb-and-fulton-counties-ground-stop-in-place-at-atlanta-airport/",
+        "mention_text": "Atlanta",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-08-05T08:40:23.800333+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6869011,
+          35.6333866
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316758098.html",
+        "title": "UPDATE: Dare County placed under a flash flood warning Tuesday morning",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-04T09:47:07Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316758098.html",
+        "mention_text": "Dare County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dare County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1232267,
+        "run_at": "2026-08-05T08:40:23.800333+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.280075,
+          43.411391
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-46m6anemyhwks742",
+        "title": "Multiday flash flood threat returns to the Midwest and Plains through midweek",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-04T10:50:38Z",
+        "url": "https://www.foxweather.com/watch/fmc-46m6anemyhwks742",
+        "mention_text": "Midwest",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Midwest, Natrona County, Wyoming, United States",
+        "osm_type": "administrative",
+        "osm_id": 252227,
+        "run_at": "2026-08-05T08:40:23.800333+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.827274,
+          33.1892387
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-46m6anemyhwks742",
+        "title": "Multiday flash flood threat returns to the Midwest and Plains through midweek",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-04T10:50:38Z",
+        "url": "https://www.foxweather.com/watch/fmc-46m6anemyhwks742",
+        "mention_text": "Plains",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Plains, Yoakum County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 13651774,
+        "run_at": "2026-08-05T08:40:23.800333+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1845556,
+          40.4714305
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox5atlanta.com/weather/metro-atlanta-bus-stop-forecast-cooler-temps-stormy-skies-tuesday",
+        "title": "Flash flood warning issued for Fulton, Cobb counties",
+        "source": "FOX 5 Atlanta",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-04T03:22:18Z",
+        "url": "https://www.fox5atlanta.com/weather/metro-atlanta-bus-stop-forecast-cooler-temps-stormy-skies-tuesday",
+        "mention_text": "Fulton",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Fulton County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1800719,
+        "run_at": "2026-08-05T08:40:23.800333+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5732006,
+          33.9373948
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox5atlanta.com/weather/metro-atlanta-bus-stop-forecast-cooler-temps-stormy-skies-tuesday",
+        "title": "Flash flood warning issued for Fulton, Cobb counties",
+        "source": "FOX 5 Atlanta",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-04T03:22:18Z",
+        "url": "https://www.fox5atlanta.com/weather/metro-atlanta-bus-stop-forecast-cooler-temps-stormy-skies-tuesday",
+        "mention_text": "Cobb",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Cobb County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 1020125,
+        "run_at": "2026-08-05T08:40:23.800333+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316745140.html",
+        "title": "UPDATE: Western North Carolina placed under a flash flood warning until 2 a.m. Monday",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T02:48:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316745140.html",
+        "mention_text": "North Carolina",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-08-05T08:40:23.800333+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.280075,
+          43.411391
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/severe-storms-target-northern-plains-midwest-hail-damaging-winds",
+        "title": "Days of relentless heavy rain prompt flash flood threats for millions across already saturated Midwest, Plains",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T20:01:00Z",
+        "url": "https://www.foxweather.com/weather-news/severe-storms-target-northern-plains-midwest-hail-damaging-winds",
+        "mention_text": "Midwest",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Midwest, Natrona County, Wyoming, United States",
+        "osm_type": "administrative",
+        "osm_id": 252227,
+        "run_at": "2026-08-05T08:40:23.800333+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0856545,
+          41.7425538
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.masslive.com/weather/2026/08/flash-flood-warning-issued-for-much-of-bristol-county-monday-afternoon.html",
+        "title": "Flash flood warning issued for much of Bristol County Monday afternoon",
+        "source": "MassLive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T17:52:00Z",
+        "url": "https://www.masslive.com/weather/2026/08/flash-flood-warning-issued-for-much-of-bristol-county-monday-afternoon.html",
+        "mention_text": "Bristol County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Bristol County, Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 1840537,
+        "run_at": "2026-08-05T08:40:23.800333+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.272863,
+          37.8708393
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316771236.html",
+        "title": "Flood advisory affecting Berkeley and Charleston counties until early Wednesday morning",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-05T06:59:06Z",
+        "url": "https://www.thestate.com/news/weather-news/article316771236.html",
+        "mention_text": "Berkeley",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Berkeley, Alameda County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 2833528,
+        "run_at": "2026-08-05T08:40:23.800333+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9399309,
+          32.7884363
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316771236.html",
+        "title": "Flood advisory affecting Berkeley and Charleston counties until early Wednesday morning",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-05T06:59:06Z",
+        "url": "https://www.thestate.com/news/weather-news/article316771236.html",
+        "mention_text": "Charleston",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston, Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 194119,
+        "run_at": "2026-08-05T08:40:23.800333+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9955954,
+          34.937029
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article316767097.html",
+        "title": "UPDATE: Flood advisory issued for Spartanburg County Tuesday night due to heavy downpours",
+        "source": "heraldonline.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-05T01:05:07Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article316767097.html",
+        "mention_text": "Spartanburg County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Spartanburg County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1357015,
+        "run_at": "2026-08-05T08:40:23.800333+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9575983,
+          33.0482247
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wbtv.com/2026/08/04/flood-advisory-issued-burke-county-what-know/",
+        "title": "Flood advisory issued for Burke County: What to know",
+        "source": "WBTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-04T21:25:00Z",
+        "url": "https://www.wbtv.com/2026/08/04/flood-advisory-issued-burke-county-what-know/",
+        "mention_text": "Burke County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Burke County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 416911,
+        "run_at": "2026-08-05T08:40:23.800333+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6418883,
+          39.7886111
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article316769963.html",
+        "title": "Flood advisory issued for Fairfield County Tuesday night triggered by intense rain",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-05T02:07:07Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article316769963.html",
+        "mention_text": "Fairfield County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Fairfield County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 178391,
+        "run_at": "2026-08-05T08:40:23.800333+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316766502.html",
+        "title": "Flood advisory for the Piedmont region Tuesday evening caused by persistent downpours",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-04T20:35:08Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316766502.html",
+        "mention_text": "Piedmont",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-08-05T08:40:23.800333+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4805684,
+          35.4849292
+        ]
+      },
+      "properties": {
+        "article_id": "https://islandfreepress.org/outer-banks-news/flood-advisory-extended-for-hatteras-island-into-tuesday-afternoon/",
+        "title": "Flood Advisory extended for Hatteras Island into Tuesday afternoon",
+        "source": "Island Free Press",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-04T17:51:40Z",
+        "url": "https://islandfreepress.org/outer-banks-news/flood-advisory-extended-for-hatteras-island-into-tuesday-afternoon/",
+        "mention_text": "Hatteras Island",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hatteras Island, Avon, Dare County, North Carolina, United States",
+        "osm_type": "island",
+        "osm_id": 1140928,
+        "run_at": "2026-08-05T08:40:23.800333+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0785945,
+          40.9745493
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316770037.html",
+        "title": "UPDATE: Flood advisory issued for Union County until 2 a.m. Wednesday, says the NWS",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-05T04:07:13Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316770037.html",
+        "mention_text": "Union County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Union County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 416655,
+        "run_at": "2026-08-05T08:40:23.800333+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9575983,
+          33.0482247
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316767410.html",
+        "title": "UPDATE: The flood advisory for Burke County is forecast to expire at 8 p.m.",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-05T00:15:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316767410.html",
+        "mention_text": "Burke County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Burke County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 416911,
+        "run_at": "2026-08-05T08:40:23.800333+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1791849,
+          31.8390826
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316768035.html",
+        "title": "UPDATE: Flood advisory previously issued for Cherokee County will expire at 8 p.m.",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-05T00:15:08Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316768035.html",
+        "mention_text": "Cherokee County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cherokee County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839605,
+        "run_at": "2026-08-05T08:40:23.800333+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1051993,
+          35.7995377
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wbir.com/video/weather/weather-ott/strong-storms-and-flood-advisory-for-some-east-tennessee-counties/51-35ddc035-cc93-4188-8cf4-0dac61c500b5",
+        "title": "Strong storms and flood advisory for some East Tennessee counties",
+        "source": "WBIR",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-04T20:59:00Z",
+        "url": "https://www.wbir.com/video/weather/weather-ott/strong-storms-and-flood-advisory-for-some-east-tennessee-counties/51-35ddc035-cc93-4188-8cf4-0dac61c500b5",
+        "mention_text": "East Tennessee",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "East Tennessee, Tennessee, United States",
+        "osm_type": "administrative",
+        "osm_id": 13056868,
+        "run_at": "2026-08-05T08:40:23.800333+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0212848,
+          44.9331884
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316759034.html",
+        "title": "UPDATE: Flood advisory for Southeast Coast predicted to expire at 8:15 a.m.",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-04T12:39:10Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316759034.html",
+        "mention_text": "Southeast Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oregon Coast Highway, Taft, Lincoln City, Lincoln County, Oregon, 97367, United States",
+        "osm_type": "trunk",
+        "osm_id": 119208836,
+        "run_at": "2026-08-05T08:40:23.800333+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316756470.html",
+        "title": "Flood advisory in place for North Carolina Monday night triggered by substantial downpours",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-04T00:19:07Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316756470.html",
+        "mention_text": "North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-08-05T08:40:23.800333+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.607716,
+          38.7251776
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-hcoa63cohg5ry7ep",
+        "title": "Watch: Downpours trigger second Colorado Flash Flood Emergency near Aspen Acres Fire burn scar",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-30T11:55:15Z",
+        "url": "https://www.foxweather.com/watch/fmc-hcoa63cohg5ry7ep",
+        "mention_text": "Colorado",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 161961,
+        "run_at": "2026-08-05T08:40:23.800333+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316653504.html",
+        "title": "UPDATE: Flood advisory issued for the Piedmont region until Saturday midday",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-25T13:42:06Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316653504.html",
+        "mention_text": "Piedmont",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-08-05T08:40:23.800333+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6869011,
+          35.6333866
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316661828.html",
+        "title": "Flood advisory for Dare County until Sunday afternoon triggered by heavy downpours",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-26T13:59:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316661828.html",
+        "mention_text": "Dare County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Dare County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1232267,
+        "run_at": "2026-08-05T08:40:23.800333+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-08-04T08:41:27.471244+00:00",
-    "total_features": 3264
+    "last_updated": "2026-08-05T08:40:23.816548+00:00",
+    "total_features": 3296
   }
 }
