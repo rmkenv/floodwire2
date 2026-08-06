@@ -85696,11 +85696,479 @@
         "osm_id": 1232267,
         "run_at": "2026-08-05T08:40:23.800333+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0357266,
+          41.1519319
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/08/flash-flood-warning-in-place-for-rockland-county-until-3-a-m-thursday-caused-by-thunderstorms.html",
+        "title": "Flash flood warning in place for Rockland County until 3 a.m. Thursday caused by thunderstorms",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-06T04:29:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/08/flash-flood-warning-in-place-for-rockland-county-until-3-a-m-thursday-caused-by-thunderstorms.html",
+        "mention_text": "Rockland County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Rockland County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1835363,
+        "run_at": "2026-08-06T08:37:54.702559+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7226665,
+          39.9325409
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.courierpostonline.com/story/weather/2026/08/05/weather-alert-flash-flood-warning-burlington-county/91184343007/",
+        "title": "Flash flood warning issued for Burlington County",
+        "source": "Courier-Post",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-05T17:23:00Z",
+        "url": "https://www.courierpostonline.com/story/weather/2026/08/05/weather-alert-flash-flood-warning-burlington-county/91184343007/",
+        "mention_text": "Burlington County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Burlington County, New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 963152,
+        "run_at": "2026-08-06T08:37:54.702559+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9382069,
+          39.5162401
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/baltimore/video/hot-and-humid-with-flash-flood-warning-for-parts-of-maryland/",
+        "title": "Hot and humid with flash flood warning for parts of Maryland",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-05T16:40:00Z",
+        "url": "https://www.cbsnews.com/baltimore/video/hot-and-humid-with-flash-flood-warning-for-parts-of-maryland/",
+        "mention_text": "Maryland",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maryland, United States",
+        "osm_type": "administrative",
+        "osm_id": 162112,
+        "run_at": "2026-08-06T08:37:54.702559+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azcentral.com/story/news/local/arizona-weather/2026/08/05/flash-flood-warning-issued-for-northern-arizona-including-flagstaff/91190138007/",
+        "title": "Flash flood warning issued for northern Arizona, including Flagstaff",
+        "source": "azcentral.com and The Arizona Republic",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-05T21:58:00Z",
+        "url": "https://www.azcentral.com/story/news/local/arizona-weather/2026/08/05/flash-flood-warning-issued-for-northern-arizona-including-flagstaff/91190138007/",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-08-06T08:37:54.702559+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2899539,
+          36.8493695
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wavy.com/news/local-news/norfolk/norfolk-drivers-navigate-flooded-roads-in-once-in-60-year-flash-flood-event/",
+        "title": "Norfolk drivers met with rain, flooded roads in once-in-60-year flash flood event",
+        "source": "WAVY.com",
+        "outlet_city": "Norfolk",
+        "outlet_region": "Virginia",
+        "published_at": "2026-08-05T07:01:42Z",
+        "url": "https://www.wavy.com/news/local-news/norfolk/norfolk-drivers-navigate-flooded-roads-in-once-in-60-year-flash-flood-event/",
+        "mention_text": "Norfolk",
+        "flood_type": "flash_flood",
+        "confidence": 0.4,
+        "osm_display": "Norfolk, Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 206672,
+        "run_at": "2026-08-06T08:37:54.702559+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.08565,
+          33.85856
+        ]
+      },
+      "properties": {
+        "article_id": "https://patch.com/new-jersey/moorestown/flash-flood-warning-issued-south-jersey",
+        "title": "Flash Flood Warning Issued For South Jersey",
+        "source": "Patch",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-05T17:09:34Z",
+        "url": "https://patch.com/new-jersey/moorestown/flash-flood-warning-issued-south-jersey",
+        "mention_text": "South Jersey",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South-Jersey, South Street, Artesia, Los Angeles County, California, 90703, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 6356006215,
+        "run_at": "2026-08-06T08:37:54.702559+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9438572,
+          34.3609331
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316755772.html",
+        "title": "UPDATE: Darlington County placed under a flash flood warning Monday night",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-04T00:13:07Z",
+        "url": "https://www.thestate.com/news/weather-news/article316755772.html",
+        "mention_text": "Darlington County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Darlington County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532503,
+        "run_at": "2026-08-06T08:37:54.702559+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6869011,
+          35.6333866
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316758098.html",
+        "title": "UPDATE: Dare County placed under a flash flood warning Tuesday morning",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-04T09:47:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316758098.html",
+        "mention_text": "Dare County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dare County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1232267,
+        "run_at": "2026-08-06T08:37:54.702559+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4041622,
+          40.0757384
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nj.com/weather/2026/08/nj-weather-flash-flood-warnings-issued-as-storms-dump-more-heavy-rain-on-parts-of-state.html",
+        "title": "N.J. weather: Flash flood warnings issued as storms dump more heavy rain on parts of state. Live updates.",
+        "source": "NJ.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-05T17:16:00Z",
+        "url": "https://www.nj.com/weather/2026/08/nj-weather-flash-flood-warnings-issued-as-storms-dump-more-heavy-rain-on-parts-of-state.html",
+        "mention_text": "N.J.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 224951,
+        "run_at": "2026-08-06T08:37:54.702559+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5781416,
+          39.100105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kansascity.com/news/weather-news/article316784243.html",
+        "title": "Update: Flood advisory for the Kansas City area until Thursday morning",
+        "source": "Kansas City Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-06T07:02:06Z",
+        "url": "https://www.kansascity.com/news/weather-news/article316784243.html",
+        "mention_text": "Kansas City",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kansas City, Jackson County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 141008,
+        "run_at": "2026-08-06T08:37:54.702559+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0357266,
+          41.1519319
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/08/rockland-county-under-a-flood-advisory-until-2-a-m-thursday-caused-by-persistent-downpours.html",
+        "title": "Rockland County under a flood advisory until 2 a.m. Thursday caused by persistent downpours",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-06T03:48:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/08/rockland-county-under-a-flood-advisory-until-2-a-m-thursday-caused-by-persistent-downpours.html",
+        "mention_text": "Rockland County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Rockland County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1835363,
+        "run_at": "2026-08-06T08:37:54.702559+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9190317,
+          32.2675039
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbs12.com/news/local/flood-advisory-for-martin-county-heavy-rain-thunderstorm-lightning-lake-storms-okeechobee",
+        "title": "Flood Advisory for Martin County",
+        "source": "WPEC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-06T03:45:00Z",
+        "url": "https://cbs12.com/news/local/flood-advisory-for-martin-county-heavy-rain-thunderstorm-lightning-lake-storms-okeechobee",
+        "mention_text": "Martin County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Martin County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1812344,
+        "run_at": "2026-08-06T08:37:54.702559+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6869011,
+          35.6333866
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316757983.html",
+        "title": "UPDATE: Flood advisory for Dare County early Tuesday evening due to heavy rainfall",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-04T17:22:07Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316757983.html",
+        "mention_text": "Dare County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Dare County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1232267,
+        "run_at": "2026-08-06T08:37:54.702559+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0785945,
+          40.9745493
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316770037.html",
+        "title": "UPDATE: Flood advisory issued for Union County until 2 a.m. Wednesday, says the NWS",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-05T04:07:13Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316770037.html",
+        "mention_text": "Union County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Union County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 416655,
+        "run_at": "2026-08-06T08:37:54.702559+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1791849,
+          31.8390826
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316768035.html",
+        "title": "UPDATE: Flood advisory previously issued for Cherokee County will expire at 8 p.m.",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-05T00:15:08Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316768035.html",
+        "mention_text": "Cherokee County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cherokee County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839605,
+        "run_at": "2026-08-06T08:37:54.702559+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2599081,
+          34.2189515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-idj1phc46ih9q3og",
+        "title": "Flash Flood Emergency issued in Western North Carolina",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T11:25:41Z",
+        "url": "https://www.foxweather.com/watch/fmc-idj1phc46ih9q3og",
+        "mention_text": "Western North Carolina",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Western Drive, Bishopville, Lee County, South Carolina, 29010, United States",
+        "osm_type": "residential",
+        "osm_id": 12470936,
+        "run_at": "2026-08-06T08:37:54.702559+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4141764,
+          33.8045873
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316739373.html",
+        "title": "Flood advisory affecting Northwest Piedmont until Saturday night, says the NWS",
+        "source": "newsobserver.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T00:00:08Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316739373.html",
+        "mention_text": "Northwest Piedmont",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Piedmont West Medical Office Building, 1800, Howell Mill Road Northwest, Atlantic Station, Atlanta, Fulton County, Georgia, 30363, United States",
+        "osm_type": "commercial",
+        "osm_id": 269238125,
+        "run_at": "2026-08-06T08:37:54.702559+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1335644,
+          34.235309
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316739658.html",
+        "title": "Forsyth County placed under a flood advisory until early Sunday caused by intense downpours",
+        "source": "newsobserver.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T01:11:06Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316739658.html",
+        "mention_text": "Forsyth County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Forsyth County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 1024740,
+        "run_at": "2026-08-06T08:37:54.702559+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-08-05T08:40:23.816548+00:00",
-    "total_features": 3296
+    "last_updated": "2026-08-06T08:37:54.718579+00:00",
+    "total_features": 3314
   }
 }
