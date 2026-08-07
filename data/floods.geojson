@@ -86164,11 +86164,843 @@
         "osm_id": 1024740,
         "run_at": "2026-08-06T08:37:54.702559+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9759066,
+          33.7635851
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article316791941.html",
+        "title": "UPDATE: Flash flood warning issued for Aiken and Edgefield counties Thursday evening",
+        "source": "heraldonline.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-06T21:10:08Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article316791941.html",
+        "mention_text": "Edgefield",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Edgefield County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532505,
+        "run_at": "2026-08-07T07:18:34.673149+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4970393,
+          38.0464066
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article316791255.html",
+        "title": "UPDATE: Flash flood warning active for Lexington and Richland counties until Thursday evening",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-06T19:34:08Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article316791255.html",
+        "mention_text": "Lexington",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lexington, Fayette County, Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 11078268,
+        "run_at": "2026-08-07T07:18:34.673149+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0949352,
+          38.7060457
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article316791255.html",
+        "title": "UPDATE: Flash flood warning active for Lexington and Richland counties until Thursday evening",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-06T19:34:08Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article316791255.html",
+        "mention_text": "Richland",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Richland County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1801535,
+        "run_at": "2026-08-07T07:18:34.673149+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4013315,
+          38.6920451
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/08/delaware-and-otsego-counties-placed-under-a-flash-flood-warning-thursday-night-caused-by-thunderstor.html",
+        "title": "Delaware and Otsego counties placed under a flash flood warning Thursday night caused by thunderstorms",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-06T22:39:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/08/delaware-and-otsego-counties-placed-under-a-flash-flood-warning-thursday-night-caused-by-thunderstor.html",
+        "mention_text": "Delaware",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Delaware, United States",
+        "osm_type": "administrative",
+        "osm_id": 162110,
+        "run_at": "2026-08-07T07:18:34.673149+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2803933,
+          40.1541581
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wgal.com/article/flash-flood-warning-cumberland-county-pa/73369884",
+        "title": "Flash flood warning | Cumberland County",
+        "source": "WGAL",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-06T20:32:00Z",
+        "url": "https://www.wgal.com/article/flash-flood-warning-cumberland-county-pa/73369884",
+        "mention_text": "Cumberland County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Cumberland County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417440,
+        "run_at": "2026-08-07T07:18:34.673149+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.996047,
+          34.5802074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kob.com/new-mexico/new-mexico-heat-wave-brings-high-temps-storm-risk-and-flash-flood-chances/",
+        "title": "New Mexico heat wave brings high temps, storm risk, and flash flood chances",
+        "source": "KOB 4",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-06T22:38:41Z",
+        "url": "https://www.kob.com/new-mexico/new-mexico-heat-wave-brings-high-temps-storm-risk-and-flash-flood-chances/",
+        "mention_text": "New Mexico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 162014,
+        "run_at": "2026-08-07T07:18:34.673149+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5617875,
+          38.7604815
+        ]
+      },
+      "properties": {
+        "article_id": "https://939theeagle.com/update-flash-flood-warning-in-effect-in-three-mid-missouri-counties-all-power-restored-in-columbia/",
+        "title": "UPDATE: Flash flood warning in effect in three mid-Missouri counties; all power restored in Columbia",
+        "source": "93.9 The Eagle",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-06T15:47:39Z",
+        "url": "https://939theeagle.com/update-flash-flood-warning-in-effect-in-three-mid-missouri-counties-all-power-restored-in-columbia/",
+        "mention_text": "Missouri",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 161638,
+        "run_at": "2026-08-07T07:18:34.673149+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azcentral.com/story/news/local/arizona-weather/2026/08/06/severe-thunderstorm-warning-issued-for-northern-arizona-including-sedona/91193426007/",
+        "title": "Thunderstorm, flash flood warnings issued for northern Arizona, including Sedona",
+        "source": "azcentral.com and The Arizona Republic",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-06T22:47:00Z",
+        "url": "https://www.azcentral.com/story/news/local/arizona-weather/2026/08/06/severe-thunderstorm-warning-issued-for-northern-arizona-including-sedona/91193426007/",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-08-07T07:18:34.673149+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7614394,
+          34.8688613
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azcentral.com/story/news/local/arizona-weather/2026/08/06/severe-thunderstorm-warning-issued-for-northern-arizona-including-sedona/91193426007/",
+        "title": "Thunderstorm, flash flood warnings issued for northern Arizona, including Sedona",
+        "source": "azcentral.com and The Arizona Republic",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-06T22:47:00Z",
+        "url": "https://www.azcentral.com/story/news/local/arizona-weather/2026/08/06/severe-thunderstorm-warning-issued-for-northern-arizona-including-sedona/91193426007/",
+        "mention_text": "Sedona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Sedona, Coconino County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 10693662,
+        "run_at": "2026-08-07T07:18:34.673149+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/newyork/news/heat-advisory-flash-flood-risk-nyc-nj-weather/",
+        "title": "Heat advisory issued for NYC-area as stormy weather brings flash flood risk",
+        "source": "cbsnews.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-06T11:03:00Z",
+        "url": "https://www.cbsnews.com/newyork/news/heat-advisory-flash-flood-risk-nyc-nj-weather/",
+        "mention_text": "NYC",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-08-07T07:18:34.673149+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1263909,
+          40.3451668
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.phillyburbs.com/story/weather/2026/08/05/weather-alert-flash-flood-warning-bucks-county/91184345007/",
+        "title": "Update on flash flood warning for Bucks County",
+        "source": "PhillyBurbs",
+        "outlet_city": "Philadelphia",
+        "outlet_region": "Pennsylvania",
+        "published_at": "2026-08-05T20:51:00Z",
+        "url": "https://www.phillyburbs.com/story/weather/2026/08/05/weather-alert-flash-flood-warning-bucks-county/91184345007/",
+        "mention_text": "Bucks County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Bucks County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417843,
+        "run_at": "2026-08-07T07:18:34.673149+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1845556,
+          40.4714305
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox5atlanta.com/video/fmc-q0mulphxq4ls0fyv",
+        "title": "Flash flood warning issued for Fulton, Cobb counties",
+        "source": "FOX 5 Atlanta",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-04T17:13:02Z",
+        "url": "https://www.fox5atlanta.com/video/fmc-q0mulphxq4ls0fyv",
+        "mention_text": "Fulton",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Fulton County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1800719,
+        "run_at": "2026-08-07T07:18:34.673149+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5732006,
+          33.9373948
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox5atlanta.com/video/fmc-q0mulphxq4ls0fyv",
+        "title": "Flash flood warning issued for Fulton, Cobb counties",
+        "source": "FOX 5 Atlanta",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-04T17:13:02Z",
+        "url": "https://www.fox5atlanta.com/video/fmc-q0mulphxq4ls0fyv",
+        "mention_text": "Cobb",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Cobb County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 1020125,
+        "run_at": "2026-08-07T07:18:34.673149+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2231752,
+          33.2002659
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.missourian.com/local_news/flash-flood-watch-issued-for-franklin-county/article_76acf750-0cd2-4b6b-a9df-73eedb01173e.html",
+        "title": "Flash flood watch issued for Franklin County",
+        "source": "Missourian | Washington, MO",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-06T15:13:00Z",
+        "url": "https://www.missourian.com/local_news/flash-flood-watch-issued-for-franklin-county/article_76acf750-0cd2-4b6b-a9df-73eedb01173e.html",
+        "mention_text": "Franklin County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Franklin County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839286,
+        "run_at": "2026-08-07T07:18:34.673149+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4309327,
+          37.7867337
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercedsunstar.com/news/weather-news/article316796425.html",
+        "title": "Coastal flood advisory issued for Northern California from Friday to Thursday",
+        "source": "Merced Sun-Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-07T03:11:07Z",
+        "url": "https://www.mercedsunstar.com/news/weather-news/article316796425.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Japanese Cultural and Community Center of Northern California, 1840, Sutter Street, Japantown, Western Addition, San Francisco, California, 95115, United States",
+        "osm_type": "community_centre",
+        "osm_id": 257974849,
+        "run_at": "2026-08-07T07:18:34.673149+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4309327,
+          37.7867337
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/08/06/coastal-flood-advisory-in-place-for-northern-california-from-friday-to-thursday/",
+        "title": "Coastal flood advisory in place for Northern California from Friday to Thursday",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-07T02:50:29Z",
+        "url": "https://www.eastbaytimes.com/2026/08/06/coastal-flood-advisory-in-place-for-northern-california-from-friday-to-thursday/",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Japanese Cultural and Community Center of Northern California, 1840, Sutter Street, Japantown, Western Addition, San Francisco, California, 95115, United States",
+        "osm_type": "community_centre",
+        "osm_id": 257974849,
+        "run_at": "2026-08-07T07:18:34.673149+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1791849,
+          31.8390826
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316795925.html",
+        "title": "Flood advisory affecting Cherokee County until early Friday, says the NWS",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-07T01:27:06Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316795925.html",
+        "mention_text": "Cherokee County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cherokee County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839605,
+        "run_at": "2026-08-07T07:18:34.673149+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9730381,
+          30.4243909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/flood-advisory-issued-for-st-tammany-tangipahoa-washington-parishes/289-be9a35ce-1089-4342-b0dd-0ab285000f14",
+        "title": "Flood advisory expires for St. Tammany, Tangipahoa, Washington parishes",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-06T20:04:00Z",
+        "url": "https://www.wwltv.com/article/weather/flood-advisory-issued-for-st-tammany-tangipahoa-washington-parishes/289-be9a35ce-1089-4342-b0dd-0ab285000f14",
+        "mention_text": "St. Tammany",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "St. Tammany Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836431,
+        "run_at": "2026-08-07T07:18:34.673149+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0363849,
+          38.8950982
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/flood-advisory-issued-for-st-tammany-tangipahoa-washington-parishes/289-be9a35ce-1089-4342-b0dd-0ab285000f14",
+        "title": "Flood advisory expires for St. Tammany, Tangipahoa, Washington parishes",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-06T20:04:00Z",
+        "url": "https://www.wwltv.com/article/weather/flood-advisory-issued-for-st-tammany-tangipahoa-washington-parishes/289-be9a35ce-1089-4342-b0dd-0ab285000f14",
+        "mention_text": "Washington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Washington, District of Columbia, United States",
+        "osm_type": "city",
+        "osm_id": 5396194,
+        "run_at": "2026-08-07T07:18:34.673149+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0395522,
+          39.4535243
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article316793888.html",
+        "title": "Flood advisory affecting Berkeley County Thursday evening, says the NWS",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-06T21:45:07Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article316793888.html",
+        "mention_text": "Berkeley County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Berkeley County, West Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 1149480,
+        "run_at": "2026-08-07T07:18:34.673149+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0363849,
+          38.8950982
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/flood-advisory-washington-st-tammany-tangipahoa-parishes-louisiana-weather-rain/73369446",
+        "title": "Flood advisory issued for Washington, St. Tammany and Tangipahoa Parishes",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-06T19:54:00Z",
+        "url": "https://www.wdsu.com/article/flood-advisory-washington-st-tammany-tangipahoa-parishes-louisiana-weather-rain/73369446",
+        "mention_text": "Washington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Washington, District of Columbia, United States",
+        "osm_type": "city",
+        "osm_id": 5396194,
+        "run_at": "2026-08-07T07:18:34.673149+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9730381,
+          30.4243909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/flood-advisory-washington-st-tammany-tangipahoa-parishes-louisiana-weather-rain/73369446",
+        "title": "Flood advisory issued for Washington, St. Tammany and Tangipahoa Parishes",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-06T19:54:00Z",
+        "url": "https://www.wdsu.com/article/flood-advisory-washington-st-tammany-tangipahoa-parishes-louisiana-weather-rain/73369446",
+        "mention_text": "St. Tammany",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "St. Tammany Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836431,
+        "run_at": "2026-08-07T07:18:34.673149+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9438572,
+          34.3609331
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article316793395.html",
+        "title": "Flood advisory active for Darlington County Thursday evening due to intense downpours",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-06T21:13:07Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article316793395.html",
+        "mention_text": "Darlington County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Darlington County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532503,
+        "run_at": "2026-08-07T07:18:34.673149+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8192175,
+          30.7642828
+        ]
+      },
+      "properties": {
+        "article_id": "https://tryondailybulletin.com/2026/08/06/weather-alert-flood-advisory-issued-in-polk-county/",
+        "title": "WEATHER ALERT: Flood advisory issued in Polk County",
+        "source": "The Tryon Daily Bulletin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-07T02:16:58Z",
+        "url": "https://tryondailybulletin.com/2026/08/06/weather-alert-flood-advisory-issued-in-polk-county/",
+        "mention_text": "Polk County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Polk County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1841042,
+        "run_at": "2026-08-07T07:18:34.673149+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8722311,
+          33.750631
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/08/flood-advisory-active-for-orange-county-thursday-evening-triggered-by-heavy-rain.html",
+        "title": "Flood advisory active for Orange County Thursday evening triggered by heavy rain",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-06T20:46:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/08/flood-advisory-active-for-orange-county-thursday-evening-triggered-by-heavy-rain.html",
+        "mention_text": "Orange County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Orange County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396466,
+        "run_at": "2026-08-07T07:18:34.673149+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6905558,
+          41.4301347
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.news5cleveland.com/weather/weather-news/flood-advisory-issued-for-cuyahoga-county",
+        "title": "Flood Advisory expires for Cuyahoga County",
+        "source": "News 5 Cleveland WEWS",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-06T23:59:25Z",
+        "url": "https://www.news5cleveland.com/weather/weather-news/flood-advisory-issued-for-cuyahoga-county",
+        "mention_text": "Cuyahoga County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cuyahoga County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 350381,
+        "run_at": "2026-08-07T07:18:34.673149+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3902943,
+          45.8379973
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article316793592.html",
+        "title": "Flood advisory for Florence County Thursday evening caused by persistent rain",
+        "source": "myrtlebeachonline.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-06T21:24:09Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article316793592.html",
+        "mention_text": "Florence County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Florence County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 536034,
+        "run_at": "2026-08-07T07:18:34.673149+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6869011,
+          35.6333866
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316757983.html",
+        "title": "Dare County under a flood advisory early Tuesday morning caused by significant downpours",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-04T06:36:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316757983.html",
+        "mention_text": "Dare County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Dare County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1232267,
+        "run_at": "2026-08-07T07:18:34.673149+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4809868,
+          40.7970382
+        ]
+      },
+      "properties": {
+        "article_id": "https://johnsoncitypress.com/photo-single/572010/?mode=team",
+        "title": "A flood advisory is in effect throughout the region until 10:15 p.m. Thursday night, according to the National Weather Service in Morristown.",
+        "source": "Johnson City Press",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-07T00:07:19Z",
+        "url": "https://johnsoncitypress.com/photo-single/572010/?mode=team",
+        "mention_text": "Morristown",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Morristown, Morris County, New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 170938,
+        "run_at": "2026-08-07T07:18:34.673149+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2803933,
+          40.1541581
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316756470.html",
+        "title": "UPDATE: The current flood advisory for Cumberland County will expire at 9:15 p.m.",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-05T01:35:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316756470.html",
+        "mention_text": "Cumberland County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cumberland County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417440,
+        "run_at": "2026-08-07T07:18:34.673149+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316743907.html",
+        "title": "UPDATE: Flood advisory affecting North Carolina Sunday evening triggered by heavy rainfall",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T23:45:06Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316743907.html",
+        "mention_text": "North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-08-07T07:18:34.673149+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailybreeze.com/2026/07/31/los-angeles-county-beaches-placed-under-a-coastal-flood-advisory-until-3-a-m-saturday/",
+        "title": "Los Angeles County beaches placed under a coastal flood advisory until 3 a.m. Saturday",
+        "source": "Daily Breeze",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-31T21:16:46Z",
+        "url": "https://www.dailybreeze.com/2026/07/31/los-angeles-county-beaches-placed-under-a-coastal-flood-advisory-until-3-a-m-saturday/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-08-07T07:18:34.673149+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-08-06T08:37:54.718579+00:00",
-    "total_features": 3314
+    "last_updated": "2026-08-07T07:18:34.689916+00:00",
+    "total_features": 3346
   }
 }
