@@ -86996,11 +86996,557 @@
         "osm_id": 396479,
         "run_at": "2026-08-07T07:18:34.673149+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7424973,
+          39.9735408
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wgal.com/article/flash-flood-warning-for-york-county-pa/73378950",
+        "title": "Flash flood warning for York County | Torrential rain coming down",
+        "source": "WGAL",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-07T19:47:35Z",
+        "url": "https://www.wgal.com/article/flash-flood-warning-for-york-county-pa/73378950",
+        "mention_text": "York County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "York County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417442,
+        "run_at": "2026-08-08T06:53:56.433201+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.607716,
+          38.7251776
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.9news.com/article/news/history/colorados-deadliest-railroad-crash-took-scores-of-lives-and-decimated-one-denver-family/73-d38c4966-952f-4372-bc7c-71d1a581f6c5",
+        "title": "Flash flood ripped through railroad bridge on Aug. 7, 1904, in Colorado's deadliest train accident",
+        "source": "9News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-08T03:31:00Z",
+        "url": "https://www.9news.com/article/news/history/colorados-deadliest-railroad-crash-took-scores-of-lives-and-decimated-one-denver-family/73-d38c4966-952f-4372-bc7c-71d1a581f6c5",
+        "mention_text": "Colorado",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 161961,
+        "run_at": "2026-08-08T06:53:56.433201+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3056707,
+          40.0379958
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wgal.com/article/flash-flood-warning-issued-for-parts-of-lancaster-york-counties-pa/73378648",
+        "title": "Flash flood warning issued for parts of Lancaster, York counties",
+        "source": "WGAL",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-07T18:47:20Z",
+        "url": "https://www.wgal.com/article/flash-flood-warning-issued-for-parts-of-lancaster-york-counties-pa/73378648",
+        "mention_text": "Lancaster",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lancaster, Lancaster County, Pennsylvania, 17575, United States",
+        "osm_type": "administrative",
+        "osm_id": 3997756,
+        "run_at": "2026-08-08T06:53:56.433201+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4970393,
+          38.0464066
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article316791255.html",
+        "title": "UPDATE: Flash flood warning for Lexington and Richland counties early Thursday evening",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-06T20:44:06Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article316791255.html",
+        "mention_text": "Lexington",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lexington, Fayette County, Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 11078268,
+        "run_at": "2026-08-08T06:53:56.433201+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0949352,
+          38.7060457
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article316791255.html",
+        "title": "UPDATE: Flash flood warning for Lexington and Richland counties early Thursday evening",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-06T20:44:06Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article316791255.html",
+        "mention_text": "Richland",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Richland County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1801535,
+        "run_at": "2026-08-08T06:53:56.433201+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9851524,
+          42.8796134
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mcall.com/2026/08/07/severe-storms-moving-through-lehigh-valley-temporarily-suspending-musikfest-flash-flood-warnings-issued/",
+        "title": "Musikfest resumes after severe storms move through Lehigh Valley; flash flood warnings issued",
+        "source": "The Morning Call",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-07T22:27:44Z",
+        "url": "https://www.mcall.com/2026/08/07/severe-storms-moving-through-lehigh-valley-temporarily-suspending-musikfest-flash-flood-warnings-issued/",
+        "mention_text": "Lehigh Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lehigh Valley, 12, Wilbur Avenue, City of Geneva, Ontario County, New York, 14456, United States",
+        "osm_type": "yes",
+        "osm_id": 108707281,
+        "run_at": "2026-08-08T06:53:56.433201+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1340843,
+          36.5029951
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316769315.html",
+        "title": "UPDATE: Flash flood warning affecting Alleghany County until 2 a.m. Wednesday",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-05T03:05:06Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316769315.html",
+        "mention_text": "Alleghany County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Alleghany County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528671,
+        "run_at": "2026-08-08T06:53:56.433201+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3977297,
+          35.1436639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316807754.html",
+        "title": "UPDATE: The flood advisory for Macon County is forecast to expire at 7:30 p.m.",
+        "source": "charlotteobserver.com",
+        "outlet_city": "Charlotte",
+        "outlet_region": "North Carolina",
+        "published_at": "2026-08-07T23:55:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316807754.html",
+        "mention_text": "Macon County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Macon County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528718,
+        "run_at": "2026-08-08T06:53:56.433201+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8705871,
+          29.4616211
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/flood-advisory-issued-for-lafourche-and-terrebonne-parishes/289-4bed4940-a505-4ddd-b6f5-97f9a1e9557f",
+        "title": "Flood Advisory expires for Lafourche and Terrebonne parishes",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-07T21:55:00Z",
+        "url": "https://www.wwltv.com/article/weather/flood-advisory-issued-for-lafourche-and-terrebonne-parishes/289-4bed4940-a505-4ddd-b6f5-97f9a1e9557f",
+        "mention_text": "Terrebonne",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Terrebonne Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836620,
+        "run_at": "2026-08-08T06:53:56.433201+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4309327,
+          37.7867337
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article316796425.html",
+        "title": "UPDATE: Coastal flood advisory issued for Northern California until 2 a.m. Thursday",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-07T23:59:09Z",
+        "url": "https://www.modbee.com/news/weather-news/article316796425.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Japanese Cultural and Community Center of Northern California, 1840, Sutter Street, Japantown, Western Addition, San Francisco, California, 95115, United States",
+        "osm_type": "community_centre",
+        "osm_id": 257974849,
+        "run_at": "2026-08-08T06:53:56.433201+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1830408,
+          32.2998686
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316808252.html",
+        "title": "UPDATE: The current flood advisory for Jackson and Transylvania counties will expire at 8:15 p.m.",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-08T00:23:08Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316808252.html",
+        "mention_text": "Jackson",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Jackson, Hinds County, Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 109847,
+        "run_at": "2026-08-08T06:53:56.433201+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7724889,
+          35.1982216
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316808252.html",
+        "title": "UPDATE: The current flood advisory for Jackson and Transylvania counties will expire at 8:15 p.m.",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-08T00:23:08Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316808252.html",
+        "mention_text": "Transylvania",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Transylvania County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528748,
+        "run_at": "2026-08-08T06:53:56.433201+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3558473,
+          37.7884969
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/sanfrancisco/news/bay-area-heat-advisory-flood-advisory-august-7-2026-weekend/",
+        "title": "Weekend heat advisory for Bay Area inland locations, flood advisory for low-lying areas",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-07T19:13:06Z",
+        "url": "https://www.cbsnews.com/sanfrancisco/news/bay-area-heat-advisory-flood-advisory-august-7-2026-weekend/",
+        "mention_text": "Bay Area",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco Bay Area, San Francisco, California, 94130, United States",
+        "osm_type": "region",
+        "osm_id": 2157162589,
+        "run_at": "2026-08-08T06:53:56.433201+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7724889,
+          35.1982216
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316808252.html",
+        "title": "Flood advisory affecting Jackson and Transylvania counties Friday evening",
+        "source": "charlotteobserver.com",
+        "outlet_city": "Charlotte",
+        "outlet_region": "North Carolina",
+        "published_at": "2026-08-07T22:37:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316808252.html",
+        "mention_text": "Transylvania",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Transylvania County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528748,
+        "run_at": "2026-08-08T06:53:56.433201+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8430827,
+          35.2272086
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316804374.html",
+        "title": "UPDATE: The flood advisory for Alleghany and Ashe counties is predicted to expire at 5:45 p.m.",
+        "source": "charlotteobserver.com",
+        "outlet_city": "Charlotte",
+        "outlet_region": "North Carolina",
+        "published_at": "2026-08-07T22:05:08Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316804374.html",
+        "mention_text": "Charlotte",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charlotte, Mecklenburg County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 177415,
+        "run_at": "2026-08-08T06:53:56.433201+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8430827,
+          35.2272086
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316794836.html",
+        "title": "UPDATE: The flood advisory for Western North Carolina is anticipated to expire at 10 p.m.",
+        "source": "charlotteobserver.com",
+        "outlet_city": "Charlotte",
+        "outlet_region": "North Carolina",
+        "published_at": "2026-08-07T02:07:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316794836.html",
+        "mention_text": "Charlotte",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charlotte, Mecklenburg County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 177415,
+        "run_at": "2026-08-08T06:53:56.433201+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3056707,
+          40.0379958
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article316770406.html",
+        "title": "Flood advisory issued for Kershaw and Lancaster counties until early Wednesday",
+        "source": "islandpacket.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-05T03:16:06Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article316770406.html",
+        "mention_text": "Lancaster",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Lancaster, Lancaster County, Pennsylvania, 17575, United States",
+        "osm_type": "administrative",
+        "osm_id": 3997756,
+        "run_at": "2026-08-08T06:53:56.433201+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6418883,
+          39.7886111
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article316779431.html",
+        "title": "UPDATE: Flood advisory for Fairfield and Newberry counties likely to expire at 8:15 p.m.",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-07T00:26:08Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article316779431.html",
+        "mention_text": "Fairfield",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Fairfield County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 178391,
+        "run_at": "2026-08-08T06:53:56.433201+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7907554,
+          41.1763139
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/08/flood-advisory-in-place-for-orange-county-until-early-monday-morning-caused-by-persistent-downpours.html",
+        "title": "Update: Flood advisory in place for Westchester County Monday afternoon caused by persistent downpours",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-03T16:51:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/08/flood-advisory-in-place-for-orange-county-until-early-monday-morning-caused-by-persistent-downpours.html",
+        "mention_text": "Westchester County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Westchester County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1838027,
+        "run_at": "2026-08-08T06:53:56.433201+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7442135,
+          33.6442699
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316738191.html",
+        "title": "UPDATE: Flood advisory for Williamsburg County has been replaced, says the NWS",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-01T22:10:07Z",
+        "url": "https://www.thestate.com/news/weather-news/article316738191.html",
+        "mention_text": "Williamsburg County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Williamsburg County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532523,
+        "run_at": "2026-08-08T06:53:56.433201+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8430827,
+          35.2272086
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316667781.html",
+        "title": "UPDATE: Coastal flood advisory in place for Inland New Hanover until 1 a.m. Saturday",
+        "source": "charlotteobserver.com",
+        "outlet_city": "Charlotte",
+        "outlet_region": "North Carolina",
+        "published_at": "2026-07-31T06:35:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316667781.html",
+        "mention_text": "Charlotte",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charlotte, Mecklenburg County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 177415,
+        "run_at": "2026-08-08T06:53:56.433201+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-08-07T07:18:34.689916+00:00",
-    "total_features": 3346
+    "last_updated": "2026-08-08T06:53:56.449815+00:00",
+    "total_features": 3367
   }
 }
