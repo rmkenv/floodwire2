@@ -87542,11 +87542,791 @@
         "osm_id": 177415,
         "run_at": "2026-08-08T06:53:56.433201+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6553992,
+          43.4849133
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wmtw.com/article/flash-flood-warning-for-northern-new-hampshire/73383770",
+        "title": "Flash Flood Warning for northern New Hampshire",
+        "source": "WMTW",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-09T00:12:00Z",
+        "url": "https://www.wmtw.com/article/flash-flood-warning-for-northern-new-hampshire/73383770",
+        "mention_text": "New Hampshire",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Hampshire, United States",
+        "osm_type": "administrative",
+        "osm_id": 67213,
+        "run_at": "2026-08-09T06:59:43.756412+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9398758,
+          37.9533927
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article316816333.html",
+        "title": "UPDATE: Mono County under a flash flood warning Saturday evening triggered by thunderstorms",
+        "source": "fresnobee.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-09T01:13:07Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article316816333.html",
+        "mention_text": "Mono County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mono County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396472,
+        "run_at": "2026-08-09T06:59:43.756412+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5065944,
+          30.301949
+        ]
+      },
+      "properties": {
+        "article_id": "https://clarksvillenow.com/local/weather-alert-nws-reports-strong-thunderstorms-heading-toward-clarksville/",
+        "title": "UPDATE: Flashing Flood Warning issued for Montgomery County",
+        "source": "Clarksville Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-08T19:47:00Z",
+        "url": "https://clarksvillenow.com/local/weather-alert-nws-reports-strong-thunderstorms-heading-toward-clarksville/",
+        "mention_text": "Montgomery County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Montgomery County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1560394,
+        "run_at": "2026-08-09T06:59:43.756412+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4001639,
+          39.9194117
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/08/flash-flood-warning-active-for-delaware-county-until-saturday-evening-due-to-thunderstorms.html",
+        "title": "Flash flood warning active for Delaware County until Saturday evening due to thunderstorms",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-08T20:15:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/08/flash-flood-warning-active-for-delaware-county-until-saturday-evening-due-to-thunderstorms.html",
+        "mention_text": "Delaware County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Delaware County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417846,
+        "run_at": "2026-08-09T06:59:43.756412+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.109621,
+          43.2184144
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wmur.com/article/new-hampshire-weather-8626-1786221734-1786231615/73383750",
+        "title": "Flash flood warning issued for Coos County; Heat continues through Sunday",
+        "source": "WMUR",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-09T00:12:00Z",
+        "url": "https://www.wmur.com/article/new-hampshire-weather-8626-1786221734-1786231615/73383750",
+        "mention_text": "Coos County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Coos County, Oregon, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837108,
+        "run_at": "2026-08-09T06:59:43.756412+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6012557,
+          35.8326703
+        ]
+      },
+      "properties": {
+        "article_id": "https://fox17.com/weather/flash-flood-warnings-for-middle-tennessee-and-southern-kentucky-rain-thunderstorm-standing-water-rainfall-flash-flood-in-middle-tennessee",
+        "title": "Flash Flood Warnings for Middle Tennessee and Southern Kentucky",
+        "source": "WZTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-08T21:43:13Z",
+        "url": "https://fox17.com/weather/flash-flood-warnings-for-middle-tennessee-and-southern-kentucky-rain-thunderstorm-standing-water-rainfall-flash-flood-in-middle-tennessee",
+        "mention_text": "Middle Tennessee",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Middle Tennessee, Tennessee, United States",
+        "osm_type": "administrative",
+        "osm_id": 13056869,
+        "run_at": "2026-08-09T06:59:43.756412+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.279818,
+          36.060303
+        ]
+      },
+      "properties": {
+        "article_id": "https://fox17.com/weather/flash-flood-warnings-for-middle-tennessee-and-southern-kentucky-rain-thunderstorm-standing-water-rainfall-flash-flood-in-middle-tennessee",
+        "title": "Flash Flood Warnings for Middle Tennessee and Southern Kentucky",
+        "source": "WZTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-08T21:43:13Z",
+        "url": "https://fox17.com/weather/flash-flood-warnings-for-middle-tennessee-and-southern-kentucky-rain-thunderstorm-standing-water-rainfall-flash-flood-in-middle-tennessee",
+        "mention_text": "Southern Kentucky",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "KFC, 7017, South Durango Drive, Southern Hills, Las Vegas, Clark County, Nevada, 89148, United States",
+        "osm_type": "fast_food",
+        "osm_id": 1017049617,
+        "run_at": "2026-08-09T06:59:43.756412+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2654452,
+          41.8119602
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/08/flash-flood-warning-affecting-warren-county-friday-evening-due-to-thunderstorms.html",
+        "title": "Flash flood warning affecting Warren County Friday evening due to thunderstorms",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-07T22:44:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/08/flash-flood-warning-affecting-warren-county-friday-evening-due-to-thunderstorms.html",
+        "mention_text": "Warren County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Warren County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 416689,
+        "run_at": "2026-08-09T06:59:43.756412+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4870476,
+          31.7601001
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ktsm.com/news/el-paso-under-flash-flood-warning-active-weather-seen-throughout-borderland/",
+        "title": "Parts of El Paso under flash flood warning; active weather scene on Friday",
+        "source": "KTSM 9 News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-08T02:23:27Z",
+        "url": "https://www.ktsm.com/news/el-paso-under-flash-flood-warning-active-weather-seen-throughout-borderland/",
+        "mention_text": "El Paso",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "El Paso, El Paso County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 113919,
+        "run_at": "2026-08-09T06:59:43.756412+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1263909,
+          40.3451668
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.phillyburbs.com/story/weather/2026/08/07/weather-alert-bucks-county-flash-flood-watch/91220587007/",
+        "title": "Flash flood warning issued for Bucks County",
+        "source": "PhillyBurbs",
+        "outlet_city": "Philadelphia",
+        "outlet_region": "Pennsylvania",
+        "published_at": "2026-08-07T21:24:00Z",
+        "url": "https://www.phillyburbs.com/story/weather/2026/08/07/weather-alert-bucks-county-flash-flood-watch/91220587007/",
+        "mention_text": "Bucks County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Bucks County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417843,
+        "run_at": "2026-08-09T06:59:43.756412+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8496551,
+          42.3093241
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/multiday-flash-flood-threat-increasing-153718176.html",
+        "title": "Multiday flash flood threat increasing for Great Lakes, Ohio Valley into next week",
+        "source": "yahoo.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-08T15:37:18Z",
+        "url": "https://www.yahoo.com/news/videos/multiday-flash-flood-threat-increasing-153718176.html",
+        "mention_text": "Great Lakes",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Great Lakes, North Chicago, Lake County, Illinois, 60088, United States",
+        "osm_type": "hamlet",
+        "osm_id": 153386302,
+        "run_at": "2026-08-09T06:59:43.756412+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9481441,
+          40.8656144
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/multiday-flash-flood-threat-increasing-153718176.html",
+        "title": "Multiday flash flood threat increasing for Great Lakes, Ohio Valley into next week",
+        "source": "yahoo.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-08T15:37:18Z",
+        "url": "https://www.yahoo.com/news/videos/multiday-flash-flood-threat-increasing-153718176.html",
+        "mention_text": "Ohio Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Valley, Butler Township, Columbiana County, Ohio, 44619, United States",
+        "osm_type": "hamlet",
+        "osm_id": 154191523,
+        "run_at": "2026-08-09T06:59:43.756412+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1137366,
+          32.3293809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wsbtv.com/news/local/storms-could-produce-heavy-rainfall-friday-evening-this-weekend/SWJYIXYXPBHDHHFBVRZOTYJ6AM/",
+        "title": "Flash flood, severe thunderstorm warnings expire in north Georgia",
+        "source": "WSB-TV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-08T00:07:00Z",
+        "url": "https://www.wsbtv.com/news/local/storms-could-produce-heavy-rainfall-friday-evening-this-weekend/SWJYIXYXPBHDHHFBVRZOTYJ6AM/",
+        "mention_text": "Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 161957,
+        "run_at": "2026-08-09T06:59:43.756412+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3126651,
+          41.3806114
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/another-round-storms-threatens-east-coast-heavy-rain-flooding",
+        "title": "Millions along East Coast face flash flood threat as heat, humidity continue to fuel weekend severe storms",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-07T00:50:00Z",
+        "url": "https://www.foxweather.com/weather-news/another-round-storms-threatens-east-coast-heavy-rain-flooding",
+        "mention_text": "East Coast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "East Coast, Town of Goshen, Orange County, New York, United States",
+        "osm_type": "garden",
+        "osm_id": 1107357381,
+        "run_at": "2026-08-09T06:59:43.756412+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7063612,
+          34.0345554
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article316814916.html",
+        "title": "Coastal flood advisory affecting Malibu Coast and Los Angeles from Monday to Thursday",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-08T20:52:09Z",
+        "url": "https://www.modbee.com/news/weather-news/article316814916.html",
+        "mention_text": "Malibu Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Pacific Coast Highway, Malibu, Los Angeles County, California, 90263, United States",
+        "osm_type": "trunk",
+        "osm_id": 74501043,
+        "run_at": "2026-08-09T06:59:43.756412+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article316814916.html",
+        "title": "Coastal flood advisory affecting Malibu Coast and Los Angeles from Monday to Thursday",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-08T20:52:09Z",
+        "url": "https://www.modbee.com/news/weather-news/article316814916.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-08-09T06:59:43.756412+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9381139,
+          36.5481813
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcbayarea.com/news/local/heat-advisory-coastal-flood-advisory/4125555/",
+        "title": "Heat advisory and coastal flood advisory issued for the Bay Area through Sunday",
+        "source": "NBC Bay Area",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-08T23:12:54Z",
+        "url": "https://www.nbcbayarea.com/news/local/heat-advisory-coastal-flood-advisory/4125555/",
+        "mention_text": "the Bay Area",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Carmel Bay State Marine Conservation Area, Carmel-by-the-Sea, Monterey County, California, United States",
+        "osm_type": "nature_reserve",
+        "osm_id": 7036985,
+        "run_at": "2026-08-09T06:59:43.756412+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.564371,
+          35.4045503
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316816009.html",
+        "title": "UPDATE: Flood advisory previously issued for Cabarrus County will expire at 10 p.m.",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-09T02:17:08Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316816009.html",
+        "mention_text": "Cabarrus County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cabarrus County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528680,
+        "run_at": "2026-08-09T06:59:43.756412+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9398758,
+          37.9533927
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article316816792.html",
+        "title": "Flood advisory for Mono County until Saturday night triggered by heavy downpours",
+        "source": "fresnobee.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-09T02:15:08Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article316816792.html",
+        "mention_text": "Mono County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Mono County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396472,
+        "run_at": "2026-08-09T06:59:43.756412+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9398758,
+          37.9533927
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article316816792.html",
+        "title": "UPDATE: The current flood advisory for Mono County will be expiring at 9:45 p.m.",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-09T05:09:08Z",
+        "url": "https://www.sacbee.com/news/weather-news/article316816792.html",
+        "mention_text": "Mono County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Mono County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396472,
+        "run_at": "2026-08-09T06:59:43.756412+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3356457,
+          34.8550021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article316816438.html",
+        "title": "Greenville County placed under a flood advisory Saturday night caused by intense rainfall",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-09T00:44:06Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article316816438.html",
+        "mention_text": "Greenville County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Greenville County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1357004,
+        "run_at": "2026-08-09T06:59:43.756412+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.689423,
+          34.035591
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sgvtribune.com/2026/08/08/coastal-flood-advisory-affecting-malibu-and-los-angeles-county-beaches-from-monday-to-thursday/",
+        "title": "Coastal flood advisory affecting Malibu and Los Angeles County Beaches from Monday to Thursday",
+        "source": "San Gabriel Valley Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-09T00:05:11Z",
+        "url": "https://www.sgvtribune.com/2026/08/08/coastal-flood-advisory-affecting-malibu-and-los-angeles-county-beaches-from-monday-to-thursday/",
+        "mention_text": "Malibu",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Malibu, Los Angeles County, California, 90265, United States",
+        "osm_type": "administrative",
+        "osm_id": 3492156,
+        "run_at": "2026-08-09T06:59:43.756412+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sgvtribune.com/2026/08/08/coastal-flood-advisory-affecting-malibu-and-los-angeles-county-beaches-from-monday-to-thursday/",
+        "title": "Coastal flood advisory affecting Malibu and Los Angeles County Beaches from Monday to Thursday",
+        "source": "San Gabriel Valley Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-09T00:05:11Z",
+        "url": "https://www.sgvtribune.com/2026/08/08/coastal-flood-advisory-affecting-malibu-and-los-angeles-county-beaches-from-monday-to-thursday/",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-08-09T06:59:43.756412+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7063612,
+          34.0345554
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article316814916.html",
+        "title": "Coastal flood advisory affecting Malibu Coast and Los Angeles from Monday to Thursday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-08T20:52:09Z",
+        "url": "https://www.sacbee.com/news/weather-news/article316814916.html",
+        "mention_text": "Malibu Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Pacific Coast Highway, Malibu, Los Angeles County, California, 90263, United States",
+        "osm_type": "trunk",
+        "osm_id": 74501043,
+        "run_at": "2026-08-09T06:59:43.756412+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article316814916.html",
+        "title": "Coastal flood advisory affecting Malibu Coast and Los Angeles from Monday to Thursday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-08T20:52:09Z",
+        "url": "https://www.sacbee.com/news/weather-news/article316814916.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-08-09T06:59:43.756412+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1830408,
+          32.2998686
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316808252.html",
+        "title": "UPDATE: The current flood advisory for Jackson and Transylvania counties will expire at 8:15 p.m.",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-08T00:23:08Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316808252.html",
+        "mention_text": "Jackson",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Jackson, Hinds County, Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 109847,
+        "run_at": "2026-08-09T06:59:43.756412+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7724889,
+          35.1982216
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316808252.html",
+        "title": "UPDATE: The current flood advisory for Jackson and Transylvania counties will expire at 8:15 p.m.",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-08T00:23:08Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316808252.html",
+        "mention_text": "Transylvania",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Transylvania County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528748,
+        "run_at": "2026-08-09T06:59:43.756412+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0357266,
+          41.1519319
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/08/rockland-county-under-a-flood-advisory-until-1-a-m-saturday-triggered-by-heavy-downpours.html",
+        "title": "Update: The current flood advisory for Rockland County will expire at 3:15 a.m.",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-08T02:24:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/08/rockland-county-under-a-flood-advisory-until-1-a-m-saturday-triggered-by-heavy-downpours.html",
+        "mention_text": "Rockland County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Rockland County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1835363,
+        "run_at": "2026-08-09T06:59:43.756412+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2391366,
+          35.3235477
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316769671.html",
+        "title": "Flood advisory in place for Stanly County Tuesday night triggered by persistent downpours",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-05T01:27:10Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316769671.html",
+        "mention_text": "Stanly County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Stanly County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528744,
+        "run_at": "2026-08-09T06:59:43.756412+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9955954,
+          34.937029
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316767097.html",
+        "title": "UPDATE: Flood advisory issued for Spartanburg County Tuesday night due to heavy downpours",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-05T01:05:07Z",
+        "url": "https://www.thestate.com/news/weather-news/article316767097.html",
+        "mention_text": "Spartanburg County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Spartanburg County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1357015,
+        "run_at": "2026-08-09T06:59:43.756412+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-08-08T06:53:56.449815+00:00",
-    "total_features": 3367
+    "last_updated": "2026-08-09T06:59:43.772967+00:00",
+    "total_features": 3397
   }
 }
