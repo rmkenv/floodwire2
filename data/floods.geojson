@@ -88322,11 +88322,687 @@
         "osm_id": 1357015,
         "run_at": "2026-08-09T06:59:43.756412+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercedsunstar.com/news/weather-news/article316822825.html",
+        "title": "UPDATE: Flash flood warning active for San Diego County Sunday evening",
+        "source": "Merced Sun-Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-10T01:51:07Z",
+        "url": "https://www.mercedsunstar.com/news/weather-news/article316822825.html",
+        "mention_text": "San Diego County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-08-10T07:35:50.963418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7888515,
+          36.0875688
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316822872.html",
+        "title": "Flash flood warning affecting Guilford County Sunday night triggered by thunderstorms",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-10T01:23:06Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316822872.html",
+        "mention_text": "Guilford County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Guilford County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528705,
+        "run_at": "2026-08-10T07:35:50.963418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316822482.html",
+        "title": "The Piedmont region placed under a flash flood warning until Sunday night",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-09T23:51:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316822482.html",
+        "mention_text": "Piedmont",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-08-10T07:35:50.963418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.4426212,
+          32.8085851
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azcentral.com/story/news/local/pinal-weather/2026/08/09/weather-alert/91237293007/",
+        "title": "Flash flood warning issued for Pinal County",
+        "source": "azcentral.com and The Arizona Republic",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-09T23:38:00Z",
+        "url": "https://www.azcentral.com/story/news/local/pinal-weather/2026/08/09/weather-alert/91237293007/",
+        "mention_text": "Pinal County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pinal County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832207,
+        "run_at": "2026-08-10T07:35:50.963418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6244212,
+          41.8755616
+        ]
+      },
+      "properties": {
+        "article_id": "https://abc7chicago.com/post/chicago-weather-today-strong-severe-storms-possible-area-sunday-more-rain-chances-monday/19651085/",
+        "title": "Chicago weather radar live: Strong storms prompt Severe Thunderstorm Warning, Flash Flood Warning, O'Hare flight delays",
+        "source": "ABC7 Chicago",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-09T12:13:01Z",
+        "url": "https://abc7chicago.com/post/chicago-weather-today-strong-severe-storms-possible-area-sunday-more-rain-chances-monday/19651085/",
+        "mention_text": "Chicago",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Chicago, South Chicago Township, Cook County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 122604,
+        "run_at": "2026-08-10T07:35:50.963418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.280075,
+          43.411391
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/gulf-moisture-trigger-flash-flood-threat-ohio-valley-great-lakes-next-week",
+        "title": "Rounds of severe storms, flash flood risk target millions across the Midwest, Great Lakes in multiday threat",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-09T10:32:00Z",
+        "url": "https://www.foxweather.com/weather-news/gulf-moisture-trigger-flash-flood-threat-ohio-valley-great-lakes-next-week",
+        "mention_text": "Midwest",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Midwest, Natrona County, Wyoming, United States",
+        "osm_type": "administrative",
+        "osm_id": 252227,
+        "run_at": "2026-08-10T07:35:50.963418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8496551,
+          42.3093241
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/gulf-moisture-trigger-flash-flood-threat-ohio-valley-great-lakes-next-week",
+        "title": "Rounds of severe storms, flash flood risk target millions across the Midwest, Great Lakes in multiday threat",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-09T10:32:00Z",
+        "url": "https://www.foxweather.com/weather-news/gulf-moisture-trigger-flash-flood-threat-ohio-valley-great-lakes-next-week",
+        "mention_text": "Great Lakes",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Great Lakes, North Chicago, Lake County, Illinois, 60088, United States",
+        "osm_type": "hamlet",
+        "osm_id": 153386302,
+        "run_at": "2026-08-10T07:35:50.963418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0363849,
+          38.8950982
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.spokesman.com/stories/2026/aug/09/this-day-in-history-copy-copy/",
+        "title": "This day in history: Washington town hit with flash flood. Green Street transformation underway",
+        "source": "The Spokesman-Review",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-09T09:00:00Z",
+        "url": "https://www.spokesman.com/stories/2026/aug/09/this-day-in-history-copy-copy/",
+        "mention_text": "Washington",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Washington, District of Columbia, United States",
+        "osm_type": "city",
+        "osm_id": 5396194,
+        "run_at": "2026-08-10T07:35:50.963418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.280075,
+          43.411391
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/severe-storms-growing-flash-flood-102724559.html",
+        "title": "Severe storms, growing flash flood risk threaten millions across Midwest, Great Lakes",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-09T10:27:24Z",
+        "url": "https://www.yahoo.com/news/videos/severe-storms-growing-flash-flood-102724559.html",
+        "mention_text": "Midwest",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Midwest, Natrona County, Wyoming, United States",
+        "osm_type": "administrative",
+        "osm_id": 252227,
+        "run_at": "2026-08-10T07:35:50.963418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8496551,
+          42.3093241
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/severe-storms-growing-flash-flood-102724559.html",
+        "title": "Severe storms, growing flash flood risk threaten millions across Midwest, Great Lakes",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-09T10:27:24Z",
+        "url": "https://www.yahoo.com/news/videos/severe-storms-growing-flash-flood-102724559.html",
+        "mention_text": "Great Lakes",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Great Lakes, North Chicago, Lake County, Illinois, 60088, United States",
+        "osm_type": "hamlet",
+        "osm_id": 153386302,
+        "run_at": "2026-08-10T07:35:50.963418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8463851,
+          37.1670484
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/weekend-wet-weather-headed-southeast-bringing-rounds-heavy-rain-thunderstorms",
+        "title": "Flash flood threat expands from South Florida through North Carolina as tropical downpours lash the Southeast",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-08T13:32:00Z",
+        "url": "https://www.foxweather.com/weather-news/weekend-wet-weather-headed-southeast-bringing-rounds-heavy-rain-thunderstorms",
+        "mention_text": "South Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South Florida, Columbus, Cherokee County, Kansas, 66725, United States",
+        "osm_type": "residential",
+        "osm_id": 12999746,
+        "run_at": "2026-08-10T07:35:50.963418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/weekend-wet-weather-headed-southeast-bringing-rounds-heavy-rain-thunderstorms",
+        "title": "Flash flood threat expands from South Florida through North Carolina as tropical downpours lash the Southeast",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-08T13:32:00Z",
+        "url": "https://www.foxweather.com/weather-news/weekend-wet-weather-headed-southeast-bringing-rounds-heavy-rain-thunderstorms",
+        "mention_text": "North Carolina",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-08-10T07:35:50.963418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article316821141.html",
+        "title": "UPDATE: Coastal flood advisory affecting San Diego County Coastal Areas and Orange County Coastal",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-10T05:48:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article316821141.html",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-08-10T07:35:50.963418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316823233.html",
+        "title": "Flood advisory affecting the Piedmont region until 1 a.m. Monday, says the NWS",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-10T03:12:10Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316823233.html",
+        "mention_text": "Piedmont",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-08-10T07:35:50.963418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.162772,
+          32.7174202
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailybulletin.com/2026/08/09/riverside-and-san-diego-counties-placed-under-a-flood-advisory-early-sunday-evening-due-to-substantial-downpours/",
+        "title": "Riverside and San Diego counties placed under a flood advisory early Sunday evening due to substantial downpours",
+        "source": "dailybulletin.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-10T02:15:33Z",
+        "url": "https://www.dailybulletin.com/2026/08/09/riverside-and-san-diego-counties-placed-under-a-flood-advisory-early-sunday-evening-due-to-substantial-downpours/",
+        "mention_text": "San Diego",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego, San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 253832,
+        "run_at": "2026-08-10T07:35:50.963418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6373937,
+          27.7476005
+        ]
+      },
+      "properties": {
+        "article_id": "https://wtmj.com/news/2026/08/09/flood-advisory-issued-for-portions-of-southeast-wisconsin/",
+        "title": "Flood Advisory issued for portions of Southeast Wisconsin",
+        "source": "WTMJ",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-09T16:50:58Z",
+        "url": "https://wtmj.com/news/2026/08/09/flood-advisory-issued-for-portions-of-southeast-wisconsin/",
+        "mention_text": "Southeast Wisconsin",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Wisconsin Court South, Old Southeast, Saint Petersburg, Pinellas County, Florida, 33705, United States",
+        "osm_type": "residential",
+        "osm_id": 11250230,
+        "run_at": "2026-08-10T07:35:50.963418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6908566,
+          33.4657158
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ocregister.com/2026/08/09/coastal-flood-advisory-issued-for-orange-county-coast-and-san-diego-county-coastal-areas-from-monday-to-wednesday/",
+        "title": "Coastal flood advisory issued for Orange County Coast and San Diego County Coastal Areas from Monday to Wednesday",
+        "source": "Orange County Register",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-09T19:28:26Z",
+        "url": "https://www.ocregister.com/2026/08/09/coastal-flood-advisory-issued-for-orange-county-coast-and-san-diego-county-coastal-areas-from-monday-to-wednesday/",
+        "mention_text": "Orange County Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Orange County Creamery, 34255, Pacific Coast Highway, Toovunga, South Cove, Dana Point, Orange County, California, 92629, United States",
+        "osm_type": "ice_cream",
+        "osm_id": 13327327772,
+        "run_at": "2026-08-10T07:35:50.963418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ocregister.com/2026/08/09/coastal-flood-advisory-issued-for-orange-county-coast-and-san-diego-county-coastal-areas-from-monday-to-wednesday/",
+        "title": "Coastal flood advisory issued for Orange County Coast and San Diego County Coastal Areas from Monday to Wednesday",
+        "source": "Orange County Register",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-09T19:28:26Z",
+        "url": "https://www.ocregister.com/2026/08/09/coastal-flood-advisory-issued-for-orange-county-coast-and-san-diego-county-coastal-areas-from-monday-to-wednesday/",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-08-10T07:35:50.963418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316815733.html",
+        "title": "UPDATE: The Piedmont region under a flood advisory Saturday night, says the NWS",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-08T23:16:08Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316815733.html",
+        "mention_text": "Piedmont",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-08-10T07:35:50.963418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9398758,
+          37.9533927
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article316816792.html",
+        "title": "UPDATE: The current flood advisory for Mono County will be expiring at 9:45 p.m.",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-09T05:09:08Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article316816792.html",
+        "mention_text": "Mono County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Mono County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396472,
+        "run_at": "2026-08-10T07:35:50.963418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.689423,
+          34.035591
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whittierdailynews.com/2026/08/08/coastal-flood-advisory-affecting-malibu-and-los-angeles-county-beaches-from-monday-to-thursday/",
+        "title": "Coastal flood advisory affecting Malibu and Los Angeles County Beaches from Monday to Thursday",
+        "source": "Whittier Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-09T09:26:51Z",
+        "url": "https://www.whittierdailynews.com/2026/08/08/coastal-flood-advisory-affecting-malibu-and-los-angeles-county-beaches-from-monday-to-thursday/",
+        "mention_text": "Malibu",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Malibu, Los Angeles County, California, 90265, United States",
+        "osm_type": "administrative",
+        "osm_id": 3492156,
+        "run_at": "2026-08-10T07:35:50.963418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whittierdailynews.com/2026/08/08/coastal-flood-advisory-affecting-malibu-and-los-angeles-county-beaches-from-monday-to-thursday/",
+        "title": "Coastal flood advisory affecting Malibu and Los Angeles County Beaches from Monday to Thursday",
+        "source": "Whittier Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-09T09:26:51Z",
+        "url": "https://www.whittierdailynews.com/2026/08/08/coastal-flood-advisory-affecting-malibu-and-los-angeles-county-beaches-from-monday-to-thursday/",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-08-10T07:35:50.963418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4291882,
+          37.7863765
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article316796425.html",
+        "title": "UPDATE: Coastal flood advisory issued for Northern California until 2 a.m. Thursday",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-07T02:50:00Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article316796425.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Japanese American Association of Northern California, 1759, Sutter Street, Japantown, Western Addition, San Francisco, California, 95115, United States",
+        "osm_type": "yes",
+        "osm_id": 257960526,
+        "run_at": "2026-08-10T07:35:50.963418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6418883,
+          39.7886111
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article316769963.html",
+        "title": "Flood advisory issued for Fairfield County Tuesday night triggered by intense rain",
+        "source": "heraldonline.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-05T02:07:07Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article316769963.html",
+        "mention_text": "Fairfield County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Fairfield County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 178391,
+        "run_at": "2026-08-10T07:35:50.963418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1791849,
+          31.8390826
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316740247.html",
+        "title": "UPDATE: Flood advisory issued for Cherokee County until 2 a.m. Sunday",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T03:47:06Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316740247.html",
+        "mention_text": "Cherokee County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cherokee County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839605,
+        "run_at": "2026-08-10T07:35:50.963418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1335644,
+          34.235309
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316739658.html",
+        "title": "Forsyth County placed under a flood advisory until early Sunday caused by intense downpours",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-02T01:11:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316739658.html",
+        "mention_text": "Forsyth County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Forsyth County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 1024740,
+        "run_at": "2026-08-10T07:35:50.963418+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-08-09T06:59:43.772967+00:00",
-    "total_features": 3397
+    "last_updated": "2026-08-10T07:35:50.979849+00:00",
+    "total_features": 3423
   }
 }
