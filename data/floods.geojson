@@ -93288,11 +93288,1701 @@
         "osm_id": 5068329117,
         "run_at": "2026-08-13T07:31:58.673330+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2233284,
+          30.705029
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thenewstribune.com/news/weather-news/article316875553.html",
+        "title": "Flash flood warning issued for Mason County early Thursday evening, says the NWS",
+        "source": "Tacoma News Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T22:50:07Z",
+        "url": "https://www.thenewstribune.com/news/weather-news/article316875553.html",
+        "mention_text": "Mason County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mason County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1827124,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6276904,
+          47.8012197
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.king5.com/article/weather/severe-weather/flash-flood-warning-issued-for-parts-of-chelan-county/281-3d2662bc-d951-46ce-aa56-26cce2478e0f",
+        "title": "Flash Flood Warning issued for parts of Chelan County",
+        "source": "KING5.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-14T02:22:00Z",
+        "url": "https://www.king5.com/article/weather/severe-weather/flash-flood-warning-issued-for-parts-of-chelan-county/281-3d2662bc-d951-46ce-aa56-26cce2478e0f",
+        "mention_text": "Chelan County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Chelan County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153517,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0995677,
+          38.3930694
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316876296.html",
+        "title": "Flash flood warning for Dorchester County Thursday night, says the NWS",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-14T00:01:07Z",
+        "url": "https://www.thestate.com/news/weather-news/article316876296.html",
+        "mention_text": "Dorchester County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dorchester County, Maryland, United States",
+        "osm_type": "administrative",
+        "osm_id": 935143,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6276904,
+          47.8012197
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tri-cityherald.com/news/weather-news/article316877325.html",
+        "title": "Flash flood warning issued for Chelan County Thursday night due to thunderstorms",
+        "source": "Tri-City Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-14T02:18:06Z",
+        "url": "https://www.tri-cityherald.com/news/weather-news/article316877325.html",
+        "mention_text": "Chelan County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Chelan County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153517,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5127405,
+          39.1012809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wlwt.com/article/flash-flood-threat-remains-overnight-in-cincinnati/73429877",
+        "title": "Flash flood threat remains overnight in Cincinnati",
+        "source": "WLWT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-14T00:05:00Z",
+        "url": "https://www.wlwt.com/article/flash-flood-threat-remains-overnight-in-cincinnati/73429877",
+        "mention_text": "Cincinnati",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Cincinnati, Hamilton County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 183453,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1335644,
+          34.235309
+        ]
+      },
+      "properties": {
+        "article_id": "https://kutv.com/news/local/flash-flood-warning-issued-due-to-heavy-rain-over-forsyth-burn-scar-in-pine-valley",
+        "title": "Flash Flood Warning issued due to heavy rain over Forsyth burn scar in Pine Valley",
+        "source": "KUTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-14T03:58:02Z",
+        "url": "https://kutv.com/news/local/flash-flood-warning-issued-due-to-heavy-rain-over-forsyth-burn-scar-in-pine-valley",
+        "mention_text": "Forsyth",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Forsyth County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 1024740,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5150869,
+          32.8418408
+        ]
+      },
+      "properties": {
+        "article_id": "https://kutv.com/news/local/flash-flood-warning-issued-due-to-heavy-rain-over-forsyth-burn-scar-in-pine-valley",
+        "title": "Flash Flood Warning issued due to heavy rain over Forsyth burn scar in Pine Valley",
+        "source": "KUTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-14T03:58:02Z",
+        "url": "https://kutv.com/news/local/flash-flood-warning-issued-due-to-heavy-rain-over-forsyth-burn-scar-in-pine-valley",
+        "mention_text": "Pine Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pine Valley, San Diego County, California, 91962, United States",
+        "osm_type": "census",
+        "osm_id": 16835948,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2233284,
+          30.705029
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.king5.com/article/weather/severe-weather/flash-flood-warning-issued-for-mason-county/281-97f16bbd-36b3-492b-bbf0-1fa306fa7c8d",
+        "title": "Flash Flood Warning issued for parts of Mason County",
+        "source": "KING5.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T22:56:00Z",
+        "url": "https://www.king5.com/article/weather/severe-weather/flash-flood-warning-issued-for-mason-county/281-97f16bbd-36b3-492b-bbf0-1fa306fa7c8d",
+        "mention_text": "Mason County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mason County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1827124,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4337288,
+          40.0796606
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.shawlocal.com/news/2026/08/14/flash-flood-watch-issued-for-parts-of-northern-illinois/",
+        "title": "Flash flood watch issued for parts of northern Illinois",
+        "source": "Shaw Local",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-14T03:23:00Z",
+        "url": "https://www.shawlocal.com/news/2026/08/14/flash-flood-watch-issued-for-parts-of-northern-illinois/",
+        "mention_text": "Illinois",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 122586,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1335644,
+          34.235309
+        ]
+      },
+      "properties": {
+        "article_id": "https://kjzz.com/news/local/flash-flood-warning-issued-due-to-heavy-rain-over-forsyth-burn-scar-in-pine-valley",
+        "title": "Flash Flood Warning issued due to heavy rain over Forsyth burn scar in Pine Valley",
+        "source": "kjzz.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-14T03:40:24Z",
+        "url": "https://kjzz.com/news/local/flash-flood-warning-issued-due-to-heavy-rain-over-forsyth-burn-scar-in-pine-valley",
+        "mention_text": "Forsyth",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Forsyth County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 1024740,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5150869,
+          32.8418408
+        ]
+      },
+      "properties": {
+        "article_id": "https://kjzz.com/news/local/flash-flood-warning-issued-due-to-heavy-rain-over-forsyth-burn-scar-in-pine-valley",
+        "title": "Flash Flood Warning issued due to heavy rain over Forsyth burn scar in Pine Valley",
+        "source": "kjzz.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-14T03:40:24Z",
+        "url": "https://kjzz.com/news/local/flash-flood-warning-issued-due-to-heavy-rain-over-forsyth-burn-scar-in-pine-valley",
+        "mention_text": "Pine Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pine Valley, San Diego County, California, 91962, United States",
+        "osm_type": "census",
+        "osm_id": 16835948,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.984862,
+          39.7392364
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.denverpost.com/2026/08/13/flash-flood-warning-denver-metro/",
+        "title": "Flash flood warning issued for parts of metro Denver",
+        "source": "The Denver Post",
+        "outlet_city": "Denver",
+        "outlet_region": "Colorado",
+        "published_at": "2026-08-13T22:53:09Z",
+        "url": "https://www.denverpost.com/2026/08/13/flash-flood-warning-denver-metro/",
+        "mention_text": "Denver",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Denver, Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 1411339,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.015407,
+          43.6447642
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kivitv.com/weather/flash-flood-watch-issued-for-central-idaho-burn-scars-as-monsoon-moisture-peaks-friday-and-saturday",
+        "title": "Flash Flood Watch issued for central Idaho burn scars as monsoon moisture peaks Friday and Saturday",
+        "source": "Idaho News 6",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T21:58:41Z",
+        "url": "https://www.kivitv.com/weather/flash-flood-watch-issued-for-central-idaho-burn-scars-as-monsoon-moisture-peaks-friday-and-saturday",
+        "mention_text": "Idaho",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Idaho, United States",
+        "osm_type": "administrative",
+        "osm_id": 162116,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1204004,
+          33.1184608
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.stgeorgeutah.com/news/updated-multiple-thunderstorm-flash-flood-warnings-issued-across-southern-utah/article_d107998d-2f3e-4c5d-87e0-cb5970487542.html",
+        "title": "Updated: Multiple thunderstorm, flash flood warnings issued across Southern Utah",
+        "source": "St. George News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T22:30:00Z",
+        "url": "https://www.stgeorgeutah.com/news/updated-multiple-thunderstorm-flash-flood-warnings-issued-across-southern-utah/article_d107998d-2f3e-4c5d-87e0-cb5970487542.html",
+        "mention_text": "Southern Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah Street, Southern Acres Addition, Greenville, Hunt County, Texas, 75401, United States",
+        "osm_type": "residential",
+        "osm_id": 9564017,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1211795,
+          33.1197504
+        ]
+      },
+      "properties": {
+        "article_id": "https://news3lv.com/news/local/flash-flood-warning-and-severe-thunderstorm-warning-in-parts-of-southern-nevada",
+        "title": "Flash flood, severe thunderstorm warnings in parts of Southern Nevada",
+        "source": "KSNV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-14T03:50:32Z",
+        "url": "https://news3lv.com/news/local/flash-flood-warning-and-severe-thunderstorm-warning-in-parts-of-southern-nevada",
+        "mention_text": "Southern Nevada",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Nevada Drive, Southern Acres Addition, Greenville, Hunt County, Texas, 75401, United States",
+        "osm_type": "residential",
+        "osm_id": 9558938,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azcentral.com/story/news/local/arizona-weather/2026/08/13/flash-flood-warnings-issued-for-northern-arizona/91103252007/",
+        "title": "Flash flood warnings issued for northern Arizona",
+        "source": "azcentral.com and The Arizona Republic",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-14T00:31:00Z",
+        "url": "https://www.azcentral.com/story/news/local/arizona-weather/2026/08/13/flash-flood-warnings-issued-for-northern-arizona/91103252007/",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6881395,
+          40.2253569
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wboy.com/news/regional/flash-flood-traps-people-in-homes-and-vehicles-in-ohio-west-virginia-first-responders-help-rescue-residents/",
+        "title": "Flash flood traps people in homes and vehicles in Ohio, West Virginia first responders help rescue residents",
+        "source": "WBOY.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T16:47:41Z",
+        "url": "https://www.wboy.com/news/regional/flash-flood-traps-people-in-homes-and-vehicles-in-ohio-west-virginia-first-responders-help-rescue-residents/",
+        "mention_text": "Ohio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 162061,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8408415,
+          38.4758406
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wboy.com/news/regional/flash-flood-traps-people-in-homes-and-vehicles-in-ohio-west-virginia-first-responders-help-rescue-residents/",
+        "title": "Flash flood traps people in homes and vehicles in Ohio, West Virginia first responders help rescue residents",
+        "source": "WBOY.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T16:47:41Z",
+        "url": "https://www.wboy.com/news/regional/flash-flood-traps-people-in-homes-and-vehicles-in-ohio-west-virginia-first-responders-help-rescue-residents/",
+        "mention_text": "West Virginia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "West Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 162068,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7846926,
+          32.1057008
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kold.com/2026/08/13/watch-tucson-fire-makes-early-morning-swift-water-rescue/",
+        "title": "WATCH: Tucson Fire makes early morning swift water rescue",
+        "source": "KOLD",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T12:01:00Z",
+        "url": "https://www.kold.com/2026/08/13/watch-tucson-fire-makes-early-morning-swift-water-rescue/",
+        "mention_text": "Tucson Fire",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tucson Fire Station Number 19, 9700, East Esmond Loop, Rita Ranch, Tucson, Pima County, Arizona, 85747, United States",
+        "osm_type": "fire_station",
+        "osm_id": 274204450,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.8690823,
+          39.2593227
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.rgj.com/story/news/2026/08/13/reno-thunderstorms-bring-cooler-weather-flash-flood-risk-bug-stallion-wildfire-weather/91264943007/",
+        "title": "Thunderstorms bring hail, flash flood, tornado warning to Northern Nevada",
+        "source": "rgj.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T21:19:00Z",
+        "url": "https://www.rgj.com/story/news/2026/08/13/reno-thunderstorms-bring-cooler-weather-flash-flood-risk-bug-stallion-wildfire-weather/91264943007/",
+        "mention_text": "Northern Nevada",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Nevada Northern Railway Museum, 1100, A Avenue, East Ely, Ely, White Pine County, Nevada, 89301, United States",
+        "osm_type": "museum",
+        "osm_id": 436515059,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5208718,
+          40.1989597
+        ]
+      },
+      "properties": {
+        "article_id": "https://westerniowatoday.com/2026/08/13/419786/",
+        "title": "8 Counties in Southwest and West Central Iowa Under Flash Flood Watch",
+        "source": "westerniowatoday.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-14T00:41:17Z",
+        "url": "https://westerniowatoday.com/2026/08/13/419786/",
+        "mention_text": "Southwest",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Southwest, Mount Pleasant Township, Westmoreland County, Pennsylvania, 15685, United States",
+        "osm_type": "hamlet",
+        "osm_id": 158365843,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7653745,
+          41.896572
+        ]
+      },
+      "properties": {
+        "article_id": "https://westerniowatoday.com/2026/08/13/419786/",
+        "title": "8 Counties in Southwest and West Central Iowa Under Flash Flood Watch",
+        "source": "westerniowatoday.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-14T00:41:17Z",
+        "url": "https://westerniowatoday.com/2026/08/13/419786/",
+        "mention_text": "West Central Iowa",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central & Iowa, North Central Avenue, Austin, Chicago, West Chicago Township, Cook County, Illinois, 60630, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 5225052670,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7846926,
+          32.1057008
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kold.com/video/2026/08/13/watch-tucson-fire-makes-early-morning-swift-water-rescue-2/",
+        "title": "WATCH: Tucson Fire makes early morning swift water rescue",
+        "source": "KOLD",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T12:28:00Z",
+        "url": "https://www.kold.com/video/2026/08/13/watch-tucson-fire-makes-early-morning-swift-water-rescue-2/",
+        "mention_text": "Tucson Fire",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tucson Fire Station Number 19, 9700, East Esmond Loop, Rita Ranch, Tucson, Pima County, Arizona, 85747, United States",
+        "osm_type": "fire_station",
+        "osm_id": 274204450,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7846926,
+          32.1057008
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kold.com/video/2026/08/13/watch-tucson-fire-makes-early-morning-swift-water-rescue/",
+        "title": "WATCH: Tucson Fire makes early morning swift water rescue",
+        "source": "KOLD",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T11:59:00Z",
+        "url": "https://www.kold.com/video/2026/08/13/watch-tucson-fire-makes-early-morning-swift-water-rescue/",
+        "mention_text": "Tucson Fire",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tucson Fire Station Number 19, 9700, East Esmond Loop, Rita Ranch, Tucson, Pima County, Arizona, 85747, United States",
+        "osm_type": "fire_station",
+        "osm_id": 274204450,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.280075,
+          43.411391
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/dangerous-flash-flooding-slam-midwest-more-storms",
+        "title": "Flash Flood Emergency issued as relentless storms continue to target the Midwest and Ohio Valley",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T01:39:00Z",
+        "url": "https://www.foxweather.com/weather-news/dangerous-flash-flooding-slam-midwest-more-storms",
+        "mention_text": "Midwest",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Midwest, Natrona County, Wyoming, United States",
+        "osm_type": "administrative",
+        "osm_id": 252227,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6881395,
+          40.2253569
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/dangerous-flash-flooding-slam-midwest-more-storms",
+        "title": "Flash Flood Emergency issued as relentless storms continue to target the Midwest and Ohio Valley",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T01:39:00Z",
+        "url": "https://www.foxweather.com/weather-news/dangerous-flash-flooding-slam-midwest-more-storms",
+        "mention_text": "Ohio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 162061,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.015407,
+          43.6447642
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastidahonews.com/2026/08/flash-flood-watch-issued-as-heavy-rain-targets-eastern-idaho/",
+        "title": "Flash flood watch issued as heavy rain targets eastern Idaho",
+        "source": "East Idaho News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T16:36:00Z",
+        "url": "https://www.eastidahonews.com/2026/08/flash-flood-watch-issued-as-heavy-rain-targets-eastern-idaho/",
+        "mention_text": "Idaho",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Idaho, United States",
+        "osm_type": "administrative",
+        "osm_id": 162116,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1551411,
+          37.5726028
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/flash-flood-emergency-issued-eastern-021736294.html",
+        "title": "Flash Flood Emergency issued in eastern Kentucky",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-14T02:17:00Z",
+        "url": "https://www.yahoo.com/news/videos/flash-flood-emergency-issued-eastern-021736294.html",
+        "mention_text": "Kentucky",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 161655,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://kutv.com/news/local/heavy-rains-prompt-flash-flood-warnings-for-burn-scar-areas-throughout-utah",
+        "title": "Heavy rains prompt flash flood warnings for burn scar areas throughout Utah",
+        "source": "KUTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T16:09:23Z",
+        "url": "https://kutv.com/news/local/heavy-rains-prompt-flash-flood-warnings-for-burn-scar-areas-throughout-utah",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9320157,
+          34.9498007
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article316864127.html",
+        "title": "Spartanburg and Union counties under a flash flood warning until 1 a.m. Thursday",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T04:13:06Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article316864127.html",
+        "mention_text": "Spartanburg",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Spartanburg, Spartanburg County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193950,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0994297,
+          40.8514971
+        ]
+      },
+      "properties": {
+        "article_id": "https://pix11.com/news/local-news/flash-flood-concerns-for-eastern-long-island/",
+        "title": "Flash flood concerns for eastern Long Island",
+        "source": "PIX11",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T11:26:25Z",
+        "url": "https://pix11.com/news/local-news/flash-flood-concerns-for-eastern-long-island/",
+        "mention_text": "Long Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Long Island, New York, United States",
+        "osm_type": "island",
+        "osm_id": 3955977,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1746933,
+          40.3270127
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox19.com/video/2026/08/13/flash-flood-emergency-voluntary-evacuations-overnight-se-indiana/",
+        "title": "Flash Flood Emergency: Voluntary evacuations overnight in SE Indiana",
+        "source": "FOX19 | Cincinnati",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T10:16:06Z",
+        "url": "https://www.fox19.com/video/2026/08/13/flash-flood-emergency-voluntary-evacuations-overnight-se-indiana/",
+        "mention_text": "Indiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Indiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 161816,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.812658,
+          39.5261788
+        ]
+      },
+      "properties": {
+        "article_id": "https://elkodaily.com/news/state-regional/nevada/article_e54549c8-37f3-5553-8340-e1ff63b3d2e1.html",
+        "title": "Thunderstorms bring cooler weather, flash flood risk to Reno area",
+        "source": "Elko Daily Free Press",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T17:24:26Z",
+        "url": "https://elkodaily.com/news/state-regional/nevada/article_e54549c8-37f3-5553-8340-e1ff63b3d2e1.html",
+        "mention_text": "Reno",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Reno, Washoe County, Nevada, United States",
+        "osm_type": "administrative",
+        "osm_id": 170120,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1551411,
+          37.5726028
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.hindustantimes.com/world-news/us-news/flash-flood-emergency-in-kentucky-mousie-vest-and-nearby-towns-face-life-threatening-flooding-scary-videos-emerge-101786672732178.html",
+        "title": "Flash Flood Emergency in Kentucky: Mousie, Vest and nearby towns face life-threatening flooding; scary videos emerge | Hindustan Times",
+        "source": "Hindustan Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-14T02:14:45Z",
+        "url": "https://www.hindustantimes.com/world-news/us-news/flash-flood-emergency-in-kentucky-mousie-vest-and-nearby-towns-face-life-threatening-flooding-scary-videos-emerge-101786672732178.html",
+        "mention_text": "Kentucky",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 161655,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7942944,
+          26.1421976
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.gulfcoastnewsnow.com/article/naples-pier-hurricane-ian-flooding-demo-hurricane-week/73425302",
+        "title": "Meteorologist Rob Duns demonstrates storm surge flooding in Naples after Hurricane Ian",
+        "source": "Gulf Coast News and Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T16:42:00Z",
+        "url": "https://www.gulfcoastnewsnow.com/article/naples-pier-hurricane-ian-flooding-demo-hurricane-week/73425302",
+        "mention_text": "Naples",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Naples, Collier County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1216778,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article316872030.html",
+        "title": "Coastal flood advisory for Myrtle Beach area and Coastal Georgetown until Thursday night",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T18:57:07Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article316872030.html",
+        "mention_text": "Myrtle Beach",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Myrtle Beach, Horry County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193842,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3595655,
+          38.6898781
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article316872030.html",
+        "title": "Coastal flood advisory for Myrtle Beach area and Coastal Georgetown until Thursday night",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T18:57:07Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article316872030.html",
+        "mention_text": "Coastal Georgetown",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Delaware Coastal Airport, Aviation Avenue, Harlemtown, Georgetown, Sussex County, Delaware, 19947, United States",
+        "osm_type": "aerodrome",
+        "osm_id": 726617667,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.325138,
+          42.8501191
+        ]
+      },
+      "properties": {
+        "article_id": "https://oilcity.news/community/weather/2026/08/13/national-weather-service-issues-a-new-flood-advisory-for-casper-until-930-p-m/",
+        "title": "National Weather Service issues new flood advisory for Casper until 9:30 p.m.",
+        "source": "Oil City News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-14T01:52:04Z",
+        "url": "https://oilcity.news/community/weather/2026/08/13/national-weather-service-issues-a-new-flood-advisory-for-casper-until-930-p-m/",
+        "mention_text": "Casper",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Casper, Natrona County, Wyoming, United States",
+        "osm_type": "administrative",
+        "osm_id": 252231,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9919351,
+          38.056944
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article316876006.html",
+        "title": "Flood advisory active for Tuolumne County Thursday evening triggered by prolonged rain",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T23:34:08Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article316876006.html",
+        "mention_text": "Tuolumne County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Tuolumne County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396471,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0949352,
+          38.7060457
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316876293.html",
+        "title": "Richland County under a flood advisory Thursday night triggered by intense rainfall",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-14T00:01:06Z",
+        "url": "https://www.thestate.com/news/weather-news/article316876293.html",
+        "mention_text": "Richland County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Richland County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1801535,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9919351,
+          38.056944
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article316876006.html",
+        "title": "UPDATE: Flood advisory for Tuolumne County anticipated to expire at 7 p.m.",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-14T02:18:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article316876006.html",
+        "mention_text": "Tuolumne County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Tuolumne County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396471,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4074712,
+          36.5595325
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article316874085.html",
+        "title": "Flood advisory issued for Inyo County early Thursday evening due to prolonged rain",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T20:57:06Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article316874085.html",
+        "mention_text": "Inyo County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Inyo County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396491,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4001639,
+          39.9194117
+        ]
+      },
+      "properties": {
+        "article_id": "https://fox59.com/video/flooded-road-conditions-in-delaware-county/12066455/",
+        "title": "Flooded road conditions in Delaware County",
+        "source": "Fox 59",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T20:44:06Z",
+        "url": "https://fox59.com/video/flooded-road-conditions-in-delaware-county/12066455/",
+        "mention_text": "Delaware County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Delaware County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417846,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9103124,
+          40.6632297
+        ]
+      },
+      "properties": {
+        "article_id": "https://kjzz.com/news/local/flood-advisory-issued-in-salt-lake-county-drivers-advised-not-to-travel-through-floods",
+        "title": "Flood Advisory issued in Salt Lake County, drivers advised not to travel through floods",
+        "source": "kjzz.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-14T02:17:57Z",
+        "url": "https://kjzz.com/news/local/flood-advisory-issued-in-salt-lake-county-drivers-advised-not-to-travel-through-floods",
+        "mention_text": "Salt Lake County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Salt Lake County, Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 1744366,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8953815,
+          40.5710454
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox13now.com/news/local-news/salt-lake-county/flooding-reported-in-sandy-after-flood-advisory-issued",
+        "title": "Flooding reported in Sandy, Draper cities after Flood Advisory issued",
+        "source": "FOX 13 News Utah",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-14T02:22:22Z",
+        "url": "https://www.fox13now.com/news/local-news/salt-lake-county/flooding-reported-in-sandy-after-flood-advisory-issued",
+        "mention_text": "Sandy",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Sandy, Salt Lake County, Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 198911,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316876619.html",
+        "title": "Coastal Colleton and Charleston County under a coastal flood advisory Thursday night",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-14T00:40:07Z",
+        "url": "https://www.thestate.com/news/weather-news/article316876619.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.325138,
+          42.8501191
+        ]
+      },
+      "properties": {
+        "article_id": "https://oilcity.news/community/weather/2026/08/13/nws-flood-advisory-in-effect-until-1-p-m/",
+        "title": "As parts of Casper flood, NWS issues flood advisory through 1 p.m.",
+        "source": "Oil City News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T17:29:46Z",
+        "url": "https://oilcity.news/community/weather/2026/08/13/nws-flood-advisory-in-effect-until-1-p-m/",
+        "mention_text": "Casper",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Casper, Natrona County, Wyoming, United States",
+        "osm_type": "administrative",
+        "osm_id": 252231,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8155355,
+          36.6713502
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article316874559.html",
+        "title": "UPDATE: Flood advisory for Fresno County expected to expire at 4:15 p.m.",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T23:34:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article316874559.html",
+        "mention_text": "Fresno County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Fresno County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396492,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.211475,
+          32.4483736
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kgun9.com/news/local-news/three-rescued-from-a-car-trapped-on-a-flooded-road-near-marana",
+        "title": "Three rescued from a car trapped on a flooded road near Marana",
+        "source": "KGUN 9",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T20:12:58Z",
+        "url": "https://www.kgun9.com/news/local-news/three-rescued-from-a-car-trapped-on-a-flooded-road-near-marana",
+        "mention_text": "Marana",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Marana, Pima County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 110749,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sbsun.com/2026/08/12/flood-advisory-in-place-for-san-bernardino-county-early-wednesday-evening-due-to-persistent-rain/",
+        "title": "Flood advisory in place for San Bernardino County early Wednesday evening due to persistent rain",
+        "source": "San Bernardino Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T09:39:59Z",
+        "url": "https://www.sbsun.com/2026/08/12/flood-advisory-in-place-for-san-bernardino-county-early-wednesday-evening-due-to-persistent-rain/",
+        "mention_text": "San Bernardino County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercedsunstar.com/news/weather-news/article316861359.html",
+        "title": "Flood advisory affecting San Bernardino County early Wednesday evening",
+        "source": "Merced Sun-Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-12T22:04:09Z",
+        "url": "https://www.mercedsunstar.com/news/weather-news/article316861359.html",
+        "mention_text": "San Bernardino County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7907554,
+          41.1763139
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/08/orange-and-putnam-counties-placed-under-a-flood-advisory-until-3-a-m-thursday-caused-by-substantial.html",
+        "title": "Update: Westchester County placed under a flood advisory until early Thursday morning caused by substantial downpours",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T04:17:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/08/orange-and-putnam-counties-placed-under-a-flood-advisory-until-3-a-m-thursday-caused-by-substantial.html",
+        "mention_text": "Westchester County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Westchester County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1838027,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.607716,
+          38.7251776
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.denver7.com/weather/weather-news/colorado-weather-blog-flood-watch-in-effect-for-the-eastern-plains-through-10-p-m",
+        "title": "Colorado weather blog: Flood advisory for parts of the Denver metro through 5:30 p.m.",
+        "source": "Denver7",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T22:03:05Z",
+        "url": "https://www.denver7.com/weather/weather-news/colorado-weather-blog-flood-watch-in-effect-for-the-eastern-plains-through-10-p-m",
+        "mention_text": "Colorado",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 161961,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.984862,
+          39.7392364
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.denver7.com/weather/weather-news/colorado-weather-blog-flood-watch-in-effect-for-the-eastern-plains-through-10-p-m",
+        "title": "Colorado weather blog: Flood advisory for parts of the Denver metro through 5:30 p.m.",
+        "source": "Denver7",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T22:03:05Z",
+        "url": "https://www.denver7.com/weather/weather-news/colorado-weather-blog-flood-watch-in-effect-for-the-eastern-plains-through-10-p-m",
+        "mention_text": "Denver",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Denver, Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 1411339,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4353385,
+          37.7950559
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article316864947.html",
+        "title": "The current coastal flood advisory for Northern California will expire at 2 a.m.",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T09:08:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article316864947.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Vedanta Society of Northern California, 2323, Vallejo Street, Cow Hollow, Pacific Heights, San Francisco, California, 94123, United States",
+        "osm_type": "place_of_worship",
+        "osm_id": 11347413508,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9399309,
+          32.7884363
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article316845723.html",
+        "title": "Flood advisory active for Charleston and Colleton counties Tuesday evening",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-11T20:47:08Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article316845723.html",
+        "mention_text": "Charleston",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston, Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 194119,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.677114,
+          32.8620726
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article316845723.html",
+        "title": "Flood advisory active for Charleston and Colleton counties Tuesday evening",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-11T20:47:08Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article316845723.html",
+        "mention_text": "Colleton",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Colleton County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857001,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.162772,
+          32.7174202
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article316821484.html",
+        "title": "Flood advisory in place for Riverside and San Diego counties early Sunday evening",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-09T20:36:06Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article316821484.html",
+        "mention_text": "San Diego",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego, San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 253832,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9955954,
+          34.937029
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article316864043.html",
+        "title": "Flood advisory for Spartanburg County until 1 a.m. Thursday caused by prolonged rainfall",
+        "source": "myrtlebeachonline.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T03:32:06Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article316864043.html",
+        "mention_text": "Spartanburg County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Spartanburg County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1357015,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailybulletin.com/2026/08/12/flood-advisory-in-place-for-san-bernardino-county-early-wednesday-evening-due-to-persistent-rain/",
+        "title": "Flood advisory in place for San Bernardino County early Wednesday evening due to persistent rain",
+        "source": "Daily Bulletin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-12T23:56:42Z",
+        "url": "https://www.dailybulletin.com/2026/08/12/flood-advisory-in-place-for-san-bernardino-county-early-wednesday-evening-due-to-persistent-rain/",
+        "mention_text": "San Bernardino County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.280075,
+          43.411391
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/midwest-flash-flood-emergency-triggers-230741035.html",
+        "title": "Midwest flash flood emergency triggers rescues",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-12T23:07:41Z",
+        "url": "https://www.yahoo.com/news/videos/midwest-flash-flood-emergency-triggers-230741035.html",
+        "mention_text": "Midwest",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Midwest, Natrona County, Wyoming, United States",
+        "osm_type": "administrative",
+        "osm_id": 252227,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://kutv.com/news/local/gallery/heavy-rains-prompt-flash-flood-warnings-for-burn-scar-areas-throughout-utah?photo=3",
+        "title": "Heavy rains prompt flash flood warnings for burn scar areas throughout Utah",
+        "source": "KUTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T16:33:29Z",
+        "url": "https://kutv.com/news/local/gallery/heavy-rains-prompt-flash-flood-warnings-for-burn-scar-areas-throughout-utah?photo=3",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.689423,
+          34.035591
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailynews.com/2026/08/08/coastal-flood-advisory-affecting-malibu-and-los-angeles-county-beaches-from-monday-to-thursday/",
+        "title": "Coastal flood advisory affecting Malibu and Los Angeles County Beaches from Monday to Thursday",
+        "source": "Los Angeles Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-08T20:26:22Z",
+        "url": "https://www.dailynews.com/2026/08/08/coastal-flood-advisory-affecting-malibu-and-los-angeles-county-beaches-from-monday-to-thursday/",
+        "mention_text": "Malibu",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Malibu, Los Angeles County, California, 90265, United States",
+        "osm_type": "administrative",
+        "osm_id": 3492156,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailynews.com/2026/08/08/coastal-flood-advisory-affecting-malibu-and-los-angeles-county-beaches-from-monday-to-thursday/",
+        "title": "Coastal flood advisory affecting Malibu and Los Angeles County Beaches from Monday to Thursday",
+        "source": "Los Angeles Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-08T20:26:22Z",
+        "url": "https://www.dailynews.com/2026/08/08/coastal-flood-advisory-affecting-malibu-and-los-angeles-county-beaches-from-monday-to-thursday/",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316815733.html",
+        "title": "UPDATE: The Piedmont region under a flood advisory Saturday night, says the NWS",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-08T23:16:08Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316815733.html",
+        "mention_text": "Piedmont",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-08-14T07:29:18.127461+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-08-13T07:31:58.691147+00:00",
-    "total_features": 3588
+    "last_updated": "2026-08-14T07:29:18.146073+00:00",
+    "total_features": 3653
   }
 }
