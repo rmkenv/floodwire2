@@ -95862,11 +95862,1103 @@
         "osm_id": 198911,
         "run_at": "2026-08-15T06:41:01.049393+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0372472,
+          33.7219991
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article316896531.html",
+        "title": "Riverside County placed under a flash flood warning Saturday evening, says the NWS",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-15T23:44:07Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article316896531.html",
+        "mention_text": "Riverside County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Riverside County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396495,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5470971,
+          48.269249
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.idahostatejournal.com/news/local/flash-flood-warning-issued-as-severe-thunderstorms-hammer-east-idaho/article_88111a82-574b-4ff7-9598-ff11b537d974.html",
+        "title": "Flash flood warning issued as severe thunderstorms hammer East Idaho",
+        "source": "Idaho State Journal",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-16T03:11:00Z",
+        "url": "https://www.idahostatejournal.com/news/local/flash-flood-warning-issued-as-severe-thunderstorms-hammer-east-idaho/article_88111a82-574b-4ff7-9598-ff11b537d974.html",
+        "mention_text": "East Idaho",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "East Idaho, Sandpoint, Bonner County, Idaho, 83852, United States",
+        "osm_type": "service",
+        "osm_id": 359180170,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0372472,
+          33.7219991
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article316896531.html",
+        "title": "UPDATE: Flash flood warning previously issued for Riverside County will expire at 7:15 p.m.",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-16T02:33:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article316896531.html",
+        "mention_text": "Riverside County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Riverside County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396495,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4431429,
+          31.7665258
+        ]
+      },
+      "properties": {
+        "article_id": "https://kvia.com/news/top-stories/2026/08/15/abc-7-first-alert-flash-flood-warning-for-east-el-paso-county-including-far-east-el-paso-homestead-meadows-and-montana-vista-until-830-pm/",
+        "title": "ABC-7 First Alert: Flash Flood Warning for East El Paso County including Far East El Paso, Homestead Meadows, and Montana Vista until 8:30 PM",
+        "source": "KVIA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-16T00:49:52Z",
+        "url": "https://kvia.com/news/top-stories/2026/08/15/abc-7-first-alert-flash-flood-warning-for-east-el-paso-county-including-far-east-el-paso-homestead-meadows-and-montana-vista-until-830-pm/",
+        "mention_text": "East El Paso County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "El Paso County Coliseum, East Paisano Drive, El Paso, El Paso County, Texas, 79905, United States",
+        "osm_type": "stadium",
+        "osm_id": 669873079,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.638757,
+          47.3752671
+        ]
+      },
+      "properties": {
+        "article_id": "https://kvia.com/news/top-stories/2026/08/15/abc-7-first-alert-flash-flood-warning-for-east-el-paso-county-including-far-east-el-paso-homestead-meadows-and-montana-vista-until-830-pm/",
+        "title": "ABC-7 First Alert: Flash Flood Warning for East El Paso County including Far East El Paso, Homestead Meadows, and Montana Vista until 8:30 PM",
+        "source": "KVIA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-16T00:49:52Z",
+        "url": "https://kvia.com/news/top-stories/2026/08/15/abc-7-first-alert-flash-flood-warning-for-east-el-paso-county-including-far-east-el-paso-homestead-meadows-and-montana-vista-until-830-pm/",
+        "mention_text": "Montana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Montana, United States",
+        "osm_type": "administrative",
+        "osm_id": 162115,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4486983,
+          19.5895548
+        ]
+      },
+      "properties": {
+        "article_id": "https://bigislandnow.com/2026/08/15/saturday-tropical-storm-lala-update-storm-was-less-than-200-miles-from-hilo-on-friday-night/",
+        "title": "UPDATE: Eyewall of Lala brushing southern portion of Big Island; flash flood warning extended for Puna, Ka\u2018\u016b Districts",
+        "source": "Big Island Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-16T04:19:44Z",
+        "url": "https://bigislandnow.com/2026/08/15/saturday-tropical-storm-lala-update-storm-was-less-than-200-miles-from-hilo-on-friday-night/",
+        "mention_text": "Big Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawai\u02bbi, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403603,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0372472,
+          33.7219991
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailybulletin.com/2026/08/15/flash-flood-warning-affecting-riverside-county-saturday-evening-unusual-threat-act-now/",
+        "title": "Flash flood warning affecting Riverside County Saturday evening \u2013 unusual threat, act now",
+        "source": "Daily Bulletin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-16T02:07:34Z",
+        "url": "https://www.dailybulletin.com/2026/08/15/flash-flood-warning-affecting-riverside-county-saturday-evening-unusual-threat-act-now/",
+        "mention_text": "Riverside County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Riverside County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396495,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/newyork/news/nyc-flash-flood-threat-nyc-sunday-august-16th/",
+        "title": "Heavy rain, flash flood threat return to NYC area Sunday. Get the First Alert Weather Day forecast.",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-16T00:44:00Z",
+        "url": "https://www.cbsnews.com/newyork/news/nyc-flash-flood-threat-nyc-sunday-august-16th/",
+        "mention_text": "NYC",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.617648,
+          29.6405786
+        ]
+      },
+      "properties": {
+        "article_id": "https://kvia.com/news/top-stories/2026/08/15/abc-7-first-alert-flash-flood-warning-for-a-south-central-hudspeth-county-until-615-pm-this-includes-parts-of-interstate-10/",
+        "title": "ABC-7 First Alert: Flash Flood Warning for a South Central Hudspeth County until 6:15 PM, this includes parts of Interstate 10",
+        "source": "KVIA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-15T22:27:22Z",
+        "url": "https://kvia.com/news/top-stories/2026/08/15/abc-7-first-alert-flash-flood-warning-for-a-south-central-hudspeth-county-until-615-pm-this-includes-parts-of-interstate-10/",
+        "mention_text": "Interstate 10",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Interstate 10 West, San Antonio, Bexar County, Texas, 78257, United States",
+        "osm_type": "secondary",
+        "osm_id": 181565570,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8756362,
+          32.735281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kwxx.com/2026/08/15/hurricane-lala-brings-flash-flood-emergency-conditions-to-hawaii-island-residents-urged-to-shelter-in-placed/",
+        "title": "Hurricane Lala Brings Flash Flood Emergency Conditions to Hawaii Island; Residents Urged to Shelter in Place",
+        "source": "KWXX - Hawaii",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-15T21:23:46Z",
+        "url": "https://www.kwxx.com/2026/08/15/hurricane-lala-brings-flash-flood-emergency-conditions-to-hawaii-island-residents-urged-to-shelter-in-placed/",
+        "mention_text": "Hawaii Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii Island, Tallapoosa County, Alabama, United States",
+        "osm_type": "island",
+        "osm_id": 1265920066,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2062682,
+          33.9510011
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Ce5M9NPLuUBHdkiVwWaxX",
+        "title": "Flash Flood Warning Issued for Southern California and Nevada Amid Heavy Rain",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-15T22:50:06Z",
+        "url": "https://www.forth.news/stories/Ce5M9NPLuUBHdkiVwWaxX",
+        "mention_text": "Southern California",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Southern @ California, Southern Avenue, South Gate, Los Angeles County, California, 90280, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 11056179472,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.853722,
+          39.5158825
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Ce5M9NPLuUBHdkiVwWaxX",
+        "title": "Flash Flood Warning Issued for Southern California and Nevada Amid Heavy Rain",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-15T22:50:06Z",
+        "url": "https://www.forth.news/stories/Ce5M9NPLuUBHdkiVwWaxX",
+        "mention_text": "Nevada",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Nevada, United States",
+        "osm_type": "administrative",
+        "osm_id": 165473,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.996047,
+          34.5802074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Ce52qzmGihLRyRAd9AkMw",
+        "title": "Flash Flood Warning Lifts After Heavy Rain in New Mexico\u2019s Mora and San Miguel Counties",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-15T21:06:00Z",
+        "url": "https://www.forth.news/stories/Ce52qzmGihLRyRAd9AkMw",
+        "mention_text": "New Mexico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 162014,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9132218,
+          35.972232
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Ce52qzmGihLRyRAd9AkMw",
+        "title": "Flash Flood Warning Lifts After Heavy Rain in New Mexico\u2019s Mora and San Miguel Counties",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-15T21:06:00Z",
+        "url": "https://www.forth.news/stories/Ce52qzmGihLRyRAd9AkMw",
+        "mention_text": "Mora",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mora County, New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 1344188,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4712533,
+          38.0292476
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Ce52qzmGihLRyRAd9AkMw",
+        "title": "Flash Flood Warning Lifts After Heavy Rain in New Mexico\u2019s Mora and San Miguel Counties",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-15T21:06:00Z",
+        "url": "https://www.forth.news/stories/Ce52qzmGihLRyRAd9AkMw",
+        "mention_text": "San Miguel",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Miguel County, Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 1411355,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.737257,
+          43.9792797
+        ]
+      },
+      "properties": {
+        "article_id": "https://elkhornmediagroup.com/thunderstorms-flash-flood-risks-complicate-efforts-on-massive-oregon-idaho-border-wildfire/",
+        "title": "Thunderstorms, flash flood risks complicate efforts on massive Oregon-Idaho border wildfire",
+        "source": "Elkhorn Media Group",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-15T18:28:15Z",
+        "url": "https://elkhornmediagroup.com/thunderstorms-flash-flood-risks-complicate-efforts-on-massive-oregon-idaho-border-wildfire/",
+        "mention_text": "Oregon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Oregon, United States",
+        "osm_type": "administrative",
+        "osm_id": 165476,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.607716,
+          38.7251776
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/colorado/video/another-round-of-storms-flash-flood-threat-for-colorado-saturday/",
+        "title": "Another round of storms, flash flood threat for Colorado Saturday",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-15T14:35:00Z",
+        "url": "https://www.cbsnews.com/colorado/video/another-round-of-storms-flash-flood-threat-for-colorado-saturday/",
+        "mention_text": "Colorado",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 161961,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4041622,
+          40.0757384
+        ]
+      },
+      "properties": {
+        "article_id": "https://communitynews.org/sections/news/nj-thunderstorms-flash-flood-risk-sunday/",
+        "title": "Thunderstorms, Flash Flood Risk Return to N.J. This Sunday",
+        "source": "communitynews.org",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-15T13:54:55Z",
+        "url": "https://communitynews.org/sections/news/nj-thunderstorms-flash-flood-risk-sunday/",
+        "mention_text": "N.J.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 224951,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4041622,
+          40.0757384
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nj.com/weather/2026/08/nj-weather-thunderstorms-return-sunday-with-flash-flood-risk.html",
+        "title": "N.J. weather: Thunderstorms, heavy rain to return Sunday with flash flood risk",
+        "source": "NJ.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-15T11:30:00Z",
+        "url": "https://www.nj.com/weather/2026/08/nj-weather-thunderstorms-return-sunday-with-flash-flood-risk.html",
+        "mention_text": "N.J.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 224951,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1746933,
+          40.3270127
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wthr.com/video/news/local/new-flash-flood-warnings-issued-as-storms-track-across-indiana-weather-impact-alert-13news/531-e2cd52e9-489d-41d2-b8d6-66a37858e9fc",
+        "title": "New flash flood warnings issued as storms track across Indiana | Weather Impact Alert | 13News",
+        "source": "wthr.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-15T13:18:00Z",
+        "url": "https://www.wthr.com/video/news/local/new-flash-flood-warnings-issued-as-storms-track-across-indiana-weather-impact-alert-13news/531-e2cd52e9-489d-41d2-b8d6-66a37858e9fc",
+        "mention_text": "Indiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Indiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 161816,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.280075,
+          43.411391
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-nbgvvzucaqzxiyji",
+        "title": "Flash flood danger growing in the Midwest as robust storms slam the region",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-14T19:20:52Z",
+        "url": "https://www.foxweather.com/watch/fmc-nbgvvzucaqzxiyji",
+        "mention_text": "Midwest",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Midwest, Natrona County, Wyoming, United States",
+        "osm_type": "administrative",
+        "osm_id": 252227,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fpren.org/2026-08-14/hot-storms-bring-flash-flood-threat-for-part-of-florida-while-still-having-great-rain-deficits",
+        "title": "Hot, storms bring flash flood threat for part of Florida while still having great rain deficits",
+        "source": "fpren.org",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-15T02:29:00Z",
+        "url": "https://www.fpren.org/2026-08-14/hot-storms-bring-flash-flood-threat-for-part-of-florida-while-still-having-great-rain-deficits",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6543394,
+          35.8251729
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kitv.com/video/news/hurricane-lala-update-storm-surge-flooding-hit-big-islands-west-coast/video_c124374c-7bcf-5c2a-8dbb-1ec22ef15037.html",
+        "title": "Hurricane Lala update: Storm surge, flooding hit Big Island's west coast",
+        "source": "KITV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-15T21:51:00Z",
+        "url": "https://www.kitv.com/video/news/hurricane-lala-update-storm-surge-flooding-hit-big-islands-west-coast/video_c124374c-7bcf-5c2a-8dbb-1ec22ef15037.html",
+        "mention_text": "Big Island's",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Big Island, Wanchese, Dare County, North Carolina, 27981, United States",
+        "osm_type": "island",
+        "osm_id": 357797131,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3120073,
+          41.3796719
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kitv.com/video/news/hurricane-lala-update-storm-surge-flooding-hit-big-islands-west-coast/video_c124374c-7bcf-5c2a-8dbb-1ec22ef15037.html",
+        "title": "Hurricane Lala update: Storm surge, flooding hit Big Island's west coast",
+        "source": "KITV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-15T21:51:00Z",
+        "url": "https://www.kitv.com/video/news/hurricane-lala-update-storm-surge-flooding-hit-big-islands-west-coast/video_c124374c-7bcf-5c2a-8dbb-1ec22ef15037.html",
+        "mention_text": "west coast",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "West Coast, Town of Goshen, Orange County, New York, United States",
+        "osm_type": "garden",
+        "osm_id": 1107357384,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.457904,
+          27.3900897
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbs12.com/news/local/flood-advisory-for-martin-and-st-lucie-counties-rain-heavy-thunderstorm-ponding-saturday",
+        "title": "Flood Advisory for Martin and St. Lucie Counties",
+        "source": "WPEC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-16T04:53:14Z",
+        "url": "https://cbs12.com/news/local/flood-advisory-for-martin-and-st-lucie-counties-rain-heavy-thunderstorm-ponding-saturday",
+        "mention_text": "St. Lucie",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Saint Lucie County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210696,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3794941,
+          26.087964
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.gulfcoastnewsnow.com/article/heatadvisory-weather-forecast-florida-storms-fortmyers/73441824",
+        "title": "Flood Advisory issued for parts of Collier County",
+        "source": "Gulf Coast News and Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-15T21:45:05Z",
+        "url": "https://www.gulfcoastnewsnow.com/article/heatadvisory-weather-forecast-florida-storms-fortmyers/73441824",
+        "mention_text": "Collier County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Collier County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210705,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9103124,
+          40.6632297
+        ]
+      },
+      "properties": {
+        "article_id": "https://kutv.com/newsletter-daily/gallery/flood-advisory-issued-as-heavy-rain-hits-central-salt-lake-county",
+        "title": "Flood advisory issued for parts of Salt Lake, including downtown, due to excessive rain",
+        "source": "KUTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-15T19:25:02Z",
+        "url": "https://kutv.com/newsletter-daily/gallery/flood-advisory-issued-as-heavy-rain-hits-central-salt-lake-county",
+        "mention_text": "Salt Lake",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Salt Lake County, Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 1744366,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pressenterprise.com/2026/08/14/update-flood-advisory-for-san-bernardino-and-clark-counties-until-friday-night/",
+        "title": "Update: Flood advisory for San Bernardino and Clark counties until Friday night",
+        "source": "pressenterprise.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-15T09:09:41Z",
+        "url": "https://www.pressenterprise.com/2026/08/14/update-flood-advisory-for-san-bernardino-and-clark-counties-until-friday-night/",
+        "mention_text": "San Bernardino",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7838526,
+          39.3260541
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pressenterprise.com/2026/08/14/update-flood-advisory-for-san-bernardino-and-clark-counties-until-friday-night/",
+        "title": "Update: Flood advisory for San Bernardino and Clark counties until Friday night",
+        "source": "pressenterprise.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-15T09:09:41Z",
+        "url": "https://www.pressenterprise.com/2026/08/14/update-flood-advisory-for-san-bernardino-and-clark-counties-until-friday-night/",
+        "mention_text": "Clark",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Clark County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1801517,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7385978,
+          33.7898432
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316894583.html",
+        "title": "UPDATE: The flood advisory for Wilkes County is forecast to expire at 5:30 p.m.",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-15T21:48:15Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316894583.html",
+        "mention_text": "Wilkes County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Wilkes County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 1074323,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article316896666.html",
+        "title": "UPDATE: The current flood advisory for San Diego County will be expiring at 6:38 p.m.",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-16T01:59:07Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article316896666.html",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.886797,
+          40.7596198
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.abc4.com/video/flood-advisory-expires-after-being-issued-for-parts-of-salt-lake-city-including-downtown/12072578/",
+        "title": "Flood Advisory expires after being issued for parts of Salt Lake City including downtown",
+        "source": "ABC4 Utah",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-15T04:26:41Z",
+        "url": "https://www.abc4.com/video/flood-advisory-expires-after-being-issued-for-parts-of-salt-lake-city-including-downtown/12072578/",
+        "mention_text": "Salt Lake City",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Salt Lake City, Salt Lake County, Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 198770,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9399309,
+          32.7884363
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article316845723.html",
+        "title": "Flood advisory active for Charleston and Colleton counties Tuesday evening",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-11T20:47:08Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article316845723.html",
+        "mention_text": "Charleston",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston, Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 194119,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.677114,
+          32.8620726
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article316845723.html",
+        "title": "Flood advisory active for Charleston and Colleton counties Tuesday evening",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-11T20:47:08Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article316845723.html",
+        "mention_text": "Colleton",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Colleton County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857001,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4074712,
+          36.5595325
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article316874085.html",
+        "title": "UPDATE: Flood advisory for Inyo County anticipated to expire at 5:15 p.m.",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-14T00:34:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article316874085.html",
+        "mention_text": "Inyo County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Inyo County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396491,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3168199,
+          43.6375503
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wzzm13.com/article/news/local/flood-advisory-mecosta-county/69-839aed90-2c47-4859-87d4-9c054c93feac",
+        "title": "Flood advisory for Mecosta County Wednesday evening",
+        "source": "WZZM13.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-12T22:58:00Z",
+        "url": "https://www.wzzm13.com/article/news/local/flood-advisory-mecosta-county/69-839aed90-2c47-4859-87d4-9c054c93feac",
+        "mention_text": "Mecosta County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Mecosta County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1907323,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.753822,
+          35.3145701
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercedsunstar.com/news/weather-news/article316845465.html",
+        "title": "UPDATE: Flood advisory active for Kern County Tuesday afternoon due to excessive rainfall",
+        "source": "Merced Sun-Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-11T20:50:06Z",
+        "url": "https://www.mercedsunstar.com/news/weather-news/article316845465.html",
+        "mention_text": "Kern County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kern County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396494,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailybulletin.com/2026/08/14/update-flood-advisory-for-san-bernardino-and-clark-counties-until-friday-night/",
+        "title": "Update: Flood advisory for San Bernardino and Clark counties until Friday night",
+        "source": "Daily Bulletin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-14T07:00:00Z",
+        "url": "https://www.dailybulletin.com/2026/08/14/update-flood-advisory-for-san-bernardino-and-clark-counties-until-friday-night/",
+        "mention_text": "San Bernardino",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7838526,
+          39.3260541
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailybulletin.com/2026/08/14/update-flood-advisory-for-san-bernardino-and-clark-counties-until-friday-night/",
+        "title": "Update: Flood advisory for San Bernardino and Clark counties until Friday night",
+        "source": "Daily Bulletin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-14T07:00:00Z",
+        "url": "https://www.dailybulletin.com/2026/08/14/update-flood-advisory-for-san-bernardino-and-clark-counties-until-friday-night/",
+        "mention_text": "Clark",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Clark County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1801517,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.redlandsdailyfacts.com/2026/08/14/update-flood-advisory-for-san-bernardino-and-clark-counties-until-friday-night/",
+        "title": "Update: Flood advisory for San Bernardino and Clark counties until Friday night",
+        "source": "Redlands Daily Facts",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-14T07:00:00Z",
+        "url": "https://www.redlandsdailyfacts.com/2026/08/14/update-flood-advisory-for-san-bernardino-and-clark-counties-until-friday-night/",
+        "mention_text": "San Bernardino",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7838526,
+          39.3260541
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.redlandsdailyfacts.com/2026/08/14/update-flood-advisory-for-san-bernardino-and-clark-counties-until-friday-night/",
+        "title": "Update: Flood advisory for San Bernardino and Clark counties until Friday night",
+        "source": "Redlands Daily Facts",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-14T07:00:00Z",
+        "url": "https://www.redlandsdailyfacts.com/2026/08/14/update-flood-advisory-for-san-bernardino-and-clark-counties-until-friday-night/",
+        "mention_text": "Clark",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Clark County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1801517,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailynews.com/2026/08/10/update-coastal-flood-advisory-issued-for-los-angeles-county-beaches-until-early-thursday-2/",
+        "title": "Update: Coastal flood advisory issued for Los Angeles County beaches until early Thursday",
+        "source": "Los Angeles Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-10T15:54:40Z",
+        "url": "https://www.dailynews.com/2026/08/10/update-coastal-flood-advisory-issued-for-los-angeles-county-beaches-until-early-thursday-2/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-08-16T06:42:12.312368+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-08-15T06:41:01.067937+00:00",
-    "total_features": 3687
+    "last_updated": "2026-08-16T06:42:12.330808+00:00",
+    "total_features": 3729
   }
 }
