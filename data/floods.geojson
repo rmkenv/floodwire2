@@ -98566,11 +98566,479 @@
         "osm_id": 3997756,
         "run_at": "2026-08-18T06:42:24.093446+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0430134,
+          33.5718345
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wlky.com/article/rescued-flash-flood-red-river-gorge-kentucky-wolfe/73469122",
+        "title": "Father, daughter rescued after flash flood traps them in Red River Gorge",
+        "source": "WLKY",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-19T01:17:00Z",
+        "url": "https://www.wlky.com/article/rescued-flash-flood-red-river-gorge-kentucky-wolfe/73469122",
+        "mention_text": "Red River",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Red River County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1827726,
+        "run_at": "2026-08-19T06:43:41.922562+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9529927,
+          42.5926239
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/flash-flood-threat-east-storms-mid-atlantic-northeast",
+        "title": "Flash flood threat building for half a dozen states in the East to end the week",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-18T18:06:00Z",
+        "url": "https://www.foxweather.com/weather-news/flash-flood-threat-east-storms-mid-atlantic-northeast",
+        "mention_text": "East",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "East, Lincoln County, Wyoming, 83126, United States",
+        "osm_type": "stream",
+        "osm_id": 835339965,
+        "run_at": "2026-08-19T06:43:41.922562+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3982158,
+          32.5233959
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wvnews.com/news/wvnews/everywhere-got-hammered-flash-flood-inundates-harrison-county-homes-businesses-schools/article_f267a77f-b4c8-4d04-906d-ce887da48ab8.html",
+        "title": "'Everywhere got hammered:' Flash flood inundates Harrison County homes, businesses, schools",
+        "source": "WV News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-18T17:16:00Z",
+        "url": "https://www.wvnews.com/news/wvnews/everywhere-got-hammered-flash-flood-inundates-harrison-county-homes-businesses-schools/article_f267a77f-b4c8-4d04-906d-ce887da48ab8.html",
+        "mention_text": "Harrison County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Harrison County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839478,
+        "run_at": "2026-08-19T06:43:41.922562+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8445755,
+          39.168867
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.2news.com/news/local/hidden-valley-flash-flood-meeting/video_1adb4827-1386-5c84-8986-f50795ce1529.html",
+        "title": "Hidden Valley flash flood meeting",
+        "source": "KTVN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-18T23:40:00Z",
+        "url": "https://www.2news.com/news/local/hidden-valley-flash-flood-meeting/video_1adb4827-1386-5c84-8986-f50795ce1529.html",
+        "mention_text": "Hidden Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hidden Valley, Miller Township, Dearborn County, Indiana, 47025, United States",
+        "osm_type": "census",
+        "osm_id": 127235,
+        "run_at": "2026-08-19T06:43:41.922562+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9399309,
+          32.7884363
+        ]
+      },
+      "properties": {
+        "article_id": "https://wchsnetwork.com/2026/08/18/flash-flood-leaves-behind-lots-of-damage-along-charlestons-sugar-creek/",
+        "title": "Flash flood leaves behind lots of damage along Charleston\u2019s Sugar Creek",
+        "source": "WCHS Network",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-18T20:37:33Z",
+        "url": "https://wchsnetwork.com/2026/08/18/flash-flood-leaves-behind-lots-of-damage-along-charlestons-sugar-creek/",
+        "mention_text": "Charleston",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Charleston, Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 194119,
+        "run_at": "2026-08-19T06:43:41.922562+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4446742,
+          39.1097268
+        ]
+      },
+      "properties": {
+        "article_id": "https://wchsnetwork.com/2026/08/18/flash-flood-leaves-behind-lots-of-damage-along-charlestons-sugar-creek/",
+        "title": "Flash flood leaves behind lots of damage along Charleston\u2019s Sugar Creek",
+        "source": "WCHS Network",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-18T20:37:33Z",
+        "url": "https://wchsnetwork.com/2026/08/18/flash-flood-leaves-behind-lots-of-damage-along-charlestons-sugar-creek/",
+        "mention_text": "Sugar Creek",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Sugar Creek, Jackson County, Missouri, 64054, United States",
+        "osm_type": "administrative",
+        "osm_id": 141018,
+        "run_at": "2026-08-19T06:43:41.922562+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9423535,
+          39.5315214
+        ]
+      },
+      "properties": {
+        "article_id": "https://wchsnetwork.com/2026/08/18/flash-flood-leaves-behind-lots-of-damage-along-charlestons-sugar-creek/",
+        "title": "Flash flood leaves behind lots of damage along Charleston\u2019s Sugar Creek",
+        "source": "WCHS Network",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-18T20:37:33Z",
+        "url": "https://wchsnetwork.com/2026/08/18/flash-flood-leaves-behind-lots-of-damage-along-charlestons-sugar-creek/",
+        "mention_text": "s Sugar Creek",
+        "flood_type": "flash_flood",
+        "confidence": 0.75,
+        "osm_display": "South Sugar Creek, Platte County, Missouri, United States",
+        "osm_type": "river",
+        "osm_id": 122977229,
+        "run_at": "2026-08-19T06:43:41.922562+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8756362,
+          32.735281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox5vegas.com/2026/08/16/two-homes-reportedly-swept-away-hurricane-lala-triggers-flash-flood-emergency-hawaii-island/",
+        "title": "Two homes reportedly swept away as Hurricane Lala triggers flash flood emergency in Hawaii Island",
+        "source": "FOX5 Vegas",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-16T13:19:00Z",
+        "url": "https://www.fox5vegas.com/2026/08/16/two-homes-reportedly-swept-away-hurricane-lala-triggers-flash-flood-emergency-hawaii-island/",
+        "mention_text": "Hawaii Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii Island, Tallapoosa County, Alabama, United States",
+        "osm_type": "island",
+        "osm_id": 1265920066,
+        "run_at": "2026-08-19T06:43:41.922562+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0372472,
+          33.7219991
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article316896531.html",
+        "title": "Riverside County placed under a flash flood warning Saturday evening, says the NWS",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-15T23:44:07Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article316896531.html",
+        "mention_text": "Riverside County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Riverside County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396495,
+        "run_at": "2026-08-19T06:43:41.922562+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fau.edu/science/news/king-tide-season/",
+        "title": "King Tide Season Starts This Week. What They Reveal About Florida's Flooding Future",
+        "source": "Florida Atlantic University",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-18T16:51:24Z",
+        "url": "https://www.fau.edu/science/news/king-tide-season/",
+        "mention_text": "Florida",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-08-19T06:43:41.922562+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6944133,
+          36.4412509
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316928121.html",
+        "title": "Gates County under a flood advisory Tuesday night caused by significant rainfall",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-18T23:47:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316928121.html",
+        "mention_text": "Gates County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Gates County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1242003,
+        "run_at": "2026-08-19T06:43:41.922562+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5971695,
+          35.9213841
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316929054.html",
+        "title": "Flood advisory for Edgecombe County until Tuesday night due to persistent rainfall",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-19T01:01:08Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316929054.html",
+        "mention_text": "Edgecombe County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Edgecombe County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528698,
+        "run_at": "2026-08-19T06:43:41.922562+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3289302,
+          40.7451356
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316928150.html",
+        "title": "Flood advisory active for Northampton County until Tuesday night, says the NWS",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-18T23:49:05Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316928150.html",
+        "mention_text": "Northampton County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Northampton County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417788,
+        "run_at": "2026-08-19T06:43:41.922562+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8756362,
+          32.735281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.hawaiinewsnow.com/2026/08/15/live-hawaii-island-begins-feel-impacts-tropical-storm-lala-nears/",
+        "title": "Homes reportedly swept away as Hurricane Lala triggers flash flood emergency on Hawaii Island",
+        "source": "Hawaii News Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-15T16:38:00Z",
+        "url": "https://www.hawaiinewsnow.com/2026/08/15/live-hawaii-island-begins-feel-impacts-tropical-storm-lala-nears/",
+        "mention_text": "Hawaii Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii Island, Tallapoosa County, Alabama, United States",
+        "osm_type": "island",
+        "osm_id": 1265920066,
+        "run_at": "2026-08-19T06:43:41.922562+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9955954,
+          34.937029
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316864043.html",
+        "title": "Flood advisory for Spartanburg County until 1 a.m. Thursday caused by prolonged rainfall",
+        "source": "thestate.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T03:32:06Z",
+        "url": "https://www.thestate.com/news/weather-news/article316864043.html",
+        "mention_text": "Spartanburg County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Spartanburg County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1357015,
+        "run_at": "2026-08-19T06:43:41.922562+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4691519,
+          37.7641353
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article316850628.html",
+        "title": "Coastal flood advisory issued for Northern California until 2 a.m. Thursday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-12T06:28:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article316850628.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Business Coaching of Northern California, 1032, Irving Street, Inner Sunset, Richmond District, San Francisco, California, 94122, United States",
+        "osm_type": "company",
+        "osm_id": 5068329117,
+        "run_at": "2026-08-19T06:43:41.922562+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.162772,
+          32.7174202
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article316821484.html",
+        "title": "Flood advisory in place for Riverside and San Diego counties early Sunday evening",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-09T20:36:06Z",
+        "url": "https://www.modbee.com/news/weather-news/article316821484.html",
+        "mention_text": "San Diego",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego, San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 253832,
+        "run_at": "2026-08-19T06:43:41.922562+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0949352,
+          38.7060457
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316769330.html",
+        "title": "UPDATE: Flood advisory affecting Richland County Tuesday night caused by heavy rain",
+        "source": "thestate.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-05T01:05:08Z",
+        "url": "https://www.thestate.com/news/weather-news/article316769330.html",
+        "mention_text": "Richland County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Richland County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1801535,
+        "run_at": "2026-08-19T06:43:41.922562+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-08-18T06:42:24.113456+00:00",
-    "total_features": 3791
+    "last_updated": "2026-08-19T06:43:41.943048+00:00",
+    "total_features": 3809
   }
 }
