@@ -99034,11 +99034,479 @@
         "osm_id": 1801535,
         "run_at": "2026-08-19T06:43:41.922562+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9529927,
+          42.5926239
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-mhyom0wbss3wqm6l",
+        "title": "Flash flood threat looms for half a dozen states in the East to end the week",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-20T00:50:15Z",
+        "url": "https://www.foxweather.com/watch/fmc-mhyom0wbss3wqm6l",
+        "mention_text": "East",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "East, Lincoln County, Wyoming, 83126, United States",
+        "osm_type": "stream",
+        "osm_id": 835339965,
+        "run_at": "2026-08-20T06:45:33.624010+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9715967,
+          31.6429346
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.indystar.com/story/weather/2026/08/19/flash-flood-warning-issued-in-hamilton-county-on-aug-19/91380208007/",
+        "title": "Flash flood warning issued in Hamilton County on Aug. 19",
+        "source": "IndyStar",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-20T00:23:00Z",
+        "url": "https://www.indystar.com/story/weather/2026/08/19/flash-flood-warning-issued-in-hamilton-county-on-aug-19/91380208007/",
+        "mention_text": "Hamilton County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hamilton County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836993,
+        "run_at": "2026-08-20T06:45:33.624010+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8445755,
+          39.168867
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.2news.com/news/hidden-valley-flash-flood-response-community-meeting/article_2b3b8dc8-dbf7-428f-a20a-bf4b8f3d2c4a.html",
+        "title": "Hidden Valley flash flood response community meeting",
+        "source": "KTVN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-19T22:46:00Z",
+        "url": "https://www.2news.com/news/hidden-valley-flash-flood-response-community-meeting/article_2b3b8dc8-dbf7-428f-a20a-bf4b8f3d2c4a.html",
+        "mention_text": "Hidden Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hidden Valley, Miller Township, Dearborn County, Indiana, 47025, United States",
+        "osm_type": "census",
+        "osm_id": 127235,
+        "run_at": "2026-08-20T06:45:33.624010+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5442084,
+          40.5126429
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-effect-northern-024948174.html",
+        "title": "Flash flood warning in effect for northern Tazewell County",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-20T02:49:00Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-effect-northern-024948174.html",
+        "mention_text": "Tazewell County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tazewell County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1800585,
+        "run_at": "2026-08-20T06:45:33.624010+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.4426212,
+          32.8085851
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeDNgtwsY1DCnMGPwhG23",
+        "title": "Heavy Rain Sparks Flash Flood Warning in Pinal County, AZ",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-20T04:29:00Z",
+        "url": "https://www.forth.news/stories/CeDNgtwsY1DCnMGPwhG23",
+        "mention_text": "Pinal County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pinal County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832207,
+        "run_at": "2026-08-20T06:45:33.624010+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4712533,
+          38.0292476
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeCq5ww8goNVZeGxhz7pG",
+        "title": "NWS Extends Flash Flood Warning in San Miguel County Through 8 PM Amid Heavy Rain",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-20T00:41:29Z",
+        "url": "https://www.forth.news/stories/CeCq5ww8goNVZeGxhz7pG",
+        "mention_text": "San Miguel County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Miguel County, Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 1411355,
+        "run_at": "2026-08-20T06:45:33.624010+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5781416,
+          39.100105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kansascity.com/news/weather-news/article316932098.html",
+        "title": "Update: Flash flood warning in place for the Kansas City area until Wednesday morning",
+        "source": "Kansas City Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-19T10:40:06Z",
+        "url": "https://www.kansascity.com/news/weather-news/article316932098.html",
+        "mention_text": "Kansas City",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kansas City, Jackson County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 141008,
+        "run_at": "2026-08-20T06:45:33.624010+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4712533,
+          38.0292476
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeCiZeSNicqBLBUoP2Yf3",
+        "title": "Albuquerque NWS Issues 6:44\u20118:00 PM Flash Flood Warning for Mora and San Miguel Counties",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-19T20:16:28Z",
+        "url": "https://www.forth.news/stories/CeCiZeSNicqBLBUoP2Yf3",
+        "mention_text": "San Miguel",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Miguel County, Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 1411355,
+        "run_at": "2026-08-20T06:45:33.624010+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://fox5sandiego.com/video/severe-thunderstorm-flash-flood-warning-for-parts-of-eastern-san-diego-county-due-to-heavy-rain-storms/11013998/",
+        "title": "Severe thunderstorm, flash flood warning for parts of eastern San Diego County due to heavy rain, storms",
+        "source": "fox5sandiego.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-19T14:07:56Z",
+        "url": "https://fox5sandiego.com/video/severe-thunderstorm-flash-flood-warning-for-parts-of-eastern-san-diego-county-due-to-heavy-rain-storms/11013998/",
+        "mention_text": "San Diego County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-08-20T06:45:33.624010+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6881395,
+          40.2253569
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dispatch.com/story/news/environment/2026/08/19/columbus-ohio-weather-update-flood-watch-nws/91376884007/",
+        "title": "Flood watch in effect for central Ohio counties through Thursday morning",
+        "source": "The Columbus Dispatch",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-20T01:46:00Z",
+        "url": "https://www.dispatch.com/story/news/environment/2026/08/19/columbus-ohio-weather-update-flood-watch-nws/91376884007/",
+        "mention_text": "Ohio",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 162061,
+        "run_at": "2026-08-20T06:45:33.624010+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9715967,
+          31.6429346
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-hamilton-002331307.html",
+        "title": "Flash flood warning issued in Hamilton County on Aug. 19",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-20T00:23:00Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-hamilton-002331307.html",
+        "mention_text": "Hamilton County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hamilton County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836993,
+        "run_at": "2026-08-20T06:45:33.624010+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8756362,
+          32.735281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kptv.com/2026/08/16/two-homes-reportedly-swept-away-hurricane-lala-triggers-flash-flood-emergency-hawaii-island/",
+        "title": "Two homes reportedly swept away as Hurricane Lala triggers flash flood emergency in Hawaii Island",
+        "source": "KPTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-16T13:19:00Z",
+        "url": "https://www.kptv.com/2026/08/16/two-homes-reportedly-swept-away-hurricane-lala-triggers-flash-flood-emergency-hawaii-island/",
+        "mention_text": "Hawaii Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii Island, Tallapoosa County, Alabama, United States",
+        "osm_type": "island",
+        "osm_id": 1265920066,
+        "run_at": "2026-08-20T06:45:33.624010+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.607716,
+          38.7251776
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.koaa.com/weather/wednesday-brings-thunderstorms-to-southern-colorado-with-a-flash-flood-risk-at-the-aspen-acres-fire",
+        "title": "Wednesday brings thunderstorms to southern Colorado with a flash flood risk at the Aspen Acres Fire",
+        "source": "KOAA News 5",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-19T05:04:57Z",
+        "url": "https://www.koaa.com/weather/wednesday-brings-thunderstorms-to-southern-colorado-with-a-flash-flood-risk-at-the-aspen-acres-fire",
+        "mention_text": "Colorado",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 161961,
+        "run_at": "2026-08-20T06:45:33.624010+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5781416,
+          39.100105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kansascity.com/news/weather-news/article316931568.html",
+        "title": "Flood advisory active for the Kansas City area until early Wednesday morning",
+        "source": "Kansas City Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-19T06:54:13Z",
+        "url": "https://www.kansascity.com/news/weather-news/article316931568.html",
+        "mention_text": "Kansas City",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kansas City, Jackson County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 141008,
+        "run_at": "2026-08-20T06:45:33.624010+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4328622,
+          38.4692006
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kmaland.com/news/breaking_weather/flood-advisory-for-fremont-county-until-6-30-p-m/article_e83e76b1-b25a-432c-b45c-83788c5e3ad0.html",
+        "title": "Flood advisory for Fremont County until 6:30 p.m.",
+        "source": "KMAland.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-19T19:36:00Z",
+        "url": "https://www.kmaland.com/news/breaking_weather/flood-advisory-for-fremont-county-until-6-30-p-m/article_e83e76b1-b25a-432c-b45c-83788c5e3ad0.html",
+        "mention_text": "Fremont County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Fremont County, Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 1411349,
+        "run_at": "2026-08-20T06:45:33.624010+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1444582,
+          40.6566851
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kmaland.com/news/breaking_weather/flood-advisory-for-otoe-county-until-6-30-p-m/article_4eb9ac49-a08d-46b0-9e5c-512a4172ba31.html",
+        "title": "Flood advisory for Otoe County until 6:30 p.m.",
+        "source": "KMAland.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-19T20:35:00Z",
+        "url": "https://www.kmaland.com/news/breaking_weather/flood-advisory-for-otoe-county-until-6-30-p-m/article_4eb9ac49-a08d-46b0-9e5c-512a4172ba31.html",
+        "mention_text": "Otoe County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Otoe County, Nebraska, United States",
+        "osm_type": "administrative",
+        "osm_id": 1425445,
+        "run_at": "2026-08-20T06:45:33.624010+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0157844,
+          39.7880532
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kmaland.com/news/breaking_weather/flood-advisory-for-nemaha-county-until-7-p-m/article_0ba13142-be1a-41e2-8d93-d102e95517c3.html",
+        "title": "Flood advisory for Nemaha County until 7 p.m.",
+        "source": "KMAland.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-19T20:57:00Z",
+        "url": "https://www.kmaland.com/news/breaking_weather/flood-advisory-for-nemaha-county-until-7-p-m/article_0ba13142-be1a-41e2-8d93-d102e95517c3.html",
+        "mention_text": "Nemaha County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Nemaha County, Kansas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1070419,
+        "run_at": "2026-08-20T06:45:33.624010+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0212848,
+          44.9331884
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316858247.html",
+        "title": "Coastal flood advisory affecting Southeast Coast until Wednesday night",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-12T18:39:09Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316858247.html",
+        "mention_text": "Southeast Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oregon Coast Highway, Taft, Lincoln City, Lincoln County, Oregon, 97367, United States",
+        "osm_type": "trunk",
+        "osm_id": 119208836,
+        "run_at": "2026-08-20T06:45:33.624010+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-08-19T06:43:41.943048+00:00",
-    "total_features": 3809
+    "last_updated": "2026-08-20T06:45:33.637928+00:00",
+    "total_features": 3827
   }
 }
