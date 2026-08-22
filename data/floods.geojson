@@ -100672,11 +100672,817 @@
         "osm_id": 11347413508,
         "run_at": "2026-08-21T06:47:03.066489+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.007126,
+          30.8703881
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/isolated-scattered-storms-louisiana-mississippi-severe-risk-friday-weather/73496454",
+        "title": "Severe thunderstorm, Flash Flood warnings issued across Louisiana, Mississippi",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-21T22:31:00Z",
+        "url": "https://www.wdsu.com/article/isolated-scattered-storms-louisiana-mississippi-severe-risk-friday-weather/73496454",
+        "mention_text": "Louisiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 224922,
+        "run_at": "2026-08-22T06:40:33.199279+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7348497,
+          32.9715285
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/isolated-scattered-storms-louisiana-mississippi-severe-risk-friday-weather/73496454",
+        "title": "Severe thunderstorm, Flash Flood warnings issued across Louisiana, Mississippi",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-21T22:31:00Z",
+        "url": "https://www.wdsu.com/article/isolated-scattered-storms-louisiana-mississippi-severe-risk-friday-weather/73496454",
+        "mention_text": "Mississippi",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 161943,
+        "run_at": "2026-08-22T06:40:33.199279+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.666593,
+          34.2814497
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316968963.html",
+        "title": "UPDATE: The flash flood warning for Columbus County is expected to expire at 9:15 p.m.",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-22T01:38:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316968963.html",
+        "mention_text": "Columbus County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Columbus County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528689,
+        "run_at": "2026-08-22T06:40:33.199279+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8905829,
+          34.9359346
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article316971156.html",
+        "title": "Clarendon and Orangeburg counties under a flash flood warning until Friday night",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-21T23:35:06Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article316971156.html",
+        "mention_text": "Clarendon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Clarendon, Donley County, Texas, 79226, United States",
+        "osm_type": "administrative",
+        "osm_id": 6595884,
+        "run_at": "2026-08-22T06:40:33.199279+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8556476,
+          33.4918203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article316971156.html",
+        "title": "Clarendon and Orangeburg counties under a flash flood warning until Friday night",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-21T23:35:06Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article316971156.html",
+        "mention_text": "Orangeburg",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Orangeburg, Orangeburg County, South Carolina, 29115, United States",
+        "osm_type": "administrative",
+        "osm_id": 193825,
+        "run_at": "2026-08-22T06:40:33.199279+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8818627,
+          34.2751052
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316969099.html",
+        "title": "Flash flood warning in place for New Hanover County until Friday evening",
+        "source": "News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-21T20:51:06Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316969099.html",
+        "mention_text": "New Hanover County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Hanover County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528727,
+        "run_at": "2026-08-22T06:40:33.199279+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.007126,
+          30.8703881
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/weather-impact/severe-thunderstorm-watch-in-effect-for-the-northshore-south-mississippi/289-2507d0c6-fc8d-42b4-8717-a7f3e4f6a0f1",
+        "title": "Severe storms triggered warnings, watches and flash flood alerts across southeast Louisiana",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-21T19:23:00Z",
+        "url": "https://www.wwltv.com/article/weather/weather-impact/severe-thunderstorm-watch-in-effect-for-the-northshore-south-mississippi/289-2507d0c6-fc8d-42b4-8717-a7f3e4f6a0f1",
+        "mention_text": "Louisiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 224922,
+        "run_at": "2026-08-22T06:40:33.199279+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0771632,
+          43.210582
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.indianagazette.com/news/local/pema-sba-offer-assistance-to-flash-flood-victims-in-burnside-area/article_38ffa94e-5cf4-4fca-9b9a-809e0a77bec3.html",
+        "title": "PEMA, SBA offer assistance to flash flood victims in Burnside area",
+        "source": "Indiana Gazette Online",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-21T23:00:00Z",
+        "url": "https://www.indianagazette.com/news/local/pema-sba-offer-assistance-to-flash-flood-victims-in-burnside-area/article_38ffa94e-5cf4-4fca-9b9a-809e0a77bec3.html",
+        "mention_text": "Burnside",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Burnside Township, Lapeer County, Michigan, 48416, United States",
+        "osm_type": "administrative",
+        "osm_id": 582197,
+        "run_at": "2026-08-22T06:40:33.199279+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.05344,
+          18.384239
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeGjWS24uMtvW382P2zSL",
+        "title": "NWS Issues Flash Flood Warning for Montrose and San Juan Counties Amid Heavy Rain",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-21T23:11:40Z",
+        "url": "https://www.forth.news/stories/CeGjWS24uMtvW382P2zSL",
+        "mention_text": "San Juan",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Juan, Puerto Rico, United States",
+        "osm_type": "administrative",
+        "osm_id": 4468264,
+        "run_at": "2026-08-22T06:40:33.199279+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.3609662,
+          35.0078434
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316968311.html",
+        "title": "Flash flood warning issued for Cumberland and Sampson counties until Friday evening",
+        "source": "News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-21T19:54:09Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316968311.html",
+        "mention_text": "Sampson",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Sampson County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528742,
+        "run_at": "2026-08-22T06:40:33.199279+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9664647,
+          35.937078
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeGcfSSYYFrBhQcUqrvjs",
+        "title": "NWS Issues Flash Flood Warning for Central North Carolina Counties Amid Heavy Rain",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-21T21:33:00Z",
+        "url": "https://www.forth.news/stories/CeGcfSSYYFrBhQcUqrvjs",
+        "mention_text": "Central North Carolina",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, Iredell County, North Carolina, United States",
+        "osm_type": "hamlet",
+        "osm_id": 154300865,
+        "run_at": "2026-08-22T06:40:33.199279+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6881395,
+          40.2253569
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thecooldown.com/green-tech/flash-flooding-columbus-historic-neighborhoods-warning/",
+        "title": "Cars underwater in Ohio within minutes as meteorologist warns: 'Never ignore a flash flood warning'",
+        "source": "The Cool Down",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-22T05:51:00Z",
+        "url": "https://www.thecooldown.com/green-tech/flash-flooding-columbus-historic-neighborhoods-warning/",
+        "mention_text": "Ohio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 162061,
+        "run_at": "2026-08-22T06:40:33.199279+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4041622,
+          40.0757384
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nj.com/weather/2026/08/nj-weather-flash-flood-threat-increases-for-saturday-with-multiple-rounds-of-storms-in-forecast.html",
+        "title": "N.J. weather: Flash flood threat increases for Saturday with multiple rounds of storms in forecast",
+        "source": "NJ.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-21T11:29:00Z",
+        "url": "https://www.nj.com/weather/2026/08/nj-weather-flash-flood-threat-increases-for-saturday-with-multiple-rounds-of-storms-in-forecast.html",
+        "mention_text": "N.J.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 224951,
+        "run_at": "2026-08-22T06:40:33.199279+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.344488,
+          32.7931661
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.marionstar.com/story/weather/2026/08/21/marion-ohio-flooding-scioto-river-larue/91400337007/",
+        "title": "Flood warning issued for Marion County",
+        "source": "The Marion Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-21T10:27:00Z",
+        "url": "https://www.marionstar.com/story/weather/2026/08/21/marion-ohio-flooding-scioto-river-larue/91400337007/",
+        "mention_text": "Marion County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Marion County, Texas, 75657, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839474,
+        "run_at": "2026-08-22T06:40:33.199279+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.139128,
+          46.7773451
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeFAQ5R4ddupVvUYMTmGY",
+        "title": "Flash Flood Warning Continues in Arizona\u2019s Antelope Creek Basin, Residents Urged to Leave Slot Canyons",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-21T03:08:00Z",
+        "url": "https://www.forth.news/stories/CeFAQ5R4ddupVvUYMTmGY",
+        "mention_text": "Antelope Creek Basin",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Antelope Creek, Judith Basin County, Montana, United States",
+        "osm_type": "track",
+        "osm_id": 5730643,
+        "run_at": "2026-08-22T06:40:33.199279+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6501043,
+          40.7860153
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeFAQ5R4ddupVvUYMTmGY",
+        "title": "Flash Flood Warning Continues in Arizona\u2019s Antelope Creek Basin, Residents Urged to Leave Slot Canyons",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-21T03:08:00Z",
+        "url": "https://www.forth.news/stories/CeFAQ5R4ddupVvUYMTmGY",
+        "mention_text": "s Antelope Creek",
+        "flood_type": "flash_flood",
+        "confidence": 0.75,
+        "osm_display": "Antelope Creek, South 48th, Normal, Lincoln, Lancaster County, Nebraska, 68506, United States",
+        "osm_type": "river",
+        "osm_id": 129584628,
+        "run_at": "2026-08-22T06:40:33.199279+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8756362,
+          32.735281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.actionnews5.com/2026/08/16/two-homes-reportedly-swept-away-hurricane-lala-triggers-flash-flood-emergency-hawaii-island/",
+        "title": "Two homes reportedly swept away as Hurricane Lala triggers flash flood emergency in Hawaii Island",
+        "source": "Action News 5",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-16T13:19:00Z",
+        "url": "https://www.actionnews5.com/2026/08/16/two-homes-reportedly-swept-away-hurricane-lala-triggers-flash-flood-emergency-hawaii-island/",
+        "mention_text": "Hawaii Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii Island, Tallapoosa County, Alabama, United States",
+        "osm_type": "island",
+        "osm_id": 1265920066,
+        "run_at": "2026-08-22T06:40:33.199279+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316969387.html",
+        "title": "UPDATE: Flood advisory active for the Piedmont region until Friday evening",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-21T21:39:08Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316969387.html",
+        "mention_text": "Piedmont",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-08-22T06:40:33.199279+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5255603,
+          35.6292222
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316970700.html",
+        "title": "Flood advisory for Buncombe County Friday night due to excessive rain",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-21T22:55:16Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316970700.html",
+        "mention_text": "Buncombe County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Buncombe County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528678,
+        "run_at": "2026-08-22T06:40:33.199279+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0482171,
+          35.6608869
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316972544.html",
+        "title": "Flood advisory affecting McDowell County until early Saturday morning",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-22T03:19:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316972544.html",
+        "mention_text": "McDowell County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "McDowell County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528721,
+        "run_at": "2026-08-22T06:40:33.199279+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.578509,
+          37.3859982
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316969664.html",
+        "title": "UPDATE: Flood advisory affecting Chesterfield County Friday evening, says the NWS",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-21T22:38:06Z",
+        "url": "https://www.thestate.com/news/weather-news/article316969664.html",
+        "mention_text": "Chesterfield County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Chesterfield County, Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 2534172,
+        "run_at": "2026-08-22T06:40:33.199279+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sbsun.com/2026/08/21/flood-advisory-issued-for-san-bernardino-county-friday-afternoon-triggered-by-heavy-downpours/",
+        "title": "Flood advisory issued for San Bernardino County Friday afternoon triggered by heavy downpours",
+        "source": "San Bernardino Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-22T02:48:56Z",
+        "url": "https://www.sbsun.com/2026/08/21/flood-advisory-issued-for-san-bernardino-county-friday-afternoon-triggered-by-heavy-downpours/",
+        "mention_text": "San Bernardino County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-08-22T06:40:33.199279+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7442135,
+          33.6442699
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article316970933.html",
+        "title": "Flood advisory for Williamsburg County until Friday night, says the NWS",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-21T23:16:09Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article316970933.html",
+        "mention_text": "Williamsburg County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Williamsburg County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532523,
+        "run_at": "2026-08-22T06:40:33.199279+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article316968868.html",
+        "title": "Flood advisory for San Bernardino County Friday afternoon, says the NWS",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-21T20:36:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article316968868.html",
+        "mention_text": "San Bernardino County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-08-22T06:40:33.199279+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6418883,
+          39.7886111
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316968795.html",
+        "title": "UPDATE: Flood advisory active for Fairfield and Newberry counties Friday evening",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-21T21:55:07Z",
+        "url": "https://www.thestate.com/news/weather-news/article316968795.html",
+        "mention_text": "Fairfield",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Fairfield County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 178391,
+        "run_at": "2026-08-22T06:40:33.199279+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8818627,
+          34.2751052
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316968715.html",
+        "title": "UPDATE: Flood advisory for New Hanover County likely to expire at 9 p.m.",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-22T01:20:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316968715.html",
+        "mention_text": "New Hanover County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "New Hanover County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528727,
+        "run_at": "2026-08-22T06:40:33.199279+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3902943,
+          45.8379973
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316971160.html",
+        "title": "UPDATE: Flood advisory for Florence County likely to expire at 10:15 p.m.",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-22T02:42:06Z",
+        "url": "https://www.thestate.com/news/weather-news/article316971160.html",
+        "mention_text": "Florence County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Florence County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 536034,
+        "run_at": "2026-08-22T06:40:33.199279+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.820246,
+          41.139981
+        ]
+      },
+      "properties": {
+        "article_id": "https://central.newschannelnebraska.com/story/356517483/flood-advisory-issued-for-cheyenne-kimball-banner-morrill-counties",
+        "title": "Flood advisory issued for Cheyenne, Kimball, Banner, Morrill counties",
+        "source": "Central News Channel Nebraska",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-22T03:11:15Z",
+        "url": "https://central.newschannelnebraska.com/story/356517483/flood-advisory-issued-for-cheyenne-kimball-banner-morrill-counties",
+        "mention_text": "Cheyenne",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cheyenne, Laramie County, Wyoming, United States",
+        "osm_type": "administrative",
+        "osm_id": 252208,
+        "run_at": "2026-08-22T06:40:33.199279+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -169.5107016,
+          16.7524461
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316902703.html",
+        "title": "Flood advisory active for Johnston and Wayne counties until Sunday night",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-16T22:43:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316902703.html",
+        "mention_text": "Johnston",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Johnston Atoll, United States",
+        "osm_type": "region",
+        "osm_id": 7248458,
+        "run_at": "2026-08-22T06:40:33.199279+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article316890051.html",
+        "title": "UPDATE: Flood advisory for Inyo and San Bernardino counties anticipated to expire at 9 p.m.",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-16T04:10:08Z",
+        "url": "https://www.sacbee.com/news/weather-news/article316890051.html",
+        "mention_text": "San Bernardino",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-08-22T06:40:33.199279+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.753822,
+          35.3145701
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article316845465.html",
+        "title": "UPDATE: Flood advisory active for Kern County Tuesday afternoon due to excessive rainfall",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-11T20:50:06Z",
+        "url": "https://www.modbee.com/news/weather-news/article316845465.html",
+        "mention_text": "Kern County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kern County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396494,
+        "run_at": "2026-08-22T06:40:33.199279+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-08-21T06:47:03.086766+00:00",
-    "total_features": 3872
+    "last_updated": "2026-08-22T06:40:33.216199+00:00",
+    "total_features": 3903
   }
 }
