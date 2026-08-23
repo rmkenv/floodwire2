@@ -101478,11 +101478,869 @@
         "osm_id": 396494,
         "run_at": "2026-08-22T06:40:33.199279+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1310761,
+          29.0533409
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wftv.com/news/local/flash-flood-warning-issued-northern-volusia-county-through-1030-pm/M4ADP4SZL5BY5BZSRNR2QPCVUI/",
+        "title": "Flash flood warning issued for northern Volusia County through 10:30 pm",
+        "source": "WFTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-23T00:11:00Z",
+        "url": "https://www.wftv.com/news/local/flash-flood-warning-issued-northern-volusia-county-through-1030-pm/M4ADP4SZL5BY5BZSRNR2QPCVUI/",
+        "mention_text": "Volusia County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Volusia County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 389025,
+        "run_at": "2026-08-23T06:42:03.629508+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9399309,
+          32.7884363
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.counton2.com/news/local-news/charleston-county-news/nws-issues-severe-flash-flood-warnings-for-charleston-berkeley-and-dorchester-counties/",
+        "title": "NWS issues severe flash flood warnings for Charleston, Berkeley, and Dorchester counties",
+        "source": "WCBD News 2",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-22T22:15:38Z",
+        "url": "https://www.counton2.com/news/local-news/charleston-county-news/nws-issues-severe-flash-flood-warnings-for-charleston-berkeley-and-dorchester-counties/",
+        "mention_text": "Charleston",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Charleston, Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 194119,
+        "run_at": "2026-08-23T06:42:03.629508+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.272863,
+          37.8708393
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.counton2.com/news/local-news/charleston-county-news/nws-issues-severe-flash-flood-warnings-for-charleston-berkeley-and-dorchester-counties/",
+        "title": "NWS issues severe flash flood warnings for Charleston, Berkeley, and Dorchester counties",
+        "source": "WCBD News 2",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-22T22:15:38Z",
+        "url": "https://www.counton2.com/news/local-news/charleston-county-news/nws-issues-severe-flash-flood-warnings-for-charleston-berkeley-and-dorchester-counties/",
+        "mention_text": "Berkeley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Berkeley, Alameda County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 2833528,
+        "run_at": "2026-08-23T06:42:03.629508+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7940003,
+          39.124636
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cleveland.com/weather/2026/08/flash-flood-warning-issued-for-lake-parts-of-cuyahoga-and-geauga-counties-as-heavy-rain-continues-to-fall.html",
+        "title": "Flash flood warning issued for Lake, parts of Cuyahoga and Geauga counties as heavy rain continues to fall",
+        "source": "Cleveland.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-22T18:30:00Z",
+        "url": "https://www.cleveland.com/weather/2026/08/flash-flood-warning-issued-for-lake-parts-of-cuyahoga-and-geauga-counties-as-heavy-rain-continues-to-fall.html",
+        "mention_text": "Lake",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lake County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396502,
+        "run_at": "2026-08-23T06:42:03.629508+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6905558,
+          41.4301347
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cleveland.com/weather/2026/08/flash-flood-warning-issued-for-lake-parts-of-cuyahoga-and-geauga-counties-as-heavy-rain-continues-to-fall.html",
+        "title": "Flash flood warning issued for Lake, parts of Cuyahoga and Geauga counties as heavy rain continues to fall",
+        "source": "Cleveland.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-22T18:30:00Z",
+        "url": "https://www.cleveland.com/weather/2026/08/flash-flood-warning-issued-for-lake-parts-of-cuyahoga-and-geauga-counties-as-heavy-rain-continues-to-fall.html",
+        "mention_text": "Cuyahoga",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Cuyahoga County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 350381,
+        "run_at": "2026-08-23T06:42:03.629508+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2899539,
+          36.8493695
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtkr.com/weather/todays-forecast/flooding-reported-across-norfolk-as-flash-flood-warning-remains-in-effect",
+        "title": "Flooding reported across Norfolk as flash flood warning remains in effect",
+        "source": "WTKR",
+        "outlet_city": "Norfolk",
+        "outlet_region": "Virginia",
+        "published_at": "2026-08-23T00:09:42Z",
+        "url": "https://www.wtkr.com/weather/todays-forecast/flooding-reported-across-norfolk-as-flash-flood-warning-remains-in-effect",
+        "mention_text": "Norfolk",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Norfolk, Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 206672,
+        "run_at": "2026-08-23T06:42:03.629508+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9194526,
+          34.8153757
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeJp1725rbdDtfHgipV2Z",
+        "title": "Flash Flood Warning Extended to 9:30 PM for South Carolina\u2019s Coastal Counties as Conditions Improve",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-23T01:27:45Z",
+        "url": "https://www.forth.news/stories/CeJp1725rbdDtfHgipV2Z",
+        "mention_text": "South Carolina\u2019s",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South, Oconee County, South Carolina, United States",
+        "osm_type": "fuel",
+        "osm_id": 766498030,
+        "run_at": "2026-08-23T06:42:03.629508+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2080378,
+          39.4389913
+        ]
+      },
+      "properties": {
+        "article_id": "https://localnews8.com/news/local-news/2026/08/22/thunderstorms-trigger-flash-flood-warning-for-heise-and-burn-scar-area/",
+        "title": "Thunderstorms trigger flash flood warning for Heise and burn scar area",
+        "source": "Local News 8",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-23T02:59:24Z",
+        "url": "https://localnews8.com/news/local-news/2026/08/22/thunderstorms-trigger-flash-flood-warning-for-heise-and-burn-scar-area/",
+        "mention_text": "Heise",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Heise, Frederick County, Maryland, United States",
+        "osm_type": "hamlet",
+        "osm_id": 158655456,
+        "run_at": "2026-08-23T06:42:03.629508+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2494453,
+          36.7168315
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeJdKXJKN39PVvkGgFiJe",
+        "title": "Flash Flood Warning in Chesapeake, Norfolk, Portsmouth, Virginia Beach Remains Until 9 p.m. Despite Heavy Rain Ending",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-23T01:11:50Z",
+        "url": "https://www.forth.news/stories/CeJdKXJKN39PVvkGgFiJe",
+        "mention_text": "Chesapeake",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Chesapeake, Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 206671,
+        "run_at": "2026-08-23T06:42:03.629508+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2899539,
+          36.8493695
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeJdKXJKN39PVvkGgFiJe",
+        "title": "Flash Flood Warning in Chesapeake, Norfolk, Portsmouth, Virginia Beach Remains Until 9 p.m. Despite Heavy Rain Ending",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-23T01:11:50Z",
+        "url": "https://www.forth.news/stories/CeJdKXJKN39PVvkGgFiJe",
+        "mention_text": "Norfolk",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Norfolk, Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 206672,
+        "run_at": "2026-08-23T06:42:03.629508+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.297699,
+          36.8320081
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeJdKXJKN39PVvkGgFiJe",
+        "title": "Flash Flood Warning in Chesapeake, Norfolk, Portsmouth, Virginia Beach Remains Until 9 p.m. Despite Heavy Rain Ending",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-23T01:11:50Z",
+        "url": "https://www.forth.news/stories/CeJdKXJKN39PVvkGgFiJe",
+        "mention_text": "Portsmouth",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Portsmouth, Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 206673,
+        "run_at": "2026-08-23T06:42:03.629508+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1092607,
+          42.3031858
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeJNU8Vs1hKpZ74XXMuMo",
+        "title": "Flash Flood Warning in Southwestern Wayne County, Utah, Remains in Effect Amid Heavy Rain",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-22T21:56:47Z",
+        "url": "https://www.forth.news/stories/CeJNU8Vs1hKpZ74XXMuMo",
+        "mention_text": "Southwestern Wayne County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Former site of Southwestern High School, Southwest Detroit, Detroit, Wayne County, Michigan, United States",
+        "osm_type": "brownfield",
+        "osm_id": 1234842946,
+        "run_at": "2026-08-23T06:42:03.629508+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeJNU8Vs1hKpZ74XXMuMo",
+        "title": "Flash Flood Warning in Southwestern Wayne County, Utah, Remains in Effect Amid Heavy Rain",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-22T21:56:47Z",
+        "url": "https://www.forth.news/stories/CeJNU8Vs1hKpZ74XXMuMo",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-08-23T06:42:03.629508+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9399309,
+          32.7884363
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeJXymYgQxtv9xq4Upoo3",
+        "title": "Charleston NWS Issues Flood Warning Until 3 AM Sunday, Replacing Flash Flood Alert",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-22T22:01:51Z",
+        "url": "https://www.forth.news/stories/CeJXymYgQxtv9xq4Upoo3",
+        "mention_text": "Charleston",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Charleston, Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 194119,
+        "run_at": "2026-08-23T06:42:03.629508+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.607716,
+          38.7251776
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeJT3Gf9BQswfogRgZdu9",
+        "title": "Colorado Flash Flood Warning Ends, Roads Still Closed",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-22T20:49:00Z",
+        "url": "https://www.forth.news/stories/CeJT3Gf9BQswfogRgZdu9",
+        "mention_text": "Colorado",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 161961,
+        "run_at": "2026-08-23T06:42:03.629508+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7278831,
+          40.9699889
+        ]
+      },
+      "properties": {
+        "article_id": "https://northeasttimes.com/2026/08/22/storms-roll-through-pennsylvania-and-new-jersey-with-flash/",
+        "title": "Storms Roll Through Pennsylvania and New Jersey With Flash Flood Risk Saturday Night",
+        "source": "Northeast Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-22T12:14:36Z",
+        "url": "https://northeasttimes.com/2026/08/22/storms-roll-through-pennsylvania-and-new-jersey-with-flash/",
+        "mention_text": "Pennsylvania",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 162109,
+        "run_at": "2026-08-23T06:42:03.629508+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4041622,
+          40.0757384
+        ]
+      },
+      "properties": {
+        "article_id": "https://northeasttimes.com/2026/08/22/storms-roll-through-pennsylvania-and-new-jersey-with-flash/",
+        "title": "Storms Roll Through Pennsylvania and New Jersey With Flash Flood Risk Saturday Night",
+        "source": "Northeast Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-22T12:14:36Z",
+        "url": "https://northeasttimes.com/2026/08/22/storms-roll-through-pennsylvania-and-new-jersey-with-flash/",
+        "mention_text": "New Jersey",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 224951,
+        "run_at": "2026-08-23T06:42:03.629508+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.607716,
+          38.7251776
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeJNUKCJ95DuZdfxHpA9D",
+        "title": "Colorado Flash Flood Warnings: Grand Junction and Pueblo Areas Hit by Heavy Rain",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-22T19:56:49Z",
+        "url": "https://www.forth.news/stories/CeJNUKCJ95DuZdfxHpA9D",
+        "mention_text": "Colorado",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 161961,
+        "run_at": "2026-08-23T06:42:03.629508+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/tropical-storm-moke-forms-pacific-threatening-tropical-downpours-flash-flooding-hawaii",
+        "title": "Tropical Storm Moke eyes Hawaii, packing dangerous tropical downpours and flash flood threat for Big Island",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-22T16:40:00Z",
+        "url": "https://www.foxweather.com/weather-news/tropical-storm-moke-forms-pacific-threatening-tropical-downpours-flash-flooding-hawaii",
+        "mention_text": "Hawaii",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-08-23T06:42:03.629508+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4486983,
+          19.5895548
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/tropical-storm-moke-forms-pacific-threatening-tropical-downpours-flash-flooding-hawaii",
+        "title": "Tropical Storm Moke eyes Hawaii, packing dangerous tropical downpours and flash flood threat for Big Island",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-22T16:40:00Z",
+        "url": "https://www.foxweather.com/weather-news/tropical-storm-moke-forms-pacific-threatening-tropical-downpours-flash-flooding-hawaii",
+        "mention_text": "Big Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawai\u02bbi, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403603,
+        "run_at": "2026-08-23T06:42:03.629508+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8408415,
+          38.4758406
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thecooldown.com/green-tech/flash-flood-west-virginia-rescues-evacuations/",
+        "title": "Video captures life-threatening West Virginia flash flood as rescues, evacuations unfold",
+        "source": "The Cool Down",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-22T19:30:00Z",
+        "url": "https://www.thecooldown.com/green-tech/flash-flood-west-virginia-rescues-evacuations/",
+        "mention_text": "West Virginia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "West Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 162068,
+        "run_at": "2026-08-23T06:42:03.629508+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316969950.html",
+        "title": "UPDATE: Flash flood warning active for the Piedmont region Friday evening",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-21T21:55:08Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316969950.html",
+        "mention_text": "Piedmont",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-08-23T06:42:03.629508+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7980284,
+          37.005886
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeJGMvqWy5uemg866b9zJ",
+        "title": "Emery County Issues Flash Flood Warning for Slick Rock and Slot Canyon",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-22T18:36:54Z",
+        "url": "https://www.forth.news/stories/CeJGMvqWy5uemg866b9zJ",
+        "mention_text": "Slick Rock",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Slick Rock, Barren County, Kentucky, United States",
+        "osm_type": "hamlet",
+        "osm_id": 153702601,
+        "run_at": "2026-08-23T06:42:03.629508+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6315933,
+          33.4346725
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeJGMvqWy5uemg866b9zJ",
+        "title": "Emery County Issues Flash Flood Warning for Slick Rock and Slot Canyon",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-22T18:36:54Z",
+        "url": "https://www.forth.news/stories/CeJGMvqWy5uemg866b9zJ",
+        "mention_text": "Slot Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Slot Canyon, Sea Summit, San Clemente, Orange County, California, 92674, United States",
+        "osm_type": "valley",
+        "osm_id": 1079575129,
+        "run_at": "2026-08-23T06:42:03.629508+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8905829,
+          34.9359346
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316971156.html",
+        "title": "Clarendon and Orangeburg counties under a flash flood warning until Friday night",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-21T23:35:06Z",
+        "url": "https://www.thestate.com/news/weather-news/article316971156.html",
+        "mention_text": "Clarendon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Clarendon, Donley County, Texas, 79226, United States",
+        "osm_type": "administrative",
+        "osm_id": 6595884,
+        "run_at": "2026-08-23T06:42:03.629508+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8556476,
+          33.4918203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316971156.html",
+        "title": "Clarendon and Orangeburg counties under a flash flood warning until Friday night",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-21T23:35:06Z",
+        "url": "https://www.thestate.com/news/weather-news/article316971156.html",
+        "mention_text": "Orangeburg",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Orangeburg, Orangeburg County, South Carolina, 29115, United States",
+        "osm_type": "administrative",
+        "osm_id": 193825,
+        "run_at": "2026-08-23T06:42:03.629508+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thecooldown.com/green-tech/massachusetts-flood-monitoring-essex-ipswich-storms/",
+        "title": "New Massachusetts sensors could show where storm surge and high tides push water inland",
+        "source": "The Cool Down",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-22T17:30:00Z",
+        "url": "https://www.thecooldown.com/green-tech/massachusetts-flood-monitoring-essex-ipswich-storms/",
+        "mention_text": "Massachusetts",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 61315,
+        "run_at": "2026-08-23T06:42:03.629508+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316979974.html",
+        "title": "UPDATE: Flood advisory active for the Piedmont region until 1 a.m. Sunday",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-23T03:40:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316979974.html",
+        "mention_text": "Piedmont",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-08-23T06:42:03.629508+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0212848,
+          44.9331884
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316968715.html",
+        "title": "UPDATE: Flood advisory issued for Southeast Coast Saturday morning triggered by heavy rain",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-22T12:50:07Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316968715.html",
+        "mention_text": "Southeast Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oregon Coast Highway, Taft, Lincoln City, Lincoln County, Oregon, 97367, United States",
+        "osm_type": "trunk",
+        "osm_id": 119208836,
+        "run_at": "2026-08-23T06:42:03.629508+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3343041,
+          33.4392245
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article316978161.html",
+        "title": "UPDATE: The current flood advisory for Georgetown County will be expiring at 7 p.m.",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-22T23:10:07Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article316978161.html",
+        "mention_text": "Georgetown County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Georgetown County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532508,
+        "run_at": "2026-08-23T06:42:03.629508+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2277002,
+          33.6653463
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316970934.html",
+        "title": "UPDATE: Flood advisory affecting Clarendon County Friday night due to intense rain",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-21T23:50:08Z",
+        "url": "https://www.thestate.com/news/weather-news/article316970934.html",
+        "mention_text": "Clarendon County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Clarendon County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532502,
+        "run_at": "2026-08-23T06:42:03.629508+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.3609662,
+          35.0078434
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316901934.html",
+        "title": "Flood advisory active for Sampson County Sunday evening caused by excessive rain",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-16T20:29:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316901934.html",
+        "mention_text": "Sampson County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Sampson County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528742,
+        "run_at": "2026-08-23T06:42:03.629508+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.985823,
+          34.7136533
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article316847156.html",
+        "title": "Flood advisory issued for Santa Barbara County early Tuesday evening due to heavy rain",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-11T22:17:12Z",
+        "url": "https://www.sacbee.com/news/weather-news/article316847156.html",
+        "mention_text": "Santa Barbara County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Santa Barbara County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396510,
+        "run_at": "2026-08-23T06:42:03.629508+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-08-22T06:40:33.216199+00:00",
-    "total_features": 3903
+    "last_updated": "2026-08-23T06:42:03.648887+00:00",
+    "total_features": 3936
   }
 }
