@@ -102336,11 +102336,557 @@
         "osm_id": 396510,
         "run_at": "2026-08-23T06:42:03.629508+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeLsiSFUe1yuWXV64sJHV",
+        "title": "Flash Flood Warning in Arizona\u2019s Pima and Pinal Counties Remains in Effect Until 11:15 PM MST",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-24T03:34:00Z",
+        "url": "https://www.forth.news/stories/CeLsiSFUe1yuWXV64sJHV",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-08-24T06:58:23.955687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.4426212,
+          32.8085851
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azcentral.com/story/news/local/pinal-weather/2026/08/23/weather-alert/91436651007/",
+        "title": "Flash flood warning issued for Pinal County",
+        "source": "azcentral.com and The Arizona Republic",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-24T03:44:00Z",
+        "url": "https://www.azcentral.com/story/news/local/pinal-weather/2026/08/23/weather-alert/91436651007/",
+        "mention_text": "Pinal County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pinal County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832207,
+        "run_at": "2026-08-24T06:58:23.955687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.421728,
+          42.2894671
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wgrz.com/article/weather/severe-weather/flash-flood-warning-issued-for-parts-of-chautauqua-county/71-f9eecb1b-5fe6-47a9-aea9-b591334a3573",
+        "title": "Flash Flood Warning for Chautauqua County expires",
+        "source": "WGRZ",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-23T14:18:00Z",
+        "url": "https://www.wgrz.com/article/weather/severe-weather/flash-flood-warning-issued-for-parts-of-chautauqua-county/71-f9eecb1b-5fe6-47a9-aea9-b591334a3573",
+        "mention_text": "Chautauqua County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Chautauqua County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1838089,
+        "run_at": "2026-08-24T06:58:23.955687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7907554,
+          41.1763139
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/08/update-flash-flood-warning-affecting-westchester-county-sunday-morning-caused-by-thunderstorms.html",
+        "title": "Update: Flash flood warning affecting Westchester County Sunday morning caused by thunderstorms",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-23T11:26:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/08/update-flash-flood-warning-affecting-westchester-county-sunday-morning-caused-by-thunderstorms.html",
+        "mention_text": "Westchester County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Westchester County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1838027,
+        "run_at": "2026-08-24T06:58:23.955687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeLP9AW1n99caVwkc6vze",
+        "title": "Flash Flood Warning in Utah\u2019s Garfield and Wayne Counties Remains in Effect Until 8:15 PM MDT",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-24T00:27:03Z",
+        "url": "https://www.forth.news/stories/CeLP9AW1n99caVwkc6vze",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-08-24T06:58:23.955687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.4786676,
+          35.214632
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeLQH79wPZfXY9UHJuyyf",
+        "title": "Flash Flood Warning in Apache County, AZ, Remains in Effect Until 6:30 PM MDT as Water Levels Stay Elevated",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-23T21:34:00Z",
+        "url": "https://www.forth.news/stories/CeLQH79wPZfXY9UHJuyyf",
+        "mention_text": "Apache County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Apache County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832179,
+        "run_at": "2026-08-24T06:58:23.955687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.607716,
+          38.7251776
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeLPXPM3dW7gjpRHUEqCS",
+        "title": "Severe Flash Flood Warning Issued for Middle Aspen Acres Burn Scar in Colorado",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-23T22:32:03Z",
+        "url": "https://www.forth.news/stories/CeLPXPM3dW7gjpRHUEqCS",
+        "mention_text": "Colorado",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 161961,
+        "run_at": "2026-08-24T06:58:23.955687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.421728,
+          42.2894671
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/08/flash-flood-warning-active-for-chautauqua-county-until-sunday-midday-triggered-by-thunderstorms.html",
+        "title": "Update: Flash flood warning active for Chautauqua County until Sunday midday \u2014 take precautions now",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-23T11:07:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/08/flash-flood-warning-active-for-chautauqua-county-until-sunday-midday-triggered-by-thunderstorms.html",
+        "mention_text": "Chautauqua County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Chautauqua County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1838089,
+        "run_at": "2026-08-24T06:58:23.955687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2899539,
+          36.8493695
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wavy.com/weather/hampton-roads-faces-flash-flood-risk-through-9-p-m/",
+        "title": "VIDEO: Hampton Road areas facing flash flood risk through 9 p.m.",
+        "source": "WAVY.com",
+        "outlet_city": "Norfolk",
+        "outlet_region": "Virginia",
+        "published_at": "2026-08-22T23:15:00Z",
+        "url": "https://www.wavy.com/weather/hampton-roads-faces-flash-flood-risk-through-9-p-m/",
+        "mention_text": "Norfolk",
+        "flood_type": "flash_flood",
+        "confidence": 0.4,
+        "osm_display": "Norfolk, Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 206672,
+        "run_at": "2026-08-24T06:58:23.955687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1263909,
+          40.3451668
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.phillyburbs.com/story/weather/2026/08/23/weather-alert-flash-flood-warning-bucks-county/91430623007/",
+        "title": "Flash flood warning issued Sunday for Bucks County",
+        "source": "PhillyBurbs",
+        "outlet_city": "Philadelphia",
+        "outlet_region": "Pennsylvania",
+        "published_at": "2026-08-23T11:42:00Z",
+        "url": "https://www.phillyburbs.com/story/weather/2026/08/23/weather-alert-flash-flood-warning-bucks-county/91430623007/",
+        "mention_text": "Bucks County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Bucks County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417843,
+        "run_at": "2026-08-24T06:58:23.955687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.4426212,
+          32.8085851
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aol.com/articles/flash-flood-warning-issued-pinal-031427000.html",
+        "title": "Flash flood warning issued for Pinal County",
+        "source": "AOL.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-24T03:28:45Z",
+        "url": "https://www.aol.com/articles/flash-flood-warning-issued-pinal-031427000.html",
+        "mention_text": "Pinal County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pinal County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832207,
+        "run_at": "2026-08-24T06:58:23.955687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1137366,
+          32.3293809
+        ]
+      },
+      "properties": {
+        "article_id": "https://wmo.int/media/project-update/strengthening-regional-cooperation-flash-flood-early-warning-georgia",
+        "title": "Strengthening Regional Cooperation on Flash Flood Early Warning in Georgia",
+        "source": "World Meteorological Organization WMO",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-20T09:24:28Z",
+        "url": "https://wmo.int/media/project-update/strengthening-regional-cooperation-flash-flood-early-warning-georgia",
+        "mention_text": "Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 161957,
+        "run_at": "2026-08-24T06:58:23.955687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4041622,
+          40.0757384
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nj.com/weather/2026/08/nj-weather-flash-flood-warnings-posted-as-strong-thunderstorms-sweep-across-region-live-updates.html",
+        "title": "N.J. weather: Flash flood warnings, thunderstorm alerts posted as strong storms sweep across region. Live upd",
+        "source": "NJ.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-21T01:17:00Z",
+        "url": "https://www.nj.com/weather/2026/08/nj-weather-flash-flood-warnings-posted-as-strong-thunderstorms-sweep-across-region-live-updates.html",
+        "mention_text": "N.J.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 224951,
+        "run_at": "2026-08-24T06:58:23.955687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4494174,
+          26.6279798
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbs12.com/news/local/flood-advisory-for-palm-beach-county-heavy-rain-thunderstorm",
+        "title": "Flood Advisory for Palm Beach County",
+        "source": "WPEC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-24T01:46:42Z",
+        "url": "https://cbs12.com/news/local/flood-advisory-for-palm-beach-county-heavy-rain-thunderstorm",
+        "mention_text": "Palm Beach County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Palm Beach County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210748,
+        "run_at": "2026-08-24T06:58:23.955687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article316985526.html",
+        "title": "UPDATE: Flood advisory active for San Diego County early Sunday evening, says the NWS",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-24T00:36:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article316985526.html",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-08-24T06:58:23.955687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6869011,
+          35.6333866
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316986152.html",
+        "title": "Flood advisory for Dare County until 2 a.m. Monday triggered by significant rain",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-24T03:29:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316986152.html",
+        "mention_text": "Dare County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Dare County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1232267,
+        "run_at": "2026-08-24T06:58:23.955687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4623642,
+          26.1598074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.local10.com/video/news/2026/08/23/flood-advisory-in-effect-for-areas-of-broward/",
+        "title": "Flood advisory in effect for areas of Broward",
+        "source": "WPLG Local 10",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-23T21:39:43Z",
+        "url": "https://www.local10.com/video/news/2026/08/23/flood-advisory-in-effect-for-areas-of-broward/",
+        "mention_text": "Broward",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Broward County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210714,
+        "run_at": "2026-08-24T06:58:23.955687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7907554,
+          41.1763139
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/08/update-flood-advisory-for-westchester-county-sunday-morning-caused-by-excessive-rainfall.html",
+        "title": "Update: Flood advisory for Westchester County Sunday morning caused by excessive rainfall",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-23T10:42:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/08/update-flood-advisory-for-westchester-county-sunday-morning-caused-by-excessive-rainfall.html",
+        "mention_text": "Westchester County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Westchester County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1838027,
+        "run_at": "2026-08-24T06:58:23.955687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3902943,
+          45.8379973
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article316971160.html",
+        "title": "Flood advisory issued for Florence County until Friday night due to intense rain",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-21T23:35:08Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article316971160.html",
+        "mention_text": "Florence County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Florence County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 536034,
+        "run_at": "2026-08-24T06:58:23.955687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7442135,
+          33.6442699
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article316970933.html",
+        "title": "UPDATE: Flood advisory previously issued for Williamsburg County will expire at 10 p.m.",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-22T02:20:07Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article316970933.html",
+        "mention_text": "Williamsburg County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Williamsburg County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532523,
+        "run_at": "2026-08-24T06:58:23.955687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8756362,
+          32.735281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.1011now.com/2026/08/16/two-homes-reportedly-swept-away-hurricane-lala-triggers-flash-flood-emergency-hawaii-island/",
+        "title": "Two homes reportedly swept away as Hurricane Lala triggers flash flood emergency in Hawaii Island",
+        "source": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-16T13:19:00Z",
+        "url": "https://www.1011now.com/2026/08/16/two-homes-reportedly-swept-away-hurricane-lala-triggers-flash-flood-emergency-hawaii-island/",
+        "mention_text": "Hawaii Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii Island, Tallapoosa County, Alabama, United States",
+        "osm_type": "island",
+        "osm_id": 1265920066,
+        "run_at": "2026-08-24T06:58:23.955687+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-08-23T06:42:03.648887+00:00",
-    "total_features": 3936
+    "last_updated": "2026-08-24T06:58:23.976308+00:00",
+    "total_features": 3957
   }
 }
