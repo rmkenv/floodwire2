@@ -102882,11 +102882,427 @@
         "osm_id": 1265920066,
         "run_at": "2026-08-24T06:58:23.955687+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.abc4.com/utah-weather/utah-flooding/flash-flood-warning-south-centra-utah/",
+        "title": "Flash Flood Warning issued in south-central Utah after reports of rockfalls, mudslides",
+        "source": "ABC4 Utah",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-25T00:18:22Z",
+        "url": "https://www.abc4.com/utah-weather/utah-flooding/flash-flood-warning-south-centra-utah/",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-08-25T06:48:02.606981+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://kutv.com/news/local/more-thunderstorms-possible-across-utah-as-flash-flood-risk-continues",
+        "title": "More thunderstorms possible across Utah as flash flood risk continues",
+        "source": "KUTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-25T03:00:00Z",
+        "url": "https://kutv.com/news/local/more-thunderstorms-possible-across-utah-as-flash-flood-risk-continues",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-08-25T06:48:02.606981+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://kmyu.tv/news/local/more-thunderstorms-possible-across-utah-as-flash-flood-risk-continues",
+        "title": "More thunderstorms possible across Utah as flash flood risk continues",
+        "source": "KMYU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-24T22:08:45Z",
+        "url": "https://kmyu.tv/news/local/more-thunderstorms-possible-across-utah-as-flash-flood-risk-continues",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-08-25T06:48:02.606981+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.abc4.com/video/utah-sees-high-temperatures-amid-flash-flood-potential/12101874/",
+        "title": "Utah sees high temperatures amid flash flood potential",
+        "source": "ABC4 Utah",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-25T04:59:00Z",
+        "url": "https://www.abc4.com/video/utah-sees-high-temperatures-amid-flash-flood-potential/12101874/",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-08-25T06:48:02.606981+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://kutv.com/news/local/flash-flood-warning-issued-in-kane-county-after-mudslides-rockfalls-reported",
+        "title": "Flash Flood Warning issued in south-central Utah after mudslides, rockfalls reported",
+        "source": "KUTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-25T02:58:16Z",
+        "url": "https://kutv.com/news/local/flash-flood-warning-issued-in-kane-county-after-mudslides-rockfalls-reported",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-08-25T06:48:02.606981+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7980284,
+          37.005886
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeNBcAJUQQwuqURwFwHPQ",
+        "title": "Emery County Issues Flash Flood Warning for Slick Rock and Slot Canyon",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-24T20:17:12Z",
+        "url": "https://www.forth.news/stories/CeNBcAJUQQwuqURwFwHPQ",
+        "mention_text": "Slick Rock",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Slick Rock, Barren County, Kentucky, United States",
+        "osm_type": "hamlet",
+        "osm_id": 153702601,
+        "run_at": "2026-08-25T06:48:02.606981+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6315933,
+          33.4346725
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeNBcAJUQQwuqURwFwHPQ",
+        "title": "Emery County Issues Flash Flood Warning for Slick Rock and Slot Canyon",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-24T20:17:12Z",
+        "url": "https://www.forth.news/stories/CeNBcAJUQQwuqURwFwHPQ",
+        "mention_text": "Slot Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Slot Canyon, Sea Summit, San Clemente, Orange County, California, 92674, United States",
+        "osm_type": "valley",
+        "osm_id": 1079575129,
+        "run_at": "2026-08-25T06:48:02.606981+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeM5ZEPF1AQeJGtnXNR4Q",
+        "title": "Arizona Flash Flood Warning Remains in Effect Through 2:15 AM MST",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-24T08:17:05Z",
+        "url": "https://www.forth.news/stories/CeM5ZEPF1AQeJGtnXNR4Q",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-08-25T06:48:02.606981+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://kutv.com/news/local/gallery/more-thunderstorms-possible-across-utah-as-flash-flood-risk-continues",
+        "title": "More thunderstorms possible across Utah as flash flood risk continues",
+        "source": "KUTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-24T10:07:50Z",
+        "url": "https://kutv.com/news/local/gallery/more-thunderstorms-possible-across-utah-as-flash-flood-risk-continues",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-08-25T06:48:02.606981+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article316995655.html",
+        "title": "UPDATE: San Bernardino County placed under a flood advisory early Monday evening",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-24T22:50:08Z",
+        "url": "https://www.sacbee.com/news/weather-news/article316995655.html",
+        "mention_text": "San Bernardino County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-08-25T06:48:02.606981+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailybulletin.com/2026/08/24/flood-advisory-affecting-san-bernardino-county-early-monday-evening-due-to-persistent-rain/",
+        "title": "Flood advisory affecting San Bernardino County early Monday evening due to persistent rain",
+        "source": "Daily Bulletin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-25T05:12:55Z",
+        "url": "https://www.dailybulletin.com/2026/08/24/flood-advisory-affecting-san-bernardino-county-early-monday-evening-due-to-persistent-rain/",
+        "mention_text": "San Bernardino County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-08-25T06:48:02.606981+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3343041,
+          33.4392245
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316984472.html",
+        "title": "Flood advisory affecting Georgetown County Sunday evening triggered by persistent rain",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-23T21:05:07Z",
+        "url": "https://www.thestate.com/news/weather-news/article316984472.html",
+        "mention_text": "Georgetown County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Georgetown County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532508,
+        "run_at": "2026-08-25T06:48:02.606981+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3343041,
+          33.4392245
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article316978161.html",
+        "title": "UPDATE: The current flood advisory for Georgetown County will be expiring at 7 p.m.",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-22T23:10:07Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article316978161.html",
+        "mention_text": "Georgetown County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Georgetown County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532508,
+        "run_at": "2026-08-25T06:48:02.606981+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5971695,
+          35.9213841
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316929054.html",
+        "title": "UPDATE: Flood advisory for Edgecombe County Tuesday night due to persistent rainfall",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-19T01:53:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316929054.html",
+        "mention_text": "Edgecombe County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Edgecombe County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528698,
+        "run_at": "2026-08-25T06:48:02.606981+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4353385,
+          37.7950559
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercedsunstar.com/news/weather-news/article316850628.html",
+        "title": "Coastal flood advisory issued for Northern California until 2 a.m. Thursday",
+        "source": "Merced Sun-Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-12T06:28:06Z",
+        "url": "https://www.mercedsunstar.com/news/weather-news/article316850628.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Vedanta Society of Northern California, 2323, Vallejo Street, Cow Hollow, Pacific Heights, San Francisco, California, 94123, United States",
+        "osm_type": "place_of_worship",
+        "osm_id": 11347413508,
+        "run_at": "2026-08-25T06:48:02.606981+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.3595666,
+          33.0305487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercedsunstar.com/news/weather-news/article316834994.html",
+        "title": "UPDATE: Flood advisory in place for Imperial County Monday evening due to prolonged rain",
+        "source": "Merced Sun-Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-11T02:37:07Z",
+        "url": "https://www.mercedsunstar.com/news/weather-news/article316834994.html",
+        "mention_text": "Imperial County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Imperial County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396515,
+        "run_at": "2026-08-25T06:48:02.606981+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-08-24T06:58:23.976308+00:00",
-    "total_features": 3957
+    "last_updated": "2026-08-25T06:48:02.623692+00:00",
+    "total_features": 3973
   }
 }
