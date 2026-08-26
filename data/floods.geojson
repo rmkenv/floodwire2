@@ -103298,11 +103298,323 @@
         "osm_id": 396515,
         "run_at": "2026-08-25T06:48:02.606981+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9153982,
+          37.1799084
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeNztiDXCAzF9eonu4GwV",
+        "title": "Paria River Flash Flood Warning Expiring at 9 AM MST as Waters Recede",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-25T16:34:01Z",
+        "url": "https://www.forth.news/stories/CeNztiDXCAzF9eonu4GwV",
+        "mention_text": "Paria River",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Paria River, Kane County, Utah, United States",
+        "osm_type": "river",
+        "osm_id": 9056455,
+        "run_at": "2026-08-26T06:48:51.020245+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://kjzz.com/news/local/more-thunderstorms-possible-across-utah-as-flash-flood-risk-continues?teaserSource=trending",
+        "title": "More thunderstorms possible across Utah as flash flood risk continues",
+        "source": "kjzz.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-25T10:07:50Z",
+        "url": "https://kjzz.com/news/local/more-thunderstorms-possible-across-utah-as-flash-flood-risk-continues?teaserSource=trending",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-08-26T06:48:51.020245+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8818627,
+          34.2751052
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316969099.html",
+        "title": "Flash flood warning in place for New Hanover County until Friday evening",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-21T20:51:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316969099.html",
+        "mention_text": "New Hanover County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Hanover County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528727,
+        "run_at": "2026-08-26T06:48:51.020245+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeN8wQQifbYaqDcWj3Mmq",
+        "title": "Flash Flood Warning Issued for Dark Canyon, Utah, Amid Heavy Rainfall",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-24T19:42:09Z",
+        "url": "https://www.forth.news/stories/CeN8wQQifbYaqDcWj3Mmq",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-08-26T06:48:51.020245+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4248315,
+          41.923434
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeNLQ7Pp7pbaGnBxjBxrd",
+        "title": "Flash Flood Warning Extended in Kane County as Paria River Surge Threatens Lives",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-24T22:10:20Z",
+        "url": "https://www.forth.news/stories/CeNLQ7Pp7pbaGnBxjBxrd",
+        "mention_text": "Kane County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kane County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1383784,
+        "run_at": "2026-08-26T06:48:51.020245+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-south-001822924.html",
+        "title": "Flash Flood Warning issued in south-central Utah after reports of rockfalls, mudslides",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-25T00:18:00Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-south-001822924.html",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-08-26T06:48:51.020245+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://kjzz.com/news/local/gallery/more-thunderstorms-possible-across-utah-as-flash-flood-risk-continues",
+        "title": "More thunderstorms possible across Utah as flash flood risk continues",
+        "source": "kjzz.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-24T10:07:24Z",
+        "url": "https://kjzz.com/news/local/gallery/more-thunderstorms-possible-across-utah-as-flash-flood-risk-continues",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-08-26T06:48:51.020245+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://kutv.com/news/local/gallery/more-thunderstorms-possible-across-utah-as-flash-flood-risk-continues?photo=1",
+        "title": "More thunderstorms possible across Utah as flash flood risk continues",
+        "source": "KUTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-24T15:07:53Z",
+        "url": "https://kutv.com/news/local/gallery/more-thunderstorms-possible-across-utah-as-flash-flood-risk-continues?photo=1",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-08-26T06:48:51.020245+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6869011,
+          35.6333866
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article316986152.html",
+        "title": "Flood advisory for Dare County until 2 a.m. Monday triggered by significant rain",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-24T03:29:06Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article316986152.html",
+        "mention_text": "Dare County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Dare County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1232267,
+        "run_at": "2026-08-26T06:48:51.020245+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7442135,
+          33.6442699
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316970933.html",
+        "title": "UPDATE: Flood advisory previously issued for Williamsburg County will expire at 10 p.m.",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-22T02:20:07Z",
+        "url": "https://www.thestate.com/news/weather-news/article316970933.html",
+        "mention_text": "Williamsburg County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Williamsburg County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532523,
+        "run_at": "2026-08-26T06:48:51.020245+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3343041,
+          33.4392245
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article316978161.html",
+        "title": "UPDATE: The current flood advisory for Georgetown County will be expiring at 7 p.m.",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-22T23:10:07Z",
+        "url": "https://www.thestate.com/news/weather-news/article316978161.html",
+        "mention_text": "Georgetown County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Georgetown County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532508,
+        "run_at": "2026-08-26T06:48:51.020245+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.985823,
+          34.7136533
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article316847156.html",
+        "title": "Flood advisory issued for Santa Barbara County early Tuesday evening due to heavy rain",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-11T22:17:12Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article316847156.html",
+        "mention_text": "Santa Barbara County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Santa Barbara County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396510,
+        "run_at": "2026-08-26T06:48:51.020245+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-08-25T06:48:02.623692+00:00",
-    "total_features": 3973
+    "last_updated": "2026-08-26T06:48:51.039983+00:00",
+    "total_features": 3985
   }
 }
