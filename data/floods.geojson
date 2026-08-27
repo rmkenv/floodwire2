@@ -103610,11 +103610,479 @@
         "osm_id": 396510,
         "run_at": "2026-08-26T06:48:51.020245+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4114187,
+          36.9507552
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.13newsnow.com/article/weather/weather-impact/flash-flood-threat-looms-hampton-roads-northeast-north-carolina-friday/291-807a0893-1ef5-4295-9316-3f6804a27dd4",
+        "title": "Flash flood threat looms for Hampton Roads and northeast North Carolina on Friday",
+        "source": "13newsnow.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-27T10:28:00Z",
+        "url": "https://www.13newsnow.com/article/weather/weather-impact/flash-flood-threat-looms-hampton-roads-northeast-north-carolina-friday/291-807a0893-1ef5-4295-9316-3f6804a27dd4",
+        "mention_text": "Hampton Roads",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hampton Roads, Newport News, Isle of Wight County, Virginia, United States",
+        "osm_type": "bay",
+        "osm_id": 11497477,
+        "run_at": "2026-08-27T17:25:58.168987+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.13newsnow.com/article/weather/weather-impact/flash-flood-threat-looms-hampton-roads-northeast-north-carolina-friday/291-807a0893-1ef5-4295-9316-3f6804a27dd4",
+        "title": "Flash flood threat looms for Hampton Roads and northeast North Carolina on Friday",
+        "source": "13newsnow.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-27T10:28:00Z",
+        "url": "https://www.13newsnow.com/article/weather/weather-impact/flash-flood-threat-looms-hampton-roads-northeast-north-carolina-friday/291-807a0893-1ef5-4295-9316-3f6804a27dd4",
+        "mention_text": "North Carolina",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-08-27T17:25:58.168987+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1635262,
+          39.9527237
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox29.com/news/flash-flash-flood-watch-issued-scattered-severe-storms-eye-philadelphia-area",
+        "title": "Philadelphia weather: Flood warning issued ahead of scattered storms",
+        "source": "FOX 29 Philadelphia",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-27T15:51:47Z",
+        "url": "https://www.fox29.com/news/flash-flash-flood-watch-issued-scattered-severe-storms-eye-philadelphia-area",
+        "mention_text": "Philadelphia",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Philadelphia, Philadelphia County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 188022,
+        "run_at": "2026-08-27T17:25:58.168987+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5594479,
+          37.4452288
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.courierpostonline.com/story/weather/2026/08/27/weather-alert-gloucester-nj-flash-flooding/91490460007/",
+        "title": "Flash flood warning issued for Gloucester County",
+        "source": "Courier-Post",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-27T15:55:00Z",
+        "url": "https://www.courierpostonline.com/story/weather/2026/08/27/weather-alert-gloucester-nj-flash-flooding/91490460007/",
+        "mention_text": "Gloucester County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Gloucester County, Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 2534178,
+        "run_at": "2026-08-27T17:25:58.168987+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1635262,
+          39.9527237
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/philadelphia/video/line-of-storms-brings-heavy-rain-flash-flood-risk-to-philadelphia-region/",
+        "title": "Line of storms brings heavy rain, flash flood risk to Philadelphia region",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-27T16:31:00Z",
+        "url": "https://www.cbsnews.com/philadelphia/video/line-of-storms-brings-heavy-rain-flash-flood-risk-to-philadelphia-region/",
+        "mention_text": "Philadelphia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Philadelphia, Philadelphia County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 188022,
+        "run_at": "2026-08-27T17:25:58.168987+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1635262,
+          39.9527237
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox29.com/video/fmc-ckct718d53bufvv5",
+        "title": "Philadelphia weather: Flood warning issued ahead of scattered storms",
+        "source": "FOX 29 Philadelphia",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-27T10:37:30Z",
+        "url": "https://www.fox29.com/video/fmc-ckct718d53bufvv5",
+        "mention_text": "Philadelphia",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Philadelphia, Philadelphia County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 188022,
+        "run_at": "2026-08-27T17:25:58.168987+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3170402,
+          29.8494044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/multi-day-flash-flood-severe-storm-threat-south",
+        "title": "South faces days of dangerous weather as flash flood, severe storm threat stretches into weekend",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-26T19:10:00Z",
+        "url": "https://www.foxweather.com/weather-news/multi-day-flash-flood-severe-storm-threat-south",
+        "mention_text": "South",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "St. Augustine South, Saint Johns County, Florida, 32086, United States",
+        "osm_type": "town",
+        "osm_id": 13203803220,
+        "run_at": "2026-08-27T17:25:58.168987+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1635262,
+          39.9527237
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flash-flood-watch-issued-scattered-110754268.html",
+        "title": "Flash flood watch issued as scattered severe storms eye Philadelphia-area",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-27T11:07:54Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flash-flood-watch-issued-scattered-110754268.html",
+        "mention_text": "Philadelphia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Philadelphia, Philadelphia County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 188022,
+        "run_at": "2026-08-27T17:25:58.168987+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0733934,
+          29.9561422
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/louisiana-mississippi-weather-forecast-flood-severe-watch-warning-advisory/73541236",
+        "title": "A Flood Advisory stretches across portions New Orleans metro and River Parishes",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-27T11:33:00Z",
+        "url": "https://www.wdsu.com/article/louisiana-mississippi-weather-forecast-flood-severe-watch-warning-advisory/73541236",
+        "mention_text": "New Orleans",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "New Orleans, Orleans Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 131885,
+        "run_at": "2026-08-27T17:25:58.168987+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9309372,
+          30.1907893
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/louisiana-mississippi-weather-forecast-flood-severe-watch-warning-advisory/73541236",
+        "title": "A Flood Advisory stretches across portions New Orleans metro and River Parishes",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-27T11:33:00Z",
+        "url": "https://www.wdsu.com/article/louisiana-mississippi-weather-forecast-flood-severe-watch-warning-advisory/73541236",
+        "mention_text": "River Parishes",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "River Parishes Community College, 925, West Edenborne Parkway, Gonzales, Ascension Parish, Louisiana, 70737, United States",
+        "osm_type": "college",
+        "osm_id": 1154125768,
+        "run_at": "2026-08-27T17:25:58.168987+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6319754,
+          42.250303
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/08/flood-advisory-affecting-orange-and-rockland-counties-until-thursday-afternoon-due-to-intense-rain.html",
+        "title": "Update: Flood advisory affecting Hudson Valley Thursday afternoon due to intense rain",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-27T14:18:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/08/flood-advisory-affecting-orange-and-rockland-counties-until-thursday-afternoon-due-to-intense-rain.html",
+        "mention_text": "Hudson Valley",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hudson Valley, New York, United States",
+        "osm_type": "region",
+        "osm_id": 20410509,
+        "run_at": "2026-08-27T17:25:58.168987+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5076569,
+          36.4393554
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317021249.html",
+        "title": "UPDATE: The flood advisory for Ashe County is likely to expire at 7:15 p.m.",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-26T23:43:08Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317021249.html",
+        "mention_text": "Ashe County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ashe County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528673,
+        "run_at": "2026-08-27T17:25:58.168987+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0733934,
+          29.9561422
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nola.com/news/flood-advisory-new-orleans-rain/article_bb21a09f-e8c1-468b-972b-f8971d722e6a.html",
+        "title": "Flood advisory in effect for New Orleans area as heavy morning storms drench area",
+        "source": "NOLA.com",
+        "outlet_city": "New Orleans",
+        "outlet_region": "Louisiana",
+        "published_at": "2026-08-27T11:41:00Z",
+        "url": "https://www.nola.com/news/flood-advisory-new-orleans-rain/article_bb21a09f-e8c1-468b-972b-f8971d722e6a.html",
+        "mention_text": "New Orleans",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "New Orleans, Orleans Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 131885,
+        "run_at": "2026-08-27T17:25:58.168987+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0395522,
+          39.4535243
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article317017469.html",
+        "title": "UPDATE: Flood advisory previously issued for Berkeley County will expire at 1:45 p.m.",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-26T18:06:04Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article317017469.html",
+        "mention_text": "Berkeley County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Berkeley County, West Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 1149480,
+        "run_at": "2026-08-27T17:25:58.168987+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7342163,
+          41.6500201
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ctinsider.com/weather/article/ct-rain-showers-flood-advisory-sunday-22399997.php",
+        "title": "Flood advisory in effect for lower half of Connecticut amid Sunday showers, weather service says",
+        "source": "CT Insider",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-23T13:45:31Z",
+        "url": "https://www.ctinsider.com/weather/article/ct-rain-showers-flood-advisory-sunday-22399997.php",
+        "mention_text": "Connecticut",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Connecticut, United States",
+        "osm_type": "administrative",
+        "osm_id": 165794,
+        "run_at": "2026-08-27T17:25:58.168987+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0733934,
+          29.9561422
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/weather-impact/flood-advisory-issued-for-parts-of-new-orleans-metro-as-heavy-rain-moves-through/289-a978cfc4-604d-43d4-99e7-da810d9f9fe6",
+        "title": "Flood advisory expires for parts of New Orleans metro as heavy rain moves through",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-27T11:41:00Z",
+        "url": "https://www.wwltv.com/article/weather/weather-impact/flood-advisory-issued-for-parts-of-new-orleans-metro-as-heavy-rain-moves-through/289-a978cfc4-604d-43d4-99e7-da810d9f9fe6",
+        "mention_text": "New Orleans",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Orleans, Orleans Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 131885,
+        "run_at": "2026-08-27T17:25:58.168987+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0733934,
+          29.9561422
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/video/weather/weather-impact/flood-advisory-issued-for-parts-of-new-orleans-metro/289-87023404-52fe-4531-846e-4a8474208c0e",
+        "title": "Flood advisory issued for parts of New Orleans metro",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-27T11:45:00Z",
+        "url": "https://www.wwltv.com/video/weather/weather-impact/flood-advisory-issued-for-parts-of-new-orleans-metro/289-87023404-52fe-4531-846e-4a8474208c0e",
+        "mention_text": "New Orleans",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "New Orleans, Orleans Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 131885,
+        "run_at": "2026-08-27T17:25:58.168987+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8756362,
+          32.735281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wowt.com/2026/08/16/two-homes-reportedly-swept-away-hurricane-lala-triggers-flash-flood-emergency-hawaii-island/",
+        "title": "Two homes reportedly swept away as Hurricane Lala triggers flash flood emergency in Hawaii Island",
+        "source": "WOWT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-16T07:00:00Z",
+        "url": "https://www.wowt.com/2026/08/16/two-homes-reportedly-swept-away-hurricane-lala-triggers-flash-flood-emergency-hawaii-island/",
+        "mention_text": "Hawaii Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii Island, Tallapoosa County, Alabama, United States",
+        "osm_type": "island",
+        "osm_id": 1265920066,
+        "run_at": "2026-08-27T17:25:58.168987+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-08-26T06:48:51.039983+00:00",
-    "total_features": 3985
+    "last_updated": "2026-08-27T17:25:58.190403+00:00",
+    "total_features": 4003
   }
 }
