@@ -104078,11 +104078,765 @@
         "osm_id": 1265920066,
         "run_at": "2026-08-27T17:25:58.168987+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4114187,
+          36.9507552
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.13newsnow.com/video/weather/forecast/flash-flood-threat-looms-for-hampton-roads-and-northeast-north-carolina-on-friday/291-8eeefb93-3a86-4233-92ac-66f4953a7192",
+        "title": "Flash flood threat looms for Hampton Roads and northeast North Carolina on Friday",
+        "source": "13newsnow.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-28T17:24:00Z",
+        "url": "https://www.13newsnow.com/video/weather/forecast/flash-flood-threat-looms-for-hampton-roads-and-northeast-north-carolina-on-friday/291-8eeefb93-3a86-4233-92ac-66f4953a7192",
+        "mention_text": "Hampton Roads",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hampton Roads, Newport News, Isle of Wight County, Virginia, United States",
+        "osm_type": "bay",
+        "osm_id": 11497477,
+        "run_at": "2026-08-28T18:19:04.028420+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.13newsnow.com/video/weather/forecast/flash-flood-threat-looms-for-hampton-roads-and-northeast-north-carolina-on-friday/291-8eeefb93-3a86-4233-92ac-66f4953a7192",
+        "title": "Flash flood threat looms for Hampton Roads and northeast North Carolina on Friday",
+        "source": "13newsnow.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-28T17:24:00Z",
+        "url": "https://www.13newsnow.com/video/weather/forecast/flash-flood-threat-looms-for-hampton-roads-and-northeast-north-carolina-on-friday/291-8eeefb93-3a86-4233-92ac-66f4953a7192",
+        "mention_text": "North Carolina",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-08-28T18:19:04.028420+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6632883,
+          39.5143268
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.courierpostonline.com/story/weather/2026/08/28/weather-alert-flash-flood-warning-atlantic-county/91510665007/",
+        "title": "Flash flood warning issued for Atlantic County",
+        "source": "Courier-Post",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-28T17:25:00Z",
+        "url": "https://www.courierpostonline.com/story/weather/2026/08/28/weather-alert-flash-flood-warning-atlantic-county/91510665007/",
+        "mention_text": "Atlantic County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlantic County, New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 2560066,
+        "run_at": "2026-08-28T18:19:04.028420+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.635738,
+          38.3888688
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wboc.com/news/flash-flood-warning-issued-in-wicomico-somerset-as-storm-brings-sudden-torrential-rain/article_5df9907f-3020-4d6a-9c92-837c9993d468.html",
+        "title": "Flash flood warning issued in Wicomico, Somerset as storm brings sudden torrential rain",
+        "source": "WBOC TV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-28T16:46:00Z",
+        "url": "https://www.wboc.com/news/flash-flood-warning-issued-in-wicomico-somerset-as-storm-brings-sudden-torrential-rain/article_5df9907f-3020-4d6a-9c92-837c9993d468.html",
+        "mention_text": "Wicomico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Wicomico County, Maryland, United States",
+        "osm_type": "administrative",
+        "osm_id": 934717,
+        "run_at": "2026-08-28T18:19:04.028420+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2411283,
+          40.08067
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wbtv.com/2026/08/28/flash-flood-warning-issued-lancaster-county-what-know/",
+        "title": "Flash flood warning issued for Lancaster County: What to know",
+        "source": "WBTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-28T01:46:55Z",
+        "url": "https://www.wbtv.com/2026/08/28/flash-flood-warning-issued-lancaster-county-what-know/",
+        "mention_text": "Lancaster County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lancaster County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417768,
+        "run_at": "2026-08-28T18:19:04.028420+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4041622,
+          40.0757384
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nj.com/weather/2026/08/nj-weather-strong-thunderstorms-spark-flash-flood-warning-in-parts-of-state-with-more-rain-pelting-area.html",
+        "title": "N.J. weather: Strong thunderstorms spark flash flood warning in parts of state, with more rain pelting area",
+        "source": "NJ.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-28T17:23:00Z",
+        "url": "https://www.nj.com/weather/2026/08/nj-weather-strong-thunderstorms-spark-flash-flood-warning-in-parts-of-state-with-more-rain-pelting-area.html",
+        "mention_text": "N.J.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 224951,
+        "run_at": "2026-08-28T18:19:04.028420+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4626118,
+          40.375713
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wgal.com/article/flash-flood-warning-issued-dauphin-lebanon-counties/73549001",
+        "title": "Flash Flood Warning issued for Dauphin and Lebanon counties",
+        "source": "WGAL",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-28T03:33:00Z",
+        "url": "https://www.wgal.com/article/flash-flood-warning-issued-dauphin-lebanon-counties/73549001",
+        "mention_text": "Lebanon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lebanon County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417767,
+        "run_at": "2026-08-28T18:19:04.028420+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4229351,
+          39.3642852
+        ]
+      },
+      "properties": {
+        "article_id": "https://pressofatlanticcity.com/news/local/weather/article_9a912322-6316-4501-b52a-d8a57bfdf151.html",
+        "title": "Flash flood warning issued for Atlantic City, Pleasantville and Somers Point",
+        "source": "Press of Atlantic City",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-28T17:15:00Z",
+        "url": "https://pressofatlanticcity.com/news/local/weather/article_9a912322-6316-4501-b52a-d8a57bfdf151.html",
+        "mention_text": "Atlantic City",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlantic City, Atlantic County, New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 170330,
+        "run_at": "2026-08-28T18:19:04.028420+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7926335,
+          41.1328736
+        ]
+      },
+      "properties": {
+        "article_id": "https://pressofatlanticcity.com/news/local/weather/article_9a912322-6316-4501-b52a-d8a57bfdf151.html",
+        "title": "Flash flood warning issued for Atlantic City, Pleasantville and Somers Point",
+        "source": "Press of Atlantic City",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-28T17:15:00Z",
+        "url": "https://pressofatlanticcity.com/news/local/weather/article_9a912322-6316-4501-b52a-d8a57bfdf151.html",
+        "mention_text": "Pleasantville",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Village of Pleasantville, Town of Mount Pleasant, Westchester County, New York, 10570, United States",
+        "osm_type": "administrative",
+        "osm_id": 174875,
+        "run_at": "2026-08-28T18:19:04.028420+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2411283,
+          40.08067
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wgal.com/article/flash-flood-warning-issued-in-lancaster-county/73548685",
+        "title": "Flash Flood Warning issued for Lancaster County",
+        "source": "WGAL",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-28T00:24:00Z",
+        "url": "https://www.wgal.com/article/flash-flood-warning-issued-in-lancaster-county/73548685",
+        "mention_text": "Lancaster County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lancaster County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417768,
+        "run_at": "2026-08-28T18:19:04.028420+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3056707,
+          40.0379958
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wgal.com/article/flash-flood-warning-issued-for-lancaster-and-lebanon-counties/73548200",
+        "title": "Flash Flood Warning issued for Lancaster and Lebanon counties",
+        "source": "WGAL",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-27T22:57:00Z",
+        "url": "https://www.wgal.com/article/flash-flood-warning-issued-for-lancaster-and-lebanon-counties/73548200",
+        "mention_text": "Lancaster",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lancaster, Lancaster County, Pennsylvania, 17575, United States",
+        "osm_type": "administrative",
+        "osm_id": 3997756,
+        "run_at": "2026-08-28T18:19:04.028420+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4626118,
+          40.375713
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wgal.com/article/flash-flood-warning-issued-for-lancaster-and-lebanon-counties/73548200",
+        "title": "Flash Flood Warning issued for Lancaster and Lebanon counties",
+        "source": "WGAL",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-27T22:57:00Z",
+        "url": "https://www.wgal.com/article/flash-flood-warning-issued-for-lancaster-and-lebanon-counties/73548200",
+        "mention_text": "Lebanon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lebanon County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417767,
+        "run_at": "2026-08-28T18:19:04.028420+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0677705,
+          38.9255299
+        ]
+      },
+      "properties": {
+        "article_id": "https://pix11.com/forecast-focus/hundreds-killed-in-nepal-flood-disaster-tri-state-faces-flash-flood-threat/",
+        "title": "Hundreds killed in Nepal flood disaster, tri-state faces flash flood threat",
+        "source": "PIX11",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-28T13:17:34Z",
+        "url": "https://pix11.com/forecast-focus/hundreds-killed-in-nepal-flood-disaster-tri-state-faces-flash-flood-threat/",
+        "mention_text": "Nepal",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Embassy of Nepal, 2730, 34th Place Northwest, Massachusetts Avenue Heights, Northwest, Ward 3, Washington, District of Columbia, 20007, United States",
+        "osm_type": "diplomatic",
+        "osm_id": 13436222580,
+        "run_at": "2026-08-28T18:19:04.028420+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4041622,
+          40.0757384
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nj.com/weather/2026/08/nj-weather-flash-flood-warning-issued-for-parts-of-state-as-thunderstorms-drop-heavy-rain.html",
+        "title": "N.J. weather: Flash flood warnings, severe thunderstorm alerts issued as storms hit with heavy rain, 60 mph w",
+        "source": "NJ.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-27T22:51:00Z",
+        "url": "https://www.nj.com/weather/2026/08/nj-weather-flash-flood-warning-issued-for-parts-of-state-as-thunderstorms-drop-heavy-rain.html",
+        "mention_text": "N.J.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 224951,
+        "run_at": "2026-08-28T18:19:04.028420+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.578509,
+          37.3859982
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317038469.html",
+        "title": "UPDATE: Chesterfield County placed under a flood advisory Thursday night",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-28T01:19:08Z",
+        "url": "https://www.thestate.com/news/weather-news/article317038469.html",
+        "mention_text": "Chesterfield County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Chesterfield County, Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 2534172,
+        "run_at": "2026-08-28T18:19:04.028420+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8430827,
+          35.2272086
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wbtv.com/2026/08/28/flood-advisory-issued-2-counties-charlotte-region-what-know/",
+        "title": "Flood advisory issued for 2 counties in Charlotte region: What to know",
+        "source": "WBTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-28T02:44:36Z",
+        "url": "https://www.wbtv.com/2026/08/28/flood-advisory-issued-2-counties-charlotte-region-what-know/",
+        "mention_text": "Charlotte",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charlotte, Mecklenburg County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 177415,
+        "run_at": "2026-08-28T18:19:04.028420+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2411283,
+          40.08067
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article317039237.html",
+        "title": "Lancaster County under a flood advisory until early Friday due to intense rain",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-28T01:37:10Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article317039237.html",
+        "mention_text": "Lancaster County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Lancaster County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417768,
+        "run_at": "2026-08-28T18:19:04.028420+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.3609662,
+          35.0078434
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317034597.html",
+        "title": "UPDATE: Flood advisory for Sampson County until Thursday night due to prolonged rain",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-28T00:10:15Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317034597.html",
+        "mention_text": "Sampson County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Sampson County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528742,
+        "run_at": "2026-08-28T18:19:04.028420+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0785945,
+          40.9745493
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317039815.html",
+        "title": "UPDATE: Flood advisory affecting Union County until 1 a.m. Friday due to excessive rain",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-28T04:13:11Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317039815.html",
+        "mention_text": "Union County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Union County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 416655,
+        "run_at": "2026-08-28T18:19:04.028420+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5627714,
+          34.627971
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317038074.html",
+        "title": "UPDATE: The flood advisory for Bladen County is anticipated to expire at 10 p.m.",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-28T02:12:09Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317038074.html",
+        "mention_text": "Bladen County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Bladen County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528676,
+        "run_at": "2026-08-28T18:19:04.028420+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0949352,
+          38.7060457
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317034041.html",
+        "title": "UPDATE: Flood advisory for Richland County anticipated to expire at 3:30 p.m.",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-27T20:02:07Z",
+        "url": "https://www.thestate.com/news/weather-news/article317034041.html",
+        "mention_text": "Richland County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Richland County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1801535,
+        "run_at": "2026-08-28T18:19:04.028420+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sbsun.com/2026/08/24/flood-advisory-affecting-san-bernardino-county-early-monday-evening-due-to-persistent-rain/",
+        "title": "Flood advisory affecting San Bernardino County early Monday evening due to persistent rain",
+        "source": "San Bernardino Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-25T02:24:50Z",
+        "url": "https://www.sbsun.com/2026/08/24/flood-advisory-affecting-san-bernardino-county-early-monday-evening-due-to-persistent-rain/",
+        "mention_text": "San Bernardino County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-08-28T18:19:04.028420+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2803933,
+          40.1541581
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316967671.html",
+        "title": "Cumberland County under a flood advisory early Friday evening triggered by heavy rainfall",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-21T19:10:08Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316967671.html",
+        "mention_text": "Cumberland County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cumberland County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417440,
+        "run_at": "2026-08-28T18:19:04.028420+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article316954536.html",
+        "title": "Flood advisory affecting San Diego County Thursday afternoon caused by persistent rainfall",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-20T20:13:09Z",
+        "url": "https://www.sacbee.com/news/weather-news/article316954536.html",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-08-28T18:19:04.028420+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9023191,
+          35.3994626
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316958637.html",
+        "title": "Rutherford County placed under a flood advisory until 1 a.m. Friday due to substantial rain",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-21T02:21:08Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316958637.html",
+        "mention_text": "Rutherford County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Rutherford County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528741,
+        "run_at": "2026-08-28T18:19:04.028420+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316971058.html",
+        "title": "UPDATE: Flood advisory active for the Piedmont region until Friday night",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-22T00:07:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316971058.html",
+        "mention_text": "Piedmont",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-08-28T18:19:04.028420+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2803933,
+          40.1541581
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316901753.html",
+        "title": "Flood advisory issued for Cumberland County early Sunday evening due to excessive downpours",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-16T19:53:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316901753.html",
+        "mention_text": "Cumberland County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cumberland County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417440,
+        "run_at": "2026-08-28T18:19:04.028420+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316969497.html",
+        "title": "UPDATE: Flood advisory in place for the Piedmont region Friday evening",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-21T21:39:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316969497.html",
+        "mention_text": "Piedmont",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-08-28T18:19:04.028420+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316966714.html",
+        "title": "Flood advisory affecting the Piedmont region until early Friday evening",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-21T18:10:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316966714.html",
+        "mention_text": "Piedmont",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-08-28T18:19:04.028420+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-08-27T17:25:58.190403+00:00",
-    "total_features": 4003
+    "last_updated": "2026-08-28T18:19:04.047856+00:00",
+    "total_features": 4032
   }
 }
