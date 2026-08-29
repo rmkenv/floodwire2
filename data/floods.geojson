@@ -104832,11 +104832,323 @@
         "osm_id": 2999176,
         "run_at": "2026-08-28T18:19:04.028420+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4951405,
+          29.4246002
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tpr.org/news/2026-08-28/flash-flood-warning-in-effect-for-san-antonio-area-until-12-15-a-m-as-severe-storms-sweep-through",
+        "title": "Flash flood warning in effect for San Antonio area until 12:15 a.m. as severe storms sweep through",
+        "source": "Texas Public Radio | TPR",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-29T02:35:00Z",
+        "url": "https://www.tpr.org/news/2026-08-28/flash-flood-warning-in-effect-for-san-antonio-area-until-12-15-a-m-as-severe-storms-sweep-through",
+        "mention_text": "San Antonio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Antonio, Bexar County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 253556,
+        "run_at": "2026-08-29T12:23:37.646553+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.186346,
+          37.3592837
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wric.com/weather/severe-weather/central-virginia-flash-flood-warning-aug28/",
+        "title": "Flash flood warning issued in Central Virginia localities",
+        "source": "WRIC ABC 8News",
+        "outlet_city": "Richmond",
+        "outlet_region": "Virginia",
+        "published_at": "2026-08-28T23:30:44Z",
+        "url": "https://www.wric.com/weather/severe-weather/central-virginia-flash-flood-warning-aug28/",
+        "mention_text": "Central Virginia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central Virginia Community College, 3506, Wards Road, Lynchburg, Virginia, 24502, United States",
+        "osm_type": "college",
+        "osm_id": 117607560,
+        "run_at": "2026-08-29T12:23:37.646553+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4951405,
+          29.4246002
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kens5.com/article/weather/severe-weather/san-antonio-texas-storms-outage-map-severe-weather-flood/273-bb263391-a63c-455a-9674-bb2a587c6149",
+        "title": "Flash Flood Warning expires for San Antonio, but more than 90,000 still without power early Saturday morning",
+        "source": "kens5.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-29T02:14:00Z",
+        "url": "https://www.kens5.com/article/weather/severe-weather/san-antonio-texas-storms-outage-map-severe-weather-flood/273-bb263391-a63c-455a-9674-bb2a587c6149",
+        "mention_text": "San Antonio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Antonio, Bexar County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 253556,
+        "run_at": "2026-08-29T12:23:37.646553+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4951405,
+          29.4246002
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kens5.com/video/weather/100000-without-power-as-storms-roll-through-san-antonio-flash-flood-warning-in-effect/273-e64af193-a4ac-4259-8c68-54f5bd24b4c8",
+        "title": "100,000+ without power as storms roll through San Antonio, Flash Flood Warning in effect",
+        "source": "kens5.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-29T03:15:00Z",
+        "url": "https://www.kens5.com/video/weather/100000-without-power-as-storms-roll-through-san-antonio-flash-flood-warning-in-effect/273-e64af193-a4ac-4259-8c68-54f5bd24b4c8",
+        "mention_text": "San Antonio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Antonio, Bexar County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 253556,
+        "run_at": "2026-08-29T12:23:37.646553+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4951405,
+          29.4246002
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/storms-san-antonio-flash-flood-020654959.html",
+        "title": "Storms in San Antonio: Flash Flood Warning in effect, tens of thousands without power on Friday night",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-29T02:06:00Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/storms-san-antonio-flash-flood-020654959.html",
+        "mention_text": "San Antonio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Antonio, Bexar County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 253556,
+        "run_at": "2026-08-29T12:23:37.646553+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.audacy.com/1010wins/news/weather/flood-watch-issued-for-nyc-area-as-storms-threaten-inches-of-rain-thursday",
+        "title": "Flash Flood Warning in effect for NYC, with inches of rain possible amid wettest August in years",
+        "source": "Audacy",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-27T13:58:00Z",
+        "url": "https://www.audacy.com/1010wins/news/weather/flood-watch-issued-for-nyc-area-as-storms-threaten-inches-of-rain-thursday",
+        "mention_text": "NYC",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-08-29T12:23:37.646553+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9588587,
+          30.3031353
+        ]
+      },
+      "properties": {
+        "article_id": "http://www.abc-7.com/article/flood-advisory-august-28-fort-myers-lehigh-lee/73557705",
+        "title": "Flood advisory for Lee County on Aug. 28",
+        "source": "Gulf Coast News and Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-29T00:00:42Z",
+        "url": "http://www.abc-7.com/article/flood-advisory-august-28-fort-myers-lehigh-lee/73557705",
+        "mention_text": "Lee County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Lee County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837662,
+        "run_at": "2026-08-29T12:23:37.646553+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3343041,
+          33.4392245
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317035564.html",
+        "title": "Flood advisory issued for Georgetown County Thursday evening, says the NWS",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-27T20:18:10Z",
+        "url": "https://www.thestate.com/news/weather-news/article317035564.html",
+        "mention_text": "Georgetown County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Georgetown County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532508,
+        "run_at": "2026-08-29T12:23:37.646553+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.3609662,
+          35.0078434
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317055401.html",
+        "title": "UPDATE: The current flood advisory for Sampson County will be expiring at 7:15 a.m.",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-29T11:30:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317055401.html",
+        "mention_text": "Sampson County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Sampson County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528742,
+        "run_at": "2026-08-29T12:23:37.646553+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article317051181.html",
+        "title": "UPDATE: The current flood advisory for the Piedmont region will expire at 11:15 p.m.",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-29T03:38:11Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article317051181.html",
+        "mention_text": "Piedmont",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-08-29T12:23:37.646553+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5970308,
+          35.4804633
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317053217.html",
+        "title": "UPDATE: The flood advisory for Eastern North Carolina is likely to expire at 11:30 p.m.",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-29T03:53:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317053217.html",
+        "mention_text": "Eastern North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Eastern Correctional Institution, 2821, NC 903, Maury, Greene County, North Carolina, 28554, United States",
+        "osm_type": "prison",
+        "osm_id": 1353026405,
+        "run_at": "2026-08-29T12:23:37.646553+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0395522,
+          39.4535243
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article317017469.html",
+        "title": "UPDATE: Flood advisory previously issued for Berkeley County will expire at 1:45 p.m.",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-26T18:06:04Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article317017469.html",
+        "mention_text": "Berkeley County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Berkeley County, West Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 1149480,
+        "run_at": "2026-08-29T12:23:37.646553+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-08-28T18:19:04.047856+00:00",
-    "total_features": 4032
+    "last_updated": "2026-08-29T12:23:37.666510+00:00",
+    "total_features": 4044
   }
 }
