@@ -105144,11 +105144,635 @@
         "osm_id": 1149480,
         "run_at": "2026-08-29T12:23:37.646553+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4508165,
+          33.7876673
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.koat.com/article/new-mexico-flash-flood-warning-lincoln-county-ruidoso-downs/73560748",
+        "title": "A Flash Flood warning has been issued for Lincoln County",
+        "source": "KOAT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-29T22:28:00Z",
+        "url": "https://www.koat.com/article/new-mexico-flash-flood-warning-lincoln-county-ruidoso-downs/73560748",
+        "mention_text": "Lincoln County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lincoln County, Georgia, 30817, United States",
+        "osm_type": "administrative",
+        "osm_id": 448085,
+        "run_at": "2026-08-30T11:22:50.060415+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://gephardtdaily.com/local/severe-thunderstorm-warnings-flash-flood-warnings-issued-for-central-southern-utah/",
+        "title": "Severe thunderstorm warnings, flash flood warnings issued for central, southern Utah",
+        "source": "Gephardt Daily",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-29T23:15:00Z",
+        "url": "https://gephardtdaily.com/local/severe-thunderstorm-warnings-flash-flood-warnings-issued-for-central-southern-utah/",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-08-30T11:22:50.060415+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.974847,
+          32.2228765
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeY6y8ZLd9EKaRVgPJZKV",
+        "title": "Tucson NWS Extends Flash Flood Warning to 11:15 PM in Pima County Amid Heavy Rain",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-30T03:58:05Z",
+        "url": "https://www.forth.news/stories/CeY6y8ZLd9EKaRVgPJZKV",
+        "mention_text": "Tucson",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tucson, Pima County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 253824,
+        "run_at": "2026-08-30T11:22:50.060415+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6546163,
+          32.1112624
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeYB9DYyMfSHLeMDuGyuh",
+        "title": "Flash Flood Warning in Pima County Ends; Watch Continues into Monday",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-30T02:53:07Z",
+        "url": "https://www.forth.news/stories/CeYB9DYyMfSHLeMDuGyuh",
+        "mention_text": "Pima County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pima County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832206,
+        "run_at": "2026-08-30T11:22:50.060415+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9786474,
+          32.2187137
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeY38gUFqP21Jyk63jV9g",
+        "title": "Flash Flood Warning Extended Until 10:45 PM MST in South Central Pima County, Arizona",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-30T02:49:00Z",
+        "url": "https://www.forth.news/stories/CeY38gUFqP21Jyk63jV9g",
+        "mention_text": "South Central Pima County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South Central Avenue, Tucson, Pima County, Arizona, 85701, United States",
+        "osm_type": "unclassified",
+        "osm_id": 34635475,
+        "run_at": "2026-08-30T11:22:50.060415+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeY38gUFqP21Jyk63jV9g",
+        "title": "Flash Flood Warning Extended Until 10:45 PM MST in South Central Pima County, Arizona",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-30T02:49:00Z",
+        "url": "https://www.forth.news/stories/CeY38gUFqP21Jyk63jV9g",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-08-30T11:22:50.060415+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4248315,
+          41.923434
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeY53J2yjwKpiq2koago7",
+        "title": "Flash Flood Warning Lifts in Kane County; Flood Watch Remains Through Monday",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-30T01:33:06Z",
+        "url": "https://www.forth.news/stories/CeY53J2yjwKpiq2koago7",
+        "mention_text": "Kane County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kane County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1383784,
+        "run_at": "2026-08-30T11:22:50.060415+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeXwpJHB4rWhNLhaN3ycu",
+        "title": "Flash Flood Warning in Utah\u2019s Kane and San Juan Counties Remains in Effect Until 8:45 PM MDT",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-30T01:58:04Z",
+        "url": "https://www.forth.news/stories/CeXwpJHB4rWhNLhaN3ycu",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-08-30T11:22:50.060415+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.05344,
+          18.384239
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeXwpJHB4rWhNLhaN3ycu",
+        "title": "Flash Flood Warning in Utah\u2019s Kane and San Juan Counties Remains in Effect Until 8:45 PM MDT",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-30T01:58:04Z",
+        "url": "https://www.forth.news/stories/CeXwpJHB4rWhNLhaN3ycu",
+        "mention_text": "San Juan",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Juan, Puerto Rico, United States",
+        "osm_type": "administrative",
+        "osm_id": 4468264,
+        "run_at": "2026-08-30T11:22:50.060415+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4508165,
+          33.7876673
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeXnKKjeEkSSW66T52XJ1",
+        "title": "Life\u2011Threatening Flash Flood Warning Issued for South Fork Burn Scar, Lincoln County, NM",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-29T22:58:08Z",
+        "url": "https://www.forth.news/stories/CeXnKKjeEkSSW66T52XJ1",
+        "mention_text": "Lincoln County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lincoln County, Georgia, 30817, United States",
+        "osm_type": "administrative",
+        "osm_id": 448085,
+        "run_at": "2026-08-30T11:22:50.060415+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.3609662,
+          35.0078434
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317059070.html",
+        "title": "UPDATE: The current flash flood warning for Sampson County will expire at 5:30 p.m.",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-29T21:38:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317059070.html",
+        "mention_text": "Sampson County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Sampson County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528742,
+        "run_at": "2026-08-30T11:22:50.060415+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6948197,
+          35.9363252
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeY1Gapvc2uedFQuM86YN",
+        "title": "Flash Flood Warning for Paria River Slot Canyon in Coconino County, Arizona",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-30T00:43:05Z",
+        "url": "https://www.forth.news/stories/CeY1Gapvc2uedFQuM86YN",
+        "mention_text": "Coconino County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Coconino County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832185,
+        "run_at": "2026-08-30T11:22:50.060415+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeY1Gapvc2uedFQuM86YN",
+        "title": "Flash Flood Warning for Paria River Slot Canyon in Coconino County, Arizona",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-30T00:43:05Z",
+        "url": "https://www.forth.news/stories/CeY1Gapvc2uedFQuM86YN",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-08-30T11:22:50.060415+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azcentral.com/story/news/local/arizona-weather/2026/08/29/weather-alert/91531149007/",
+        "title": "50 people evacuated from Grand Canyon after flash flood, weather service says",
+        "source": "azcentral.com and The Arizona Republic",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-30T04:08:00Z",
+        "url": "https://www.azcentral.com/story/news/local/arizona-weather/2026/08/29/weather-alert/91531149007/",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-08-30T11:22:50.060415+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3864339,
+          34.4014089
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317059037.html",
+        "title": "UPDATE: Flood advisory for Dillon County Saturday evening triggered by persistent rain",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-29T20:15:06Z",
+        "url": "https://www.thestate.com/news/weather-news/article317059037.html",
+        "mention_text": "Dillon County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Dillon County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532504,
+        "run_at": "2026-08-30T11:22:50.060415+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2797719,
+          33.8795325
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317059157.html",
+        "title": "UPDATE: Flood advisory in place for McCormick County Saturday evening, says the NWS",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-29T20:17:08Z",
+        "url": "https://www.thestate.com/news/weather-news/article317059157.html",
+        "mention_text": "McCormick County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "McCormick County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532517,
+        "run_at": "2026-08-30T11:22:50.060415+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.666593,
+          34.2814497
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317060352.html",
+        "title": "UPDATE: The flood advisory for Columbus County is likely to expire at 8 p.m.",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-29T21:39:24Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317060352.html",
+        "mention_text": "Columbus County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Columbus County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528689,
+        "run_at": "2026-08-30T11:22:50.060415+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317055316.html",
+        "title": "UPDATE: The current flood advisory for Charleston County will be expiring at 6:45 a.m.",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-29T11:09:07Z",
+        "url": "https://www.thestate.com/news/weather-news/article317055316.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-08-30T11:22:50.060415+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.272863,
+          37.8708393
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article317034938.html",
+        "title": "Berkeley and Charleston counties under a flood advisory early Thursday evening",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-27T19:38:10Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article317034938.html",
+        "mention_text": "Berkeley",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Berkeley, Alameda County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 2833528,
+        "run_at": "2026-08-30T11:22:50.060415+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9399309,
+          32.7884363
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article317034938.html",
+        "title": "Berkeley and Charleston counties under a flood advisory early Thursday evening",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-27T19:38:10Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article317034938.html",
+        "mention_text": "Charleston",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston, Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 194119,
+        "run_at": "2026-08-30T11:22:50.060415+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article317055316.html",
+        "title": "Flood advisory for Charleston County Saturday morning due to excessive rainfall",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-29T10:19:07Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article317055316.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-08-30T11:22:50.060415+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0395522,
+          39.4535243
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317017469.html",
+        "title": "UPDATE: Flood advisory previously issued for Berkeley County will expire at 1:45 p.m.",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-26T18:06:04Z",
+        "url": "https://www.thestate.com/news/weather-news/article317017469.html",
+        "mention_text": "Berkeley County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Berkeley County, West Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 1149480,
+        "run_at": "2026-08-30T11:22:50.060415+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0212848,
+          44.9331884
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316968715.html",
+        "title": "UPDATE: Flood advisory issued for Southeast Coast Saturday morning triggered by heavy rain",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-22T12:50:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316968715.html",
+        "mention_text": "Southeast Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oregon Coast Highway, Taft, Lincoln City, Lincoln County, Oregon, 97367, United States",
+        "osm_type": "trunk",
+        "osm_id": 119208836,
+        "run_at": "2026-08-30T11:22:50.060415+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8756362,
+          32.735281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wsfa.com/2026/08/16/two-homes-reportedly-swept-away-hurricane-lala-triggers-flash-flood-emergency-hawaii-island/",
+        "title": "Two homes reportedly swept away as Hurricane Lala triggers flash flood emergency in Hawaii Island",
+        "source": "WSFA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-16T07:00:00Z",
+        "url": "https://www.wsfa.com/2026/08/16/two-homes-reportedly-swept-away-hurricane-lala-triggers-flash-flood-emergency-hawaii-island/",
+        "mention_text": "Hawaii Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii Island, Tallapoosa County, Alabama, United States",
+        "osm_type": "island",
+        "osm_id": 1265920066,
+        "run_at": "2026-08-30T11:22:50.060415+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-08-29T12:23:37.666510+00:00",
-    "total_features": 4044
+    "last_updated": "2026-08-30T11:22:50.080684+00:00",
+    "total_features": 4068
   }
 }
