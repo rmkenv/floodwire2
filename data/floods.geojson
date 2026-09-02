@@ -107484,11 +107484,791 @@
         "osm_id": 1265920066,
         "run_at": "2026-09-01T11:07:47.695221+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.facebook.com/NBC6SouthFlorida/videos/dramatic-video-shows-a-rockslide-and-flash-flood-sending-muddy-water-cascading-t/28440993525538048/",
+        "title": "Dramatic video shows a rockslide and flash flood sending muddy water cascading through Zion National Park in Utah. #utah #flood #zionnationalpark",
+        "source": "facebook.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-02T01:32:47Z",
+        "url": "https://www.facebook.com/NBC6SouthFlorida/videos/dramatic-video-shows-a-rockslide-and-flash-flood-sending-muddy-water-cascading-t/28440993525538048/",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-09-02T10:40:59.447801+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.12news.com/article/news/local/arizona/search-for-missing-hiker-swept-away-in-flash-flood-continues-grand-canyon/75-642c6ad8-20e1-4246-8763-ae272750caec",
+        "title": "Search for missing hiker swept away in flash flood continues at Grand Canyon",
+        "source": "12News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-02T02:56:00Z",
+        "url": "https://www.12news.com/article/news/local/arizona/search-for-missing-hiker-swept-away-in-flash-flood-continues-grand-canyon/75-642c6ad8-20e1-4246-8763-ae272750caec",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-02T10:40:59.447801+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3570554,
+          41.7824617
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CedzxnnXZPd7KykJ3AFmh",
+        "title": "NWS Lifts Flash Flood Warning in Central Kane County After Heavy Rain Subsides",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-02T04:42:15Z",
+        "url": "https://www.forth.news/stories/CedzxnnXZPd7KykJ3AFmh",
+        "mention_text": "Central Kane County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Aurora Central Catholic High School, 1255, North Edgelawn Drive, Aurora, Aurora Township, Kane County, Illinois, 60504, United States",
+        "osm_type": "school",
+        "osm_id": 682491783,
+        "run_at": "2026-09-02T10:40:59.447801+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://kutv.com/news/local/one-person-remains-missing-after-grand-canyon-flash-flood",
+        "title": "One person remains missing after Grand Canyon flash flood",
+        "source": "KUTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-01T20:03:27Z",
+        "url": "https://kutv.com/news/local/one-person-remains-missing-after-grand-canyon-flash-flood",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-02T10:40:59.447801+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kvoa.com/news/arizona/nps-recovers-bodies-of-two-texas-men-after-flash-flood-in-grand-canyon/article_6f16684f-805d-4e33-a4ce-10aa8658ad80.html",
+        "title": "NPS recovers bodies of two Texas men after flash flood in Grand Canyon",
+        "source": "KVOA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-01T23:01:50Z",
+        "url": "https://www.kvoa.com/news/arizona/nps-recovers-bodies-of-two-texas-men-after-flash-flood-in-grand-canyon/article_6f16684f-805d-4e33-a4ce-10aa8658ad80.html",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-09-02T10:40:59.447801+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kvoa.com/news/arizona/nps-recovers-bodies-of-two-texas-men-after-flash-flood-in-grand-canyon/article_6f16684f-805d-4e33-a4ce-10aa8658ad80.html",
+        "title": "NPS recovers bodies of two Texas men after flash flood in Grand Canyon",
+        "source": "KVOA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-01T23:01:50Z",
+        "url": "https://www.kvoa.com/news/arizona/nps-recovers-bodies-of-two-texas-men-after-flash-flood-in-grand-canyon/article_6f16684f-805d-4e33-a4ce-10aa8658ad80.html",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-02T10:40:59.447801+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1704496,
+          29.834772
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CedTgzq2DfoWSFm1xHqbp",
+        "title": "Severe Flash Flood Warning in Jefferson County, Texas, Continues Amid Heavy Rainfall",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-01T21:54:30Z",
+        "url": "https://www.forth.news/stories/CedTgzq2DfoWSFm1xHqbp",
+        "mention_text": "Jefferson County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Jefferson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1841074,
+        "run_at": "2026-09-02T10:40:59.447801+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CedTgzq2DfoWSFm1xHqbp",
+        "title": "Severe Flash Flood Warning in Jefferson County, Texas, Continues Amid Heavy Rainfall",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-01T21:54:30Z",
+        "url": "https://www.forth.news/stories/CedTgzq2DfoWSFm1xHqbp",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-09-02T10:40:59.447801+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://ruralradio.com/kneb-fm/abc_news/searchers-to-use-cadaver-dogs-in-grand-canyon-following-deadly-flash-flood-abcida29d82d1/",
+        "title": "Searchers to use cadaver dogs in Grand Canyon following deadly flash flood",
+        "source": "Rural Radio Network",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-01T21:01:52Z",
+        "url": "https://ruralradio.com/kneb-fm/abc_news/searchers-to-use-cadaver-dogs-in-grand-canyon-following-deadly-flash-flood-abcida29d82d1/",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-02T10:40:59.447801+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pbs.org/newshour/nation/1-dead-and-several-missing-or-unaccounted-for-after-grand-canyon-flash-flood-park-service-says",
+        "title": "2 dead and 15 missing after Grand Canyon flash flood, park service says",
+        "source": "PBS",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-31T11:28:26Z",
+        "url": "https://www.pbs.org/newshour/nation/1-dead-and-several-missing-or-unaccounted-for-after-grand-canyon-flash-flood-park-service-says",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-02T10:40:59.447801+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://abc7news.com/post/grand-canyon-flooding-flash-flood-hits-bright-angel-creek-leading-colorado-river-forcing-phantom-ranch-evacuation/19765991/",
+        "title": "1 dead, several 'missing or unaccounted for' in Grand Canyon after flash flood: Officials",
+        "source": "ABC7 Bay Area",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-31T02:02:22Z",
+        "url": "https://abc7news.com/post/grand-canyon-flooding-flash-flood-hits-bright-angel-creek-leading-colorado-river-forcing-phantom-ranch-evacuation/19765991/",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-02T10:40:59.447801+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://bakersfieldnow.com/news/nation-world/flash-flood-threat-stretches-across-southwest-after-2-die-at-grand-canyon-utah-rescue-operations-national-weather-service-arizona-heavy-rain-thunderstorms-colorado-river-crystal-rapids-recovery-efforts",
+        "title": "2 dead, 1 missing after Grand Canyon flash flood as Utah faces more storms",
+        "source": "KBAK",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-01T12:41:52Z",
+        "url": "https://bakersfieldnow.com/news/nation-world/flash-flood-threat-stretches-across-southwest-after-2-die-at-grand-canyon-utah-rescue-operations-national-weather-service-arizona-heavy-rain-thunderstorms-colorado-river-crystal-rapids-recovery-efforts",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-02T10:40:59.447801+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://bakersfieldnow.com/news/nation-world/flash-flood-threat-stretches-across-southwest-after-2-die-at-grand-canyon-utah-rescue-operations-national-weather-service-arizona-heavy-rain-thunderstorms-colorado-river-crystal-rapids-recovery-efforts",
+        "title": "2 dead, 1 missing after Grand Canyon flash flood as Utah faces more storms",
+        "source": "KBAK",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-01T12:41:52Z",
+        "url": "https://bakersfieldnow.com/news/nation-world/flash-flood-threat-stretches-across-southwest-after-2-die-at-grand-canyon-utah-rescue-operations-national-weather-service-arizona-heavy-rain-thunderstorms-colorado-river-crystal-rapids-recovery-efforts",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-09-02T10:40:59.447801+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://abc7ny.com/post/grand-canyon-braces-more-storms-deadly-flash-flood-15-people-missing/19769062/",
+        "title": "Grand Canyon flooding: Family identifies Texas man among those killed in flash flood as rescuers search for missing",
+        "source": "ABC7 New York",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-31T21:51:37Z",
+        "url": "https://abc7ny.com/post/grand-canyon-braces-more-storms-deadly-flash-flood-15-people-missing/19769062/",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-02T10:40:59.447801+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://abc7ny.com/post/grand-canyon-braces-more-storms-deadly-flash-flood-15-people-missing/19769062/",
+        "title": "Grand Canyon flooding: Family identifies Texas man among those killed in flash flood as rescuers search for missing",
+        "source": "ABC7 New York",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-31T21:51:37Z",
+        "url": "https://abc7ny.com/post/grand-canyon-braces-more-storms-deadly-flash-flood-15-people-missing/19769062/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-09-02T10:40:59.447801+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.286643,
+          36.3937347
+        ]
+      },
+      "properties": {
+        "article_id": "https://dailydispatch.com/fire-news/colorado/crews-battle-gold-mountain-fire-while-monitoring-flash-flood-risk-on-burn-scar/",
+        "title": "Crews battle Gold Mountain Fire while monitoring flash flood risk on burn scar",
+        "source": "dailydispatch.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-01T13:17:30Z",
+        "url": "https://dailydispatch.com/fire-news/colorado/crews-battle-gold-mountain-fire-while-monitoring-flash-flood-risk-on-burn-scar/",
+        "mention_text": "Gold Mountain Fire",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Aspen Gold Plaza, 3379, Mountain View Boulevard, Agua Fria, Angel Fire, Colfax County, New Mexico, 87710, United States",
+        "osm_type": "commercial",
+        "osm_id": 851106802,
+        "run_at": "2026-09-02T10:40:59.447801+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/grand-canyon-flash-flood-evacuations-bright-angel-creek/73563756",
+        "title": "More storms possible at Grand Canyon where a flash flood killed 2 people and left 15 missing",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-31T16:51:00Z",
+        "url": "https://www.wdsu.com/article/grand-canyon-flash-flood-evacuations-bright-angel-creek/73563756",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-02T10:40:59.447801+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theguardian.com/us-news/2026/aug/31/grand-canyon-storms-flash-flood",
+        "title": "Two people dead and nearly 80 rescued after Grand Canyon flash flood",
+        "source": "The Guardian",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-31T12:03:00Z",
+        "url": "https://www.theguardian.com/us-news/2026/aug/31/grand-canyon-storms-flash-flood",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-02T10:40:59.447801+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kens5.com/video/weather/severe-weather/tropical-storm-edouard-takes-aim-at-texas-coast-as-flash-flood-threat-grows/273-44edac36-edcc-46d0-afe2-2cb03f912f2e",
+        "title": "Tropical Storm Edouard takes aim at Texas coast as flash flood threat grows",
+        "source": "kens5.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-01T17:45:00Z",
+        "url": "https://www.kens5.com/video/weather/severe-weather/tropical-storm-edouard-takes-aim-at-texas-coast-as-flash-flood-threat-grows/273-44edac36-edcc-46d0-afe2-2cb03f912f2e",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-09-02T10:40:59.447801+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nxsmediawire.com/news/grand-canyon-flash-flood-leaves-1-dead-several-missing/",
+        "title": "More storms possible after Grand Canyon flash flood that killed at least 2",
+        "source": "nxsmediawire.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-31T10:02:21Z",
+        "url": "https://www.nxsmediawire.com/news/grand-canyon-flash-flood-leaves-1-dead-several-missing/",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-02T10:40:59.447801+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.12onyourside.com/2026/08/31/more-storms-possible-grand-canyon-where-flash-flood-killed-least-2-people-about-15-still-missing/",
+        "title": "More storms possible at Grand Canyon where flash flood killed at least 2 people, about 15 still missing",
+        "source": "12onyourside.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-31T18:37:00Z",
+        "url": "https://www.12onyourside.com/2026/08/31/more-storms-possible-grand-canyon-where-flash-flood-killed-least-2-people-about-15-still-missing/",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-02T10:40:59.447801+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cnbc.com/2026/08/31/grand-canyon-deadly-flash-flood.html",
+        "title": "More storms possible at Grand Canyon where a flash flood killed 1 person and left 15 missing",
+        "source": "CNBC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-31T11:28:32Z",
+        "url": "https://www.cnbc.com/2026/08/31/grand-canyon-deadly-flash-flood.html",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-02T10:40:59.447801+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.centraloregondaily.com/news/nation-world/two-dead-one-missing-after-deadly-grand-canyon-flash-flood/video_ad54eaef-0525-59a0-a0c5-16c20495e9a1.html",
+        "title": "Two dead, one missing after deadly Grand Canyon flash flood",
+        "source": "Central Oregon Daily",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-01T14:02:05Z",
+        "url": "https://www.centraloregondaily.com/news/nation-world/two-dead-one-missing-after-deadly-grand-canyon-flash-flood/video_ad54eaef-0525-59a0-a0c5-16c20495e9a1.html",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-02T10:40:59.447801+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.jhnewsandguide.com/jackson_hole_daily/state_and_regional/more-storms-possible-at-grand-canyon-where-a-flash-flood-killed-at-least-2-people/article_09b68b56-f30f-5739-8b92-e44bd2bfa8df.html",
+        "title": "More storms possible at Grand Canyon where a flash flood killed at least 2 people, others missing",
+        "source": "JHNewsAndGuide.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-01T06:00:00Z",
+        "url": "https://www.jhnewsandguide.com/jackson_hole_daily/state_and_regional/more-storms-possible-at-grand-canyon-where-a-flash-flood-killed-at-least-2-people/article_09b68b56-f30f-5739-8b92-e44bd2bfa8df.html",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-02T10:40:59.447801+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.3595666,
+          33.0305487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317095948.html",
+        "title": "Flood advisory affecting Imperial County Tuesday night due to intense rainfall",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-02T01:45:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317095948.html",
+        "mention_text": "Imperial County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Imperial County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396515,
+        "run_at": "2026-09-02T10:40:59.447801+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5970308,
+          35.4804633
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article317066697.html",
+        "title": "Flood advisory issued for Eastern North Carolina Sunday evening, says the NWS",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-30T20:37:08Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article317066697.html",
+        "mention_text": "Eastern North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Eastern Correctional Institution, 2821, NC 903, Maury, Greene County, North Carolina, 28554, United States",
+        "osm_type": "prison",
+        "osm_id": 1353026405,
+        "run_at": "2026-09-02T10:40:59.447801+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdhn.com/news/survivor-describes-grand-canyon-flash-flood-evacuation-helicopter-rescue/",
+        "title": "Survivor describes Grand Canyon flash flood evacuation, helicopter rescue",
+        "source": "WDHN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-01T12:37:16Z",
+        "url": "https://www.wdhn.com/news/survivor-describes-grand-canyon-flash-flood-evacuation-helicopter-rescue/",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-02T10:40:59.447801+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7342163,
+          41.6500201
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flood-advisory-effect-lower-half-144207138.html",
+        "title": "Flood advisory in effect for lower half of Connecticut amid Sunday showers, weather service says",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-23T07:00:00Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flood-advisory-effect-lower-half-144207138.html",
+        "mention_text": "Connecticut",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Connecticut, United States",
+        "osm_type": "administrative",
+        "osm_id": 165794,
+        "run_at": "2026-09-02T10:40:59.447801+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0779359,
+          34.4458248
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article316844999.html",
+        "title": "Flood advisory for Ventura County Tuesday afternoon due to prolonged rain",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-11T20:04:09Z",
+        "url": "https://www.modbee.com/news/weather-news/article316844999.html",
+        "mention_text": "Ventura County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ventura County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396505,
+        "run_at": "2026-09-02T10:40:59.447801+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4309327,
+          37.7867337
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article316836422.html",
+        "title": "Coastal flood advisory in place for Northern California until 2 a.m. Thursday",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-11T05:34:07Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article316836422.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Japanese Cultural and Community Center of Northern California, 1840, Sutter Street, Japantown, Western Addition, San Francisco, California, 95115, United States",
+        "osm_type": "community_centre",
+        "osm_id": 257974849,
+        "run_at": "2026-09-02T10:40:59.447801+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-09-01T11:07:47.717501+00:00",
-    "total_features": 4134
+    "last_updated": "2026-09-02T10:40:59.468554+00:00",
+    "total_features": 4164
   }
 }
