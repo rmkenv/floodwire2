@@ -108264,11 +108264,973 @@
         "osm_id": 257974849,
         "run_at": "2026-09-02T10:40:59.447801+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3750862,
+          42.2359045
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/09/steuben-county-placed-under-a-flash-flood-warning-until-1-a-m-thursday-triggered-by-thunderstorms.html",
+        "title": "Steuben County placed under a flash flood warning until 1 a.m. Thursday triggered by thunderstorms",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T02:22:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/09/steuben-county-placed-under-a-flash-flood-warning-until-1-a-m-thursday-triggered-by-thunderstorms.html",
+        "mention_text": "Steuben County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Steuben County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837996,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.403904,
+          30.3049642
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cefpa73a7mWtDsbAQEiWr",
+        "title": "Flash Flood Warning Issued for Hardin County, Texas Amid Heavy Rain",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T03:50:08Z",
+        "url": "https://www.forth.news/stories/Cefpa73a7mWtDsbAQEiWr",
+        "mention_text": "Hardin County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hardin County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1841176,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cefpa73a7mWtDsbAQEiWr",
+        "title": "Flash Flood Warning Issued for Hardin County, Texas Amid Heavy Rain",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T03:50:08Z",
+        "url": "https://www.forth.news/stories/Cefpa73a7mWtDsbAQEiWr",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kold.com/video/2026/09/03/heavy-rain-flash-flood-risk-return-southern-arizona-through-labor-day-2/",
+        "title": "Heavy rain and flash flood risk return to southern Arizona through Labor Day",
+        "source": "KOLD",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T05:31:00Z",
+        "url": "https://www.kold.com/video/2026/09/03/heavy-rain-flash-flood-risk-return-southern-arizona-through-labor-day-2/",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.737257,
+          43.9792797
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kgw.com/article/weather/severe-weather/oregon-preschool-teacher-survives-deadly-flash-flood-grand-canyon/283-bebd51ca-3a64-47ee-98a7-af56fa32cbcf",
+        "title": "Oregon preschool teacher survives deadly flash flood in Grand Canyon",
+        "source": "KGW",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T00:22:00Z",
+        "url": "https://www.kgw.com/article/weather/severe-weather/oregon-preschool-teacher-survives-deadly-flash-flood-grand-canyon/283-bebd51ca-3a64-47ee-98a7-af56fa32cbcf",
+        "mention_text": "Oregon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Oregon, United States",
+        "osm_type": "administrative",
+        "osm_id": 165476,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kgw.com/article/weather/severe-weather/oregon-preschool-teacher-survives-deadly-flash-flood-grand-canyon/283-bebd51ca-3a64-47ee-98a7-af56fa32cbcf",
+        "title": "Oregon preschool teacher survives deadly flash flood in Grand Canyon",
+        "source": "KGW",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T00:22:00Z",
+        "url": "https://www.kgw.com/article/weather/severe-weather/oregon-preschool-teacher-survives-deadly-flash-flood-grand-canyon/283-bebd51ca-3a64-47ee-98a7-af56fa32cbcf",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcnews.com/video/shorts/edouard-triggers-flash-flood-emergency-in-parts-of-texas-269252165690",
+        "title": "Edouard triggers flash flood emergency in parts of Texas",
+        "source": "NBC News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T00:50:49Z",
+        "url": "https://www.nbcnews.com/video/shorts/edouard-triggers-flash-flood-emergency-in-parts-of-texas-269252165690",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.292896,
+          36.3078548
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.abc4.com/arizona/pictures-destruction-bright-angel-flash-flood-grand-canyon/",
+        "title": "Pictures show destruction caused by Bright Angel flash flood at Grand Canyon NP, community meeting held",
+        "source": "ABC4 Utah",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-02T19:32:14Z",
+        "url": "https://www.abc4.com/arizona/pictures-destruction-bright-angel-flash-flood-grand-canyon/",
+        "mention_text": "Grand Canyon NP",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon National Park, Arizona, 86023, United States",
+        "osm_type": "nature_reserve",
+        "osm_id": 183377,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kold.com/video/2026/09/03/heavy-rain-flash-flood-risk-return-southern-arizona-through-labor-day/",
+        "title": "Heavy rain and flash flood risk return to southern Arizona through Labor Day",
+        "source": "KOLD",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T00:47:18Z",
+        "url": "https://www.kold.com/video/2026/09/03/heavy-rain-flash-flood-risk-return-southern-arizona-through-labor-day/",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7856262,
+          30.0856736
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cefzt7eiD2EhSrThTa1zU",
+        "title": "Flood Warning Issued for Liberty County, TX Until 7 AM CDT After Heavy Rainfall",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T03:05:00Z",
+        "url": "https://www.forth.news/stories/Cefzt7eiD2EhSrThTa1zU",
+        "mention_text": "Liberty County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Liberty County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1560411,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcnews.com/news/us-news/rep-david-schweikert-describes-surviving-deadly-grand-canyon-flash-flo-rcna595625",
+        "title": "Arizona congressman heard \u2018freight train crash\u2019 sound during Grand Canyon flash flood",
+        "source": "NBC News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-02T15:26:14Z",
+        "url": "https://www.nbcnews.com/news/us-news/rep-david-schweikert-describes-surviving-deadly-grand-canyon-flash-flo-rcna595625",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcnews.com/news/us-news/rep-david-schweikert-describes-surviving-deadly-grand-canyon-flash-flo-rcna595625",
+        "title": "Arizona congressman heard \u2018freight train crash\u2019 sound during Grand Canyon flash flood",
+        "source": "NBC News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-02T15:26:14Z",
+        "url": "https://www.nbcnews.com/news/us-news/rep-david-schweikert-describes-surviving-deadly-grand-canyon-flash-flo-rcna595625",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.deseret.com/environment/2026/09/02/nps-identifies-hikers-killed-in-grand-canyon-flooding/",
+        "title": "NPS identifies 2 hikers found dead after Grand Canyon flash flood",
+        "source": "Deseret News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-02T16:32:11Z",
+        "url": "https://www.deseret.com/environment/2026/09/02/nps-identifies-hikers-killed-in-grand-canyon-flooding/",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8805728,
+          33.1038897
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.12newsnow.com/article/weather/hurricane/tropical-depression-edouard-brings-flash-flood-threat-to-southeast-texas/502-18d2eb53-7033-4cb3-8fbb-780cde224305",
+        "title": "Tropical Depression Edouard brings flash flood threat to Southeast Texas, Piney Woods",
+        "source": "12newsnow.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-02T15:51:00Z",
+        "url": "https://www.12newsnow.com/article/weather/hurricane/tropical-depression-edouard-brings-flash-flood-threat-to-southeast-texas/502-18d2eb53-7033-4cb3-8fbb-780cde224305",
+        "mention_text": "Southeast Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Northeast Texas Community College, Southeast 14, Titus County, Texas, 75456, United States",
+        "osm_type": "college",
+        "osm_id": 15656498,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.403904,
+          30.3049642
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Ceei8s3pJJqp3uycTRMmX",
+        "title": "Severe Flash Flood Warning in Hardin, Jasper, Tyler Counties; Roads Still Flooded",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-02T16:46:08Z",
+        "url": "https://www.forth.news/stories/Ceei8s3pJJqp3uycTRMmX",
+        "mention_text": "Hardin",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hardin County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1841176,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.000884,
+          30.7485258
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Ceei8s3pJJqp3uycTRMmX",
+        "title": "Severe Flash Flood Warning in Hardin, Jasper, Tyler Counties; Roads Still Flooded",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-02T16:46:08Z",
+        "url": "https://www.forth.news/stories/Ceei8s3pJJqp3uycTRMmX",
+        "mention_text": "Jasper",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Jasper County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1840994,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.403904,
+          30.3049642
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CeeqmucwkQvpJut4AHTNu",
+        "title": "US 69 Southbound Lanes Closed in Hardin County as Flash Flood Emergency Hits Kountze and Nearby Towns",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-02T15:26:30Z",
+        "url": "https://www.forth.news/stories/CeeqmucwkQvpJut4AHTNu",
+        "mention_text": "Hardin County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hardin County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1841176,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox21news.com/news/survivor-describes-grand-canyon-flash-flood-evacuation-helicopter-rescue/",
+        "title": "Survivor describes Grand Canyon flash flood evacuation, helicopter rescue",
+        "source": "fox21news.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-01T12:37:19Z",
+        "url": "https://www.fox21news.com/news/survivor-describes-grand-canyon-flash-flood-evacuation-helicopter-rescue/",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2654692,
+          44.9772995
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcnews.com/nightly-news-netcast/video/nbc-nightly-news-full-episode-sept-2-269254725530",
+        "title": "Sept. 2: Officers shot In Minneapolis; Flash flood emergency",
+        "source": "NBC News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T01:43:58Z",
+        "url": "https://www.nbcnews.com/nightly-news-netcast/video/nbc-nightly-news-full-episode-sept-2-269254725530",
+        "mention_text": "Minneapolis",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Minneapolis, Hennepin County, Minnesota, United States",
+        "osm_type": "administrative",
+        "osm_id": 136712,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://abc7.com/post/grand-canyon-braces-more-storms-deadly-flash-flood-15-people-missing/19769062/",
+        "title": "Grand Canyon flooding: Family identifies Texas man among those killed in flash flood as rescuers search for missing",
+        "source": "ABC7 Los Angeles",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-31T22:19:45Z",
+        "url": "https://abc7.com/post/grand-canyon-braces-more-storms-deadly-flash-flood-15-people-missing/19769062/",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://abc7.com/post/grand-canyon-braces-more-storms-deadly-flash-flood-15-people-missing/19769062/",
+        "title": "Grand Canyon flooding: Family identifies Texas man among those killed in flash flood as rescuers search for missing",
+        "source": "ABC7 Los Angeles",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-31T22:19:45Z",
+        "url": "https://abc7.com/post/grand-canyon-braces-more-storms-deadly-flash-flood-15-people-missing/19769062/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.3595666,
+          33.0305487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article317096214.html",
+        "title": "Flash flood warning active for Imperial County Tuesday night - high damage threat",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-02T02:35:07Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article317096214.html",
+        "mention_text": "Imperial County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Imperial County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396515,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/flash-flood-threat-rises-risk-002304878.html",
+        "title": "Flash flood threat rises with risk of more heavy rain in Texas",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T00:23:00Z",
+        "url": "https://www.yahoo.com/news/videos/flash-flood-threat-rises-risk-002304878.html",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.403904,
+          30.3049642
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.khou.com/video/weather/flash-flood-emergency-hardin-county/285-8e865548-975e-4da8-90d5-20af0f4baff6",
+        "title": "Flash Flood Emergency issued for parts of Hardin County",
+        "source": "KHOU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-02T12:26:00Z",
+        "url": "https://www.khou.com/video/weather/flash-flood-emergency-hardin-county/285-8e865548-975e-4da8-90d5-20af0f4baff6",
+        "mention_text": "Hardin County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hardin County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1841176,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.3595666,
+          33.0305487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article317096214.html",
+        "title": "Flash flood warning active for Imperial County Tuesday night - high damage threat",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-02T02:35:07Z",
+        "url": "https://www.modbee.com/news/weather-news/article317096214.html",
+        "mention_text": "Imperial County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Imperial County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396515,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://ktla.com/news/nationworld/grand-canyon-flash-flood-leaves-1-dead-several-missing/",
+        "title": "More storms possible after Grand Canyon flash flood that killed at least 2",
+        "source": "KTLA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-31T11:14:16Z",
+        "url": "https://ktla.com/news/nationworld/grand-canyon-flash-flood-leaves-1-dead-several-missing/",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.live5news.com/2026/08/31/more-storms-possible-grand-canyon-where-flash-flood-killed-least-2-people-about-15-still-missing/",
+        "title": "More storms possible at Grand Canyon where flash flood killed at least 2 people, about 15 still missing",
+        "source": "Live 5 News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-31T18:37:00Z",
+        "url": "https://www.live5news.com/2026/08/31/more-storms-possible-grand-canyon-where-flash-flood-killed-least-2-people-about-15-still-missing/",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://kstp.com/ap-top-news/ap-top-news-us-headlines/more-storms-possible-at-grand-canyon-where-a-flash-flood-killed-at-least-2-people-others-missing/",
+        "title": "More storms possible at Grand Canyon where a flash flood killed at least 2 people, others missing",
+        "source": "5 EYEWITNESS NEWS",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-31T16:10:10Z",
+        "url": "https://kstp.com/ap-top-news/ap-top-news-us-headlines/more-storms-possible-at-grand-canyon-where-a-flash-flood-killed-at-least-2-people-others-missing/",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4494174,
+          26.6279798
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbs12.com/news/local/flood-advisory-for-palm-beach-county-until-11-pm",
+        "title": "Flood Advisory for Palm Beach County until midnight",
+        "source": "WPEC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T03:49:02Z",
+        "url": "https://cbs12.com/news/local/flood-advisory-for-palm-beach-county-until-11-pm",
+        "mention_text": "Palm Beach County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Palm Beach County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210748,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kten.com/weather/national-weather/flood-emergency-in-texas-as-edouard-dumps-over-20-inches-of-rain-and-counting/article_50c1f976-39c2-5ac9-8c76-824bdc4fa46f.html",
+        "title": "Flood emergency in Texas as Edouard dumps over 20 inches of rain and counting",
+        "source": "kten.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-02T12:44:42Z",
+        "url": "https://www.kten.com/weather/national-weather/flood-emergency-in-texas-as-edouard-dumps-over-20-inches-of-rain-and-counting/article_50c1f976-39c2-5ac9-8c76-824bdc4fa46f.html",
+        "mention_text": "Texas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8805728,
+          33.1038897
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/tropical-depression-edouard-soaks-southeast-texas",
+        "title": "Over 40K without power as remnants of Edouard prompts Flash Flood Emergency in Southeast Texas",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-02T10:28:00Z",
+        "url": "https://www.foxweather.com/weather-news/tropical-depression-edouard-soaks-southeast-texas",
+        "mention_text": "Southeast Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Northeast Texas Community College, Southeast 14, Titus County, Texas, 75456, United States",
+        "osm_type": "college",
+        "osm_id": 15656498,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8756362,
+          32.735281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wndu.com/2026/08/16/two-homes-reportedly-swept-away-hurricane-lala-triggers-flash-flood-emergency-hawaii-island/",
+        "title": "Two homes reportedly swept away as Hurricane Lala triggers flash flood emergency in Hawaii Island",
+        "source": "WNDU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-16T07:00:00Z",
+        "url": "https://www.wndu.com/2026/08/16/two-homes-reportedly-swept-away-hurricane-lala-triggers-flash-flood-emergency-hawaii-island/",
+        "mention_text": "Hawaii Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii Island, Tallapoosa County, Alabama, United States",
+        "osm_type": "island",
+        "osm_id": 1265920066,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7888515,
+          36.0875688
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article316822704.html",
+        "title": "Flood advisory for Guilford County Sunday night due to significant rain",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-09T07:00:00Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article316822704.html",
+        "mention_text": "Guilford County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Guilford County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528705,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.820246,
+          41.139981
+        ]
+      },
+      "properties": {
+        "article_id": "https://panhandle.newschannelnebraska.com/story/356517483/flood-advisory-issued-for-cheyenne-kimball-banner-morrill-counties",
+        "title": "Flood advisory issued for Cheyenne, Kimball, Banner, Morrill counties",
+        "source": "Panhandle News Channel Nebraska",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-22T03:04:44Z",
+        "url": "https://panhandle.newschannelnebraska.com/story/356517483/flood-advisory-issued-for-cheyenne-kimball-banner-morrill-counties",
+        "mention_text": "Cheyenne",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cheyenne, Laramie County, Wyoming, United States",
+        "osm_type": "administrative",
+        "osm_id": 252208,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.komu.com/news/nationworld/flash-flood-emergency-issued-in-southern-texas-around-camp-mystic-area/article_2c6a56f1-3de6-58fe-93cc-3274ddd63ddd.html",
+        "title": "Flash flood emergency issued in southern Texas around Camp Mystic area",
+        "source": "KOMU 8",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T07:00:00Z",
+        "url": "https://www.komu.com/news/nationworld/flash-flood-emergency-issued-in-southern-texas-around-camp-mystic-area/article_2c6a56f1-3de6-58fe-93cc-3274ddd63ddd.html",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3706164,
+          30.009346
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.komu.com/news/nationworld/flash-flood-emergency-issued-in-southern-texas-around-camp-mystic-area/article_2c6a56f1-3de6-58fe-93cc-3274ddd63ddd.html",
+        "title": "Flash flood emergency issued in southern Texas around Camp Mystic area",
+        "source": "KOMU 8",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T07:00:00Z",
+        "url": "https://www.komu.com/news/nationworld/flash-flood-emergency-issued-in-southern-texas-around-camp-mystic-area/article_2c6a56f1-3de6-58fe-93cc-3274ddd63ddd.html",
+        "mention_text": "Camp Mystic",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Camp Mystic Guadalupe River, 2689, State Highway 39, Hunt, Kerr County, Texas, 78024, United States",
+        "osm_type": "summer_camp",
+        "osm_id": 581009591,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9602376,
+          39.8455208
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article316807754.html",
+        "title": "UPDATE: The flood advisory for Macon County is forecast to expire at 7:30 p.m.",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-07T07:00:00Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article316807754.html",
+        "mention_text": "Macon County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Macon County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1800576,
+        "run_at": "2026-09-03T10:43:43.417407+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-09-02T10:40:59.468554+00:00",
-    "total_features": 4164
+    "last_updated": "2026-09-03T10:43:43.439386+00:00",
+    "total_features": 4201
   }
 }
