@@ -109226,11 +109226,1311 @@
         "osm_id": 1800576,
         "run_at": "2026-09-03T10:43:43.417407+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3648257,
+          41.2642925
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtae.com/article/pittsburgh-severe-weather-alert-day-storms-heat-humidity/73603302",
+        "title": "Flash flood warnings extended into early Friday morning in Western Pennsylvania",
+        "source": "WTAE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-04T05:22:38Z",
+        "url": "https://www.wtae.com/article/pittsburgh-severe-weather-alert-day-storms-heat-humidity/73603302",
+        "mention_text": "Western Pennsylvania",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pennsylvania Avenue, The Village of Western Reserve, Streetsboro, Portage County, Ohio, 44241, United States",
+        "osm_type": "residential",
+        "osm_id": 19216015,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2537434,
+          39.9562052
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CehKWCVWapt6Phm69xBdf",
+        "title": "Flash Flood Warning Remains Through Friday Morning in Southwestern Pennsylvania, Authorities Urge Drivers to Turn Around",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-04T03:52:04Z",
+        "url": "https://www.forth.news/stories/CehKWCVWapt6Phm69xBdf",
+        "mention_text": "Southwestern Pennsylvania",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Friends Southwestern Burial Ground, Stonehurst, Upper Darby, Delaware County, Pennsylvania, United States",
+        "osm_type": "cemetery",
+        "osm_id": 167102958,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8230266,
+          34.906701
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dvidshub.net/news/573882/mclb-barstow-firefighters-conduct-swift-water-rescue-yermo",
+        "title": "News - MCLB Barstow firefighters conduct swift-water rescue in Yermo",
+        "source": "DVIDS",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T14:26:00Z",
+        "url": "https://www.dvidshub.net/news/573882/mclb-barstow-firefighters-conduct-swift-water-rescue-yermo",
+        "mention_text": "Yermo",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Yermo, San Bernardino County, California, 92398, United States",
+        "osm_type": "census",
+        "osm_id": 18406418,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0025666,
+          40.4406968
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CehnaHo1VafrhL7Disi3K",
+        "title": "Pittsburgh Flash Flood Warning Ends as Heavy Rain Subsides",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-04T04:43:04Z",
+        "url": "https://www.forth.news/stories/CehnaHo1VafrhL7Disi3K",
+        "mention_text": "Pittsburgh",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pittsburgh, Allegheny County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 188553,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0025666,
+          40.4406968
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CehVR2vaJqEe1AX6ytez6",
+        "title": "Pittsburgh NWS Issues Flash Flood Warning for Fayette, Indiana, and Westmoreland Counties",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-04T01:02:07Z",
+        "url": "https://www.forth.news/stories/CehVR2vaJqEe1AX6ytez6",
+        "mention_text": "Pittsburgh",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pittsburgh, Allegheny County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 188553,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9559692,
+          29.8381635
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CehVR2vaJqEe1AX6ytez6",
+        "title": "Pittsburgh NWS Issues Flash Flood Warning for Fayette, Indiana, and Westmoreland Counties",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-04T01:02:07Z",
+        "url": "https://www.forth.news/stories/CehVR2vaJqEe1AX6ytez6",
+        "mention_text": "Fayette",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Fayette County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837665,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1746933,
+          40.3270127
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CehVR2vaJqEe1AX6ytez6",
+        "title": "Pittsburgh NWS Issues Flash Flood Warning for Fayette, Indiana, and Westmoreland Counties",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-04T01:02:07Z",
+        "url": "https://www.forth.news/stories/CehVR2vaJqEe1AX6ytez6",
+        "mention_text": "Indiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Indiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 161816,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1640198,
+          41.1241573
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wkyc.com/article/weather/weather-impact/severe-thunderstorm-warning-northeast-ohio-counties-wind-hail-storms-cleveland/95-daa414a3-9ae6-45bd-8661-88b641437bc0",
+        "title": "Flash Flood Warning in effect for several areas across Northeast Ohio",
+        "source": "WKYC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T18:59:00Z",
+        "url": "https://www.wkyc.com/article/weather/weather-impact/severe-thunderstorm-warning-northeast-ohio-counties-wind-hail-storms-cleveland/95-daa414a3-9ae6-45bd-8661-88b641437bc0",
+        "mention_text": "Northeast Ohio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ohio Avenue, Northeast Tiffin Historic District, Tiffin, Seneca County, Ohio, 44884, United States",
+        "osm_type": "residential",
+        "osm_id": 8794379,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/two-dead-one-missing-grand-233409058.html",
+        "title": "Two dead, one missing in Grand Canyon flash flood as emergency alerts aid rescues",
+        "source": "yahoo.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T23:34:09Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/two-dead-one-missing-grand-233409058.html",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kjzz.org/fronteras-desk/2026-09-03/flash-flood-damage-is-latest-blow-to-grand-canyon-tourism-after-wildfires",
+        "title": "Flash flood damage is latest blow to Grand Canyon tourism after wildfires",
+        "source": "KJZZ",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T12:09:00Z",
+        "url": "https://www.kjzz.org/fronteras-desk/2026-09-03/flash-flood-damage-is-latest-blow-to-grand-canyon-tourism-after-wildfires",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://ktar.com/arizona-news/grand-canyon-expands-trail-closures-flash-flood",
+        "title": "Grand Canyon expands inner canyon trail closures after destructive flash flood",
+        "source": "ktar.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T23:02:10Z",
+        "url": "https://ktar.com/arizona-news/grand-canyon-expands-trail-closures-flash-flood",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6884637,
+          44.4308975
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wisn.com/article/strong-storms-possible-on-thursday-in-southeast-wisconsin/73604103",
+        "title": "Flash flood warning canceled for parts of southeast Wisconsin",
+        "source": "WISN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T16:39:00Z",
+        "url": "https://www.wisn.com/article/strong-storms-possible-on-thursday-in-southeast-wisconsin/73604103",
+        "mention_text": "Wisconsin",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 165466,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1263909,
+          40.3451668
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.phillyburbs.com/story/weather/2026/09/03/weather-alert-bucks-county-montco-flood-watch/91590010007/",
+        "title": "Flood warning issued for Bucks County",
+        "source": "PhillyBurbs",
+        "outlet_city": "Philadelphia",
+        "outlet_region": "Pennsylvania",
+        "published_at": "2026-09-03T12:29:00Z",
+        "url": "https://www.phillyburbs.com/story/weather/2026/09/03/weather-alert-bucks-county-montco-flood-watch/91590010007/",
+        "mention_text": "Bucks County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Bucks County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417843,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4041622,
+          40.0757384
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warnings-issued-multiple-105019191.html",
+        "title": "Flash flood warnings issued with multiple rounds of thunderstorms in N.J. forecast today",
+        "source": "yahoo.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T18:45:59Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warnings-issued-multiple-105019191.html",
+        "mention_text": "N.J.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 224951,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9090751,
+          43.0386475
+        ]
+      },
+      "properties": {
+        "article_id": "https://wtmj.com/news/2026/09/03/update-flash-flood-warning-canceled-for-milwaukee-waukesha-ozaukee-and-washington-counties/",
+        "title": "UPDATE: Flash Flood Warning canceled for Milwaukee, Waukesha, Ozaukee and Washington counties",
+        "source": "WTMJ",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T14:27:04Z",
+        "url": "https://wtmj.com/news/2026/09/03/update-flash-flood-warning-canceled-for-milwaukee-waukesha-ozaukee-and-washington-counties/",
+        "mention_text": "Milwaukee",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Milwaukee, Milwaukee County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251075,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3123889,
+          43.0622536
+        ]
+      },
+      "properties": {
+        "article_id": "https://wtmj.com/news/2026/09/03/update-flash-flood-warning-canceled-for-milwaukee-waukesha-ozaukee-and-washington-counties/",
+        "title": "UPDATE: Flash Flood Warning canceled for Milwaukee, Waukesha, Ozaukee and Washington counties",
+        "source": "WTMJ",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T14:27:04Z",
+        "url": "https://wtmj.com/news/2026/09/03/update-flash-flood-warning-canceled-for-milwaukee-waukesha-ozaukee-and-washington-counties/",
+        "mention_text": "Waukesha",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Waukesha County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 270622,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9579748,
+          43.3569041
+        ]
+      },
+      "properties": {
+        "article_id": "https://wtmj.com/news/2026/09/03/update-flash-flood-warning-canceled-for-milwaukee-waukesha-ozaukee-and-washington-counties/",
+        "title": "UPDATE: Flash Flood Warning canceled for Milwaukee, Waukesha, Ozaukee and Washington counties",
+        "source": "WTMJ",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T14:27:04Z",
+        "url": "https://wtmj.com/news/2026/09/03/update-flash-flood-warning-canceled-for-milwaukee-waukesha-ozaukee-and-washington-counties/",
+        "mention_text": "Ozaukee",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ozaukee County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 1799452,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0363849,
+          38.8950982
+        ]
+      },
+      "properties": {
+        "article_id": "https://wtmj.com/news/2026/09/03/update-flash-flood-warning-canceled-for-milwaukee-waukesha-ozaukee-and-washington-counties/",
+        "title": "UPDATE: Flash Flood Warning canceled for Milwaukee, Waukesha, Ozaukee and Washington counties",
+        "source": "WTMJ",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T14:27:04Z",
+        "url": "https://wtmj.com/news/2026/09/03/update-flash-flood-warning-canceled-for-milwaukee-waukesha-ozaukee-and-washington-counties/",
+        "mention_text": "Washington",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Washington, District of Columbia, United States",
+        "osm_type": "city",
+        "osm_id": 5396194,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0240263,
+          43.055195
+        ]
+      },
+      "properties": {
+        "article_id": "https://elkhornmediagroup.com/pacific-low-pressure-system-bring-72-hour-flash-flood-risk-to-harney-county-burn-scars/",
+        "title": "Pacific low-pressure system bring 72-hour flash flood risk to Harney County burn scars",
+        "source": "Elkhorn Media Group",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T13:04:17Z",
+        "url": "https://elkhornmediagroup.com/pacific-low-pressure-system-bring-72-hour-flash-flood-risk-to-harney-county-burn-scars/",
+        "mention_text": "Harney County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Harney County, Oregon, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837114,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2062682,
+          33.9510011
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317119478.html",
+        "title": "Coastal flood advisory affecting Southern California from Saturday to Tuesday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T19:31:09Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317119478.html",
+        "mention_text": "Southern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Southern @ California, Southern Avenue, South Gate, Los Angeles County, California, 90280, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 11056179472,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6118311,
+          35.7979355
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317122333.html",
+        "title": "Flood advisory issued for Wake County until Thursday night, says the NWS",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T23:03:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317122333.html",
+        "mention_text": "Wake County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Wake County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528697,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6908566,
+          33.4657158
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ocregister.com/2026/09/03/coastal-flood-advisory-for-orange-county-coast-and-san-diego-county-coastal-areas-from-saturday-to-tuesday/",
+        "title": "Coastal flood advisory for Orange County Coast and San Diego County Coastal Areas from Saturday to Tuesday",
+        "source": "Orange County Register",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T20:37:40Z",
+        "url": "https://www.ocregister.com/2026/09/03/coastal-flood-advisory-for-orange-county-coast-and-san-diego-county-coastal-areas-from-saturday-to-tuesday/",
+        "mention_text": "Orange County Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Orange County Creamery, 34255, Pacific Coast Highway, Toovunga, South Cove, Dana Point, Orange County, California, 92629, United States",
+        "osm_type": "ice_cream",
+        "osm_id": 13327327772,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ocregister.com/2026/09/03/coastal-flood-advisory-for-orange-county-coast-and-san-diego-county-coastal-areas-from-saturday-to-tuesday/",
+        "title": "Coastal flood advisory for Orange County Coast and San Diego County Coastal Areas from Saturday to Tuesday",
+        "source": "Orange County Register",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T20:37:40Z",
+        "url": "https://www.ocregister.com/2026/09/03/coastal-flood-advisory-for-orange-county-coast-and-san-diego-county-coastal-areas-from-saturday-to-tuesday/",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6527477,
+          48.5158513
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theolympian.com/news/weather-news/article317116765.html",
+        "title": "UPDATE: The flood advisory for Okanogan County is forecast to expire at 11:30 a.m.",
+        "source": "The Olympian",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T18:45:12Z",
+        "url": "https://www.theolympian.com/news/weather-news/article317116765.html",
+        "mention_text": "Okanogan County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Okanogan County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153069,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whittierdailynews.com/2026/09/03/coastal-flood-advisory-affecting-los-angeles-county-beaches-from-saturday-to-tuesday/",
+        "title": "Coastal flood advisory affecting Los Angeles County beaches from Saturday to Tuesday",
+        "source": "Whittier Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-04T01:21:37Z",
+        "url": "https://www.whittierdailynews.com/2026/09/03/coastal-flood-advisory-affecting-los-angeles-county-beaches-from-saturday-to-tuesday/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.144155,
+          34.1476507
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.khou.com/video/weather/flood-advisory-issued-for-pasadena-pearland-friendswood-until-430-pm/285-6ea3618d-0355-4daf-a768-cae5813f6807",
+        "title": "Flood Advisory issued for Pasadena, Pearland, Friendswood until 4:30 p.m.",
+        "source": "KHOU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T21:03:00Z",
+        "url": "https://www.khou.com/video/weather/flood-advisory-issued-for-pasadena-pearland-friendswood-until-430-pm/285-6ea3618d-0355-4daf-a768-cae5813f6807",
+        "mention_text": "Pasadena",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Pasadena, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 3529725,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2864299,
+          29.5639758
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.khou.com/video/weather/flood-advisory-issued-for-pasadena-pearland-friendswood-until-430-pm/285-6ea3618d-0355-4daf-a768-cae5813f6807",
+        "title": "Flood Advisory issued for Pasadena, Pearland, Friendswood until 4:30 p.m.",
+        "source": "KHOU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T21:03:00Z",
+        "url": "https://www.khou.com/video/weather/flood-advisory-issued-for-pasadena-pearland-friendswood-until-430-pm/285-6ea3618d-0355-4daf-a768-cae5813f6807",
+        "mention_text": "Pearland",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Pearland, Brazoria County, Texas, 77581, United States",
+        "osm_type": "administrative",
+        "osm_id": 114546,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2010447,
+          29.5293998
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.khou.com/video/weather/flood-advisory-issued-for-pasadena-pearland-friendswood-until-430-pm/285-6ea3618d-0355-4daf-a768-cae5813f6807",
+        "title": "Flood Advisory issued for Pasadena, Pearland, Friendswood until 4:30 p.m.",
+        "source": "KHOU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T21:03:00Z",
+        "url": "https://www.khou.com/video/weather/flood-advisory-issued-for-pasadena-pearland-friendswood-until-430-pm/285-6ea3618d-0355-4daf-a768-cae5813f6807",
+        "mention_text": "Friendswood",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Friendswood, Galveston County, Texas, 77546, United States",
+        "osm_type": "administrative",
+        "osm_id": 1560522,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8038549,
+          38.9844774
+        ]
+      },
+      "properties": {
+        "article_id": "https://etvnews.com/articles/economy/emery-county-declares-flood-emergency-looks-toward-long-term-mitigation-projects/",
+        "title": "Emery County declares flood emergency, looks toward long-term mitigation projects",
+        "source": "ETV News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-04T10:26:29Z",
+        "url": "https://etvnews.com/articles/economy/emery-county-declares-flood-emergency-looks-toward-long-term-mitigation-projects/",
+        "mention_text": "Emery County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Emery County, Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 1744358,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0262043,
+          44.3308044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.manisteenews.com/news/article/manistee-county-flood-advisory-22416080.php",
+        "title": "Heavy rain prompts flood advisory in Manistee County",
+        "source": "Manistee News Advocate",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T16:30:54Z",
+        "url": "https://www.manisteenews.com/news/article/manistee-county-flood-advisory-22416080.php",
+        "mention_text": "Manistee County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Manistee County, Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 1907321,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6824346,
+          43.6211955
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.freep.com/story/weather/2026/09/03/flood-advisory-northern-michigan-storms-rainfall/91595334007/",
+        "title": "Flood advisory for northern Michigan. Where torrential rain is falling",
+        "source": "Detroit Free Press",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T17:56:00Z",
+        "url": "https://www.freep.com/story/weather/2026/09/03/flood-advisory-northern-michigan-storms-rainfall/91595334007/",
+        "mention_text": "Michigan",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Michigan, United States",
+        "osm_type": "administrative",
+        "osm_id": 165789,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317124617.html",
+        "title": "North Bay Interior Valleys under a coastal flood advisory Friday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-04T06:34:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317124617.html",
+        "mention_text": "North Bay",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcnews.com/nightly-news/video/edouard-triggers-flash-flood-emergency-in-texas-269244485770",
+        "title": "Edouard triggers flash flood emergency in Texas",
+        "source": "NBC News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-02T22:55:30Z",
+        "url": "https://www.nbcnews.com/nightly-news/video/edouard-triggers-flash-flood-emergency-in-texas-269244485770",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3010624,
+          32.3512601
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.khou.com/video/weather/flash-flood-emergency-issued-in-tyler-and-hardin-counties-northeast-of-beaumont-following-edouard/285-4ff4d427-ff7f-49d1-af8b-6d853eba3615",
+        "title": "Flash Flood Emergency issued in Tyler and Hardin counties, northeast of Beaumont following Edouard",
+        "source": "KHOU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-02T11:26:00Z",
+        "url": "https://www.khou.com/video/weather/flash-flood-emergency-issued-in-tyler-and-hardin-counties-northeast-of-beaumont-following-edouard/285-4ff4d427-ff7f-49d1-af8b-6d853eba3615",
+        "mention_text": "Tyler",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tyler, Smith County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 6603689,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.403904,
+          30.3049642
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.khou.com/video/weather/flash-flood-emergency-issued-in-tyler-and-hardin-counties-northeast-of-beaumont-following-edouard/285-4ff4d427-ff7f-49d1-af8b-6d853eba3615",
+        "title": "Flash Flood Emergency issued in Tyler and Hardin counties, northeast of Beaumont following Edouard",
+        "source": "KHOU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-02T11:26:00Z",
+        "url": "https://www.khou.com/video/weather/flash-flood-emergency-issued-in-tyler-and-hardin-counties-northeast-of-beaumont-following-edouard/285-4ff4d427-ff7f-49d1-af8b-6d853eba3615",
+        "mention_text": "Hardin",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hardin County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1841176,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0984277,
+          30.0829344
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.khou.com/video/weather/flash-flood-emergency-issued-in-tyler-and-hardin-counties-northeast-of-beaumont-following-edouard/285-4ff4d427-ff7f-49d1-af8b-6d853eba3615",
+        "title": "Flash Flood Emergency issued in Tyler and Hardin counties, northeast of Beaumont following Edouard",
+        "source": "KHOU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-02T11:26:00Z",
+        "url": "https://www.khou.com/video/weather/flash-flood-emergency-issued-in-tyler-and-hardin-counties-northeast-of-beaumont-following-edouard/285-4ff4d427-ff7f-49d1-af8b-6d853eba3615",
+        "mention_text": "Beaumont",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Beaumont, Jefferson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 8464621,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5627714,
+          34.627971
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317059612.html",
+        "title": "UPDATE: Flood advisory in place for Bladen County Saturday evening, says the NWS",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-29T21:20:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317059612.html",
+        "mention_text": "Bladen County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Bladen County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528676,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wxii12.com/article/tropical-depression-edouard-atlantic-gulf-flooding-texas/73589256",
+        "title": "\"Flash Flood Emergency\" issued for eastern Texas from Edouard",
+        "source": "WXII",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T03:26:00Z",
+        "url": "https://www.wxii12.com/article/tropical-depression-edouard-atlantic-gulf-flooding-texas/73589256",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.439675,
+          42.9680874
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wxii12.com/article/tropical-depression-edouard-atlantic-gulf-flooding-texas/73589256",
+        "title": "\"Flash Flood Emergency\" issued for eastern Texas from Edouard",
+        "source": "WXII",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T03:26:00Z",
+        "url": "https://www.wxii12.com/article/tropical-depression-edouard-atlantic-gulf-flooding-texas/73589256",
+        "mention_text": "Edouard",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Edouard Street, South End, Manchester, Hillsborough County, New Hampshire, 03103, United States",
+        "osm_type": "residential",
+        "osm_id": 5613170,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5970308,
+          35.4804633
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317056532.html",
+        "title": "Flood advisory issued for Eastern North Carolina Saturday midday caused by intense rainfall",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-29T13:26:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317056532.html",
+        "mention_text": "Eastern North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Eastern Correctional Institution, 2821, NC 903, Maury, Greene County, North Carolina, 28554, United States",
+        "osm_type": "prison",
+        "osm_id": 1353026405,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5627714,
+          34.627971
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317055451.html",
+        "title": "Flood advisory issued for Bladen and Robeson counties Saturday morning",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-29T10:48:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317055451.html",
+        "mention_text": "Bladen",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Bladen County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528676,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/edouard-prompts-flash-flood-emergency-183207261.html",
+        "title": "Edouard prompts flash flood emergency in southeastern Texas",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-02T18:32:07Z",
+        "url": "https://www.yahoo.com/news/videos/edouard-prompts-flash-flood-emergency-183207261.html",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0785945,
+          40.9745493
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317053668.html",
+        "title": "UPDATE: Union County placed under a flood advisory until 2 a.m. Saturday",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-29T05:07:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317053668.html",
+        "mention_text": "Union County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Union County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 416655,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/young-man-rides-tube-during-004011154.html",
+        "title": "Young man rides tube during Texas flash flood emergency",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T00:40:00Z",
+        "url": "https://www.yahoo.com/news/videos/young-man-rides-tube-during-004011154.html",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modernghana.com/videonews/nbc/1/710592",
+        "title": "Edouard triggers flash flood emergency in Texas",
+        "source": "Modern Ghana",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-02T23:37:35Z",
+        "url": "https://www.modernghana.com/videonews/nbc/1/710592",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317040043.html",
+        "title": "Flood advisory in place for North Carolina until 2 a.m. Friday due to intense rain",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-28T03:33:30Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317040043.html",
+        "mention_text": "North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8756362,
+          32.735281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azfamily.com/2026/08/16/two-homes-reportedly-swept-away-hurricane-lala-triggers-flash-flood-emergency-hawaii-island/",
+        "title": "Two homes reportedly swept away as Hurricane Lala triggers flash flood emergency in Hawaii Island",
+        "source": "AZ Family",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-16T07:00:00Z",
+        "url": "https://www.azfamily.com/2026/08/16/two-homes-reportedly-swept-away-hurricane-lala-triggers-flash-flood-emergency-hawaii-island/",
+        "mention_text": "Hawaii Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii Island, Tallapoosa County, Alabama, United States",
+        "osm_type": "island",
+        "osm_id": 1265920066,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://abc7.com/story/flash-flood-emergency-occurring-same-texas-region-camp-mystic-tragedy/19519397/",
+        "title": "Flash flood emergency occurring in same Texas region as Camp Mystic tragedy",
+        "source": "ABC7 Los Angeles",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T07:00:00Z",
+        "url": "https://abc7.com/story/flash-flood-emergency-occurring-same-texas-region-camp-mystic-tragedy/19519397/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/videos/field-coverage/flash-flood-emergency-slows-traffic-in-texas/14cabf9c-14a0-414a-9466-00be7d1da8c5",
+        "title": "Flash flood emergency slows traffic in Texas",
+        "source": "AccuWeather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T13:35:45Z",
+        "url": "https://www.accuweather.com/en/videos/field-coverage/flash-flood-emergency-slows-traffic-in-texas/14cabf9c-14a0-414a-9466-00be7d1da8c5",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5984726,
+          30.7761604
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.msema.org/news/pearl-river-flood-emergency",
+        "title": "Pearl River Flood Emergency",
+        "source": "Mississippi Emergency Management Agency",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2020-02-13T08:00:00Z",
+        "url": "https://www.msema.org/news/pearl-river-flood-emergency",
+        "mention_text": "Pearl River",
+        "flood_type": "riverine",
+        "confidence": 0.75,
+        "osm_display": "Pearl River County, Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832972,
+        "run_at": "2026-09-04T10:38:25.788875+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-09-03T10:43:43.439386+00:00",
-    "total_features": 4201
+    "last_updated": "2026-09-04T10:38:25.809690+00:00",
+    "total_features": 4251
   }
 }
