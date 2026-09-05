@@ -110526,11 +110526,323 @@
         "osm_id": 1832972,
         "run_at": "2026-09-04T10:38:25.788875+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5984726,
+          30.7761604
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/flash-flood-warning-metro-3-inches-louisiana-weather-forecast/73614997",
+        "title": "A Flash flood warning stretches across Pearl River county, Mississippi until 1:45 pm",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-04T16:27:29Z",
+        "url": "https://www.wdsu.com/article/flash-flood-warning-metro-3-inches-louisiana-weather-forecast/73614997",
+        "mention_text": "Pearl River",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pearl River County, Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832972,
+        "run_at": "2026-09-05T09:59:55.396770+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7348497,
+          32.9715285
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/flash-flood-warning-metro-3-inches-louisiana-weather-forecast/73614997",
+        "title": "A Flash flood warning stretches across Pearl River county, Mississippi until 1:45 pm",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-04T16:27:29Z",
+        "url": "https://www.wdsu.com/article/flash-flood-warning-metro-3-inches-louisiana-weather-forecast/73614997",
+        "mention_text": "Mississippi",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 161943,
+        "run_at": "2026-09-05T09:59:55.396770+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.737257,
+          43.9792797
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kptv.com/2026/09/05/felt-like-lifetime-oregon-woman-caught-grand-canyon-flash-flood-recounts-harrowing-survival/",
+        "title": "\u2018Felt like a lifetime\u2019: Oregon woman caught in Grand Canyon flash flood recounts harrowing survival",
+        "source": "kptv.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-05T01:24:00Z",
+        "url": "https://www.kptv.com/2026/09/05/felt-like-lifetime-oregon-woman-caught-grand-canyon-flash-flood-recounts-harrowing-survival/",
+        "mention_text": "Oregon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Oregon, United States",
+        "osm_type": "administrative",
+        "osm_id": 165476,
+        "run_at": "2026-09-05T09:59:55.396770+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kptv.com/2026/09/05/felt-like-lifetime-oregon-woman-caught-grand-canyon-flash-flood-recounts-harrowing-survival/",
+        "title": "\u2018Felt like a lifetime\u2019: Oregon woman caught in Grand Canyon flash flood recounts harrowing survival",
+        "source": "kptv.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-05T01:24:00Z",
+        "url": "https://www.kptv.com/2026/09/05/felt-like-lifetime-oregon-woman-caught-grand-canyon-flash-flood-recounts-harrowing-survival/",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-05T09:59:55.396770+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CejY1csBXopTGmZUN3tVY",
+        "title": "Texas Flash Flood Warning Remains in Effect Through Saturday for Pecos and Terrell Counties",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-05T03:54:47Z",
+        "url": "https://www.forth.news/stories/CejY1csBXopTGmZUN3tVY",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-09-05T09:59:55.396770+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.facebook.com/washingtonpost/videos/a-flash-flood-in-the-grand-canyon-left-these-hikers-with-no-escape/1434142082246926/",
+        "title": "Hikers Jessica Buscher, her sister Melanie, and a friend were trapped in a narrow section of the Grand Canyon known as 'The Box' during a flash flood on August 29, 2024. The video documents their struggle as water rose, forcing them to abandon their gear fo",
+        "source": "facebook.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-04T23:30:05Z",
+        "url": "https://www.facebook.com/washingtonpost/videos/a-flash-flood-in-the-grand-canyon-left-these-hikers-with-no-escape/1434142082246926/",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-05T09:59:55.396770+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kjzz.org/fronteras-desk/2026-09-04/parts-of-2-popular-grand-canyon-trails-closed-after-flash-flood",
+        "title": "Parts of 2 popular Grand Canyon trails closed after flash flood",
+        "source": "KJZZ",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-04T18:28:00Z",
+        "url": "https://www.kjzz.org/fronteras-desk/2026-09-04/parts-of-2-popular-grand-canyon-trails-closed-after-flash-flood",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-05T09:59:55.396770+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.737257,
+          43.9792797
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kptv.com/video/2026/09/04/full-oregon-womans-story-escaping-grand-canyon-flash-flood/",
+        "title": "Full: Oregon woman's story of escaping Grand Canyon flash flood",
+        "source": "kptv.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-04T23:21:00Z",
+        "url": "https://www.kptv.com/video/2026/09/04/full-oregon-womans-story-escaping-grand-canyon-flash-flood/",
+        "mention_text": "Oregon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Oregon, United States",
+        "osm_type": "administrative",
+        "osm_id": 165476,
+        "run_at": "2026-09-05T09:59:55.396770+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kptv.com/video/2026/09/04/full-oregon-womans-story-escaping-grand-canyon-flash-flood/",
+        "title": "Full: Oregon woman's story of escaping Grand Canyon flash flood",
+        "source": "kptv.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-04T23:21:00Z",
+        "url": "https://www.kptv.com/video/2026/09/04/full-oregon-womans-story-escaping-grand-canyon-flash-flood/",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-05T09:59:55.396770+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2703886,
+          39.2096446
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kjzz.org/fronteras-desk/2026-09-04/hikers-who-were-in-the-grand-canyon-during-flash-flood-describe-the-storm",
+        "title": "Hikers who were in the Grand Canyon during flash flood describe the storm",
+        "source": "KJZZ",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-04T12:49:00Z",
+        "url": "https://www.kjzz.org/fronteras-desk/2026-09-04/hikers-who-were-in-the-grand-canyon-during-flash-flood-describe-the-storm",
+        "mention_text": "the Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Price Road, The Highlands, Miami Township, Clermont County, Ohio, 45147, United States",
+        "osm_type": "camp_site",
+        "osm_id": 12054477853,
+        "run_at": "2026-09-05T09:59:55.396770+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9370433,
+          43.7128967
+        ]
+      },
+      "properties": {
+        "article_id": "https://wtmj.com/weather/2026/09/04/flash-flood-warning-issued-for-sheboygan-county/",
+        "title": "Flash Flood Warning issued for Sheboygan County",
+        "source": "WTMJ",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-04T11:27:21Z",
+        "url": "https://wtmj.com/weather/2026/09/04/flash-flood-warning-issued-for-sheboygan-county/",
+        "mention_text": "Sheboygan County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Sheboygan County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 270625,
+        "run_at": "2026-09-05T09:59:55.396770+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1410774,
+          42.1823035
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/09/flash-flood-warning-issued-for-erie-county-until-thursday-night-caused-by-thunderstorms.html",
+        "title": "Flash flood warning issued for Erie County until Thursday night caused by thunderstorms",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T07:24:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/09/flash-flood-warning-issued-for-erie-county-until-thursday-night-caused-by-thunderstorms.html",
+        "mention_text": "Erie County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Erie County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 416693,
+        "run_at": "2026-09-05T09:59:55.396770+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-09-04T10:38:25.809690+00:00",
-    "total_features": 4251
+    "last_updated": "2026-09-05T09:59:55.419335+00:00",
+    "total_features": 4263
   }
 }
