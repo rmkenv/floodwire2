@@ -112112,11 +112112,531 @@
         "osm_id": 396479,
         "run_at": "2026-09-07T11:37:45.475959+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.4945109,
+          22.0557204
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.hawaiinewsnow.com/2026/09/07/first-alert-forecast-flash-flood-warning-kauai-county/",
+        "title": "First Alert Forecast: Flash Flood Warning for Kauai County",
+        "source": "Hawaii News Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-07T22:39:00Z",
+        "url": "https://www.hawaiinewsnow.com/2026/09/07/first-alert-forecast-flash-flood-warning-kauai-county/",
+        "mention_text": "Kauai County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kaua\u02bbi County, Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166560,
+        "run_at": "2026-09-08T10:38:59.586070+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9402274,
+          40.7920021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CepVrbUP9ZrfHLujkzbUq",
+        "title": "Flash Flood Warning in Vega Baja County Lifts as Heavy Rain Subsides",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-07T20:56:40Z",
+        "url": "https://www.forth.news/stories/CepVrbUP9ZrfHLujkzbUq",
+        "mention_text": "Vega Baja County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Neighbors Of Vega Baja, 318, Manhattan Community Board 11, Manhattan, New York County, New York, United States",
+        "osm_type": "garden",
+        "osm_id": 225189541,
+        "run_at": "2026-09-08T10:38:59.586070+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.4945109,
+          22.0557204
+        ]
+      },
+      "properties": {
+        "article_id": "https://kauainownews.com/2026/09/07/update-swells-from-lowell-karina-cause-surf-advisory-to-be-extended-through-tuesday-morning/",
+        "title": "Flash flood, high surf warning in effect for Kaua\u02bbi County",
+        "source": "Kauai Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-07T14:53:00Z",
+        "url": "https://kauainownews.com/2026/09/07/update-swells-from-lowell-karina-cause-surf-advisory-to-be-extended-through-tuesday-morning/",
+        "mention_text": "Kaua\u02bbi County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kaua\u02bbi County, Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166560,
+        "run_at": "2026-09-08T10:38:59.586070+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.827274,
+          33.1892387
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/severe-storms-dampen-labor-day-plans-northern-us",
+        "title": "Multiday severe storm and flash flood threat to sweep from Plains to East Coast",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-06T16:21:00Z",
+        "url": "https://www.foxweather.com/weather-news/severe-storms-dampen-labor-day-plans-northern-us",
+        "mention_text": "Plains",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Plains, Yoakum County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 13651774,
+        "run_at": "2026-09-08T10:38:59.586070+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3126651,
+          41.3806114
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/severe-storms-dampen-labor-day-plans-northern-us",
+        "title": "Multiday severe storm and flash flood threat to sweep from Plains to East Coast",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-06T16:21:00Z",
+        "url": "https://www.foxweather.com/weather-news/severe-storms-dampen-labor-day-plans-northern-us",
+        "mention_text": "East Coast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "East Coast, Town of Goshen, Orange County, New York, United States",
+        "osm_type": "garden",
+        "osm_id": 1107357381,
+        "run_at": "2026-09-08T10:38:59.586070+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CenL2qc3JCDFaHyYxDFkn",
+        "title": "Hawaii Issues Flash Flood Warning for Oahu as Statewide Flood Watch Continues",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-07T01:20:52Z",
+        "url": "https://www.forth.news/stories/CenL2qc3JCDFaHyYxDFkn",
+        "mention_text": "Hawaii",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-09-08T10:38:59.586070+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2062682,
+          33.9510011
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317159096.html",
+        "title": "UPDATE: Southern California under a coastal flood advisory until Tuesday night",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-08T02:26:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317159096.html",
+        "mention_text": "Southern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Southern @ California, Southern Avenue, South Gate, Los Angeles County, California, 90280, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 11056179472,
+        "run_at": "2026-09-08T10:38:59.586070+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whittierdailynews.com/2026/09/07/coastal-flood-advisory-in-place-for-los-angeles-county-beaches-until-tuesday-night/",
+        "title": "Coastal flood advisory in place for Los Angeles County beaches until Tuesday night",
+        "source": "Whittier Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-08T02:30:32Z",
+        "url": "https://www.whittierdailynews.com/2026/09/07/coastal-flood-advisory-in-place-for-los-angeles-county-beaches-until-tuesday-night/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-09-08T10:38:59.586070+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317157274.html",
+        "title": "Coastal flood advisory in place for Myrtle Beach area and Coastal Georgetown until Monday evening",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-07T17:49:07Z",
+        "url": "https://www.thestate.com/news/weather-news/article317157274.html",
+        "mention_text": "Myrtle Beach",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Myrtle Beach, Horry County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193842,
+        "run_at": "2026-09-08T10:38:59.586070+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3595655,
+          38.6898781
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317157274.html",
+        "title": "Coastal flood advisory in place for Myrtle Beach area and Coastal Georgetown until Monday evening",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-07T17:49:07Z",
+        "url": "https://www.thestate.com/news/weather-news/article317157274.html",
+        "mention_text": "Coastal Georgetown",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Delaware Coastal Airport, Aviation Avenue, Harlemtown, Georgetown, Sussex County, Delaware, 19947, United States",
+        "osm_type": "aerodrome",
+        "osm_id": 726617667,
+        "run_at": "2026-09-08T10:38:59.586070+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9399309,
+          32.7884363
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.postandcourier.com/news/coastal-flood-advisory-charleston-colleton/article_e029f49b-a5fd-4644-8867-e9fd7808515b.html",
+        "title": "Coastal flood advisory issued for Charleston, Colleton counties ahead of high tides",
+        "source": "postandcourier.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-07T18:10:00Z",
+        "url": "https://www.postandcourier.com/news/coastal-flood-advisory-charleston-colleton/article_e029f49b-a5fd-4644-8867-e9fd7808515b.html",
+        "mention_text": "Charleston",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston, Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 194119,
+        "run_at": "2026-09-08T10:38:59.586070+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.677114,
+          32.8620726
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.postandcourier.com/news/coastal-flood-advisory-charleston-colleton/article_e029f49b-a5fd-4644-8867-e9fd7808515b.html",
+        "title": "Coastal flood advisory issued for Charleston, Colleton counties ahead of high tides",
+        "source": "postandcourier.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-07T18:10:00Z",
+        "url": "https://www.postandcourier.com/news/coastal-flood-advisory-charleston-colleton/article_e029f49b-a5fd-4644-8867-e9fd7808515b.html",
+        "mention_text": "Colleton",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Colleton County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857001,
+        "run_at": "2026-09-08T10:38:59.586070+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6258199,
+          31.7819242
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317153543.html",
+        "title": "UPDATE: Flood advisory for Anderson County Monday morning due to heavy rain",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-07T13:06:07Z",
+        "url": "https://www.thestate.com/news/weather-news/article317153543.html",
+        "mention_text": "Anderson County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Anderson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839608,
+        "run_at": "2026-09-08T10:38:59.586070+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0482171,
+          35.6608869
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317153077.html",
+        "title": "UPDATE: Flood advisory issued for McDowell County until Monday morning",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-07T08:07:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317153077.html",
+        "mention_text": "McDowell County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "McDowell County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528721,
+        "run_at": "2026-09-08T10:38:59.586070+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9759066,
+          33.7635851
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317151598.html",
+        "title": "Flood advisory in place for Aiken and Edgefield counties Sunday night, says the NWS",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-06T23:50:07Z",
+        "url": "https://www.thestate.com/news/weather-news/article317151598.html",
+        "mention_text": "Edgefield",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Edgefield County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532505,
+        "run_at": "2026-09-08T10:38:59.586070+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8818627,
+          34.2751052
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article317150864.html",
+        "title": "UPDATE: New Hanover County placed under a flood advisory Sunday evening",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-06T21:56:07Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article317150864.html",
+        "mention_text": "New Hanover County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "New Hanover County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528727,
+        "run_at": "2026-09-08T10:38:59.586070+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.162772,
+          32.7174202
+        ]
+      },
+      "properties": {
+        "article_id": "https://eciks.org/25425-san-diego-weather-coastal-flood-advisory",
+        "title": "San Diego weather brings coastal flood advisory, high surf through Tuesday",
+        "source": "eciks.org",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-07T02:15:41Z",
+        "url": "https://eciks.org/25425-san-diego-weather-coastal-flood-advisory",
+        "mention_text": "San Diego",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego, San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 253832,
+        "run_at": "2026-09-08T10:38:59.586070+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3289302,
+          40.7451356
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317136311.html",
+        "title": "Flood advisory issued for Bertie and Northampton counties until Friday night",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-04T23:47:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317136311.html",
+        "mention_text": "Northampton",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Northampton County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417788,
+        "run_at": "2026-09-08T10:38:59.586070+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5669895,
+          34.3334398
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317039354.html",
+        "title": "Kershaw County under a flood advisory until early Friday triggered by intense rainfall",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-28T01:55:09Z",
+        "url": "https://www.thestate.com/news/weather-news/article317039354.html",
+        "mention_text": "Kershaw County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kershaw County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532511,
+        "run_at": "2026-09-08T10:38:59.586070+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.applevalleynewsnow.com/weather/flood-emergency-in-texas-as-edouard-dumps-over-20-inches-of-rain/article_e1164221-7fbe-5380-aea1-bace02a9c115.html",
+        "title": "Flood emergency in Texas as Edouard dumps over 20 inches of rain",
+        "source": "applevalleynewsnow.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-31T10:15:35Z",
+        "url": "https://www.applevalleynewsnow.com/weather/flood-emergency-in-texas-as-edouard-dumps-over-20-inches-of-rain/article_e1164221-7fbe-5380-aea1-bace02a9c115.html",
+        "mention_text": "Texas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-09-08T10:38:59.586070+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-09-07T11:37:45.497442+00:00",
-    "total_features": 4312
+    "last_updated": "2026-09-08T10:38:59.607561+00:00",
+    "total_features": 4332
   }
 }
