@@ -112632,11 +112632,635 @@
         "osm_id": 114690,
         "run_at": "2026-09-08T10:38:59.586070+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.797738,
+          26.3011415
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/downpours-rain-southeast-thunderstorms-gulf-flood-drought-florida",
+        "title": "Downpours to soak Gulf Coast this week, bringing flash flood threat to drought-ridden South",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-08T20:59:00Z",
+        "url": "https://www.foxweather.com/weather-news/downpours-rain-southeast-thunderstorms-gulf-flood-drought-florida",
+        "mention_text": "Gulf Coast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Gulf Coast, Collier County, Florida, 34110, United States",
+        "osm_type": "residential",
+        "osm_id": 10852694,
+        "run_at": "2026-09-09T10:50:51.385172+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1093343,
+          36.0591118
+        ]
+      },
+      "properties": {
+        "article_id": "https://ktar.com/arizona-water-news/water-restored-grand-canyons-south-rim-weeks-flash-flood",
+        "title": "Water expected to be restored to Grand Canyon\u2019s South Rim in weeks following flash flood",
+        "source": "KTAR News 92.3 FM",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-09T03:51:11Z",
+        "url": "https://ktar.com/arizona-water-news/water-restored-grand-canyons-south-rim-weeks-flash-flood",
+        "mention_text": "Grand Canyon\u2019s South Rim",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon Visitor Center (South Rim), 8, South Entrance Road, Grand Canyon Village, Coconino County, Arizona, 86023, United States",
+        "osm_type": "office",
+        "osm_id": 144432989,
+        "run_at": "2026-09-09T10:50:51.385172+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.4945109,
+          22.0557204
+        ]
+      },
+      "properties": {
+        "article_id": "https://kauainownews.com/2026/09/08/update-swells-from-lowell-karina-cause-surf-advisory-to-be-extended-through-tuesday-morning/",
+        "title": "Flash flood, high surf warning in effect for Kaua\u02bbi County",
+        "source": "Kauai Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-08T11:00:00Z",
+        "url": "https://kauainownews.com/2026/09/08/update-swells-from-lowell-karina-cause-surf-advisory-to-be-extended-through-tuesday-morning/",
+        "mention_text": "Kaua\u02bbi County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kaua\u02bbi County, Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166560,
+        "run_at": "2026-09-09T10:50:51.385172+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theguardian.com/us-news/2026/aug/31/grand-canyon-storms-flash-flood",
+        "title": "Two people dead and nearly 80 rescued after Grand Canyon flash flood | Arizona",
+        "source": "The Guardian",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-31T07:00:00Z",
+        "url": "https://www.theguardian.com/us-news/2026/aug/31/grand-canyon-storms-flash-flood",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-09-09T10:50:51.385172+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317168851.html",
+        "title": "Coastal flood advisory in place for Myrtle Beach area until Tuesday evening",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-08T18:52:13Z",
+        "url": "https://www.thestate.com/news/weather-news/article317168851.html",
+        "mention_text": "Myrtle Beach",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Myrtle Beach, Horry County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193842,
+        "run_at": "2026-09-09T10:50:51.385172+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3595655,
+          38.6898781
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article317168863.html",
+        "title": "Coastal flood advisory issued for Coastal Georgetown until Tuesday evening",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-08T18:52:18Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article317168863.html",
+        "mention_text": "Coastal Georgetown",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Delaware Coastal Airport, Baltimore Avenue, Saulsbury Switch, Georgetown, Sussex County, Delaware, 19947, United States",
+        "osm_type": "aerodrome",
+        "osm_id": 726617667,
+        "run_at": "2026-09-09T10:50:51.385172+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0372472,
+          33.7219991
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pressenterprise.com/2026/09/08/flood-advisory-issued-for-riverside-county-tuesday-evening-triggered-by-excessive-rainfall/",
+        "title": "Flood advisory issued for Riverside County Tuesday evening triggered by excessive rainfall",
+        "source": "pressenterprise.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-09T08:03:45Z",
+        "url": "https://www.pressenterprise.com/2026/09/08/flood-advisory-issued-for-riverside-county-tuesday-evening-triggered-by-excessive-rainfall/",
+        "mention_text": "Riverside County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Riverside County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396495,
+        "run_at": "2026-09-09T10:50:51.385172+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317173233.html",
+        "title": "UPDATE: San Diego County placed under a flood advisory Tuesday evening",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-09T01:34:08Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317173233.html",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-09-09T10:50:51.385172+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0372472,
+          33.7219991
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article317174101.html",
+        "title": "Flood advisory affecting Riverside County Tuesday evening caused by heavy rainfall",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-09T01:42:11Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article317174101.html",
+        "mention_text": "Riverside County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Riverside County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396495,
+        "run_at": "2026-09-09T10:50:51.385172+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sbsun.com/2026/09/08/flood-advisory-issued-for-san-bernardino-county-tuesday-evening-triggered-by-excessive-downpours/",
+        "title": "Flood advisory issued for San Bernardino County Tuesday evening triggered by excessive downpours",
+        "source": "San Bernardino Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-09T02:17:04Z",
+        "url": "https://www.sbsun.com/2026/09/08/flood-advisory-issued-for-san-bernardino-county-tuesday-evening-triggered-by-excessive-downpours/",
+        "mention_text": "San Bernardino County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-09-09T10:50:51.385172+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3595655,
+          38.6898781
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317168863.html",
+        "title": "Coastal flood advisory issued for Coastal Georgetown until Tuesday evening",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-08T18:52:18Z",
+        "url": "https://www.thestate.com/news/weather-news/article317168863.html",
+        "mention_text": "Coastal Georgetown",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Delaware Coastal Airport, Baltimore Avenue, Saulsbury Switch, Georgetown, Sussex County, Delaware, 19947, United States",
+        "osm_type": "aerodrome",
+        "osm_id": 726617667,
+        "run_at": "2026-09-09T10:50:51.385172+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4309327,
+          37.7867337
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317166152.html",
+        "title": "Northern California placed under a coastal flood advisory until 1 a.m. Thursday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-08T16:21:09Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317166152.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Japanese Cultural and Community Center of Northern California, 1840, Sutter Street, Japantown, Western Addition, San Francisco, California, 95115, United States",
+        "osm_type": "community_centre",
+        "osm_id": 257974849,
+        "run_at": "2026-09-09T10:50:51.385172+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4309327,
+          37.7867337
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/09/08/coastal-flood-advisory-for-northern-california-until-1-a-m-thursday/",
+        "title": "Coastal flood advisory for Northern California until 1 a.m. Thursday",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-08T16:06:48Z",
+        "url": "https://www.eastbaytimes.com/2026/09/08/coastal-flood-advisory-for-northern-california-until-1-a-m-thursday/",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Japanese Cultural and Community Center of Northern California, 1840, Sutter Street, Japantown, Western Addition, San Francisco, California, 95115, United States",
+        "osm_type": "community_centre",
+        "osm_id": 257974849,
+        "run_at": "2026-09-09T10:50:51.385172+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3488057,
+          27.9184543
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tampabay.com/news/weather/2026/09/08/flood-advisory-hillsborough-county-tuesday-afternoon-triggered-by-significant-rain/",
+        "title": "Flood advisory for Hillsborough County Tuesday afternoon triggered by significant rain",
+        "source": "Tampa Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-09T03:00:45Z",
+        "url": "https://www.tampabay.com/news/weather/2026/09/08/flood-advisory-hillsborough-county-tuesday-afternoon-triggered-by-significant-rain/",
+        "mention_text": "Hillsborough County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hillsborough County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210701,
+        "run_at": "2026-09-09T10:50:51.385172+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailybreeze.com/2026/09/07/coastal-flood-advisory-in-place-for-los-angeles-county-beaches-until-tuesday-night/",
+        "title": "Coastal flood advisory in place for Los Angeles County beaches until Tuesday night",
+        "source": "Daily Breeze",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-07T21:15:17Z",
+        "url": "https://www.dailybreeze.com/2026/09/07/coastal-flood-advisory-in-place-for-los-angeles-county-beaches-until-tuesday-night/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-09-09T10:50:51.385172+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7329309,
+          27.8778904
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flood-advisory-affecting-pinellas-county-190306678.html",
+        "title": "Flood advisory affecting Pinellas County early Tuesday evening, says the NWS",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-08T19:03:06Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flood-advisory-affecting-pinellas-county-190306678.html",
+        "mention_text": "Pinellas County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Pinellas County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210726,
+        "run_at": "2026-09-09T10:50:51.385172+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2062682,
+          33.9510011
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercedsunstar.com/news/weather-news/article317159096.html",
+        "title": "Southern California under a coastal flood advisory until Tuesday night",
+        "source": "Merced Sun-Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-07T21:36:07Z",
+        "url": "https://www.mercedsunstar.com/news/weather-news/article317159096.html",
+        "mention_text": "Southern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Southern @ California, Southern Avenue, South Gate, Los Angeles County, California, 90280, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 11056179472,
+        "run_at": "2026-09-09T10:50:51.385172+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2062682,
+          33.9510011
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article317159096.html",
+        "title": "Southern California under a coastal flood advisory until Tuesday night",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-07T21:36:07Z",
+        "url": "https://www.modbee.com/news/weather-news/article317159096.html",
+        "mention_text": "Southern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Southern @ California, Southern Avenue, South Gate, Los Angeles County, California, 90280, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 11056179472,
+        "run_at": "2026-09-09T10:50:51.385172+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0482171,
+          35.6608869
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article317153077.html",
+        "title": "Flood advisory in place for McDowell County until early Monday morning, says the NWS",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-07T06:59:06Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article317153077.html",
+        "mention_text": "McDowell County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "McDowell County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528721,
+        "run_at": "2026-09-09T10:50:51.385172+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article317150825.html",
+        "title": "UPDATE: The flood advisory for San Bernardino County is anticipated to expire at 7:15 p.m.",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-07T02:34:06Z",
+        "url": "https://www.modbee.com/news/weather-news/article317150825.html",
+        "mention_text": "San Bernardino County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-09-09T10:50:51.385172+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7385978,
+          33.7898432
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317152564.html",
+        "title": "Wilkes County under a flood advisory until 2 a.m. Monday due to prolonged downpours",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-07T03:15:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317152564.html",
+        "mention_text": "Wilkes County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Wilkes County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 1074323,
+        "run_at": "2026-09-09T10:50:51.385172+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3992505,
+          36.0702678
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317134444.html",
+        "title": "UPDATE: Flood advisory for Alamance County Friday evening, says the NWS",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-04T22:26:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317134444.html",
+        "mention_text": "Alamance County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Alamance County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528669,
+        "run_at": "2026-09-09T10:50:51.385172+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1191932,
+          39.9440874
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317134227.html",
+        "title": "Flood advisory in place for Camden and Pasquotank counties until Friday evening",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-04T20:46:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317134227.html",
+        "mention_text": "Camden",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Camden, Camden County, New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 170683,
+        "run_at": "2026-09-09T10:50:51.385172+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7888515,
+          36.0875688
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317135606.html",
+        "title": "Guilford County under a flood advisory Friday night due to substantial rain",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-04T22:38:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317135606.html",
+        "mention_text": "Guilford County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Guilford County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528705,
+        "run_at": "2026-09-09T10:50:51.385172+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-09-08T10:38:59.607561+00:00",
-    "total_features": 4332
+    "last_updated": "2026-09-09T10:50:51.402697+00:00",
+    "total_features": 4356
   }
 }
