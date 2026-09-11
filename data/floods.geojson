@@ -113906,11 +113906,401 @@
         "osm_id": 396479,
         "run_at": "2026-09-10T10:40:03.364379+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0693588,
+          29.9274234
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/new-orleans-flash-flood-warning-sept-10/73671935",
+        "title": "Flash Flood Warning in effect for parts of New Orleans Metro through evening commute hours",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-10T19:10:00Z",
+        "url": "https://www.wdsu.com/article/new-orleans-flash-flood-warning-sept-10/73671935",
+        "mention_text": "New Orleans Metro",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Metro by T-Mobile, 1891, Rousseau Street, Lower Garden District, Garden District, New Orleans, Orleans Parish, Louisiana, 70130, United States",
+        "osm_type": "mobile_phone",
+        "osm_id": 4753868738,
+        "run_at": "2026-09-11T10:40:46.417526+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9480324,
+          44.1710943
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/severe-weather/flash-flood-warning-parts-of-tangipahoa-livingston-and-st-helena-parishes-weather-rain/289-cd776afb-b9de-4701-9479-33856cf4a66f",
+        "title": "Flash Flood Warning: Parts of Jefferson, Orleans and Plaquemines parishes",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-10T17:18:00Z",
+        "url": "https://www.wwltv.com/article/weather/severe-weather/flash-flood-warning-parts-of-tangipahoa-livingston-and-st-helena-parishes-weather-rain/289-cd776afb-b9de-4701-9479-33856cf4a66f",
+        "mention_text": "Jefferson, Orleans",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Town of Orleans, Jefferson County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 13559339,
+        "run_at": "2026-09-11T10:40:46.417526+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thecooldown.com/outdoors/kittens-rescued-beaver-county-flood/",
+        "title": "Utah flash flood sweeps away 3 kittens, but rescuers find 'little balls of mud and ash'",
+        "source": "The Cool Down",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-11T06:07:00Z",
+        "url": "https://www.thecooldown.com/outdoors/kittens-rescued-beaver-county-flood/",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-09-11T10:40:46.417526+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2233284,
+          30.705029
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wvgazettemail.com/news/flash-flood-warning-replaced-with-flood-warning-for-mason-county-as-rainfall-continues/article_fb3a7921-6f20-4206-aa56-baa7a821a7a0.html",
+        "title": "Flash flood warning replaced with flood warning for Mason County as rainfall continues",
+        "source": "Charleston Gazette-Mail",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-10T13:03:00Z",
+        "url": "https://www.wvgazettemail.com/news/flash-flood-warning-replaced-with-flood-warning-for-mason-county-as-rainfall-continues/article_fb3a7921-6f20-4206-aa56-baa7a821a7a0.html",
+        "mention_text": "Mason County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mason County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1827124,
+        "run_at": "2026-09-11T10:40:46.417526+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2233284,
+          30.705029
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.herald-dispatch.com/news/flash-flood-warning-issued-for-mason-county-after-early-morning-rainfall/article_56e183be-5bcf-59f4-aedb-559cc8538611.html",
+        "title": "Flash flood warning replaced with flood warning for Mason County as rainfall continues",
+        "source": "herald-dispatch.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-10T13:03:00Z",
+        "url": "https://www.herald-dispatch.com/news/flash-flood-warning-issued-for-mason-county-after-early-morning-rainfall/article_56e183be-5bcf-59f4-aedb-559cc8538611.html",
+        "mention_text": "Mason County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mason County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1827124,
+        "run_at": "2026-09-11T10:40:46.417526+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.797738,
+          26.3011415
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/downpours-soak-gulf-coast-week-205904953.html",
+        "title": "Downpours to soak Gulf Coast this week, bringing flash flood threat to drought-ridden South",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-08T20:59:04Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/downpours-soak-gulf-coast-week-205904953.html",
+        "mention_text": "Gulf Coast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Gulf Coast, Collier County, Florida, 34110, United States",
+        "osm_type": "residential",
+        "osm_id": 10852694,
+        "run_at": "2026-09-11T10:40:46.417526+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0733934,
+          29.9561422
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nola.com/news/weather/rain-flooding-kenner-warning-jefferson/article_0808f1c0-2bc3-46e0-9ec9-4312492f0402.html",
+        "title": "New Orleans metro under flood advisories, flash flood warnings as thunderstorms hit area",
+        "source": "NOLA.com",
+        "outlet_city": "New Orleans",
+        "outlet_region": "Louisiana",
+        "published_at": "2026-09-10T12:10:00Z",
+        "url": "https://www.nola.com/news/weather/rain-flooding-kenner-warning-jefferson/article_0808f1c0-2bc3-46e0-9ec9-4312492f0402.html",
+        "mention_text": "New Orleans",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Orleans, Orleans Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 131885,
+        "run_at": "2026-09-11T10:40:46.417526+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4486983,
+          19.5895548
+        ]
+      },
+      "properties": {
+        "article_id": "https://bigislandnow.com/2026/09/10/flood-advisory-issued-east-southeast-portions-of-big-island/",
+        "title": "Flood advisory issued east, southeast portions of Big Island",
+        "source": "Big Island Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-11T02:15:27Z",
+        "url": "https://bigislandnow.com/2026/09/10/flood-advisory-issued-east-southeast-portions-of-big-island/",
+        "mention_text": "Big Island",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hawai\u02bbi, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403603,
+        "run_at": "2026-09-11T10:40:46.417526+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sgvtribune.com/2026/09/10/flood-advisory-issued-for-los-angeles-county-early-thursday-evening-due-to-prolonged-rainfall/",
+        "title": "Flood advisory issued for Los Angeles County early Thursday evening due to prolonged rainfall",
+        "source": "San Gabriel Valley Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-11T06:16:40Z",
+        "url": "https://www.sgvtribune.com/2026/09/10/flood-advisory-issued-for-los-angeles-county-early-thursday-evening-due-to-prolonged-rainfall/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-09-11T10:40:46.417526+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317201692.html",
+        "title": "Flood advisory in place for Los Angeles early Thursday evening, says the NWS",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-10T23:00:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317201692.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-09-11T10:40:46.417526+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0372472,
+          33.7219991
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pressenterprise.com/2026/09/09/flood-advisory-issued-for-riverside-county-wednesday-evening-caused-by-intense-downpours/",
+        "title": "Flood advisory issued for Riverside County Wednesday evening caused by intense downpours",
+        "source": "pressenterprise.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-10T00:15:08Z",
+        "url": "https://www.pressenterprise.com/2026/09/09/flood-advisory-issued-for-riverside-county-wednesday-evening-caused-by-intense-downpours/",
+        "mention_text": "Riverside County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Riverside County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396495,
+        "run_at": "2026-09-11T10:40:46.417526+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317149373.html",
+        "title": "UPDATE: Flood advisory for Los Angeles Sunday evening triggered by intense downpours",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-07T01:15:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317149373.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-09-11T10:40:46.417526+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317150825.html",
+        "title": "UPDATE: The flood advisory for San Bernardino County is anticipated to expire at 7:15 p.m.",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-07T02:34:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317150825.html",
+        "mention_text": "San Bernardino County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-09-11T10:40:46.417526+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7329309,
+          27.8778904
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tampabay.com/news/weather/2026/09/08/flood-advisory-affecting-pinellas-county-early-tuesday-evening-says-nws/",
+        "title": "Flood advisory affecting Pinellas County early Tuesday evening, says the NWS",
+        "source": "Tampa Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-08T19:07:15Z",
+        "url": "https://www.tampabay.com/news/weather/2026/09/08/flood-advisory-affecting-pinellas-county-early-tuesday-evening-says-nws/",
+        "mention_text": "Pinellas County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Pinellas County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210726,
+        "run_at": "2026-09-11T10:40:46.417526+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailynews.com/2026/09/03/coastal-flood-advisory-affecting-los-angeles-county-beaches-from-saturday-to-tuesday/",
+        "title": "Coastal flood advisory affecting Los Angeles County beaches from Saturday to Tuesday",
+        "source": "Los Angeles Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-03T19:13:29Z",
+        "url": "https://www.dailynews.com/2026/09/03/coastal-flood-advisory-affecting-los-angeles-county-beaches-from-saturday-to-tuesday/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-09-11T10:40:46.417526+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-09-10T10:40:03.381385+00:00",
-    "total_features": 4381
+    "last_updated": "2026-09-11T10:40:46.435573+00:00",
+    "total_features": 4396
   }
 }
