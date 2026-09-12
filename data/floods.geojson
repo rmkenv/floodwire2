@@ -114296,11 +114296,505 @@
         "osm_id": 396479,
         "run_at": "2026-09-11T10:40:46.417526+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.atlantanewsfirst.com/video/2026/09/11/first-alert-flash-flood-warnings-across-much-metro-atlanta/",
+        "title": "First Alert: Flash flood warnings across much of metro Atlanta",
+        "source": "Atlanta News First",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-12T00:55:25Z",
+        "url": "https://www.atlantanewsfirst.com/video/2026/09/11/first-alert-flash-flood-warnings-across-much-metro-atlanta/",
+        "mention_text": "Atlanta",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-09-12T10:08:07.408234+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/atlanta/video/flash-flood-warnings-issued-as-heavy-rain-drenches-metro-atlanta/",
+        "title": "Flash flood warnings issued as heavy rain drenches metro Atlanta",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-11T21:48:00Z",
+        "url": "https://www.cbsnews.com/atlanta/video/flash-flood-warnings-issued-as-heavy-rain-drenches-metro-atlanta/",
+        "mention_text": "Atlanta",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-09-12T10:08:07.408234+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1649728,
+          41.5759066
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/atlanta/news/atlanta-weekend-weather-brings-heavy-rain-strong-winds-and-flood-risk/",
+        "title": "Flash flood warnings issued for Hartsfield-Jackson airport and parts of metro Atlanta",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-11T16:43:00Z",
+        "url": "https://www.cbsnews.com/atlanta/news/atlanta-weekend-weather-brings-heavy-rain-strong-winds-and-flood-risk/",
+        "mention_text": "Hartsfield",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hartsfield, Liberty Township, Tioga County, Pennsylvania, 16930, United States",
+        "osm_type": "hamlet",
+        "osm_id": 158505822,
+        "run_at": "2026-09-12T10:08:07.408234+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/atlanta/news/atlanta-weekend-weather-brings-heavy-rain-strong-winds-and-flood-risk/",
+        "title": "Flash flood warnings issued for Hartsfield-Jackson airport and parts of metro Atlanta",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-11T16:43:00Z",
+        "url": "https://www.cbsnews.com/atlanta/news/atlanta-weekend-weather-brings-heavy-rain-strong-winds-and-flood-risk/",
+        "mention_text": "Atlanta",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-09-12T10:08:07.408234+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7522008,
+          34.526314
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CexKaomV6nhpwfy6L2BgG",
+        "title": "Flash Flood Warning Persists Until 11:15 PM for Northeastern Cobb and Fulton Counties Amid Heavy Rain",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-11T20:56:00Z",
+        "url": "https://www.forth.news/stories/CexKaomV6nhpwfy6L2BgG",
+        "mention_text": "Northeastern Cobb",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "The Northeastern Regional Crime Laboratory, 77, Cobb Vantress Drive, Cleveland, White County, Georgia, 30528, United States",
+        "osm_type": "government",
+        "osm_id": 13538406578,
+        "run_at": "2026-09-12T10:08:07.408234+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6736551,
+          28.5031572
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.gadsdentimes.com/story/weather/2026/09/11/weather-alert/91716586007/",
+        "title": "Flash flood warning issued for Calhoun County",
+        "source": "Gadsden Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-11T20:38:00Z",
+        "url": "https://www.gadsdentimes.com/story/weather/2026/09/11/weather-alert/91716586007/",
+        "mention_text": "Calhoun County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Calhoun County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1828434,
+        "run_at": "2026-09-12T10:08:07.408234+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3126651,
+          41.3806114
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/severe-storms-bring-heavy-rain-thunderstorms-east-coast-weekend",
+        "title": "Weekend washout threatens East Coast as heavy rain, thunderstorms raise flash flood risk",
+        "source": "foxweather.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-11T10:32:00Z",
+        "url": "https://www.foxweather.com/weather-news/severe-storms-bring-heavy-rain-thunderstorms-east-coast-weekend",
+        "mention_text": "East Coast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "East Coast, Town of Goshen, Orange County, New York, United States",
+        "osm_type": "garden",
+        "osm_id": 1107357381,
+        "run_at": "2026-09-12T10:08:07.408234+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.atlantanewsfirst.com/2026/09/11/first-alert-weather-day-storms-expected-this-afternoon-north-georgia/",
+        "title": "FIRST ALERT WEATHER DAY: Flash flood warning for several metro Atlanta counties",
+        "source": "Atlanta News First",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-11T09:26:00Z",
+        "url": "https://www.atlantanewsfirst.com/2026/09/11/first-alert-weather-day-storms-expected-this-afternoon-north-georgia/",
+        "mention_text": "Atlanta",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-09-12T10:08:07.408234+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8449946,
+          43.1561681
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather/2026/09/ny-weather-flash-flood-threat-looms-statewide-as-tropical-moisture-surges-in-this-weekend.html",
+        "title": "N.Y. weather: Flash flood threat looms statewide as tropical moisture surges in this weekend",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-11T12:38:00Z",
+        "url": "https://www.silive.com/weather/2026/09/ny-weather-flash-flood-threat-looms-statewide-as-tropical-moisture-surges-in-this-weekend.html",
+        "mention_text": "N.Y.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 61320,
+        "run_at": "2026-09-12T10:08:07.408234+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3982158,
+          32.5233959
+        ]
+      },
+      "properties": {
+        "article_id": "https://wgno.com/video/11-a-m-flash-flood-warning-for-hancock-harrison-county/12156361/",
+        "title": "11 a.m. Flash Flood Warning for Hancock, Harrison County",
+        "source": "WGNO",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-10T17:06:44Z",
+        "url": "https://wgno.com/video/11-a-m-flash-flood-warning-for-hancock-harrison-county/12156361/",
+        "mention_text": "Harrison County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Harrison County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839478,
+        "run_at": "2026-09-12T10:08:07.408234+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/lifestyle/articles/utah-flash-flood-sweeps-away-060700146.html",
+        "title": "Utah flash flood sweeps away 3 kittens, but rescuers find 'little balls of mud and ash'",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-11T06:07:00Z",
+        "url": "https://www.yahoo.com/lifestyle/articles/utah-flash-flood-sweeps-away-060700146.html",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-09-12T10:08:07.408234+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6118311,
+          35.7979355
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317216650.html",
+        "title": "Wake County placed under a flood advisory Friday night triggered by intense downpours",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-12T00:48:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317216650.html",
+        "mention_text": "Wake County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Wake County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528697,
+        "run_at": "2026-09-12T10:08:07.408234+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4970393,
+          38.0464066
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wkyt.com/2026/09/11/flood-advisory-issued-lexington/",
+        "title": "Flood advisory issued for Lexington",
+        "source": "WKYT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-11T14:57:00Z",
+        "url": "https://www.wkyt.com/2026/09/11/flood-advisory-issued-lexington/",
+        "mention_text": "Lexington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Lexington, Fayette County, Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 11078268,
+        "run_at": "2026-09-12T10:08:07.408234+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3488057,
+          27.9184543
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tampabay.com/news/weather/2026/09/11/flood-advisory-hillsborough-county-friday-evening-triggered-by-prolonged-rainfall/",
+        "title": "Flood advisory for Hillsborough County Friday evening triggered by prolonged rainfall",
+        "source": "Tampa Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-11T22:52:55Z",
+        "url": "https://www.tampabay.com/news/weather/2026/09/11/flood-advisory-hillsborough-county-friday-evening-triggered-by-prolonged-rainfall/",
+        "mention_text": "Hillsborough County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hillsborough County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210701,
+        "run_at": "2026-09-12T10:08:07.408234+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2471338,
+          37.8709542
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317217016.html",
+        "title": "UPDATE: Flood advisory for Greenwood County expected to expire at 12:45 a.m.",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-12T01:42:00Z",
+        "url": "https://www.thestate.com/news/weather-news/article317217016.html",
+        "mention_text": "Greenwood County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Greenwood County, Kansas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1070369,
+        "run_at": "2026-09-12T10:08:07.408234+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.753822,
+          35.3145701
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317171374.html",
+        "title": "Kern County under a flood advisory early Tuesday evening caused by prolonged rainfall",
+        "source": "sacbee.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-08T21:36:14Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317171374.html",
+        "mention_text": "Kern County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kern County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396494,
+        "run_at": "2026-09-12T10:08:07.408234+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.375716,
+          35.3540209
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317171828.html",
+        "title": "Flood advisory affecting San Luis Obispo and Santa Barbara counties early Tuesday evening",
+        "source": "sacbee.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-08T22:08:08Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317171828.html",
+        "mention_text": "San Luis Obispo",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Luis Obispo County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396496,
+        "run_at": "2026-09-12T10:08:07.408234+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.702667,
+          34.4221319
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317171828.html",
+        "title": "Flood advisory affecting San Luis Obispo and Santa Barbara counties early Tuesday evening",
+        "source": "sacbee.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-08T22:08:08Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317171828.html",
+        "mention_text": "Santa Barbara",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Santa Barbara, Santa Barbara County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 112224,
+        "run_at": "2026-09-12T10:08:07.408234+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article317154354.html",
+        "title": "UPDATE: Coastal flood advisory for Coastal Colleton and Charleston County until Wednesday night",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-09T11:10:07Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article317154354.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-09-12T10:08:07.408234+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-09-11T10:40:46.435573+00:00",
-    "total_features": 4396
+    "last_updated": "2026-09-12T10:08:07.429825+00:00",
+    "total_features": 4415
   }
 }
