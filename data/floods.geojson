@@ -114790,11 +114790,817 @@
         "osm_id": 1857000,
         "run_at": "2026-09-12T10:08:07.408234+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4074674,
+          47.5354964
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thenewstribune.com/news/weather-news/article317225646.html",
+        "title": "Flash flood watch issued for Spokane County for Sunday triggered by heavy rain",
+        "source": "Tacoma News Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-13T02:52:07Z",
+        "url": "https://www.thenewstribune.com/news/weather-news/article317225646.html",
+        "mention_text": "Spokane County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Spokane County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1150576,
+        "run_at": "2026-09-13T11:09:17.640883+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.186346,
+          37.3592837
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wric.com/weather/severe-weather/flash-flood-warning-sept-12/",
+        "title": "Flash flood warning issued for several Central Virginia localities",
+        "source": "wric.com",
+        "outlet_city": "Richmond",
+        "outlet_region": "Virginia",
+        "published_at": "2026-09-12T21:31:28Z",
+        "url": "https://www.wric.com/weather/severe-weather/flash-flood-warning-sept-12/",
+        "mention_text": "Central Virginia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central Virginia Community College, 3506, Wards Road, Lynchburg, Virginia, 24502, United States",
+        "osm_type": "college",
+        "osm_id": 117607560,
+        "run_at": "2026-09-13T11:09:17.640883+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2917415,
+          29.4844412
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wftv.com/news/local/flash-flood-warning-issued-northeastern-flagler-county-palm-coast/UTFKZCE2QBDP7PH5DOQVWROE34/",
+        "title": "Flash flood warning issued for northeastern Flagler County and Palm Coast",
+        "source": "WFTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-12T20:16:39Z",
+        "url": "https://www.wftv.com/news/local/flash-flood-warning-issued-northeastern-flagler-county-palm-coast/UTFKZCE2QBDP7PH5DOQVWROE34/",
+        "mention_text": "Flagler County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Flagler County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210749,
+        "run_at": "2026-09-13T11:09:17.640883+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2207673,
+          29.5541432
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wftv.com/news/local/flash-flood-warning-issued-northeastern-flagler-county-palm-coast/UTFKZCE2QBDP7PH5DOQVWROE34/",
+        "title": "Flash flood warning issued for northeastern Flagler County and Palm Coast",
+        "source": "WFTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-12T20:16:39Z",
+        "url": "https://www.wftv.com/news/local/flash-flood-warning-issued-northeastern-flagler-county-palm-coast/UTFKZCE2QBDP7PH5DOQVWROE34/",
+        "mention_text": "Palm Coast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Palm Coast, Flagler County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1216812,
+        "run_at": "2026-09-13T11:09:17.640883+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5515965,
+          34.5668857
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CezQ5tJs7yj9jEj1wizre",
+        "title": "Yavapai County Flash Flood Warning Continues Amid Rising Water Levels",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-13T02:21:01Z",
+        "url": "https://www.forth.news/stories/CezQ5tJs7yj9jEj1wizre",
+        "mention_text": "Yavapai County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Yavapai County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832215,
+        "run_at": "2026-09-13T11:09:17.640883+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5732006,
+          33.9373948
+        ]
+      },
+      "properties": {
+        "article_id": "https://cobbcountycourier.com/2026/09/flash-flood-warning-for-southern-parts-of-cobb-until-130-p-m/",
+        "title": "Flash flood warning for southern parts of Cobb until 1:30 p.m.",
+        "source": "Cobb Courier",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-12T14:30:57Z",
+        "url": "https://cobbcountycourier.com/2026/09/flash-flood-warning-for-southern-parts-of-cobb-until-130-p-m/",
+        "mention_text": "Cobb",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Cobb County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 1020125,
+        "run_at": "2026-09-13T11:09:17.640883+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.42351,
+          47.6571934
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thenewstribune.com/news/weather-news/article317225649.html",
+        "title": "Flash flood watch affecting Spokane area Sunday caused by prolonged downpours",
+        "source": "Tacoma News Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-13T02:54:05Z",
+        "url": "https://www.thenewstribune.com/news/weather-news/article317225649.html",
+        "mention_text": "Spokane",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Spokane, Spokane County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 237599,
+        "run_at": "2026-09-13T11:09:17.640883+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CezGTUXYzai93zirBHCwQ",
+        "title": "Flash Flood Warning in Utah\u2019s Garfield and Wayne Counties Until 6:30 PM MDT",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-12T23:40:46Z",
+        "url": "https://www.forth.news/stories/CezGTUXYzai93zirBHCwQ",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-09-13T11:09:17.640883+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.4786676,
+          35.214632
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cez8SzjYN3o1qLd9UYU7e",
+        "title": "Flash Flood Warning Remains in Effect for Apache County, Arizona, Until 4:45 PM MDT",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-12T19:55:27Z",
+        "url": "https://www.forth.news/stories/Cez8SzjYN3o1qLd9UYU7e",
+        "mention_text": "Apache County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Apache County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832179,
+        "run_at": "2026-09-13T11:09:17.640883+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cez8SzjYN3o1qLd9UYU7e",
+        "title": "Flash Flood Warning Remains in Effect for Apache County, Arizona, Until 4:45 PM MDT",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-12T19:55:27Z",
+        "url": "https://www.forth.news/stories/Cez8SzjYN3o1qLd9UYU7e",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-09-13T11:09:17.640883+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0025666,
+          40.4406968
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cez7hE3WMTu9pXT5BDq7c",
+        "title": "Pittsburgh NWS Extends Flash Flood Warning to 7 PM for Allegheny, Washington, and Westmoreland Counties",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-12T19:45:19Z",
+        "url": "https://www.forth.news/stories/Cez7hE3WMTu9pXT5BDq7c",
+        "mention_text": "Pittsburgh",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pittsburgh, Allegheny County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 188553,
+        "run_at": "2026-09-13T11:09:17.640883+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9760405,
+          40.4597204
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cez7hE3WMTu9pXT5BDq7c",
+        "title": "Pittsburgh NWS Extends Flash Flood Warning to 7 PM for Allegheny, Washington, and Westmoreland Counties",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-12T19:45:19Z",
+        "url": "https://www.forth.news/stories/Cez7hE3WMTu9pXT5BDq7c",
+        "mention_text": "Allegheny",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Allegheny County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 2563472,
+        "run_at": "2026-09-13T11:09:17.640883+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0363849,
+          38.8950982
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cez7hE3WMTu9pXT5BDq7c",
+        "title": "Pittsburgh NWS Extends Flash Flood Warning to 7 PM for Allegheny, Washington, and Westmoreland Counties",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-12T19:45:19Z",
+        "url": "https://www.forth.news/stories/Cez7hE3WMTu9pXT5BDq7c",
+        "mention_text": "Washington",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Washington, District of Columbia, United States",
+        "osm_type": "city",
+        "osm_id": 5396194,
+        "run_at": "2026-09-13T11:09:17.640883+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CezFL1WnqKi1coTE2BNQL",
+        "title": "Flash Flood Warning Issued for Gila County, Arizona Amid Heavy Rain",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-12T21:25:51Z",
+        "url": "https://www.forth.news/stories/CezFL1WnqKi1coTE2BNQL",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-09-13T11:09:17.640883+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0994297,
+          40.8514971
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsday.com/news/weather/rain-flooding-long-island-hyqith38",
+        "title": "Flash flood watch, heavy rain expected on Long Island Sunday morning",
+        "source": "newsday.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-13T00:47:15Z",
+        "url": "https://www.newsday.com/news/weather/rain-flooding-long-island-hyqith38",
+        "mention_text": "Long Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Long Island, New York, United States",
+        "osm_type": "island",
+        "osm_id": 3955977,
+        "run_at": "2026-09-13T11:09:17.640883+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0025666,
+          40.4406968
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CezBVH1yn6vUYSSKcwkpX",
+        "title": "Pittsburgh NWS Issues Flood Warning Until 10 PM Amid Heavy Rainfall in Allegheny, Washington, Westmoreland Counties",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-12T23:35:51Z",
+        "url": "https://www.forth.news/stories/CezBVH1yn6vUYSSKcwkpX",
+        "mention_text": "Pittsburgh",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Pittsburgh, Allegheny County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 188553,
+        "run_at": "2026-09-13T11:09:17.640883+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9760405,
+          40.4597204
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CezBVH1yn6vUYSSKcwkpX",
+        "title": "Pittsburgh NWS Issues Flood Warning Until 10 PM Amid Heavy Rainfall in Allegheny, Washington, Westmoreland Counties",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-12T23:35:51Z",
+        "url": "https://www.forth.news/stories/CezBVH1yn6vUYSSKcwkpX",
+        "mention_text": "Allegheny",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Allegheny County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 2563472,
+        "run_at": "2026-09-13T11:09:17.640883+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0363849,
+          38.8950982
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CezBVH1yn6vUYSSKcwkpX",
+        "title": "Pittsburgh NWS Issues Flood Warning Until 10 PM Amid Heavy Rainfall in Allegheny, Washington, Westmoreland Counties",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-12T23:35:51Z",
+        "url": "https://www.forth.news/stories/CezBVH1yn6vUYSSKcwkpX",
+        "mention_text": "Washington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Washington, District of Columbia, United States",
+        "osm_type": "city",
+        "osm_id": 5396194,
+        "run_at": "2026-09-13T11:09:17.640883+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6175031,
+          45.4693103
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox5atlanta.com/news/flash-flood-warnings-heavy-rain-triggers-alerts-across-metro-area",
+        "title": "Flash flood warnings: Heavy rain triggers alerts across metro area",
+        "source": "FOX 5 Atlanta",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-12T14:07:06Z",
+        "url": "https://www.fox5atlanta.com/news/flash-flood-warnings-heavy-rain-triggers-alerts-across-metro-area",
+        "mention_text": "metro",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Metro, Multnomah County, Oregon, United States",
+        "osm_type": "special_district",
+        "osm_id": 11773800,
+        "run_at": "2026-09-13T11:09:17.640883+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3929589,
+          33.772476
+        ]
+      },
+      "properties": {
+        "article_id": "https://sports.yahoo.com/articles/flash-flood-warning-bobby-dodd-145748179.html",
+        "title": "Flash flood warning at Bobby Dodd Stadium before Tennessee vs Georgia Tech",
+        "source": "Yahoo Sports",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-12T14:57:48Z",
+        "url": "https://sports.yahoo.com/articles/flash-flood-warning-bobby-dodd-145748179.html",
+        "mention_text": "Bobby Dodd Stadium",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Bobby Dodd Stadium, Fowler Street Northwest, Atlanta, Fulton County, Georgia, 30332, United States",
+        "osm_type": "stadium",
+        "osm_id": 618966004,
+        "run_at": "2026-09-13T11:09:17.640883+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      },
+      "properties": {
+        "article_id": "https://sports.yahoo.com/articles/flash-flood-warning-bobby-dodd-145748179.html",
+        "title": "Flash flood warning at Bobby Dodd Stadium before Tennessee vs Georgia Tech",
+        "source": "Yahoo Sports",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-12T14:57:48Z",
+        "url": "https://sports.yahoo.com/articles/flash-flood-warning-bobby-dodd-145748179.html",
+        "mention_text": "Tennessee",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tennessee, United States",
+        "osm_type": "administrative",
+        "osm_id": 161838,
+        "run_at": "2026-09-13T11:09:17.640883+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6175031,
+          45.4693103
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox5atlanta.com/video/fmc-og0s79mjco1sh0j9",
+        "title": "More flash flood warnings issued for metro area",
+        "source": "FOX 5 Atlanta",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-12T13:54:51Z",
+        "url": "https://www.fox5atlanta.com/video/fmc-og0s79mjco1sh0j9",
+        "mention_text": "metro",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Metro, Multnomah County, Oregon, United States",
+        "osm_type": "special_district",
+        "osm_id": 11773800,
+        "run_at": "2026-09-13T11:09:17.640883+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cext1kxExSyAmNjuSsF8v",
+        "title": "Flash Flood Warning Lifts for West Fire Scar in Arizona as Heavy Rain Subsides",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-12T03:58:00Z",
+        "url": "https://www.forth.news/stories/Cext1kxExSyAmNjuSsF8v",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-09-13T11:09:17.640883+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox5atlanta.com/news/metro-atlanta-storms-leave-behind-flooding-downed-trees",
+        "title": "Storms leave behind flood damage in metro Atlanta",
+        "source": "FOX 5 Atlanta",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-12T14:07:06Z",
+        "url": "https://www.fox5atlanta.com/news/metro-atlanta-storms-leave-behind-flooding-downed-trees",
+        "mention_text": "Atlanta",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-09-13T11:09:17.640883+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.atlantanewsfirst.com/video/2026/09/11/first-alert-flash-flood-warning-atlanta/",
+        "title": "First Alert: Flash flood warning for Atlanta",
+        "source": "Atlanta News First",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-11T20:46:00Z",
+        "url": "https://www.atlantanewsfirst.com/video/2026/09/11/first-alert-flash-flood-warning-atlanta/",
+        "mention_text": "Atlanta",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlanta, Fulton County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119557,
+        "run_at": "2026-09-13T11:09:17.640883+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3126651,
+          41.3806114
+        ]
+      },
+      "properties": {
+        "article_id": "https://nypost.com/2026/09/11/us-news/weekend-forecast-threatens-east-coast-as-heavy-rain-thunderstorms-raise-flash-flood-risk/",
+        "title": "Weekend forecast threatens East Coast as heavy rain, thunderstorms raise flash flood risk",
+        "source": "New York Post",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-11T15:06:00Z",
+        "url": "https://nypost.com/2026/09/11/us-news/weekend-forecast-threatens-east-coast-as-heavy-rain-thunderstorms-raise-flash-flood-risk/",
+        "mention_text": "East Coast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "East Coast, Town of Goshen, Orange County, New York, United States",
+        "osm_type": "garden",
+        "osm_id": 1107357381,
+        "run_at": "2026-09-13T11:09:17.640883+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317223038.html",
+        "title": "Flood advisory active for the Piedmont region Saturday evening due to intense rain",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-12T20:30:05Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317223038.html",
+        "mention_text": "Piedmont",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-09-13T11:09:17.640883+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7907554,
+          41.1763139
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/09/flood-advisory-active-for-westchester-county-sunday-morning-due-to-heavy-rainfall.html",
+        "title": "Flood advisory active for Westchester County Sunday morning due to heavy rainfall",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-13T10:52:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/09/flood-advisory-active-for-westchester-county-sunday-morning-due-to-heavy-rainfall.html",
+        "mention_text": "Westchester County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Westchester County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1838027,
+        "run_at": "2026-09-13T11:09:17.640883+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azcentral.com/story/weather/forecasts/2026/09/12/phoenix-to-see-cooler-temperatures-rain-chances/91733171007/",
+        "title": "Storms spur flood advisory for Arizona county",
+        "source": "azcentral.com and The Arizona Republic",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-12T23:18:00Z",
+        "url": "https://www.azcentral.com/story/weather/forecasts/2026/09/12/phoenix-to-see-cooler-temperatures-rain-chances/91733171007/",
+        "mention_text": "Arizona",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-09-13T11:09:17.640883+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2471338,
+          37.8709542
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article317217016.html",
+        "title": "UPDATE: Flood advisory for Greenwood County expected to expire at 12:45 a.m.",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-12T01:42:00Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article317217016.html",
+        "mention_text": "Greenwood County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Greenwood County, Kansas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1070369,
+        "run_at": "2026-09-13T11:09:17.640883+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4494174,
+          26.6279798
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbs12.com/news/local/story/flood-advisory-for-palm-beach-county-until-11-pm",
+        "title": "Flood Advisory for Palm Beach County until midnight",
+        "source": "WPEC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-02T07:00:00Z",
+        "url": "https://cbs12.com/news/local/story/flood-advisory-for-palm-beach-county-until-11-pm",
+        "mention_text": "Palm Beach County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Palm Beach County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210748,
+        "run_at": "2026-09-13T11:09:17.640883+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-09-12T10:08:07.429825+00:00",
-    "total_features": 4415
+    "last_updated": "2026-09-13T11:09:17.663502+00:00",
+    "total_features": 4446
   }
 }
