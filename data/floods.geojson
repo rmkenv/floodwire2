@@ -116688,11 +116688,583 @@
         "osm_id": 396479,
         "run_at": "2026-09-14T11:49:23.429530+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.6561768,
+          37.1095734
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf46N27HCt4hhMMEYi1qU",
+        "title": "Flash Flood Warning in Southern Archuleta County Expires Tonight as Heavy Rain Subsides",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-15T03:09:34Z",
+        "url": "https://www.forth.news/stories/Cf46N27HCt4hhMMEYi1qU",
+        "mention_text": "Southern Archuleta County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Southern Ute Indian Reservation, La Plata County, Colorado, United States",
+        "osm_type": "aboriginal_lands",
+        "osm_id": 10952287,
+        "run_at": "2026-09-15T11:06:35.298130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kold.com/video/2026/09/15/heavy-rainfall-flash-flood-risk-bring-three-first-alert-weather-days-southern-arizona-through-wednesday/",
+        "title": "Heavy rainfall and flash flood risk bring three First Alert Weather Days for southern Arizona through Wednesday",
+        "source": "KOLD",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-15T00:01:53Z",
+        "url": "https://www.kold.com/video/2026/09/15/heavy-rainfall-flash-flood-risk-bring-three-first-alert-weather-days-southern-arizona-through-wednesday/",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-09-15T11:06:35.298130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6870693,
+          35.0349239
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.koat.com/article/flash-flood-warning-issued-for-bernalillo-county-until-8-pm/73729974",
+        "title": "Flash flood warning issued for Bernalillo County until 8 p.m.",
+        "source": "koat.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-14T23:31:00Z",
+        "url": "https://www.koat.com/article/flash-flood-warning-issued-for-bernalillo-county-until-8-pm/73729974",
+        "mention_text": "Bernalillo County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Bernalillo County, New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832180,
+        "run_at": "2026-09-15T11:06:35.298130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6546163,
+          32.1112624
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf4XuYG27fYX86VwvPzZP",
+        "title": "Flash Flood Warning Lifts in Pima County; Flood Watch Persists in Southeast Arizona",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-15T01:19:00Z",
+        "url": "https://www.forth.news/stories/Cf4XuYG27fYX86VwvPzZP",
+        "mention_text": "Pima County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pima County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832206,
+        "run_at": "2026-09-15T11:06:35.298130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1863705,
+          43.5854999
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf4XuYG27fYX86VwvPzZP",
+        "title": "Flash Flood Warning Lifts in Pima County; Flood Watch Persists in Southeast Arizona",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-15T01:19:00Z",
+        "url": "https://www.forth.news/stories/Cf4XuYG27fYX86VwvPzZP",
+        "mention_text": "Southeast Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "West Arizona Lane, Kristen Park, Southeast Boise, Boise, Ada County, Idaho, 83706, United States",
+        "osm_type": "residential",
+        "osm_id": 13697258,
+        "run_at": "2026-09-15T11:06:35.298130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.761265,
+          32.2236725
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf4CT7rQKuZiUHm5rnmKW",
+        "title": "NWS Issues Flash Flood Warning for Eastern Pima County Until 7:30 PM MST",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-14T23:26:00Z",
+        "url": "https://www.forth.news/stories/Cf4CT7rQKuZiUHm5rnmKW",
+        "mention_text": "Eastern Pima County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Eastern Slope Loop, Silverado Hills, Tucson, Pima County, Arizona, 85748, United States",
+        "osm_type": "residential",
+        "osm_id": 16909602,
+        "run_at": "2026-09-15T11:06:35.298130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5072602,
+          38.8119619
+        ]
+      },
+      "properties": {
+        "article_id": "https://westerniowatoday.com/2026/09/15/flash-flood-warning-for-northern-adair-northern-cass-southern-audubon-and-southern-guthrie-counties/",
+        "title": "Flash Flood Warning for Northern Adair, Northern Cass, Southern Audubon and Southern Guthrie counties",
+        "source": "westerniowatoday.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-15T10:51:10Z",
+        "url": "https://westerniowatoday.com/2026/09/15/flash-flood-warning-for-northern-adair-northern-cass-southern-audubon-and-southern-guthrie-counties/",
+        "mention_text": "Northern Cass",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Cass County Northern Resource Center Library, 1741, East North Avenue, Belton, Cass County, Missouri, 64012, United States",
+        "osm_type": "library",
+        "osm_id": 10172692361,
+        "run_at": "2026-09-15T11:06:35.298130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4238433,
+          35.8804234
+        ]
+      },
+      "properties": {
+        "article_id": "https://westerniowatoday.com/2026/09/15/flash-flood-warning-for-northern-adair-northern-cass-southern-audubon-and-southern-guthrie-counties/",
+        "title": "Flash Flood Warning for Northern Adair, Northern Cass, Southern Audubon and Southern Guthrie counties",
+        "source": "westerniowatoday.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-15T10:51:10Z",
+        "url": "https://westerniowatoday.com/2026/09/15/flash-flood-warning-for-northern-adair-northern-cass-southern-audubon-and-southern-guthrie-counties/",
+        "mention_text": "Southern Guthrie",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "First Southern Baptist, North Wentz Street, Guthrie, Logan County, Oklahoma, 73044, United States",
+        "osm_type": "place_of_worship",
+        "osm_id": 8426748,
+        "run_at": "2026-09-15T11:06:35.298130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.4786676,
+          35.214632
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf49RDbGywyjdx3hnAwqZ",
+        "title": "Apache County, Arizona Under Flash Flood Warning After Heavy Rainstorm",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-14T22:44:00Z",
+        "url": "https://www.forth.news/stories/Cf49RDbGywyjdx3hnAwqZ",
+        "mention_text": "Apache County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Apache County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832179,
+        "run_at": "2026-09-15T11:06:35.298130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf49RDbGywyjdx3hnAwqZ",
+        "title": "Apache County, Arizona Under Flash Flood Warning After Heavy Rainstorm",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-14T22:44:00Z",
+        "url": "https://www.forth.news/stories/Cf49RDbGywyjdx3hnAwqZ",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-09-15T11:06:35.298130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4712533,
+          38.0292476
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf3ytAwsFaTcpBSX5Kzc6",
+        "title": "NWS Issues Flash Flood Warning for San Miguel County, Colorado Amid Heavy Rain",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-14T20:37:00Z",
+        "url": "https://www.forth.news/stories/Cf3ytAwsFaTcpBSX5Kzc6",
+        "mention_text": "San Miguel County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Miguel County, Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 1411355,
+        "run_at": "2026-09-15T11:06:35.298130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.607716,
+          38.7251776
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf3ytAwsFaTcpBSX5Kzc6",
+        "title": "NWS Issues Flash Flood Warning for San Miguel County, Colorado Amid Heavy Rain",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-14T20:37:00Z",
+        "url": "https://www.forth.news/stories/Cf3ytAwsFaTcpBSX5Kzc6",
+        "mention_text": "Colorado",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 161961,
+        "run_at": "2026-09-15T11:06:35.298130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3556216,
+          38.7952465
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wsaz.com/video/2026/09/14/dozens-rescued-homes-damaged-after-once-in-a-lifetime-flash-flood-gallia-county/",
+        "title": "Dozens rescued, homes damaged after \u2018once-in-a-lifetime\u2019 flash flood in Gallia County",
+        "source": "WSAZ",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-14T13:42:00Z",
+        "url": "https://www.wsaz.com/video/2026/09/14/dozens-rescued-homes-damaged-after-once-in-a-lifetime-flash-flood-gallia-county/",
+        "mention_text": "Gallia County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Gallia County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 911268,
+        "run_at": "2026-09-15T11:06:35.298130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.974847,
+          32.2228765
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kvoa.com/weather/monsoon/tucson-monsoon-storm-leads-to-power-outages-swift-water-rescue-downed-power-lines/article_5b75e404-2f89-4bbc-bdc1-355b8d74ec37.html",
+        "title": "Tucson monsoon storm leads to power outages, swift water rescue, downed power lines",
+        "source": "KVOA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-15T01:57:39Z",
+        "url": "https://www.kvoa.com/weather/monsoon/tucson-monsoon-storm-leads-to-power-outages-swift-water-rescue-downed-power-lines/article_5b75e404-2f89-4bbc-bdc1-355b8d74ec37.html",
+        "mention_text": "Tucson",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tucson, Pima County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 253824,
+        "run_at": "2026-09-15T11:06:35.298130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4041622,
+          40.0757384
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.usatoday.com/videos/news/2026/09/14/heavy-rains-spark-widespread-flash-flooding-across-nj-connecticut/91756938007/",
+        "title": "Flash flood emergencies unfold across New Jersey, Connecticut after torrential rains",
+        "source": "USA Today",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-14T14:02:13Z",
+        "url": "https://www.usatoday.com/videos/news/2026/09/14/heavy-rains-spark-widespread-flash-flooding-across-nj-connecticut/91756938007/",
+        "mention_text": "New Jersey",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 224951,
+        "run_at": "2026-09-15T11:06:35.298130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7342163,
+          41.6500201
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.usatoday.com/videos/news/2026/09/14/heavy-rains-spark-widespread-flash-flooding-across-nj-connecticut/91756938007/",
+        "title": "Flash flood emergencies unfold across New Jersey, Connecticut after torrential rains",
+        "source": "USA Today",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-14T14:02:13Z",
+        "url": "https://www.usatoday.com/videos/news/2026/09/14/heavy-rains-spark-widespread-flash-flooding-across-nj-connecticut/91756938007/",
+        "mention_text": "Connecticut",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Connecticut, United States",
+        "osm_type": "administrative",
+        "osm_id": 165794,
+        "run_at": "2026-09-15T11:06:35.298130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3610722,
+          41.1406838
+        ]
+      },
+      "properties": {
+        "article_id": "https://westportjournal.com/community/town-recovers-from-weekend-flash-flood-jesup-road-bridge-must-go/",
+        "title": "Town recovers from weekend flash flood; Jesup Road bridge must go",
+        "source": "Westport Journal",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-14T20:42:22Z",
+        "url": "https://westportjournal.com/community/town-recovers-from-weekend-flash-flood-jesup-road-bridge-must-go/",
+        "mention_text": "Jesup Road",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Jesup Road, Westport, Western Connecticut Planning Region, Connecticut, 06880, United States",
+        "osm_type": "residential",
+        "osm_id": 666572155,
+        "run_at": "2026-09-15T11:06:35.298130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0563254,
+          40.9678345
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcnewyork.com/news/local/paramus-half-marathon-video-flooding-racefaster/6547403/",
+        "title": "They ran through this? Bergen County investigating flash flood marathon video",
+        "source": "NBC New York",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-14T13:48:43Z",
+        "url": "https://www.nbcnewyork.com/news/local/paramus-half-marathon-video-flooding-racefaster/6547403/",
+        "mention_text": "Bergen County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Bergen County, New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 958930,
+        "run_at": "2026-09-15T11:06:35.298130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0372472,
+          33.7219991
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailybulletin.com/2026/09/09/flood-advisory-issued-for-riverside-county-wednesday-evening-caused-by-intense-downpours/",
+        "title": "Flood advisory issued for Riverside County Wednesday evening caused by intense downpours",
+        "source": "Daily Bulletin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-10T07:15:32Z",
+        "url": "https://www.dailybulletin.com/2026/09/09/flood-advisory-issued-for-riverside-county-wednesday-evening-caused-by-intense-downpours/",
+        "mention_text": "Riverside County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Riverside County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396495,
+        "run_at": "2026-09-15T11:06:35.298130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/rain-chances-cooler-temperatures-forecast-205316978.html",
+        "title": "Storms spur flood advisory for Arizona county",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-12T20:53:16Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/rain-chances-cooler-temperatures-forecast-205316978.html",
+        "mention_text": "Arizona",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-09-15T11:06:35.298130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0372472,
+          33.7219991
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailybulletin.com/2026/09/08/flood-advisory-issued-for-riverside-county-tuesday-evening-triggered-by-excessive-rainfall/",
+        "title": "Flood advisory issued for Riverside County Tuesday evening triggered by excessive rainfall",
+        "source": "Daily Bulletin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-09T06:10:35Z",
+        "url": "https://www.dailybulletin.com/2026/09/08/flood-advisory-issued-for-riverside-county-tuesday-evening-triggered-by-excessive-rainfall/",
+        "mention_text": "Riverside County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Riverside County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396495,
+        "run_at": "2026-09-15T11:06:35.298130+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sbsun.com/2026/09/06/flood-advisory-affecting-san-bernardino-county-until-sunday-evening-caused-by-prolonged-downpours/",
+        "title": "Flood advisory affecting San Bernardino County until Sunday evening caused by prolonged downpours",
+        "source": "San Bernardino Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-06T07:00:00Z",
+        "url": "https://www.sbsun.com/2026/09/06/flood-advisory-affecting-san-bernardino-county-until-sunday-evening-caused-by-prolonged-downpours/",
+        "mention_text": "San Bernardino County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-09-15T11:06:35.298130+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-09-14T11:49:23.444714+00:00",
-    "total_features": 4488
+    "last_updated": "2026-09-15T11:06:35.321871+00:00",
+    "total_features": 4510
   }
 }
