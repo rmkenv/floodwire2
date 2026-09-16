@@ -117260,11 +117260,609 @@
         "osm_id": 396509,
         "run_at": "2026-09-15T11:06:35.298130+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5781416,
+          39.100105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kansascity.com/news/weather-news/article317260435.html",
+        "title": "Update: Flash flood warning previously issued for the Kansas City area will expire at 1 a.m.",
+        "source": "Kansas City Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T06:17:05Z",
+        "url": "https://www.kansascity.com/news/weather-news/article317260435.html",
+        "mention_text": "Kansas City",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kansas City, Jackson County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 141008,
+        "run_at": "2026-09-16T10:55:45.971418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5781416,
+          39.100105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kmbc.com/article/kansas-city-flood-watch-evening-overnight-storms/73742435",
+        "title": "Flash flood warning in effect for parts of the Kansas City metro area until 1 a.m.",
+        "source": "KMBC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T02:10:00Z",
+        "url": "https://www.kmbc.com/article/kansas-city-flood-watch-evening-overnight-storms/73742435",
+        "mention_text": "Kansas City",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kansas City, Jackson County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 141008,
+        "run_at": "2026-09-16T10:55:45.971418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kold.com/video/2026/09/16/flash-flood-watch-tuesday-night-through-wednesday-night-heavy-monsoonal-rain-returns-arizona/",
+        "title": "Flash Flood Watch Tuesday night through Wednesday night as heavy monsoonal rain returns to Arizona",
+        "source": "KOLD",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T00:51:18Z",
+        "url": "https://www.kold.com/video/2026/09/16/flash-flood-watch-tuesday-night-through-wednesday-night-heavy-monsoonal-rain-returns-arizona/",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-09-16T10:55:45.971418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.01355,
+          35.4859674
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf63CpA6uTpEXrzFTQWXe",
+        "title": "Flash Flood Warning Lifts in Santa Fe County as Rain Subsides",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T00:43:00Z",
+        "url": "https://www.forth.news/stories/Cf63CpA6uTpEXrzFTQWXe",
+        "mention_text": "Santa Fe County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Santa Fe County, New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 1344186,
+        "run_at": "2026-09-16T10:55:45.971418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kold.com/2026/09/15/flood-watch-issued-southern-arizona/",
+        "title": "Flood Watch issued for southern Arizona",
+        "source": "KOLD",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-15T21:15:00Z",
+        "url": "https://www.kold.com/2026/09/15/flood-watch-issued-southern-arizona/",
+        "mention_text": "Arizona",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-09-16T10:55:45.971418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf64MFXBJdGZZA33aD7Dt",
+        "title": "Arizona Flash Flood Warning Extended to 7 PM for Apache and Navajo Counties",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-15T20:54:00Z",
+        "url": "https://www.forth.news/stories/Cf64MFXBJdGZZA33aD7Dt",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-09-16T10:55:45.971418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3014412,
+          41.3334542
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/live-flash-flood-warning-issued-073517621.html",
+        "title": "LIVE UPDATE: Flash Flood Warning issued for Mercer County",
+        "source": "yahoo.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T07:35:17Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/live-flash-flood-warning-issued-073517621.html",
+        "mention_text": "Mercer County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mercer County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 416694,
+        "run_at": "2026-09-16T10:55:45.971418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7342163,
+          41.6500201
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.stamfordadvocate.com/news/article/connecticut-homeowners-flash-flood-damage-recovery-22432699.php",
+        "title": "'Nobody was prepared for this': Connecticut residents recount devastating flood damage",
+        "source": "Stamford Advocate",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-15T20:55:27Z",
+        "url": "https://www.stamfordadvocate.com/news/article/connecticut-homeowners-flash-flood-damage-recovery-22432699.php",
+        "mention_text": "Connecticut",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Connecticut, United States",
+        "osm_type": "administrative",
+        "osm_id": 165794,
+        "run_at": "2026-09-16T10:55:45.971418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/human-remains-found-grand-canyon-arizona-flash-flooding",
+        "title": "Human remains found in Grand Canyon during search for hiker who vanished during flash flood weeks ago",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-15T16:25:00Z",
+        "url": "https://www.foxweather.com/weather-news/human-remains-found-grand-canyon-arizona-flash-flooding",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-16T10:55:45.971418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9250518,
+          41.3082138
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/2026/09/15/news/weather/video/new-haven-flood-driver-saves-tesla",
+        "title": "New Haven driver tries to save Tesla from flash flood",
+        "source": "The Weather Channel",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-15T14:53:25Z",
+        "url": "https://weather.com/2026/09/15/news/weather/video/new-haven-flood-driver-saves-tesla",
+        "mention_text": "New Haven",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Haven, South Central Connecticut Planning Region, Connecticut, United States",
+        "osm_type": "administrative",
+        "osm_id": 270191,
+        "run_at": "2026-09-16T10:55:45.971418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7871379,
+          41.5359933
+        ]
+      },
+      "properties": {
+        "article_id": "https://whoradio.iheart.com/featured/who-radio-news/content/2026-09-15-flood-warning-issued-for-raccoon-river-in-des-moines/",
+        "title": "Flood Warning Issued For Raccoon River In Des Moines",
+        "source": "newsradio 1040 who",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-15T19:35:00Z",
+        "url": "https://whoradio.iheart.com/featured/who-radio-news/content/2026-09-15-flood-warning-issued-for-raccoon-river-in-des-moines/",
+        "mention_text": "Raccoon River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Raccoon River, West Des Moines, Van Meter Township, Polk County, Iowa, United States",
+        "osm_type": "river",
+        "osm_id": 17264951,
+        "run_at": "2026-09-16T10:55:45.971418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6249494,
+          41.5868654
+        ]
+      },
+      "properties": {
+        "article_id": "https://whoradio.iheart.com/featured/who-radio-news/content/2026-09-15-flood-warning-issued-for-raccoon-river-in-des-moines/",
+        "title": "Flood Warning Issued For Raccoon River In Des Moines",
+        "source": "newsradio 1040 who",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-15T19:35:00Z",
+        "url": "https://whoradio.iheart.com/featured/who-radio-news/content/2026-09-15-flood-warning-issued-for-raccoon-river-in-des-moines/",
+        "mention_text": "Des Moines",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Des Moines, Polk County, Iowa, United States",
+        "osm_type": "administrative",
+        "osm_id": 128653,
+        "run_at": "2026-09-16T10:55:45.971418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7871379,
+          41.5359933
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flood-warning-issued-raccoon-river-190933537.html",
+        "title": "Flood warning issued as Raccoon River, Walnut Creek reach their banks",
+        "source": "yahoo.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-15T19:09:33Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flood-warning-issued-raccoon-river-190933537.html",
+        "mention_text": "Raccoon River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Raccoon River, West Des Moines, Van Meter Township, Polk County, Iowa, United States",
+        "osm_type": "river",
+        "osm_id": 17264951,
+        "run_at": "2026-09-16T10:55:45.971418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0618702,
+          37.9020731
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flood-warning-issued-raccoon-river-190933537.html",
+        "title": "Flood warning issued as Raccoon River, Walnut Creek reach their banks",
+        "source": "yahoo.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-15T19:09:33Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flood-warning-issued-raccoon-river-190933537.html",
+        "mention_text": "Walnut Creek",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Walnut Creek, Contra Costa County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 3705576,
+        "run_at": "2026-09-16T10:55:45.971418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kold.com/video/2026/09/15/heavy-rainfall-flash-flood-risk-bring-three-first-alert-weather-days-southern-arizona-through-wednesday-2/",
+        "title": "Heavy rainfall and flash flood risk bring three First Alert Weather Days for southern Arizona through Wednesday",
+        "source": "KOLD",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-15T08:45:23Z",
+        "url": "https://www.kold.com/video/2026/09/15/heavy-rainfall-flash-flood-risk-bring-three-first-alert-weather-days-southern-arizona-through-wednesday-2/",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-09-16T10:55:45.971418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8804373,
+          33.7040161
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.masslive.com/weather/2026/09/flash-flood-warning-issued-for-south-coast-flood-watch-in-effect-for-worcester-boston.html",
+        "title": "Flash flood warning issued for South Coast; flood watch in effect for Worcester, Boston",
+        "source": "masslive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-13T16:34:00Z",
+        "url": "https://www.masslive.com/weather/2026/09/flash-flood-warning-issued-for-south-coast-flood-watch-in-effect-for-worcester-boston.html",
+        "mention_text": "South Coast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South Coast, Santa Ana, Orange County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 14282906,
+        "run_at": "2026-09-16T10:55:45.971418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0578303,
+          42.3588336
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.masslive.com/weather/2026/09/flash-flood-warning-issued-for-south-coast-flood-watch-in-effect-for-worcester-boston.html",
+        "title": "Flash flood warning issued for South Coast; flood watch in effect for Worcester, Boston",
+        "source": "masslive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-13T16:34:00Z",
+        "url": "https://www.masslive.com/weather/2026/09/flash-flood-warning-issued-for-south-coast-flood-watch-in-effect-for-worcester-boston.html",
+        "mention_text": "Boston",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Boston, Suffolk County, Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 2315704,
+        "run_at": "2026-09-16T10:55:45.971418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3931342,
+          47.5614368
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.alaskasnewssource.com/2026/09/16/fall-storm-impacts-felt-statewide-with-storm-surge-flooding-southwest-alaska/",
+        "title": "Fall storm impacts felt statewide, with storm surge flooding in Southwest Alaska",
+        "source": "alaskasnewssource.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T03:51:00Z",
+        "url": "https://www.alaskasnewssource.com/2026/09/16/fall-storm-impacts-felt-statewide-with-storm-surge-flooding-southwest-alaska/",
+        "mention_text": "Southwest Alaska",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Ercolini Park Emergency Hub, Southwest Alaska Street, Alaska Junction, West Seattle, Seattle, King County, Washington, 98116, United States",
+        "osm_type": "assembly_point",
+        "osm_id": 3531986394,
+        "run_at": "2026-09-16T10:55:45.971418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3931342,
+          47.5614368
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.alaskasnewssource.com/video/2026/09/16/fall-storm-impacts-felt-statewide-with-storm-surge-flooding-southwest-alaska/",
+        "title": "Fall storm impacts felt statewide, with storm surge flooding in Southwest Alaska",
+        "source": "alaskasnewssource.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T03:50:00Z",
+        "url": "https://www.alaskasnewssource.com/video/2026/09/16/fall-storm-impacts-felt-statewide-with-storm-surge-flooding-southwest-alaska/",
+        "mention_text": "Southwest Alaska",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Ercolini Park Emergency Hub, Southwest Alaska Street, Alaska Junction, West Seattle, Seattle, King County, Washington, 98116, United States",
+        "osm_type": "assembly_point",
+        "osm_id": 3531986394,
+        "run_at": "2026-09-16T10:55:45.971418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5781416,
+          39.100105
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kansascity.com/news/weather-news/article317260070.html",
+        "title": "Update: The flood advisory for the Kansas City area is anticipated to expire at midnight",
+        "source": "Kansas City Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T05:18:06Z",
+        "url": "https://www.kansascity.com/news/weather-news/article317260070.html",
+        "mention_text": "Kansas City",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kansas City, Jackson County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 141008,
+        "run_at": "2026-09-16T10:55:45.971418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/09/03/coastal-flood-advisory-issued-for-north-bay-interior-valleys-for-friday/",
+        "title": "Coastal flood advisory issued for North Bay Interior Valleys for Friday",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-04T06:23:30Z",
+        "url": "https://www.eastbaytimes.com/2026/09/03/coastal-flood-advisory-issued-for-north-bay-interior-valleys-for-friday/",
+        "mention_text": "North Bay",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-09-16T10:55:45.971418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailynews.com/2026/09/05/coastal-flood-advisory-active-for-los-angeles-county-beaches-until-tuesday-night/",
+        "title": "Coastal flood advisory active for Los Angeles County beaches until Tuesday night",
+        "source": "dailynews.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-05T07:00:00Z",
+        "url": "https://www.dailynews.com/2026/09/05/coastal-flood-advisory-active-for-los-angeles-county-beaches-until-tuesday-night/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-09-16T10:55:45.971418+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.presstelegram.com/2026/09/06/flood-advisory-issued-for-los-angeles-county-sunday-afternoon-caused-by-prolonged-downpours/",
+        "title": "Flood advisory issued for Los Angeles County Sunday afternoon caused by prolonged downpours",
+        "source": "Press Telegram",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-07T00:56:58Z",
+        "url": "https://www.presstelegram.com/2026/09/06/flood-advisory-issued-for-los-angeles-county-sunday-afternoon-caused-by-prolonged-downpours/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-09-16T10:55:45.971418+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-09-15T11:06:35.321871+00:00",
-    "total_features": 4510
+    "last_updated": "2026-09-16T10:55:45.993668+00:00",
+    "total_features": 4533
   }
 }
