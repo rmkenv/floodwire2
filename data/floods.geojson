@@ -117858,11 +117858,1285 @@
         "osm_id": 396479,
         "run_at": "2026-09-16T10:55:45.971418+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317274848.html",
+        "title": "UPDATE: Flash flood warning previously issued for San Bernardino County will expire at 9:30 p.m.",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T04:36:05Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317274848.html",
+        "mention_text": "San Bernardino County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.974847,
+          32.2228765
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf89DjBCPPdK9542dkSUC",
+        "title": "Tucson NWS Extends Flash Flood Warning After 1\u20131.5 Inches of Rain in Pima and Pinal Counties",
+        "source": "forth.news",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T04:27:00Z",
+        "url": "https://www.forth.news/stories/Cf89DjBCPPdK9542dkSUC",
+        "mention_text": "Tucson",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tucson, Pima County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 253824,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.074141,
+          33.4484367
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox10phoenix.com/video/fmc-q8ksdqb9hlsavhjw",
+        "title": "Flash flood warnings, fed raises rates | FOX 10 Phoenix",
+        "source": "FOX 10 Phoenix",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T04:24:22Z",
+        "url": "https://www.fox10phoenix.com/video/fmc-q8ksdqb9hlsavhjw",
+        "mention_text": "Phoenix",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Phoenix, Maricopa County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 111257,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4359392,
+          40.4144817
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kansascity.com/news/weather-news/article317265868.html",
+        "title": "Update: Flood warning issued for Leavenworth and Atchison counties until 1 a.m. Friday",
+        "source": "Kansas City Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T02:16:04Z",
+        "url": "https://www.kansascity.com/news/weather-news/article317265868.html",
+        "mention_text": "Atchison",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Atchison County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180516,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.996047,
+          34.5802074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kob.com/new-mexico/flash-flood-watch-in-western-and-central-new-mexico-as-heavy-rain-hits/",
+        "title": "Flash flood watch in western and central New Mexico as heavy rain hits",
+        "source": "KOB 4",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T22:34:22Z",
+        "url": "https://www.kob.com/new-mexico/flash-flood-watch-in-western-and-central-new-mexico-as-heavy-rain-hits/",
+        "mention_text": "New Mexico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 162014,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kold.com/video/2026/09/17/flash-flood-risk-continues-through-wednesday-night-arizona/",
+        "title": "Tucson Weather: Flash flood risk continues through Wednesday night for Arizona",
+        "source": "KOLD",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T00:53:36Z",
+        "url": "https://www.kold.com/video/2026/09/17/flash-flood-risk-continues-through-wednesday-night-arizona/",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf85RKndtiAdhzTjrLfRM",
+        "title": "Flash Flood Warning Issued for Mohave and San Bernardino Counties as Heavy Rain Continues",
+        "source": "forth.news",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T00:52:00Z",
+        "url": "https://www.forth.news/stories/Cf85RKndtiAdhzTjrLfRM",
+        "mention_text": "San Bernardino",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.827117,
+          35.7218038
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf8B8AnszSEvVPVBHzBhR",
+        "title": "Flash Flood Warning in Mohave and San Bernardino Counties Until 9:30 PM",
+        "source": "forth.news",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T00:52:00Z",
+        "url": "https://www.forth.news/stories/Cf8B8AnszSEvVPVBHzBhR",
+        "mention_text": "Mohave",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mohave County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832203,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf8B8AnszSEvVPVBHzBhR",
+        "title": "Flash Flood Warning in Mohave and San Bernardino Counties Until 9:30 PM",
+        "source": "forth.news",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T00:52:00Z",
+        "url": "https://www.forth.news/stories/Cf8B8AnszSEvVPVBHzBhR",
+        "mention_text": "San Bernardino",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.074141,
+          33.4484367
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf7msGQcHECSea743pvTb",
+        "title": "Phoenix NWS Issues Flash Flood Warning for Maricopa County Amid Heavy Rain",
+        "source": "forth.news",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T23:37:00Z",
+        "url": "https://www.forth.news/stories/Cf7msGQcHECSea743pvTb",
+        "mention_text": "Phoenix",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Phoenix, Maricopa County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 111257,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5515965,
+          34.5668857
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf7vFwxRa4XhzLCRcAgtP",
+        "title": "Yavapai County Flash Flood Warning Lifts; Roads Still Risky",
+        "source": "forth.news",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T22:32:00Z",
+        "url": "https://www.forth.news/stories/Cf7vFwxRa4XhzLCRcAgtP",
+        "mention_text": "Yavapai County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Yavapai County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832215,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.607716,
+          38.7251776
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf8J1A7KLAWGjYeJS7Cub",
+        "title": "Life\u2011Threatening Flash Flood Warning Issued for Colorado\u2019s Gold Mountain Burn Scar",
+        "source": "forth.news",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T03:17:00Z",
+        "url": "https://www.forth.news/stories/Cf8J1A7KLAWGjYeJS7Cub",
+        "mention_text": "Colorado",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 161961,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kold.com/video/2026/09/17/heavy-rain-flash-flood-risk-continues-through-wednesday-evening-most-arizona/",
+        "title": "Heavy rain and flash flood risk continues through Wednesday evening for most of Arizona",
+        "source": "KOLD",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T01:32:27Z",
+        "url": "https://www.kold.com/video/2026/09/17/heavy-rain-flash-flood-risk-continues-through-wednesday-evening-most-arizona/",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf7xB5YBCoNYuGXu1PLZt",
+        "title": "Flash Flood Warning Issued for West Central Cochise County, Arizona Until 7 PM MST",
+        "source": "forth.news",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T22:57:00Z",
+        "url": "https://www.forth.news/stories/Cf7xB5YBCoNYuGXu1PLZt",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.49123,
+          33.34883
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf81DneMuqYgqA7aAjj9a",
+        "title": "Flash Flood Warning Extended in Maricopa County, Arizona, Until 5:45 PM MST",
+        "source": "forth.news",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T23:37:00Z",
+        "url": "https://www.forth.news/stories/Cf81DneMuqYgqA7aAjj9a",
+        "mention_text": "Maricopa County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maricopa County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832201,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf81DneMuqYgqA7aAjj9a",
+        "title": "Flash Flood Warning Extended in Maricopa County, Arizona, Until 5:45 PM MST",
+        "source": "forth.news",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T23:37:00Z",
+        "url": "https://www.forth.news/stories/Cf81DneMuqYgqA7aAjj9a",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.2208263,
+          31.560411
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf82jVfNC68LmAo3Pv2AP",
+        "title": "NWS Issues Flash Flood Warning for North Central Cochise County, Arizona",
+        "source": "forth.news",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T00:00:00Z",
+        "url": "https://www.forth.news/stories/Cf82jVfNC68LmAo3Pv2AP",
+        "mention_text": "North Central Cochise County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Central Avenue, Sierra Vista, Cochise County, Arizona, 85635, United States",
+        "osm_type": "residential",
+        "osm_id": 16812097,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf82jVfNC68LmAo3Pv2AP",
+        "title": "NWS Issues Flash Flood Warning for North Central Cochise County, Arizona",
+        "source": "forth.news",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T00:00:00Z",
+        "url": "https://www.forth.news/stories/Cf82jVfNC68LmAo3Pv2AP",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3045103,
+          41.6264414
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf7pCAfbiVUnn1N9bWy1L",
+        "title": "Flash Flood Warning Remains in Effect for Wayne County, Utah, Amid Ongoing Flooding in Capitol Reef National Park",
+        "source": "forth.news",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T21:15:00Z",
+        "url": "https://www.forth.news/stories/Cf7pCAfbiVUnn1N9bWy1L",
+        "mention_text": "Wayne County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Wayne County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417782,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf7pCAfbiVUnn1N9bWy1L",
+        "title": "Flash Flood Warning Remains in Effect for Wayne County, Utah, Amid Ongoing Flooding in Capitol Reef National Park",
+        "source": "forth.news",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T21:15:00Z",
+        "url": "https://www.forth.news/stories/Cf7pCAfbiVUnn1N9bWy1L",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6948197,
+          35.9363252
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf7fQDPqWzQRu4nEgevfo",
+        "title": "Flash Flood Warning Issued for Coconino County, Arizona Amid Heavy Rain",
+        "source": "forth.news",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T21:34:00Z",
+        "url": "https://www.forth.news/stories/Cf7fQDPqWzQRu4nEgevfo",
+        "mention_text": "Coconino County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Coconino County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832185,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf7fQDPqWzQRu4nEgevfo",
+        "title": "Flash Flood Warning Issued for Coconino County, Arizona Amid Heavy Rain",
+        "source": "forth.news",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T21:34:00Z",
+        "url": "https://www.forth.news/stories/Cf7fQDPqWzQRu4nEgevfo",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4508165,
+          33.7876673
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf84G5WXmXYmNHWEUsqwE",
+        "title": "Flash Flood Warning Lifts in Lincoln County as Heavy Rain Subsides",
+        "source": "forth.news",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T21:36:00Z",
+        "url": "https://www.forth.news/stories/Cf84G5WXmXYmNHWEUsqwE",
+        "mention_text": "Lincoln County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lincoln County, Georgia, 30817, United States",
+        "osm_type": "administrative",
+        "osm_id": 448085,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.1366966,
+          40.0990074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf7neQdDmc4bCR2uc9JtL",
+        "title": "Flash Flood Warning in Grand County, UT, Lifts as Heavy Rain Subsides",
+        "source": "forth.news",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T20:54:00Z",
+        "url": "https://www.forth.news/stories/Cf7neQdDmc4bCR2uc9JtL",
+        "mention_text": "Grand County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand County, Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 1411353,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9805484,
+          41.5595723
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.12news.com/video/weather/rainstorms-move-across-phoenix-flash-flood-warnings-issued/75-23c048c3-8f68-486c-8944-52348aed3f08",
+        "title": "Rainstorms move across the Valley, flash flood warnings issued",
+        "source": "12News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T20:06:00Z",
+        "url": "https://www.12news.com/video/weather/rainstorms-move-across-phoenix-flash-flood-warnings-issued/75-23c048c3-8f68-486c-8944-52348aed3f08",
+        "mention_text": "Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Valley County, Nebraska, United States",
+        "osm_type": "administrative",
+        "osm_id": 1425395,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.5698777,
+          39.4433009
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf7hh2vWArP4HKtvxC5qt",
+        "title": "Flash Flood Warning Stays in Effect Until 4:45 PM MDT in Southeast Emery County",
+        "source": "forth.news",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T19:48:00Z",
+        "url": "https://www.forth.news/stories/Cf7hh2vWArP4HKtvxC5qt",
+        "mention_text": "Southeast Emery County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Southeast Mounds Reservoir, Price River Road, Emery County, Utah, United States",
+        "osm_type": "reservoir",
+        "osm_id": 356674169,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6948197,
+          35.9363252
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf7hJnJ4yhzevjSauqqsF",
+        "title": "Severe Flash Flood Warning Issued for Coconino County, AZ, Until 4:45 PM MST",
+        "source": "forth.news",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T19:44:00Z",
+        "url": "https://www.forth.news/stories/Cf7hJnJ4yhzevjSauqqsF",
+        "mention_text": "Coconino County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Coconino County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832185,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.redlandsdailyfacts.com/2026/09/16/update-flash-flood-warning-affecting-san-bernardino-and-mohave-counties-until-wednesday-night/",
+        "title": "Update: Flash flood warning affecting San Bernardino and Mohave counties until Wednesday night",
+        "source": "Redlands Daily Facts",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T05:40:47Z",
+        "url": "https://www.redlandsdailyfacts.com/2026/09/16/update-flash-flood-warning-affecting-san-bernardino-and-mohave-counties-until-wednesday-night/",
+        "mention_text": "San Bernardino",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.4786676,
+          35.214632
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf7neFkRc9Qf7F3Bq6WTW",
+        "title": "NWS Issues Flash Flood Warning for Apache County, Arizona Amid Heavy Rain",
+        "source": "forth.news",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T20:53:00Z",
+        "url": "https://www.forth.news/stories/Cf7neFkRc9Qf7F3Bq6WTW",
+        "mention_text": "Apache County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Apache County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832179,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf7neFkRc9Qf7F3Bq6WTW",
+        "title": "NWS Issues Flash Flood Warning for Apache County, Arizona Amid Heavy Rain",
+        "source": "forth.news",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T20:53:00Z",
+        "url": "https://www.forth.news/stories/Cf7neFkRc9Qf7F3Bq6WTW",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.upi.com/Top_News/US/2026/09/16/grand-canyon-flooding-remains/6271789587018/",
+        "title": "Human remains found in Grand Canyon after deadly flash flood",
+        "source": "upi.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T19:34:22Z",
+        "url": "https://www.upi.com/Top_News/US/2026/09/16/grand-canyon-flooding-remains/6271789587018/",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6948197,
+          35.9363252
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf7bCuqP7x5Z83LE1FTWB",
+        "title": "Severe Flash Flood Warning Issued for Coconino County, AZ, Until 2:30 PM MST",
+        "source": "forth.news",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T18:23:00Z",
+        "url": "https://www.forth.news/stories/Cf7bCuqP7x5Z83LE1FTWB",
+        "mention_text": "Coconino County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Coconino County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832185,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.996047,
+          34.5802074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.koat.com/article/newcomb-new-mexico-flash-flood-deaths/73761682",
+        "title": "Flash flood leaves 2 adults and a child dead in northwest New Mexico",
+        "source": "KOAT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T23:19:00Z",
+        "url": "https://www.koat.com/article/newcomb-new-mexico-flash-flood-deaths/73761682",
+        "mention_text": "New Mexico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 162014,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/leisure-recreation/human-remains-found-in-grand-canyon-after-deadly-flash-flood/1934915",
+        "title": "Human remains found in Grand Canyon after deadly flash flood",
+        "source": "AccuWeather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T19:24:27Z",
+        "url": "https://www.accuweather.com/en/leisure-recreation/human-remains-found-in-grand-canyon-after-deadly-flash-flood/1934915",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.996047,
+          34.5802074
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/2026/09/16/news/weather/3-dead-in-new-mexico-flooding-flash-flood-warnings-issued-in-arizona",
+        "title": "3 drown in New Mexico flooding; flash flood warnings issued in Arizona",
+        "source": "The Weather Channel",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T19:26:00Z",
+        "url": "https://weather.com/2026/09/16/news/weather/3-dead-in-new-mexico-flooding-flash-flood-warnings-issued-in-arizona",
+        "mention_text": "New Mexico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 162014,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/2026/09/16/news/weather/3-dead-in-new-mexico-flooding-flash-flood-warnings-issued-in-arizona",
+        "title": "3 drown in New Mexico flooding; flash flood warnings issued in Arizona",
+        "source": "The Weather Channel",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T19:26:00Z",
+        "url": "https://weather.com/2026/09/16/news/weather/3-dead-in-new-mexico-flooding-flash-flood-warnings-issued-in-arizona",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.abc4.com/utah-weather/rebounding-temperatures-flash-flood-threat/",
+        "title": "Utah weather: Rebounding temperatures with an elevated flash flood threat for some",
+        "source": "ABC4 Utah",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-15T13:24:00Z",
+        "url": "https://www.abc4.com/utah-weather/rebounding-temperatures-flash-flood-threat/",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.8776144,
+          39.5462048
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf7CiBsfQXTcbrafaFwh7",
+        "title": "Severe Flash Flood Warning Issued for Garfield County, Utah, Until 10:30 AM MDT",
+        "source": "forth.news",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T13:29:00Z",
+        "url": "https://www.forth.news/stories/Cf7CiBsfQXTcbrafaFwh7",
+        "mention_text": "Garfield County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Garfield County, Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 1411340,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf7CiBsfQXTcbrafaFwh7",
+        "title": "Severe Flash Flood Warning Issued for Garfield County, Utah, Until 10:30 AM MDT",
+        "source": "forth.news",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T13:29:00Z",
+        "url": "https://www.forth.news/stories/Cf7CiBsfQXTcbrafaFwh7",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/human-remains-found-grand-canyon-191618478.html",
+        "title": "Human remains found in Grand Canyon after deadly flash flood",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T19:16:18Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/human-remains-found-grand-canyon-191618478.html",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.996047,
+          34.5802074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/3-dead-mexico-flooding-flash-192601763.html",
+        "title": "3 dead in New Mexico flooding; flash flood warnings issued in Arizona",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T19:26:01Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/3-dead-mexico-flooding-flash-192601763.html",
+        "mention_text": "New Mexico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 162014,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/3-dead-mexico-flooding-flash-192601763.html",
+        "title": "3 dead in New Mexico flooding; flash flood warnings issued in Arizona",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T19:26:01Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/3-dead-mexico-flooding-flash-192601763.html",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6881395,
+          40.2253569
+        ]
+      },
+      "properties": {
+        "article_id": "https://wbznewsradio.iheart.com/content/2026-09-16-flash-flood-threat-covering-parts-of-ohio-valley/",
+        "title": "Flash Flood Threat Covering Parts Of Ohio Valley",
+        "source": "WBZ NewsRadio 1030",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T14:45:00Z",
+        "url": "https://wbznewsradio.iheart.com/content/2026-09-16-flash-flood-threat-covering-parts-of-ohio-valley/",
+        "mention_text": "Ohio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 162061,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4870476,
+          31.7601001
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.elpasotimes.com/story/weather/2026/09/16/flood-watch-issued-in-new-mexico-for-flash-flooding-risk/91788261007/",
+        "title": "El Paso to see more evening rain as New Mexico faces flood watch",
+        "source": "El Paso Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T11:26:00Z",
+        "url": "https://www.elpasotimes.com/story/weather/2026/09/16/flood-watch-issued-in-new-mexico-for-flash-flooding-risk/91788261007/",
+        "mention_text": "El Paso",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "El Paso, El Paso County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 113919,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.996047,
+          34.5802074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.elpasotimes.com/story/weather/2026/09/16/flood-watch-issued-in-new-mexico-for-flash-flooding-risk/91788261007/",
+        "title": "El Paso to see more evening rain as New Mexico faces flood watch",
+        "source": "El Paso Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T11:26:00Z",
+        "url": "https://www.elpasotimes.com/story/weather/2026/09/16/flood-watch-issued-in-new-mexico-for-flash-flooding-risk/91788261007/",
+        "mention_text": "New Mexico",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 162014,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9851524,
+          42.8796134
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.lehighvalleylive.com/weather/2026/09/lehigh-valley-weather-shower-chances-thursday-then-rain-returns-sunday-with-flash-flood-risk.html",
+        "title": "Lehigh Valley weather: Shower chances Thursday, then rain returns Sunday with flash flood risk",
+        "source": "Lehighvalleylive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T12:33:00Z",
+        "url": "https://www.lehighvalleylive.com/weather/2026/09/lehigh-valley-weather-shower-chances-thursday-then-rain-returns-sunday-with-flash-flood-risk.html",
+        "mention_text": "Lehigh Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lehigh Valley, 12, Wilbur Avenue, City of Geneva, Ontario County, New York, 14456, United States",
+        "osm_type": "yes",
+        "osm_id": 108707281,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kold.com/video/2026/09/16/flash-flood-watch-through-wednesday-night-heavy-monsoonal-rain-returns-arizona/",
+        "title": "Flash Flood Watch through Wednesday night as heavy monsoonal rain returns to Arizona",
+        "source": "KOLD",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T05:09:11Z",
+        "url": "https://www.kold.com/video/2026/09/16/flash-flood-watch-through-wednesday-night-heavy-monsoonal-rain-returns-arizona/",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9190317,
+          32.2675039
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wpbf.com/article/flood-advisory-issued-for-eastern-martin-county/73758179",
+        "title": "Flood Advisory issued for parts of Martin County",
+        "source": "WPBF",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T13:16:00Z",
+        "url": "https://www.wpbf.com/article/flood-advisory-issued-for-eastern-martin-county/73758179",
+        "mention_text": "Martin County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Martin County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1812344,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0363849,
+          38.8950982
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317222122.html",
+        "title": "Flood advisory active for Tyrrell and Washington counties early Saturday evening",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-12T18:24:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317222122.html",
+        "mention_text": "Washington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Washington, District of Columbia, United States",
+        "osm_type": "city",
+        "osm_id": 5396194,
+        "run_at": "2026-09-17T11:02:47.444639+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-09-16T10:55:45.993668+00:00",
-    "total_features": 4533
+    "last_updated": "2026-09-17T11:02:47.466723+00:00",
+    "total_features": 4582
   }
 }
