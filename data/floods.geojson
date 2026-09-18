@@ -119132,11 +119132,895 @@
         "osm_id": 5396194,
         "run_at": "2026-09-17T11:02:47.444639+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2512895,
+          45.0157576
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/northeast-flash-flood-threat-weekend-rain",
+        "title": "Renewed flash flood threat targets Northeast as weekend downpours expected to drench major I-95 cities",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T13:55:00Z",
+        "url": "https://www.foxweather.com/weather-news/northeast-flash-flood-threat-weekend-rain",
+        "mention_text": "Northeast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Northeast, Minneapolis, Hennepin County, Minnesota, United States",
+        "osm_type": "administrative",
+        "osm_id": 20599855,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6999678,
+          38.5981639
+        ]
+      },
+      "properties": {
+        "article_id": "https://kutv.com/news/local/flash-flood-traps-hikers-near-goblin-valley-prompting-canyon-rescue",
+        "title": "Flash flood traps hikers near Goblin Valley, prompting canyon rescue",
+        "source": "KUTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-18T04:03:12Z",
+        "url": "https://kutv.com/news/local/flash-flood-traps-hikers-near-goblin-valley-prompting-canyon-rescue",
+        "mention_text": "Goblin Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Goblin Valley State Park, Emery County, Utah, United States",
+        "osm_type": "nature_reserve",
+        "osm_id": 4760264,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2703886,
+          39.2096446
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kjzz.org/fronteras-desk/2026-09-17/2nd-flash-flood-moved-through-parts-of-the-grand-canyon-on-wednesday-no-injuries-reported",
+        "title": "2nd flash flood moved through parts of the Grand Canyon on Wednesday. No injuries reported",
+        "source": "KJZZ",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T20:49:00Z",
+        "url": "https://www.kjzz.org/fronteras-desk/2026-09-17/2nd-flash-flood-moved-through-parts-of-the-grand-canyon-on-wednesday-no-injuries-reported",
+        "mention_text": "the Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Price Road, The Highlands, Miami Township, Clermont County, Ohio, 45147, United States",
+        "osm_type": "camp_site",
+        "osm_id": 12054477853,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.015407,
+          43.6447642
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastidahonews.com/2026/09/flash-flood-warning-issued-for-parts-of-eastern-idaho/",
+        "title": "Flash flood warning issued for parts of eastern Idaho",
+        "source": "eastidahonews.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-18T04:12:00Z",
+        "url": "https://www.eastidahonews.com/2026/09/flash-flood-warning-issued-for-parts-of-eastern-idaho/",
+        "mention_text": "Idaho",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Idaho, United States",
+        "osm_type": "administrative",
+        "osm_id": 162116,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.015407,
+          43.6447642
+        ]
+      },
+      "properties": {
+        "article_id": "https://localnews8.com/news/2026/09/17/heavy-rain-triggers-flash-flood-warning-across-eastern-idaho/",
+        "title": "Heavy rain triggers flash flood warning across eastern Idaho",
+        "source": "Local News 8",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-18T05:02:44Z",
+        "url": "https://localnews8.com/news/2026/09/17/heavy-rain-triggers-flash-flood-warning-across-eastern-idaho/",
+        "mention_text": "Idaho",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Idaho, United States",
+        "osm_type": "administrative",
+        "osm_id": 162116,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.12news.com/article/news/local/arizona/crews-assessing-damage-at-grand-canyon-after-another-flash-flood-bright-angel/75-3b2603f1-5c59-4962-999d-07f67d573748",
+        "title": "Crews assessing damage at Grand Canyon after another flash flood",
+        "source": "12News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T21:57:00Z",
+        "url": "https://www.12news.com/article/news/local/arizona/crews-assessing-damage-at-grand-canyon-after-another-flash-flood-bright-angel/75-3b2603f1-5c59-4962-999d-07f67d573748",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azfamily.com/2026/09/17/second-flash-flood-damages-grand-canyon-water-repairs/",
+        "title": "Second flash flood damages Grand Canyon water repairs",
+        "source": "AZ Family",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T12:55:00Z",
+        "url": "https://www.azfamily.com/2026/09/17/second-flash-flood-damages-grand-canyon-water-repairs/",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.7415268,
+          37.8872079
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf9e9ymJZBSfv1jdSg2sV",
+        "title": "Flash Flood Warning Hits Ruidoso and Otero County; Residents Urged to Seek Higher Ground",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T22:30:22Z",
+        "url": "https://www.forth.news/stories/Cf9e9ymJZBSfv1jdSg2sV",
+        "mention_text": "Otero County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Otero County, Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 1411343,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4876208,
+          35.0924825
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azfamily.com/2026/09/17/flash-flood-prompts-closure-order-grand-canyons-north-rim/",
+        "title": "Flash flood prompts closure order for Grand Canyon\u2019s North Rim",
+        "source": "AZ Family",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T12:55:00Z",
+        "url": "https://www.azfamily.com/2026/09/17/flash-flood-prompts-closure-order-grand-canyons-north-rim/",
+        "mention_text": "Grand Canyon\u2019s",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Vista Del Mundo, Albuquerque, Bernalillo County, New Mexico, 87112, United States",
+        "osm_type": "residential",
+        "osm_id": 14424313,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0610748,
+          36.2104375
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azfamily.com/2026/09/17/flash-flood-prompts-closure-order-grand-canyons-north-rim/",
+        "title": "Flash flood prompts closure order for Grand Canyon\u2019s North Rim",
+        "source": "AZ Family",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T12:55:00Z",
+        "url": "https://www.azfamily.com/2026/09/17/flash-flood-prompts-closure-order-grand-canyons-north-rim/",
+        "mention_text": "North Rim",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Rim, Coconino County, Arizona, United States",
+        "osm_type": "locality",
+        "osm_id": 150962543,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4508165,
+          33.7876673
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf9s8PpcJapbSFR1PLU7d",
+        "title": "Severe Flash Flood Warning Hits Lincoln County as Heavy Rain Rages Over Burn Scar",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T23:14:00Z",
+        "url": "https://www.forth.news/stories/Cf9s8PpcJapbSFR1PLU7d",
+        "mention_text": "Lincoln County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lincoln County, Georgia, 30817, United States",
+        "osm_type": "administrative",
+        "osm_id": 448085,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4508165,
+          33.7876673
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf9WADgHJ7FPmzS99ersJ",
+        "title": "Albuquerque NWS Extends Flash Flood Warning to 6:30 PM Amid Life\u2011Threatening Rainfall in Lincoln County",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T22:45:58Z",
+        "url": "https://www.forth.news/stories/Cf9WADgHJ7FPmzS99ersJ",
+        "mention_text": "Lincoln County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lincoln County, Georgia, 30817, United States",
+        "osm_type": "administrative",
+        "osm_id": 448085,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4508165,
+          33.7876673
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf78svmtMNPJutPNP8ja9",
+        "title": "Severe Flash Flood Warning Issued for Lincoln County, NM Amid Heavy Rainfall",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T19:19:24Z",
+        "url": "https://www.forth.news/stories/Cf78svmtMNPJutPNP8ja9",
+        "mention_text": "Lincoln County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lincoln County, Georgia, 30817, United States",
+        "osm_type": "administrative",
+        "osm_id": 448085,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.015407,
+          43.6447642
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf9JLMkajnxHGn835Xs38",
+        "title": "Life\u2011Threatening Flash Flood Warning in Idaho\u2019s Big Rock Burn Scar Until 1 PM MDT",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T18:09:57Z",
+        "url": "https://www.forth.news/stories/Cf9JLMkajnxHGn835Xs38",
+        "mention_text": "Idaho",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Idaho, United States",
+        "osm_type": "administrative",
+        "osm_id": 162116,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.292896,
+          36.3078548
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.stgeorgeutah.com/flood-and-fire/crews-assess-new-damage-following-2nd-flash-flood-event-in-grand-canyon-national-park/article_3b41493c-98ea-4308-bd70-ba4788ee8d9f.html",
+        "title": "Crews assess new damage following 2nd flash flood event in Grand Canyon National Park",
+        "source": "St. George News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T22:00:00Z",
+        "url": "https://www.stgeorgeutah.com/flood-and-fire/crews-assess-new-damage-following-2nd-flash-flood-event-in-grand-canyon-national-park/article_3b41493c-98ea-4308-bd70-ba4788ee8d9f.html",
+        "mention_text": "Grand Canyon National Park",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon National Park, Arizona, 86023, United States",
+        "osm_type": "nature_reserve",
+        "osm_id": 183377,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3140042,
+          34.6845012
+        ]
+      },
+      "properties": {
+        "article_id": "https://localnews8.com/social-feeds/2026/09/17/big-rock-fire-burn-scars-face-flash-flood-risks-as-weekend-storms-move-in/",
+        "title": "Big Rock Fire burn scars face flash flood risks as weekend storms move in",
+        "source": "Local News 8",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T22:51:06Z",
+        "url": "https://localnews8.com/social-feeds/2026/09/17/big-rock-fire-burn-scars-face-flash-flood-risks-as-weekend-storms-move-in/",
+        "mention_text": "Big Rock Fire",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Little Rock Fire Training, Little Rock, Big Rock Township, Pulaski County, Arkansas, United States",
+        "osm_type": "industrial",
+        "osm_id": 1201542376,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6999678,
+          38.5981639
+        ]
+      },
+      "properties": {
+        "article_id": "https://kutv.com/news/local/gallery/flash-flood-traps-hikers-near-goblin-valley-prompting-canyon-rescue",
+        "title": "Flash flood traps hikers near Goblin Valley, prompting canyon rescue",
+        "source": "KUTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-18T04:06:10Z",
+        "url": "https://kutv.com/news/local/gallery/flash-flood-traps-hikers-near-goblin-valley-prompting-canyon-rescue",
+        "mention_text": "Goblin Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Goblin Valley State Park, Emery County, Utah, United States",
+        "osm_type": "nature_reserve",
+        "osm_id": 4760264,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6797214,
+          45.0255624
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf8xXiK5MKv2HAhACS87c",
+        "title": "Flash Flood Warning in Northern Indiana and Ohio Remains in Effect Amid Heavy Rain",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T16:52:05Z",
+        "url": "https://www.forth.news/stories/Cf8xXiK5MKv2HAhACS87c",
+        "mention_text": "Northern Indiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South Indiana Avenue, Northern Energy Incorporated, Gaylord, Otsego County, Michigan, 49735, United States",
+        "osm_type": "residential",
+        "osm_id": 17941925,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0610748,
+          36.2104375
+        ]
+      },
+      "properties": {
+        "article_id": "https://ktar.com/arizona-news/flash-flood-grand-canyon-north-rim-sept-2026",
+        "title": "North Rim closed after 2nd flash flood tears through Grand Canyon in less than a month",
+        "source": "ktar.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T15:46:46Z",
+        "url": "https://ktar.com/arizona-news/flash-flood-grand-canyon-north-rim-sept-2026",
+        "mention_text": "North Rim",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Rim, Coconino County, Arizona, United States",
+        "osm_type": "locality",
+        "osm_id": 150962543,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://ktar.com/arizona-news/flash-flood-grand-canyon-north-rim-sept-2026",
+        "title": "North Rim closed after 2nd flash flood tears through Grand Canyon in less than a month",
+        "source": "ktar.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T15:46:46Z",
+        "url": "https://ktar.com/arizona-news/flash-flood-grand-canyon-north-rim-sept-2026",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.05254,
+          36.20018
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox5vegas.com/video/2026/09/17/closure-place-after-flash-flood-hits-grand-canyon-north-rim/",
+        "title": "Closure in place after flash flood hits Grand Canyon North Rim",
+        "source": "FOX5 Vegas",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T13:07:00Z",
+        "url": "https://www.fox5vegas.com/video/2026/09/17/closure-place-after-flash-flood-hits-grand-canyon-north-rim/",
+        "mention_text": "Grand Canyon North Rim",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon North Rim, Grand Canyon Highway, North Rim, Coconino County, Arizona, United States",
+        "osm_type": "information",
+        "osm_id": 1183478315,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article317274848.html",
+        "title": "UPDATE: San Bernardino County under a flash flood warning Wednesday night",
+        "source": "sanluisobispo.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T03:44:06Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article317274848.html",
+        "mention_text": "San Bernardino County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://news.sky.com/video/flash-flood-warnings-in-place-after-highway-collapses-in-arizona-13589181",
+        "title": "Flash flood warnings in place after highway collapses in Arizona",
+        "source": "Sky News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-18T05:43:57Z",
+        "url": "https://news.sky.com/video/flash-flood-warnings-in-place-after-highway-collapses-in-arizona-13589181",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.280075,
+          43.411391
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/flood-thunderstorm-midwest-ohio-valley-plains-september-2026",
+        "title": "Never-ending heat dome triggers relentless storms across the Midwest, millions face growing flash flood threat",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-16T10:45:00Z",
+        "url": "https://www.foxweather.com/weather-news/flood-thunderstorm-midwest-ohio-valley-plains-september-2026",
+        "mention_text": "Midwest",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Midwest, Natrona County, Wyoming, United States",
+        "osm_type": "administrative",
+        "osm_id": 252227,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7713953,
+          41.8903447
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.shawlocal.com/daily-chronicle/2026/09/17/flash-flood-warning-for-dekalb-la-salle-counties/",
+        "title": "Flash flood warning for DeKalb, La Salle counties",
+        "source": "Shaw Local",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T12:45:38Z",
+        "url": "https://www.shawlocal.com/daily-chronicle/2026/09/17/flash-flood-warning-for-dekalb-la-salle-counties/",
+        "mention_text": "DeKalb",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "DeKalb County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1800059,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox34.com/2026/09/17/body-last-missing-hiker-found-after-grand-canyon-flash-flood-wife-says/",
+        "title": "Body of last missing hiker found after Grand Canyon flash flood, wife says",
+        "source": "fox34.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T15:12:00Z",
+        "url": "https://www.fox34.com/2026/09/17/body-last-missing-hiker-found-after-grand-canyon-flash-flood-wife-says/",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4486983,
+          19.5895548
+        ]
+      },
+      "properties": {
+        "article_id": "https://bigislandnow.com/2026/09/17/another-flood-advisory-in-effect-for-portions-of-big-island/",
+        "title": "UPDATE No. 2: Flood advisory canceled for eastern portions of Big Island",
+        "source": "Big Island Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-18T07:48:00Z",
+        "url": "https://bigislandnow.com/2026/09/17/another-flood-advisory-in-effect-for-portions-of-big-island/",
+        "mention_text": "Big Island",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hawai\u02bbi, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403603,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.staradvertiser.com/2026/09/17/breaking-news/hawaii-remains-under-flood-watch-as-rain-from-former-tropical-storm-norbert-approaches/",
+        "title": "Flood advisory extended for Hawaii island as remnants from Norbert bring heavy rain",
+        "source": "staradvertiser.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-18T04:48:08Z",
+        "url": "https://www.staradvertiser.com/2026/09/17/breaking-news/hawaii-remains-under-flood-watch-as-rain-from-former-tropical-storm-norbert-approaches/",
+        "mention_text": "Hawaii",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4623642,
+          26.1598074
+        ]
+      },
+      "properties": {
+        "article_id": "https://wsvn.com/news/local/broward/downpours-bring-flooding-to-portions-of-broward-county-trigger-street-flood-advisory/",
+        "title": "Downpours bring flooding to portions of Broward County, trigger street flood advisory",
+        "source": "WSVN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T17:21:02Z",
+        "url": "https://wsvn.com/news/local/broward/downpours-bring-flooding-to-portions-of-broward-county-trigger-street-flood-advisory/",
+        "mention_text": "Broward County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Broward County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210714,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4623642,
+          26.1598074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcmiami.com/weather/stories-weather/flood-advisory-in-effect-in-broward-as-storms-drench-roadways/3860576/",
+        "title": "Flood advisory in effect in Broward as storms drench roadways",
+        "source": "NBC 6 South Florida",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T14:11:15Z",
+        "url": "https://www.nbcmiami.com/weather/stories-weather/flood-advisory-in-effect-in-broward-as-storms-drench-roadways/3860576/",
+        "mention_text": "Broward",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Broward County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210714,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0372472,
+          33.7219991
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sbsun.com/2026/09/08/flood-advisory-issued-for-riverside-county-tuesday-evening-triggered-by-excessive-rainfall/",
+        "title": "Flood advisory issued for Riverside County Tuesday evening triggered by excessive rainfall",
+        "source": "San Bernardino Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-09T02:17:04Z",
+        "url": "https://www.sbsun.com/2026/09/08/flood-advisory-issued-for-riverside-county-tuesday-evening-triggered-by-excessive-rainfall/",
+        "mention_text": "Riverside County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Riverside County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396495,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317182093.html",
+        "title": "UPDATE: Coastal flood advisory for Myrtle Beach area and Coastal Georgetown until Thursday night",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-10T07:00:00Z",
+        "url": "https://www.thestate.com/news/weather-news/article317182093.html",
+        "mention_text": "Myrtle Beach",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Myrtle Beach, Horry County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193842,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3595655,
+          38.6898781
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317182093.html",
+        "title": "UPDATE: Coastal flood advisory for Myrtle Beach area and Coastal Georgetown until Thursday night",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-10T07:00:00Z",
+        "url": "https://www.thestate.com/news/weather-news/article317182093.html",
+        "mention_text": "Coastal Georgetown",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Delaware Coastal Airport, Sussex Avenue, Georgetown, Sussex County, Delaware, 19947, United States",
+        "osm_type": "aerodrome",
+        "osm_id": 726617667,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sgvtribune.com/2026/09/06/flood-advisory-issued-for-los-angeles-county-sunday-afternoon-caused-by-prolonged-downpours/",
+        "title": "Flood advisory issued for Los Angeles County Sunday afternoon caused by prolonged downpours",
+        "source": "San Gabriel Valley Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-06T20:14:02Z",
+        "url": "https://www.sgvtribune.com/2026/09/06/flood-advisory-issued-for-los-angeles-county-sunday-afternoon-caused-by-prolonged-downpours/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-09-18T10:39:35.331289+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-09-17T11:02:47.466723+00:00",
-    "total_features": 4582
+    "last_updated": "2026-09-18T10:39:35.354291+00:00",
+    "total_features": 4616
   }
 }
