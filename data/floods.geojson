@@ -120016,11 +120016,505 @@
         "osm_id": 396479,
         "run_at": "2026-09-18T10:39:35.331289+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6870693,
+          35.0349239
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.koat.com/article/flash-flood-warning-issued-for-bernalillo-county-until-12-am/73797269",
+        "title": "Flash flood warning issued for Bernalillo County until 12 a.m.",
+        "source": "KOAT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-19T03:15:00Z",
+        "url": "https://www.koat.com/article/flash-flood-warning-issued-for-bernalillo-county-until-12-am/73797269",
+        "mention_text": "Bernalillo County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Bernalillo County, New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832180,
+        "run_at": "2026-09-19T10:22:44.992730+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317298776.html",
+        "title": "Flash flood warning issued for the Piedmont region until Friday evening",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-18T19:24:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317298776.html",
+        "mention_text": "Piedmont",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-09-19T10:22:44.992730+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6881395,
+          40.2253569
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mtexpress.com/news/environment/ohio-fire-burn-scar-under-flash-flood-warning/article_c1313a3c-57dc-4687-818f-d26f06ebb8bc.html",
+        "title": "Ohio Fire burn scar under flash flood warning",
+        "source": "mtexpress.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-18T16:00:00Z",
+        "url": "https://www.mtexpress.com/news/environment/ohio-fire-burn-scar-under-flash-flood-warning/article_c1313a3c-57dc-4687-818f-d26f06ebb8bc.html",
+        "mention_text": "Ohio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 162061,
+        "run_at": "2026-09-19T10:22:44.992730+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.607716,
+          38.7251776
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfBjQm8JSkV5DSHKT5vsJ",
+        "title": "NWS Grand Junction Extends Flash Flood Warning to 9:45 PM Amid Heavy Rain in Colorado and Utah",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-19T01:32:00Z",
+        "url": "https://www.forth.news/stories/CfBjQm8JSkV5DSHKT5vsJ",
+        "mention_text": "Colorado",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 161961,
+        "run_at": "2026-09-19T10:22:44.992730+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfBjQm8JSkV5DSHKT5vsJ",
+        "title": "NWS Grand Junction Extends Flash Flood Warning to 9:45 PM Amid Heavy Rain in Colorado and Utah",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-19T01:32:00Z",
+        "url": "https://www.forth.news/stories/CfBjQm8JSkV5DSHKT5vsJ",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-09-19T10:22:44.992730+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4363361,
+          47.6702327
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kivitv.com/weather/unsettled-friday-before-a-weekend-warm-up",
+        "title": "Flash Flood watch issued for Central and Eastern Idaho",
+        "source": "Idaho News 6",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-18T22:10:00Z",
+        "url": "https://www.kivitv.com/weather/unsettled-friday-before-a-weekend-warm-up",
+        "mention_text": "Central and Eastern Idaho",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Girl Scouts of Eastern Washington and Northern Idaho, West Sinto Avenue, West Central, Spokane, Spokane County, Washington, 99201, United States",
+        "osm_type": "ngo",
+        "osm_id": 415692089,
+        "run_at": "2026-09-19T10:22:44.992730+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.125195,
+          32.5801231
+        ]
+      },
+      "properties": {
+        "article_id": "https://idahonews.com/news/local/flash-flood-warning-issued-for-part-of-elmore-county",
+        "title": "Flash Flood Warning issued for part of Elmore County",
+        "source": "idahonews.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-18T18:06:29Z",
+        "url": "https://idahonews.com/news/local/flash-flood-warning-issued-for-part-of-elmore-county",
+        "mention_text": "Elmore County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Elmore County, Alabama, United States",
+        "osm_type": "administrative",
+        "osm_id": 1848772,
+        "run_at": "2026-09-19T10:22:44.992730+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4605713,
+          42.3294391
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.shawlocal.com/northwest-herald/2026/09/18/flash-flood-watch-in-mchenry-county-cancels-saturday-events/",
+        "title": "Flash flood watch in McHenry County cancels Saturday events",
+        "source": "Shaw Local",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-18T23:37:45Z",
+        "url": "https://www.shawlocal.com/northwest-herald/2026/09/18/flash-flood-watch-in-mchenry-county-cancels-saturday-events/",
+        "mention_text": "McHenry County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "McHenry County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1558785,
+        "run_at": "2026-09-19T10:22:44.992730+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.280075,
+          43.411391
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/US/flash-flood-threat-targets-midwest-heading-northeast-latest/story?id=136556763",
+        "title": "Flash flood threat targets Midwest before heading to Northeast: Latest",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-18T15:14:31Z",
+        "url": "https://abcnews.com/US/flash-flood-threat-targets-midwest-heading-northeast-latest/story?id=136556763",
+        "mention_text": "Midwest",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Midwest, Natrona County, Wyoming, United States",
+        "osm_type": "administrative",
+        "osm_id": 252227,
+        "run_at": "2026-09-19T10:22:44.992730+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2512895,
+          45.0157576
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/US/flash-flood-threat-targets-midwest-heading-northeast-latest/story?id=136556763",
+        "title": "Flash flood threat targets Midwest before heading to Northeast: Latest",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-18T15:14:31Z",
+        "url": "https://abcnews.com/US/flash-flood-threat-targets-midwest-heading-northeast-latest/story?id=136556763",
+        "mention_text": "Northeast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Northeast, Minneapolis, Hennepin County, Minnesota, United States",
+        "osm_type": "administrative",
+        "osm_id": 20599855,
+        "run_at": "2026-09-19T10:22:44.992730+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7980284,
+          37.005886
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfBN5dgbXG6BVdKa4x42H",
+        "title": "Emery County Issues Flash Flood Alert for Slick Rock and Slot Canyon Areas Amid Heavy Rainfall",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-18T18:22:10Z",
+        "url": "https://www.forth.news/stories/CfBN5dgbXG6BVdKa4x42H",
+        "mention_text": "Slick Rock",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Slick Rock, Barren County, Kentucky, United States",
+        "osm_type": "hamlet",
+        "osm_id": 153702601,
+        "run_at": "2026-09-19T10:22:44.992730+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/northeast-flash-flood-threat-weekend-rain",
+        "title": "New York City in the bull's-eye of renewed weekend flash flood threat taking aim at the Northeast",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T13:55:00Z",
+        "url": "https://www.foxweather.com/weather-news/northeast-flash-flood-threat-weekend-rain",
+        "mention_text": "New York City",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-09-19T10:22:44.992730+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.292896,
+          36.3078548
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nps.gov/grca/learn/news/crews-assessing-new-damage-following-second-flash-flood-event-at-grand-canyon-national-park.htm",
+        "title": "Crews Assessing New Damage Following Second Flash Flood Event at Grand Canyon National Park",
+        "source": "National Park Service (.gov)",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T20:55:57Z",
+        "url": "https://www.nps.gov/grca/learn/news/crews-assessing-new-damage-following-second-flash-flood-event-at-grand-canyon-national-park.htm",
+        "mention_text": "Grand Canyon National Park",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon National Park, Arizona, 86023, United States",
+        "osm_type": "nature_reserve",
+        "osm_id": 183377,
+        "run_at": "2026-09-19T10:22:44.992730+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7243677,
+          35.3223719
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/Cf9zjvtC1MGBdTgad3BEz",
+        "title": "NWS Issues Flash Flood Warning for Northern Sandoval County Until 10 PM MDT",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-18T01:38:00Z",
+        "url": "https://www.forth.news/stories/Cf9zjvtC1MGBdTgad3BEz",
+        "mention_text": "Northern Sandoval County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Northern Meadows Drainage Pond, Rio Rancho, Sandoval County, New Mexico, United States",
+        "osm_type": "pond",
+        "osm_id": 482025138,
+        "run_at": "2026-09-19T10:22:44.992730+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0529243,
+          36.1974532
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azfamily.com/video/2026/09/17/closure-place-after-flash-flood-hits-grand-canyon-north-rim/",
+        "title": "Closure in place after flash flood hits Grand Canyon North Rim",
+        "source": "AZ Family",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-17T13:07:00Z",
+        "url": "https://www.azfamily.com/video/2026/09/17/closure-place-after-flash-flood-hits-grand-canyon-north-rim/",
+        "mention_text": "Grand Canyon North Rim",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon North Rim, Transept Trail, North Rim, Coconino County, Arizona, United States",
+        "osm_type": "attraction",
+        "osm_id": 5416328431,
+        "run_at": "2026-09-19T10:22:44.992730+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1335644,
+          34.235309
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317299667.html",
+        "title": "Flood advisory affecting Forsyth County until Friday evening due to significant rainfall",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-18T20:20:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317299667.html",
+        "mention_text": "Forsyth County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Forsyth County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 1024740,
+        "run_at": "2026-09-19T10:22:44.992730+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6910719,
+          40.177058
+        ]
+      },
+      "properties": {
+        "article_id": "https://kmyu.tv/newsletters/extreme-weather-prompts-flood-advisory-school-bus-delays-in-utah-county",
+        "title": "Severe weather prompts flood advisory, school bus delays in Utah County",
+        "source": "KMYU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-18T19:48:11Z",
+        "url": "https://kmyu.tv/newsletters/extreme-weather-prompts-flood-advisory-school-bus-delays-in-utah-county",
+        "mention_text": "Utah County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Utah County, Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 1744370,
+        "run_at": "2026-09-19T10:22:44.992730+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4328622,
+          38.4692006
+        ]
+      },
+      "properties": {
+        "article_id": "https://county10.com/nwsr-issues-flood-advisory-for-southeastern-fremont-county-sept-18/",
+        "title": "NWSR issues Flood Advisory for southeastern Fremont County \u2013 Sept. 18",
+        "source": "County 10",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-18T20:04:33Z",
+        "url": "https://county10.com/nwsr-issues-flood-advisory-for-southeastern-fremont-county-sept-18/",
+        "mention_text": "Fremont County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Fremont County, Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 1411349,
+        "run_at": "2026-09-19T10:22:44.992730+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6910719,
+          40.177058
+        ]
+      },
+      "properties": {
+        "article_id": "https://kutv.com/news/local/gallery/extreme-weather-prompts-flood-advisory-school-bus-delays-in-utah-county",
+        "title": "Severe weather prompts flood advisory, school bus delays in Utah County",
+        "source": "KUTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-18T14:44:37Z",
+        "url": "https://kutv.com/news/local/gallery/extreme-weather-prompts-flood-advisory-school-bus-delays-in-utah-county",
+        "mention_text": "Utah County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Utah County, Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 1744370,
+        "run_at": "2026-09-19T10:22:44.992730+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-09-18T10:39:35.354291+00:00",
-    "total_features": 4616
+    "last_updated": "2026-09-19T10:22:45.016205+00:00",
+    "total_features": 4635
   }
 }
