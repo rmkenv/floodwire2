@@ -120510,11 +120510,869 @@
         "osm_id": 1744370,
         "run_at": "2026-09-19T10:22:44.992730+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7342163,
+          41.6500201
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ctinsider.com/weather/article/ct-weather-forecast-rain-sunday-09-20-26-22438172.php",
+        "title": "Connecticut faces renewed flash flood threat as Sunday rain intensifies. Here's the forecast.",
+        "source": "CT Insider",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-20T07:06:32Z",
+        "url": "https://www.ctinsider.com/weather/article/ct-weather-forecast-rain-sunday-09-20-26-22438172.php",
+        "mention_text": "Connecticut",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Connecticut, United States",
+        "osm_type": "administrative",
+        "osm_id": 165794,
+        "run_at": "2026-09-20T10:41:44.350368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azfamily.com/2026/09/19/grand-canyon-officials-set-water-restoration-timeline-after-flash-flood-damage/",
+        "title": "Grand Canyon officials set water restoration timeline after flash flood damage",
+        "source": "AZ Family",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-19T17:57:00Z",
+        "url": "https://www.azfamily.com/2026/09/19/grand-canyon-officials-set-water-restoration-timeline-after-flash-flood-damage/",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-09-20T10:41:44.350368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/prolonged-tropical-downpours-target-florida-increasing-flash-flood-threat-through-next-week",
+        "title": "Prolonged tropical downpours target Florida with increasing flash flood threat through next week",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-19T18:01:00Z",
+        "url": "https://www.foxweather.com/weather-news/prolonged-tropical-downpours-target-florida-increasing-flash-flood-threat-through-next-week",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-09-20T10:41:44.350368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.280075,
+          43.411391
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/US/flash-flood-threat-targets-parts-midwest-heavy-rain/story?id=136583842",
+        "title": "Flash flood threat targets parts of the Midwest as heavy rain hits area",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-19T17:52:13Z",
+        "url": "https://abcnews.com/US/flash-flood-threat-targets-parts-midwest-heavy-rain/story?id=136583842",
+        "mention_text": "Midwest",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Midwest, Natrona County, Wyoming, United States",
+        "osm_type": "administrative",
+        "osm_id": 252227,
+        "run_at": "2026-09-20T10:41:44.350368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2232432,
+          38.5917797
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/northeast-flash-flood-threat-weekend-rain",
+        "title": "New York City in bullseye of weekend flash flood threat as storms bring gloomy end to record summer",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-19T13:55:00Z",
+        "url": "https://www.foxweather.com/weather-news/northeast-flash-flood-threat-weekend-rain",
+        "mention_text": "bullseye",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Bullseye, Sussex County, Delaware, 19966, United States",
+        "osm_type": "locality",
+        "osm_id": 158302623,
+        "run_at": "2026-09-20T10:41:44.350368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6881395,
+          40.2253569
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfEFp9DEDZVQJBuBvqgPh",
+        "title": "Hocking River Flood Warning Issued for Enterprise, Ohio; Flash Flood Alerts Continue",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-20T03:57:00Z",
+        "url": "https://www.forth.news/stories/CfEFp9DEDZVQJBuBvqgPh",
+        "mention_text": "Ohio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 162061,
+        "run_at": "2026-09-20T10:41:44.350368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2399362,
+          39.4595381
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfEFp9DEDZVQJBuBvqgPh",
+        "title": "Hocking River Flood Warning Issued for Enterprise, Ohio; Flash Flood Alerts Continue",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-20T03:57:00Z",
+        "url": "https://www.forth.news/stories/CfEFp9DEDZVQJBuBvqgPh",
+        "mention_text": "Hocking River",
+        "flood_type": "flash_flood",
+        "confidence": 0.75,
+        "osm_display": "Hocking River, Ohio, United States",
+        "osm_type": "river",
+        "osm_id": 11634007,
+        "run_at": "2026-09-20T10:41:44.350368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9131645,
+          42.8722736
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfDo8xSDjbuomvMApYZMV",
+        "title": "Flash Flood Warning in Central Gaines County, TX, Remains Until 10 PM CDT",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-20T01:03:00Z",
+        "url": "https://www.forth.news/stories/CfDo8xSDjbuomvMApYZMV",
+        "mention_text": "Central Gaines County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Frontier Gaines central office, East Lord Street, Gaines, Genesee County, Michigan, 48436, United States",
+        "osm_type": "yes",
+        "osm_id": 1314262202,
+        "run_at": "2026-09-20T10:41:44.350368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.1807779,
+          39.9847294
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfDMbFAjyHGpa439GqomQ",
+        "title": "NWS Ends Flash Flood Warning for Lee Burn Scar in Rio Blanco County",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-20T00:01:00Z",
+        "url": "https://www.forth.news/stories/CfDMbFAjyHGpa439GqomQ",
+        "mention_text": "Rio Blanco County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Rio Blanco County, Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 1411332,
+        "run_at": "2026-09-20T10:41:44.350368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5305731,
+          39.5849065
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfDWLqb4WjqEvwKrsckaD",
+        "title": "Flash Flood Warning in Sierra County, NM, Remains in Effect Until 7:15 PM MDT After Heavy Rainfall",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-19T21:47:00Z",
+        "url": "https://www.forth.news/stories/CfDWLqb4WjqEvwKrsckaD",
+        "mention_text": "Sierra County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Sierra County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396474,
+        "run_at": "2026-09-20T10:41:44.350368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.8065415,
+          30.7857437
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfDTHkmudMREPQeqtSLRW",
+        "title": "Flash Flood Warning in Pecos County, Texas, Remains in Effect Until 6 PM CDT Amid Heavy Rain",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-19T22:48:53Z",
+        "url": "https://www.forth.news/stories/CfDTHkmudMREPQeqtSLRW",
+        "mention_text": "Pecos County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pecos County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1814607,
+        "run_at": "2026-09-20T10:41:44.350368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfDTHkmudMREPQeqtSLRW",
+        "title": "Flash Flood Warning in Pecos County, Texas, Remains in Effect Until 6 PM CDT Amid Heavy Rain",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-19T22:48:53Z",
+        "url": "https://www.forth.news/stories/CfDTHkmudMREPQeqtSLRW",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-09-20T10:41:44.350368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.9398474,
+          34.8722771
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfDNMVvDnhS7XEbhFGbNq",
+        "title": "Flash Flood Warning Persists in Cibola County After Rain Stops, No More Rain Expected",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-19T20:43:40Z",
+        "url": "https://www.forth.news/stories/CfDNMVvDnhS7XEbhFGbNq",
+        "mention_text": "Cibola County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Cibola County, New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832183,
+        "run_at": "2026-09-20T10:41:44.350368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.4858295,
+          18.2247706
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfDP7XyyC85NPRx1WuRs9",
+        "title": "NWS Issues Flash Flood Warning for Puerto Rico Counties Amid Heavy Rain",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-19T19:53:31Z",
+        "url": "https://www.forth.news/stories/CfDP7XyyC85NPRx1WuRs9",
+        "mention_text": "Puerto Rico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Puerto Rico, United States",
+        "osm_type": "administrative",
+        "osm_id": 4422604,
+        "run_at": "2026-09-20T10:41:44.350368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.280075,
+          43.411391
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-3wnsf97r6w3r644h",
+        "title": "Millions across the Midwest face intense flash flood threat as severe storms linger through weekend",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-19T10:23:05Z",
+        "url": "https://www.foxweather.com/watch/fmc-3wnsf97r6w3r644h",
+        "mention_text": "Midwest",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Midwest, Natrona County, Wyoming, United States",
+        "osm_type": "administrative",
+        "osm_id": 252227,
+        "run_at": "2026-09-20T10:41:44.350368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.8155233,
+          36.5488273
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfBq7uypmnowE6TPuTo68",
+        "title": "Albuquerque NWS Extends Flash Flood Warning Through 8:15 PM for Rio Arriba and Sandoval Counties",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-19T02:17:23Z",
+        "url": "https://www.forth.news/stories/CfBq7uypmnowE6TPuTo68",
+        "mention_text": "Rio Arriba",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Rio Arriba County, New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 1411401,
+        "run_at": "2026-09-20T10:41:44.350368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.7390188,
+          43.9873519
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfBmKXxd7PacMaSSCJEnQ",
+        "title": "Severe Flash Flood Warning in Boise County: Debris Flows Threaten Roads and Homes",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-18T23:47:00Z",
+        "url": "https://www.forth.news/stories/CfBmKXxd7PacMaSSCJEnQ",
+        "mention_text": "Boise County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Boise County, Idaho, United States",
+        "osm_type": "administrative",
+        "osm_id": 1742086,
+        "run_at": "2026-09-20T10:41:44.350368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.280075,
+          43.411391
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/video/136586682/",
+        "title": "Video Flash flood threat grows across the Midwest",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-19T15:05:10Z",
+        "url": "https://abcnews.com/video/136586682/",
+        "mention_text": "Midwest",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Midwest, Natrona County, Wyoming, United States",
+        "osm_type": "administrative",
+        "osm_id": 252227,
+        "run_at": "2026-09-20T10:41:44.350368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5208718,
+          40.1989597
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/video/136552677/",
+        "title": "Video Flash flood threat on the move after storms hit Southwest and Midwest",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-18T12:36:01Z",
+        "url": "https://abcnews.com/video/136552677/",
+        "mention_text": "Southwest",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Southwest, Mount Pleasant Township, Westmoreland County, Pennsylvania, 15685, United States",
+        "osm_type": "hamlet",
+        "osm_id": 158365843,
+        "run_at": "2026-09-20T10:41:44.350368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.280075,
+          43.411391
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/video/136552677/",
+        "title": "Video Flash flood threat on the move after storms hit Southwest and Midwest",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-18T12:36:01Z",
+        "url": "https://abcnews.com/video/136552677/",
+        "mention_text": "Midwest",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Midwest, Natrona County, Wyoming, United States",
+        "osm_type": "administrative",
+        "osm_id": 252227,
+        "run_at": "2026-09-20T10:41:44.350368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4596087,
+          37.7524811
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfCPALWV2roWXj8aEKKCF",
+        "title": "NWS Issues Flash Flood Warning for Ferris Burn Scar, Dolores County",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-19T07:09:00Z",
+        "url": "https://www.forth.news/stories/CfCPALWV2roWXj8aEKKCF",
+        "mention_text": "Dolores County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dolores County, Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 416521,
+        "run_at": "2026-09-20T10:41:44.350368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9320157,
+          34.9498007
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317311011.html",
+        "title": "Flood advisory in place for Cherokee and Spartanburg counties until 1 a.m. Sunday",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-20T03:04:05Z",
+        "url": "https://www.thestate.com/news/weather-news/article317311011.html",
+        "mention_text": "Spartanburg",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Spartanburg, Spartanburg County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193950,
+        "run_at": "2026-09-20T10:41:44.350368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6936772,
+          41.4996574
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317311031.html",
+        "title": "Flood advisory active for Cleveland and Rutherford counties until 1 a.m. Sunday",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-20T03:10:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317311031.html",
+        "mention_text": "Cleveland",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cleveland, Cuyahoga County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 182130,
+        "run_at": "2026-09-20T10:41:44.350368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9023191,
+          35.3994626
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317311031.html",
+        "title": "Flood advisory active for Cleveland and Rutherford counties until 1 a.m. Sunday",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-20T03:10:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317311031.html",
+        "mention_text": "Rutherford",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Rutherford County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528741,
+        "run_at": "2026-09-20T10:41:44.350368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4328622,
+          38.4692006
+        ]
+      },
+      "properties": {
+        "article_id": "https://county10.com/nwsr-issues-flood-advisory-for-southeastern-fremont-county-sept-19/",
+        "title": "NWSR issues Flood Advisory for southeastern Fremont County \u2013 Sept. 19",
+        "source": "County 10",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-20T00:20:24Z",
+        "url": "https://county10.com/nwsr-issues-flood-advisory-for-southeastern-fremont-county-sept-19/",
+        "mention_text": "Fremont County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Fremont County, Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 1411349,
+        "run_at": "2026-09-20T10:41:44.350368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5308545,
+          27.3365805
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flood-advisory-place-manatee-sarasota-221306571.html",
+        "title": "Flood advisory in place for Manatee and Sarasota counties Saturday evening",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-19T22:13:06Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flood-advisory-place-manatee-sarasota-221306571.html",
+        "mention_text": "Sarasota",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Sarasota, Sarasota County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 117981,
+        "run_at": "2026-09-20T10:41:44.350368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3488057,
+          27.9184543
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tampabay.com/news/weather/2026/09/19/flood-advisory-hillsborough-county-saturday-evening-says-nws/",
+        "title": "Flood advisory for Hillsborough County Saturday evening, says the NWS",
+        "source": "Tampa Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-20T05:06:09Z",
+        "url": "https://www.tampabay.com/news/weather/2026/09/19/flood-advisory-hillsborough-county-saturday-evening-says-nws/",
+        "mention_text": "Hillsborough County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hillsborough County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210701,
+        "run_at": "2026-09-20T10:41:44.350368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6182086,
+          33.5723191
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317310001.html",
+        "title": "Flood advisory issued for Aiken County Saturday night caused by intense downpours",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-19T23:32:07Z",
+        "url": "https://www.thestate.com/news/weather-news/article317310001.html",
+        "mention_text": "Aiken County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Aiken County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532496,
+        "run_at": "2026-09-20T10:41:44.350368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6910719,
+          40.177058
+        ]
+      },
+      "properties": {
+        "article_id": "https://kutv.com/news/local/extreme-weather-prompts-flood-advisory-school-bus-delays-in-utah-county",
+        "title": "Severe weather prompts flood advisory, school bus delays in Utah County",
+        "source": "KUTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-18T14:38:14Z",
+        "url": "https://kutv.com/news/local/extreme-weather-prompts-flood-advisory-school-bus-delays-in-utah-county",
+        "mention_text": "Utah County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Utah County, Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 1744370,
+        "run_at": "2026-09-20T10:41:44.350368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7329309,
+          27.8778904
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tampabay.com/news/weather/2026/09/19/update-flood-advisory-active-pinellas-county-early-saturday-evening/",
+        "title": "Update: Flood advisory active for Pinellas County early Saturday evening",
+        "source": "Tampa Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-19T20:19:12Z",
+        "url": "https://www.tampabay.com/news/weather/2026/09/19/update-flood-advisory-active-pinellas-county-early-saturday-evening/",
+        "mention_text": "Pinellas County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Pinellas County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210726,
+        "run_at": "2026-09-20T10:41:44.350368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5830086,
+          34.3266879
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317311537.html",
+        "title": "Newberry County placed under a flood advisory until 3 a.m. Sunday due to intense downpours",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-20T05:08:07Z",
+        "url": "https://www.thestate.com/news/weather-news/article317311537.html",
+        "mention_text": "Newberry County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Newberry County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532518,
+        "run_at": "2026-09-20T10:41:44.350368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0372472,
+          33.7219991
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sbsun.com/2026/09/09/flood-advisory-issued-for-riverside-county-wednesday-evening-caused-by-intense-downpours/",
+        "title": "Flood advisory issued for Riverside County Wednesday evening caused by intense downpours",
+        "source": "San Bernardino Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-09T07:00:00Z",
+        "url": "https://www.sbsun.com/2026/09/09/flood-advisory-issued-for-riverside-county-wednesday-evening-caused-by-intense-downpours/",
+        "mention_text": "Riverside County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Riverside County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396495,
+        "run_at": "2026-09-20T10:41:44.350368+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article317223038.html",
+        "title": "Flood advisory active for the Piedmont region Saturday evening due to intense rain",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-12T20:30:05Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article317223038.html",
+        "mention_text": "Piedmont",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-09-20T10:41:44.350368+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-09-19T10:22:45.016205+00:00",
-    "total_features": 4635
+    "last_updated": "2026-09-20T10:41:44.365803+00:00",
+    "total_features": 4668
   }
 }
