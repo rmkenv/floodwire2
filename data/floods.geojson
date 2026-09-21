@@ -121368,11 +121368,661 @@
         "osm_id": 2999176,
         "run_at": "2026-09-20T10:41:44.350368+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6702111,
+          33.5636114
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfFZgTF4mM9iARAkCu797",
+        "title": "Flash Flood Warning Extended to 9:30 PM in Grayson County, Texas",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-21T00:35:00Z",
+        "url": "https://www.forth.news/stories/CfFZgTF4mM9iARAkCu797",
+        "mention_text": "Grayson County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grayson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1634544,
+        "run_at": "2026-09-21T12:02:17.805861+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfFZgTF4mM9iARAkCu797",
+        "title": "Flash Flood Warning Extended to 9:30 PM in Grayson County, Texas",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-21T00:35:00Z",
+        "url": "https://www.forth.news/stories/CfFZgTF4mM9iARAkCu797",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-09-21T12:02:17.805861+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.464888,
+          40.3759469
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wkyc.com/article/weather/weather-impact/flood-warning-tuscarawas-county/95-9e970d7d-0c51-49b2-a62b-e6e83a11df3c",
+        "title": "Flood Warning issued in Tuscarawas County",
+        "source": "WKYC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-20T17:51:00Z",
+        "url": "https://www.wkyc.com/article/weather/weather-impact/flood-warning-tuscarawas-county/95-9e970d7d-0c51-49b2-a62b-e6e83a11df3c",
+        "mention_text": "Tuscarawas County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Tuscarawas County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 911305,
+        "run_at": "2026-09-21T12:02:17.805861+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2466384,
+          39.8513322
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whio.com/news/local/sunday-storms-starts-fall-season-with-cool-temperatures/MBHB7UT6XZCEXOQO3OYMLSPQXY/",
+        "title": "LIVE UPDATE: Flood Warning issued for Greene County; showers, much cooler today",
+        "source": "WHIO TV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-21T04:36:45Z",
+        "url": "https://www.whio.com/news/local/sunday-storms-starts-fall-season-with-cool-temperatures/MBHB7UT6XZCEXOQO3OYMLSPQXY/",
+        "mention_text": "Greene County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Greene County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417154,
+        "run_at": "2026-09-21T12:02:17.805861+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0025666,
+          40.4406968
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/pittsburgh/news/sunday-morning-weather-flash-flooding-risk-pittsburgh-area-forecast/",
+        "title": "Flash flood risk in place in the Pittsburgh area on Sunday | First Alert Weather",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-20T15:31:42Z",
+        "url": "https://www.cbsnews.com/pittsburgh/news/sunday-morning-weather-flash-flooding-risk-pittsburgh-area-forecast/",
+        "mention_text": "Pittsburgh",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pittsburgh, Allegheny County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 188553,
+        "run_at": "2026-09-21T12:02:17.805861+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0025666,
+          40.4406968
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/pittsburgh/video/flash-flood-risk-in-place-in-pittsburgh-on-sunday-kdka-first-alert-weather-920/",
+        "title": "Flash flood risk in place in Pittsburgh on Sunday - KDKA First Alert Weather (9/20)",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-20T15:26:00Z",
+        "url": "https://www.cbsnews.com/pittsburgh/video/flash-flood-risk-in-place-in-pittsburgh-on-sunday-kdka-first-alert-weather-920/",
+        "mention_text": "Pittsburgh",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pittsburgh, Allegheny County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 188553,
+        "run_at": "2026-09-21T12:02:17.805861+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6244212,
+          41.8755616
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/chicago/video/more-wet-weather-including-flash-flood-risk-for-chicago-area-sunday/",
+        "title": "More wet weather, including Flash Flood risk for Chicago area Sunday",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-20T16:18:00Z",
+        "url": "https://www.cbsnews.com/chicago/video/more-wet-weather-including-flash-flood-risk-for-chicago-area-sunday/",
+        "mention_text": "Chicago",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Chicago, South Chicago Township, Cook County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 122604,
+        "run_at": "2026-09-21T12:02:17.805861+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8718004,
+          43.9942126
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.westofthei.com/2026/09/20/flood-warning-issued-for-fox-river-20/110522",
+        "title": "Flood warning issued for Fox River",
+        "source": "West of the I",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-20T21:35:20Z",
+        "url": "https://www.westofthei.com/2026/09/20/flood-warning-issued-for-fox-river-20/110522",
+        "mention_text": "Fox River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Fox River, Wisconsin, United States",
+        "osm_type": "river",
+        "osm_id": 4064352,
+        "run_at": "2026-09-21T12:02:17.805861+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9760405,
+          40.4597204
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flood-warning-issued-parts-allegheny-201547179.html",
+        "title": "FLOOD WARNING issued for parts of Allegheny, Washington counties",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-20T20:15:47Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flood-warning-issued-parts-allegheny-201547179.html",
+        "mention_text": "Allegheny",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Allegheny County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 2563472,
+        "run_at": "2026-09-21T12:02:17.805861+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0363849,
+          38.8950982
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flood-warning-issued-parts-allegheny-201547179.html",
+        "title": "FLOOD WARNING issued for parts of Allegheny, Washington counties",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-20T20:15:47Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flood-warning-issued-parts-allegheny-201547179.html",
+        "mention_text": "Washington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Washington, District of Columbia, United States",
+        "osm_type": "city",
+        "osm_id": 5396194,
+        "run_at": "2026-09-21T12:02:17.805861+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6881395,
+          40.2253569
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfF5sBM8dwr4CUpo772Fc",
+        "title": "Ohio Flood Warning Lifts, but Flash Flood Watch Remains for Tonight",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-20T03:57:00Z",
+        "url": "https://www.forth.news/stories/CfF5sBM8dwr4CUpo772Fc",
+        "mention_text": "Ohio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 162061,
+        "run_at": "2026-09-21T12:02:17.805861+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6881395,
+          40.2253569
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfEFRvfotAF9TcCWwyyJ6",
+        "title": "Flash Flood Warning Issued for Hocking and Pickaway Counties, Ohio, Until 9 a.m. Sunday",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-20T06:48:00Z",
+        "url": "https://www.forth.news/stories/CfEFRvfotAF9TcCWwyyJ6",
+        "mention_text": "Ohio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 162061,
+        "run_at": "2026-09-21T12:02:17.805861+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.280075,
+          43.411391
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flash-flood-threat-targets-parts-173250587.html",
+        "title": "Flash flood threat targets parts of the Midwest as heavy rain hits area",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-19T17:32:50Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flash-flood-threat-targets-parts-173250587.html",
+        "mention_text": "Midwest",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Midwest, Natrona County, Wyoming, United States",
+        "osm_type": "administrative",
+        "osm_id": 252227,
+        "run_at": "2026-09-21T12:02:17.805861+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6244212,
+          41.8755616
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/chicago/news/flood-watch-chicago-thunderstorms-downpours/",
+        "title": "Flash Flood Watch in effect until 1 p.m. for Chicago area",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-19T12:10:00Z",
+        "url": "https://www.cbsnews.com/chicago/news/flood-watch-chicago-thunderstorms-downpours/",
+        "mention_text": "Chicago",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Chicago, South Chicago Township, Cook County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 122604,
+        "run_at": "2026-09-21T12:02:17.805861+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.280075,
+          43.411391
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/2026/09/20/forecast/regional/video/midwest-ohio-valley-heavy-rain-flooding-threat",
+        "title": "Flash flood threat continues for Midwest, including Chicago",
+        "source": "The Weather Channel",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-20T11:52:24Z",
+        "url": "https://weather.com/2026/09/20/forecast/regional/video/midwest-ohio-valley-heavy-rain-flooding-threat",
+        "mention_text": "Midwest",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Midwest, Natrona County, Wyoming, United States",
+        "osm_type": "administrative",
+        "osm_id": 252227,
+        "run_at": "2026-09-21T12:02:17.805861+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6244212,
+          41.8755616
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/2026/09/20/forecast/regional/video/midwest-ohio-valley-heavy-rain-flooding-threat",
+        "title": "Flash flood threat continues for Midwest, including Chicago",
+        "source": "The Weather Channel",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-20T11:52:24Z",
+        "url": "https://weather.com/2026/09/20/forecast/regional/video/midwest-ohio-valley-heavy-rain-flooding-threat",
+        "mention_text": "Chicago",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Chicago, South Chicago Township, Cook County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 122604,
+        "run_at": "2026-09-21T12:02:17.805861+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3936114,
+          30.2226352
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kciiradio.com/2026/09/20/severe-thunderstorm-and-flash-flood-warnings-issued-for-washington-county-early-sunday-morning/",
+        "title": "Severe Thunderstorm and Flash Flood Warnings Issued for Washington County Early Sunday Morning",
+        "source": "KCII Radio",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-20T07:32:02Z",
+        "url": "https://www.kciiradio.com/2026/09/20/severe-thunderstorm-and-flash-flood-warnings-issued-for-washington-county-early-sunday-morning/",
+        "mention_text": "Washington County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Washington County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837751,
+        "run_at": "2026-09-21T12:02:17.805861+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6881395,
+          40.2253569
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfEKFuMNVvYSSzZ9ANEV3",
+        "title": "Severe Flood Warning in Ohio: Residents Urged to Avoid Roads Until 9:45 a.m.",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-20T07:39:00Z",
+        "url": "https://www.forth.news/stories/CfEKFuMNVvYSSzZ9ANEV3",
+        "mention_text": "Ohio",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 162061,
+        "run_at": "2026-09-21T12:02:17.805861+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.280075,
+          43.411391
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/2026/09/18/forecast/regional/video/midwest-great-lakes-weekend-flood-threat-river-rain",
+        "title": "Flash flood, river flood threat in Midwest from heavy rain",
+        "source": "The Weather Channel",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-18T10:28:55Z",
+        "url": "https://weather.com/2026/09/18/forecast/regional/video/midwest-great-lakes-weekend-flood-threat-river-rain",
+        "mention_text": "Midwest",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Midwest, Natrona County, Wyoming, United States",
+        "osm_type": "administrative",
+        "osm_id": 252227,
+        "run_at": "2026-09-21T12:02:17.805861+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7968559,
+          32.7762719
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article317317230.html",
+        "title": "Flood advisory in place for Dallas and Tarrant counties Sunday evening",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-09-20T22:45:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article317317230.html",
+        "mention_text": "Dallas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Dallas, Dallas County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 6571629,
+        "run_at": "2026-09-21T12:02:17.805861+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3609195,
+          27.1813609
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flood-advisory-place-sarasota-county-003807024.html",
+        "title": "Flood advisory in place for Sarasota County Sunday night due to intense downpours",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-21T00:38:00Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flood-advisory-place-sarasota-county-003807024.html",
+        "mention_text": "Sarasota County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Sarasota County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210734,
+        "run_at": "2026-09-21T12:02:17.805861+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6910719,
+          40.177058
+        ]
+      },
+      "properties": {
+        "article_id": "https://kjzz.com/news/local/extreme-weather-prompts-flood-advisory-school-bus-delays-in-utah-county",
+        "title": "Severe weather prompts flood advisory, school bus delays in Utah County",
+        "source": "kjzz.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-18T14:37:48Z",
+        "url": "https://kjzz.com/news/local/extreme-weather-prompts-flood-advisory-school-bus-delays-in-utah-county",
+        "mention_text": "Utah County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Utah County, Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 1744370,
+        "run_at": "2026-09-21T12:02:17.805861+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1413417,
+          33.1838787
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article317318394.html",
+        "title": "Collin and Denton counties placed under a flood advisory Sunday night",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-09-21T01:40:14Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article317318394.html",
+        "mention_text": "Denton",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Denton County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837621,
+        "run_at": "2026-09-21T12:02:17.805861+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6244212,
+          41.8755616
+        ]
+      },
+      "properties": {
+        "article_id": "https://chicago.suntimes.com/weather/2026/09/20/rain-thunderstorms-flooding-chicago-river-swim-weather",
+        "title": "Chicago under flood advisory, rain cancels Chicago River Swim",
+        "source": "Chicago Sun-Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-20T15:58:00Z",
+        "url": "https://chicago.suntimes.com/weather/2026/09/20/rain-thunderstorms-flooding-chicago-river-swim-weather",
+        "mention_text": "Chicago",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Chicago, South Chicago Township, Cook County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 122604,
+        "run_at": "2026-09-21T12:02:17.805861+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5308545,
+          27.3365805
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tampabay.com/news/weather/2026/09/19/flood-advisory-place-manatee-sarasota-counties-saturday-evening/",
+        "title": "Flood advisory in place for Manatee and Sarasota counties Saturday evening",
+        "source": "Tampa Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-19T23:34:32Z",
+        "url": "https://www.tampabay.com/news/weather/2026/09/19/flood-advisory-place-manatee-sarasota-counties-saturday-evening/",
+        "mention_text": "Sarasota",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Sarasota, Sarasota County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 117981,
+        "run_at": "2026-09-21T12:02:17.805861+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-09-20T10:41:44.365803+00:00",
-    "total_features": 4668
+    "last_updated": "2026-09-21T12:02:17.829780+00:00",
+    "total_features": 4693
   }
 }
