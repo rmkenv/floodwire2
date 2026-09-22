@@ -122018,11 +122018,557 @@
         "osm_id": 117981,
         "run_at": "2026-09-21T12:02:17.805861+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9747965,
+          36.0608505
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317330321.html",
+        "title": "Flash flood warning affecting Bertie County Monday night caused by thunderstorms",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-21T23:06:05Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317330321.html",
+        "mention_text": "Bertie County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Bertie County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1242005,
+        "run_at": "2026-09-22T11:03:07.358687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.996047,
+          34.5802074
+        ]
+      },
+      "properties": {
+        "article_id": "https://abc7amarillo.com/news/local/subtropical-moisture-raises-flash-flood-threat-in-eastern-new-mexico-texas-panhandle",
+        "title": "Subtropical moisture raises flash flood threat in eastern New Mexico, Texas Panhandle",
+        "source": "KVII",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-21T19:08:13Z",
+        "url": "https://abc7amarillo.com/news/local/subtropical-moisture-raises-flash-flood-threat-in-eastern-new-mexico-texas-panhandle",
+        "mention_text": "New Mexico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 162014,
+        "run_at": "2026-09-22T11:03:07.358687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://abc7amarillo.com/news/local/subtropical-moisture-raises-flash-flood-threat-in-eastern-new-mexico-texas-panhandle",
+        "title": "Subtropical moisture raises flash flood threat in eastern New Mexico, Texas Panhandle",
+        "source": "KVII",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-21T19:08:13Z",
+        "url": "https://abc7amarillo.com/news/local/subtropical-moisture-raises-flash-flood-threat-in-eastern-new-mexico-texas-panhandle",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-09-22T11:03:07.358687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8463851,
+          37.1670484
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cfpublic.org/2026-09-21/heavy-rainfall-flash-flood-risk-for-south-florida-this-week",
+        "title": "Heavy rainfall, flash flood risk for South Florida this week",
+        "source": "Central Florida Public Media",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-21T20:07:00Z",
+        "url": "https://www.cfpublic.org/2026-09-21/heavy-rainfall-flash-flood-risk-for-south-florida-this-week",
+        "mention_text": "South Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South Florida, Columbus, Cherokee County, Kansas, 66725, United States",
+        "osm_type": "residential",
+        "osm_id": 12999746,
+        "run_at": "2026-09-22T11:03:07.358687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4623642,
+          26.1598074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/miami/video/flash-flood-warning-in-broward-has-expired-but-streets-continue-to-feel-the-rains-impacts/",
+        "title": "Flash Flood warning in Broward has expired, but streets continue to feel the rain's impacts",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-21T23:20:00Z",
+        "url": "https://www.cbsnews.com/miami/video/flash-flood-warning-in-broward-has-expired-but-streets-continue-to-feel-the-rains-impacts/",
+        "mention_text": "Broward",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Broward County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210714,
+        "run_at": "2026-09-22T11:03:07.358687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5970308,
+          35.4804633
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317331088.html",
+        "title": "Flash flood warning in place for Eastern North Carolina Monday night, says the NWS",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-22T00:42:01Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317331088.html",
+        "mention_text": "Eastern North Carolina",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Eastern Correctional Institution, 2821, NC 903, Maury, Greene County, North Carolina, 28554, United States",
+        "osm_type": "prison",
+        "osm_id": 1353026405,
+        "run_at": "2026-09-22T11:03:07.358687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3289302,
+          40.7451356
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317330442.html",
+        "title": "Flash flood warning in place for Northampton County until Monday night",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-21T23:18:05Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317330442.html",
+        "mention_text": "Northampton County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Northampton County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417788,
+        "run_at": "2026-09-22T11:03:07.358687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4623642,
+          26.1598074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/miami/news/south-florida-weather-forecast-miami-fort-lauderdale-miami-dade-broward-september-21-2026/",
+        "title": "Drier forecast expected after flash flood warning in Broward expired Monday evening",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-22T01:49:34Z",
+        "url": "https://www.cbsnews.com/miami/news/south-florida-weather-forecast-miami-fort-lauderdale-miami-dade-broward-september-21-2026/",
+        "mention_text": "Broward",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Broward County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210714,
+        "run_at": "2026-09-22T11:03:07.358687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.996047,
+          34.5802074
+        ]
+      },
+      "properties": {
+        "article_id": "https://abc7amarillo.com/news/local/gallery/subtropical-moisture-raises-flash-flood-threat-in-eastern-new-mexico-texas-panhandle",
+        "title": "Subtropical moisture raises flash flood threat in eastern New Mexico, Texas Panhandle",
+        "source": "KVII",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-21T19:08:29Z",
+        "url": "https://abc7amarillo.com/news/local/gallery/subtropical-moisture-raises-flash-flood-threat-in-eastern-new-mexico-texas-panhandle",
+        "mention_text": "New Mexico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 162014,
+        "run_at": "2026-09-22T11:03:07.358687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://abc7amarillo.com/news/local/gallery/subtropical-moisture-raises-flash-flood-threat-in-eastern-new-mexico-texas-panhandle",
+        "title": "Subtropical moisture raises flash flood threat in eastern New Mexico, Texas Panhandle",
+        "source": "KVII",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-21T19:08:29Z",
+        "url": "https://abc7amarillo.com/news/local/gallery/subtropical-moisture-raises-flash-flood-threat-in-eastern-new-mexico-texas-panhandle",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-09-22T11:03:07.358687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6803497,
+          42.7303792
+        ]
+      },
+      "properties": {
+        "article_id": "https://racinecountyeye.com/2026/09/21/flood-warning-racine-2026-09-21/",
+        "title": "Flood Warning issued for Racine County \u2014 Sep 21, 2026",
+        "source": "Racine County Eye",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-21T13:42:50Z",
+        "url": "https://racinecountyeye.com/2026/09/21/flood-warning-racine-2026-09-21/",
+        "mention_text": "Racine County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 1799453,
+        "run_at": "2026-09-22T11:03:07.358687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0679837,
+          42.5729233
+        ]
+      },
+      "properties": {
+        "article_id": "https://racinecountyeye.com/2026/09/21/flood-warning-kenosha-2026-09-21/",
+        "title": "Flood Warning issued for Kenosha County \u2014 Sep 21, 2026",
+        "source": "Racine County Eye",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-21T13:33:13Z",
+        "url": "https://racinecountyeye.com/2026/09/21/flood-warning-kenosha-2026-09-21/",
+        "mention_text": "Kenosha County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kenosha County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 1799448,
+        "run_at": "2026-09-22T11:03:07.358687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6881395,
+          40.2253569
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.columbusnavigator.com/ohio-flash-flood-warnings-record/",
+        "title": "Ohio Has Had 60 Flash Flood Warnings In September, Breaking The Old Record Of 11.",
+        "source": "Columbus Navigator",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-21T15:46:25Z",
+        "url": "https://www.columbusnavigator.com/ohio-flash-flood-warnings-record/",
+        "mention_text": "Ohio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 162061,
+        "run_at": "2026-09-22T11:03:07.358687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9984697,
+          40.0064162
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flood-warning-issued-muskingum-county-123800390.html",
+        "title": "Flood warning issued for Muskingum County",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-21T12:38:00Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flood-warning-issued-muskingum-county-123800390.html",
+        "mention_text": "Muskingum County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Muskingum County, Ohio, United States",
+        "osm_type": "administrative",
+        "osm_id": 241688,
+        "run_at": "2026-09-22T11:03:07.358687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5507523,
+          35.330702
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317331802.html",
+        "title": "Cleveland County under a flood advisory until 1 a.m. Tuesday caused by persistent downpours",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-22T02:39:05Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317331802.html",
+        "mention_text": "Cleveland County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cleveland County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528688,
+        "run_at": "2026-09-22T11:03:07.358687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5076569,
+          36.4393554
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wbtv.com/2026/09/21/flood-advisory-issued-ashe-county-due-heavy-rainfall/",
+        "title": "Flood advisory issued for Ashe County due to heavy rainfall",
+        "source": "WBTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-21T20:19:00Z",
+        "url": "https://www.wbtv.com/2026/09/21/flood-advisory-issued-ashe-county-due-heavy-rainfall/",
+        "mention_text": "Ashe County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ashe County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528673,
+        "run_at": "2026-09-22T11:03:07.358687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4074712,
+          36.5595325
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317330143.html",
+        "title": "UPDATE: The flood advisory for Inyo County is likely to expire at 7:30 p.m.",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-22T02:41:04Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317330143.html",
+        "mention_text": "Inyo County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Inyo County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396491,
+        "run_at": "2026-09-22T11:03:07.358687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article317330954.html",
+        "title": "UPDATE: Flood advisory for the Piedmont region anticipated to expire at midnight",
+        "source": "News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-22T04:18:06Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article317330954.html",
+        "mention_text": "Piedmont",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-09-22T11:03:07.358687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9747965,
+          36.0608505
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317328264.html",
+        "title": "UPDATE: Flood advisory in place for Bertie County Monday night, says the NWS",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-21T22:56:05Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317328264.html",
+        "mention_text": "Bertie County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Bertie County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1242005,
+        "run_at": "2026-09-22T11:03:07.358687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3609195,
+          27.1813609
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tampabay.com/news/weather/2026/09/20/flood-advisory-place-sarasota-county-sunday-night-due-intense-downpours/",
+        "title": "Flood advisory in place for Sarasota County Sunday night due to intense downpours",
+        "source": "Tampa Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-21T00:45:07Z",
+        "url": "https://www.tampabay.com/news/weather/2026/09/20/flood-advisory-place-sarasota-county-sunday-night-due-intense-downpours/",
+        "mention_text": "Sarasota County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Sarasota County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210734,
+        "run_at": "2026-09-22T11:03:07.358687+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0779359,
+          34.4458248
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317171412.html",
+        "title": "Ventura County placed under a flood advisory until early Tuesday evening, says the NWS",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-08T21:41:11Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317171412.html",
+        "mention_text": "Ventura County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ventura County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396505,
+        "run_at": "2026-09-22T11:03:07.358687+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-09-21T12:02:17.829780+00:00",
-    "total_features": 4693
+    "last_updated": "2026-09-22T11:03:07.382044+00:00",
+    "total_features": 4714
   }
 }
