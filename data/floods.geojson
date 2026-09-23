@@ -122564,11 +122564,1129 @@
         "osm_id": 396505,
         "run_at": "2026-09-22T11:03:07.358687+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317347138.html",
+        "title": "UPDATE: Western North Carolina under a flash flood warning early Wednesday morning",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-23T07:20:08Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317347138.html",
+        "mention_text": "North Carolina",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4870476,
+          31.7601001
+        ]
+      },
+      "properties": {
+        "article_id": "https://kvia.com/news/top-stories/2026/09/23/abc-7-first-alert-flash-flood-warning-for-el-paso-and-dona-ana-counties-including-anthony-el-paso-horizon-city-santa-teresa-and-socorro-until-6-am/",
+        "title": "ABC-7 First Alert: Flash Flood Warning for El Paso and Dona Ana Counties including Anthony, El Paso, Horizon City, Santa Teresa and Socorro until 6 AM",
+        "source": "KVIA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-23T09:09:19Z",
+        "url": "https://kvia.com/news/top-stories/2026/09/23/abc-7-first-alert-flash-flood-warning-for-el-paso-and-dona-ana-counties-including-anthony-el-paso-horizon-city-santa-teresa-and-socorro-until-6-am/",
+        "mention_text": "El Paso",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "El Paso, El Paso County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 113919,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0311728,
+          37.1533554
+        ]
+      },
+      "properties": {
+        "article_id": "https://kvia.com/news/top-stories/2026/09/23/abc-7-first-alert-flash-flood-warning-for-el-paso-and-dona-ana-counties-including-anthony-el-paso-horizon-city-santa-teresa-and-socorro-until-6-am/",
+        "title": "ABC-7 First Alert: Flash Flood Warning for El Paso and Dona Ana Counties including Anthony, El Paso, Horizon City, Santa Teresa and Socorro until 6 AM",
+        "source": "KVIA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-23T09:09:19Z",
+        "url": "https://kvia.com/news/top-stories/2026/09/23/abc-7-first-alert-flash-flood-warning-for-el-paso-and-dona-ana-counties-including-anthony-el-paso-horizon-city-santa-teresa-and-socorro-until-6-am/",
+        "mention_text": "Anthony",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Anthony, Harper County, Kansas, 67003, United States",
+        "osm_type": "administrative",
+        "osm_id": 130093,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.207479,
+          31.6926121
+        ]
+      },
+      "properties": {
+        "article_id": "https://kvia.com/news/top-stories/2026/09/23/abc-7-first-alert-flash-flood-warning-for-el-paso-and-dona-ana-counties-including-anthony-el-paso-horizon-city-santa-teresa-and-socorro-until-6-am/",
+        "title": "ABC-7 First Alert: Flash Flood Warning for El Paso and Dona Ana Counties including Anthony, El Paso, Horizon City, Santa Teresa and Socorro until 6 AM",
+        "source": "KVIA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-23T09:09:19Z",
+        "url": "https://kvia.com/news/top-stories/2026/09/23/abc-7-first-alert-flash-flood-warning-for-el-paso-and-dona-ana-counties-including-anthony-el-paso-horizon-city-santa-teresa-and-socorro-until-6-am/",
+        "mention_text": "Horizon City",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Horizon City, El Paso County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 6587593,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6865799,
+          31.8700346
+        ]
+      },
+      "properties": {
+        "article_id": "https://kvia.com/news/top-stories/2026/09/23/abc-7-first-alert-flash-flood-warning-for-el-paso-and-dona-ana-counties-including-anthony-el-paso-horizon-city-santa-teresa-and-socorro-until-6-am/",
+        "title": "ABC-7 First Alert: Flash Flood Warning for El Paso and Dona Ana Counties including Anthony, El Paso, Horizon City, Santa Teresa and Socorro until 6 AM",
+        "source": "KVIA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-23T09:09:19Z",
+        "url": "https://kvia.com/news/top-stories/2026/09/23/abc-7-first-alert-flash-flood-warning-for-el-paso-and-dona-ana-counties-including-anthony-el-paso-horizon-city-santa-teresa-and-socorro-until-6-am/",
+        "mention_text": "Santa Teresa",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Santa Teresa, Do\u00f1a Ana County, New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 171075,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4508165,
+          33.7876673
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.koat.com/article/flash-flood-warning-for-south-fork-burn-scar-in-lincoln-county/73841958",
+        "title": "Flash flood warning for South Fork Burn Scar in Lincoln County",
+        "source": "KOAT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-22T22:11:00Z",
+        "url": "https://www.koat.com/article/flash-flood-warning-for-south-fork-burn-scar-in-lincoln-county/73841958",
+        "mention_text": "Lincoln County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lincoln County, Georgia, 30817, United States",
+        "osm_type": "administrative",
+        "osm_id": 448085,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4970393,
+          38.0464066
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wkyt.com/2026/09/22/two-decades-after-tragedy-lexingtons-worst-flash-flood-modern-history-still-shapes-city/",
+        "title": "Two decades after tragedy, Lexington\u2019s worst flash flood in modern history still shapes the city",
+        "source": "wkyt.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-22T22:34:00Z",
+        "url": "https://www.wkyt.com/2026/09/22/two-decades-after-tragedy-lexingtons-worst-flash-flood-modern-history-still-shapes-city/",
+        "mention_text": "Lexington",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lexington, Fayette County, Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 11078268,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.996047,
+          34.5802074
+        ]
+      },
+      "properties": {
+        "article_id": "https://kfoxtv.com/weather/heavy-rain-triggers-emergency-response-in-new-mexico-due-to-flash-flood-risk",
+        "title": "Heavy rain triggers emergency response in New Mexico due to flash flood risk",
+        "source": "KFOX",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-23T02:33:41Z",
+        "url": "https://kfoxtv.com/weather/heavy-rain-triggers-emergency-response-in-new-mexico-due-to-flash-flood-risk",
+        "mention_text": "New Mexico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 162014,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.996047,
+          34.5802074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.krqe.com/weather/video-forecast/flooding-rainfall-for-some-cooler/",
+        "title": "Thunderstorms bring Flash Flood Watch to parts of New Mexico",
+        "source": "KRQE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-22T17:29:49Z",
+        "url": "https://www.krqe.com/weather/video-forecast/flooding-rainfall-for-some-cooler/",
+        "mention_text": "New Mexico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 162014,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4805684,
+          35.4849292
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317343033.html",
+        "title": "UPDATE: Coastal flood warning issued for Hatteras Island until Friday night",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-23T09:09:09Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317343033.html",
+        "mention_text": "Hatteras Island",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hatteras Island, Avon, Dare County, North Carolina, United States",
+        "osm_type": "island",
+        "osm_id": 1140928,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4870476,
+          31.7601001
+        ]
+      },
+      "properties": {
+        "article_id": "https://kvia.com/news/top-stories/2026/09/23/abc-7-first-alert-flash-flood-warning-issued-for-el-paso-and-dona-ana-counties-until-415-am-including-el-paso-la-union-chamberino-and-santa-teresa/",
+        "title": "ABC-7 First Alert: Flash Flood Warning issued for El Paso and Dona Ana Counties until 4:30 AM including El Paso, Canutillo, La Union, and Santa Teresa; TURN AROUND, DON'T DROWN",
+        "source": "KVIA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-23T08:37:30Z",
+        "url": "https://kvia.com/news/top-stories/2026/09/23/abc-7-first-alert-flash-flood-warning-issued-for-el-paso-and-dona-ana-counties-until-415-am-including-el-paso-la-union-chamberino-and-santa-teresa/",
+        "mention_text": "El Paso",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "El Paso, El Paso County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 113919,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.598098,
+          31.9124684
+        ]
+      },
+      "properties": {
+        "article_id": "https://kvia.com/news/top-stories/2026/09/23/abc-7-first-alert-flash-flood-warning-issued-for-el-paso-and-dona-ana-counties-until-415-am-including-el-paso-la-union-chamberino-and-santa-teresa/",
+        "title": "ABC-7 First Alert: Flash Flood Warning issued for El Paso and Dona Ana Counties until 4:30 AM including El Paso, Canutillo, La Union, and Santa Teresa; TURN AROUND, DON'T DROWN",
+        "source": "KVIA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-23T08:37:30Z",
+        "url": "https://kvia.com/news/top-stories/2026/09/23/abc-7-first-alert-flash-flood-warning-issued-for-el-paso-and-dona-ana-counties-until-415-am-including-el-paso-la-union-chamberino-and-santa-teresa/",
+        "mention_text": "Canutillo",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Canutillo, El Paso County, Texas, 79835, United States",
+        "osm_type": "town",
+        "osm_id": 151925625,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6865799,
+          31.8700346
+        ]
+      },
+      "properties": {
+        "article_id": "https://kvia.com/news/top-stories/2026/09/23/abc-7-first-alert-flash-flood-warning-issued-for-el-paso-and-dona-ana-counties-until-415-am-including-el-paso-la-union-chamberino-and-santa-teresa/",
+        "title": "ABC-7 First Alert: Flash Flood Warning issued for El Paso and Dona Ana Counties until 4:30 AM including El Paso, Canutillo, La Union, and Santa Teresa; TURN AROUND, DON'T DROWN",
+        "source": "KVIA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-23T08:37:30Z",
+        "url": "https://kvia.com/news/top-stories/2026/09/23/abc-7-first-alert-flash-flood-warning-issued-for-el-paso-and-dona-ana-counties-until-415-am-including-el-paso-la-union-chamberino-and-santa-teresa/",
+        "mention_text": "Santa Teresa",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Santa Teresa, Do\u00f1a Ana County, New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 171075,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9132218,
+          35.972232
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.koat.com/article/flash-flood-emergency-mora-county-september-22-2026/73841460",
+        "title": "Flash flood emergency issued for parts of Mora County",
+        "source": "KOAT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-22T21:05:00Z",
+        "url": "https://www.koat.com/article/flash-flood-emergency-mora-county-september-22-2026/73841460",
+        "mention_text": "Mora County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mora County, New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 1344188,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4970393,
+          38.0464066
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wkyt.com/video/2026/09/22/two-decades-after-tragedy-lexingtons-worst-flash-flood-modern-history-still-shapes-city/",
+        "title": "Two decades after tragedy, Lexington\u2019s worst flash flood in modern history still shapes the city",
+        "source": "wkyt.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-23T02:29:20Z",
+        "url": "https://www.wkyt.com/video/2026/09/22/two-decades-after-tragedy-lexingtons-worst-flash-flood-modern-history-still-shapes-city/",
+        "mention_text": "Lexington",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lexington, Fayette County, Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 11078268,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9132218,
+          35.972232
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfKDhD5V6Fpqto44T4GQ5",
+        "title": "Flash Flood Warning Issued for Western Mora County, NM Until 6:45 PM MDT",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-22T23:55:09Z",
+        "url": "https://www.forth.news/stories/CfKDhD5V6Fpqto44T4GQ5",
+        "mention_text": "Mora County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mora County, New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 1344188,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5506186,
+          36.108215
+        ]
+      },
+      "properties": {
+        "article_id": "https://kvia.com/news/top-stories/2026/09/23/abc-7-first-alert-flash-flood-warning-for-the-lower-valley-and-central-east-west-el-paso-in-effect-until-2-am-turn-around-dont-drown/",
+        "title": "ABC-7 First Alert: Flash Flood Warning for the Lower Valley and Central/East/West El Paso in effect until 2 AM; TURN AROUND, DON'T DROWN",
+        "source": "KVIA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-23T06:57:41Z",
+        "url": "https://kvia.com/news/top-stories/2026/09/23/abc-7-first-alert-flash-flood-warning-for-the-lower-valley-and-central-east-west-el-paso-in-effect-until-2-am-turn-around-dont-drown/",
+        "mention_text": "the Lower Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lower Valley Road, Morgan County, East Tennessee, Tennessee, 37887, United States",
+        "osm_type": "residential",
+        "osm_id": 19571540,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.8620593,
+          37.6764986
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfKAF7ZmjhGLuEemQrmKh",
+        "title": "Flash Flood Warning Lifts in Southwestern Lincoln County as Storms Pass",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-22T21:10:05Z",
+        "url": "https://www.forth.news/stories/CfKAF7ZmjhGLuEemQrmKh",
+        "mention_text": "Southwestern Lincoln County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Southwestern Pond Road, Lincoln County, Nevada, United States",
+        "osm_type": "unclassified",
+        "osm_id": 237943408,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.996047,
+          34.5802074
+        ]
+      },
+      "properties": {
+        "article_id": "https://kfoxtv.com/weather/gallery/heavy-rain-triggers-emergency-response-in-new-mexico-due-to-flash-flood-risk",
+        "title": "Heavy rain triggers emergency response in New Mexico due to flash flood risk",
+        "source": "KFOX",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-22T23:38:30Z",
+        "url": "https://kfoxtv.com/weather/gallery/heavy-rain-triggers-emergency-response-in-new-mexico-due-to-flash-flood-risk",
+        "mention_text": "New Mexico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 162014,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4870476,
+          31.7601001
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.elpasotimes.com/story/weather/2026/09/22/flood-watch-in-el-paso-southern-new-mexico-for-rain-flash-flooding/91885030007/",
+        "title": "Flood watch issued as El Paso could see up to 2 to 4 inches of rain",
+        "source": "El Paso Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-22T16:13:00Z",
+        "url": "https://www.elpasotimes.com/story/weather/2026/09/22/flood-watch-in-el-paso-southern-new-mexico-for-rain-flash-flooding/91885030007/",
+        "mention_text": "El Paso",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "El Paso, El Paso County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 113919,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.984862,
+          39.7392364
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.denverpost.com/2026/09/22/flash-flood-warning-douglas-arapahoe-centennial/",
+        "title": "Flash flood warning issued for southeast metro Denver",
+        "source": "The Denver Post",
+        "outlet_city": "Denver",
+        "outlet_region": "Colorado",
+        "published_at": "2026-09-23T02:06:08Z",
+        "url": "https://www.denverpost.com/2026/09/22/flash-flood-warning-douglas-arapahoe-centennial/",
+        "mention_text": "Denver",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Denver, Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 1411339,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4901802,
+          37.4757377
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfK3n6V5pgx2BGoUSMJhH",
+        "title": "Flash Flood Warning Issued for Ferris Burn Scar in Central Dolores County",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-22T19:45:08Z",
+        "url": "https://www.forth.news/stories/CfK3n6V5pgx2BGoUSMJhH",
+        "mention_text": "Central Dolores County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central Avenue, Dolores, Montezuma County, Colorado, 81323, United States",
+        "osm_type": "tertiary",
+        "osm_id": 1428691835,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7560229,
+          39.7811535
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfJv9wq7CRaERvdsKcD7S",
+        "title": "Severe Flash Flood Warning Issued for Southern York County, Newport News and Poquoson Until 4:45 PM EDT",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-22T18:04:48Z",
+        "url": "https://www.forth.news/stories/CfJv9wq7CRaERvdsKcD7S",
+        "mention_text": "Southern York County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Southern York County School District, Codorus Township, York County, Pennsylvania, United States",
+        "osm_type": "school_district",
+        "osm_id": 16474115,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3921461,
+          37.1241861
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfJv9wq7CRaERvdsKcD7S",
+        "title": "Severe Flash Flood Warning Issued for Southern York County, Newport News and Poquoson Until 4:45 PM EDT",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-22T18:04:48Z",
+        "url": "https://www.forth.news/stories/CfJv9wq7CRaERvdsKcD7S",
+        "mention_text": "Poquoson",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Poquoson, Virginia, 23662, United States",
+        "osm_type": "administrative",
+        "osm_id": 3864705,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0679837,
+          42.5729233
+        ]
+      },
+      "properties": {
+        "article_id": "https://racinecountyeye.com/2026/09/22/flood-warning-kenosha-county-09-22/",
+        "title": "Flood Warning issued for Kenosha County \u2014 Sep 22, 2026",
+        "source": "Racine County Eye",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-22T14:10:36Z",
+        "url": "https://racinecountyeye.com/2026/09/22/flood-warning-kenosha-county-09-22/",
+        "mention_text": "Kenosha County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kenosha County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 1799448,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6632883,
+          39.5143268
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/coastal-flood-warning-issued-atlantic-204656263.html",
+        "title": "Coastal flood warning issued for Atlantic County",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-22T20:46:56Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/coastal-flood-warning-issued-atlantic-204656263.html",
+        "mention_text": "Atlantic County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Atlantic County, New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 2560066,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9250518,
+          41.3082138
+        ]
+      },
+      "properties": {
+        "article_id": "https://autos.yahoo.com/ev-and-future-tech/articles/watch-tesla-floated-away-haven-193000544.html",
+        "title": "Watch: A Tesla Floated Away in New Haven\u2019s Flash Flood. The Real Warning Comes Weeks Later.",
+        "source": "Yahoo Autos",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-22T19:30:00Z",
+        "url": "https://autos.yahoo.com/ev-and-future-tech/articles/watch-tesla-floated-away-haven-193000544.html",
+        "mention_text": "New Haven\u2019s",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Haven, South Central Connecticut Planning Region, Connecticut, United States",
+        "osm_type": "administrative",
+        "osm_id": 270191,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6803497,
+          42.7303792
+        ]
+      },
+      "properties": {
+        "article_id": "https://racinecountyeye.com/2026/09/22/flood-warning-racine-county-sept-22/",
+        "title": "Flood Warning issued for Racine County \u2014 Sep 22, 2026",
+        "source": "Racine County Eye",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-22T14:01:24Z",
+        "url": "https://racinecountyeye.com/2026/09/22/flood-warning-racine-county-sept-22/",
+        "mention_text": "Racine County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 1799453,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1635262,
+          39.9527237
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.phillyvoice.com/philly-rain-weather-noreaster-forecast-september-flooding-new-jersey/",
+        "title": "Rare September nor'easter is heading to the Philly region, which has had a record year for flash flood warnings",
+        "source": "PhillyVoice",
+        "outlet_city": "Philadelphia",
+        "outlet_region": "Pennsylvania",
+        "published_at": "2026-09-22T22:34:03Z",
+        "url": "https://www.phillyvoice.com/philly-rain-weather-noreaster-forecast-september-flooding-new-jersey/",
+        "mention_text": "Philadelphia",
+        "flood_type": "flash_flood",
+        "confidence": 0.4,
+        "osm_display": "Philadelphia, Philadelphia County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 188022,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1137366,
+          32.3293809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.atlantanewsfirst.com/video/2026/09/22/flash-flood-warning-heavy-rains-hit-north-georgia-mountains/",
+        "title": "Flash flood warning: Heavy rains hit north Georgia mountains",
+        "source": "Atlanta News First",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-22T08:39:10Z",
+        "url": "https://www.atlantanewsfirst.com/video/2026/09/22/flash-flood-warning-heavy-rains-hit-north-georgia-mountains/",
+        "mention_text": "Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 161957,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.996047,
+          34.5802074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/thunderstorms-bring-flash-flood-watch-172949037.html",
+        "title": "Thunderstorms bring Flash Flood Watch to parts of New Mexico",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-22T17:29:49Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/thunderstorms-bring-flash-flood-watch-172949037.html",
+        "mention_text": "New Mexico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 162014,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2899539,
+          36.8493695
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wtkr.com/weather/todays-forecast/first-warning-forecast-coastal-flood-warning-in-effect-wednesday",
+        "title": "First Warning Forecast: Coastal Flood Warning in effect Wednesday",
+        "source": "WTKR",
+        "outlet_city": "Norfolk",
+        "outlet_region": "Virginia",
+        "published_at": "2026-09-23T03:06:34Z",
+        "url": "https://www.wtkr.com/weather/todays-forecast/first-warning-forecast-coastal-flood-warning-in-effect-wednesday",
+        "mention_text": "Norfolk",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Norfolk, Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 206672,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3126651,
+          41.3806114
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.northjersey.com/story/news/2026/09/22/nj-coastal-flood-watch-issued-noreaster-threat-grows-nor-easter-latest-storm-forecast/91890819007/",
+        "title": "NJ coastal flood watch issued as potential nor'easter takes aim at East Coast",
+        "source": "Bergen Record",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-22T18:23:00Z",
+        "url": "https://www.northjersey.com/story/news/2026/09/22/nj-coastal-flood-watch-issued-noreaster-threat-grows-nor-easter-latest-storm-forecast/91890819007/",
+        "mention_text": "East Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "East Coast, Town of Goshen, Orange County, New York, United States",
+        "osm_type": "garden",
+        "osm_id": 1107357381,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9438572,
+          34.3609331
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article317345425.html",
+        "title": "Darlington County under a flood advisory Tuesday night due to intense rain",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-23T00:02:07Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article317345425.html",
+        "mention_text": "Darlington County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Darlington County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532503,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8430827,
+          35.2272086
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wbtv.com/2026/09/22/flood-advisory-issued-some-charlotte-area-counties-due-excessive-rainfall/",
+        "title": "Flood advisory issued for some Charlotte-area counties due to \u2018excessive rainfall\u2019",
+        "source": "wbtv.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-22T23:55:48Z",
+        "url": "https://www.wbtv.com/2026/09/22/flood-advisory-issued-some-charlotte-area-counties-due-excessive-rainfall/",
+        "mention_text": "Charlotte",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charlotte, Mecklenburg County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 177415,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6863808,
+          36.2228105
+        ]
+      },
+      "properties": {
+        "article_id": "https://wataugaonline.com/new-event-flood-advisory-for-watauga-county-nc-ashe-county-sep-22nd-2026/",
+        "title": "New event: Flood Advisory for Watauga County, NC, Ashe County \u2013 Sep 22nd 2026",
+        "source": "WataugaOnline.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-22T23:13:59Z",
+        "url": "https://wataugaonline.com/new-event-flood-advisory-for-watauga-county-nc-ashe-county-sep-22nd-2026/",
+        "mention_text": "Watauga County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Watauga County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528754,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5076569,
+          36.4393554
+        ]
+      },
+      "properties": {
+        "article_id": "https://wataugaonline.com/new-event-flood-advisory-for-watauga-county-nc-ashe-county-sep-22nd-2026/",
+        "title": "New event: Flood Advisory for Watauga County, NC, Ashe County \u2013 Sep 22nd 2026",
+        "source": "WataugaOnline.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-22T23:13:59Z",
+        "url": "https://wataugaonline.com/new-event-flood-advisory-for-watauga-county-nc-ashe-county-sep-22nd-2026/",
+        "mention_text": "Ashe County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ashe County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528673,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1791849,
+          31.8390826
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article317345427.html",
+        "title": "UPDATE: The current flood advisory for Cherokee County will expire at 11:30 p.m.",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-23T03:43:10Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article317345427.html",
+        "mention_text": "Cherokee County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cherokee County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839605,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9023191,
+          35.3994626
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317347963.html",
+        "title": "Flood advisory in place for Rutherford County Tuesday night caused by significant downpours",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-23T08:30:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317347963.html",
+        "mention_text": "Rutherford County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Rutherford County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528741,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.677114,
+          32.8620726
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article317344580.html",
+        "title": "UPDATE: The current flood advisory for Colleton County will expire at 7:30 p.m.",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-22T23:50:07Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article317344580.html",
+        "mention_text": "Colleton County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Colleton County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857001,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9438572,
+          34.3609331
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article317345425.html",
+        "title": "UPDATE: The flood advisory for Darlington County is forecast to expire at 9:15 p.m.",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-23T01:33:07Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article317345425.html",
+        "mention_text": "Darlington County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Darlington County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532503,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0470229,
+          38.8051095
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.alxnow.com/2026/09/22/weather-alert-coastal-flood-advisory-to-impact-alexandria-over-two-days/",
+        "title": "UPDATED: Coastal Flood Advisory in Alexandria extended to Thursday afternoon",
+        "source": "ALXnow",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-22T13:15:58Z",
+        "url": "https://www.alxnow.com/2026/09/22/weather-alert-coastal-flood-advisory-to-impact-alexandria-over-two-days/",
+        "mention_text": "Alexandria",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Alexandria, Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 206637,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.881708,
+          37.4281818
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/polo-odalys-pacific-tropics-southwest-flood",
+        "title": "Flash Flood Emergency issued as Hurricane Polo intensifies into Category 5 storm in less than 24 hours",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-21T14:51:00Z",
+        "url": "https://www.foxweather.com/weather-news/polo-odalys-pacific-tropics-southwest-flood",
+        "mention_text": "Category 5",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "F5 Auto Wash, North Main Street, Beaver Dam, Ohio County, Kentucky, 42320, United States",
+        "osm_type": "car_wash",
+        "osm_id": 1442494596,
+        "run_at": "2026-09-23T10:50:35.982786+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-09-22T11:03:07.382044+00:00",
-    "total_features": 4714
+    "last_updated": "2026-09-23T10:50:36.005634+00:00",
+    "total_features": 4757
   }
 }
