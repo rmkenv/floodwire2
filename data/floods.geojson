@@ -124930,11 +124930,661 @@
         "osm_id": 417316,
         "run_at": "2026-09-25T11:10:27.704371+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6322383,
+          29.5544961
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfRRFB3efbCsez8WndudQ",
+        "title": "Albuquerque NWS Issues Flash Flood Emergency for Socorro, NM Amid 6\u2011Inch Rainfall",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-26T04:22:00Z",
+        "url": "https://www.forth.news/stories/CfRRFB3efbCsez8WndudQ",
+        "mention_text": "Rainfall",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Rainfall Park, Parkwood, San Antonio, Bexar County, Texas, 78249, United States",
+        "osm_type": "residential",
+        "osm_id": 15155864,
+        "run_at": "2026-09-26T10:52:02.593515+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wftv.com/weather/eye-on-the-tropics/hurricane-nolo-eyes-hawaii-with-catastrophic-flash-flood-risks/KSMVQ67OR5GHBLBSYYUNE4PQKU/",
+        "title": "Hurricane Nolo eyes Hawaii with catastrophic flash flood risks",
+        "source": "WFTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-25T15:31:21Z",
+        "url": "https://www.wftv.com/weather/eye-on-the-tropics/hurricane-nolo-eyes-hawaii-with-catastrophic-flash-flood-risks/KSMVQ67OR5GHBLBSYYUNE4PQKU/",
+        "mention_text": "Hawaii",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-09-26T10:52:02.593515+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.9220832,
+          33.9904719
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfRM3aAtN49QPPbW5ag7A",
+        "title": "Socorro County in Flash Flood Danger as NWS Issues Warning",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-26T03:31:00Z",
+        "url": "https://www.forth.news/stories/CfRM3aAtN49QPPbW5ag7A",
+        "mention_text": "Socorro County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Socorro County, New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832212,
+        "run_at": "2026-09-26T10:52:02.593515+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.9220832,
+          33.9904719
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfRCeC72QtJkdBvanoMqP",
+        "title": "Socorro County Flash Flood Emergency: Storm Ends, Flooding Persists",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-26T03:31:00Z",
+        "url": "https://www.forth.news/stories/CfRCeC72QtJkdBvanoMqP",
+        "mention_text": "Socorro County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Socorro County, New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832212,
+        "run_at": "2026-09-26T10:52:02.593515+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.996047,
+          34.5802074
+        ]
+      },
+      "properties": {
+        "article_id": "https://edition.cnn.com/2026/09/25/weather/video/new-mexico-flash-flood-emergency-vrtc-ldn-digvid",
+        "title": "Flash flood warning issued in New Mexico",
+        "source": "CNN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-25T09:55:00Z",
+        "url": "https://edition.cnn.com/2026/09/25/weather/video/new-mexico-flash-flood-emergency-vrtc-ldn-digvid",
+        "mention_text": "New Mexico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 162014,
+        "run_at": "2026-09-26T10:52:02.593515+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4508165,
+          33.7876673
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.koat.com/article/flash-flood-warning-issued-for-southeastern-lincoln-county/73877053",
+        "title": "Flash flood warning issued for southeastern Lincoln County",
+        "source": "koat.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-25T03:14:00Z",
+        "url": "https://www.koat.com/article/flash-flood-warning-issued-for-southeastern-lincoln-county/73877053",
+        "mention_text": "Lincoln County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lincoln County, Georgia, 30817, United States",
+        "osm_type": "administrative",
+        "osm_id": 448085,
+        "run_at": "2026-09-26T10:52:02.593515+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9860447,
+          40.7521834
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbs4local.com/newsletter-daily/txdot-closes-two-right-lanes-on-americas-south-amid-flash-flood-warning?teaserSource=trending",
+        "title": "TxDOT closes two right lanes on Americas South amid flash flood warning",
+        "source": "KDBC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-25T08:01:48Z",
+        "url": "https://cbs4local.com/newsletter-daily/txdot-closes-two-right-lanes-on-americas-south-amid-flash-flood-warning?teaserSource=trending",
+        "mention_text": "Americas South",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "6th Avenue, Midtown, Manhattan Community Board 5, Manhattan, New York County, New York, 10118, United States",
+        "osm_type": "secondary",
+        "osm_id": 384649120,
+        "run_at": "2026-09-26T10:52:02.593515+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4870476,
+          31.7601001
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfPjcxeDzm9masR8zd6TH",
+        "title": "Flash Flood Warning Issued for El Paso and Hudspeth Counties Until 3 AM MDT",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-25T07:09:36Z",
+        "url": "https://www.forth.news/stories/CfPjcxeDzm9masR8zd6TH",
+        "mention_text": "El Paso",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "El Paso, El Paso County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 113919,
+        "run_at": "2026-09-26T10:52:02.593515+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.996047,
+          34.5802074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wkyc.com/video/news/national/flash-flood-warning-issued-in-new-mexico/95-1064a784-21d0-4543-b7a9-2c81b7a69b10",
+        "title": "Flash flood warning issued in New Mexico",
+        "source": "WKYC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-25T11:05:00Z",
+        "url": "https://www.wkyc.com/video/news/national/flash-flood-warning-issued-in-new-mexico/95-1064a784-21d0-4543-b7a9-2c81b7a69b10",
+        "mention_text": "New Mexico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 162014,
+        "run_at": "2026-09-26T10:52:02.593515+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.capecodtimes.com/story/weather/severe/2026/09/25/massachusetts-noreaster-forecast-high-winds-rainfall-coastal-flooding-september-25/91934191007/",
+        "title": "Nor'easter update: High winds, coastal flood warning in Massachusetts",
+        "source": "Cape Cod Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-25T18:13:00Z",
+        "url": "https://www.capecodtimes.com/story/weather/severe/2026/09/25/massachusetts-noreaster-forecast-high-winds-rainfall-coastal-flooding-september-25/91934191007/",
+        "mention_text": "Massachusetts",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 61315,
+        "run_at": "2026-09-26T10:52:02.593515+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.enterprisenews.com/story/weather/severe/2026/09/25/massachusetts-noreaster-forecast-high-winds-rainfall-coastal-flooding-september-25/91934191007/",
+        "title": "Nor'easter update: High winds, coastal flood warning in Massachusetts",
+        "source": "enterprisenews.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-25T18:13:00Z",
+        "url": "https://www.enterprisenews.com/story/weather/severe/2026/09/25/massachusetts-noreaster-forecast-high-winds-rainfall-coastal-flooding-september-25/91934191007/",
+        "mention_text": "Massachusetts",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 61315,
+        "run_at": "2026-09-26T10:52:02.593515+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.telegram.com/story/weather/severe/2026/09/25/massachusetts-noreaster-forecast-high-winds-rainfall-coastal-flooding-september-25/91934191007/",
+        "title": "Nor'easter update: High winds, coastal flood warning in Massachusetts",
+        "source": "Worcester Telegram",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-25T18:13:00Z",
+        "url": "https://www.telegram.com/story/weather/severe/2026/09/25/massachusetts-noreaster-forecast-high-winds-rainfall-coastal-flooding-september-25/91934191007/",
+        "mention_text": "Massachusetts",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 61315,
+        "run_at": "2026-09-26T10:52:02.593515+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tauntongazette.com/story/weather/severe/2026/09/25/massachusetts-noreaster-forecast-high-winds-rainfall-coastal-flooding-september-25/91934191007/",
+        "title": "Nor'easter update: High winds, coastal flood warning in Massachusetts",
+        "source": "Taunton Daily Gazette",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-25T18:13:00Z",
+        "url": "https://www.tauntongazette.com/story/weather/severe/2026/09/25/massachusetts-noreaster-forecast-high-winds-rainfall-coastal-flooding-september-25/91934191007/",
+        "mention_text": "Massachusetts",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 61315,
+        "run_at": "2026-09-26T10:52:02.593515+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.032366,
+          42.3788774
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thegardnernews.com/story/weather/severe/2026/09/25/massachusetts-noreaster-forecast-high-winds-rainfall-coastal-flooding-september-25/91934191007/",
+        "title": "Nor'easter update: High winds, coastal flood warning in Massachusetts",
+        "source": "The Gardner News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-25T18:13:00Z",
+        "url": "https://www.thegardnernews.com/story/weather/severe/2026/09/25/massachusetts-noreaster-forecast-high-winds-rainfall-coastal-flooding-september-25/91934191007/",
+        "mention_text": "Massachusetts",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 61315,
+        "run_at": "2026-09-26T10:52:02.593515+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8337785,
+          35.359542
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317357515.html",
+        "title": "UPDATE: Flood advisory active for Graham County until Wednesday night",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-23T23:00:09Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317357515.html",
+        "mention_text": "Graham County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Graham County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528702,
+        "run_at": "2026-09-26T10:52:02.593515+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317372395.html",
+        "title": "UPDATE: Flood advisory for San Diego County Thursday afternoon, says the NWS",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-24T20:20:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317372395.html",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-09-26T10:52:02.593515+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7385978,
+          33.7898432
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317364357.html",
+        "title": "Flood advisory issued for Wilkes County Thursday morning due to heavy downpours",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-24T11:42:04Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317364357.html",
+        "mention_text": "Wilkes County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Wilkes County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 1074323,
+        "run_at": "2026-09-26T10:52:02.593515+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailybulletin.com/2026/09/24/flood-advisory-issued-for-san-bernardino-county-thursday-afternoon-due-to-significant-rainfall/",
+        "title": "Flood advisory issued for San Bernardino County Thursday afternoon due to significant rainfall",
+        "source": "Daily Bulletin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-24T20:58:01Z",
+        "url": "https://www.dailybulletin.com/2026/09/24/flood-advisory-issued-for-san-bernardino-county-thursday-afternoon-due-to-significant-rainfall/",
+        "mention_text": "San Bernardino County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-09-26T10:52:02.593515+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.677114,
+          32.8620726
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317344580.html",
+        "title": "UPDATE: The current flood advisory for Colleton County will expire at 7:30 p.m.",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-22T23:50:07Z",
+        "url": "https://www.thestate.com/news/weather-news/article317344580.html",
+        "mention_text": "Colleton County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Colleton County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857001,
+        "run_at": "2026-09-26T10:52:02.593515+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.43428,
+          37.5385087
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317343665.html",
+        "title": "Flood advisory in place for Anson and Richmond counties Tuesday evening",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-22T21:49:08Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317343665.html",
+        "mention_text": "Richmond",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Richmond, Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 3864712,
+        "run_at": "2026-09-26T10:52:02.593515+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4780216,
+          29.679299
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tapinto.net/towns/barnegat-and-waretown/sections/home-and-garden/articles/ship-bottom-police-issue-severe-flood-advisory-ahead-of-nor-easter-travel-to-long-beach-island-strongly-discouraged",
+        "title": "Ship Bottom Police Issue Severe Flood Advisory Ahead of Nor'easter; Travel to Long Beach Island Strongly Discouraged",
+        "source": "TAPinto",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-25T17:01:35Z",
+        "url": "https://www.tapinto.net/towns/barnegat-and-waretown/sections/home-and-garden/articles/ship-bottom-police-issue-severe-flood-advisory-ahead-of-nor-easter-travel-to-long-beach-island-strongly-discouraged",
+        "mention_text": "Travel",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Travel, Caversham Drive, Houston, Harris County, Texas, 77096, United States",
+        "osm_type": "travel_agent",
+        "osm_id": 460688260,
+        "run_at": "2026-09-26T10:52:02.593515+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9023191,
+          35.3994626
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article317345746.html",
+        "title": "UPDATE: The flood advisory for Rutherford County is expected to expire at 2 a.m.",
+        "source": "News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-23T06:11:06Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article317345746.html",
+        "mention_text": "Rutherford County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Rutherford County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528741,
+        "run_at": "2026-09-26T10:52:02.593515+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9438572,
+          34.3609331
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317345425.html",
+        "title": "UPDATE: The flood advisory for Darlington County is forecast to expire at 9:15 p.m.",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-23T01:33:07Z",
+        "url": "https://www.thestate.com/news/weather-news/article317345425.html",
+        "mention_text": "Darlington County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Darlington County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532503,
+        "run_at": "2026-09-26T10:52:02.593515+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.redlandsdailyfacts.com/2026/09/24/flood-advisory-issued-for-san-bernardino-county-thursday-afternoon-due-to-significant-rainfall/",
+        "title": "Flood advisory issued for San Bernardino County Thursday afternoon due to significant rainfall",
+        "source": "Redlands Daily Facts",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-25T05:36:41Z",
+        "url": "https://www.redlandsdailyfacts.com/2026/09/24/flood-advisory-issued-for-san-bernardino-county-thursday-afternoon-due-to-significant-rainfall/",
+        "mention_text": "San Bernardino County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-09-26T10:52:02.593515+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theaustralian.com.au/news/jeep-plows-down-flooded-road-on-the-outer-banks-as-north-carolina-slammed-by-developing-noreaster/video/44dd8454e2cfde499cd4d7155d340f57",
+        "title": "Jeep plows down flooded road on the Outer Banks as North Carolina slammed by developing nor'easter",
+        "source": "The Australian",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-25T18:07:25Z",
+        "url": "https://www.theaustralian.com.au/news/jeep-plows-down-flooded-road-on-the-outer-banks-as-north-carolina-slammed-by-developing-noreaster/video/44dd8454e2cfde499cd4d7155d340f57",
+        "mention_text": "North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-09-26T10:52:02.593515+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-09-25T11:10:27.720254+00:00",
-    "total_features": 4805
+    "last_updated": "2026-09-26T10:52:02.620049+00:00",
+    "total_features": 4830
   }
 }
