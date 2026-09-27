@@ -125580,11 +125580,453 @@
         "osm_id": 224045,
         "run_at": "2026-09-26T10:52:02.593515+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3884839,
+          30.045717
+        ]
+      },
+      "properties": {
+        "article_id": "https://kerrcountylead.com/rain-chances-for-kerr-county-now-trending-toward-thursday-with-flash-flood-risk-on-forecasters-radar/",
+        "title": "Rain chances for Kerr County now trending toward Thursday, with flash flood risk on forecasters' radar",
+        "source": "The Kerr County Lead",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-26T23:24:22Z",
+        "url": "https://kerrcountylead.com/rain-chances-for-kerr-county-now-trending-toward-thursday-with-flash-flood-risk-on-forecasters-radar/",
+        "mention_text": "Kerr County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kerr County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1827126,
+        "run_at": "2026-09-27T11:25:53.385979+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox13now.com/weather/heavy-rain-flash-flood-threat-increasing-for-southern-utah",
+        "title": "Heavy rain, flash flood threat increasing for southern Utah",
+        "source": "FOX 13 News Utah",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-26T17:49:55Z",
+        "url": "https://www.fox13now.com/weather/heavy-rain-flash-flood-threat-increasing-for-southern-utah",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-09-27T11:25:53.385979+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4363743,
+          33.6874388
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.timesdaily.com/sports/flash-flood-fast-starting-tide-overwhelms-s-carolina/article_f9b6fa7b-3263-41da-b8f8-92d0bdf08a8a.html",
+        "title": "Flash flood: Fast-starting Tide overwhelms S. Carolina",
+        "source": "timesdaily.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-27T03:03:00Z",
+        "url": "https://www.timesdaily.com/sports/flash-flood-fast-starting-tide-overwhelms-s-carolina/article_f9b6fa7b-3263-41da-b8f8-92d0bdf08a8a.html",
+        "mention_text": "S. Carolina",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224040,
+        "run_at": "2026-09-27T11:25:53.385979+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.074141,
+          33.4484367
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azcentral.com/story/weather/severe/monsoon/2026/09/24/flash-flood-warning-issued-for-metro-phoenix-after-monsoon-storms/91922113007/",
+        "title": "Flash flood warning issued for metro Phoenix after monsoon storms",
+        "source": "azcentral.com and The Arizona Republic",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-24T16:38:00Z",
+        "url": "https://www.azcentral.com/story/weather/severe/monsoon/2026/09/24/flash-flood-warning-issued-for-metro-phoenix-after-monsoon-storms/91922113007/",
+        "mention_text": "Phoenix",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Phoenix, Maricopa County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 111257,
+        "run_at": "2026-09-27T11:25:53.385979+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.abc4.com/utah-weather/utah-flooding/utah-flood-watch-flash-flooding/",
+        "title": "Majority of Utah under flood watch as heavy rainfall moves in, flash flooding already underway",
+        "source": "ABC4 Utah",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-31T07:00:00Z",
+        "url": "https://www.abc4.com/utah-weather/utah-flooding/utah-flood-watch-flash-flooding/",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-09-27T11:25:53.385979+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317396801.html",
+        "title": "UPDATE: Coastal flood advisory for San Diego County Coastal Areas and Orange County Coastal",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-27T05:23:04Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317396801.html",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-09-27T11:25:53.385979+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4486983,
+          19.5895548
+        ]
+      },
+      "properties": {
+        "article_id": "https://bigislandnow.com/2026/09/26/flood-advisory-issued-for-parts-of-big-island-as-heavy-rains-fall-over-southeast-slopes/",
+        "title": "UPDATE 2: Flood advisory extended again for areas along Big Island southeast slopes",
+        "source": "Big Island Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-27T08:03:00Z",
+        "url": "https://bigislandnow.com/2026/09/26/flood-advisory-issued-for-parts-of-big-island-as-heavy-rains-fall-over-southeast-slopes/",
+        "mention_text": "Big Island",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hawai\u02bbi, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403603,
+        "run_at": "2026-09-27T11:25:53.385979+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailynews.com/2026/09/26/coastal-flood-advisory-affecting-los-angeles-county-beaches-monday-and-tuesday/",
+        "title": "Coastal flood advisory affecting Los Angeles County beaches Monday and Tuesday",
+        "source": "Los Angeles Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-26T20:05:01Z",
+        "url": "https://www.dailynews.com/2026/09/26/coastal-flood-advisory-affecting-los-angeles-county-beaches-monday-and-tuesday/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-09-27T11:25:53.385979+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6908566,
+          33.4657158
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ocregister.com/2026/09/26/coastal-flood-advisory-issued-for-orange-county-coast-and-san-diego-county-coastal-areas-from-monday-to-wednesday-2/",
+        "title": "Coastal flood advisory issued for Orange County Coast and San Diego County Coastal Areas from Monday to Wednesday",
+        "source": "Orange County Register",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-26T21:11:53Z",
+        "url": "https://www.ocregister.com/2026/09/26/coastal-flood-advisory-issued-for-orange-county-coast-and-san-diego-county-coastal-areas-from-monday-to-wednesday-2/",
+        "mention_text": "Orange County Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Orange County Creamery, 34255, Pacific Coast Highway, Toovunga, South Cove, Dana Point, Orange County, California, 92629, United States",
+        "osm_type": "ice_cream",
+        "osm_id": 13327327772,
+        "run_at": "2026-09-27T11:25:53.385979+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ocregister.com/2026/09/26/coastal-flood-advisory-issued-for-orange-county-coast-and-san-diego-county-coastal-areas-from-monday-to-wednesday-2/",
+        "title": "Coastal flood advisory issued for Orange County Coast and San Diego County Coastal Areas from Monday to Wednesday",
+        "source": "Orange County Register",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-26T21:11:53Z",
+        "url": "https://www.ocregister.com/2026/09/26/coastal-flood-advisory-issued-for-orange-county-coast-and-san-diego-county-coastal-areas-from-monday-to-wednesday-2/",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-09-27T11:25:53.385979+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2062682,
+          33.9510011
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317396363.html",
+        "title": "Coastal flood advisory issued for Southern California for Monday and Tuesday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-26T20:21:04Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317396363.html",
+        "mention_text": "Southern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Southern @ California, Southern Avenue, South Gate, Los Angeles County, California, 90280, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 11056179472,
+        "run_at": "2026-09-27T11:25:53.385979+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0372472,
+          33.7219991
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317372119.html",
+        "title": "UPDATE: Flood advisory in place for Riverside County early Thursday evening",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-24T21:33:09Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317372119.html",
+        "mention_text": "Riverside County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Riverside County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396495,
+        "run_at": "2026-09-27T11:25:53.385979+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.794892,
+          42.2613413
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bostonglobe.com/video/2026/09/26/metro/weather/cars-cautiously-drive-through-a-partially-flooded-road-in-westerly-ri/",
+        "title": "Cars cautiously drive through a partially flooded road in Westerly, R.I.",
+        "source": "The Boston Globe",
+        "outlet_city": "Boston",
+        "outlet_region": "Massachusetts",
+        "published_at": "2026-09-26T17:55:07Z",
+        "url": "https://www.bostonglobe.com/video/2026/09/26/metro/weather/cars-cautiously-drive-through-a-partially-flooded-road-in-westerly-ri/",
+        "mention_text": "Westerly",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Westerly Round Rock, Cohasset, Norfolk County, Massachusetts, United States",
+        "osm_type": "islet",
+        "osm_id": 74635129,
+        "run_at": "2026-09-27T11:25:53.385979+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3973825,
+          41.7872302
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bostonglobe.com/video/2026/09/26/metro/weather/cars-cautiously-drive-through-a-partially-flooded-road-in-westerly-ri/",
+        "title": "Cars cautiously drive through a partially flooded road in Westerly, R.I.",
+        "source": "The Boston Globe",
+        "outlet_city": "Boston",
+        "outlet_region": "Massachusetts",
+        "published_at": "2026-09-26T17:55:07Z",
+        "url": "https://www.bostonglobe.com/video/2026/09/26/metro/weather/cars-cautiously-drive-through-a-partially-flooded-road-in-westerly-ri/",
+        "mention_text": "R.I.",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Massachusetts Avenue, Providence, Providence County, Rhode Island, 02905, United States",
+        "osm_type": "residential",
+        "osm_id": 19395533,
+        "run_at": "2026-09-27T11:25:53.385979+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1194808,
+          35.1195667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317343037.html",
+        "title": "UPDATE: Coastal flood advisory for Southern Craven and Pamlico County until Friday midday",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-22T20:47:00Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317343037.html",
+        "mention_text": "Southern Craven",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Southern Hills Drive, New Bern, Craven County, North Carolina, 28562, United States",
+        "osm_type": "residential",
+        "osm_id": 16494030,
+        "run_at": "2026-09-27T11:25:53.385979+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7970224,
+          35.1238031
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317343037.html",
+        "title": "UPDATE: Coastal flood advisory for Southern Craven and Pamlico County until Friday midday",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-22T20:47:00Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317343037.html",
+        "mention_text": "Pamlico County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Pamlico County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528731,
+        "run_at": "2026-09-27T11:25:53.385979+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.weeklytimesnow.com.au/news/world/jeep-plows-down-flooded-road-on-the-outer-banks-as-north-carolina-slammed-by-developing-noreaster/video/44dd8454e2cfde499cd4d7155d340f57",
+        "title": "Jeep plows down flooded road on the Outer Banks as North Carolina slammed by developing nor'easter",
+        "source": "The Weekly Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-25T18:07:25Z",
+        "url": "https://www.weeklytimesnow.com.au/news/world/jeep-plows-down-flooded-road-on-the-outer-banks-as-north-carolina-slammed-by-developing-noreaster/video/44dd8454e2cfde499cd4d7155d340f57",
+        "mention_text": "North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-09-27T11:25:53.385979+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-09-26T10:52:02.620049+00:00",
-    "total_features": 4830
+    "last_updated": "2026-09-27T11:25:53.411184+00:00",
+    "total_features": 4847
   }
 }
