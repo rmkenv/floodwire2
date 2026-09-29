@@ -126620,11 +126620,1337 @@
         "osm_id": 224045,
         "run_at": "2026-09-28T12:55:28.021397+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0372472,
+          33.7219991
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317420069.html",
+        "title": "UPDATE: Flash flood warning previously issued for Riverside County will expire at 12:15 a.m.",
+        "source": "sacbee.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T07:28:04Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317420069.html",
+        "mention_text": "Riverside County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Riverside County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396495,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azfamily.com/2026/09/29/flood-watch-issued-burn-scars-raise-flash-flood-risk-northern-arizona/",
+        "title": "Flood watch issued as burn scars raise flash flood risk in northern Arizona",
+        "source": "azfamily.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T00:19:00Z",
+        "url": "https://www.azfamily.com/2026/09/29/flood-watch-issued-burn-scars-raise-flash-flood-risk-northern-arizona/",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7893178,
+          32.182598
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.8newsnow.com/news/local-news/henderson-swift-water-rescue-under-way/",
+        "title": "Swift-water rescue required for driver stuck in Henderson flooding",
+        "source": "8newsnow.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-28T20:40:27Z",
+        "url": "https://www.8newsnow.com/news/local-news/henderson-swift-water-rescue-under-way/",
+        "mention_text": "Henderson",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Henderson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839045,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.9220832,
+          33.9904719
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.koat.com/article/flood-emergency-issued-for-socorro-county/73934147",
+        "title": "Flash flood emergency issued for Socorro County",
+        "source": "KOAT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T04:13:00Z",
+        "url": "https://www.koat.com/article/flood-emergency-issued-for-socorro-county/73934147",
+        "mention_text": "Socorro County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Socorro County, New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832212,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317417189.html",
+        "title": "UPDATE: Flash flood warning for San Bernardino County predicted to expire at midnight",
+        "source": "sacbee.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T07:13:05Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317417189.html",
+        "mention_text": "San Bernardino County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox4news.com/video/fmc-74xyks1mwvllpubz",
+        "title": "Texas mobilizes emergency crews and National Guard ahead of severe flash flood threat",
+        "source": "FOX 4 News Dallas-Fort Worth",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T11:35:14Z",
+        "url": "https://www.fox4news.com/video/fmc-74xyks1mwvllpubz",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9153982,
+          37.1799084
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfXGxmm54b5Dt7HbdXpoE",
+        "title": "Life\u2011Threatening Flash Flood Warning Issued for Paria River in Arizona",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T06:39:00Z",
+        "url": "https://www.forth.news/stories/CfXGxmm54b5Dt7HbdXpoE",
+        "mention_text": "Paria River",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Paria River, Kane County, Utah, United States",
+        "osm_type": "river",
+        "osm_id": 9056455,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfXGxmm54b5Dt7HbdXpoE",
+        "title": "Life\u2011Threatening Flash Flood Warning Issued for Paria River in Arizona",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T06:39:00Z",
+        "url": "https://www.forth.news/stories/CfXGxmm54b5Dt7HbdXpoE",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1012191,
+          38.310801
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfX3ckJBqa56qp1VAoYzw",
+        "title": "Life\u2011Threatening Flash Flood Warning Issued for Piute County, Utah",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T03:48:00Z",
+        "url": "https://www.forth.news/stories/CfX3ckJBqa56qp1VAoYzw",
+        "mention_text": "Piute County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Piute County, Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 1744365,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfX3ckJBqa56qp1VAoYzw",
+        "title": "Life\u2011Threatening Flash Flood Warning Issued for Piute County, Utah",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T03:48:00Z",
+        "url": "https://www.forth.news/stories/CfX3ckJBqa56qp1VAoYzw",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfWhp8YPB3ZBDdha7aKgT",
+        "title": "NWS Issues Flash Flood Warning for Mohave, San Bernardino, and Clark Counties Amid Heavy Rain",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-28T23:27:35Z",
+        "url": "https://www.forth.news/stories/CfWhp8YPB3ZBDdha7aKgT",
+        "mention_text": "San Bernardino",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1484131,
+          36.1674263
+        ]
+      },
+      "properties": {
+        "article_id": "https://lasvegassun.com/news/2026/sep/28/tropical-moisture-to-bring-storms-flash-flood-risk/",
+        "title": "Tropical moisture to bring storms, flash flood risk to Las Vegas area through Tuesday",
+        "source": "Las Vegas Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-28T15:00:00Z",
+        "url": "https://lasvegassun.com/news/2026/sep/28/tropical-moisture-to-bring-storms-flash-flood-risk/",
+        "mention_text": "Las Vegas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Las Vegas, Clark County, Nevada, United States",
+        "osm_type": "administrative",
+        "osm_id": 170117,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfWrvsDdyXbjJxWAUCS6y",
+        "title": "Flash Flood Warning in San Bernardino and Clark Counties Until 6:30 PM Amid Ongoing Heavy Rain",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T01:28:06Z",
+        "url": "https://www.forth.news/stories/CfWrvsDdyXbjJxWAUCS6y",
+        "mention_text": "San Bernardino",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7838526,
+          39.3260541
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfWrvsDdyXbjJxWAUCS6y",
+        "title": "Flash Flood Warning in San Bernardino and Clark Counties Until 6:30 PM Amid Ongoing Heavy Rain",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T01:28:06Z",
+        "url": "https://www.forth.news/stories/CfWrvsDdyXbjJxWAUCS6y",
+        "mention_text": "Clark",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Clark County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1801517,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfWtUHV8ENMJwAeWGNXEU",
+        "title": "NWS Issues Flash Flood Warning for Mohave, San Bernardino, and Clark Counties Amid Heavy Thunderstorms",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T01:44:00Z",
+        "url": "https://www.forth.news/stories/CfWtUHV8ENMJwAeWGNXEU",
+        "mention_text": "San Bernardino",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8470215,
+          33.5855677
+        ]
+      },
+      "properties": {
+        "article_id": "https://lubbocklights.com/gov-abbott-warns-of-flash-flood-threat-stretching-through-lubbock-tuesday/",
+        "title": "Gov. Abbott warns of flash flood threat stretching through Lubbock",
+        "source": "lubbocklights.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-28T23:55:47Z",
+        "url": "https://lubbocklights.com/gov-abbott-warns-of-flash-flood-threat-stretching-through-lubbock-tuesday/",
+        "mention_text": "Lubbock",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lubbock, Lubbock County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 115401,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.996047,
+          34.5802074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsradiokkob.com/2026/09/29/flash-flood-advisory-for-all-of-new-mexico-tuesday-to-wednesday-as-remnants-of-hurricane-polo-enter-the-state/",
+        "title": "Flash Flood Advisory for all of New Mexico Tuesday to Wednesday as remnants of Hurricane Polo enter the state",
+        "source": "96.3 KKOB",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T11:26:40Z",
+        "url": "https://www.newsradiokkob.com/2026/09/29/flash-flood-advisory-for-all-of-new-mexico-tuesday-to-wednesday-as-remnants-of-hurricane-polo-enter-the-state/",
+        "mention_text": "New Mexico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 162014,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfWfszruCXAHputa8iGKa",
+        "title": "NWS Issues Flash Flood Warning for Utah\u2019s Kane and Washington Counties Amid Heavy Rain",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-28T23:02:59Z",
+        "url": "https://www.forth.news/stories/CfWfszruCXAHputa8iGKa",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0363849,
+          38.8950982
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfWfszruCXAHputa8iGKa",
+        "title": "NWS Issues Flash Flood Warning for Utah\u2019s Kane and Washington Counties Amid Heavy Rain",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-28T23:02:59Z",
+        "url": "https://www.forth.news/stories/CfWfszruCXAHputa8iGKa",
+        "mention_text": "Washington",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Washington, District of Columbia, United States",
+        "osm_type": "city",
+        "osm_id": 5396194,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2062682,
+          33.9510011
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfWZ6NvDKdtduT2w5UNqH",
+        "title": "Flash Flood Warning Issued for Southern California and Nevada Amid Heavy Rain",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-28T21:31:00Z",
+        "url": "https://www.forth.news/stories/CfWZ6NvDKdtduT2w5UNqH",
+        "mention_text": "Southern California",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Southern @ California, Southern Avenue, South Gate, Los Angeles County, California, 90280, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 11056179472,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.853722,
+          39.5158825
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfWZ6NvDKdtduT2w5UNqH",
+        "title": "Flash Flood Warning Issued for Southern California and Nevada Amid Heavy Rain",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-28T21:31:00Z",
+        "url": "https://www.forth.news/stories/CfWZ6NvDKdtduT2w5UNqH",
+        "mention_text": "Nevada",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Nevada, United States",
+        "osm_type": "administrative",
+        "osm_id": 165473,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.5627804,
+          35.1449998
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ktnv.com/news/bullhead-city-urges-caution-as-heavy-rain-brings-flash-flood-warning",
+        "title": "Bullhead City urges caution as heavy rain brings flash flood warning",
+        "source": "ktnv.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T01:45:24Z",
+        "url": "https://www.ktnv.com/news/bullhead-city-urges-caution-as-heavy-rain-brings-flash-flood-warning",
+        "mention_text": "Bullhead City",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Bullhead City, Mohave County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 6695742,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.9220832,
+          33.9904719
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsradiokkob.com/2026/09/28/flash-flood-emergency-issued-in-socorro-county/",
+        "title": "Flash Flood Emergency issued in Socorro County",
+        "source": "96.3 KKOB",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T03:40:51Z",
+        "url": "https://www.newsradiokkob.com/2026/09/28/flash-flood-emergency-issued-in-socorro-county/",
+        "mention_text": "Socorro County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Socorro County, New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832212,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox13now.com/weather/utah-is-shattering-records-for-severe-thunderstorm-flash-flood-warnings-in-2026",
+        "title": "Utah is shattering records for severe thunderstorm, flash flood warnings in 2026",
+        "source": "FOX 13 News Utah",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-28T21:39:07Z",
+        "url": "https://www.fox13now.com/weather/utah-is-shattering-records-for-severe-thunderstorm-flash-flood-warnings-in-2026",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.074141,
+          33.4484367
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.medicaldaily.com/phoenix-tucson-flood-watch-hurricane-polo-flash-flooding-479201",
+        "title": "Phoenix and Tucson Flood Watches Begin as Hurricane Polo Moisture Raises Flash Flood Risk Through Tuesday Night",
+        "source": "Medical Daily",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-28T14:00:39Z",
+        "url": "https://www.medicaldaily.com/phoenix-tucson-flood-watch-hurricane-polo-flash-flooding-479201",
+        "mention_text": "Phoenix",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Phoenix, Maricopa County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 111257,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.natureworldnews.com/articles/73378/20260928/level-3-flash-flood-risk-set-arizona-new-mexico-southern-utah-hurricane-polo-moisture-moves.htm",
+        "title": "Level 3 Flash Flood Risk Set for Arizona, New Mexico and Southern Utah as Hurricane Polo Moisture Moves In",
+        "source": "Nature World News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-28T13:40:05Z",
+        "url": "https://www.natureworldnews.com/articles/73378/20260928/level-3-flash-flood-risk-set-arizona-new-mexico-southern-utah-hurricane-polo-moisture-moves.htm",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.996047,
+          34.5802074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.natureworldnews.com/articles/73378/20260928/level-3-flash-flood-risk-set-arizona-new-mexico-southern-utah-hurricane-polo-moisture-moves.htm",
+        "title": "Level 3 Flash Flood Risk Set for Arizona, New Mexico and Southern Utah as Hurricane Polo Moisture Moves In",
+        "source": "Nature World News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-28T13:40:05Z",
+        "url": "https://www.natureworldnews.com/articles/73378/20260928/level-3-flash-flood-risk-set-arizona-new-mexico-southern-utah-hurricane-polo-moisture-moves.htm",
+        "mention_text": "New Mexico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 162014,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1204004,
+          33.1184608
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.natureworldnews.com/articles/73378/20260928/level-3-flash-flood-risk-set-arizona-new-mexico-southern-utah-hurricane-polo-moisture-moves.htm",
+        "title": "Level 3 Flash Flood Risk Set for Arizona, New Mexico and Southern Utah as Hurricane Polo Moisture Moves In",
+        "source": "Nature World News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-28T13:40:05Z",
+        "url": "https://www.natureworldnews.com/articles/73378/20260928/level-3-flash-flood-risk-set-arizona-new-mexico-southern-utah-hurricane-polo-moisture-moves.htm",
+        "mention_text": "Southern Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah Street, Southern Acres Addition, Greenville, Hunt County, Texas, 75401, United States",
+        "osm_type": "residential",
+        "osm_id": 9564017,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1353006,
+          25.7929198
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcmiami.com/video/nbc-6-news/miami-beach-residents-deal-with-king-tide-flooding/3865586/",
+        "title": "Miami Beach residents deal with King Tide flooding",
+        "source": "NBC 6 South Florida",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T03:07:37Z",
+        "url": "https://www.nbcmiami.com/video/nbc-6-news/miami-beach-residents-deal-with-king-tide-flooding/3865586/",
+        "mention_text": "Miami Beach",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Miami Beach, Miami-Dade County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 118856,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/miami/video/king-tide-flooding-continues-to-soak-south-florida-monday-evening/",
+        "title": "King tide flooding continues to soak South Florida Monday evening",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T03:14:00Z",
+        "url": "https://www.cbsnews.com/miami/video/king-tide-flooding-continues-to-soak-south-florida-monday-evening/",
+        "mention_text": "Florida",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8463851,
+          37.1670484
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/miami/video/king-tide-flooding-set-to-calm-down-in-the-coming-days-across-south-florida/",
+        "title": "King tide flooding set to calm down in the coming days across South Florida",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T03:25:00Z",
+        "url": "https://www.cbsnews.com/miami/video/king-tide-flooding-set-to-calm-down-in-the-coming-days-across-south-florida/",
+        "mention_text": "South Florida",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "South Florida, Columbus, Cherokee County, Kansas, 66725, United States",
+        "osm_type": "residential",
+        "osm_id": 12999746,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.palmbeachpost.com/story/weather/2026/09/28/florida-king-tide-flooding-in-fort-lauderdale/91993196007/",
+        "title": "Watch: King tide floods parts of Southeast Florida",
+        "source": "The Palm Beach Post",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-28T20:41:00Z",
+        "url": "https://www.palmbeachpost.com/story/weather/2026/09/28/florida-king-tide-flooding-in-fort-lauderdale/91993196007/",
+        "mention_text": "Florida",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8463851,
+          37.1670484
+        ]
+      },
+      "properties": {
+        "article_id": "https://wsvn.com/news/local/miami-dade/locals-share-frustrations-as-south-florida-sees-brief-reprieve-from-king-tide-flooding/",
+        "title": "Locals share frustrations as South Florida sees brief reprieve from king tide flooding",
+        "source": "WSVN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-28T21:28:49Z",
+        "url": "https://wsvn.com/news/local/miami-dade/locals-share-frustrations-as-south-florida-sees-brief-reprieve-from-king-tide-flooding/",
+        "mention_text": "South Florida",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "South Florida, Columbus, Cherokee County, Kansas, 66725, United States",
+        "osm_type": "residential",
+        "osm_id": 12999746,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/miami/news/south-florida-king-tide-flooding-forecast-miami-fort-lauderdale-miami-dade-broward-september-28-2026/",
+        "title": "South Florida sees another day of king tide flooding ahead of more rounds of rain",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-28T15:21:00Z",
+        "url": "https://www.cbsnews.com/miami/news/south-florida-king-tide-flooding-forecast-miami-fort-lauderdale-miami-dade-broward-september-28-2026/",
+        "mention_text": "Florida",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4623642,
+          26.1598074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/miami/video/king-tide-flooding-causing-problems-from-broward-to-dade/",
+        "title": "King tide flooding causing problems from Broward to Dade",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-28T16:11:00Z",
+        "url": "https://www.cbsnews.com/miami/video/king-tide-flooding-causing-problems-from-broward-to-dade/",
+        "mention_text": "Broward",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Broward County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210714,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4998791,
+          34.8722084
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/miami/video/king-tide-flooding-causing-problems-from-broward-to-dade/",
+        "title": "King tide flooding causing problems from Broward to Dade",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-28T16:11:00Z",
+        "url": "https://www.cbsnews.com/miami/video/king-tide-flooding-causing-problems-from-broward-to-dade/",
+        "mention_text": "Dade",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Dade County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 533031,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.25,
+          27.25
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.miamiherald.com/news/local/article317411214.html",
+        "title": "King tide, costly ride: How South Florida flooding can wreck your car",
+        "source": "Miami Herald",
+        "outlet_city": "Miami",
+        "outlet_region": "Florida",
+        "published_at": "2026-09-28T17:05:00Z",
+        "url": "https://www.miamiherald.com/news/local/article317411214.html",
+        "mention_text": "Florida",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Florida Peninsula, Highlands County, Florida, United States",
+        "osm_type": "peninsula",
+        "osm_id": 4869724221,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.local10.com/video/news/local/2026/09/28/south-florida-slammed-by-king-tide-flooding-over-the-weekend/",
+        "title": "South Florida slammed by king tide flooding over the weekend",
+        "source": "WPLG Local 10",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-28T13:50:33Z",
+        "url": "https://www.local10.com/video/news/local/2026/09/28/south-florida-slammed-by-king-tide-flooding-over-the-weekend/",
+        "mention_text": "Florida",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://cedarnews.net/newstasks/1012863/south-florida-sees-coastal-flood-advisories-due/",
+        "title": "South Florida sees coastal flood advisories due to king tide flooding ahead of more wet weather",
+        "source": "cedarnews.net",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-28T12:16:28Z",
+        "url": "https://cedarnews.net/newstasks/1012863/south-florida-sees-coastal-flood-advisories-due/",
+        "mention_text": "Florida",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317420076.html",
+        "title": "UPDATE: The current flood advisory for San Bernardino County will expire at 1:45 a.m.",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T08:54:04Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317420076.html",
+        "mention_text": "San Bernardino County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sbsun.com/2026/09/28/san-bernardino-and-mohave-counties-under-a-flood-advisory-until-early-tuesday-triggered-by-heavy-rainfall/",
+        "title": "San Bernardino and Mohave counties under a flood advisory until early Tuesday triggered by heavy rainfall",
+        "source": "San Bernardino Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T04:51:26Z",
+        "url": "https://www.sbsun.com/2026/09/28/san-bernardino-and-mohave-counties-under-a-flood-advisory-until-early-tuesday-triggered-by-heavy-rainfall/",
+        "mention_text": "San Bernardino",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pasadenastarnews.com/2026/09/28/flood-advisory-for-los-angeles-county-monday-evening-caused-by-persistent-rainfall/",
+        "title": "Flood advisory for Los Angeles County Monday evening caused by persistent rainfall",
+        "source": "Pasadena Star News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T05:15:31Z",
+        "url": "https://www.pasadenastarnews.com/2026/09/28/flood-advisory-for-los-angeles-county-monday-evening-caused-by-persistent-rainfall/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbs8.com/video/syndication/ott/weather-plus/coastal-flood-advisory-in-effect-and-temperatures-expected-to-rise-across-san-diego-county/509-0db3b53e-b169-4b95-8f9d-1707591d82e8",
+        "title": "Coastal Flood Advisory in effect and temperatures expected to rise across San Diego County",
+        "source": "cbs8.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T02:54:00Z",
+        "url": "https://www.cbs8.com/video/syndication/ott/weather-plus/coastal-flood-advisory-in-effect-and-temperatures-expected-to-rise-across-san-diego-county/509-0db3b53e-b169-4b95-8f9d-1707591d82e8",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317418950.html",
+        "title": "Flood advisory affecting Los Angeles Monday evening triggered by prolonged downpours",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T01:02:02Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317418950.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbs8.com/article/weather/el-nino-2026-information-san-diego-county/509-3f1aa999-3a67-4bd8-a703-42f1d807f37a",
+        "title": "Coastal Flood Advisory in effect as San Diego County launches El Ni\u00f1o Information Hub to help residents prepare",
+        "source": "cbs8.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-28T18:51:00Z",
+        "url": "https://www.cbs8.com/article/weather/el-nino-2026-information-san-diego-county/509-3f1aa999-3a67-4bd8-a703-42f1d807f37a",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2062682,
+          33.9510011
+        ]
+      },
+      "properties": {
+        "article_id": "https://ktla.com/news/california/hurricane-polo-coastal-flood-advisory-socal/",
+        "title": "Hurricane Polo triggers coastal flood advisory in Southern California",
+        "source": "KTLA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-28T14:02:36Z",
+        "url": "https://ktla.com/news/california/hurricane-polo-coastal-flood-advisory-socal/",
+        "mention_text": "Southern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Southern @ California, Southern Avenue, South Gate, Los Angeles County, California, 90280, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 11056179472,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbs8.com/video/weather/forecast/coastal-flood-advisory-in-effect-for-san-diego-county-to-start-the-week/509-4aa7e038-d512-4d8a-b0a4-dcd5cc55cc71",
+        "title": "Coastal flood advisory in effect for San Diego County to start the week",
+        "source": "cbs8.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-28T15:23:00Z",
+        "url": "https://www.cbs8.com/video/weather/forecast/coastal-flood-advisory-in-effect-for-san-diego-county-to-start-the-week/509-4aa7e038-d512-4d8a-b0a4-dcd5cc55cc71",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.350943,
+          27.681073
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sfchronicle.com/weather/article/tide-flooding-sf-marin-22452801.php",
+        "title": "Bay Area gets second-ever September coastal flood advisory as seas rise with El Ni\u00f1o",
+        "source": "sfchronicle.com",
+        "outlet_city": "Houston",
+        "outlet_region": "Texas",
+        "published_at": "2026-09-28T17:49:45Z",
+        "url": "https://www.sfchronicle.com/weather/article/tide-flooding-sf-marin-22452801.php",
+        "mention_text": "Bay Area",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Move It Self Storage Bay Area, 2301, Corpus Christi, Nueces County, Texas, 78414, United States",
+        "osm_type": "commercial",
+        "osm_id": 1452185938,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2062682,
+          33.9510011
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/losangeles/news/hurricane-polo-strong-swells-high-surf-coastal-flood-advisory-southern-california/",
+        "title": "Hurricane Polo expected to bring strong swells to Southern California, prompting coastal flood advisory",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-28T14:29:00Z",
+        "url": "https://www.cbsnews.com/losangeles/news/hurricane-polo-strong-swells-high-surf-coastal-flood-advisory-southern-california/",
+        "mention_text": "Southern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Southern @ California, Southern Avenue, South Gate, Los Angeles County, California, 90280, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 11056179472,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317364923.html",
+        "title": "UPDATE: Coastal flood advisory for Myrtle Beach area and Coastal Georgetown until Sunday midday",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-24T12:14:00Z",
+        "url": "https://www.thestate.com/news/weather-news/article317364923.html",
+        "mention_text": "Myrtle Beach",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Myrtle Beach, Horry County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193842,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0161205,
+          44.9292083
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317362060.html",
+        "title": "UPDATE: Coastal flood advisory affecting Southeast Coast until Sunday midday",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-24T04:49:00Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317362060.html",
+        "mention_text": "Southeast Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oregon Coast Highway, Taft, Lincoln City, Lincoln County, Oregon, 97367, United States",
+        "osm_type": "trunk",
+        "osm_id": 458933022,
+        "run_at": "2026-09-29T12:10:39.107380+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-09-28T12:55:28.046028+00:00",
-    "total_features": 4870
+    "last_updated": "2026-09-29T12:10:39.133188+00:00",
+    "total_features": 4921
   }
 }
