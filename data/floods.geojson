@@ -127946,11 +127946,999 @@
         "osm_id": 458933022,
         "run_at": "2026-09-29T12:10:39.107380+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.849423,
+          32.32817
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.koat.com/article/dona-ana-county-mcleod-dam-failure-flash-flood/73947717",
+        "title": "Flash Flood Emergency issued due to dam failure in Dona Ana County",
+        "source": "KOAT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-30T10:56:00Z",
+        "url": "https://www.koat.com/article/dona-ana-county-mcleod-dam-failure-flash-flood/73947717",
+        "mention_text": "Dona Ana County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Do\u00f1a Ana County, New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832188,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.849423,
+          32.32817
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.krqe.com/video/nws-flash-flood-emergency-issued-in-do%C3%B1a-ana-county-%E2%80%98for-the-imminent-failure%E2%80%99-of-dam/12219791/",
+        "title": "NWS: Flash flood emergency issued in Do\u00f1a Ana County \u2018for the imminent failure\u2019 of dam",
+        "source": "KRQE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-30T04:08:06Z",
+        "url": "https://www.krqe.com/video/nws-flash-flood-emergency-issued-in-do%C3%B1a-ana-county-%E2%80%98for-the-imminent-failure%E2%80%99-of-dam/12219791/",
+        "mention_text": "Do\u00f1a Ana County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Do\u00f1a Ana County, New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832188,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1551404,
+          26.1748895
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mysanantonio.com/news/weather/article/south-texas-heavy-rain-flash-flooding-threat-22454210.php",
+        "title": "Flash flood threat grows as heavy rain targets South Texas",
+        "source": "mysanantonio.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-30T02:11:57Z",
+        "url": "https://www.mysanantonio.com/news/weather/article/south-texas-heavy-rain-flash-flooding-threat-22454210.php",
+        "mention_text": "South Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South Texas, San Juan South Estates Colonia, San Juan, Hidalgo County, Texas, 78589, United States",
+        "osm_type": "residential",
+        "osm_id": 15287122,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfZD4PKQNMjv6hWYp3dkQ",
+        "title": "Texas Panhandle Flash Flood Warning Stays in Effect Amid Heavy Rain",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-30T07:12:28Z",
+        "url": "https://www.forth.news/stories/CfZD4PKQNMjv6hWYp3dkQ",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.849423,
+          32.32817
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.krqe.com/news/new-mexico/nws-flash-flood-emergency-issued-in-dona-ana-county-for-the-imminent-failure-of-dam/",
+        "title": "NWS: Flash flood emergency issued in Do\u00f1a Ana County \u2018for the imminent failure\u2019 of dam",
+        "source": "KRQE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T20:46:57Z",
+        "url": "https://www.krqe.com/news/new-mexico/nws-flash-flood-emergency-issued-in-dona-ana-county-for-the-imminent-failure-of-dam/",
+        "mention_text": "Do\u00f1a Ana County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Do\u00f1a Ana County, New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832188,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5208718,
+          40.1989597
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcnews.com/nightly-news/video/flash-flood-emergency-in-the-southwest-270751301818",
+        "title": "Flash flood emergency in the Southwest",
+        "source": "NBC News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T23:14:47Z",
+        "url": "https://www.nbcnews.com/nightly-news/video/flash-flood-emergency-in-the-southwest-270751301818",
+        "mention_text": "Southwest",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Southwest, Mount Pleasant Township, Westmoreland County, Pennsylvania, 15685, United States",
+        "osm_type": "hamlet",
+        "osm_id": 158365843,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.153438,
+          32.6651718
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.koat.com/article/flash-flood-emergency-issued-for-hatch-new-mexico/73950789",
+        "title": "Flash flood emergency issued for Hatch, New Mexico",
+        "source": "KOAT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-30T01:17:00Z",
+        "url": "https://www.koat.com/article/flash-flood-emergency-issued-for-hatch-new-mexico/73950789",
+        "mention_text": "Hatch",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hatch, Do\u00f1a Ana County, New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 171259,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.996047,
+          34.5802074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.koat.com/article/flash-flood-emergency-issued-for-hatch-new-mexico/73950789",
+        "title": "Flash flood emergency issued for Hatch, New Mexico",
+        "source": "KOAT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-30T01:17:00Z",
+        "url": "https://www.koat.com/article/flash-flood-emergency-issued-for-hatch-new-mexico/73950789",
+        "mention_text": "New Mexico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 162014,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.996047,
+          34.5802074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfYpAVSFLXU5y5CfqTkXA",
+        "title": "New Mexico Flash Flood Warning Remains in Effect as 2.5 Inches of Rain Already Fell",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T22:44:00Z",
+        "url": "https://www.forth.news/stories/CfYpAVSFLXU5y5CfqTkXA",
+        "mention_text": "New Mexico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 162014,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfYS46daU6heJvRVqW9ZH",
+        "title": "Arizona Flash Flood Warning: 1\u20133 Inches of Rain, Roads Flooded, Residents Urged to Turn Around",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T21:22:33Z",
+        "url": "https://www.forth.news/stories/CfYS46daU6heJvRVqW9ZH",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1484131,
+          36.1674263
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.8newsnow.com/video/first-responders-in-las-vegas-conduct-swift-water-rescue-near-twain-eastern/12219142/",
+        "title": "First responders in Las Vegas conduct swift-water rescue near Twain, Eastern \u2013 KLAS",
+        "source": "KLAS 8 News Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-30T00:17:57Z",
+        "url": "https://www.8newsnow.com/video/first-responders-in-las-vegas-conduct-swift-water-rescue-near-twain-eastern/12219142/",
+        "mention_text": "Las Vegas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Las Vegas, Clark County, Nevada, United States",
+        "osm_type": "administrative",
+        "osm_id": 170117,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.0328511,
+          40.037794
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.8newsnow.com/video/first-responders-in-las-vegas-conduct-swift-water-rescue-near-twain-eastern/12219142/",
+        "title": "First responders in Las Vegas conduct swift-water rescue near Twain, Eastern \u2013 KLAS",
+        "source": "KLAS 8 News Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-30T00:17:57Z",
+        "url": "https://www.8newsnow.com/video/first-responders-in-las-vegas-conduct-swift-water-rescue-near-twain-eastern/12219142/",
+        "mention_text": "Twain",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Twain, Plumas County, California, United States",
+        "osm_type": "census",
+        "osm_id": 19962312,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.4938287,
+          43.8938493
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.agweek.com/weather/new-richland-meat-processor-loses-thousands-of-pounds-of-product-in-flash-flood",
+        "title": "New Richland meat processor loses thousands of pounds of product in flash flood",
+        "source": "Agweek",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-30T10:31:29Z",
+        "url": "https://www.agweek.com/weather/new-richland-meat-processor-loses-thousands-of-pounds-of-product-in-flash-flood",
+        "mention_text": "New Richland",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Richland, Waseca County, Minnesota, United States",
+        "osm_type": "administrative",
+        "osm_id": 137845,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5208718,
+          40.1989597
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.centraloregondaily.com/news/nation-world/southwest-storm-puts-30-million-under-life-threatening-flash-flood-threat/video_0fe1a371-ab99-5bd8-87e6-79fcedfb7839.html",
+        "title": "Southwest storm puts 30 million under life-threatening flash flood threat",
+        "source": "Central Oregon Daily",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-30T00:44:49Z",
+        "url": "https://www.centraloregondaily.com/news/nation-world/southwest-storm-puts-30-million-under-life-threatening-flash-flood-threat/video_0fe1a371-ab99-5bd8-87e6-79fcedfb7839.html",
+        "mention_text": "Southwest",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Southwest, Mount Pleasant Township, Westmoreland County, Pennsylvania, 15685, United States",
+        "osm_type": "hamlet",
+        "osm_id": 158365843,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.442834,
+          47.6679559
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.conchovalleyhomepage.com/weather/nws-significant-localized-flash-flood-event-possible-for-west-central-texas/",
+        "title": "NWS: \u2018Significant localized flash flood event\u2019 possible for West Central Texas",
+        "source": "ConchoValleyHomepage.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T15:01:42Z",
+        "url": "https://www.conchovalleyhomepage.com/weather/nws-significant-localized-flash-flood-event-possible-for-west-central-texas/",
+        "mention_text": "West Central",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "West Central, Spokane, Spokane County, Washington, 99201, United States",
+        "osm_type": "quarter",
+        "osm_id": 5883241086,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.conchovalleyhomepage.com/weather/nws-significant-localized-flash-flood-event-possible-for-west-central-texas/",
+        "title": "NWS: \u2018Significant localized flash flood event\u2019 possible for West Central Texas",
+        "source": "ConchoValleyHomepage.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T15:01:42Z",
+        "url": "https://www.conchovalleyhomepage.com/weather/nws-significant-localized-flash-flood-event-possible-for-west-central-texas/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.49123,
+          33.34883
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azcentral.com/story/weather/severe/2026/09/29/flash-flood-warning-issued-for-maricopa-county/91999382007/",
+        "title": "Flash flood warning issued for Maricopa County",
+        "source": "azcentral.com and The Arizona Republic",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-30T01:00:00Z",
+        "url": "https://www.azcentral.com/story/weather/severe/2026/09/29/flash-flood-warning-issued-for-maricopa-county/91999382007/",
+        "mention_text": "Maricopa County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maricopa County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832201,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5515965,
+          34.5668857
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox10phoenix.com/weather/arizona-weather-forecast-92926",
+        "title": "Flash flood warnings hit Kingman and Yavapai County",
+        "source": "FOX 10 Phoenix",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T13:19:51Z",
+        "url": "https://www.fox10phoenix.com/weather/arizona-weather-forecast-92926",
+        "mention_text": "Yavapai County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Yavapai County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832215,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.153438,
+          32.6651718
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfY9kA4ptwJCAm5PFUhLJ",
+        "title": "Hatch, NM Faces Life\u2011Threatening Floods: Emergency Alert and Flash Flood Warning Issued",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T17:45:00Z",
+        "url": "https://www.forth.news/stories/CfY9kA4ptwJCAm5PFUhLJ",
+        "mention_text": "Hatch",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hatch, Do\u00f1a Ana County, New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 171259,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8897397,
+          37.3374858
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfY6EMZhovBZrNGkogdL6",
+        "title": "NWS Issues Flash Flood Warning for Northeastern Luna County Until 5 PM MDT",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T16:59:00Z",
+        "url": "https://www.forth.news/stories/CfY6EMZhovBZrNGkogdL6",
+        "mention_text": "Northeastern Luna County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Northeastern University Silicon Valley, 4, North 2nd Street, Saint James Square Historic District, Japantown, San Jose, Santa Clara County, California, 95113, United States",
+        "osm_type": "university",
+        "osm_id": 11498164633,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3520606,
+          30.6108618
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article317423982.html",
+        "title": "Texas mobilizes emergency crews and National Guard ahead of severe flash flood threat (Video)",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-09-29T14:02:05Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article317423982.html",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas A&M University, 400, Bizzell Street, College Station, Brazos County, Texas, 77843, United States",
+        "osm_type": "university",
+        "osm_id": 8556620,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.849423,
+          32.32817
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfYKBfc5iT95EPRMjf9U1",
+        "title": "McLeod Dam Imminent Failure Triggers Flash Flood Emergency in Dona Ana County",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T19:47:00Z",
+        "url": "https://www.forth.news/stories/CfYKBfc5iT95EPRMjf9U1",
+        "mention_text": "Dona Ana County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Do\u00f1a Ana County, New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832188,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5208718,
+          40.1989597
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modernghana.com/videonews/nbc/1/726085",
+        "title": "Flash flood emergency in the Southwest",
+        "source": "Modern Ghana",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T23:59:18Z",
+        "url": "https://www.modernghana.com/videonews/nbc/1/726085",
+        "mention_text": "Southwest",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Southwest, Mount Pleasant Township, Westmoreland County, Pennsylvania, 15685, United States",
+        "osm_type": "hamlet",
+        "osm_id": 158365843,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6299887,
+          28.333492
+        ]
+      },
+      "properties": {
+        "article_id": "https://watchers.news/2026/09/29/hurricane-polo-and-remnants-of-odalys-bring-heavy-rain-and-flash-flood-risk-across-the-four-corners-region-u-s/",
+        "title": "Hurricane Polo and remnants of Odalys bring heavy rain and flash flood risk across the Four Corners region, U.S.",
+        "source": "The Watchers - Watching the world evolve and transform",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T12:39:34Z",
+        "url": "https://watchers.news/2026/09/29/hurricane-polo-and-remnants-of-odalys-bring-heavy-rain-and-flash-flood-risk-across-the-four-corners-region-u-s/",
+        "mention_text": "Four Corners",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Four Corners, Villa Santa Cruz, Four Corners, Osceola County, Florida, United States",
+        "osm_type": "census",
+        "osm_id": 7905709,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.445882,
+          39.7837304
+        ]
+      },
+      "properties": {
+        "article_id": "https://watchers.news/2026/09/29/hurricane-polo-and-remnants-of-odalys-bring-heavy-rain-and-flash-flood-risk-across-the-four-corners-region-u-s/",
+        "title": "Hurricane Polo and remnants of Odalys bring heavy rain and flash flood risk across the Four Corners region, U.S.",
+        "source": "The Watchers - Watching the world evolve and transform",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T12:39:34Z",
+        "url": "https://watchers.news/2026/09/29/hurricane-polo-and-remnants-of-odalys-bring-heavy-rain-and-flash-flood-risk-across-the-four-corners-region-u-s/",
+        "mention_text": "U.S.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "United States",
+        "osm_type": "administrative",
+        "osm_id": 148838,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4494174,
+          26.6279798
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.palmbeachpost.com/picture-gallery/weather/2026/09/29/king-tide-flooding-palm-beach-county-florida-see-photos/92001948007/",
+        "title": "See photos of king tide flooding in Palm Beach County",
+        "source": "The Palm Beach Post",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T21:28:00Z",
+        "url": "https://www.palmbeachpost.com/picture-gallery/weather/2026/09/29/king-tide-flooding-palm-beach-county-florida-see-photos/92001948007/",
+        "mention_text": "Palm Beach County",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Palm Beach County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210748,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317435447.html",
+        "title": "Coastal flood advisory affecting Coastal Colleton and Charleston County",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-30T06:25:04Z",
+        "url": "https://www.thestate.com/news/weather-news/article317435447.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8463851,
+          37.1670484
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.floridatoday.com/videos/weather/local/2026/09/29/south-florida-king-tide-flood-advisory/92007168007/",
+        "title": "Coastal flood advisory extended for another day in parts of South Florida",
+        "source": "floridatoday.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T18:31:43Z",
+        "url": "https://www.floridatoday.com/videos/weather/local/2026/09/29/south-florida-king-tide-flood-advisory/92007168007/",
+        "mention_text": "South Florida",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "South Florida, Columbus, Cherokee County, Kansas, 66725, United States",
+        "osm_type": "residential",
+        "osm_id": 12999746,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbs8.com/video/news/local/san-diego-county-under-coastal-flood-advisory-for-elevated-surf-high-tides/509-ca77bc54-86b4-4d50-8ef7-9ab5f2c2fb30",
+        "title": "San Diego County under Coastal Flood Advisory for elevated surf, high tides",
+        "source": "cbs8.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T14:31:00Z",
+        "url": "https://www.cbs8.com/video/news/local/san-diego-county-under-coastal-flood-advisory-for-elevated-surf-high-tides/509-ca77bc54-86b4-4d50-8ef7-9ab5f2c2fb30",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4989467,
+          25.6364246
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.local10.com/video/news/2026/09/29/flood-advisory-in-effect-in-miami-dade/",
+        "title": "Flood advisory in effect in Miami-Dade",
+        "source": "local10.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T15:13:27Z",
+        "url": "https://www.local10.com/video/news/2026/09/29/flood-advisory-in-effect-in-miami-dade/",
+        "mention_text": "Miami-Dade",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Miami-Dade County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210692,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.996047,
+          34.5802074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/catastrophic-flash-flood-emergency-issued-204234135.html",
+        "title": "Catastrophic Flash Flood Emergency issued in New Mexico amid an imminent dam failure",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T20:42:34Z",
+        "url": "https://www.yahoo.com/news/videos/catastrophic-flash-flood-emergency-issued-204234135.html",
+        "mention_text": "New Mexico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 162014,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.996047,
+          34.5802074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/imminent-dam-failure-triggers-flash-203203062.html",
+        "title": "Imminent dam failure triggers Flash Flood Emergency in New Mexico",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T20:32:03Z",
+        "url": "https://www.yahoo.com/news/videos/imminent-dam-failure-triggers-flash-203203062.html",
+        "mention_text": "New Mexico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 162014,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pasadenastarnews.com/2026/09/26/coastal-flood-advisory-affecting-los-angeles-county-beaches-monday-and-tuesday/",
+        "title": "Coastal flood advisory affecting Los Angeles County beaches Monday and Tuesday",
+        "source": "Pasadena Star News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-26T20:51:45Z",
+        "url": "https://www.pasadenastarnews.com/2026/09/26/coastal-flood-advisory-affecting-los-angeles-county-beaches-monday-and-tuesday/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8463851,
+          37.1670484
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.usatoday.com/story/news/state/florida/miami/2026/09/29/south-florida-flooding-today-king-tides/92000141007/",
+        "title": "Coastal flood advisory extended for another day in parts of South Florida",
+        "source": "USA Today",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T14:40:00Z",
+        "url": "https://www.usatoday.com/story/news/state/florida/miami/2026/09/29/south-florida-flooding-today-king-tides/92000141007/",
+        "mention_text": "South Florida",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "South Florida, Columbus, Cherokee County, Kansas, 66725, United States",
+        "osm_type": "residential",
+        "osm_id": 12999746,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.996047,
+          34.5802074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsweek.com/new-mexico-flash-flood-emergency-as-mcleod-dam-faces-imminent-failure-12504693",
+        "title": "New Mexico Flash Flood Emergency as McLeod Dam Faces Imminent Failure",
+        "source": "Newsweek",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-30T04:09:00Z",
+        "url": "https://www.newsweek.com/new-mexico-flash-flood-emergency-as-mcleod-dam-faces-imminent-failure-12504693",
+        "mention_text": "New Mexico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 162014,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/coastal-flood-advisory-effect-san-185137147.html",
+        "title": "Coastal Flood Advisory in effect as San Diego County launches El Ni\u00f1o Information Hub to help residents prepare",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-28T18:51:37Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/coastal-flood-advisory-effect-san-185137147.html",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0372472,
+          33.7219991
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sbsun.com/2026/09/24/flood-advisory-issued-for-riverside-county-thursday-afternoon-due-to-excessive-rain/",
+        "title": "Flood advisory issued for Riverside County Thursday afternoon due to excessive rain",
+        "source": "San Bernardino Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-25T04:12:09Z",
+        "url": "https://www.sbsun.com/2026/09/24/flood-advisory-issued-for-riverside-county-thursday-afternoon-due-to-excessive-rain/",
+        "mention_text": "Riverside County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Riverside County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396495,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317354229.html",
+        "title": "UPDATE: Coastal flood advisory issued for Coastal Colleton and Charleston County",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-23T17:05:00Z",
+        "url": "https://www.thestate.com/news/weather-news/article317354229.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-09-30T11:58:01.927836+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-09-29T12:10:39.133188+00:00",
-    "total_features": 4921
+    "last_updated": "2026-09-30T11:58:01.953515+00:00",
+    "total_features": 4959
   }
 }
