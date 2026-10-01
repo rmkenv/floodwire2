@@ -128934,11 +128934,661 @@
         "osm_id": 1857000,
         "run_at": "2026-09-30T11:58:01.927836+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8085436,
+          31.4274044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kxan.com/central-texas/txdot-stations-1200-crews-statewide-amid-flash-flood-threat-in-central-texas/",
+        "title": "TxDOT stations 1,200 crews statewide amid flash flood threat in Central Texas",
+        "source": "KXAN Austin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T11:38:23Z",
+        "url": "https://www.kxan.com/central-texas/txdot-stations-1200-crews-statewide-amid-flash-flood-threat-in-central-texas/",
+        "mention_text": "Central Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, Angelina County, Texas, 76969, United States",
+        "osm_type": "hamlet",
+        "osm_id": 151831870,
+        "run_at": "2026-10-01T12:27:44.095254+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2523577,
+          27.6983621
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kgns.tv/video/2026/10/01/flash-flood-preparations-underway-webb-county/",
+        "title": "Flash flood preparations underway in Webb County",
+        "source": "kgns.tv",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T04:03:00Z",
+        "url": "https://www.kgns.tv/video/2026/10/01/flash-flood-preparations-underway-webb-county/",
+        "mention_text": "Webb County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Webb County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1827177,
+        "run_at": "2026-10-01T12:27:44.095254+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4951405,
+          29.4246002
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kens5.com/video/weather/forecast/flood-watch-continues-as-heavy-rain-brings-flash-flooding-threat-to-san-antonio-kens-5-weather-impact-forecast/273-69adc744-5565-4298-ac98-0c65a1e6b127",
+        "title": "Flood Watch continues as heavy rain brings flash flooding threat to San Antonio | KENS 5 Weather Impact Forecast",
+        "source": "kens5.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T11:26:00Z",
+        "url": "https://www.kens5.com/video/weather/forecast/flood-watch-continues-as-heavy-rain-brings-flash-flooding-threat-to-san-antonio-kens-5-weather-impact-forecast/273-69adc744-5565-4298-ac98-0c65a1e6b127",
+        "mention_text": "San Antonio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Antonio, Bexar County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 253556,
+        "run_at": "2026-10-01T12:27:44.095254+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1350853,
+          32.6662691
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/texas/video/flash-flood-threat-looms-for-north-texas-morning-commute/",
+        "title": "Flash flood threat looms for North Texas morning commute",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T03:33:00Z",
+        "url": "https://www.cbsnews.com/texas/video/flash-flood-threat-looms-for-north-texas-morning-commute/",
+        "mention_text": "North Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North, Arlington, Tarrant County, Texas, 76017, United States",
+        "osm_type": "residential",
+        "osm_id": 10057724,
+        "run_at": "2026-10-01T12:27:44.095254+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2684063,
+          34.9550817
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.koco.com/article/oklahoma-weather-radar-mesonet-tornado-storm-risk-wednesday-flooding/73956358",
+        "title": "Heavy rain with Oklahoma storms prompt flash flood warnings",
+        "source": "KOCO",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T07:00:00Z",
+        "url": "https://www.koco.com/article/oklahoma-weather-radar-mesonet-tornado-storm-risk-wednesday-flooding/73956358",
+        "mention_text": "Oklahoma",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Oklahoma, United States",
+        "osm_type": "administrative",
+        "osm_id": 161645,
+        "run_at": "2026-10-01T12:27:44.095254+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://voz.us/en/society/261001/39562/heavy-rains-threaten-texas-and-the-central-united-states-flash-flood-warnings-issued.html",
+        "title": "Heavy rains threaten Texas and the central United States: flash flood warnings issued",
+        "source": "voz.us",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T08:13:14Z",
+        "url": "https://voz.us/en/society/261001/39562/heavy-rains-threaten-texas-and-the-central-united-states-flash-flood-warnings-issued.html",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-10-01T12:27:44.095254+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.445882,
+          39.7837304
+        ]
+      },
+      "properties": {
+        "article_id": "https://voz.us/en/society/261001/39562/heavy-rains-threaten-texas-and-the-central-united-states-flash-flood-warnings-issued.html",
+        "title": "Heavy rains threaten Texas and the central United States: flash flood warnings issued",
+        "source": "voz.us",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T08:13:14Z",
+        "url": "https://voz.us/en/society/261001/39562/heavy-rains-threaten-texas-and-the-central-united-states-flash-flood-warnings-issued.html",
+        "mention_text": "United States",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "United States",
+        "osm_type": "administrative",
+        "osm_id": 148838,
+        "run_at": "2026-10-01T12:27:44.095254+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4870476,
+          31.7601001
+        ]
+      },
+      "properties": {
+        "article_id": "https://kvia.com/weather/2026/09/30/abc-7-storm-track-weather-cooler-and-mostly-dry-with-a-sun-and-cloud-mix/",
+        "title": "ABC-7 Storm Track Weather First Alert - Flood warning issued along the Rio Grande for most of El Paso county.",
+        "source": "KVIA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T08:14:33Z",
+        "url": "https://kvia.com/weather/2026/09/30/abc-7-storm-track-weather-cooler-and-mostly-dry-with-a-sun-and-cloud-mix/",
+        "mention_text": "El Paso",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "El Paso, El Paso County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 113919,
+        "run_at": "2026-10-01T12:27:44.095254+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2523577,
+          27.6983621
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kgns.tv/2026/09/30/flash-flood-preparations-underway-webb-county/",
+        "title": "Flash flood preparations underway in Webb County",
+        "source": "kgns.tv",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-30T22:59:00Z",
+        "url": "https://www.kgns.tv/2026/09/30/flash-flood-preparations-underway-webb-county/",
+        "mention_text": "Webb County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Webb County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1827177,
+        "run_at": "2026-10-01T12:27:44.095254+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4359392,
+          40.4144817
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kansascity.com/news/weather-news/article317445004.html",
+        "title": "Flood warning issued for Leavenworth and Atchison counties from Thursday to Saturday",
+        "source": "Kansas City Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-30T19:58:07Z",
+        "url": "https://www.kansascity.com/news/weather-news/article317445004.html",
+        "mention_text": "Atchison",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Atchison County, Missouri, United States",
+        "osm_type": "administrative",
+        "osm_id": 1180516,
+        "run_at": "2026-10-01T12:27:44.095254+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6000929,
+          40.7200059
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/stories/CfaqzuTqAEoakbQxeW7Sv",
+        "title": "Nebraska Flood Warning: West Fork Big Blue River to Reach 22\u2011Foot Crest; Flash Flood Alerts Persist",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T03:56:00Z",
+        "url": "https://www.forth.news/stories/CfaqzuTqAEoakbQxeW7Sv",
+        "mention_text": "West Fork Big Blue River",
+        "flood_type": "flash_flood",
+        "confidence": 0.75,
+        "osm_display": "West Fork Big Blue River, Nebraska, United States",
+        "osm_type": "river",
+        "osm_id": 21000944,
+        "run_at": "2026-10-01T12:27:44.095254+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.996047,
+          34.5802074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-jiomanw5z24pku54",
+        "title": "New Mexico slammed by tropically-enhanced flooding, including a Flash Flood Emergency",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-30T09:40:24Z",
+        "url": "https://www.foxweather.com/watch/fmc-jiomanw5z24pku54",
+        "mention_text": "New Mexico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 162014,
+        "run_at": "2026-10-01T12:27:44.095254+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8085436,
+          31.4274044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tdtnews.com/news/central_texas_news/article_55c94ba0-1167-457a-9a0b-acfc4adc826e.html",
+        "title": "Flash flood watch in effect as rain, cooler temperatures move into drought ridden Central Texas",
+        "source": "tdtnews.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-30T22:45:00Z",
+        "url": "https://www.tdtnews.com/news/central_texas_news/article_55c94ba0-1167-457a-9a0b-acfc4adc826e.html",
+        "mention_text": "Central Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, Angelina County, Texas, 76969, United States",
+        "osm_type": "hamlet",
+        "osm_id": 151831870,
+        "run_at": "2026-10-01T12:27:44.095254+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9383758,
+          41.2587459
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.weeklytimesnow.com.au/news/national/flash-flood-warning-issued-as-heavy-rain-lashes-omaha/video/30f098604d29b7a718d98740d7443584",
+        "title": "Flash Flood Warning Issued as Heavy Rain Lashes Omaha",
+        "source": "The Weekly Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T09:47:53Z",
+        "url": "https://www.weeklytimesnow.com.au/news/national/flash-flood-warning-issued-as-heavy-rain-lashes-omaha/video/30f098604d29b7a718d98740d7443584",
+        "mention_text": "Omaha",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Omaha, Douglas County, Nebraska, United States",
+        "osm_type": "administrative",
+        "osm_id": 169759,
+        "run_at": "2026-10-01T12:27:44.095254+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6175031,
+          45.4693103
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/mike-morgan-10-20pm-wednesday-040346841.html",
+        "title": "Mike Morgan at 10:20PM Wednesday with a Flash Flood Watch Update. Metro heavy storms after Midnight tonight. September 30th, 2026 #okwx",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T04:03:00Z",
+        "url": "https://www.yahoo.com/news/videos/mike-morgan-10-20pm-wednesday-040346841.html",
+        "mention_text": "Metro",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Metro, Multnomah County, Oregon, United States",
+        "osm_type": "special_district",
+        "osm_id": 11773800,
+        "run_at": "2026-10-01T12:27:44.095254+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3427051,
+          32.379898
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/atlanta/video/heavy-rain-brings-weekend-flash-flood-risk-to-north-georgia/",
+        "title": "Heavy rain brings weekend flash flood risk to North Georgia",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-30T12:25:00Z",
+        "url": "https://www.cbsnews.com/atlanta/video/heavy-rain-brings-weekend-flash-flood-risk-to-north-georgia/",
+        "mention_text": "North Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Middle Georgia State University, Cochran Campus, 1100, North Lakeshore Drive, Cochran, Bleckley County, Georgia, 31014, United States",
+        "osm_type": "university",
+        "osm_id": 200376318,
+        "run_at": "2026-10-01T12:27:44.095254+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7329309,
+          27.8778904
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox13news.com/video/fmc-3hs6w0qc16nl6yhm",
+        "title": "King Tide flooding in Pinellas County",
+        "source": "FOX 13 Tampa Bay",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-30T22:54:57Z",
+        "url": "https://www.fox13news.com/video/fmc-3hs6w0qc16nl6yhm",
+        "mention_text": "Pinellas County",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Pinellas County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210726,
+        "run_at": "2026-10-01T12:27:44.095254+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.329523,
+          34.0980031
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/miami/news/hollywood-seawall-panels-block-king-tide-flooding-2026/",
+        "title": "Hollywood's seawall passes king tide test, but seawater can still rise through storm drains",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-30T23:02:00Z",
+        "url": "https://www.cbsnews.com/miami/news/hollywood-seawall-panels-block-king-tide-flooding-2026/",
+        "mention_text": "Hollywood",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Hollywood, Los Angeles, Los Angeles County, California, 90028, United States",
+        "osm_type": "suburb",
+        "osm_id": 1830231415,
+        "run_at": "2026-10-01T12:27:44.095254+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.457904,
+          27.3900897
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbs12.com/news/local/flood-advisory-issued-for-martin-and-st-lucie-counties",
+        "title": "Flood advisory issued for Martin and St. Lucie Counties",
+        "source": "WPEC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T08:49:52Z",
+        "url": "https://cbs12.com/news/local/flood-advisory-issued-for-martin-and-st-lucie-counties",
+        "mention_text": "St. Lucie",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Saint Lucie County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210696,
+        "run_at": "2026-10-01T12:27:44.095254+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8045599,
+          32.7772598
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article317452651.html",
+        "title": "Flood advisory issued for Parker County until Thursday morning due to intense downpours",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-10-01T10:58:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article317452651.html",
+        "mention_text": "Parker County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Parker County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836989,
+        "run_at": "2026-10-01T12:27:44.095254+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4030376,
+          37.7887644
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317447933.html",
+        "title": "Coastal flood advisory active for Northern California until early Thursday evening",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-30T23:09:04Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317447933.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "First National Bank of Northern California, Post Street, Union Square, Financial District, San Francisco, California, 94104, United States",
+        "osm_type": "bank",
+        "osm_id": 32946665,
+        "run_at": "2026-10-01T12:27:44.095254+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4030376,
+          37.7887644
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/09/30/coastal-flood-advisory-issued-for-northern-california-until-early-thursday-evening/",
+        "title": "Coastal flood advisory issued for Northern California until early Thursday evening",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-30T22:49:19Z",
+        "url": "https://www.mercurynews.com/2026/09/30/coastal-flood-advisory-issued-for-northern-california-until-early-thursday-evening/",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "First National Bank of Northern California, Post Street, Union Square, Financial District, San Francisco, California, 94104, United States",
+        "osm_type": "bank",
+        "osm_id": 32946665,
+        "run_at": "2026-10-01T12:27:44.095254+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2684063,
+          34.9550817
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.news9.com/oklahoma-city-news/flooding-oklahoma-what-to-do-flooded-road",
+        "title": "Flooding in Oklahoma: What to do if you encounter a flooded road",
+        "source": "News 9",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-30T23:33:43Z",
+        "url": "https://www.news9.com/oklahoma-city-news/flooding-oklahoma-what-to-do-flooded-road",
+        "mention_text": "Oklahoma",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Oklahoma, United States",
+        "osm_type": "administrative",
+        "osm_id": 161645,
+        "run_at": "2026-10-01T12:27:44.095254+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbs8.com/video/news/local/coastal-flood-advisory-remaining-in-effect-for-san-diego-county-through-wednesday-evening/509-2cefc03d-2525-4947-8c78-42b5f6e42dab",
+        "title": "Coastal Flood Advisory remaining in effect for San Diego County through Wednesday evening",
+        "source": "cbs8.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-30T16:01:00Z",
+        "url": "https://www.cbs8.com/video/news/local/coastal-flood-advisory-remaining-in-effect-for-san-diego-county-through-wednesday-evening/509-2cefc03d-2525-4947-8c78-42b5f6e42dab",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-10-01T12:27:44.095254+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.presstelegram.com/2026/09/26/coastal-flood-advisory-affecting-los-angeles-county-beaches-monday-and-tuesday/",
+        "title": "Coastal flood advisory affecting Los Angeles County beaches Monday and Tuesday",
+        "source": "Press Telegram",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-26T20:51:44Z",
+        "url": "https://www.presstelegram.com/2026/09/26/coastal-flood-advisory-affecting-los-angeles-county-beaches-monday-and-tuesday/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-10-01T12:27:44.095254+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-09-30T11:58:01.953515+00:00",
-    "total_features": 4959
+    "last_updated": "2026-10-01T12:27:44.121675+00:00",
+    "total_features": 4984
   }
 }
