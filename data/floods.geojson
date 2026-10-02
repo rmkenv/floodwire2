@@ -129584,11 +129584,999 @@
         "osm_id": 396479,
         "run_at": "2026-10-01T12:27:44.095254+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6970374,
+          30.6663312
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kvue.com/article/weather/severe-weather/flood-warning-issued-llano-county-texas-river-levels-rise/269-750bed71-8577-4398-b05c-40d60f835dd6",
+        "title": "Flood warning issued for Llano County as river levels rise",
+        "source": "KVUE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T23:20:00Z",
+        "url": "https://www.kvue.com/article/weather/severe-weather/flood-warning-issued-llano-county-texas-river-levels-rise/269-750bed71-8577-4398-b05c-40d60f835dd6",
+        "mention_text": "Llano County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Llano County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836914,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3676974,
+          29.7589382
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.khou.com/video/weather/houston-weather-flash-flood-warning-for-parts-of-montgomery-grimes-and-waller-counties/285-5d68ed76-1683-4839-99b9-6cfccacadfd0",
+        "title": "Houston weather: Flash flood warning for parts of Montgomery, Grimes and Waller counties",
+        "source": "KHOU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-02T03:22:00Z",
+        "url": "https://www.khou.com/video/weather/houston-weather-flash-flood-warning-for-parts-of-montgomery-grimes-and-waller-counties/285-5d68ed76-1683-4839-99b9-6cfccacadfd0",
+        "mention_text": "Houston",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Houston, Harris County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 2688911,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4870476,
+          31.7601001
+        ]
+      },
+      "properties": {
+        "article_id": "https://kfoxtv.com/news/local/flood-warning-issued-for-rio-grande-in-el-paso-after-heavy-rain-roads-closed-nearby",
+        "title": "Flood warning issued for Rio Grande in El Paso after heavy rain, roads closed nearby",
+        "source": "KFOX",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-02T01:33:07Z",
+        "url": "https://kfoxtv.com/news/local/flood-warning-issued-for-rio-grande-in-el-paso-after-heavy-rain-roads-closed-nearby",
+        "mention_text": "El Paso",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "El Paso, El Paso County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 113919,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.0170787,
+          37.7527982
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wibw.com/2026/10/01/flash-flood-emergency-issued-dodge-city-ford-county-heavy-downpours-inundate-sw-kansas/",
+        "title": "Flash flood emergency issued for Dodge City, Ford County as heavy downpours inundate SW Kansas",
+        "source": "WIBW",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T20:33:00Z",
+        "url": "https://www.wibw.com/2026/10/01/flash-flood-emergency-issued-dodge-city-ford-county-heavy-downpours-inundate-sw-kansas/",
+        "mention_text": "Dodge City",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dodge City, Ford County, Kansas, 67801, United States",
+        "osm_type": "administrative",
+        "osm_id": 130281,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2552987,
+          40.4980955
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wibw.com/2026/10/01/flash-flood-emergency-issued-dodge-city-ford-county-heavy-downpours-inundate-sw-kansas/",
+        "title": "Flash flood emergency issued for Dodge City, Ford County as heavy downpours inundate SW Kansas",
+        "source": "WIBW",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T20:33:00Z",
+        "url": "https://www.wibw.com/2026/10/01/flash-flood-emergency-issued-dodge-city-ford-county-heavy-downpours-inundate-sw-kansas/",
+        "mention_text": "Ford County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ford County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1800374,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5821872,
+          38.27312
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wibw.com/2026/10/01/flash-flood-emergency-issued-dodge-city-ford-county-heavy-downpours-inundate-sw-kansas/",
+        "title": "Flash flood emergency issued for Dodge City, Ford County as heavy downpours inundate SW Kansas",
+        "source": "WIBW",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T20:33:00Z",
+        "url": "https://www.wibw.com/2026/10/01/flash-flood-emergency-issued-dodge-city-ford-county-heavy-downpours-inundate-sw-kansas/",
+        "mention_text": "Kansas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kansas, United States",
+        "osm_type": "administrative",
+        "osm_id": 161644,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5316314,
+          28.8554434
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wilsoncountynews.com/articles/heavy-rainfall-prompts-imminent-flash-flood-warning-for-wilson-bexar-atascosa-counties/",
+        "title": "Heavy rainfall prompts \u2018imminent\u2019 flash flood warning for Wilson, Bexar, Atascosa counties",
+        "source": "wilsoncountynews.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T19:05:09Z",
+        "url": "https://www.wilsoncountynews.com/articles/heavy-rainfall-prompts-imminent-flash-flood-warning-for-wilson-bexar-atascosa-counties/",
+        "mention_text": "Atascosa",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atascosa County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1657497,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4951405,
+          29.4246002
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.expressnews.com/san-antonio-weather/article/flash-flood-warning-san-anotnio-texas-storm-22458287.php",
+        "title": "Flash flood warning issued for San Antonio: Avoid all travel if possible",
+        "source": "San Antonio Express-News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T18:40:09Z",
+        "url": "https://www.expressnews.com/san-antonio-weather/article/flash-flood-warning-san-anotnio-texas-storm-22458287.php",
+        "mention_text": "San Antonio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Antonio, Bexar County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 253556,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2552987,
+          40.4980955
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kwch.com/video/2026/10/01/ford-county-dodge-city-experiences-flash-flood-emergency/",
+        "title": "Ford County, Dodge City experiences flash flood emergency",
+        "source": "KWCH",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T22:18:00Z",
+        "url": "https://www.kwch.com/video/2026/10/01/ford-county-dodge-city-experiences-flash-flood-emergency/",
+        "mention_text": "Ford County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ford County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1800374,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.0170787,
+          37.7527982
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kwch.com/video/2026/10/01/ford-county-dodge-city-experiences-flash-flood-emergency/",
+        "title": "Ford County, Dodge City experiences flash flood emergency",
+        "source": "KWCH",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T22:18:00Z",
+        "url": "https://www.kwch.com/video/2026/10/01/ford-county-dodge-city-experiences-flash-flood-emergency/",
+        "mention_text": "Dodge City",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dodge City, Ford County, Kansas, 67801, United States",
+        "osm_type": "administrative",
+        "osm_id": 130281,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4951405,
+          29.4246002
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ksat.com/video/weather/weather-forecast/2026/10/01/flash-flood-warning-in-san-antonio-until-7pm-here-s-what-to-expect-through-friday-sarah-spivey/",
+        "title": "Flash Flood Warning in San Antonio until 7pm. Here's what to expect through Friday ~ Sarah Spivey",
+        "source": "KSAT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T19:36:56Z",
+        "url": "https://www.ksat.com/video/weather/weather-forecast/2026/10/01/flash-flood-warning-in-san-antonio-until-7pm-here-s-what-to-expect-through-friday-sarah-spivey/",
+        "mention_text": "San Antonio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Antonio, Bexar County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 253556,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2552987,
+          40.4980955
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kwch.com/video/2026/10/01/flash-flood-warning-issued-ford-county-dodge-city/",
+        "title": "Flash flood warning issued for Ford County, Dodge City",
+        "source": "KWCH",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T20:48:00Z",
+        "url": "https://www.kwch.com/video/2026/10/01/flash-flood-warning-issued-ford-county-dodge-city/",
+        "mention_text": "Ford County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ford County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1800374,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.0170787,
+          37.7527982
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kwch.com/video/2026/10/01/flash-flood-warning-issued-ford-county-dodge-city/",
+        "title": "Flash flood warning issued for Ford County, Dodge City",
+        "source": "KWCH",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T20:48:00Z",
+        "url": "https://www.kwch.com/video/2026/10/01/flash-flood-warning-issued-ford-county-dodge-city/",
+        "mention_text": "Dodge City",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dodge City, Ford County, Kansas, 67801, United States",
+        "osm_type": "administrative",
+        "osm_id": 130281,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9383758,
+          41.2587459
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.3newsnow.com/weather/flood-warning-until-1pm-thursday",
+        "title": "Flood Warning issued in Omaha into Thursday afternoon",
+        "source": "KMTV 3 News Now Omaha",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T21:36:27Z",
+        "url": "https://www.3newsnow.com/weather/flood-warning-until-1pm-thursday",
+        "mention_text": "Omaha",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Omaha, Douglas County, Nebraska, United States",
+        "osm_type": "administrative",
+        "osm_id": 169759,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1350853,
+          32.6662691
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wfaa.com/video/weather/dfw-weather-flash-flood-warnings-continue-for-parts-of-north-texas-through-early-afternoon-latest-rain-timeline/287-5b6221ea-b616-43ba-8cb6-d4f7ad2bb43d",
+        "title": "DFW Weather: Flash Flood Warnings continue for parts of North Texas through early afternoon. Latest rain timeline.",
+        "source": "WFAA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T16:25:00Z",
+        "url": "https://www.wfaa.com/video/weather/dfw-weather-flash-flood-warnings-continue-for-parts-of-north-texas-through-early-afternoon-latest-rain-timeline/287-5b6221ea-b616-43ba-8cb6-d4f7ad2bb43d",
+        "mention_text": "North Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North, Arlington, Tarrant County, Texas, 76017, United States",
+        "osm_type": "residential",
+        "osm_id": 10057724,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1138752,
+          30.6604763
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.expressnews.com/san-antonio-weather/article/llano-river-flood-warning-texas-hill-country-22457784.php",
+        "title": "After 6 inches of rain, flood warning issued for Llano River in Texas Hill Country",
+        "source": "San Antonio Express-News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T14:49:46Z",
+        "url": "https://www.expressnews.com/san-antonio-weather/article/llano-river-flood-warning-texas-hill-country-22457784.php",
+        "mention_text": "Llano River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Llano River, Texas, United States",
+        "osm_type": "stream",
+        "osm_id": 19341635,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.expressnews.com/san-antonio-weather/article/llano-river-flood-warning-texas-hill-country-22457784.php",
+        "title": "After 6 inches of rain, flood warning issued for Llano River in Texas Hill Country",
+        "source": "San Antonio Express-News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T14:49:46Z",
+        "url": "https://www.expressnews.com/san-antonio-weather/article/llano-river-flood-warning-texas-hill-country-22457784.php",
+        "mention_text": "Texas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7920233,
+          32.3347829
+        ]
+      },
+      "properties": {
+        "article_id": "https://hayspost.com/posts/4fceff39-27b3-4f09-8bb8-ae3dc894417c",
+        "title": "Flash Flood Warning issued for Ellis, Trego counties",
+        "source": "Hays Post",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T15:38:32Z",
+        "url": "https://hayspost.com/posts/4fceff39-27b3-4f09-8bb8-ae3dc894417c",
+        "mention_text": "Ellis",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Ellis County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837703,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1350853,
+          32.6662691
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wfaa.com/video/weather/flash-flood-warning-in-north-texas-what-to-expect-travel-issues-and-areas-already-seeing-flooding/287-9800d934-7a3b-487a-8a05-a102818bd4d3",
+        "title": "Flash Flood Warning in North Texas: What to expect, travel issues and areas already seeing flooding",
+        "source": "WFAA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T16:24:00Z",
+        "url": "https://www.wfaa.com/video/weather/flash-flood-warning-in-north-texas-what-to-expect-travel-issues-and-areas-already-seeing-flooding/287-9800d934-7a3b-487a-8a05-a102818bd4d3",
+        "mention_text": "North Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North, Arlington, Tarrant County, Texas, 76017, United States",
+        "osm_type": "residential",
+        "osm_id": 10057724,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8085436,
+          31.4274044
+        ]
+      },
+      "properties": {
+        "article_id": "https://kdhnews.com/news/region/flash-flood-watch-in-effect-as-rain-cooler-temperatures-move-into-drought-ridden-central-texas/article_5064de32-bbea-51f9-969a-b2768b5fe903.html",
+        "title": "Flash flood watch in effect as rain, cooler temperatures move into drought ridden Central Texas",
+        "source": "The Killeen Daily Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T17:00:00Z",
+        "url": "https://kdhnews.com/news/region/flash-flood-watch-in-effect-as-rain-cooler-temperatures-move-into-drought-ridden-central-texas/article_5064de32-bbea-51f9-969a-b2768b5fe903.html",
+        "mention_text": "Central Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, Angelina County, Texas, 76969, United States",
+        "osm_type": "hamlet",
+        "osm_id": 151831870,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4870476,
+          31.7601001
+        ]
+      },
+      "properties": {
+        "article_id": "https://kfoxtv.com/newsletter-daily/gallery/flood-warning-issued-for-rio-grande-in-el-paso-after-heavy-rain-roads-closed-nearby",
+        "title": "Flood warning issued for Rio Grande in El Paso after heavy rain, roads closed nearby",
+        "source": "KFOX",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T16:25:56Z",
+        "url": "https://kfoxtv.com/newsletter-daily/gallery/flood-warning-issued-for-rio-grande-in-el-paso-after-heavy-rain-roads-closed-nearby",
+        "mention_text": "El Paso",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "El Paso, El Paso County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 113919,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7968559,
+          32.7762719
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxnews.com/video/6406065286112",
+        "title": "Flash flood threat grows across Dallas-Fort Worth",
+        "source": "Fox News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T22:15:46Z",
+        "url": "https://www.foxnews.com/video/6406065286112",
+        "mention_text": "Dallas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dallas, Dallas County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 6571629,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4951405,
+          29.4246002
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kens5.com/article/weather/forecast/san-antonio-weather-forecast-impact-kens5-texas-7-day/273-7d29f865-0ca0-456e-b046-ed6a6515519a",
+        "title": "Flood Watch continues as heavy rain brings flash flooding threat to San Antonio | KENS 5 Weather Impact Forecast",
+        "source": "kens5.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-30T19:30:00Z",
+        "url": "https://www.kens5.com/article/weather/forecast/san-antonio-weather-forecast-impact-kens5-texas-7-day/273-7d29f865-0ca0-456e-b046-ed6a6515519a",
+        "mention_text": "San Antonio",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Antonio, Bexar County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 253556,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3327459,
+          32.753177
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article317455680.html",
+        "title": "UPDATE: The current flash flood warning will be expiring at 12:30 p.m.",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-10-01T14:38:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article317455680.html",
+        "mention_text": "Fort Worth",
+        "flood_type": "flash_flood",
+        "confidence": 0.4,
+        "osm_display": "Fort Worth, Tarrant County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 115274,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3884839,
+          30.045717
+        ]
+      },
+      "properties": {
+        "article_id": "https://dailytimes.com/2026flood/flood-warning-issued-for-kerr-county/article_fbfe019f-b806-4b81-a639-9f64ac75ff65.html",
+        "title": "Flood warning issued for Kerr County",
+        "source": "DailyTimes.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T14:51:00Z",
+        "url": "https://dailytimes.com/2026flood/flood-warning-issued-for-kerr-county/article_fbfe019f-b806-4b81-a639-9f64ac75ff65.html",
+        "mention_text": "Kerr County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kerr County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1827126,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4291882,
+          37.7863765
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317460410.html",
+        "title": "UPDATE: Coastal flood advisory active for Northern California until Friday evening",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-02T02:56:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317460410.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Japanese American Association of Northern California, 1759, Sutter Street, Japantown, Western Addition, San Francisco, California, 95115, United States",
+        "osm_type": "yes",
+        "osm_id": 257960526,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3497772,
+          30.6993189
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kbtx.com/2026/10/02/brazos-county-under-flood-advisory-rain-hits-region/",
+        "title": "Brazos County under flood advisory as rain hits region",
+        "source": "KBTX News 3",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-02T03:24:00Z",
+        "url": "https://www.kbtx.com/2026/10/02/brazos-county-under-flood-advisory-rain-hits-region/",
+        "mention_text": "Brazos County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Brazos County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837743,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8303536,
+          26.1488926
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article317466519.html",
+        "title": "UPDATE: Flood advisory for North Texas until Friday morning caused by intense rain",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-10-02T09:02:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article317466519.html",
+        "mention_text": "North Texas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Texas, North La Feria Village Colonia, La Feria, Cameron County, Texas, 78559, United States",
+        "osm_type": "residential",
+        "osm_id": 20771906,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1935973,
+          25.7741566
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kansascity.com/news/weather-news/article317464448.html",
+        "title": "Flood advisory in place for Johnson and Miami counties Thursday night",
+        "source": "Kansas City Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-02T00:52:02Z",
+        "url": "https://www.kansascity.com/news/weather-news/article317464448.html",
+        "mention_text": "Miami",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Miami, Miami-Dade County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1216769,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.0170787,
+          37.7527982
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wibw.com/2026/10/01/flood-emergency-expires-dodge-city-guidance-given-impacted-residents/",
+        "title": "Flood emergency expires in Dodge City, guidance given for impacted residents",
+        "source": "WIBW",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T20:33:00Z",
+        "url": "https://www.wibw.com/2026/10/01/flood-emergency-expires-dodge-city-guidance-given-impacted-residents/",
+        "mention_text": "Dodge City",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Dodge City, Ford County, Kansas, 67801, United States",
+        "osm_type": "administrative",
+        "osm_id": 130281,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4291882,
+          37.7863765
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/10/01/coastal-flood-advisory-affecting-northern-california-until-friday-evening/",
+        "title": "Coastal flood advisory affecting Northern California until Friday evening",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T19:23:14Z",
+        "url": "https://www.mercurynews.com/2026/10/01/coastal-flood-advisory-affecting-northern-california-until-friday-evening/",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Japanese American Association of Northern California, 1759, Sutter Street, Japantown, Western Addition, San Francisco, California, 95115, United States",
+        "osm_type": "yes",
+        "osm_id": 257960526,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4623642,
+          26.1598074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcmiami.com/news/local/flood-advisory-in-effect-in-broward-miami-dade-due-to-thursday-storms/3866935/?amp=1",
+        "title": "Flood advisory in effect in Broward, Miami-Dade due to Thursday storms",
+        "source": "NBC 6 South Florida",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T15:53:36Z",
+        "url": "https://www.nbcmiami.com/news/local/flood-advisory-in-effect-in-broward-miami-dade-due-to-thursday-storms/3866935/?amp=1",
+        "mention_text": "Broward",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Broward County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210714,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4989467,
+          25.6364246
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcmiami.com/news/local/flood-advisory-in-effect-in-broward-miami-dade-due-to-thursday-storms/3866935/?amp=1",
+        "title": "Flood advisory in effect in Broward, Miami-Dade due to Thursday storms",
+        "source": "NBC 6 South Florida",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T15:53:36Z",
+        "url": "https://www.nbcmiami.com/news/local/flood-advisory-in-effect-in-broward-miami-dade-due-to-thursday-storms/3866935/?amp=1",
+        "mention_text": "Miami-Dade",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Miami-Dade County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210692,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1700016,
+          30.7763939
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kxxv.com/weather/flood-advisory-for-burnet-county",
+        "title": "Flood Advisory for Burnet County",
+        "source": "25 News KXXV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T13:48:36Z",
+        "url": "https://www.kxxv.com/weather/flood-advisory-for-burnet-county",
+        "mention_text": "Burnet County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Burnet County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836962,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.0170787,
+          37.7527982
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kwch.com/video/2026/10/01/flash-flood-emergency-issued-dodge-city/?outputType=amp",
+        "title": "Flash flood emergency issued for Dodge City",
+        "source": "KWCH",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-01T21:42:00Z",
+        "url": "https://www.kwch.com/video/2026/10/01/flash-flood-emergency-issued-dodge-city/?outputType=amp",
+        "mention_text": "Dodge City",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dodge City, Ford County, Kansas, 67801, United States",
+        "osm_type": "administrative",
+        "osm_id": 130281,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7968559,
+          32.7762719
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article317455958.html",
+        "title": "Flood advisory for Collin and Dallas counties until Thursday afternoon",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-10-01T15:00:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article317455958.html",
+        "mention_text": "Dallas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Dallas, Dallas County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 6571629,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9220813,
+          35.1279594
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317399137.html",
+        "title": "UPDATE: Coastal flood advisory in place for Ocracoke Island until early Monday",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-27T20:16:02Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317399137.html",
+        "mention_text": "Ocracoke Island",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ocracoke Island, Ocracoke, Hyde County, North Carolina, 27960, United States",
+        "osm_type": "island",
+        "osm_id": 7454511,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6563925,
+          33.2139213
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article317450019.html",
+        "title": "UPDATE: Flood advisory issued for Wise County Thursday morning triggered by heavy downpours",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-10-01T03:10:57Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article317450019.html",
+        "mention_text": "Wise County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Wise County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1836982,
+        "run_at": "2026-10-02T11:55:22.210608+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-10-01T12:27:44.121675+00:00",
-    "total_features": 4984
+    "last_updated": "2026-10-02T11:55:22.236438+00:00",
+    "total_features": 5022
   }
 }
