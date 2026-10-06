@@ -131768,11 +131768,401 @@
         "osm_id": 257974849,
         "run_at": "2026-10-05T13:38:37.229256+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7701832,
+          42.4048264
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kcrg.com/2026/10/05/flood-warning-issued-wapsipinicon-river-nears-anamosa-homes/",
+        "title": "Flood warning issued as Wapsipinicon River nears Anamosa homes",
+        "source": "KCRG",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-05T21:15:00Z",
+        "url": "https://www.kcrg.com/2026/10/05/flood-warning-issued-wapsipinicon-river-nears-anamosa-homes/",
+        "mention_text": "Wapsipinicon River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Wapsipinicon River, Iowa, United States",
+        "osm_type": "river",
+        "osm_id": 4299158,
+        "run_at": "2026-10-06T12:48:40.351652+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2809332,
+          30.4380832
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tallahassee.com/story/weather/2026/10/05/flash-flood-warning-issued-for-tallahassee-area/92110119007/",
+        "title": "Flash flood warning issued for Tallahassee area",
+        "source": "tallahassee.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-06T00:44:00Z",
+        "url": "https://www.tallahassee.com/story/weather/2026/10/05/flash-flood-warning-issued-for-tallahassee-area/92110119007/",
+        "mention_text": "Tallahassee",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tallahassee, Leon County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 119009,
+        "run_at": "2026-10-06T12:48:40.351652+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2062682,
+          33.9510011
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317504076.html",
+        "title": "Coastal flood advisory affecting Southern California from Wednesday to Friday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-05T22:49:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317504076.html",
+        "mention_text": "Southern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Southern @ California, Southern Avenue, South Gate, Los Angeles County, California, 90280, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 11056179472,
+        "run_at": "2026-10-06T12:48:40.351652+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article317502468.html",
+        "title": "Coastal flood advisory affecting San Diego County Coastal Areas and Orange County Coastal",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-05T20:46:09Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article317502468.html",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-10-06T12:48:40.351652+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317506831.html",
+        "title": "Coastal flood advisory active for North Bay Interior Valleys until Thursday afternoon",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-06T07:06:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317506831.html",
+        "mention_text": "North Bay",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-10-06T12:48:40.351652+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/10/05/north-bay-interior-valleys-placed-under-a-coastal-flood-advisory-until-thursday-afternoon/",
+        "title": "North Bay Interior Valleys placed under a coastal flood advisory until Thursday afternoon",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-06T06:58:40Z",
+        "url": "https://www.eastbaytimes.com/2026/10/05/north-bay-interior-valleys-placed-under-a-coastal-flood-advisory-until-thursday-afternoon/",
+        "mention_text": "North Bay",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-10-06T12:48:40.351652+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailynews.com/2026/10/05/coastal-flood-advisory-affecting-los-angeles-county-beaches-from-wednesday-to-friday/",
+        "title": "Coastal flood advisory affecting Los Angeles County beaches from Wednesday to Friday",
+        "source": "Los Angeles Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-05T21:51:01Z",
+        "url": "https://www.dailynews.com/2026/10/05/coastal-flood-advisory-affecting-los-angeles-county-beaches-from-wednesday-to-friday/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-10-06T12:48:40.351652+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6908566,
+          33.4657158
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ocregister.com/2026/10/05/coastal-flood-advisory-issued-for-orange-county-coast-and-san-diego-county-coastal-areas-from-wednesday-to-friday/",
+        "title": "Coastal flood advisory issued for Orange County Coast and San Diego County Coastal Areas from Wednesday to Friday",
+        "source": "Orange County Register",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-05T20:36:39Z",
+        "url": "https://www.ocregister.com/2026/10/05/coastal-flood-advisory-issued-for-orange-county-coast-and-san-diego-county-coastal-areas-from-wednesday-to-friday/",
+        "mention_text": "Orange County Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Orange County Creamery, 34255, Pacific Coast Highway, Toovunga, South Cove, Dana Point, Orange County, California, 92629, United States",
+        "osm_type": "ice_cream",
+        "osm_id": 13327327772,
+        "run_at": "2026-10-06T12:48:40.351652+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ocregister.com/2026/10/05/coastal-flood-advisory-issued-for-orange-county-coast-and-san-diego-county-coastal-areas-from-wednesday-to-friday/",
+        "title": "Coastal flood advisory issued for Orange County Coast and San Diego County Coastal Areas from Wednesday to Friday",
+        "source": "Orange County Register",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-05T20:36:39Z",
+        "url": "https://www.ocregister.com/2026/10/05/coastal-flood-advisory-issued-for-orange-county-coast-and-san-diego-county-coastal-areas-from-wednesday-to-friday/",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-10-06T12:48:40.351652+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9955954,
+          34.937029
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317485412.html",
+        "title": "UPDATE: Flood advisory in place for Spartanburg County until Sunday evening",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-04T18:58:08Z",
+        "url": "https://www.thestate.com/news/weather-news/article317485412.html",
+        "mention_text": "Spartanburg County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Spartanburg County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1357015,
+        "run_at": "2026-10-06T12:48:40.351652+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.272863,
+          37.8708393
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317483330.html",
+        "title": "Flood advisory affecting Berkeley and Charleston counties Saturday evening",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-03T20:26:06Z",
+        "url": "https://www.thestate.com/news/weather-news/article317483330.html",
+        "mention_text": "Berkeley",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Berkeley, Alameda County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 2833528,
+        "run_at": "2026-10-06T12:48:40.351652+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9399309,
+          32.7884363
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317483330.html",
+        "title": "Flood advisory affecting Berkeley and Charleston counties Saturday evening",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-03T20:26:06Z",
+        "url": "https://www.thestate.com/news/weather-news/article317483330.html",
+        "mention_text": "Charleston",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston, Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 194119,
+        "run_at": "2026-10-06T12:48:40.351652+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0629493,
+          29.9574657
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nola.com/news/weather/flood-advisory-in-effect-for-parts-of-new-orleans-area-as-storms-bring-heavy-rains/article_d176fd11-faf9-4a39-9e48-c8f21a170e3d.html",
+        "title": "Flood advisory in effect for parts of New Orleans area as storms bring heavy rains",
+        "source": "NOLA.com",
+        "outlet_city": "New Orleans",
+        "outlet_region": "Louisiana",
+        "published_at": "2026-10-04T17:16:00Z",
+        "url": "https://www.nola.com/news/weather/flood-advisory-in-effect-for-parts-of-new-orleans-area-as-storms-bring-heavy-rains/article_d176fd11-faf9-4a39-9e48-c8f21a170e3d.html",
+        "mention_text": "New Orleans",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "New Orleans, Orleans Parish, Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 131885,
+        "run_at": "2026-10-06T12:48:40.351652+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0954942,
+          34.6485079
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article317484083.html",
+        "title": "UPDATE: Flood advisory previously issued for Robeson County will expire at 10 p.m.",
+        "source": "newsobserver.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-04T02:12:06Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article317484083.html",
+        "mention_text": "Robeson County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Robeson County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528738,
+        "run_at": "2026-10-06T12:48:40.351652+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5873816,
+          41.7370229
+        ]
+      },
+      "properties": {
+        "article_id": "https://mscnews.net/local-news/934298",
+        "title": "SE Nebraska flood emergency declared",
+        "source": "MSC News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-02T17:32:49Z",
+        "url": "https://mscnews.net/local-news/934298",
+        "mention_text": "Nebraska",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Nebraska, United States",
+        "osm_type": "administrative",
+        "osm_id": 161648,
+        "run_at": "2026-10-06T12:48:40.351652+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-10-05T13:38:37.247295+00:00",
-    "total_features": 5068
+    "last_updated": "2026-10-06T12:48:40.372898+00:00",
+    "total_features": 5083
   }
 }
