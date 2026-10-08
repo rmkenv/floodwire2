@@ -132418,11 +132418,453 @@
         "osm_id": 251484,
         "run_at": "2026-10-07T12:42:55.014469+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://news.azpm.org/p/azpmnews/2026/10/7/231438-southern-arizona-hits-record-high-in-flash-flood-warnings-this-monsoon/",
+        "title": "Southern Arizona hits record high in flash flood warnings this monsoon",
+        "source": "AZPM News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-07T23:54:54Z",
+        "url": "https://news.azpm.org/p/azpmnews/2026/10/7/231438-southern-arizona-hits-record-high-in-flash-flood-warnings-this-monsoon/",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-10-08T12:56:10.259918+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7329309,
+          27.8778904
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wfla.com/weather/forecast/passing-downpours-likely-again-wednesday/",
+        "title": "Flash flood warning issued for Pinellas, Hillsborough counties",
+        "source": "WFLA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-07T09:57:01Z",
+        "url": "https://www.wfla.com/weather/forecast/passing-downpours-likely-again-wednesday/",
+        "mention_text": "Pinellas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pinellas County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210726,
+        "run_at": "2026-10-08T12:56:10.259918+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      },
+      "properties": {
+        "article_id": "https://christianindex.org/stories/prayer-sustains-70-year-old-tennessee-farmer-after-flash-flood,108518",
+        "title": "Prayer sustains 70-year-old Tennessee farmer after flash flood",
+        "source": "The Christian Index",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-07T12:37:06Z",
+        "url": "https://christianindex.org/stories/prayer-sustains-70-year-old-tennessee-farmer-after-flash-flood,108518",
+        "mention_text": "Tennessee",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tennessee, United States",
+        "osm_type": "administrative",
+        "osm_id": 161838,
+        "run_at": "2026-10-08T12:56:10.259918+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.797738,
+          26.3011415
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-p7lyqj3bgfylv8lk",
+        "title": "Gulf Coast braces for dangerous Isaias landfall as storm surge, flooding rain and tornadoes threaten millions",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-08T00:51:31Z",
+        "url": "https://www.foxweather.com/watch/fmc-p7lyqj3bgfylv8lk",
+        "mention_text": "Gulf Coast",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Gulf Coast, Collier County, Florida, 34110, United States",
+        "osm_type": "residential",
+        "osm_id": 10852694,
+        "run_at": "2026-10-08T12:56:10.259918+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4114187,
+          36.9507552
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pilotonline.com/2026/10/07/help-improve-hampton-roads-flood-mapping-during-this-weekends-king-tide/",
+        "title": "Help improve Hampton Roads flood mapping during this weekend\u2019s king tide",
+        "source": "The Virginian-Pilot",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-08T01:59:05Z",
+        "url": "https://www.pilotonline.com/2026/10/07/help-improve-hampton-roads-flood-mapping-during-this-weekends-king-tide/",
+        "mention_text": "Hampton Roads",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Hampton Roads, Newport News, Isle of Wight County, Virginia, United States",
+        "osm_type": "bay",
+        "osm_id": 11497477,
+        "run_at": "2026-10-08T12:56:10.259918+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6632883,
+          39.5143268
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/isaias-first-atlantic-hurricane-threatening-gulf-coast.amp",
+        "title": "Isaias becomes first Atlantic hurricane of the season, threatening Gulf Coast with dangerous storm surge",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-08T03:58:00Z",
+        "url": "https://www.foxweather.com/weather-news/isaias-first-atlantic-hurricane-threatening-gulf-coast.amp",
+        "mention_text": "Atlantic",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Atlantic County, New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 2560066,
+        "run_at": "2026-10-08T12:56:10.259918+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.797738,
+          26.3011415
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/isaias-first-atlantic-hurricane-threatening-gulf-coast.amp",
+        "title": "Isaias becomes first Atlantic hurricane of the season, threatening Gulf Coast with dangerous storm surge",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-08T03:58:00Z",
+        "url": "https://www.foxweather.com/weather-news/isaias-first-atlantic-hurricane-threatening-gulf-coast.amp",
+        "mention_text": "Gulf Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Gulf Coast, Collier County, Florida, 34110, United States",
+        "osm_type": "residential",
+        "osm_id": 10852694,
+        "run_at": "2026-10-08T12:56:10.259918+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.007126,
+          30.8703881
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/tropical-storm-and-storm-surge-warnings-issued-for-southeast-louisiana-and-southwest-mississippi/74072555",
+        "title": "Tropical Storm and Storm Surge Warnings issued for southeast Louisiana and southwest Mississippi",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-08T03:48:00Z",
+        "url": "https://www.wdsu.com/article/tropical-storm-and-storm-surge-warnings-issued-for-southeast-louisiana-and-southwest-mississippi/74072555",
+        "mention_text": "Louisiana",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 224922,
+        "run_at": "2026-10-08T12:56:10.259918+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7348497,
+          32.9715285
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/tropical-storm-and-storm-surge-warnings-issued-for-southeast-louisiana-and-southwest-mississippi/74072555",
+        "title": "Tropical Storm and Storm Surge Warnings issued for southeast Louisiana and southwest Mississippi",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-08T03:48:00Z",
+        "url": "https://www.wdsu.com/article/tropical-storm-and-storm-surge-warnings-issued-for-southeast-louisiana-and-southwest-mississippi/74072555",
+        "mention_text": "Mississippi",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 161943,
+        "run_at": "2026-10-08T12:56:10.259918+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.4945109,
+          22.0557204
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.staradvertiser.com/2026/10/07/breaking-news/flood-watch-issued-for-kauai-county-oahu-through-thursday/",
+        "title": "Kauai County under flood advisory as storm system drenches western islands",
+        "source": "Honolulu Star-Advertiser",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-08T08:34:37Z",
+        "url": "https://www.staradvertiser.com/2026/10/07/breaking-news/flood-watch-issued-for-kauai-county-oahu-through-thursday/",
+        "mention_text": "Kauai County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kaua\u02bbi County, Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166560,
+        "run_at": "2026-10-08T12:56:10.259918+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3801566,
+          27.5213933
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mysuncoast.com/2026/10/07/flood-advisory-issued-western-manatee-county-until-6-pm/",
+        "title": "Flood advisory issued for western Manatee County until 6 p.m.",
+        "source": "ABC7 WWSB",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-07T19:48:00Z",
+        "url": "https://www.mysuncoast.com/2026/10/07/flood-advisory-issued-western-manatee-county-until-6-pm/",
+        "mention_text": "Manatee County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Manatee County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210690,
+        "run_at": "2026-10-08T12:56:10.259918+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8873655,
+          27.3923408
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbs12.com/news/local/flood-advisory-for-okeechobee-county",
+        "title": "Flood Advisory for Okeechobee County",
+        "source": "WPEC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-07T22:58:12Z",
+        "url": "https://cbs12.com/news/local/flood-advisory-for-okeechobee-county",
+        "mention_text": "Okeechobee County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Okeechobee County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210747,
+        "run_at": "2026-10-08T12:56:10.259918+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317509817.html",
+        "title": "UPDATE: Coastal flood advisory affecting Coastal Colleton and Charleston County",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-07T17:20:07Z",
+        "url": "https://www.thestate.com/news/weather-news/article317509817.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-10-08T12:56:10.259918+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4691519,
+          37.7641353
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/10/07/coastal-flood-advisory-for-northern-california-from-friday-to-tuesday/",
+        "title": "Coastal flood advisory for Northern California from Friday to Tuesday",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-07T19:37:31Z",
+        "url": "https://www.eastbaytimes.com/2026/10/07/coastal-flood-advisory-for-northern-california-from-friday-to-tuesday/",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Business Coaching of Northern California, 1032, Irving Street, Inner Sunset, Richmond District, San Francisco, California, 94122, United States",
+        "osm_type": "company",
+        "osm_id": 5068329117,
+        "run_at": "2026-10-08T12:56:10.259918+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4691519,
+          37.7641353
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317531158.html",
+        "title": "Coastal flood advisory in place for Northern California from Friday to Tuesday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-07T20:00:14Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317531158.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Business Coaching of Northern California, 1032, Irving Street, Inner Sunset, Richmond District, San Francisco, California, 94122, United States",
+        "osm_type": "company",
+        "osm_id": 5068329117,
+        "run_at": "2026-10-08T12:56:10.259918+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3801566,
+          27.5213933
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mysuncoast.com/video/2026/10/07/flood-advisory-issued-western-manatee-county-until-6-pm/",
+        "title": "Flood advisory issued for western Manatee County until 6 p.m.",
+        "source": "ABC7 WWSB",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-07T19:52:00Z",
+        "url": "https://www.mysuncoast.com/video/2026/10/07/flood-advisory-issued-western-manatee-county-until-6-pm/",
+        "mention_text": "Manatee County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Manatee County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210690,
+        "run_at": "2026-10-08T12:56:10.259918+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/10/06/coastal-flood-advisory-in-place-for-north-bay-interior-valleys-until-thursday-afternoon/",
+        "title": "Coastal flood advisory in place for North Bay Interior Valleys until Thursday afternoon",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-07T05:53:40Z",
+        "url": "https://www.eastbaytimes.com/2026/10/06/coastal-flood-advisory-in-place-for-north-bay-interior-valleys-until-thursday-afternoon/",
+        "mention_text": "North Bay",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-10-08T12:56:10.259918+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-10-07T12:42:55.035966+00:00",
-    "total_features": 5093
+    "last_updated": "2026-10-08T12:56:10.286528+00:00",
+    "total_features": 5110
   }
 }
