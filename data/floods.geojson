@@ -132860,11 +132860,349 @@
         "osm_id": 251484,
         "run_at": "2026-10-08T12:56:10.259918+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7997185,
+          28.2100203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wftv.com/news/local/flash-flood-warning-issued-southeastern-brevard-county-until-845-pm/EUHLVYNEZBA7TCIU5MXZSS7CEU/",
+        "title": "Flash flood warning issued for southeastern Brevard County until 8:45 pm",
+        "source": "WFTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-08T23:25:55Z",
+        "url": "https://www.wftv.com/news/local/flash-flood-warning-issued-southeastern-brevard-county-until-845-pm/EUHLVYNEZBA7TCIU5MXZSS7CEU/",
+        "mention_text": "Brevard County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Brevard County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 389024,
+        "run_at": "2026-10-09T12:38:16.730198+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3503283,
+          27.2939333
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tcpalm.com/videos/weather/2026/10/08/heavy-downpour-brings-flash-flood-to-part-of-port-st-lucie/92152388007/",
+        "title": "Heavy downpour brings flash flood to part of Port St. Lucie",
+        "source": "Treasure Coast News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-08T15:11:48Z",
+        "url": "https://www.tcpalm.com/videos/weather/2026/10/08/heavy-downpour-brings-flash-flood-to-part-of-port-st-lucie/92152388007/",
+        "mention_text": "Port St. Lucie",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Port Saint Lucie, Saint Lucie County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 117973,
+        "run_at": "2026-10-09T12:38:16.730198+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4508165,
+          33.7876673
+        ]
+      },
+      "properties": {
+        "article_id": "https://lccentral.com/2026/10/08/changing-weather-patterns-bring-reminder-of-flash-flood-safety-for-lincoln-county/",
+        "title": "Changing weather patterns bring reminder of flash flood safety for Lincoln County",
+        "source": "Lincoln County Record",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-08T20:48:53Z",
+        "url": "https://lccentral.com/2026/10/08/changing-weather-patterns-bring-reminder-of-flash-flood-safety-for-lincoln-county/",
+        "mention_text": "Lincoln County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lincoln County, Georgia, 30817, United States",
+        "osm_type": "administrative",
+        "osm_id": 448085,
+        "run_at": "2026-10-09T12:38:16.730198+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.755997,
+          36.7014631
+        ]
+      },
+      "properties": {
+        "article_id": "https://nypost.com/2026/10/08/us-news/waves-batter-socal-as-hurricane-force-storm-approaches-coast/",
+        "title": "Hurricane-force waves smash California coast as tempest looms \u2014 with flash flood warnings",
+        "source": "New York Post",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-08T14:40:00Z",
+        "url": "https://nypost.com/2026/10/08/us-news/waves-batter-socal-as-hurricane-force-storm-approaches-coast/",
+        "mention_text": "California",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "California, United States",
+        "osm_type": "administrative",
+        "osm_id": 165475,
+        "run_at": "2026-10-09T12:38:16.730198+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8463851,
+          37.1670484
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/miami/video/king-tide-flooding-possible-in-south-florida-but-rain-chances-remain-low-heading-into-the-weekend/",
+        "title": "King tide flooding possible in South Florida but rain chances remain low heading into the weekend",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-09T11:56:00Z",
+        "url": "https://www.cbsnews.com/miami/video/king-tide-flooding-possible-in-south-florida-but-rain-chances-remain-low-heading-into-the-weekend/",
+        "mention_text": "South Florida",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "South Florida, Columbus, Cherokee County, Kansas, 66725, United States",
+        "osm_type": "residential",
+        "osm_id": 12999746,
+        "run_at": "2026-10-09T12:38:16.730198+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2175889,
+          29.9665252
+        ]
+      },
+      "properties": {
+        "article_id": "https://y100.iheart.com/content/2026-10-08-hurricane-isaias-strengthens-in-gulf-threatens-northern-gulf-coast-with-storm-surge-flooding/",
+        "title": "Hurricane Isaias Strengthens in Gulf, Threatens Northern Gulf Coast with Storm Surge, Flooding",
+        "source": "Y100.7",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-09T00:06:00Z",
+        "url": "https://y100.iheart.com/content/2026-10-08-hurricane-isaias-strengthens-in-gulf-threatens-northern-gulf-coast-with-storm-surge-flooding/",
+        "mention_text": "Gulf",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Gulf County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210694,
+        "run_at": "2026-10-09T12:38:16.730198+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317546419.html",
+        "title": "UPDATE: North Bay Interior Valleys under a coastal flood advisory",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-09T05:06:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317546419.html",
+        "mention_text": "North Bay",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-10-09T12:38:16.730198+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/10/08/coastal-flood-advisory-in-place-for-north-bay-interior-valleys-until-early-wednesday-evening/",
+        "title": "Coastal flood advisory in place for North Bay Interior Valleys until early Wednesday evening",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-08T20:07:33Z",
+        "url": "https://www.eastbaytimes.com/2026/10/08/coastal-flood-advisory-in-place-for-north-bay-interior-valleys-until-early-wednesday-evening/",
+        "mention_text": "North Bay",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-10-09T12:38:16.730198+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317524677.html",
+        "title": "UPDATE: Coastal flood advisory issued for Myrtle Beach area until Wednesday evening",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-07T18:49:09Z",
+        "url": "https://www.thestate.com/news/weather-news/article317524677.html",
+        "mention_text": "Myrtle Beach",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Myrtle Beach, Horry County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193842,
+        "run_at": "2026-10-09T12:38:16.730198+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317512644.html",
+        "title": "Coastal flood advisory issued for Myrtle Beach area until Tuesday evening",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-06T16:39:07Z",
+        "url": "https://www.thestate.com/news/weather-news/article317512644.html",
+        "mention_text": "Myrtle Beach",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Myrtle Beach, Horry County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193842,
+        "run_at": "2026-10-09T12:38:16.730198+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4309327,
+          37.7867337
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/10/07/coastal-flood-advisory-for-northern-california-from-friday-to-tuesday/",
+        "title": "Coastal flood advisory for Northern California from Friday to Tuesday",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-07T19:37:31Z",
+        "url": "https://www.mercurynews.com/2026/10/07/coastal-flood-advisory-for-northern-california-from-friday-to-tuesday/",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Japanese Cultural and Community Center of Northern California, 1840, Sutter Street, Japantown, Western Addition, San Francisco, California, 95115, United States",
+        "osm_type": "community_centre",
+        "osm_id": 257974849,
+        "run_at": "2026-10-09T12:38:16.730198+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3327459,
+          32.753177
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article317487538.html",
+        "title": "Hood and Parker counties under a flood advisory Sunday morning triggered by excessive rain",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-10-04T11:37:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article317487538.html",
+        "mention_text": "Fort Worth",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Fort Worth, Tarrant County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 115274,
+        "run_at": "2026-10-09T12:38:16.730198+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3568623,
+          32.3766071
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article317488413.html",
+        "title": "Flood advisory active for Johnson County until Sunday midday caused by prolonged downpours",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-10-04T14:17:00Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article317488413.html",
+        "mention_text": "Johnson County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Johnson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837632,
+        "run_at": "2026-10-09T12:38:16.730198+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-10-08T12:56:10.286528+00:00",
-    "total_features": 5110
+    "last_updated": "2026-10-09T12:38:16.756844+00:00",
+    "total_features": 5123
   }
 }
