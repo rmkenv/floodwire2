@@ -133198,11 +133198,635 @@
         "osm_id": 1837632,
         "run_at": "2026-10-09T12:38:16.730198+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wxii12.com/article/wet-weekend-isaias-flash-flood-tornado-north-carolina-storm-saturday/74098052",
+        "title": "Wet weekend from the remnants of Isaias, flash flood and tornado threat in North Carolina",
+        "source": "WXII",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-10T10:36:00Z",
+        "url": "https://www.wxii12.com/article/wet-weekend-isaias-flash-flood-tornado-north-carolina-storm-saturday/74098052",
+        "mention_text": "North Carolina",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-10-10T11:58:16.067113+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wbrc.com/2026/10/10/isaias-brings-storm-surge-flash-flooding-florida-panhandle/",
+        "title": "Isaias brings storm surge, flash flooding to Florida Panhandle",
+        "source": "WBRC 6 News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-10T07:10:00Z",
+        "url": "https://www.wbrc.com/2026/10/10/isaias-brings-storm-surge-flash-flooding-florida-panhandle/",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-10-10T11:58:16.067113+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.425225,
+          27.517111
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mysuncoast.com/2026/10/09/flood-warning-issued-manatee-river-near-myakka-head/",
+        "title": "Flood warning issued for Manatee River near Myakka Head",
+        "source": "ABC7 WWSB",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-09T13:22:00Z",
+        "url": "https://www.mysuncoast.com/2026/10/09/flood-warning-issued-manatee-river-near-myakka-head/",
+        "mention_text": "Manatee River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Manatee River, Manatee County, Florida, United States",
+        "osm_type": "river",
+        "osm_id": 2193525,
+        "run_at": "2026-10-10T11:58:16.067113+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0756429,
+          27.4680956
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mysuncoast.com/2026/10/09/flood-warning-issued-manatee-river-near-myakka-head/",
+        "title": "Flood warning issued for Manatee River near Myakka Head",
+        "source": "ABC7 WWSB",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-09T13:22:00Z",
+        "url": "https://www.mysuncoast.com/2026/10/09/flood-warning-issued-manatee-river-near-myakka-head/",
+        "mention_text": "Myakka Head",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Myakka Head, Manatee County, Florida, United States",
+        "osm_type": "hamlet",
+        "osm_id": 153960556,
+        "run_at": "2026-10-10T11:58:16.067113+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6324022,
+          32.8406946
+        ]
+      },
+      "properties": {
+        "article_id": "https://cnaw2news.com/2026/10/10/breaking-flash-flood-warning-issued-for-lee-russell-barbour-bullock-and-macon-counties/",
+        "title": "BREAKING: FLASH FLOOD WARNING ISSUED FOR LEE, RUSSELL, BARBOUR, BULLOCK AND MACON COUNTIES",
+        "source": "CNAW 2 with Colin Scroggins",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-10T05:12:51Z",
+        "url": "https://cnaw2news.com/2026/10/10/breaking-flash-flood-warning-issued-for-lee-russell-barbour-bullock-and-macon-counties/",
+        "mention_text": "MACON",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Macon, Bibb County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119694,
+        "run_at": "2026-10-10T11:58:16.067113+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wbrc.com/video/2026/10/10/isaias-brings-storm-surge-flash-flooding-florida-panhandle/",
+        "title": "Isaias brings storm surge, flash flooding to Florida Panhandle",
+        "source": "WBRC 6 News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-10T07:07:00Z",
+        "url": "https://www.wbrc.com/video/2026/10/10/isaias-brings-storm-surge-flash-flooding-florida-panhandle/",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-10-10T11:58:16.067113+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4032078,
+          31.8589311
+        ]
+      },
+      "properties": {
+        "article_id": "https://cnaw2news.com/2026/10/09/flash-flood-warning-issued-for-barbour-county-in-southeast-alabama/",
+        "title": "Flash flood warning issued for Barbour County in southeast Alabama",
+        "source": "CNAW 2 with Colin Scroggins",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-10T03:35:45Z",
+        "url": "https://cnaw2news.com/2026/10/09/flash-flood-warning-issued-for-barbour-county-in-southeast-alabama/",
+        "mention_text": "Barbour County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Barbour County, Alabama, United States",
+        "osm_type": "administrative",
+        "osm_id": 1850797,
+        "run_at": "2026-10-10T11:58:16.067113+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8295337,
+          33.2588817
+        ]
+      },
+      "properties": {
+        "article_id": "https://cnaw2news.com/2026/10/09/flash-flood-warning-issued-for-barbour-county-in-southeast-alabama/",
+        "title": "Flash flood warning issued for Barbour County in southeast Alabama",
+        "source": "CNAW 2 with Colin Scroggins",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-10T03:35:45Z",
+        "url": "https://cnaw2news.com/2026/10/09/flash-flood-warning-issued-for-barbour-county-in-southeast-alabama/",
+        "mention_text": "Alabama",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Alabama, United States",
+        "osm_type": "administrative",
+        "osm_id": 161950,
+        "run_at": "2026-10-10T11:58:16.067113+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2809332,
+          30.4380832
+        ]
+      },
+      "properties": {
+        "article_id": "https://fox49.tv/news/local/hurricane-isaias-triggers-widespread-outages-flash-flood-warning-in-effect-in-tallahassee",
+        "title": "Hurricane Isaias triggers widespread outages, flash flood warning in effect in Tallahassee",
+        "source": "wtwcfox",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-10T01:07:14Z",
+        "url": "https://fox49.tv/news/local/hurricane-isaias-triggers-widespread-outages-flash-flood-warning-in-effect-in-tallahassee",
+        "mention_text": "Tallahassee",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tallahassee, Leon County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 119009,
+        "run_at": "2026-10-10T11:58:16.067113+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1484131,
+          36.1674263
+        ]
+      },
+      "properties": {
+        "article_id": "https://lasvegassun.com/news/2026/oct/09/rachels-remnants-to-bring-rain-wind-and-flash-floo/",
+        "title": "Rachel\u2019s remnants could bring rain, flash flood risk to Las Vegas into next week",
+        "source": "Las Vegas Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-09T20:30:00Z",
+        "url": "https://lasvegassun.com/news/2026/oct/09/rachels-remnants-to-bring-rain-wind-and-flash-floo/",
+        "mention_text": "Las Vegas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Las Vegas, Clark County, Nevada, United States",
+        "osm_type": "administrative",
+        "osm_id": 170117,
+        "run_at": "2026-10-10T11:58:16.067113+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/flash-flood-emergency-issued-florida-002441593.html",
+        "title": "Flash flood emergency issued in Florida as Hurricane Isaias unleashes torrential rain",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-10T00:24:00Z",
+        "url": "https://www.yahoo.com/news/videos/flash-flood-emergency-issued-florida-002441593.html",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-10-10T11:58:16.067113+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2845809,
+          45.0305994
+        ]
+      },
+      "properties": {
+        "article_id": "https://tvmocommunitynews.substack.com/p/despite-weather-models-predicting",
+        "title": "Despite weather models predicting a change to Hurricane Isaias projected path after making landfall, North Mississippi continues to be under a flash flood warning",
+        "source": "Substack",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-09T15:03:15Z",
+        "url": "https://tvmocommunitynews.substack.com/p/despite-weather-models-predicting",
+        "mention_text": "North Mississippi",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Mississippi Regional Park, 4900, Camden, Minneapolis, Hennepin County, Minnesota, 55430, United States",
+        "osm_type": "park",
+        "osm_id": 18141933,
+        "run_at": "2026-10-10T11:58:16.067113+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-xrkl6vduakdolujp",
+        "title": "Hurricane Isaias unleashes wind gusts, coastal flooding and life-threatening storm surge in Florida",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-10T09:11:31Z",
+        "url": "https://www.foxweather.com/watch/fmc-xrkl6vduakdolujp",
+        "mention_text": "Florida",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-10-10T11:58:16.067113+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8463851,
+          37.1670484
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/miami/news/south-florida-weather-forecast-miami-fort-lauderdale-miami-dade-broward-hurricane-isaias-october-9-2026/",
+        "title": "King tide flooding possible in South Florida as Hurricane Isaias makes landfall in Florida's Panhandle",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-10T03:25:09Z",
+        "url": "https://www.cbsnews.com/miami/news/south-florida-weather-forecast-miami-fort-lauderdale-miami-dade-broward-hurricane-isaias-october-9-2026/",
+        "mention_text": "South Florida",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "South Florida, Columbus, Cherokee County, Kansas, 66725, United States",
+        "osm_type": "residential",
+        "osm_id": 12999746,
+        "run_at": "2026-10-10T11:58:16.067113+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/miami/news/south-florida-weather-forecast-miami-fort-lauderdale-miami-dade-broward-hurricane-isaias-october-9-2026/",
+        "title": "King tide flooding possible in South Florida as Hurricane Isaias makes landfall in Florida's Panhandle",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-10T03:25:09Z",
+        "url": "https://www.cbsnews.com/miami/news/south-florida-weather-forecast-miami-fort-lauderdale-miami-dade-broward-hurricane-isaias-october-9-2026/",
+        "mention_text": "Florida",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-10-10T11:58:16.067113+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5926012,
+          28.902479
+        ]
+      },
+      "properties": {
+        "article_id": "https://baynews9.com/fl/tampa/weather/2026/10/09/crystal-river-monitors-storm-surge-as-coastal-flood-advisory-remains",
+        "title": "Crystal River monitors storm surge as coastal flood advisory remains",
+        "source": "Bay News 9",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-09T20:22:00Z",
+        "url": "https://baynews9.com/fl/tampa/weather/2026/10/09/crystal-river-monitors-storm-surge-as-coastal-flood-advisory-remains",
+        "mention_text": "Crystal River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Crystal River, Citrus County, Florida, 34429, United States",
+        "osm_type": "administrative",
+        "osm_id": 117519,
+        "run_at": "2026-10-10T11:58:16.067113+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cubaheadlines.com/articles/342404",
+        "title": "Hurricane Isaias: Storm Surge Flooding in Florida Could Reach 9 Feet, Warns NHC",
+        "source": "CubaHeadlines",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-09T14:01:57Z",
+        "url": "https://www.cubaheadlines.com/articles/342404",
+        "mention_text": "Florida",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-10-10T11:58:16.067113+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5507523,
+          35.330702
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article317566696.html",
+        "title": "Flood advisory affecting Cleveland County until 2 a.m. Tuesday, says the NWS",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-10T03:47:08Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article317566696.html",
+        "mention_text": "Cleveland County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cleveland County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528688,
+        "run_at": "2026-10-10T11:58:16.067113+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article317565427.html",
+        "title": "Coastal flood advisory issued for Myrtle Beach area and Coastal Georgetown for Saturday",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-10T00:44:07Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article317565427.html",
+        "mention_text": "Myrtle Beach",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Myrtle Beach, Horry County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193842,
+        "run_at": "2026-10-10T11:58:16.067113+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3595655,
+          38.6898781
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article317565427.html",
+        "title": "Coastal flood advisory issued for Myrtle Beach area and Coastal Georgetown for Saturday",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-10T00:44:07Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article317565427.html",
+        "mention_text": "Coastal Georgetown",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Delaware Coastal Airport, Nanticoke Avenue, Georgetown, Sussex County, Delaware, 19947, United States",
+        "osm_type": "aerodrome",
+        "osm_id": 726617667,
+        "run_at": "2026-10-10T11:58:16.067113+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.578509,
+          37.3859982
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317485227.html",
+        "title": "UPDATE: Flood advisory active for Chesterfield County early Sunday morning",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-04T06:26:06Z",
+        "url": "https://www.thestate.com/news/weather-news/article317485227.html",
+        "mention_text": "Chesterfield County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Chesterfield County, Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 2534172,
+        "run_at": "2026-10-10T11:58:16.067113+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6742033,
+          34.5810346
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317485112.html",
+        "title": "Flood advisory for Marlboro County Saturday night caused by prolonged rain",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-04T01:10:06Z",
+        "url": "https://www.thestate.com/news/weather-news/article317485112.html",
+        "mention_text": "Marlboro County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Marlboro County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532516,
+        "run_at": "2026-10-10T11:58:16.067113+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3356457,
+          34.8550021
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317485222.html",
+        "title": "UPDATE: Flood advisory active for Greenville County early Sunday morning",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-04T06:50:06Z",
+        "url": "https://www.thestate.com/news/weather-news/article317485222.html",
+        "mention_text": "Greenville County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Greenville County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1357004,
+        "run_at": "2026-10-10T11:58:16.067113+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.335696,
+          32.7513658
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.star-telegram.com/news/weather-news/article317487301.html",
+        "title": "Flood advisory affecting Tarrant County Sunday morning caused by significant rain",
+        "source": "Fort Worth Star-Telegram",
+        "outlet_city": "Fort Worth",
+        "outlet_region": "Texas",
+        "published_at": "2026-10-04T10:42:56Z",
+        "url": "https://www.star-telegram.com/news/weather-news/article317487301.html",
+        "mention_text": "Tarrant County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Tarrant County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837628,
+        "run_at": "2026-10-10T11:58:16.067113+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-10-09T12:38:16.756844+00:00",
-    "total_features": 5123
+    "last_updated": "2026-10-10T11:58:16.095172+00:00",
+    "total_features": 5147
   }
 }
