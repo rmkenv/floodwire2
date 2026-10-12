@@ -135356,11 +135356,1389 @@
         "osm_id": 251484,
         "run_at": "2026-10-11T12:11:19.593945+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-evjg4uos1qe2k8s3",
+        "title": "Flash flood emergency issued in Florida as Hurricane Isaias unleashes torrential rain",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-12T10:20:01Z",
+        "url": "https://www.foxweather.com/watch/fmc-evjg4uos1qe2k8s3",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9575983,
+          33.0482247
+        ]
+      },
+      "properties": {
+        "article_id": "https://wcti12.com/news/local/swift-water-rescue-team-helps-99-year-old-escape-flash-flooding-in-burke-county",
+        "title": "Swift water rescue team helps 99-year-old escape flash flooding in Burke County",
+        "source": "WCTI",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-12T07:22:06Z",
+        "url": "https://wcti12.com/news/local/swift-water-rescue-team-helps-99-year-old-escape-flash-flooding-in-burke-county",
+        "mention_text": "Burke County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Burke County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 416911,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6999678,
+          38.5981639
+        ]
+      },
+      "properties": {
+        "article_id": "https://kutv.com/news/local/heavy-rain-triggers-flash-flood-warning-near-goblin-valley-in-emery-county",
+        "title": "Heavy rain triggers Flash Flood Warning near Goblin Valley in Emery County",
+        "source": "KUTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-12T02:21:43Z",
+        "url": "https://kutv.com/news/local/heavy-rain-triggers-flash-flood-warning-near-goblin-valley-in-emery-county",
+        "mention_text": "Goblin Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Goblin Valley State Park, Emery County, Utah, United States",
+        "osm_type": "nature_reserve",
+        "osm_id": 4760264,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8038549,
+          38.9844774
+        ]
+      },
+      "properties": {
+        "article_id": "https://kutv.com/news/local/heavy-rain-triggers-flash-flood-warning-near-goblin-valley-in-emery-county",
+        "title": "Heavy rain triggers Flash Flood Warning near Goblin Valley in Emery County",
+        "source": "KUTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-12T02:21:43Z",
+        "url": "https://kutv.com/news/local/heavy-rain-triggers-flash-flood-warning-near-goblin-valley-in-emery-county",
+        "mention_text": "Emery County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Emery County, Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 1744358,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9190317,
+          32.2675039
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbs12.com/news/local/flash-flood-warning-for-coastal-martin-county",
+        "title": "Flash Flood Warning for coastal Martin County",
+        "source": "WPEC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-12T00:42:56Z",
+        "url": "https://cbs12.com/news/local/flash-flood-warning-for-coastal-martin-county",
+        "mention_text": "Martin County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Martin County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1812344,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6999678,
+          38.5981639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.abc4.com/utah-weather/utah-flooding/flash-flood-goblin-valley-emery-county/",
+        "title": "Flash Flood warning issued for Goblin Valley, South Central Emery County",
+        "source": "ABC4 Utah",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T20:53:15Z",
+        "url": "https://www.abc4.com/utah-weather/utah-flooding/flash-flood-goblin-valley-emery-county/",
+        "mention_text": "Goblin Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Goblin Valley State Park, Emery County, Utah, United States",
+        "osm_type": "nature_reserve",
+        "osm_id": 4760264,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9575983,
+          33.0482247
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wfmynews2.com/article/weather/severe-weather/nc-swift-water-rescue-team-helps-year-old-resident-escape-flooding-in-burke-county/83-8e824947-77bd-4e3c-bcb4-36d94c1760fb",
+        "title": "NC Swift Water Rescue Team Helps 99-Year-Old Resident Escape Flooding in Burke County",
+        "source": "wfmynews2.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T16:59:00Z",
+        "url": "https://www.wfmynews2.com/article/weather/severe-weather/nc-swift-water-rescue-team-helps-year-old-resident-escape-flooding-in-burke-county/83-8e824947-77bd-4e3c-bcb4-36d94c1760fb",
+        "mention_text": "Burke County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Burke County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 416911,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.0047934,
+          37.3221673
+        ]
+      },
+      "properties": {
+        "article_id": "https://kutv.com/news/local/life-threatening-flash-flooding-reported-in-zion-national-park-springdale-area",
+        "title": "Flash Flood Warning issued for possibly life-threatening conditions in Zion National Park",
+        "source": "KUTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-12T02:21:43Z",
+        "url": "https://kutv.com/news/local/life-threatening-flash-flooding-reported-in-zion-national-park-springdale-area",
+        "mention_text": "Zion National Park",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Zion National Park, Washington County, Utah, United States",
+        "osm_type": "nature_reserve",
+        "osm_id": 5758583,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9575983,
+          33.0482247
+        ]
+      },
+      "properties": {
+        "article_id": "https://wcti12.com/news/local/gallery/swift-water-rescue-team-helps-99-year-old-escape-flash-flooding-in-burke-county",
+        "title": "Swift water rescue team helps 99-year-old escape flash flooding in Burke County",
+        "source": "WCTI",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-12T07:12:51Z",
+        "url": "https://wcti12.com/news/local/gallery/swift-water-rescue-team-helps-99-year-old-escape-flash-flooding-in-burke-county",
+        "mention_text": "Burke County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Burke County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 416911,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.176345,
+          37.60797
+        ]
+      },
+      "properties": {
+        "article_id": "https://kutv.com/news/local/flash-flood-warning-issued-as-up-to-125-inches-of-rain-falls-near-escalante-river",
+        "title": "Flash Flood Warning issued as up to 1.25 inches of rain falls near Escalante River",
+        "source": "KUTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-12T02:20:31Z",
+        "url": "https://kutv.com/news/local/flash-flood-warning-issued-as-up-to-125-inches-of-rain-falls-near-escalante-river",
+        "mention_text": "Escalante River",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Escalante River, Utah, United States",
+        "osm_type": "river",
+        "osm_id": 10603356,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.14893,
+          34.1981483
+        ]
+      },
+      "properties": {
+        "article_id": "https://kutv.com/news/local/flash-flood-warning-issued-for-washington-county-along-forsyth-fire-burn-scar",
+        "title": "Flash Flood Warning issued for Forsyth Fire burn scar in Washington County",
+        "source": "KUTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T21:21:14Z",
+        "url": "https://kutv.com/news/local/flash-flood-warning-issued-for-washington-county-along-forsyth-fire-burn-scar",
+        "mention_text": "Forsyth Fire",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Forsyth County Fire Station #1, 234, Castleberry Industrial Drive, Cumming, Forsyth County, Georgia, 30041, United States",
+        "osm_type": "fire_station",
+        "osm_id": 387512367,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3936114,
+          30.2226352
+        ]
+      },
+      "properties": {
+        "article_id": "https://kutv.com/news/local/flash-flood-warning-issued-for-washington-county-along-forsyth-fire-burn-scar",
+        "title": "Flash Flood Warning issued for Forsyth Fire burn scar in Washington County",
+        "source": "KUTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T21:21:14Z",
+        "url": "https://kutv.com/news/local/flash-flood-warning-issued-for-washington-county-along-forsyth-fire-burn-scar",
+        "mention_text": "Washington County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Washington County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837751,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.024089,
+          43.809232
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wgal.com/article/adams-york-counties-flash-flood-warning/74103601",
+        "title": "Flash Flood Warning in place for Adams, York counties",
+        "source": "WGAL",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T23:23:00Z",
+        "url": "https://www.wgal.com/article/adams-york-counties-flash-flood-warning/74103601",
+        "mention_text": "Adams, York",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Village of Adams, Town of Adams, Jefferson County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 176007,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8679582,
+          33.8103737
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.coladaily.com/communities/flood-warning-issued-for-congaree-river/article_f721a31c-ccbf-4d51-a1ce-d29cbbab7706.html",
+        "title": "Flood warning issued for Congaree River",
+        "source": "ColaDaily.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-12T00:30:00Z",
+        "url": "https://www.coladaily.com/communities/flood-warning-issued-for-congaree-river/article_f721a31c-ccbf-4d51-a1ce-d29cbbab7706.html",
+        "mention_text": "Congaree River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Congaree River, Calhoun County, South Carolina, United States",
+        "osm_type": "river",
+        "osm_id": 10307706,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article317576572.html",
+        "title": "Flash flood warning affecting San Diego County until 1 a.m. Sunday, says the NWS",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T06:37:08Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article317576572.html",
+        "mention_text": "San Diego County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2062682,
+          33.9510011
+        ]
+      },
+      "properties": {
+        "article_id": "https://ktla.com/news/local-news/flash-flood-warnings-issued-as-rachel-brings-heavy-rain-to-southern-california/",
+        "title": "Flash flood warnings issued as Rachel brings heavy rain to Southern California",
+        "source": "KTLA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T16:07:37Z",
+        "url": "https://ktla.com/news/local-news/flash-flood-warnings-issued-as-rachel-brings-heavy-rain-to-southern-california/",
+        "mention_text": "Southern California",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Southern @ California, Southern Avenue, South Gate, Los Angeles County, California, 90280, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 11056179472,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9955954,
+          34.937029
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317577102.html",
+        "title": "UPDATE: Flash flood warning previously issued for Spartanburg County will expire at 5:30 a.m.",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T09:40:08Z",
+        "url": "https://www.thestate.com/news/weather-news/article317577102.html",
+        "mention_text": "Spartanburg County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Spartanburg County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1357015,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6999678,
+          38.5981639
+        ]
+      },
+      "properties": {
+        "article_id": "https://kutv.com/news/local/gallery/heavy-rain-triggers-flash-flood-warning-near-goblin-valley-in-emery-county?photo=2",
+        "title": "Heavy rain triggers Flash Flood Warning near Goblin Valley in Emery County",
+        "source": "KUTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-12T00:06:56Z",
+        "url": "https://kutv.com/news/local/gallery/heavy-rain-triggers-flash-flood-warning-near-goblin-valley-in-emery-county?photo=2",
+        "mention_text": "Goblin Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Goblin Valley State Park, Emery County, Utah, United States",
+        "osm_type": "nature_reserve",
+        "osm_id": 4760264,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8038549,
+          38.9844774
+        ]
+      },
+      "properties": {
+        "article_id": "https://kutv.com/news/local/gallery/heavy-rain-triggers-flash-flood-warning-near-goblin-valley-in-emery-county?photo=2",
+        "title": "Heavy rain triggers Flash Flood Warning near Goblin Valley in Emery County",
+        "source": "KUTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-12T00:06:56Z",
+        "url": "https://kutv.com/news/local/gallery/heavy-rain-triggers-flash-flood-warning-near-goblin-valley-in-emery-county?photo=2",
+        "mention_text": "Emery County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Emery County, Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 1744358,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2616865,
+          35.4512241
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/flash-flood-roars-chimney-rock-193927252.html",
+        "title": "Flash flood roars through Chimney Rock after Isaiah",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T19:39:27Z",
+        "url": "https://www.yahoo.com/news/videos/flash-flood-roars-chimney-rock-193927252.html",
+        "mention_text": "Chimney Rock",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Chimney Rock, Rutherford County, North Carolina, 28720, United States",
+        "osm_type": "administrative",
+        "osm_id": 179759,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4970393,
+          38.0464066
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317579486.html",
+        "title": "UPDATE: Flood advisory affecting Lexington and Richland counties until Thursday afternoon",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-12T02:04:06Z",
+        "url": "https://www.thestate.com/news/weather-news/article317579486.html",
+        "mention_text": "Lexington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Lexington, Fayette County, Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 11078268,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0949352,
+          38.7060457
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317579486.html",
+        "title": "UPDATE: Flood advisory affecting Lexington and Richland counties until Thursday afternoon",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-12T02:04:06Z",
+        "url": "https://www.thestate.com/news/weather-news/article317579486.html",
+        "mention_text": "Richland",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Richland County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1801535,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercedsunstar.com/news/weather-news/article317574302.html",
+        "title": "UPDATE: The flood advisory for San Diego County is anticipated to expire at 2 a.m.",
+        "source": "Merced Sun-Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T09:10:07Z",
+        "url": "https://www.mercedsunstar.com/news/weather-news/article317574302.html",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317576575.html",
+        "title": "UPDATE: Coastal flood advisory affecting Charleston County until Sunday midday",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T11:34:07Z",
+        "url": "https://www.thestate.com/news/weather-news/article317576575.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317580451.html",
+        "title": "Flood advisory in place for the Piedmont region Sunday afternoon, says the NWS",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T17:31:10Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317580451.html",
+        "mention_text": "Piedmont",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317574096.html",
+        "title": "Coastal flood advisory affecting North Bay Interior Valleys until early Wednesday evening",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-10T22:11:08Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317574096.html",
+        "mention_text": "North Bay",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.137227,
+          37.6233187
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317574097.html",
+        "title": "Coastal flood advisory active for San Francisco Bay Shoreline until Tuesday afternoon",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-10T22:11:08Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317574097.html",
+        "mention_text": "San Francisco Bay Shoreline",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hayward Shoreline Interpretive Center, San Francisco Bay Trail, Hayward, Alameda County, California, 94545, United States",
+        "osm_type": "museum",
+        "osm_id": 104588017,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sbsun.com/2026/10/11/flood-advisory-active-for-san-bernardino-county-until-early-sunday-morning-triggered-by-excessive-rain/",
+        "title": "Flood advisory active for San Bernardino County until early Sunday morning triggered by excessive rain",
+        "source": "San Bernardino Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T14:24:03Z",
+        "url": "https://www.sbsun.com/2026/10/11/flood-advisory-active-for-san-bernardino-county-until-early-sunday-morning-triggered-by-excessive-rain/",
+        "mention_text": "San Bernardino County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3984882,
+          34.851354
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317575494.html",
+        "title": "Greenville and Pickens counties under a flood advisory until Sunday morning",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T02:05:07Z",
+        "url": "https://www.thestate.com/news/weather-news/article317575494.html",
+        "mention_text": "Greenville",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Greenville, Greenville County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193989,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article317576845.html",
+        "title": "San Bernardino County placed under a flood advisory until early Sunday morning",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T08:59:07Z",
+        "url": "https://www.modbee.com/news/weather-news/article317576845.html",
+        "mention_text": "San Bernardino County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0372472,
+          33.7219991
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sbsun.com/2026/10/11/flood-advisory-for-riverside-county-until-3-a-m-sunday-triggered-by-prolonged-downpours/",
+        "title": "Flood advisory for Riverside County until 3 a.m. Sunday triggered by prolonged downpours",
+        "source": "San Bernardino Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T14:24:04Z",
+        "url": "https://www.sbsun.com/2026/10/11/flood-advisory-for-riverside-county-until-3-a-m-sunday-triggered-by-prolonged-downpours/",
+        "mention_text": "Riverside County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Riverside County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396495,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3343041,
+          33.4392245
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article317570220.html",
+        "title": "Flood advisory active for Georgetown County Saturday midday triggered by excessive rainfall",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-10T14:27:09Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article317570220.html",
+        "mention_text": "Georgetown County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Georgetown County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2532508,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3609195,
+          27.1813609
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.winknews.com/news/flood-advisory-for-parts-of-sarasota-county-including-venice/article_fc380de9-4f73-409a-b8cd-6d798bcd38b5.html",
+        "title": "Flood advisory for parts of Sarasota County including Venice",
+        "source": "WINK News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T16:06:00Z",
+        "url": "https://www.winknews.com/news/flood-advisory-for-parts-of-sarasota-county-including-venice/article_fc380de9-4f73-409a-b8cd-6d798bcd38b5.html",
+        "mention_text": "Sarasota County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Sarasota County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210734,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4668875,
+          33.995044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.winknews.com/news/flood-advisory-for-parts-of-sarasota-county-including-venice/article_fc380de9-4f73-409a-b8cd-6d798bcd38b5.html",
+        "title": "Flood advisory for parts of Sarasota County including Venice",
+        "source": "WINK News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T16:06:00Z",
+        "url": "https://www.winknews.com/news/flood-advisory-for-parts-of-sarasota-county-including-venice/article_fc380de9-4f73-409a-b8cd-6d798bcd38b5.html",
+        "mention_text": "Venice",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Venice, Los Angeles, Los Angeles County, California, 90291, United States",
+        "osm_type": "suburb",
+        "osm_id": 26427725,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7893178,
+          32.182598
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317566862.html",
+        "title": "UPDATE: Flood advisory affecting Buncombe and Henderson counties until Monday afternoon",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T03:43:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317566862.html",
+        "mention_text": "Henderson",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Henderson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839045,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5959641,
+          29.8298971
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article317575018.html",
+        "title": "UPDATE: Flood advisory active for Caldwell County until Sunday morning",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T06:34:06Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article317575018.html",
+        "mention_text": "Caldwell County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Caldwell County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 92017,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0482171,
+          35.6608869
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317574891.html",
+        "title": "Flood advisory affecting McDowell County until 2 a.m. Sunday due to heavy downpours",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T00:20:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317574891.html",
+        "mention_text": "McDowell County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "McDowell County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528721,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4309327,
+          37.7867337
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/10/10/coastal-flood-advisory-issued-for-northern-california-until-tuesday-afternoon/",
+        "title": "Coastal flood advisory issued for Northern California until Tuesday afternoon",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-10T21:51:20Z",
+        "url": "https://www.eastbaytimes.com/2026/10/10/coastal-flood-advisory-issued-for-northern-california-until-tuesday-afternoon/",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Japanese Cultural and Community Center of Northern California, 1840, Sutter Street, Japantown, Western Addition, San Francisco, California, 95115, United States",
+        "osm_type": "community_centre",
+        "osm_id": 257974849,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5931208,
+          34.8496625
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317578699.html",
+        "title": "Flood advisory issued for Carteret County until Sunday midday, says the NWS",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T14:07:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317578699.html",
+        "mention_text": "Carteret County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Carteret County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528682,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7013751,
+          36.4135582
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article317576339.html",
+        "title": "Flood advisory affecting Surry County until Sunday morning caused by intense rain",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T05:27:07Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article317576339.html",
+        "mention_text": "Surry County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Surry County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528746,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9001941,
+          32.4821843
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailybreeze.com/2026/10/10/coastal-flood-advisory-for-catalina-santa-barbara-islands-from-sunday-to-tuesday/",
+        "title": "Coastal flood advisory for Catalina/Santa Barbara Islands from Sunday to Tuesday",
+        "source": "Daily Breeze",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-10T20:56:48Z",
+        "url": "https://www.dailybreeze.com/2026/10/10/coastal-flood-advisory-for-catalina-santa-barbara-islands-from-sunday-to-tuesday/",
+        "mention_text": "Catalina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Catalina, Pima County, Arizona, United States",
+        "osm_type": "census",
+        "osm_id": 11180516,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0918971,
+          33.9657952
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailybreeze.com/2026/10/10/coastal-flood-advisory-for-catalina-santa-barbara-islands-from-sunday-to-tuesday/",
+        "title": "Coastal flood advisory for Catalina/Santa Barbara Islands from Sunday to Tuesday",
+        "source": "Daily Breeze",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-10T20:56:48Z",
+        "url": "https://www.dailybreeze.com/2026/10/10/coastal-flood-advisory-for-catalina-santa-barbara-islands-from-sunday-to-tuesday/",
+        "mention_text": "Santa Barbara Islands",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Channel Islands, Santa Barbara County, California, 90704, United States",
+        "osm_type": "archipelago",
+        "osm_id": 11185407,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0118347,
+          34.8013077
+        ]
+      },
+      "properties": {
+        "article_id": "https://mynewsla.com/business/2026/10/11/person-rescued-from-vehicle-in-flooded-road-in-winchester/",
+        "title": "Person Rescued From Vehicle in Flooded Road in Winchester",
+        "source": "MyNewsLA.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T17:42:03Z",
+        "url": "https://mynewsla.com/business/2026/10/11/person-rescued-from-vehicle-in-flooded-road-in-winchester/",
+        "mention_text": "Flooded Road",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "The Flooded Gap, Chattanooga Road, Dalton, Whitfield County, Georgia, 30722, United States",
+        "osm_type": "memorial",
+        "osm_id": 13991836104,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0372472,
+          33.7219991
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pressenterprise.com/2026/10/11/flood-advisory-for-riverside-county-until-3-a-m-sunday-triggered-by-prolonged-downpours/",
+        "title": "Flood advisory for Riverside County until 3 a.m. Sunday triggered by prolonged downpours",
+        "source": "www.pressenterprise.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T09:53:17Z",
+        "url": "https://www.pressenterprise.com/2026/10/11/flood-advisory-for-riverside-county-until-3-a-m-sunday-triggered-by-prolonged-downpours/",
+        "mention_text": "Riverside County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Riverside County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396495,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pressenterprise.com/2026/10/11/flood-advisory-active-for-san-bernardino-county-until-early-sunday-morning-triggered-by-excessive-rain/",
+        "title": "Flood advisory active for San Bernardino County until early Sunday morning triggered by excessive rain",
+        "source": "www.pressenterprise.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T09:53:17Z",
+        "url": "https://www.pressenterprise.com/2026/10/11/flood-advisory-active-for-san-bernardino-county-until-early-sunday-morning-triggered-by-excessive-rain/",
+        "mention_text": "San Bernardino County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317560547.html",
+        "title": "Coastal flood advisory for Coastal Colleton and Charleston County until Friday night",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-09T18:29:09Z",
+        "url": "https://www.thestate.com/news/weather-news/article317560547.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9001941,
+          32.4821843
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whittierdailynews.com/2026/10/10/coastal-flood-advisory-for-catalina-santa-barbara-islands-from-sunday-to-tuesday/",
+        "title": "Coastal flood advisory for Catalina/Santa Barbara Islands from Sunday to Tuesday",
+        "source": "Whittier Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-10T07:00:00Z",
+        "url": "https://www.whittierdailynews.com/2026/10/10/coastal-flood-advisory-for-catalina-santa-barbara-islands-from-sunday-to-tuesday/",
+        "mention_text": "Catalina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Catalina, Pima County, Arizona, United States",
+        "osm_type": "census",
+        "osm_id": 11180516,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0918971,
+          33.9657952
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whittierdailynews.com/2026/10/10/coastal-flood-advisory-for-catalina-santa-barbara-islands-from-sunday-to-tuesday/",
+        "title": "Coastal flood advisory for Catalina/Santa Barbara Islands from Sunday to Tuesday",
+        "source": "Whittier Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-10T07:00:00Z",
+        "url": "https://www.whittierdailynews.com/2026/10/10/coastal-flood-advisory-for-catalina-santa-barbara-islands-from-sunday-to-tuesday/",
+        "mention_text": "Santa Barbara Islands",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Channel Islands, Santa Barbara County, California, 90704, United States",
+        "osm_type": "archipelago",
+        "osm_id": 11185407,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.272863,
+          37.8708393
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article317570234.html",
+        "title": "UPDATE: Flood advisory active for Berkeley and Charleston counties Sunday midday",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T13:35:07Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article317570234.html",
+        "mention_text": "Berkeley",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Berkeley, Alameda County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 2833528,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9399309,
+          32.7884363
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.myrtlebeachonline.com/news/weather-news/article317570234.html",
+        "title": "UPDATE: Flood advisory active for Berkeley and Charleston counties Sunday midday",
+        "source": "Myrtle Beach Sun News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T13:35:07Z",
+        "url": "https://www.myrtlebeachonline.com/news/weather-news/article317570234.html",
+        "mention_text": "Charleston",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston, Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 194119,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9294401,
+          33.6170092
+        ]
+      },
+      "properties": {
+        "article_id": "https://en.koreadaily.com/southern-california-coastal-flood-advisory/",
+        "title": "Southern California Coastal Flood Advisory \u2014 Newport Beach and Long Beach Closures",
+        "source": "The Korea Daily",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-12T04:30:48Z",
+        "url": "https://en.koreadaily.com/southern-california-coastal-flood-advisory/",
+        "mention_text": "Newport Beach",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Newport Beach, Orange County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 112956,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.191604,
+          33.7690164
+        ]
+      },
+      "properties": {
+        "article_id": "https://en.koreadaily.com/southern-california-coastal-flood-advisory/",
+        "title": "Southern California Coastal Flood Advisory \u2014 Newport Beach and Long Beach Closures",
+        "source": "The Korea Daily",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-12T04:30:48Z",
+        "url": "https://en.koreadaily.com/southern-california-coastal-flood-advisory/",
+        "mention_text": "Long Beach",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Long Beach, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 112100,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0372472,
+          33.7219991
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.redlandsdailyfacts.com/2026/10/11/flood-advisory-for-riverside-county-until-3-a-m-sunday-triggered-by-prolonged-downpours/",
+        "title": "Flood advisory for Riverside County until 3 a.m. Sunday triggered by prolonged downpours",
+        "source": "Redlands Daily Facts",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T07:00:00Z",
+        "url": "https://www.redlandsdailyfacts.com/2026/10/11/flood-advisory-for-riverside-county-until-3-a-m-sunday-triggered-by-prolonged-downpours/",
+        "mention_text": "Riverside County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Riverside County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396495,
+        "run_at": "2026-10-12T14:28:25.967284+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-10-11T12:11:19.622077+00:00",
-    "total_features": 5206
+    "last_updated": "2026-10-12T14:28:25.994985+00:00",
+    "total_features": 5259
   }
 }
