@@ -136734,11 +136734,401 @@
         "osm_id": 396495,
         "run_at": "2026-10-12T14:28:25.967284+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/hurricane-simons-moisture-fuels-severe-094314524.html",
+        "title": "Hurricane Simon's moisture fuels severe weather, flash flood threat from Texas to Illinois",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-13T09:43:14Z",
+        "url": "https://www.yahoo.com/news/videos/hurricane-simons-moisture-fuels-severe-094314524.html",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-10-13T13:37:44.568382+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4337288,
+          40.0796606
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/hurricane-simons-moisture-fuels-severe-094314524.html",
+        "title": "Hurricane Simon's moisture fuels severe weather, flash flood threat from Texas to Illinois",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-13T09:43:14Z",
+        "url": "https://www.yahoo.com/news/videos/hurricane-simons-moisture-fuels-severe-094314524.html",
+        "mention_text": "Illinois",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 122586,
+        "run_at": "2026-10-13T13:37:44.568382+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6999678,
+          38.5981639
+        ]
+      },
+      "properties": {
+        "article_id": "https://kjzz.com/news/local/heavy-rain-triggers-flash-flood-warning-near-goblin-valley-in-emery-county?teaserSource=trending",
+        "title": "Heavy rain triggers Flash Flood Warning near Goblin Valley in Emery County",
+        "source": "KJZZ",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-12T08:04:04Z",
+        "url": "https://kjzz.com/news/local/heavy-rain-triggers-flash-flood-warning-near-goblin-valley-in-emery-county?teaserSource=trending",
+        "mention_text": "Goblin Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Goblin Valley State Park, Emery County, Utah, United States",
+        "osm_type": "nature_reserve",
+        "osm_id": 4760264,
+        "run_at": "2026-10-13T13:37:44.568382+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8038549,
+          38.9844774
+        ]
+      },
+      "properties": {
+        "article_id": "https://kjzz.com/news/local/heavy-rain-triggers-flash-flood-warning-near-goblin-valley-in-emery-county?teaserSource=trending",
+        "title": "Heavy rain triggers Flash Flood Warning near Goblin Valley in Emery County",
+        "source": "KJZZ",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-12T08:04:04Z",
+        "url": "https://kjzz.com/news/local/heavy-rain-triggers-flash-flood-warning-near-goblin-valley-in-emery-county?teaserSource=trending",
+        "mention_text": "Emery County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Emery County, Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 1744358,
+        "run_at": "2026-10-13T13:37:44.568382+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.176345,
+          37.60797
+        ]
+      },
+      "properties": {
+        "article_id": "https://kjzz.com/news/local/flash-flood-warning-issued-as-up-to-125-inches-of-rain-falls-near-escalante-river?teaserSource=trending",
+        "title": "Flash Flood Warning issued as up to 1.25 inches of rain falls near Escalante River",
+        "source": "KJZZ",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-12T09:04:01Z",
+        "url": "https://kjzz.com/news/local/flash-flood-warning-issued-as-up-to-125-inches-of-rain-falls-near-escalante-river?teaserSource=trending",
+        "mention_text": "Escalante River",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Escalante River, Utah, United States",
+        "osm_type": "river",
+        "osm_id": 10603356,
+        "run_at": "2026-10-13T13:37:44.568382+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6870837,
+          35.7454291
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wyff4.com/article/swift-water-rescue-teams-save-campers-morganton-flood-nc/74101402",
+        "title": "Swift water rescue teams save campers during Morganton flooding",
+        "source": "WYFF",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T15:56:00Z",
+        "url": "https://www.wyff4.com/article/swift-water-rescue-teams-save-campers-morganton-flood-nc/74101402",
+        "mention_text": "Morganton",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Morganton, Burke County, North Carolina, 28655, United States",
+        "osm_type": "administrative",
+        "osm_id": 179901,
+        "run_at": "2026-10-13T13:37:44.568382+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317591249.html",
+        "title": "UPDATE: North Carolina placed under a flood warning until Tuesday morning",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-13T01:14:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317591249.html",
+        "mention_text": "North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-10-13T13:37:44.568382+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pressenterprise.com/2026/10/12/update-flood-advisory-in-place-for-san-bernardino-and-clark-counties-monday-afternoon-due-to-heavy-downpours/",
+        "title": "Update: Flood advisory in place for San Bernardino and Clark counties Monday afternoon due to heavy downpours",
+        "source": "www.pressenterprise.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-12T21:05:49Z",
+        "url": "https://www.pressenterprise.com/2026/10/12/update-flood-advisory-in-place-for-san-bernardino-and-clark-counties-monday-afternoon-due-to-heavy-downpours/",
+        "mention_text": "San Bernardino",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-10-13T13:37:44.568382+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7838526,
+          39.3260541
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pressenterprise.com/2026/10/12/update-flood-advisory-in-place-for-san-bernardino-and-clark-counties-monday-afternoon-due-to-heavy-downpours/",
+        "title": "Update: Flood advisory in place for San Bernardino and Clark counties Monday afternoon due to heavy downpours",
+        "source": "www.pressenterprise.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-12T21:05:49Z",
+        "url": "https://www.pressenterprise.com/2026/10/12/update-flood-advisory-in-place-for-san-bernardino-and-clark-counties-monday-afternoon-due-to-heavy-downpours/",
+        "mention_text": "Clark",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Clark County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1801517,
+        "run_at": "2026-10-13T13:37:44.568382+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317593631.html",
+        "title": "UPDATE: The current flood advisory for San Bernardino County will expire at 3:45 p.m.",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-12T23:08:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317593631.html",
+        "mention_text": "San Bernardino County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-10-13T13:37:44.568382+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article317576728.html",
+        "title": "UPDATE: Flood advisory issued for San Bernardino County Sunday morning",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T13:15:07Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article317576728.html",
+        "mention_text": "San Bernardino County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-10-13T13:37:44.568382+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8722311,
+          33.750631
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317577510.html",
+        "title": "Flood advisory affecting Orange County early Sunday morning, says the NWS",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T10:45:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317577510.html",
+        "mention_text": "Orange County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Orange County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396466,
+        "run_at": "2026-10-13T13:37:44.568382+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8679582,
+          33.8103737
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.coladaily.com/communities/flood-advisory-for-congaree-river-continues-until-wednesday-night/article_d80d9c4f-c31c-49c1-87cd-b4b274a93692.html",
+        "title": "Flood advisory for Congaree River continues until Wednesday night",
+        "source": "ColaDaily.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-12T19:30:00Z",
+        "url": "https://www.coladaily.com/communities/flood-advisory-for-congaree-river-continues-until-wednesday-night/article_d80d9c4f-c31c-49c1-87cd-b4b274a93692.html",
+        "mention_text": "Congaree River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Congaree River, Calhoun County, South Carolina, United States",
+        "osm_type": "river",
+        "osm_id": 10307706,
+        "run_at": "2026-10-13T13:37:44.568382+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317578156.html",
+        "title": "UPDATE: Flood advisory for North Carolina until Monday afternoon, says the NWS",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T14:45:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317578156.html",
+        "mention_text": "North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-10-13T13:37:44.568382+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article317580451.html",
+        "title": "Flood advisory in place for the Piedmont region Sunday afternoon, says the NWS",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T17:31:10Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article317580451.html",
+        "mention_text": "Piedmont",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-10-13T13:37:44.568382+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-10-12T14:28:25.994985+00:00",
-    "total_features": 5259
+    "last_updated": "2026-10-13T13:37:44.591226+00:00",
+    "total_features": 5274
   }
 }
