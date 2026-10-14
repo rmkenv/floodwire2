@@ -137124,11 +137124,297 @@
         "osm_id": 2999176,
         "run_at": "2026-10-13T13:37:44.568382+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.3876,
+          31.88348
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mrt.com/news/article/permian-basin-flood-watch-22475596.php",
+        "title": "Heavy rain prompts flood watch across Permian Basin and West Texas",
+        "source": "Midland Reporter-Telegram",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-13T20:02:22Z",
+        "url": "https://www.mrt.com/news/article/permian-basin-flood-watch-22475596.php",
+        "mention_text": "Permian Basin",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Permian Basin, West 42nd Street, Playhouse Acres, Odessa, Ector County, Texas, 79767, United States",
+        "osm_type": "memorial",
+        "osm_id": 12403576662,
+        "run_at": "2026-10-14T11:13:45.126550+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1628013,
+          26.1717097
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mrt.com/news/article/permian-basin-flood-watch-22475596.php",
+        "title": "Heavy rain prompts flood watch across Permian Basin and West Texas",
+        "source": "Midland Reporter-Telegram",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-13T20:02:22Z",
+        "url": "https://www.mrt.com/news/article/permian-basin-flood-watch-22475596.php",
+        "mention_text": "West Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "West Texas, San Juan South Estates Colonia, San Juan, Hidalgo County, Texas, 78589, United States",
+        "osm_type": "residential",
+        "osm_id": 625517655,
+        "run_at": "2026-10-14T11:13:45.126550+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/2026/10/13/news/weather/video/water-rescue-dogs-san-bernardino-tropical-storm-rachel",
+        "title": "San Bernardino swift water rescue saves women, dogs",
+        "source": "The Weather Channel",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-13T20:20:25Z",
+        "url": "https://weather.com/2026/10/13/news/weather/video/water-rescue-dogs-san-bernardino-tropical-storm-rachel",
+        "mention_text": "San Bernardino",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-10-14T11:13:45.126550+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6999678,
+          38.5981639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-goblin-205315775.html",
+        "title": "Flash Flood warning issued for Goblin Valley, South Central Emery County",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T20:53:15Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-goblin-205315775.html",
+        "mention_text": "Goblin Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Goblin Valley State Park, Emery County, Utah, United States",
+        "osm_type": "nature_reserve",
+        "osm_id": 4760264,
+        "run_at": "2026-10-14T11:13:45.126550+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.438792,
+          59.6081366
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.natureworldnews.com/articles/73514/20261013/rachels-surge-floods-newport-beach-breaks-through-long-beachs-peninsula-boardwalk-coastal-flood.htm",
+        "title": "Rachel's Surge Floods Newport Beach and Breaks Through Long Beach's Peninsula Boardwalk as Coastal Flood Advisory Runs to Tuesday",
+        "source": "Nature World News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-14T01:58:24Z",
+        "url": "https://www.natureworldnews.com/articles/73514/20261013/rachels-surge-floods-newport-beach-breaks-through-long-beachs-peninsula-boardwalk-coastal-flood.htm",
+        "mention_text": "Peninsula Boardwalk",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Glacier Boardwalk, Homer, Kenai Peninsula Borough, Alaska, United States",
+        "osm_type": "pedestrian",
+        "osm_id": 217460813,
+        "run_at": "2026-10-14T11:13:45.126550+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0620347,
+          39.2147095
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kansascity.com/news/weather-news/article317613469.html",
+        "title": "Flood advisory in place for Leavenworth County until 3 a.m. Wednesday, says the NWS",
+        "source": "Kansas City Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-14T02:44:06Z",
+        "url": "https://www.kansascity.com/news/weather-news/article317613469.html",
+        "mention_text": "Leavenworth County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Leavenworth County, Kansas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1070403,
+        "run_at": "2026-10-14T11:13:45.126550+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1638284,
+          32.7157062
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcsandiego.com/video/videos/coastal-flood-advisory-in-effect-in-san-diego-amidst-incoming-santa-ana-winds/4086513/",
+        "title": "Coastal flood advisory in effect in San Diego amidst incoming Santa Ana winds",
+        "source": "NBC 7 San Diego",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-13T18:14:14Z",
+        "url": "https://www.nbcsandiego.com/video/videos/coastal-flood-advisory-in-effect-in-san-diego-amidst-incoming-santa-ana-winds/4086513/",
+        "mention_text": "San Diego",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego, San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 253832,
+        "run_at": "2026-10-14T11:13:45.126550+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.873221,
+          33.7494951
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcsandiego.com/video/videos/coastal-flood-advisory-in-effect-in-san-diego-amidst-incoming-santa-ana-winds/4086513/",
+        "title": "Coastal flood advisory in effect in San Diego amidst incoming Santa Ana winds",
+        "source": "NBC 7 San Diego",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-13T18:14:14Z",
+        "url": "https://www.nbcsandiego.com/video/videos/coastal-flood-advisory-in-effect-in-san-diego-amidst-incoming-santa-ana-winds/4086513/",
+        "mention_text": "Santa Ana",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Santa Ana, Orange County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 2311446,
+        "run_at": "2026-10-14T11:13:45.126550+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4030376,
+          37.7887644
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317574097.html",
+        "title": "UPDATE: The current coastal flood advisory for Northern California will be expiring at 3 p.m.",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-10T21:51:00Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317574097.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "First National Bank of Northern California, Post Street, Union Square, Financial District, San Francisco, California, 94104, United States",
+        "osm_type": "bank",
+        "osm_id": 32946665,
+        "run_at": "2026-10-14T11:13:45.126550+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article317574302.html",
+        "title": "UPDATE: The flood advisory for San Diego County is anticipated to expire at 2 a.m.",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T09:10:07Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article317574302.html",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-10-14T11:13:45.126550+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7013751,
+          36.4135582
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article317576339.html",
+        "title": "UPDATE: Flood advisory previously issued for Surry County will expire at 6:45 p.m.",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T22:54:08Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article317576339.html",
+        "mention_text": "Surry County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Surry County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528746,
+        "run_at": "2026-10-14T11:13:45.126550+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-10-13T13:37:44.591226+00:00",
-    "total_features": 5274
+    "last_updated": "2026-10-14T11:13:45.163264+00:00",
+    "total_features": 5285
   }
 }
