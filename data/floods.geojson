@@ -137410,11 +137410,245 @@
         "osm_id": 2528746,
         "run_at": "2026-10-14T11:13:45.126550+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6546163,
+          32.1112624
+        ]
+      },
+      "properties": {
+        "article_id": "https://news.azpm.org/s/104276-pima-county-uses-drone-technology-to-improve-flash-flood-monitoring/",
+        "title": "Pima County uses drone technology to improve flash flood monitoring",
+        "source": "AZPM News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-14T21:24:27Z",
+        "url": "https://news.azpm.org/s/104276-pima-county-uses-drone-technology-to-improve-flash-flood-monitoring/",
+        "mention_text": "Pima County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pima County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832206,
+        "run_at": "2026-10-15T10:56:21.325797+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2684063,
+          34.9550817
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.oklahoman.com/story/weather/severe/2026/10/14/oklahoma-flash-flood-risks-worsen-as-rain-continues-how-bad-could-it-get/92247058007/",
+        "title": "Oklahoma flash flood risk grows as rain continues. How bad could it get?",
+        "source": "The Oklahoman",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-14T16:14:00Z",
+        "url": "https://www.oklahoman.com/story/weather/severe/2026/10/14/oklahoma-flash-flood-risks-worsen-as-rain-continues-how-bad-could-it-get/92247058007/",
+        "mention_text": "Oklahoma",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Oklahoma, United States",
+        "osm_type": "administrative",
+        "osm_id": 161645,
+        "run_at": "2026-10-15T10:56:21.325797+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -144.708313,
+          65.538809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/remnants-hurricane-simon-mulitday-flood-threat-great-plains",
+        "title": "Flash flood threat grows as Hurricane Simon's moisture fuels intense storms, slams millions across Central US",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T17:55:00Z",
+        "url": "https://www.foxweather.com/weather-news/remnants-hurricane-simon-mulitday-flood-threat-great-plains",
+        "mention_text": "Central US",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, Unorganized Borough, Alaska, United States",
+        "osm_type": "census",
+        "osm_id": 254027,
+        "run_at": "2026-10-15T10:56:21.325797+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2684063,
+          34.9550817
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/oklahoma-flash-flood-threat-grows-095510456.html",
+        "title": "Oklahoma flash flood threat grows as tropically-enhanced storms stretch from Texas to West Virginia",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-14T09:55:10Z",
+        "url": "https://www.yahoo.com/news/videos/oklahoma-flash-flood-threat-grows-095510456.html",
+        "mention_text": "Oklahoma",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Oklahoma, United States",
+        "osm_type": "administrative",
+        "osm_id": 161645,
+        "run_at": "2026-10-15T10:56:21.325797+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/oklahoma-flash-flood-threat-grows-095510456.html",
+        "title": "Oklahoma flash flood threat grows as tropically-enhanced storms stretch from Texas to West Virginia",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-14T09:55:10Z",
+        "url": "https://www.yahoo.com/news/videos/oklahoma-flash-flood-threat-grows-095510456.html",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-10-15T10:56:21.325797+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8408415,
+          38.4758406
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/oklahoma-flash-flood-threat-grows-095510456.html",
+        "title": "Oklahoma flash flood threat grows as tropically-enhanced storms stretch from Texas to West Virginia",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-14T09:55:10Z",
+        "url": "https://www.yahoo.com/news/videos/oklahoma-flash-flood-threat-grows-095510456.html",
+        "mention_text": "West Virginia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "West Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 162068,
+        "run_at": "2026-10-15T10:56:21.325797+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7893178,
+          32.182598
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317575018.html",
+        "title": "UPDATE: Flood advisory issued for Buncombe and Henderson counties until further notice",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-13T02:34:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317575018.html",
+        "mention_text": "Henderson",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Henderson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839045,
+        "run_at": "2026-10-15T10:56:21.325797+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1791849,
+          31.8390826
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317566684.html",
+        "title": "UPDATE: Flood advisory in place for Cherokee County until Monday evening",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-12T03:09:08Z",
+        "url": "https://www.thestate.com/news/weather-news/article317566684.html",
+        "mention_text": "Cherokee County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Cherokee County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839605,
+        "run_at": "2026-10-15T10:56:21.325797+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317576728.html",
+        "title": "UPDATE: Flood advisory previously issued for San Bernardino County will expire at 10:30 a.m.",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T17:40:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317576728.html",
+        "mention_text": "San Bernardino County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-10-15T10:56:21.325797+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-10-14T11:13:45.163264+00:00",
-    "total_features": 5285
+    "last_updated": "2026-10-15T10:56:21.353353+00:00",
+    "total_features": 5294
   }
 }
