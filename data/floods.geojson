@@ -137904,11 +137904,375 @@
         "osm_id": 251484,
         "run_at": "2026-10-17T10:12:51.991470+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4623642,
+          26.1598074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcmiami.com/news/local/flash-flood-warning-issued-for-parts-of-broward-nws-says/3874269/",
+        "title": "Flash flood warning issued for parts of Broward, NWS says",
+        "source": "NBC 6 South Florida",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-17T20:30:08Z",
+        "url": "https://www.nbcmiami.com/news/local/flash-flood-warning-issued-for-parts-of-broward-nws-says/3874269/",
+        "mention_text": "Broward",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Broward County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210714,
+        "run_at": "2026-10-18T10:26:21.962794+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4494174,
+          26.6279798
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbs12.com/news/local/flash-flood-warning-for-sections-of-palm-beach-county",
+        "title": "Flash Flood Warning for sections of Palm Beach County",
+        "source": "WPEC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-17T22:58:56Z",
+        "url": "https://cbs12.com/news/local/flash-flood-warning-for-sections-of-palm-beach-county",
+        "mention_text": "Palm Beach County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Palm Beach County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210748,
+        "run_at": "2026-10-18T10:26:21.962794+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8463851,
+          37.1670484
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.local10.com/weather/2026/10/17/heavy-rain-prompts-flash-flood-warning-in-parts-of-south-florida/",
+        "title": "Heavy rain prompts flash flood warning in parts of South Florida",
+        "source": "WPLG Local 10",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-17T21:00:28Z",
+        "url": "https://www.local10.com/weather/2026/10/17/heavy-rain-prompts-flash-flood-warning-in-parts-of-south-florida/",
+        "mention_text": "South Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South Florida, Columbus, Cherokee County, Kansas, 66725, United States",
+        "osm_type": "residential",
+        "osm_id": 12999746,
+        "run_at": "2026-10-18T10:26:21.962794+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6546163,
+          32.1112624
+        ]
+      },
+      "properties": {
+        "article_id": "https://news.azpm.org/p/azpmnews/2026/10/14/231580-pima-county-uses-drone-technology-to-improve-flash-flood-monitoring/",
+        "title": "Pima County uses drone technology to improve flash flood monitoring",
+        "source": "AZPM News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-14T21:34:47Z",
+        "url": "https://news.azpm.org/p/azpmnews/2026/10/14/231580-pima-county-uses-drone-technology-to-improve-flash-flood-monitoring/",
+        "mention_text": "Pima County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pima County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832206,
+        "run_at": "2026-10-18T10:26:21.962794+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8463851,
+          37.1670484
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.local10.com/video/news/2026/10/17/heavy-rain-prompts-flash-flood-warning-in-parts-of-south-florida/",
+        "title": "Heavy rain prompts flash flood warning in parts of South Florida",
+        "source": "WPLG Local 10",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-17T21:00:05Z",
+        "url": "https://www.local10.com/video/news/2026/10/17/heavy-rain-prompts-flash-flood-warning-in-parts-of-south-florida/",
+        "mention_text": "South Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South Florida, Columbus, Cherokee County, Kansas, 66725, United States",
+        "osm_type": "residential",
+        "osm_id": 12999746,
+        "run_at": "2026-10-18T10:26:21.962794+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -144.708313,
+          65.538809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aol.com/articles/hurricane-simon-fuel-multiday-flood-175549000.html",
+        "title": "Flash flood threat grows as Simon's moisture fuels intense storms, slams millions across Central US",
+        "source": "AOL.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-15T09:54:14Z",
+        "url": "https://www.aol.com/articles/hurricane-simon-fuel-multiday-flood-175549000.html",
+        "mention_text": "Central US",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, Unorganized Borough, Alaska, United States",
+        "osm_type": "census",
+        "osm_id": 254027,
+        "run_at": "2026-10-18T10:26:21.962794+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2126146,
+          35.8217079
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317669028.html",
+        "title": "UPDATE: Coastal flood advisory active for Tyrrell County until early Monday evening",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-18T07:53:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317669028.html",
+        "mention_text": "Tyrrell County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Tyrrell County, North Carolina, 27925, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528749,
+        "run_at": "2026-10-18T10:26:21.962794+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4494174,
+          26.6279798
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbs12.com/news/local/flood-advisory-for-palm-beach-county-10-17-2026",
+        "title": "Flood Advisory for Palm Beach County",
+        "source": "WPEC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-17T22:58:56Z",
+        "url": "https://cbs12.com/news/local/flood-advisory-for-palm-beach-county-10-17-2026",
+        "mention_text": "Palm Beach County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Palm Beach County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210748,
+        "run_at": "2026-10-18T10:26:21.962794+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9955954,
+          34.937029
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317574967.html",
+        "title": "UPDATE: Flood advisory active for Spartanburg County until Sunday midday",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T11:43:07Z",
+        "url": "https://www.thestate.com/news/weather-news/article317574967.html",
+        "mention_text": "Spartanburg County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Spartanburg County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1357015,
+        "run_at": "2026-10-18T10:26:21.962794+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.272863,
+          37.8708393
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317570234.html",
+        "title": "UPDATE: Flood advisory active for Berkeley and Charleston counties Sunday midday",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T13:35:07Z",
+        "url": "https://www.thestate.com/news/weather-news/article317570234.html",
+        "mention_text": "Berkeley",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Berkeley, Alameda County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 2833528,
+        "run_at": "2026-10-18T10:26:21.962794+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9399309,
+          32.7884363
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317570234.html",
+        "title": "UPDATE: Flood advisory active for Berkeley and Charleston counties Sunday midday",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T13:35:07Z",
+        "url": "https://www.thestate.com/news/weather-news/article317570234.html",
+        "mention_text": "Charleston",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston, Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 194119,
+        "run_at": "2026-10-18T10:26:21.962794+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317576845.html",
+        "title": "UPDATE: Flood advisory in place for Inyo and San Bernardino counties until Sunday morning",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T12:07:10Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317576845.html",
+        "mention_text": "San Bernardino",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-10-18T10:26:21.962794+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.3595666,
+          33.0305487
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317576111.html",
+        "title": "Flood advisory for Imperial County until early Sunday triggered by persistent rainfall",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T04:31:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317576111.html",
+        "mention_text": "Imperial County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Imperial County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396515,
+        "run_at": "2026-10-18T10:26:21.962794+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/10/08/coastal-flood-advisory-in-place-for-north-bay-interior-valleys-until-early-wednesday-evening/",
+        "title": "Coastal flood advisory in place for North Bay Interior Valleys until early Wednesday evening",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-08T07:00:00Z",
+        "url": "https://www.mercurynews.com/2026/10/08/coastal-flood-advisory-in-place-for-north-bay-interior-valleys-until-early-wednesday-evening/",
+        "mention_text": "North Bay",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-10-18T10:26:21.962794+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-10-17T10:12:52.019493+00:00",
-    "total_features": 5304
+    "last_updated": "2026-10-18T10:26:21.990522+00:00",
+    "total_features": 5318
   }
 }
