@@ -138268,11 +138268,37 @@
         "osm_id": 251484,
         "run_at": "2026-10-18T10:26:21.962794+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2126146,
+          35.8217079
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article317669028.html",
+        "title": "Coastal flood advisory active for Tyrrell County until early Monday evening",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-18T00:06:07Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article317669028.html",
+        "mention_text": "Tyrrell County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Tyrrell County, North Carolina, 27925, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528749,
+        "run_at": "2026-10-19T12:08:27.942244+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-10-18T10:26:21.990522+00:00",
-    "total_features": 5318
+    "last_updated": "2026-10-19T12:08:27.969594+00:00",
+    "total_features": 5319
   }
 }
