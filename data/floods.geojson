@@ -138294,11 +138294,141 @@
         "osm_id": 2528749,
         "run_at": "2026-10-19T12:08:27.942244+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.coconino.az.gov/m/newsflash/Home/Detail/3473",
+        "title": "Federal Economic Injury Disaster Loans available to businesses impacted by Grand Canyon flash flood",
+        "source": "Coconino.az.gov",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-19T22:20:15Z",
+        "url": "https://www.coconino.az.gov/m/newsflash/Home/Detail/3473",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-10-20T11:00:29.459395+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3558473,
+          37.7884969
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sfgate.com/weather/article/bay-area-rain-october-22483675.php",
+        "title": "First rain of season coming to Bay Area, flash flood warning on coast",
+        "source": "SFGATE",
+        "outlet_city": "San Francisco",
+        "outlet_region": "California",
+        "published_at": "2026-10-19T20:26:05Z",
+        "url": "https://www.sfgate.com/weather/article/bay-area-rain-october-22483675.php",
+        "mention_text": "Bay Area",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Francisco Bay Area, San Francisco, California, 94130, United States",
+        "osm_type": "region",
+        "osm_id": 2157162589,
+        "run_at": "2026-10-20T11:00:29.459395+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6546163,
+          32.1112624
+        ]
+      },
+      "properties": {
+        "article_id": "https://news.azpm.org/p/azpmnews/2026/10/14/231580-pima-county-uses-drone-technology-to-improve-flash-flood-monitoring",
+        "title": "Pima County uses drone technology to improve flash flood monitoring",
+        "source": "AZPM News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-14T21:34:47Z",
+        "url": "https://news.azpm.org/p/azpmnews/2026/10/14/231580-pima-county-uses-drone-technology-to-improve-flash-flood-monitoring",
+        "mention_text": "Pima County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pima County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832206,
+        "run_at": "2026-10-20T11:00:29.459395+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0161205,
+          44.9292083
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317565417.html",
+        "title": "UPDATE: Coastal flood advisory in place for Southeast Coast Sunday morning",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T14:15:09Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317565417.html",
+        "mention_text": "Southeast Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oregon Coast Highway, Taft, Lincoln City, Lincoln County, Oregon, 97367, United States",
+        "osm_type": "trunk",
+        "osm_id": 458933022,
+        "run_at": "2026-10-20T11:00:29.459395+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailynews.com/2026/09/28/flood-advisory-for-los-angeles-county-monday-evening-caused-by-persistent-rainfall/",
+        "title": "Flood advisory for Los Angeles County Monday evening caused by persistent rainfall",
+        "source": "Los Angeles Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-28T07:00:00Z",
+        "url": "https://www.dailynews.com/2026/09/28/flood-advisory-for-los-angeles-county-monday-evening-caused-by-persistent-rainfall/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-10-20T11:00:29.459395+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-10-19T12:08:27.969594+00:00",
-    "total_features": 5319
+    "last_updated": "2026-10-20T11:00:29.489529+00:00",
+    "total_features": 5324
   }
 }
