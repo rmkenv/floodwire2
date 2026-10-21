@@ -138424,11 +138424,323 @@
         "osm_id": 396479,
         "run_at": "2026-10-20T11:00:29.459395+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.755997,
+          36.7014631
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/midweek-storms-heavy-rain-wildfire-relief-california",
+        "title": "Much-needed rain to soak California as rare severe weather, flash flood threat grows in the Four Corners",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-20T18:48:00Z",
+        "url": "https://www.foxweather.com/weather-news/midweek-storms-heavy-rain-wildfire-relief-california",
+        "mention_text": "California",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "California, United States",
+        "osm_type": "administrative",
+        "osm_id": 165475,
+        "run_at": "2026-10-21T11:12:58.752951+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox10phoenix.com/video/fmc-opd37cc2nftqi8tw",
+        "title": "Flash flood watch issued across Arizona",
+        "source": "FOX 10 Phoenix",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-20T14:42:14Z",
+        "url": "https://www.fox10phoenix.com/video/fmc-opd37cc2nftqi8tw",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-10-21T11:12:58.752951+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.212906,
+          44.4761601
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.weather.gov/btv/The-Utility-of-Maximum-Unit-Streamflow-Data-in-the-Flash-Flood-Warning-Decision-Process-at-the-National-Weather-Service-in-Burl",
+        "title": "The Utility of Maximum Unit Streamflow Data in the Flash Flood Warning Decision Process at the National Weather Service in Burlington, Vermont",
+        "source": "National Weather Service (.gov)",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T22:09:18Z",
+        "url": "https://www.weather.gov/btv/The-Utility-of-Maximum-Unit-Streamflow-Data-in-the-Flash-Flood-Warning-Decision-Process-at-the-National-Weather-Service-in-Burl",
+        "mention_text": "Burlington",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Burlington, Chittenden County, Vermont, United States",
+        "osm_type": "administrative",
+        "osm_id": 199071,
+        "run_at": "2026-10-21T11:12:58.752951+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5002608,
+          44.5990718
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.weather.gov/btv/The-Utility-of-Maximum-Unit-Streamflow-Data-in-the-Flash-Flood-Warning-Decision-Process-at-the-National-Weather-Service-in-Burl",
+        "title": "The Utility of Maximum Unit Streamflow Data in the Flash Flood Warning Decision Process at the National Weather Service in Burlington, Vermont",
+        "source": "National Weather Service (.gov)",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T22:09:18Z",
+        "url": "https://www.weather.gov/btv/The-Utility-of-Maximum-Unit-Streamflow-Data-in-the-Flash-Flood-Warning-Decision-Process-at-the-National-Weather-Service-in-Burl",
+        "mention_text": "Vermont",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Vermont, United States",
+        "osm_type": "administrative",
+        "osm_id": 60759,
+        "run_at": "2026-10-21T11:12:58.752951+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1635262,
+          39.9527237
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/philadelphia/news/philadelphia-weather-forecast-october-21-2026/",
+        "title": "Coastal flood advisory at the Shore as fantastic fall weather continues in Philadelphia. Here's the forecast.",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-21T09:49:56Z",
+        "url": "https://www.cbsnews.com/philadelphia/news/philadelphia-weather-forecast-october-21-2026/",
+        "mention_text": "Philadelphia",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Philadelphia, Philadelphia County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 188022,
+        "run_at": "2026-10-21T11:12:58.752951+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1194808,
+          35.1195667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317655798.html",
+        "title": "UPDATE: Coastal flood advisory for Southern Craven and Pamlico County until 2 a.m. Tuesday",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-16T18:58:00Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317655798.html",
+        "mention_text": "Southern Craven",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Southern Hills Drive, New Bern, Craven County, North Carolina, 28562, United States",
+        "osm_type": "residential",
+        "osm_id": 16494030,
+        "run_at": "2026-10-21T11:12:58.752951+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7970224,
+          35.1238031
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317655798.html",
+        "title": "UPDATE: Coastal flood advisory for Southern Craven and Pamlico County until 2 a.m. Tuesday",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-16T18:58:00Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317655798.html",
+        "mention_text": "Pamlico County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Pamlico County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528731,
+        "run_at": "2026-10-21T11:12:58.752951+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sbsun.com/2026/10/12/update-flood-advisory-in-place-for-san-bernardino-and-clark-counties-monday-afternoon-due-to-heavy-downpours/",
+        "title": "Update: Flood advisory in place for San Bernardino and Clark counties Monday afternoon due to heavy downpours",
+        "source": "San Bernardino Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-12T22:44:57Z",
+        "url": "https://www.sbsun.com/2026/10/12/update-flood-advisory-in-place-for-san-bernardino-and-clark-counties-monday-afternoon-due-to-heavy-downpours/",
+        "mention_text": "San Bernardino",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-10-21T11:12:58.752951+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7838526,
+          39.3260541
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sbsun.com/2026/10/12/update-flood-advisory-in-place-for-san-bernardino-and-clark-counties-monday-afternoon-due-to-heavy-downpours/",
+        "title": "Update: Flood advisory in place for San Bernardino and Clark counties Monday afternoon due to heavy downpours",
+        "source": "San Bernardino Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-12T22:44:57Z",
+        "url": "https://www.sbsun.com/2026/10/12/update-flood-advisory-in-place-for-san-bernardino-and-clark-counties-monday-afternoon-due-to-heavy-downpours/",
+        "mention_text": "Clark",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Clark County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1801517,
+        "run_at": "2026-10-21T11:12:58.752951+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.689423,
+          34.035591
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailynews.com/2026/10/10/coastal-flood-advisory-issued-for-malibu-and-los-angeles-county-beaches-from-sunday-to-tuesday/",
+        "title": "Coastal flood advisory issued for Malibu and Los Angeles County Beaches from Sunday to Tuesday",
+        "source": "Los Angeles Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-10T07:00:00Z",
+        "url": "https://www.dailynews.com/2026/10/10/coastal-flood-advisory-issued-for-malibu-and-los-angeles-county-beaches-from-sunday-to-tuesday/",
+        "mention_text": "Malibu",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Malibu, Los Angeles County, California, 90265, United States",
+        "osm_type": "administrative",
+        "osm_id": 3492156,
+        "run_at": "2026-10-21T11:12:58.752951+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2427676,
+          34.0536923
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailynews.com/2026/10/10/coastal-flood-advisory-issued-for-malibu-and-los-angeles-county-beaches-from-sunday-to-tuesday/",
+        "title": "Coastal flood advisory issued for Malibu and Los Angeles County Beaches from Sunday to Tuesday",
+        "source": "Los Angeles Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-10T07:00:00Z",
+        "url": "https://www.dailynews.com/2026/10/10/coastal-flood-advisory-issued-for-malibu-and-los-angeles-county-beaches-from-sunday-to-tuesday/",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-10-21T11:12:58.752951+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.849423,
+          32.32817
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.krqe.com/video/nws-flash-flood-emergency-issued-in-do%C3%B1a-ana-county-%E2%80%98for-the-imminent-failure%E2%80%99-of-dam/12219043/",
+        "title": "NWS: Flash flood emergency issued in Do\u00f1a Ana County \u2018for the imminent failure\u2019 of dam",
+        "source": "KRQE",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T07:00:00Z",
+        "url": "https://www.krqe.com/video/nws-flash-flood-emergency-issued-in-do%C3%B1a-ana-county-%E2%80%98for-the-imminent-failure%E2%80%99-of-dam/12219043/",
+        "mention_text": "Do\u00f1a Ana County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Do\u00f1a Ana County, New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832188,
+        "run_at": "2026-10-21T11:12:58.752951+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-10-20T11:00:29.489529+00:00",
-    "total_features": 5324
+    "last_updated": "2026-10-21T11:12:58.780286+00:00",
+    "total_features": 5336
   }
 }
