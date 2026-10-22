@@ -138736,11 +138736,505 @@
         "osm_id": 1832188,
         "run_at": "2026-10-21T11:12:58.752951+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.985823,
+          34.7136533
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317726547.html",
+        "title": "UPDATE: The current flash flood warning for Santa Barbara County will expire at 2 a.m.",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-22T09:10:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317726547.html",
+        "mention_text": "Santa Barbara County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Santa Barbara County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396510,
+        "run_at": "2026-10-22T11:13:34.002037+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7366556,
+          39.0101738
+        ]
+      },
+      "properties": {
+        "article_id": "https://texasstormchasers.com/forecast/flash-flood-risk-for-the-panhandle-and-west-texas-this-weekend-texas-weather-roundup/",
+        "title": "Flash Flood Risk for the Panhandle and West Texas This Weekend | Texas Weather Roundup",
+        "source": "Texas Storm Chasers",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-21T17:27:31Z",
+        "url": "https://texasstormchasers.com/forecast/flash-flood-risk-for-the-panhandle-and-west-texas-this-weekend-texas-weather-roundup/",
+        "mention_text": "Weekend",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Weekend Island, Lake County, California, 95443, United States",
+        "osm_type": "island",
+        "osm_id": 358800573,
+        "run_at": "2026-10-22T11:13:34.002037+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://texasstormchasers.com/forecast/flash-flood-risk-for-the-panhandle-and-west-texas-this-weekend-texas-weather-roundup/",
+        "title": "Flash Flood Risk for the Panhandle and West Texas This Weekend | Texas Weather Roundup",
+        "source": "Texas Storm Chasers",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-21T17:27:31Z",
+        "url": "https://texasstormchasers.com/forecast/flash-flood-risk-for-the-panhandle-and-west-texas-this-weekend-texas-weather-roundup/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-10-22T11:13:34.002037+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.702667,
+          34.4221319
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.noozhawk.com/storm-hits-santa-barbara-with-a-fury/",
+        "title": "Flash Flood Warning for Santa Barbara as Storm Hits \u2018With a Fury\u2019",
+        "source": "Noozhawk",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-21T16:38:00Z",
+        "url": "https://www.noozhawk.com/storm-hits-santa-barbara-with-a-fury/",
+        "mention_text": "Santa Barbara",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Santa Barbara, Santa Barbara County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 112224,
+        "run_at": "2026-10-22T11:13:34.002037+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1496048,
+          40.5834557
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/weather/2026/10/nyc-weather-flood-warning-issued-staten-island-through-wednesday.html",
+        "title": "NYC Weather: Flood warning issued Staten Island through Wednesday",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-21T13:29:00Z",
+        "url": "https://www.silive.com/weather/2026/10/nyc-weather-flood-warning-issued-staten-island-through-wednesday.html",
+        "mention_text": "Staten Island",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Staten Island, Richmond County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 9691948,
+        "run_at": "2026-10-22T11:13:34.002037+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.abc4.com/utah-weather/flash-flood-threat-remains-southern-utah/",
+        "title": "Utah weather: Flash flood threat remains in southern Utah",
+        "source": "ABC4 Utah",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-09-29T07:00:00Z",
+        "url": "https://www.abc4.com/utah-weather/flash-flood-threat-remains-southern-utah/",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-10-22T11:13:34.002037+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2427676,
+          34.0536923
+        ]
+      },
+      "properties": {
+        "article_id": "https://m.economictimes.com/news/international/world-news/los-angeles-braces-for-rare-tornado-threat-as-major-storm-brings-heavy-rain-flash-flood-warnings/articleshow/135095765.cms",
+        "title": "Los Angeles braces for rare tornado threat as major storm brings heavy rain, flash flood warnings",
+        "source": "The Economic Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-21T15:51:46Z",
+        "url": "https://m.economictimes.com/news/international/world-news/los-angeles-braces-for-rare-tornado-threat-as-major-storm-brings-heavy-rain-flash-flood-warnings/articleshow/135095765.cms",
+        "mention_text": "Los Angeles",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-10-22T11:13:34.002037+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4138362,
+          28.0599999
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.miamiherald.com/news/weather-news/article317727407.html",
+        "title": "Weather alert: Flood advisory issued for South Florida with rain, king tide",
+        "source": "Miami Herald",
+        "outlet_city": "Miami",
+        "outlet_region": "Florida",
+        "published_at": "2026-10-22T09:04:56Z",
+        "url": "https://www.miamiherald.com/news/weather-news/article317727407.html",
+        "mention_text": "South Florida",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "University of South Florida, 4202, East Fowler Avenue, Tampa, Hillsborough County, Florida, 33620, United States",
+        "osm_type": "university",
+        "osm_id": 31675479,
+        "run_at": "2026-10-22T11:13:34.002037+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9220813,
+          35.1279594
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317713376.html",
+        "title": "UPDATE: Ocracoke Island placed under a coastal flood advisory until Thursday morning",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-22T00:54:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317713376.html",
+        "mention_text": "Ocracoke Island",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ocracoke Island, Ocracoke, Hyde County, North Carolina, 27960, United States",
+        "osm_type": "island",
+        "osm_id": 7454511,
+        "run_at": "2026-10-22T11:13:34.002037+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailynews.com/2026/10/21/flood-advisory-in-place-for-los-angeles-county-until-wednesday-evening-caused-by-intense-downpours/",
+        "title": "Flood advisory in place for Los Angeles County until Wednesday evening caused by intense downpours",
+        "source": "Los Angeles Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-21T22:41:22Z",
+        "url": "https://www.dailynews.com/2026/10/21/flood-advisory-in-place-for-los-angeles-county-until-wednesday-evening-caused-by-intense-downpours/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-10-22T11:13:34.002037+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7670374,
+          39.1663259
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.2news.com/news/local/flood-advisory-issued-for-carson-city-southern-washoe-county/article_f57f722c-ad5b-49dc-aacd-efeea5725255.html",
+        "title": "Flood Advisory issued for Carson City, southern Washoe County",
+        "source": "KTVN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-21T23:19:00Z",
+        "url": "https://www.2news.com/news/local/flood-advisory-issued-for-carson-city-southern-washoe-county/article_f57f722c-ad5b-49dc-aacd-efeea5725255.html",
+        "mention_text": "Carson City",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Carson City, Nevada, United States",
+        "osm_type": "administrative",
+        "osm_id": 166460,
+        "run_at": "2026-10-22T11:13:34.002037+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6131606,
+          40.5849048
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.2news.com/news/local/flood-advisory-issued-for-carson-city-southern-washoe-county/article_f57f722c-ad5b-49dc-aacd-efeea5725255.html",
+        "title": "Flood Advisory issued for Carson City, southern Washoe County",
+        "source": "KTVN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-21T23:19:00Z",
+        "url": "https://www.2news.com/news/local/flood-advisory-issued-for-carson-city-southern-washoe-county/article_f57f722c-ad5b-49dc-aacd-efeea5725255.html",
+        "mention_text": "Washoe County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Washoe County, Nevada, United States",
+        "osm_type": "administrative",
+        "osm_id": 166456,
+        "run_at": "2026-10-22T11:13:34.002037+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2427676,
+          34.0536923
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article317723725.html",
+        "title": "Flood advisory issued for Los Angeles until Wednesday evening, says the NWS",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-21T22:55:10Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article317723725.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-10-22T11:13:34.002037+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.853722,
+          39.5158825
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317724562.html",
+        "title": "UPDATE: Flood advisory previously issued for Nevada and Sierra counties will expire at 6:45 p.m.",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-22T01:54:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317724562.html",
+        "mention_text": "Nevada",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Nevada, United States",
+        "osm_type": "administrative",
+        "osm_id": 165473,
+        "run_at": "2026-10-22T11:13:34.002037+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8449946,
+          43.1561681
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/ny-state/2026/10/ny-weather-coastal-flood-advisory-issued-for-long-island-this-week.html",
+        "title": "N.Y. Weather: Coastal flood advisory issued for Long Island this week",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-21T11:36:00Z",
+        "url": "https://www.silive.com/ny-state/2026/10/ny-weather-coastal-flood-advisory-issued-for-long-island-this-week.html",
+        "mention_text": "N.Y.",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 61320,
+        "run_at": "2026-10-22T11:13:34.002037+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0994297,
+          40.8514971
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.silive.com/ny-state/2026/10/ny-weather-coastal-flood-advisory-issued-for-long-island-this-week.html",
+        "title": "N.Y. Weather: Coastal flood advisory issued for Long Island this week",
+        "source": "SILive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-21T11:36:00Z",
+        "url": "https://www.silive.com/ny-state/2026/10/ny-weather-coastal-flood-advisory-issued-for-long-island-this-week.html",
+        "mention_text": "Long Island",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Long Island, New York, United States",
+        "osm_type": "island",
+        "osm_id": 3955977,
+        "run_at": "2026-10-22T11:13:34.002037+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0779359,
+          34.4458248
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317582175.html",
+        "title": "UPDATE: Coastal flood advisory active for Ventura County Beaches Tuesday afternoon",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-13T20:59:08Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317582175.html",
+        "mention_text": "Ventura County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ventura County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396505,
+        "run_at": "2026-10-22T11:13:34.002037+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9001941,
+          32.4821843
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317573437.html",
+        "title": "UPDATE: Coastal flood advisory for Catalina and Santa Barbara Islands Tuesday afternoon",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-13T07:00:00Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317573437.html",
+        "mention_text": "Catalina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Catalina, Pima County, Arizona, United States",
+        "osm_type": "census",
+        "osm_id": 11180516,
+        "run_at": "2026-10-22T11:13:34.002037+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.702667,
+          34.4221319
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317573437.html",
+        "title": "UPDATE: Coastal flood advisory for Catalina and Santa Barbara Islands Tuesday afternoon",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-13T07:00:00Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317573437.html",
+        "mention_text": "Santa Barbara",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Santa Barbara, Santa Barbara County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 112224,
+        "run_at": "2026-10-22T11:13:34.002037+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-10-21T11:12:58.780286+00:00",
-    "total_features": 5336
+    "last_updated": "2026-10-22T11:13:34.031354+00:00",
+    "total_features": 5355
   }
 }
