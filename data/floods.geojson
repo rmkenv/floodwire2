@@ -139230,11 +139230,661 @@
         "osm_id": 112224,
         "run_at": "2026-10-22T11:13:34.002037+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8155355,
+          36.6713502
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317740114.html",
+        "title": "UPDATE: The flash flood warning for Fresno County is forecast to expire at 6:15 p.m.",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-23T01:36:08Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317740114.html",
+        "mention_text": "Fresno County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Fresno County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396492,
+        "run_at": "2026-10-23T11:04:47.420344+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1204004,
+          33.1184608
+        ]
+      },
+      "properties": {
+        "article_id": "https://gephardtdaily.com/local/flash-flood-warnings-continue-in-southern-utah/",
+        "title": "Flash flood warnings continue in Southern Utah",
+        "source": "Gephardt Daily",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-22T20:39:00Z",
+        "url": "https://gephardtdaily.com/local/flash-flood-warnings-continue-in-southern-utah/",
+        "mention_text": "Southern Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah Street, Southern Acres Addition, Greenville, Hunt County, Texas, 75401, United States",
+        "osm_type": "residential",
+        "osm_id": 9564017,
+        "run_at": "2026-10-23T11:04:47.420344+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azfamily.com/video/2026/10/23/tornado-watch-flash-flood-threat-remain-arizona-what-know/",
+        "title": "Tornado watch, flash flood threat remain in Arizona: What to know",
+        "source": "AZ Family",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-23T00:17:00Z",
+        "url": "https://www.azfamily.com/video/2026/10/23/tornado-watch-flash-flood-threat-remain-arizona-what-know/",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-10-23T11:04:47.420344+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3936114,
+          30.2226352
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.abc4.com/news/southern-utah/flash-flood-warning-la-verkin-virgin/",
+        "title": "Flash flood warnings issued for much of Washington County Thursday morning, evacuations ordered in Hurricane",
+        "source": "ABC4 Utah",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-22T13:32:13Z",
+        "url": "https://www.abc4.com/news/southern-utah/flash-flood-warning-la-verkin-virgin/",
+        "mention_text": "Washington County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Washington County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1837751,
+        "run_at": "2026-10-23T11:04:47.420344+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.755997,
+          36.7014631
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.facebook.com/NWSLosAngeles/posts/locally-heavy-rainfall-potential-will-continue-acrossthe-transverse-range-and-ad/1570122228477022/",
+        "title": "\"Locally heavy rainfall potential will continue across the Transverse Range and adjacent coastal areas of southwestern California over the next several hours. Rainfall rates between 0.5-1\"/hr are possible, allowing for isolated to widely scattered flash flood cha",
+        "source": "Facebook",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-21T23:37:56Z",
+        "url": "https://www.facebook.com/NWSLosAngeles/posts/locally-heavy-rainfall-potential-will-continue-acrossthe-transverse-range-and-ad/1570122228477022/",
+        "mention_text": "California",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "California, United States",
+        "osm_type": "administrative",
+        "osm_id": 165475,
+        "run_at": "2026-10-23T11:04:47.420344+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2427676,
+          34.0536923
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317736436.html",
+        "title": "Los Angeles under a flash flood warning Thursday afternoon triggered by thunderstorms",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-22T18:45:08Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317736436.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-10-23T11:04:47.420344+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.presstelegram.com/2026/10/22/flash-flood-warning-for-los-angeles-county-thursday-afternoon-due-to-thunderstorms/",
+        "title": "Flash flood warning for Los Angeles County Thursday afternoon due to thunderstorms",
+        "source": "Press Telegram",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-22T19:19:46Z",
+        "url": "https://www.presstelegram.com/2026/10/22/flash-flood-warning-for-los-angeles-county-thursday-afternoon-due-to-thunderstorms/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-10-23T11:04:47.420344+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/tornado-flash-flood-watches-issued-194655831.html",
+        "title": "Tornado and flash flood watches issued in Arizona",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-22T19:46:55Z",
+        "url": "https://www.yahoo.com/news/videos/tornado-flash-flood-watches-issued-194655831.html",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-10-23T11:04:47.420344+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1484131,
+          36.1674263
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.natureworldnews.com/articles/73619/20261022/las-vegas-already-has-nearly-four-times-its-usual-october-rain-new-storm-puts-southwest-colorado.htm",
+        "title": "Las Vegas Already Has Nearly Four Times Its Usual October Rain, and a New Storm Puts Southwest Colorado Under a Moderate Flash Flood Risk",
+        "source": "Nature World News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-22T19:31:21Z",
+        "url": "https://www.natureworldnews.com/articles/73619/20261022/las-vegas-already-has-nearly-four-times-its-usual-october-rain-new-storm-puts-southwest-colorado.htm",
+        "mention_text": "Las Vegas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Las Vegas, Clark County, Nevada, United States",
+        "osm_type": "administrative",
+        "osm_id": 170117,
+        "run_at": "2026-10-23T11:04:47.420344+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/severe-warned-supercells-lead-flash-005559251.html",
+        "title": "Severe-warned supercells lead to flash flood threat for another day in Arizona",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-23T00:55:00Z",
+        "url": "https://www.yahoo.com/news/videos/severe-warned-supercells-lead-flash-005559251.html",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-10-23T11:04:47.420344+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2599081,
+          34.2189515
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317575555.html",
+        "title": "UPDATE: Flash flood warning active for Western North Carolina Sunday midday",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-11T07:00:00Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317575555.html",
+        "mention_text": "Western North Carolina",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Western Drive, Bishopville, Lee County, South Carolina, 29010, United States",
+        "osm_type": "residential",
+        "osm_id": 12470936,
+        "run_at": "2026-10-23T11:04:47.420344+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/miami/news/south-florida-king-tides-flooding-hollywood-fort-lauderdale-preparations/",
+        "title": "South Florida braces for king tide flooding as heavy rain, onshore winds threaten the coast",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-22T22:20:03Z",
+        "url": "https://www.cbsnews.com/miami/news/south-florida-king-tides-flooding-hollywood-fort-lauderdale-preparations/",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-10-23T11:04:47.420344+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8463851,
+          37.1670484
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.usatoday.com/story/news/state/florida/2026/10/22/florida-flood-advisory-king-tides-miami-fort-lauderdale/92376709007/",
+        "title": "Flood advisory in effect for South Florida, king tides to return",
+        "source": "USA Today",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-22T12:16:00Z",
+        "url": "https://www.usatoday.com/story/news/state/florida/2026/10/22/florida-flood-advisory-king-tides-miami-fort-lauderdale/92376709007/",
+        "mention_text": "South Florida",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "South Florida, Columbus, Cherokee County, Kansas, 66725, United States",
+        "osm_type": "residential",
+        "osm_id": 12999746,
+        "run_at": "2026-10-23T11:04:47.420344+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.7678602,
+          37.1641544
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317741378.html",
+        "title": "UPDATE: Flood advisory issued for Merced County Thursday evening, says the NWS",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-23T02:05:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317741378.html",
+        "mention_text": "Merced County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Merced County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396504,
+        "run_at": "2026-10-23T11:04:47.420344+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4805684,
+          35.4849292
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317741301.html",
+        "title": "Coastal flood advisory active for Hatteras Island until Friday evening",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-23T00:33:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317741301.html",
+        "mention_text": "Hatteras Island",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hatteras Island, Hatteras, Dare County, North Carolina, United States",
+        "osm_type": "island",
+        "osm_id": 1140928,
+        "run_at": "2026-10-23T11:04:47.420344+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4074712,
+          36.5595325
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article317725673.html",
+        "title": "UPDATE: Flood advisory for Inyo County forecast to expire at 5 p.m., says the NWS",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-23T00:16:07Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article317725673.html",
+        "mention_text": "Inyo County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Inyo County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396491,
+        "run_at": "2026-10-23T11:04:47.420344+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2427676,
+          34.0536923
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.presstelegram.com/2026/10/22/update-flood-advisory-for-los-angeles-and-ventura-counties-thursday-midday-caused-by-prolonged-rainfall/",
+        "title": "Update: Flood advisory for Los Angeles and Ventura counties Thursday midday caused by prolonged rainfall",
+        "source": "Press Telegram",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-23T06:56:15Z",
+        "url": "https://www.presstelegram.com/2026/10/22/update-flood-advisory-for-los-angeles-and-ventura-counties-thursday-midday-caused-by-prolonged-rainfall/",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-10-23T11:04:47.420344+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0779359,
+          34.4458248
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.presstelegram.com/2026/10/22/update-flood-advisory-for-los-angeles-and-ventura-counties-thursday-midday-caused-by-prolonged-rainfall/",
+        "title": "Update: Flood advisory for Los Angeles and Ventura counties Thursday midday caused by prolonged rainfall",
+        "source": "Press Telegram",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-23T06:56:15Z",
+        "url": "https://www.presstelegram.com/2026/10/22/update-flood-advisory-for-los-angeles-and-ventura-counties-thursday-midday-caused-by-prolonged-rainfall/",
+        "mention_text": "Ventura",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ventura County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396505,
+        "run_at": "2026-10-23T11:04:47.420344+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8463851,
+          37.1670484
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bradenton.com/news/nation-world/national/article317729985.html",
+        "title": "Flood advisory in effect for South Florida, king tides to return",
+        "source": "Bradenton Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-22T12:17:00Z",
+        "url": "https://www.bradenton.com/news/nation-world/national/article317729985.html",
+        "mention_text": "South Florida",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "South Florida, Columbus, Cherokee County, Kansas, 66725, United States",
+        "osm_type": "residential",
+        "osm_id": 12999746,
+        "run_at": "2026-10-23T11:04:47.420344+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2427676,
+          34.0536923
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article317723725.html",
+        "title": "Flood advisory issued for Los Angeles until Wednesday evening, says the NWS",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-21T22:55:10Z",
+        "url": "https://www.modbee.com/news/weather-news/article317723725.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-10-23T11:04:47.420344+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0149931,
+          44.9285276
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article317743301.html",
+        "title": "Coastal flood advisory issued for Southeast Coast until Friday morning",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-23T06:42:05Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article317743301.html",
+        "mention_text": "Southeast Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oregon Coast Highway, Taft, Lincoln City, Lincoln County, Oregon, 97367, United States",
+        "osm_type": "trunk",
+        "osm_id": 458933020,
+        "run_at": "2026-10-23T11:04:47.420344+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8155355,
+          36.6713502
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317736063.html",
+        "title": "UPDATE: Flood advisory affecting Fresno County Thursday evening, says the NWS",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-22T22:28:08Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317736063.html",
+        "mention_text": "Fresno County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Fresno County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396492,
+        "run_at": "2026-10-23T11:04:47.420344+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.753822,
+          35.3145701
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317737684.html",
+        "title": "Flood advisory issued for Kern County until Thursday afternoon due to prolonged rain",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-22T19:58:08Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317737684.html",
+        "mention_text": "Kern County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kern County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396494,
+        "run_at": "2026-10-23T11:04:47.420344+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.242889,
+          34.4480495
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ojaivalleynews.com/news/county/flood-advisory-in-ojai-with-rock-and-mudslide-reported-on-laguna-ridge-fire-rd/article_bb967c42-005b-44dc-a8c6-3e4781e9c5cb.html",
+        "title": "Flood advisory in Ojai with rock and mudslide reported on Laguna Ridge Fire Rd.",
+        "source": "Ojai Valley News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-22T16:46:00Z",
+        "url": "https://www.ojaivalleynews.com/news/county/flood-advisory-in-ojai-with-rock-and-mudslide-reported-on-laguna-ridge-fire-rd/article_bb967c42-005b-44dc-a8c6-3e4781e9c5cb.html",
+        "mention_text": "Ojai",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ojai, Ventura County, California, 93023, United States",
+        "osm_type": "administrative",
+        "osm_id": 112581,
+        "run_at": "2026-10-23T11:04:47.420344+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.3638116,
+          34.3996102
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ojaivalleynews.com/news/county/flood-advisory-in-ojai-with-rock-and-mudslide-reported-on-laguna-ridge-fire-rd/article_bb967c42-005b-44dc-a8c6-3e4781e9c5cb.html",
+        "title": "Flood advisory in Ojai with rock and mudslide reported on Laguna Ridge Fire Rd.",
+        "source": "Ojai Valley News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-22T16:46:00Z",
+        "url": "https://www.ojaivalleynews.com/news/county/flood-advisory-in-ojai-with-rock-and-mudslide-reported-on-laguna-ridge-fire-rd/article_bb967c42-005b-44dc-a8c6-3e4781e9c5cb.html",
+        "mention_text": "Laguna Ridge Fire Rd",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Laguna Ridge Fire Road, Ventura County, California, 93001, United States",
+        "osm_type": "service",
+        "osm_id": 10728514,
+        "run_at": "2026-10-23T11:04:47.420344+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-10-22T11:13:34.031354+00:00",
-    "total_features": 5355
+    "last_updated": "2026-10-23T11:04:47.448362+00:00",
+    "total_features": 5380
   }
 }
