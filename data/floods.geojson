@@ -139880,11 +139880,531 @@
         "osm_id": 10728514,
         "run_at": "2026-10-23T11:04:47.420344+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2776758,
+          25.7194885
+        ]
+      },
+      "properties": {
+        "article_id": "https://abc7.com/story/coastal-flood-warning-issued-unusually-high-tides-approach-southern-california-beach-communities/19973916/",
+        "title": "Coastal flood warning issued as SoCal beach communities brace for more unusually high tides",
+        "source": "ABC7 Los Angeles",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-24T01:30:31Z",
+        "url": "https://abc7.com/story/coastal-flood-warning-issued-unusually-high-tides-approach-southern-california-beach-communities/19973916/",
+        "mention_text": "SoCal",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Socal Cantina, 1306, Stanford Drive, Coral Gables, Miami-Dade County, Florida, 33146, United States",
+        "osm_type": "restaurant",
+        "osm_id": 12134973671,
+        "run_at": "2026-10-24T10:20:35.794774+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2684063,
+          34.9550817
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.news9.com/oklahoma-city-news/oklahoma-sends-rescue-teams-to-new-mexico",
+        "title": "Oklahoma sends swift water rescue teams to New Mexico amid flooding",
+        "source": "News 9",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-23T23:47:25Z",
+        "url": "https://www.news9.com/oklahoma-city-news/oklahoma-sends-rescue-teams-to-new-mexico",
+        "mention_text": "Oklahoma",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Oklahoma, United States",
+        "osm_type": "administrative",
+        "osm_id": 161645,
+        "run_at": "2026-10-24T10:20:35.794774+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.996047,
+          34.5802074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.news9.com/oklahoma-city-news/oklahoma-sends-rescue-teams-to-new-mexico",
+        "title": "Oklahoma sends swift water rescue teams to New Mexico amid flooding",
+        "source": "News 9",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-23T23:47:25Z",
+        "url": "https://www.news9.com/oklahoma-city-news/oklahoma-sends-rescue-teams-to-new-mexico",
+        "mention_text": "New Mexico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 162014,
+        "run_at": "2026-10-24T10:20:35.794774+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2684063,
+          34.9550817
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newson6.com/tulsa-oklahoma-news/oklahoma-sends-24-swift-water-rescue-team-members-to-new-mexico",
+        "title": "Oklahoma sends 24 swift water rescue team members to New Mexico",
+        "source": "News On 6",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-23T23:55:37Z",
+        "url": "https://www.newson6.com/tulsa-oklahoma-news/oklahoma-sends-24-swift-water-rescue-team-members-to-new-mexico",
+        "mention_text": "Oklahoma",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Oklahoma, United States",
+        "osm_type": "administrative",
+        "osm_id": 161645,
+        "run_at": "2026-10-24T10:20:35.794774+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.996047,
+          34.5802074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newson6.com/tulsa-oklahoma-news/oklahoma-sends-24-swift-water-rescue-team-members-to-new-mexico",
+        "title": "Oklahoma sends 24 swift water rescue team members to New Mexico",
+        "source": "News On 6",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-23T23:55:37Z",
+        "url": "https://www.newson6.com/tulsa-oklahoma-news/oklahoma-sends-24-swift-water-rescue-team-members-to-new-mexico",
+        "mention_text": "New Mexico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 162014,
+        "run_at": "2026-10-24T10:20:35.794774+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/2026/10/23/storms/severe/video/hurricane-utah-flash-flood-horses-mud",
+        "title": "Hurricane, Utah flash flood: Neighbors lead horses to safety",
+        "source": "Weather.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-23T14:58:05Z",
+        "url": "https://weather.com/2026/10/23/storms/severe/video/hurricane-utah-flash-flood-horses-mud",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-10-24T10:20:35.794774+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1935973,
+          25.7741566
+        ]
+      },
+      "properties": {
+        "article_id": "https://hoodline.com/2026/10/king-tides-storms-raise-flooding-risk-near-miami-beach-this-weekend/",
+        "title": "Miami Weather Brings King Tide Flooding And Strong Storms",
+        "source": "Hoodline",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-23T18:27:48Z",
+        "url": "https://hoodline.com/2026/10/king-tides-storms-raise-flooding-risk-near-miami-beach-this-weekend/",
+        "mention_text": "Miami",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Miami, Miami-Dade County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1216769,
+        "run_at": "2026-10-24T10:20:35.794774+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8722311,
+          33.750631
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article317757292.html",
+        "title": "Flood advisory issued for Orange County Friday evening due to prolonged rainfall",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-24T01:48:07Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article317757292.html",
+        "mention_text": "Orange County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Orange County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396466,
+        "run_at": "2026-10-24T10:20:35.794774+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8406115,
+          33.5750235
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317753409.html",
+        "title": "Crystal Coast placed under a coastal flood advisory from Saturday to Monday",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-23T20:17:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317753409.html",
+        "mention_text": "Crystal Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Crystal Cove Historic District, Newport Coast, Newport Beach, Orange County, California, 92667, United States",
+        "osm_type": "park",
+        "osm_id": 358829997,
+        "run_at": "2026-10-24T10:20:35.794774+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailynews.com/2026/10/23/los-angeles-county-beaches-under-a-coastal-flood-advisory-from-sunday-to-thursday/",
+        "title": "Los Angeles County beaches under a coastal flood advisory from Sunday to Thursday",
+        "source": "Los Angeles Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-23T19:28:23Z",
+        "url": "https://www.dailynews.com/2026/10/23/los-angeles-county-beaches-under-a-coastal-flood-advisory-from-sunday-to-thursday/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-10-24T10:20:35.794774+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/10/23/coastal-flood-advisory-for-north-bay-and-san-francisco-peninsula-coast-from-monday-to-thursday/",
+        "title": "Coastal flood advisory for North Bay and San Francisco Peninsula Coast from Monday to Thursday",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-23T19:50:37Z",
+        "url": "https://www.eastbaytimes.com/2026/10/23/coastal-flood-advisory-for-north-bay-and-san-francisco-peninsula-coast-from-monday-to-thursday/",
+        "mention_text": "North Bay",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-10-24T10:20:35.794774+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4291882,
+          37.7863765
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/10/23/coastal-flood-advisory-for-northern-california-from-saturday-to-thursday/",
+        "title": "Coastal flood advisory for Northern California from Saturday to Thursday",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-23T19:50:33Z",
+        "url": "https://www.mercurynews.com/2026/10/23/coastal-flood-advisory-for-northern-california-from-saturday-to-thursday/",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Japanese American Association of Northern California, 1759, Sutter Street, Japantown, Western Addition, San Francisco, California, 95115, United States",
+        "osm_type": "yes",
+        "osm_id": 257960526,
+        "run_at": "2026-10-24T10:20:35.794774+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.753822,
+          35.3145701
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article317755534.html",
+        "title": "Flood advisory issued for Kern County early Friday evening triggered by persistent rain",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-23T22:33:11Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article317755534.html",
+        "mention_text": "Kern County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kern County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396494,
+        "run_at": "2026-10-24T10:20:35.794774+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317743230.html",
+        "title": "UPDATE: Coastal flood advisory affecting Coastal Colleton and Charleston County until Friday night",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-23T18:27:08Z",
+        "url": "https://www.thestate.com/news/weather-news/article317743230.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-10-24T10:20:35.794774+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4291882,
+          37.7863765
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317753337.html",
+        "title": "Coastal flood advisory in place for Northern California from Saturday to Thursday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-23T20:11:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317753337.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Japanese American Association of Northern California, 1759, Sutter Street, Japantown, Western Addition, San Francisco, California, 95115, United States",
+        "osm_type": "yes",
+        "osm_id": 257960526,
+        "run_at": "2026-10-24T10:20:35.794774+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2062682,
+          33.9510011
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317753031.html",
+        "title": "Southern California placed under a coastal flood advisory from Sunday to Thursday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-23T19:49:08Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317753031.html",
+        "mention_text": "Southern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Southern @ California, Southern Avenue, South Gate, Los Angeles County, California, 90280, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 11056179472,
+        "run_at": "2026-10-24T10:20:35.794774+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4074712,
+          36.5595325
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317725673.html",
+        "title": "UPDATE: Flood advisory for Inyo County forecast to expire at 5 p.m., says the NWS",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-23T00:16:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317725673.html",
+        "mention_text": "Inyo County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Inyo County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396491,
+        "run_at": "2026-10-24T10:20:35.794774+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2427676,
+          34.0536923
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317723725.html",
+        "title": "UPDATE: Flood advisory active for Los Angeles until 2 a.m. Thursday due to excessive rain",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-22T05:08:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317723725.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-10-24T10:20:35.794774+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2427676,
+          34.0536923
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailynews.com/2026/10/22/update-flood-advisory-for-los-angeles-and-ventura-counties-thursday-midday-caused-by-prolonged-rainfall/",
+        "title": "Update: Flood advisory for Los Angeles and Ventura counties Thursday midday caused by prolonged rainfall",
+        "source": "Los Angeles Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-22T16:14:38Z",
+        "url": "https://www.dailynews.com/2026/10/22/update-flood-advisory-for-los-angeles-and-ventura-counties-thursday-midday-caused-by-prolonged-rainfall/",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-10-24T10:20:35.794774+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0779359,
+          34.4458248
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailynews.com/2026/10/22/update-flood-advisory-for-los-angeles-and-ventura-counties-thursday-midday-caused-by-prolonged-rainfall/",
+        "title": "Update: Flood advisory for Los Angeles and Ventura counties Thursday midday caused by prolonged rainfall",
+        "source": "Los Angeles Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-22T16:14:38Z",
+        "url": "https://www.dailynews.com/2026/10/22/update-flood-advisory-for-los-angeles-and-ventura-counties-thursday-midday-caused-by-prolonged-rainfall/",
+        "mention_text": "Ventura",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ventura County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396505,
+        "run_at": "2026-10-24T10:20:35.794774+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-10-23T11:04:47.448362+00:00",
-    "total_features": 5380
+    "last_updated": "2026-10-24T10:20:35.822632+00:00",
+    "total_features": 5400
   }
 }
