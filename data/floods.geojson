@@ -143182,11 +143182,1025 @@
         "osm_id": 111968,
         "run_at": "2026-10-28T12:08:58.072170+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox10phoenix.com/weather/arizona-weather-forecast-102826",
+        "title": "Arizona weather forecast: Rain, flash flood threat moving in for the weekend",
+        "source": "FOX 10 Phoenix",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-28T14:27:35Z",
+        "url": "https://www.fox10phoenix.com/weather/arizona-weather-forecast-102826",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/hurricane/tropical-rainstorm-olana-bringing-dangerous-flash-flood-risks-to-hawaii/1951984",
+        "title": "Tropical Rainstorm Olana bringing dangerous flash flood risks to Hawaii",
+        "source": "AccuWeather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-28T15:44:26Z",
+        "url": "https://www.accuweather.com/en/hurricane/tropical-rainstorm-olana-bringing-dangerous-flash-flood-risks-to-hawaii/1951984",
+        "mention_text": "Hawaii",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.khon2.com/video/nws-raises-flash-flood-risk-for-o%CA%BBahu-maui-through-wednesday/12313694/",
+        "title": "NWS raises flash flood risk for O\u02bbahu, Maui through Wednesday",
+        "source": "KHON2",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-28T16:57:12Z",
+        "url": "https://www.khon2.com/video/nws-raises-flash-flood-risk-for-o%CA%BBahu-maui-through-wednesday/12313694/",
+        "mention_text": "Maui",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8093831,
+          26.159503
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/tropical-threat-looms-hawaii-bracing-days-heavy-rain-flooding",
+        "title": "Flood Watch issued across Hawaiian Islands as remnants of Olana soak the Aloha State with intense downpours",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-28T15:22:00Z",
+        "url": "https://www.foxweather.com/weather-news/tropical-threat-looms-hawaii-bracing-days-heavy-rain-flooding",
+        "mention_text": "Olana",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Olana, Coquina Sands, Naples, Collier County, Florida, United States",
+        "osm_type": "construction",
+        "osm_id": 1481546592,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8463851,
+          37.1670484
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/weather-alert-coastal-flood-warning-114420766.html",
+        "title": "Weather alert: Coastal flood warning issued in South Florida for king tide",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-28T11:44:20Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/weather-alert-coastal-flood-warning-114420766.html",
+        "mention_text": "South Florida",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "South Florida, Columbus, Cherokee County, Kansas, 66725, United States",
+        "osm_type": "residential",
+        "osm_id": 12999746,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4283701,
+          19.5938015
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox.com/watch/clip/fmc-mpe5qlchczr21imy/hawaii-faces-heavy-rain-and-flash-flood-threat",
+        "title": "Watch Hawaii faces heavy rain and flash flood threat - America's Weather Center",
+        "source": "FOX One",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-27T18:34:22Z",
+        "url": "https://www.fox.com/watch/clip/fmc-mpe5qlchczr21imy/hawaii-faces-heavy-rain-and-flash-flood-threat",
+        "mention_text": "Hawaii",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166563,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7110362,
+          43.7461923
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox.com/watch/clip/fmc-mpe5qlchczr21imy/hawaii-faces-heavy-rain-and-flash-flood-threat",
+        "title": "Watch Hawaii faces heavy rain and flash flood threat - America's Weather Center",
+        "source": "FOX One",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-27T18:34:22Z",
+        "url": "https://www.fox.com/watch/clip/fmc-mpe5qlchczr21imy/hawaii-faces-heavy-rain-and-flash-flood-threat",
+        "mention_text": "Weather Center",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Weather center, Riverfront Drive, South Pier District, Sheboygan, Sheboygan County, Wisconsin, 53081, United States",
+        "osm_type": "coffee",
+        "osm_id": 13946140701,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8463851,
+          37.1670484
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wpbf.com/article/king-tide-flooding-and-erosion-impact-south-florida/74278134",
+        "title": "King tide flooding and erosion impact South Florida",
+        "source": "WPBF",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-29T03:14:00Z",
+        "url": "https://www.wpbf.com/article/king-tide-flooding-and-erosion-impact-south-florida/74278134",
+        "mention_text": "South Florida",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "South Florida, Columbus, Cherokee County, Kansas, 66725, United States",
+        "osm_type": "residential",
+        "osm_id": 12999746,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/weather-news/florida-california-have-record-coastal-flooding-after-king-tide/1952382",
+        "title": "Florida, California have record coastal flooding after king tide",
+        "source": "AccuWeather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-28T20:17:00Z",
+        "url": "https://www.accuweather.com/en/weather-news/florida-california-have-record-coastal-flooding-after-king-tide/1952382",
+        "mention_text": "Florida",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.755997,
+          36.7014631
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/weather-news/florida-california-have-record-coastal-flooding-after-king-tide/1952382",
+        "title": "Florida, California have record coastal flooding after king tide",
+        "source": "AccuWeather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-28T20:17:00Z",
+        "url": "https://www.accuweather.com/en/weather-news/florida-california-have-record-coastal-flooding-after-king-tide/1952382",
+        "mention_text": "California",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "California, United States",
+        "osm_type": "administrative",
+        "osm_id": 165475,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1433786,
+          26.1223084
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcmiami.com/news/local/worst-of-king-tide-flooding-may-not-be-over-yet-fort-lauderdale-official-says/3879049/",
+        "title": "Worst of King Tide flooding may not be over yet, Fort Lauderdale official says",
+        "source": "NBC 6 South Florida",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-28T15:36:09Z",
+        "url": "https://www.nbcmiami.com/news/local/worst-of-king-tide-flooding-may-not-be-over-yet-fort-lauderdale-official-says/3879049/",
+        "mention_text": "Fort Lauderdale",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Fort Lauderdale, Broward County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 117955,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8463851,
+          37.1670484
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/miami/video/king-tide-flooding-reported-in-south-florida-for-third-day-but-conditions-are-improving/",
+        "title": "King tide flooding reported in South Florida for third day, but conditions are improving",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-28T16:52:00Z",
+        "url": "https://www.cbsnews.com/miami/video/king-tide-flooding-reported-in-south-florida-for-third-day-but-conditions-are-improving/",
+        "mention_text": "South Florida",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "South Florida, Columbus, Cherokee County, Kansas, 66725, United States",
+        "osm_type": "residential",
+        "osm_id": 12999746,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1433786,
+          26.1223084
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcmiami.com/video/video/fort-lauderdale-dealing-with-overflow-from-king-tide-flooding-wednesday/3879106/",
+        "title": "Fort Lauderdale dealing with overflow from king tide flooding Wednesday",
+        "source": "NBC 6 South Florida",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-28T16:36:09Z",
+        "url": "https://www.nbcmiami.com/video/video/fort-lauderdale-dealing-with-overflow-from-king-tide-flooding-wednesday/3879106/",
+        "mention_text": "Fort Lauderdale",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Fort Lauderdale, Broward County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 117955,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/historic-king-tide-flooding-florida-202709873.html",
+        "title": "Historic king tide flooding in Florida rivals water levels from Hurricane Wilma",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-28T20:27:09Z",
+        "url": "https://www.yahoo.com/news/videos/historic-king-tide-flooding-florida-202709873.html",
+        "mention_text": "Florida",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8463851,
+          37.1670484
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/miami/news/south-florida-weather-forecast-miami-fort-lauderdale-miami-dade-broward-king-tide-october-28-2026/",
+        "title": "King tide relief on the way after days of relentless high tide flooding across South Florida",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-28T12:31:00Z",
+        "url": "https://www.cbsnews.com/miami/news/south-florida-weather-forecast-miami-fort-lauderdale-miami-dade-broward-king-tide-october-28-2026/",
+        "mention_text": "South Florida",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "South Florida, Columbus, Cherokee County, Kansas, 66725, United States",
+        "osm_type": "residential",
+        "osm_id": 12999746,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wesh.com/article/florida-king-tides-flooding-beach-erosion-closures/74272060",
+        "title": "What is a king tide? Flooding, beach erosion and closures impact Florida",
+        "source": "WESH",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-28T14:58:00Z",
+        "url": "https://www.wesh.com/article/florida-king-tides-flooding-beach-erosion-closures/74272060",
+        "mention_text": "Florida",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317819909.html",
+        "title": "UPDATE: San Diego County Coastal Areas and Orange County Coastal under a coastal flood advisory",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-29T09:00:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317819909.html",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3558473,
+          37.7884969
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/sanfrancisco/video/high-tides-continue-to-flood-bay-area-communities-flood-advisory-extended/",
+        "title": "High tides continue to flood Bay Area communities; flood advisory extended",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-29T07:31:00Z",
+        "url": "https://www.cbsnews.com/sanfrancisco/video/high-tides-continue-to-flood-bay-area-communities-flood-advisory-extended/",
+        "mention_text": "Bay Area",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco Bay Area, San Francisco, California, 94130, United States",
+        "osm_type": "region",
+        "osm_id": 2157162589,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317826266.html",
+        "title": "Coastal flood advisory affecting Myrtle Beach area and Coastal Georgetown Thursday",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-29T02:33:06Z",
+        "url": "https://www.thestate.com/news/weather-news/article317826266.html",
+        "mention_text": "Myrtle Beach",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Myrtle Beach, Horry County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193842,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3595655,
+          38.6898781
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317826266.html",
+        "title": "Coastal flood advisory affecting Myrtle Beach area and Coastal Georgetown Thursday",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-29T02:33:06Z",
+        "url": "https://www.thestate.com/news/weather-news/article317826266.html",
+        "mention_text": "Coastal Georgetown",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Delaware Coastal Airport, Rudder Lane, Rogers Development, Georgetown, Sussex County, Delaware, 19947, United States",
+        "osm_type": "aerodrome",
+        "osm_id": 726617667,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3106833,
+          20.8029568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.staradvertiser.com/2026/10/28/breaking-news/flood-advisory-for-molokai-as-flood-watch-continues-statewide/",
+        "title": "Heavy showers pound Windward Oahu, Maui; most islands under flood watch",
+        "source": "Honolulu Star-Advertiser",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-29T08:13:01Z",
+        "url": "https://www.staradvertiser.com/2026/10/28/breaking-news/flood-advisory-for-molokai-as-flood-watch-continues-statewide/",
+        "mention_text": "Maui",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Maui, Maui County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3403431,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4074674,
+          47.5354964
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thenewstribune.com/news/weather-news/article317823706.html",
+        "title": "Flood advisory for Spokane County early Wednesday evening triggered by excessive rainfall",
+        "source": "Tacoma News Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-28T22:36:10Z",
+        "url": "https://www.thenewstribune.com/news/weather-news/article317823706.html",
+        "mention_text": "Spokane County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Spokane County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1150576,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3558473,
+          37.7884969
+        ]
+      },
+      "properties": {
+        "article_id": "https://fox40.com/video/bay-area-coastal-flood-advisory-in-effect/12308412/",
+        "title": "Bay Area coastal flood advisory in effect",
+        "source": "FOX40",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-29T06:12:31Z",
+        "url": "https://fox40.com/video/bay-area-coastal-flood-advisory-in-effect/12308412/",
+        "mention_text": "Bay Area",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco Bay Area, San Francisco, California, 94130, United States",
+        "osm_type": "region",
+        "osm_id": 2157162589,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1458063,
+          40.3941712
+        ]
+      },
+      "properties": {
+        "article_id": "https://wgno.com/weather/coastal-flood-advisory-until-thursday-morning-for-hancock-county/",
+        "title": "Coastal Flood Advisory until Thursday morning for Hancock County",
+        "source": "WGNO",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-29T03:00:58Z",
+        "url": "https://wgno.com/weather/coastal-flood-advisory-until-thursday-morning-for-hancock-county/",
+        "mention_text": "Hancock County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hancock County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1789870,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3558473,
+          37.7884969
+        ]
+      },
+      "properties": {
+        "article_id": "https://kioncentralcoast.com/news/2026/10/29/high-tides-continue-to-flood-bay-area-communities-flood-advisory-extended/",
+        "title": "High tides continue to flood Bay Area communities; flood advisory extended",
+        "source": "KION Central Coast",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-29T08:08:16Z",
+        "url": "https://kioncentralcoast.com/news/2026/10/29/high-tides-continue-to-flood-bay-area-communities-flood-advisory-extended/",
+        "mention_text": "Bay Area",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco Bay Area, San Francisco, California, 94130, United States",
+        "osm_type": "region",
+        "osm_id": 2157162589,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6908566,
+          33.4657158
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ocregister.com/2026/10/28/coastal-flood-advisory-for-orange-county-coast-and-san-diego-county-coastal-areas-for-thursday-and-friday/",
+        "title": "Coastal flood advisory for Orange County Coast and San Diego County Coastal Areas for Thursday and Friday",
+        "source": "Orange County Register",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-28T18:50:36Z",
+        "url": "https://www.ocregister.com/2026/10/28/coastal-flood-advisory-for-orange-county-coast-and-san-diego-county-coastal-areas-for-thursday-and-friday/",
+        "mention_text": "Orange County Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Orange County Creamery, 34255, Pacific Coast Highway, Toovunga, South Cove, Dana Point, Orange County, California, 92629, United States",
+        "osm_type": "ice_cream",
+        "osm_id": 13327327772,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ocregister.com/2026/10/28/coastal-flood-advisory-for-orange-county-coast-and-san-diego-county-coastal-areas-for-thursday-and-friday/",
+        "title": "Coastal flood advisory for Orange County Coast and San Diego County Coastal Areas for Thursday and Friday",
+        "source": "Orange County Register",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-28T18:50:36Z",
+        "url": "https://www.ocregister.com/2026/10/28/coastal-flood-advisory-for-orange-county-coast-and-san-diego-county-coastal-areas-for-thursday-and-friday/",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3558473,
+          37.7884969
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/sanfrancisco/video/coastal-flood-advisory-extended-as-record-high-bay-area-tides-continue/",
+        "title": "Coastal flood advisory extended as record high Bay Area tides continue",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-28T19:34:00Z",
+        "url": "https://www.cbsnews.com/sanfrancisco/video/coastal-flood-advisory-extended-as-record-high-bay-area-tides-continue/",
+        "mention_text": "Bay Area",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco Bay Area, San Francisco, California, 94130, United States",
+        "osm_type": "region",
+        "osm_id": 2157162589,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2062682,
+          33.9510011
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317819911.html",
+        "title": "Coastal flood advisory issued for Southern California until Friday afternoon",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-28T19:04:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317819911.html",
+        "mention_text": "Southern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Southern @ California, Southern Avenue, South Gate, Los Angeles County, California, 90280, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 11056179472,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.presstelegram.com/2026/10/28/coastal-flood-advisory-for-los-angeles-county-beaches-until-friday-afternoon/",
+        "title": "Coastal flood advisory for Los Angeles County beaches until Friday afternoon",
+        "source": "Long Beach Press-Telegram",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-28T23:25:33Z",
+        "url": "https://www.presstelegram.com/2026/10/28/coastal-flood-advisory-for-los-angeles-county-beaches-until-friday-afternoon/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9001941,
+          32.4821843
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.presstelegram.com/2026/10/28/catalina-santa-barbara-islands-under-a-coastal-flood-advisory-until-friday-afternoon/",
+        "title": "Catalina/Santa Barbara Islands under a coastal flood advisory until Friday afternoon",
+        "source": "Long Beach Press-Telegram",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-28T23:25:33Z",
+        "url": "https://www.presstelegram.com/2026/10/28/catalina-santa-barbara-islands-under-a-coastal-flood-advisory-until-friday-afternoon/",
+        "mention_text": "Catalina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Catalina, Pima County, Arizona, United States",
+        "osm_type": "census",
+        "osm_id": 11180516,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.702667,
+          34.4221319
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.presstelegram.com/2026/10/28/catalina-santa-barbara-islands-under-a-coastal-flood-advisory-until-friday-afternoon/",
+        "title": "Catalina/Santa Barbara Islands under a coastal flood advisory until Friday afternoon",
+        "source": "Long Beach Press-Telegram",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-28T23:25:33Z",
+        "url": "https://www.presstelegram.com/2026/10/28/catalina-santa-barbara-islands-under-a-coastal-flood-advisory-until-friday-afternoon/",
+        "mention_text": "Santa Barbara",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Santa Barbara, Santa Barbara County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 112224,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3558473,
+          37.7884969
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kron4.com/video/bay-area-coastal-flood-advisory-extended-through-saturday/12313460/",
+        "title": "Bay Area coastal flood advisory extended through Saturday",
+        "source": "KRON4",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-28T16:12:20Z",
+        "url": "https://www.kron4.com/video/bay-area-coastal-flood-advisory-extended-through-saturday/12313460/",
+        "mention_text": "Bay Area",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco Bay Area, San Francisco, California, 94130, United States",
+        "osm_type": "region",
+        "osm_id": 2157162589,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/kayaker-navigates-flooded-streets-during-211413381.html",
+        "title": "Kayaker navigates flooded streets during king tide in Florida",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-28T21:14:13Z",
+        "url": "https://www.yahoo.com/news/videos/kayaker-navigates-flooded-streets-during-211413381.html",
+        "mention_text": "Florida",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3558473,
+          37.7884969
+        ]
+      },
+      "properties": {
+        "article_id": "https://kioncentralcoast.com/news/2026/10/28/coastal-flood-advisory-extended-as-record-high-bay-area-tides-continue/",
+        "title": "Coastal flood advisory extended as record high Bay Area tides continue",
+        "source": "KION Central Coast",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-28T20:10:19Z",
+        "url": "https://kioncentralcoast.com/news/2026/10/28/coastal-flood-advisory-extended-as-record-high-bay-area-tides-continue/",
+        "mention_text": "Bay Area",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco Bay Area, San Francisco, California, 94130, United States",
+        "osm_type": "region",
+        "osm_id": 2157162589,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6199638,
+          38.0409144
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/sanfrancisco/video/widespread-flooding-in-southern-marin-county-amid-record-high-tides-flood-advisory-extended/",
+        "title": "Widespread flooding in southern Marin County amid record high tides; flood advisory extended",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-27T19:28:00Z",
+        "url": "https://www.cbsnews.com/sanfrancisco/video/widespread-flooding-in-southern-marin-county-amid-record-high-tides-flood-advisory-extended/",
+        "mention_text": "Marin County",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Marin County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396461,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8463851,
+          37.1670484
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flood-advisory-effect-south-florida-121653785.html",
+        "title": "Flood advisory in effect for South Florida, king tides to return",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-22T12:16:53Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flood-advisory-effect-south-florida-121653785.html",
+        "mention_text": "South Florida",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "South Florida, Columbus, Cherokee County, Kansas, 66725, United States",
+        "osm_type": "residential",
+        "osm_id": 12999746,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5449763,
+          37.9060368
+        ]
+      },
+      "properties": {
+        "article_id": "https://youtu.be/BJeCl0SOwJI?si=aNEkwLlNPfe92NIu",
+        "title": "Watch: Mill Valley driver rescued after vehicle becomes disabled on flooded road",
+        "source": "YouTube",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-27T20:16:56Z",
+        "url": "https://youtu.be/BJeCl0SOwJI?si=aNEkwLlNPfe92NIu",
+        "mention_text": "Mill Valley",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Mill Valley, Marin County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 112703,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.325138,
+          42.8501191
+        ]
+      },
+      "properties": {
+        "article_id": "https://oilcity.news/general/2026/08/13/nws-flood-advisory-in-effect-until-1-p-m/",
+        "title": "As parts of Casper flood, NWS issues flood advisory through 1 p.m.",
+        "source": "Oil City News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-13T07:00:00Z",
+        "url": "https://oilcity.news/general/2026/08/13/nws-flood-advisory-in-effect-until-1-p-m/",
+        "mention_text": "Casper",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Casper, Natrona County, Wyoming, United States",
+        "osm_type": "administrative",
+        "osm_id": 252231,
+        "run_at": "2026-10-29T12:20:59.696766+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-10-28T12:08:58.103509+00:00",
-    "total_features": 5507
+    "last_updated": "2026-10-29T12:20:59.729214+00:00",
+    "total_features": 5546
   }
 }
