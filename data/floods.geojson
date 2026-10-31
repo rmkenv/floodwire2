@@ -145132,11 +145132,427 @@
         "osm_id": 112148,
         "run_at": "2026-10-30T12:11:20.368931+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.abc4.com/utah-weather/increased-flash-flood-risk-rain-halloween-weekend/",
+        "title": "Utah weather: Increased flash flood risk with widespread rain into Halloween Weekend",
+        "source": "ABC4 Utah",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-30T19:48:21Z",
+        "url": "https://www.abc4.com/utah-weather/increased-flash-flood-risk-rain-halloween-weekend/",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-10-31T11:44:42.993466+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1484131,
+          36.1674263
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.8newsnow.com/news/local-news/flood-advisory-issued-for-parts-of-las-vegas-valley/",
+        "title": "Flood advisory, flash flood warning issued for parts of Las Vegas valley",
+        "source": "KLAS 8 News Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-30T19:52:19Z",
+        "url": "https://www.8newsnow.com/news/local-news/flood-advisory-issued-for-parts-of-las-vegas-valley/",
+        "mention_text": "Las Vegas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Las Vegas, Clark County, Nevada, United States",
+        "osm_type": "administrative",
+        "osm_id": 170117,
+        "run_at": "2026-10-31T11:44:42.993466+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1484131,
+          36.1674263
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ktnv.com/news/powerful-storm-prompts-flash-flood-alerts-for-las-vegas-area",
+        "title": "Powerful storm prompts flash flood alerts for Las Vegas area",
+        "source": "KTNV Las Vegas",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-30T20:08:00Z",
+        "url": "https://www.ktnv.com/news/powerful-storm-prompts-flash-flood-alerts-for-las-vegas-area",
+        "mention_text": "Las Vegas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Las Vegas, Clark County, Nevada, United States",
+        "osm_type": "administrative",
+        "osm_id": 170117,
+        "run_at": "2026-10-31T11:44:42.993466+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox10phoenix.com/weather/arizona-weather-forecast-103026",
+        "title": "Arizona weather forecast: Wet weather hits Arizona with flash flood warnings; cooler temperatures",
+        "source": "FOX 10 Phoenix",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-30T14:58:23Z",
+        "url": "https://www.fox10phoenix.com/weather/arizona-weather-forecast-103026",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-10-31T11:44:42.993466+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1742536,
+          36.1194215
+        ]
+      },
+      "properties": {
+        "article_id": "https://thenevadaindependent.com/article/opinion-somethings-wrong-when-you-have-to-brave-a-flash-flood-to-get-to-your-strip-job",
+        "title": "OPINION: Something's wrong when you have to brave a flash flood to get to your Strip job",
+        "source": "The Nevada Independent",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-30T09:00:00Z",
+        "url": "https://thenevadaindependent.com/article/opinion-somethings-wrong-when-you-have-to-brave-a-flash-flood-to-get-to-your-strip-job",
+        "mention_text": "Strip",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Las Vegas Strip, Oakmont Avenue, Filipino Town, Winchester, Clark County, Nevada, 89169, United States",
+        "osm_type": "attraction",
+        "osm_id": 586928078,
+        "run_at": "2026-10-31T11:44:42.993466+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2018813,
+          39.9572587
+        ]
+      },
+      "properties": {
+        "article_id": "https://x.com/MarioNawfal/status/2116371882194649119/video/1",
+        "title": "\ud83d\udea8\ud83c\uddfa\ud83c\uddf8 FLASH FLOOD CHAOS IN PHOENIX Rescue crews are working near 40th Street and Camelback after multiple people became trapped in rising water. Cars were partially submerged as firefighters moved in for rescues. Writer: Sol",
+        "source": "X",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-31T03:29:11Z",
+        "url": "https://x.com/MarioNawfal/status/2116371882194649119/video/1",
+        "mention_text": "40th Street",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "40th Street, North 40th Street, West Philadelphia, Philadelphia, Philadelphia County, Pennsylvania, 19104, United States",
+        "osm_type": "station",
+        "osm_id": 5372108003,
+        "run_at": "2026-10-31T11:44:42.993466+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1935973,
+          25.7741566
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/2026/10/30/news/weather/video/miami-king-tide-coastal-flooding-record-streak-virginia-key",
+        "title": "Miami king tide flooding: record streak and major flooding",
+        "source": "The Weather Channel",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-30T19:56:25Z",
+        "url": "https://weather.com/2026/10/30/news/weather/video/miami-king-tide-coastal-flooding-record-streak-virginia-key",
+        "mention_text": "Miami",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Miami, Miami-Dade County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1216769,
+        "run_at": "2026-10-31T11:44:42.993466+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0532942,
+          26.715364
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wflx.com/2026/10/29/king-tide-flooding-leaves-west-palm-beach-neighbors-asking-drainage-fix/",
+        "title": "King tide flooding leaves West Palm Beach neighbors asking for drainage fix",
+        "source": "WFLX",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-30T12:47:20Z",
+        "url": "https://www.wflx.com/2026/10/29/king-tide-flooding-leaves-west-palm-beach-neighbors-asking-drainage-fix/",
+        "mention_text": "West Palm Beach",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "West Palm Beach, Palm Beach County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 117925,
+        "run_at": "2026-10-31T11:44:42.993466+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1433786,
+          26.1223084
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/videos/drone-video-captures-destructive-scale-of-king-tide-flooding-in-fort-lauderdale/ad8bad4d-9d37-4ed4-9d05-a8173bff601c",
+        "title": "Drone video captures destructive scale of king tide flooding in Fort Lauderdale",
+        "source": "AccuWeather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-31T02:28:09Z",
+        "url": "https://www.accuweather.com/en/videos/drone-video-captures-destructive-scale-of-king-tide-flooding-in-fort-lauderdale/ad8bad4d-9d37-4ed4-9d05-a8173bff601c",
+        "mention_text": "Fort Lauderdale",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Fort Lauderdale, Broward County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 117955,
+        "run_at": "2026-10-31T11:44:42.993466+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8463851,
+          37.1670484
+        ]
+      },
+      "properties": {
+        "article_id": "https://wsvn.com/news/local/miami-dade/fort-lauderdale-king-tide-flooding/",
+        "title": "King tide flooding still affecting South Florida as water begins to subside",
+        "source": "WSVN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-30T16:30:43Z",
+        "url": "https://wsvn.com/news/local/miami-dade/fort-lauderdale-king-tide-flooding/",
+        "mention_text": "South Florida",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "South Florida, Columbus, Cherokee County, Kansas, 66725, United States",
+        "osm_type": "residential",
+        "osm_id": 12999746,
+        "run_at": "2026-10-31T11:44:42.993466+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7893178,
+          32.182598
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.reviewjournal.com/local/weather/flood-advisory-issued-for-southeast-las-vegas-valley-3907228/",
+        "title": "1 dead in Henderson after heavy rain triggers three water rescue operations",
+        "source": "Las Vegas Review-Journal",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-31T05:39:57Z",
+        "url": "https://www.reviewjournal.com/local/weather/flood-advisory-issued-for-southeast-las-vegas-valley-3907228/",
+        "mention_text": "Henderson",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Henderson County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839045,
+        "run_at": "2026-10-31T11:44:42.993466+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/10/30/coastal-flood-advisory-issued-for-north-bay-and-san-francisco-peninsula-coast-until-saturday-evening/",
+        "title": "Coastal flood advisory issued for North Bay and San Francisco Peninsula Coast until Saturday evening",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-30T23:03:40Z",
+        "url": "https://www.eastbaytimes.com/2026/10/30/coastal-flood-advisory-issued-for-north-bay-and-san-francisco-peninsula-coast-until-saturday-evening/",
+        "mention_text": "North Bay",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-10-31T11:44:42.993466+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailybulletin.com/2026/10/30/flood-advisory-affecting-san-bernardino-county-early-friday-evening-caused-by-excessive-rainfall/",
+        "title": "Flood advisory affecting San Bernardino County early Friday evening caused by excessive rainfall",
+        "source": "Inland Valley Daily Bulletin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-30T21:28:59Z",
+        "url": "https://www.dailybulletin.com/2026/10/30/flood-advisory-affecting-san-bernardino-county-early-friday-evening-caused-by-excessive-rainfall/",
+        "mention_text": "San Bernardino County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-10-31T11:44:42.993466+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4291882,
+          37.7863765
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/10/30/coastal-flood-advisory-for-northern-california-until-sunday-evening/",
+        "title": "Coastal flood advisory for Northern California until Sunday evening",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-30T23:03:40Z",
+        "url": "https://www.mercurynews.com/2026/10/30/coastal-flood-advisory-for-northern-california-until-sunday-evening/",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Japanese American Association of Northern California, 1759, Sutter Street, Japantown, Western Addition, San Francisco, California, 95115, United States",
+        "osm_type": "yes",
+        "osm_id": 257960526,
+        "run_at": "2026-10-31T11:44:42.993466+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4291882,
+          37.7863765
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317857476.html",
+        "title": "Coastal flood advisory issued for Northern California until Sunday evening",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-31T00:27:05Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317857476.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Japanese American Association of Northern California, 1759, Sutter Street, Japantown, Western Addition, San Francisco, California, 95115, United States",
+        "osm_type": "yes",
+        "osm_id": 257960526,
+        "run_at": "2026-10-31T11:44:42.993466+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317855647.html",
+        "title": "UPDATE: Flood advisory in place for San Bernardino County early Friday evening",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-31T00:17:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317855647.html",
+        "mention_text": "San Bernardino County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-10-31T11:44:42.993466+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-10-30T12:11:20.400441+00:00",
-    "total_features": 5582
+    "last_updated": "2026-10-31T11:44:43.013837+00:00",
+    "total_features": 5598
   }
 }
