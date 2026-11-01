@@ -145548,11 +145548,921 @@
         "osm_id": 396509,
         "run_at": "2026-10-31T11:44:42.993466+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5984726,
+          30.7761604
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox8live.com/2026/11/01/flash-flood-emergency-pearl-river-county/",
+        "title": "Flash flood emergency for Pearl River County",
+        "source": "FOX 8 Local First",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-01T03:01:00Z",
+        "url": "https://www.fox8live.com/2026/11/01/flash-flood-emergency-pearl-river-county/",
+        "mention_text": "Pearl River County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pearl River County, Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832972,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5984726,
+          30.7761604
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdsu.com/article/flood-advisory-parish-new-orleans-louisiana-weather-forecast-warning/74303466",
+        "title": "Flash Flood Emergency for Pearl River County",
+        "source": "WDSU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-01T03:31:00Z",
+        "url": "https://www.wdsu.com/article/flood-advisory-parish-new-orleans-louisiana-weather-forecast-warning/74303466",
+        "mention_text": "Pearl River County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pearl River County, Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832972,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1214745,
+          36.2005191
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox5vegas.com/2026/11/01/flash-flood-warning-issued-north-las-vegas-northwest-valley-through-915-pm/",
+        "title": "Flash flood warning issued for North Las Vegas, northwest valley",
+        "source": "FOX5 Vegas",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-01T02:00:00Z",
+        "url": "https://www.fox5vegas.com/2026/11/01/flash-flood-warning-issued-north-las-vegas-northwest-valley-through-915-pm/",
+        "mention_text": "North Las Vegas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Las Vegas, Clark County, Nevada, United States",
+        "osm_type": "administrative",
+        "osm_id": 170118,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5984726,
+          30.7761604
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/video/weather/weather-impact/flooding-across-jefferson-parish-after-heavy-rain-and-storms-flash-flood-emergency-for-pearl-river-ms/289-890d7901-604b-47c9-9617-2bd2a449a308",
+        "title": "Flooding across Jefferson Parish after heavy rain and storms, Flash Flood emergency for Pearl River, MS",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-01T03:37:00Z",
+        "url": "https://www.wwltv.com/video/weather/weather-impact/flooding-across-jefferson-parish-after-heavy-rain-and-storms-flash-flood-emergency-for-pearl-river-ms/289-890d7901-604b-47c9-9617-2bd2a449a308",
+        "mention_text": "Pearl River",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pearl River County, Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832972,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.3568849,
+          21.9936132
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.khon2.com/kauai-news/kuhio-highway-closed-flooding/",
+        "title": "K\u016bhi\u014d Highway closed following Flash Flood Warning for Kaua\u2018i",
+        "source": "KHON2",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-31T23:00:17Z",
+        "url": "https://www.khon2.com/kauai-news/kuhio-highway-closed-flooding/",
+        "mention_text": "K\u016bhi\u014d Highway",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kuhio Highway, Hooluana At Kohea Loa, Hanamaulu, Kaua\u02bbi County, Hawaii, 96766, United States",
+        "osm_type": "primary",
+        "osm_id": 380192152,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5984726,
+          30.7761604
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox8live.com/2026/11/01/flash-flood-emergency-issued-pearl-river-county-residents-urged-seek-higher-ground/",
+        "title": "Flash flood emergency issued for Pearl River County; residents urged to seek higher ground",
+        "source": "FOX 8 Local First",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-01T03:01:00Z",
+        "url": "https://www.fox8live.com/2026/11/01/flash-flood-emergency-issued-pearl-river-county-residents-urged-seek-higher-ground/",
+        "mention_text": "Pearl River County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pearl River County, Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832972,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.007126,
+          30.8703881
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/video/weather/weather-impact/latest-on-flash-flood-warning-advisory-across-southeast-louisiana-on-halloween/289-2fc8dab7-f579-44e4-9de2-e19878491506",
+        "title": "Latest on Flash Flood Warning, Advisory across southeast Louisiana on Halloween",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-31T23:53:00Z",
+        "url": "https://www.wwltv.com/video/weather/weather-impact/latest-on-flash-flood-warning-advisory-across-southeast-louisiana-on-halloween/289-2fc8dab7-f579-44e4-9de2-e19878491506",
+        "mention_text": "Louisiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 224922,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.007126,
+          30.8703881
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/weather-impact/flood-advisory-issued-for-st-charles-parish/289-9022dbbf-c20e-4ade-822a-bddcf4b6518d",
+        "title": "Flash Flood Warnings, Flood Advisories issued for parts of southeast Louisiana, Mississippi",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-31T21:58:00Z",
+        "url": "https://www.wwltv.com/article/weather/weather-impact/flood-advisory-issued-for-st-charles-parish/289-9022dbbf-c20e-4ade-822a-bddcf4b6518d",
+        "mention_text": "Louisiana",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Louisiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 224922,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7348497,
+          32.9715285
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wwltv.com/article/weather/weather-impact/flood-advisory-issued-for-st-charles-parish/289-9022dbbf-c20e-4ade-822a-bddcf4b6518d",
+        "title": "Flash Flood Warnings, Flood Advisories issued for parts of southeast Louisiana, Mississippi",
+        "source": "WWLTV.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-31T21:58:00Z",
+        "url": "https://www.wwltv.com/article/weather/weather-impact/flood-advisory-issued-for-st-charles-parish/289-9022dbbf-c20e-4ade-822a-bddcf4b6518d",
+        "mention_text": "Mississippi",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 161943,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5984726,
+          30.7761604
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox8live.com/video/2026/11/01/flash-flood-emergency-issued-pearl-river-county/",
+        "title": "Flash flood emergency issued for Pearl River County",
+        "source": "fox8live.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-01T00:32:22Z",
+        "url": "https://www.fox8live.com/video/2026/11/01/flash-flood-emergency-issued-pearl-river-county/",
+        "mention_text": "Pearl River County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pearl River County, Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832972,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox10phoenix.com/video/fmc-15z7pgipuefsh7qh",
+        "title": "Arizona Halloween storm brings heavy rain, flash flood threat",
+        "source": "FOX 10 Phoenix",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-01T00:28:35Z",
+        "url": "https://www.fox10phoenix.com/video/fmc-15z7pgipuefsh7qh",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5984726,
+          30.7761604
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.hindustantimes.com/world-news/us-news/rescues-underway-as-torrential-rain-swamps-triggers-flash-flood-emergency-in-pearl-river-county-mississippi-watch-videos-101793514698331.html",
+        "title": "Flash Flood Emergency declared in parts of Pearl River County, Mississippi, after torrential rain | Hindustan Times",
+        "source": "Hindustan Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-01T07:53:11Z",
+        "url": "https://www.hindustantimes.com/world-news/us-news/rescues-underway-as-torrential-rain-swamps-triggers-flash-flood-emergency-in-pearl-river-county-mississippi-watch-videos-101793514698331.html",
+        "mention_text": "Pearl River County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pearl River County, Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832972,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7348497,
+          32.9715285
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.hindustantimes.com/world-news/us-news/rescues-underway-as-torrential-rain-swamps-triggers-flash-flood-emergency-in-pearl-river-county-mississippi-watch-videos-101793514698331.html",
+        "title": "Flash Flood Emergency declared in parts of Pearl River County, Mississippi, after torrential rain | Hindustan Times",
+        "source": "Hindustan Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-01T07:53:11Z",
+        "url": "https://www.hindustantimes.com/world-news/us-news/rescues-underway-as-torrential-rain-swamps-triggers-flash-flood-emergency-in-pearl-river-county-mississippi-watch-videos-101793514698331.html",
+        "mention_text": "Mississippi",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Mississippi, United States",
+        "osm_type": "administrative",
+        "osm_id": 161943,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azfamily.com/video/2026/10/30/flash-flood-threat-builds-across-arizona-back-to-back-storm-waves-approach/",
+        "title": "Flash flood threat builds across Arizona as back-to-back storm waves approach",
+        "source": "AZ Family",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-30T04:31:00Z",
+        "url": "https://www.azfamily.com/video/2026/10/30/flash-flood-threat-builds-across-arizona-back-to-back-storm-waves-approach/",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://m.economictimes.com/news/international/us/weather-forecast-flash-flood-threat-heavy-rains-predicted-for-arizona-colorado-new-mexico-utah-on-sunday-monday/articleshow/135414065.cms",
+        "title": "Weather forecast: Flash flood threat, heavy rains predicted for Arizona, Colorado, New Mexico, Utah on Sun",
+        "source": "The Economic Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-31T22:52:01Z",
+        "url": "https://m.economictimes.com/news/international/us/weather-forecast-flash-flood-threat-heavy-rains-predicted-for-arizona-colorado-new-mexico-utah-on-sunday-monday/articleshow/135414065.cms",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.607716,
+          38.7251776
+        ]
+      },
+      "properties": {
+        "article_id": "https://m.economictimes.com/news/international/us/weather-forecast-flash-flood-threat-heavy-rains-predicted-for-arizona-colorado-new-mexico-utah-on-sunday-monday/articleshow/135414065.cms",
+        "title": "Weather forecast: Flash flood threat, heavy rains predicted for Arizona, Colorado, New Mexico, Utah on Sun",
+        "source": "The Economic Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-31T22:52:01Z",
+        "url": "https://m.economictimes.com/news/international/us/weather-forecast-flash-flood-threat-heavy-rains-predicted-for-arizona-colorado-new-mexico-utah-on-sunday-monday/articleshow/135414065.cms",
+        "mention_text": "Colorado",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 161961,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.996047,
+          34.5802074
+        ]
+      },
+      "properties": {
+        "article_id": "https://m.economictimes.com/news/international/us/weather-forecast-flash-flood-threat-heavy-rains-predicted-for-arizona-colorado-new-mexico-utah-on-sunday-monday/articleshow/135414065.cms",
+        "title": "Weather forecast: Flash flood threat, heavy rains predicted for Arizona, Colorado, New Mexico, Utah on Sun",
+        "source": "The Economic Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-31T22:52:01Z",
+        "url": "https://m.economictimes.com/news/international/us/weather-forecast-flash-flood-threat-heavy-rains-predicted-for-arizona-colorado-new-mexico-utah-on-sunday-monday/articleshow/135414065.cms",
+        "mention_text": "New Mexico",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Mexico, United States",
+        "osm_type": "administrative",
+        "osm_id": 162014,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://m.economictimes.com/news/international/us/weather-forecast-flash-flood-threat-heavy-rains-predicted-for-arizona-colorado-new-mexico-utah-on-sunday-monday/articleshow/135414065.cms",
+        "title": "Weather forecast: Flash flood threat, heavy rains predicted for Arizona, Colorado, New Mexico, Utah on Sun",
+        "source": "The Economic Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-31T22:52:01Z",
+        "url": "https://m.economictimes.com/news/international/us/weather-forecast-flash-flood-threat-heavy-rains-predicted-for-arizona-colorado-new-mexico-utah-on-sunday-monday/articleshow/135414065.cms",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox10phoenix.com/video/fmc-phtvjjq4gmgxavgv",
+        "title": "Arizona storms bring weekend flash flood threat",
+        "source": "FOX 10 Phoenix",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-30T01:00:05Z",
+        "url": "https://www.fox10phoenix.com/video/fmc-phtvjjq4gmgxavgv",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.074141,
+          33.4484367
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flood-warning-issued-metro-phoenix-145951639.html",
+        "title": "Flood warning issued for metro Phoenix on Halloween",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-31T14:59:51Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flood-warning-issued-metro-phoenix-145951639.html",
+        "mention_text": "Phoenix",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Phoenix, Maricopa County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 111257,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.3105232,
+          20.7580586
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.hawaiinewsnow.com/2026/10/29/first-alert-weather-day-heavy-rain-thunderstorms-shift-east/",
+        "title": "Flash flood warning extended for Maui County",
+        "source": "Hawaii News Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-26T00:44:00Z",
+        "url": "https://www.hawaiinewsnow.com/2026/10/29/first-alert-weather-day-heavy-rain-thunderstorms-shift-east/",
+        "mention_text": "Maui County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maui County, Hawaii, United States",
+        "osm_type": "administrative",
+        "osm_id": 166561,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.rustourismnews.com/2026/11/01/us-flash-flood-emergency-hits-arizona-and-nevada-as-more-rain-approaches/",
+        "title": "US Flash Flood Emergency Hits Arizona and Nevada as More Rain Approaches",
+        "source": "Rus Tourism News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-01T10:14:23Z",
+        "url": "https://www.rustourismnews.com/2026/11/01/us-flash-flood-emergency-hits-arizona-and-nevada-as-more-rain-approaches/",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.853722,
+          39.5158825
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.rustourismnews.com/2026/11/01/us-flash-flood-emergency-hits-arizona-and-nevada-as-more-rain-approaches/",
+        "title": "US Flash Flood Emergency Hits Arizona and Nevada as More Rain Approaches",
+        "source": "Rus Tourism News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-01T10:14:23Z",
+        "url": "https://www.rustourismnews.com/2026/11/01/us-flash-flood-emergency-hits-arizona-and-nevada-as-more-rain-approaches/",
+        "mention_text": "Nevada",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Nevada, United States",
+        "osm_type": "administrative",
+        "osm_id": 165473,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.074141,
+          33.4484367
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azcentral.com/story/weather/severe/2026/10/31/flood-warning-issued-for-metro-phoenix-on-halloween/92531722007/",
+        "title": "Flood warning for metro Phoenix extended through Halloween weekend",
+        "source": "azcentral.com and The Arizona Republic",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-31T23:16:00Z",
+        "url": "https://www.azcentral.com/story/weather/severe/2026/10/31/flood-warning-issued-for-metro-phoenix-on-halloween/92531722007/",
+        "mention_text": "Phoenix",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Phoenix, Maricopa County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 111257,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.852583,
+          36.2516475
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317870614.html",
+        "title": "Flood advisory for Tulare County early Sunday morning, says the NWS",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-01T10:35:05Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317870614.html",
+        "mention_text": "Tulare County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Tulare County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396459,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8722311,
+          33.750631
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercedsunstar.com/news/weather-news/article317869412.html",
+        "title": "Flood advisory active for Orange and San Diego counties Saturday night",
+        "source": "Merced Sun-Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-01T04:19:06Z",
+        "url": "https://www.mercedsunstar.com/news/weather-news/article317869412.html",
+        "mention_text": "Orange",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Orange County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396466,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1638284,
+          32.7157062
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercedsunstar.com/news/weather-news/article317869412.html",
+        "title": "Flood advisory active for Orange and San Diego counties Saturday night",
+        "source": "Merced Sun-Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-01T04:19:06Z",
+        "url": "https://www.mercedsunstar.com/news/weather-news/article317869412.html",
+        "mention_text": "San Diego",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego, San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 253832,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1638284,
+          32.7157062
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ocregister.com/2026/10/31/flood-advisory-for-orange-and-san-diego-counties-saturday-night-due-to-substantial-downpours/",
+        "title": "Flood advisory for Orange and San Diego counties Saturday night due to substantial downpours",
+        "source": "Orange County Register",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-01T04:02:24Z",
+        "url": "https://www.ocregister.com/2026/10/31/flood-advisory-for-orange-and-san-diego-counties-saturday-night-due-to-substantial-downpours/",
+        "mention_text": "San Diego",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego, San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 253832,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7737991,
+          37.1716264
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317870130.html",
+        "title": "UPDATE: Flood advisory for Madera County anticipated to expire at 2:30 a.m.",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-01T10:49:10Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317870130.html",
+        "mention_text": "Madera County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Madera County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396488,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0779359,
+          34.4458248
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317869165.html",
+        "title": "UPDATE: Flood advisory for Ventura County Saturday night triggered by persistent rainfall",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-01T05:47:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317869165.html",
+        "mention_text": "Ventura County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ventura County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396505,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6199638,
+          38.0409144
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcbayarea.com/video/news/local/marin-county-coastal-flood-advisory/4167382/",
+        "title": "Marin County extends coastal flood advisory",
+        "source": "NBC Bay Area",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-30T15:31:18Z",
+        "url": "https://www.nbcbayarea.com/video/news/local/marin-county-coastal-flood-advisory/4167382/",
+        "mention_text": "Marin County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Marin County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396461,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4030376,
+          37.7887644
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/10/30/coastal-flood-advisory-for-northern-california-until-sunday-evening/",
+        "title": "Coastal flood advisory for Northern California until Sunday evening",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-30T23:03:40Z",
+        "url": "https://www.eastbaytimes.com/2026/10/30/coastal-flood-advisory-for-northern-california-until-sunday-evening/",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "First National Bank of Northern California, Post Street, Union Square, Financial District, San Francisco, California, 94104, United States",
+        "osm_type": "bank",
+        "osm_id": 32946665,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9001941,
+          32.4821843
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317819914.html",
+        "title": "Coastal flood advisory for Catalina and Santa Barbara Islands until Friday afternoon",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-28T19:04:08Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317819914.html",
+        "mention_text": "Catalina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Catalina, Pima County, Arizona, United States",
+        "osm_type": "census",
+        "osm_id": 11180516,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.702667,
+          34.4221319
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317819914.html",
+        "title": "Coastal flood advisory for Catalina and Santa Barbara Islands until Friday afternoon",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-28T19:04:08Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317819914.html",
+        "mention_text": "Santa Barbara",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Santa Barbara, Santa Barbara County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 112224,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8927522,
+          35.469331
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317778045.html",
+        "title": "UPDATE: Coastal Jasper and Beaufort County under a coastal flood advisory until Tuesday midday",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-27T06:59:06Z",
+        "url": "https://www.thestate.com/news/weather-news/article317778045.html",
+        "mention_text": "Beaufort County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Beaufort County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528675,
+        "run_at": "2026-11-01T12:44:24.130779+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-10-31T11:44:43.013837+00:00",
-    "total_features": 5598
+    "last_updated": "2026-11-01T12:44:24.162208+00:00",
+    "total_features": 5633
   }
 }
