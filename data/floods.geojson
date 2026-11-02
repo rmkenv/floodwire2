@@ -146458,11 +146458,505 @@
         "osm_id": 2528675,
         "run_at": "2026-11-01T12:44:24.130779+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8244232,
+          27.190253
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.gulfcoastnewsnow.com/article/roads-flood-desoto-county-car-stuck-traffic-closure/74310881",
+        "title": "Heavy rain floods DeSoto County roads Monday amid flash flood warning",
+        "source": "Gulf Coast News and Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-02T14:03:00Z",
+        "url": "https://www.gulfcoastnewsnow.com/article/roads-flood-desoto-county-car-stuck-traffic-closure/74310881",
+        "mention_text": "DeSoto County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "DeSoto County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210695,
+        "run_at": "2026-11-02T14:47:41.554365+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.607716,
+          38.7251776
+        ]
+      },
+      "properties": {
+        "article_id": "https://gazette.com/2026/11/01/flash-floods-trigger-evacuations-in-arizona-colorado-amid-heavy-rains/",
+        "title": "More rain triggers flash flood evacuations in Colorado, Arizona",
+        "source": "Colorado Springs Gazette",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-02T01:23:11Z",
+        "url": "https://gazette.com/2026/11/01/flash-floods-trigger-evacuations-in-arizona-colorado-amid-heavy-rains/",
+        "mention_text": "Colorado",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 161961,
+        "run_at": "2026-11-02T14:47:41.554365+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://gazette.com/2026/11/01/flash-floods-trigger-evacuations-in-arizona-colorado-amid-heavy-rains/",
+        "title": "More rain triggers flash flood evacuations in Colorado, Arizona",
+        "source": "Colorado Springs Gazette",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-02T01:23:11Z",
+        "url": "https://gazette.com/2026/11/01/flash-floods-trigger-evacuations-in-arizona-colorado-amid-heavy-rains/",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-11-02T14:47:41.554365+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7997185,
+          28.2100203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.clickorlando.com/weather/2026/11/02/flood-watch-continues-as-more-heavy-rain-targets-central-florida/",
+        "title": "LIVE RADAR: Flash flood emergency issued for parts of Brevard County",
+        "source": "WKMG",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-02T11:06:06Z",
+        "url": "https://www.clickorlando.com/weather/2026/11/02/flood-watch-continues-as-more-heavy-rain-targets-central-florida/",
+        "mention_text": "Brevard County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Brevard County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 389024,
+        "run_at": "2026-11-02T14:47:41.554365+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6623566,
+          30.3270682
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wftv.com/news/local/flood-watch-issued-most-central-florida/GIFNUYMU4JFANGYN2K3L2EW7TQ/",
+        "title": "Flood Watch issued for most of Central Florida",
+        "source": "WFTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-02T11:39:42Z",
+        "url": "https://www.wftv.com/news/local/flood-watch-issued-most-central-florida/GIFNUYMU4JFANGYN2K3L2EW7TQ/",
+        "mention_text": "Central Florida",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Central, West Bay Street, South Jacksonville, Jacksonville, Duval County, Florida, 32202, United States",
+        "osm_type": "station",
+        "osm_id": 8427291143,
+        "run_at": "2026-11-02T14:47:41.554365+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4494174,
+          26.6279798
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbs12.com/news/local/flash-flood-warning-issued-for-palm-beach-county",
+        "title": "Flash Flood Warning issued for Palm Beach County",
+        "source": "WPEC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-01T22:42:43Z",
+        "url": "https://cbs12.com/news/local/flash-flood-warning-issued-for-palm-beach-county",
+        "mention_text": "Palm Beach County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Palm Beach County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210748,
+        "run_at": "2026-11-02T14:47:41.554365+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4494174,
+          26.6279798
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbs12.com/weather/flash-flood-advisory-issued-for-northeastern-palm-beach-county",
+        "title": "Flash Flood Advisory issued for northeastern Palm Beach County",
+        "source": "WPEC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-01T21:57:42Z",
+        "url": "https://cbs12.com/weather/flash-flood-advisory-issued-for-northeastern-palm-beach-county",
+        "mention_text": "Palm Beach County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Palm Beach County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210748,
+        "run_at": "2026-11-02T14:47:41.554365+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.49123,
+          33.34883
+        ]
+      },
+      "properties": {
+        "article_id": "https://ktar.com/arizona-weather-news/flash-flood-warning-issued-for-maricopa-county-as-more-weather-pushes-through-valley",
+        "title": "Flash flood warning issued for Maricopa County as more weather pushes through Valley",
+        "source": "KTAR News 92.3 FM",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-01T15:14:54Z",
+        "url": "https://ktar.com/arizona-weather-news/flash-flood-warning-issued-for-maricopa-county-as-more-weather-pushes-through-valley",
+        "mention_text": "Maricopa County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Maricopa County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 1832201,
+        "run_at": "2026-11-02T14:47:41.554365+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9805484,
+          41.5595723
+        ]
+      },
+      "properties": {
+        "article_id": "https://ktar.com/arizona-weather-news/flash-flood-warning-issued-for-maricopa-county-as-more-weather-pushes-through-valley",
+        "title": "Flash flood warning issued for Maricopa County as more weather pushes through Valley",
+        "source": "KTAR News 92.3 FM",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-01T15:14:54Z",
+        "url": "https://ktar.com/arizona-weather-news/flash-flood-warning-issued-for-maricopa-county-as-more-weather-pushes-through-valley",
+        "mention_text": "Valley",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Valley County, Nebraska, United States",
+        "osm_type": "administrative",
+        "osm_id": 1425395,
+        "run_at": "2026-11-02T14:47:41.554365+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.5588624,
+          22.0503838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.staradvertiser.com/2026/10/31/breaking-news/flash-flood-warning-issued-for-kauai-as-heavy-showers-soak-island/",
+        "title": "Flash flood warning for Kauai expires as heavy showers ease",
+        "source": "Honolulu Star-Advertiser",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-01T07:42:13Z",
+        "url": "https://www.staradvertiser.com/2026/10/31/breaking-news/flash-flood-warning-issued-for-kauai-as-heavy-showers-soak-island/",
+        "mention_text": "Kauai",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Kaua\u02bbi, Kaua\u02bbi County, Hawaii, United States",
+        "osm_type": "island",
+        "osm_id": 3489753,
+        "run_at": "2026-11-02T14:47:41.554365+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4989467,
+          25.6364246
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcmiami.com/weather/stories-weather/live-radar-flood-watch-in-effect-as-heavy-rain-drenches-south-florida/3881463/",
+        "title": "Flash flood warning in effect in Miami-Dade amid thunderstorms",
+        "source": "NBC 6 South Florida",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-01T16:21:45Z",
+        "url": "https://www.nbcmiami.com/weather/stories-weather/live-radar-flood-watch-in-effect-as-heavy-rain-drenches-south-florida/3881463/",
+        "mention_text": "Miami-Dade",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Miami-Dade County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210692,
+        "run_at": "2026-11-02T14:47:41.554365+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0962787,
+          36.0980405
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.rustourismnews.com/2026/11/01/flash-flood-warnings-threaten-zion-bryce-canyon-and-grand-canyon/",
+        "title": "Flash Flood Warnings Threaten Zion, Bryce Canyon and Grand Canyon",
+        "source": "Rus Tourism News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-01T21:51:58Z",
+        "url": "https://www.rustourismnews.com/2026/11/01/flash-flood-warnings-threaten-zion-bryce-canyon-and-grand-canyon/",
+        "mention_text": "Grand Canyon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Grand Canyon, Coconino County, Arizona, United States",
+        "osm_type": "valley",
+        "osm_id": 150980731,
+        "run_at": "2026-11-02T14:47:41.554365+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3170402,
+          29.8494044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nacionale.com/en/articles/miami-weather-flood-watch-king-tides-november-2026",
+        "title": "Flood watch across South and Central Florida until Monday evening, with coastal flooding into Election Day",
+        "source": "Nacionale",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-01T23:09:17Z",
+        "url": "https://www.nacionale.com/en/articles/miami-weather-flood-watch-king-tides-november-2026",
+        "mention_text": "South",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "St. Augustine South, Saint Johns County, Florida, 32086, United States",
+        "osm_type": "town",
+        "osm_id": 13203803220,
+        "run_at": "2026-11-02T14:47:41.554365+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6623566,
+          30.3270682
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nacionale.com/en/articles/miami-weather-flood-watch-king-tides-november-2026",
+        "title": "Flood watch across South and Central Florida until Monday evening, with coastal flooding into Election Day",
+        "source": "Nacionale",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-01T23:09:17Z",
+        "url": "https://www.nacionale.com/en/articles/miami-weather-flood-watch-king-tides-november-2026",
+        "mention_text": "Central Florida",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Central, West Bay Street, South Jacksonville, Jacksonville, Duval County, Florida, 32202, United States",
+        "osm_type": "station",
+        "osm_id": 8427291143,
+        "run_at": "2026-11-02T14:47:41.554365+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317872576.html",
+        "title": "Coastal flood advisory for Coastal Colleton and Charleston County until Sunday afternoon",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-01T15:33:06Z",
+        "url": "https://www.thestate.com/news/weather-news/article317872576.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-11-02T14:47:41.554365+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4494174,
+          26.6279798
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbs12.com/news/local/flood-advisory-for-palm-beach-county-11-01-2026-205742087",
+        "title": "Flood Advisory for Palm Beach County",
+        "source": "WPEC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-01T21:02:42Z",
+        "url": "https://cbs12.com/news/local/flood-advisory-for-palm-beach-county-11-01-2026-205742087",
+        "mention_text": "Palm Beach County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Palm Beach County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210748,
+        "run_at": "2026-11-02T14:47:41.554365+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5894422,
+          27.7041555
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbs12.com/news/local/flood-advisory-for-palm-beach-county-11-01-2026",
+        "title": "Flood Advisory for Indian River, Martin, Okeechobee and St. Lucie Counties",
+        "source": "WPEC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-01T18:23:05Z",
+        "url": "https://cbs12.com/news/local/flood-advisory-for-palm-beach-county-11-01-2026",
+        "mention_text": "Indian River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Indian River County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210711,
+        "run_at": "2026-11-02T14:47:41.554365+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article317810223.html",
+        "title": "Coastal flood advisory for Coastal Colleton and Charleston County until Wednesday midday",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-10-28T06:43:09Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article317810223.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-11-02T14:47:41.554365+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.010816,
+          37.2695661
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.rustourismnews.com/2026/11/01/colorado-flood-emergency-forces-evacuations-in-pagosa-springs/",
+        "title": "Colorado Flood Emergency Forces Evacuations in Pagosa Springs",
+        "source": "Rus Tourism News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-01T21:59:57Z",
+        "url": "https://www.rustourismnews.com/2026/11/01/colorado-flood-emergency-forces-evacuations-in-pagosa-springs/",
+        "mention_text": "Pagosa Springs",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Pagosa Springs, Archuleta County, Colorado, 81157, United States",
+        "osm_type": "administrative",
+        "osm_id": 112715,
+        "run_at": "2026-11-02T14:47:41.554365+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-11-01T12:44:24.162208+00:00",
-    "total_features": 5633
+    "last_updated": "2026-11-02T14:47:41.583038+00:00",
+    "total_features": 5652
   }
 }
