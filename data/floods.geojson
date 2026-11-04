@@ -147654,11 +147654,323 @@
         "osm_id": 162050,
         "run_at": "2026-11-03T13:38:53.514586+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.425225,
+          27.517111
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mysuncoast.com/2026/11/02/flood-advisory-issued-manatee-sarasota-counties/",
+        "title": "Flood warning issued for Manatee River near Myakka Head",
+        "source": "ABC7 WWSB",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-02T14:44:00Z",
+        "url": "https://www.mysuncoast.com/2026/11/02/flood-advisory-issued-manatee-sarasota-counties/",
+        "mention_text": "Manatee River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Manatee River, Manatee County, Florida, United States",
+        "osm_type": "river",
+        "osm_id": 2193525,
+        "run_at": "2026-11-04T13:48:09.371482+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0756429,
+          27.4680956
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mysuncoast.com/2026/11/02/flood-advisory-issued-manatee-sarasota-counties/",
+        "title": "Flood warning issued for Manatee River near Myakka Head",
+        "source": "ABC7 WWSB",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-02T14:44:00Z",
+        "url": "https://www.mysuncoast.com/2026/11/02/flood-advisory-issued-manatee-sarasota-counties/",
+        "mention_text": "Myakka Head",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Myakka Head, Manatee County, Florida, United States",
+        "osm_type": "hamlet",
+        "osm_id": 153960556,
+        "run_at": "2026-11-04T13:48:09.371482+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4494174,
+          26.6279798
+        ]
+      },
+      "properties": {
+        "article_id": "https://programbusiness.com/news/flash-flood-warning-issued-for-palm-beach-county-as-heavy-rain-continues/",
+        "title": "Flash Flood Warning Issued for Palm Beach County as Heavy Rain Continues",
+        "source": "Program Business",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-03T14:05:01Z",
+        "url": "https://programbusiness.com/news/flash-flood-warning-issued-for-palm-beach-county-as-heavy-rain-continues/",
+        "mention_text": "Palm Beach County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Palm Beach County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210748,
+        "run_at": "2026-11-04T13:48:09.371482+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/1-000-rainfall-triggers-flash-132237278.html",
+        "title": "1,000-year rainfall triggers Flash Flood Emergency across Florida's Space Coast",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-03T13:22:37Z",
+        "url": "https://www.yahoo.com/news/videos/1-000-rainfall-triggers-flash-132237278.html",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-11-04T13:48:09.371482+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6323763,
+          34.5763039
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/1-000-rainfall-triggers-flash-132237278.html",
+        "title": "1,000-year rainfall triggers Flash Flood Emergency across Florida's Space Coast",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-03T13:22:37Z",
+        "url": "https://www.yahoo.com/news/videos/1-000-rainfall-triggers-flash-132237278.html",
+        "mention_text": "Space Coast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Vandenberg Space Launch Complex 8, Coast Road, Arlight, Santa Barbara County, California, United States",
+        "osm_type": "launch_complex",
+        "osm_id": 78488379,
+        "run_at": "2026-11-04T13:48:09.371482+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0710635,
+          31.9891963
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.news.com.au/national/cars-drive-through-lashing-rain-as-flash-flood-warning-issued-in-southern-florida/video/4ea6f34e43dfce68a492c13ca7ce9b4c",
+        "title": "Cars Drive Through Lashing Rain as Flash Flood Warning Issued in Southern Florida",
+        "source": "News.com.au",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-04T08:47:55Z",
+        "url": "https://www.news.com.au/national/cars-drive-through-lashing-rain-as-flash-flood-warning-issued-in-southern-florida/video/4ea6f34e43dfce68a492c13ca7ce9b4c",
+        "mention_text": "Southern Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "East Florida Avenue, Southern, Midland, Midland County, Texas, 79701, United States",
+        "osm_type": "primary",
+        "osm_id": 889113142,
+        "run_at": "2026-11-04T13:48:09.371482+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4623642,
+          26.1598074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcmiami.com/weather/stories-weather/live-radar-flood-advisory-in-effect-in-broward-after-huge-rains-pummel-south-florida/3883526/",
+        "title": "LIVE RADAR: Flood advisory in effect in Broward after huge rains pummel South Florida",
+        "source": "NBC 6 South Florida",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-04T13:25:10Z",
+        "url": "https://www.nbcmiami.com/weather/stories-weather/live-radar-flood-advisory-in-effect-in-broward-after-huge-rains-pummel-south-florida/3883526/",
+        "mention_text": "Broward",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Broward County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210714,
+        "run_at": "2026-11-04T13:48:09.371482+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcmiami.com/weather/stories-weather/live-radar-flood-advisory-in-effect-in-broward-after-huge-rains-pummel-south-florida/3883526/",
+        "title": "LIVE RADAR: Flood advisory in effect in Broward after huge rains pummel South Florida",
+        "source": "NBC 6 South Florida",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-04T13:25:10Z",
+        "url": "https://www.nbcmiami.com/weather/stories-weather/live-radar-flood-advisory-in-effect-in-broward-after-huge-rains-pummel-south-florida/3883526/",
+        "mention_text": "Florida",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-11-04T13:48:09.371482+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4494174,
+          26.6279798
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbs12.com/news/local/flood-advisory-for-palm-beach-county-11-04-2026",
+        "title": "Flood Advisory for Palm Beach County",
+        "source": "WPEC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-04T04:18:09Z",
+        "url": "https://cbs12.com/news/local/flood-advisory-for-palm-beach-county-11-04-2026",
+        "mention_text": "Palm Beach County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Palm Beach County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210748,
+        "run_at": "2026-11-04T13:48:09.371482+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.350943,
+          27.681073
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sfchronicle.com/weather/article/coastal-flood-high-tides-22509817.php",
+        "title": "Bay Area gets another coastal flood advisory as tides run unusually high",
+        "source": "San Francisco Chronicle",
+        "outlet_city": "Houston",
+        "outlet_region": "Texas",
+        "published_at": "2026-11-03T22:54:38Z",
+        "url": "https://www.sfchronicle.com/weather/article/coastal-flood-high-tides-22509817.php",
+        "mention_text": "Bay Area",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Move It Self Storage Bay Area, 2301, Corpus Christi, Nueces County, Texas, 78414, United States",
+        "osm_type": "commercial",
+        "osm_id": 1452185938,
+        "run_at": "2026-11-04T13:48:09.371482+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5873816,
+          41.7370229
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.centralnebraskatoday.com/2026/11/03/flood-advisory-issued-for-several-counties-in-central-nebraska-until-230-p-m/",
+        "title": "Flood Advisory issued for several counties in central Nebraska until 2:30 p.m.",
+        "source": "Central Nebraska Today",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-03T14:48:16Z",
+        "url": "https://www.centralnebraskatoday.com/2026/11/03/flood-advisory-issued-for-several-counties-in-central-nebraska-until-230-p-m/",
+        "mention_text": "Nebraska",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Nebraska, United States",
+        "osm_type": "administrative",
+        "osm_id": 161648,
+        "run_at": "2026-11-04T13:48:09.371482+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.8854639,
+          33.759478
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/11/03/san-francisco-county-under-a-coastal-flood-advisory-from-wednesday-to-monday/",
+        "title": "San Francisco County under a coastal flood advisory from Wednesday to Monday",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-03T19:30:40Z",
+        "url": "https://www.eastbaytimes.com/2026/11/03/san-francisco-county-under-a-coastal-flood-advisory-from-wednesday-to-monday/",
+        "mention_text": "San Francisco County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco, Catron County, New Mexico, United States",
+        "osm_type": "peak",
+        "osm_id": 11066998506,
+        "run_at": "2026-11-04T13:48:09.371482+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-11-03T13:38:53.546602+00:00",
-    "total_features": 5679
+    "last_updated": "2026-11-04T13:48:09.392676+00:00",
+    "total_features": 5691
   }
 }
