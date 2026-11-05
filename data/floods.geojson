@@ -147966,11 +147966,947 @@
         "osm_id": 11066998506,
         "run_at": "2026-11-04T13:48:09.371482+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0902822,
+          33.5372542
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wsbtv.com/news/local/live-updates-flash-flooding-north-georgia-closes-roads-forces-families-homes/AOJASI7HH5BVJAFJAKRTCPHNIM/",
+        "title": "LIVE UPDATES: Flash Flood Warning extended in Fannin County",
+        "source": "WSB-TV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T10:22:15Z",
+        "url": "https://www.wsbtv.com/news/local/live-updates-flash-flooding-north-georgia-closes-roads-forces-families-homes/AOJASI7HH5BVJAFJAKRTCPHNIM/",
+        "mention_text": "Fannin County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Fannin County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1634509,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1791849,
+          31.8390826
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317936280.html",
+        "title": "UPDATE: Flash flood warning affecting Cherokee County Thursday morning",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T07:24:40Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317936280.html",
+        "mention_text": "Cherokee County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Cherokee County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839605,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0902822,
+          33.5372542
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.11alive.com/article/weather/weather-impact/catastrophic-flash-flood-warning-fannin-gilmer-counties/85-418dc7dc-f64d-4b90-a0ab-02978fcda5af",
+        "title": "Catastrophic flash flood warning impacts Fannin, Gilmer counties",
+        "source": "11Alive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T06:09:00Z",
+        "url": "https://www.11alive.com/article/weather/weather-impact/catastrophic-flash-flood-warning-fannin-gilmer-counties/85-418dc7dc-f64d-4b90-a0ab-02978fcda5af",
+        "mention_text": "Fannin",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Fannin County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1634509,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0902822,
+          33.5372542
+        ]
+      },
+      "properties": {
+        "article_id": "https://newschannel9.com/weather/stormtrack-9-blog/flash-flood-emergency-for-parts-of-fannin-and-gilmer-co-through-early-thursday-morning",
+        "title": "Flash Flood Emergency for parts of Fannin and Gilmer Co through early Thursday Morning",
+        "source": "WTVC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T06:51:10Z",
+        "url": "https://newschannel9.com/weather/stormtrack-9-blog/flash-flood-emergency-for-parts-of-fannin-and-gilmer-co-through-early-thursday-morning",
+        "mention_text": "Fannin",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Fannin County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1634509,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0902822,
+          33.5372542
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox5atlanta.com/video/fmc-zwfx6jf8wg1acoj9",
+        "title": "Flash flood rescue caught live in Fannin County",
+        "source": "FOX 5 Atlanta",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T10:37:51Z",
+        "url": "https://www.fox5atlanta.com/video/fmc-zwfx6jf8wg1acoj9",
+        "mention_text": "Fannin County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Fannin County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1634509,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1137366,
+          32.3293809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.atlantanewsfirst.com/video/2026/11/05/first-alert-weather-day-flash-flood-warnings-effect-north-georgia/",
+        "title": "First Alert Weather Day: Flash flood warnings in effect for north Georgia",
+        "source": "Atlanta News First",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T09:44:16Z",
+        "url": "https://www.atlantanewsfirst.com/video/2026/11/05/first-alert-weather-day-flash-flood-warnings-effect-north-georgia/",
+        "mention_text": "Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 161957,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0902822,
+          33.5372542
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.local3news.com/local-news/flash-flood-emergency-issued-for-parts-of-fannin-and-gilmer-counties-wednesday-night/article_e49f6786-f2b5-4fb9-a757-80cad475cd76.html",
+        "title": "Flash flood emergency issued for parts of Fannin and Gilmer counties Wednesday night",
+        "source": "Local 3 News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T04:11:00Z",
+        "url": "https://www.local3news.com/local-news/flash-flood-emergency-issued-for-parts-of-fannin-and-gilmer-counties-wednesday-night/article_e49f6786-f2b5-4fb9-a757-80cad475cd76.html",
+        "mention_text": "Fannin",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Fannin County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1634509,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1137366,
+          32.3293809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.11alive.com/video/weather/weather-impact/catastrophic-flash-flood-warning-in-north-georgia/85-35780b0f-d9e2-4e1a-9394-a28c04dbd7cc",
+        "title": "Catastrophic flash flood warning in north Georgia",
+        "source": "11Alive.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T05:33:00Z",
+        "url": "https://www.11alive.com/video/weather/weather-impact/catastrophic-flash-flood-warning-in-north-georgia/85-35780b0f-d9e2-4e1a-9394-a28c04dbd7cc",
+        "mention_text": "Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 161957,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0902822,
+          33.5372542
+        ]
+      },
+      "properties": {
+        "article_id": "https://newschannel9.com/weather/stormtrack-9-blog/gallery/flash-flood-emergency-for-parts-of-fannin-and-gilmer-co-through-early-thursday-morning",
+        "title": "Flash Flood Emergency for parts of Fannin and Gilmer Co through early Thursday Morning",
+        "source": "WTVC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T06:43:32Z",
+        "url": "https://newschannel9.com/weather/stormtrack-9-blog/gallery/flash-flood-emergency-for-parts-of-fannin-and-gilmer-co-through-early-thursday-morning",
+        "mention_text": "Fannin",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Fannin County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1634509,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6522339,
+          40.9957399
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kciiradio.com/2026/11/05/flood-warning-issued-for-skunk-river-and-iowa-river-watch-still-in-effect-for-english-river/",
+        "title": "Flood Warning Issued for Skunk River and Iowa River, Watch Still in Effect for English River",
+        "source": "KCII Radio",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T12:38:26Z",
+        "url": "https://www.kciiradio.com/2026/11/05/flood-warning-issued-for-skunk-river-and-iowa-river-watch-still-in-effect-for-english-river/",
+        "mention_text": "Skunk River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Skunk River, Henry County, Iowa, United States",
+        "osm_type": "river",
+        "osm_id": 14432946,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3876493,
+          41.9057542
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kciiradio.com/2026/11/05/flood-warning-issued-for-skunk-river-and-iowa-river-watch-still-in-effect-for-english-river/",
+        "title": "Flood Warning Issued for Skunk River and Iowa River, Watch Still in Effect for English River",
+        "source": "KCII Radio",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T12:38:26Z",
+        "url": "https://www.kciiradio.com/2026/11/05/flood-warning-issued-for-skunk-river-and-iowa-river-watch-still-in-effect-for-english-river/",
+        "mention_text": "Iowa River",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Iowa River, United States",
+        "osm_type": "river",
+        "osm_id": 10020616,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aol.com/articles/massive-storm-targets-east-coast-121343000.html",
+        "title": "Intense rain triggers Flash Flood Emergency at Tennessee-Georgia border as cross-country storm shifts east",
+        "source": "AOL.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T11:36:00Z",
+        "url": "https://www.aol.com/articles/massive-storm-targets-east-coast-121343000.html",
+        "mention_text": "Tennessee",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tennessee, United States",
+        "osm_type": "administrative",
+        "osm_id": 161838,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1137366,
+          32.3293809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aol.com/articles/massive-storm-targets-east-coast-121343000.html",
+        "title": "Intense rain triggers Flash Flood Emergency at Tennessee-Georgia border as cross-country storm shifts east",
+        "source": "AOL.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T11:36:00Z",
+        "url": "https://www.aol.com/articles/massive-storm-targets-east-coast-121343000.html",
+        "mention_text": "Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 161957,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1137366,
+          32.3293809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/flash-flood-emergency-georgia-tennessee-104318802.html",
+        "title": "Flash Flood Emergency in Georgia, Tennessee as cross-country system shifts into East Coast",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T10:43:18Z",
+        "url": "https://www.yahoo.com/news/videos/flash-flood-emergency-georgia-tennessee-104318802.html",
+        "mention_text": "Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 161957,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/flash-flood-emergency-georgia-tennessee-104318802.html",
+        "title": "Flash Flood Emergency in Georgia, Tennessee as cross-country system shifts into East Coast",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T10:43:18Z",
+        "url": "https://www.yahoo.com/news/videos/flash-flood-emergency-georgia-tennessee-104318802.html",
+        "mention_text": "Tennessee",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tennessee, United States",
+        "osm_type": "administrative",
+        "osm_id": 161838,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3126651,
+          41.3806114
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/flash-flood-emergency-georgia-tennessee-104318802.html",
+        "title": "Flash Flood Emergency in Georgia, Tennessee as cross-country system shifts into East Coast",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T10:43:18Z",
+        "url": "https://www.yahoo.com/news/videos/flash-flood-emergency-georgia-tennessee-104318802.html",
+        "mention_text": "East Coast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "East Coast, Town of Goshen, Orange County, New York, United States",
+        "osm_type": "garden",
+        "osm_id": 1107357381,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0902822,
+          33.5372542
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wsbtv.com/news/local/showers-storms-move-through-north-georgia-today/2ASPNLKPLZEPBKUISMWXIMJIPE/",
+        "title": "\u2018Catastrophic\u2019 flash flood warning issued for Fannin counties",
+        "source": "WSB-TV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T04:06:00Z",
+        "url": "https://www.wsbtv.com/news/local/showers-storms-move-through-north-georgia-today/2ASPNLKPLZEPBKUISMWXIMJIPE/",
+        "mention_text": "Fannin",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Fannin County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1634509,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1137366,
+          32.3293809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/watch-mccaysville-georgia-inundated-during-111155358.html",
+        "title": "Watch: McCaysville, Georgia, inundated during Flash Flood Emergency",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T11:11:55Z",
+        "url": "https://www.yahoo.com/news/videos/watch-mccaysville-georgia-inundated-during-111155358.html",
+        "mention_text": "Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 161957,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3773921,
+          33.9583384
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox5atlanta.com/news/north-georgia-forecast-strong-storms-isolated-tornadoes-possible-today",
+        "title": "Catastrophic Flash Flood Warning in North Georgia | What you need to know",
+        "source": "FOX 5 Atlanta",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-04T11:22:26Z",
+        "url": "https://www.fox5atlanta.com/news/north-georgia-forecast-strong-storms-isolated-tornadoes-possible-today",
+        "mention_text": "North Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia Theatre, 215, North Lumpkin Street, Athens, Clarke County, Georgia, 30601, United States",
+        "osm_type": "music_venue",
+        "osm_id": 242751392,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.607716,
+          38.7251776
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.denvergazette.com/2026/11/01/flash-floods-trigger-evacuations-in-arizona-colorado-amid-heavy-rains/",
+        "title": "More rain triggers flash flood evacuations in Colorado, Arizona",
+        "source": "Denver Gazette",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-01T22:07:06Z",
+        "url": "https://www.denvergazette.com/2026/11/01/flash-floods-trigger-evacuations-in-arizona-colorado-amid-heavy-rains/",
+        "mention_text": "Colorado",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Colorado, United States",
+        "osm_type": "administrative",
+        "osm_id": 161961,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.denvergazette.com/2026/11/01/flash-floods-trigger-evacuations-in-arizona-colorado-amid-heavy-rains/",
+        "title": "More rain triggers flash flood evacuations in Colorado, Arizona",
+        "source": "Denver Gazette",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-01T22:07:06Z",
+        "url": "https://www.denvergazette.com/2026/11/01/flash-floods-trigger-evacuations-in-arizona-colorado-amid-heavy-rains/",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://fox5sandiego.com/news/local-news/coastal/coastal-flood-advisory-san-diego-county/amp/",
+        "title": "Coastal Flood Advisory issued for San Diego County",
+        "source": "FOX 5 San Diego & KUSI News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-04T20:59:56Z",
+        "url": "https://fox5sandiego.com/news/local-news/coastal/coastal-flood-advisory-san-diego-county/amp/",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://fox5sandiego.com/news/local-news/coastal/coastal-flood-advisory-san-diego-county/",
+        "title": "Coastal Flood Advisory issued for San Diego County",
+        "source": "FOX 5 San Diego & KUSI News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T04:59:56Z",
+        "url": "https://fox5sandiego.com/news/local-news/coastal/coastal-flood-advisory-san-diego-county/",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3773921,
+          33.9583384
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wkrn.com/video/flood-emergency-happening-in-north-georgia/12340408/",
+        "title": "Flood emergency happening in North Georgia",
+        "source": "WKRN News 2",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T13:03:27Z",
+        "url": "https://www.wkrn.com/video/flood-emergency-happening-in-north-georgia/12340408/",
+        "mention_text": "North Georgia",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Georgia Theatre, 215, North Lumpkin Street, Athens, Clarke County, Georgia, 30601, United States",
+        "osm_type": "music_venue",
+        "osm_id": 242751392,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4275918,
+          33.829579
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article317934759.html",
+        "title": "Flood advisory active for Oconee County until 3 a.m. Thursday due to intense rainfall",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T03:04:07Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article317934759.html",
+        "mention_text": "Oconee County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oconee County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 1020708,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3747719,
+          37.6621028
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/11/05/coastal-flood-advisory-issued-for-bay-area-shorelines-from-saturday-to-tuesday/",
+        "title": "Coastal flood advisory issued for Bay Area Shorelines from Saturday to Tuesday",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T10:10:26Z",
+        "url": "https://www.mercurynews.com/2026/11/05/coastal-flood-advisory-issued-for-bay-area-shorelines-from-saturday-to-tuesday/",
+        "mention_text": "Bay Area Shorelines",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Bay Area Shorelines & Waterways, Marina Boulevard, South San Francisco, San Mateo County, California, 94083, United States",
+        "osm_type": "map",
+        "osm_id": 10817026016,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6908566,
+          33.4657158
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ocregister.com/2026/11/04/coastal-flood-advisory-in-place-for-orange-county-coast-and-san-diego-county-coastal-areas-from-friday-to-tuesday/",
+        "title": "Coastal flood advisory in place for Orange County Coast and San Diego County Coastal Areas from Friday to Tuesday",
+        "source": "Orange County Register",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-04T20:48:14Z",
+        "url": "https://www.ocregister.com/2026/11/04/coastal-flood-advisory-in-place-for-orange-county-coast-and-san-diego-county-coastal-areas-from-friday-to-tuesday/",
+        "mention_text": "Orange County Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Orange County Creamery, 34255, Pacific Coast Highway, Toovunga, South Cove, Dana Point, Orange County, California, 92629, United States",
+        "osm_type": "ice_cream",
+        "osm_id": 13327327772,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ocregister.com/2026/11/04/coastal-flood-advisory-in-place-for-orange-county-coast-and-san-diego-county-coastal-areas-from-friday-to-tuesday/",
+        "title": "Coastal flood advisory in place for Orange County Coast and San Diego County Coastal Areas from Friday to Tuesday",
+        "source": "Orange County Register",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-04T20:48:14Z",
+        "url": "https://www.ocregister.com/2026/11/04/coastal-flood-advisory-in-place-for-orange-county-coast-and-san-diego-county-coastal-areas-from-friday-to-tuesday/",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3747719,
+          37.6621028
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317937086.html",
+        "title": "Coastal flood advisory for Bay Area Shorelines from Saturday to Tuesday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T10:35:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317937086.html",
+        "mention_text": "Bay Area Shorelines",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Bay Area Shorelines & Waterways, Marina Boulevard, South San Francisco, San Mateo County, California, 94083, United States",
+        "osm_type": "map",
+        "osm_id": 10817026016,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317929410.html",
+        "title": "UPDATE: San Diego County Coastal Areas and Orange County Coastal under a coastal flood advisory",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T13:02:08Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317929410.html",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbs12.com/news/local/gov-desantis-expands-florida-flood-emergency-to-palm-beach-okeechobee-counties-florida-news-local-news-flooding-problems",
+        "title": "Gov. DeSantis expands Florida flood emergency to Palm Beach, Okeechobee counties",
+        "source": "WPEC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-04T21:30:57Z",
+        "url": "https://cbs12.com/news/local/gov-desantis-expands-florida-flood-emergency-to-palm-beach-okeechobee-counties-florida-news-local-news-flooding-problems",
+        "mention_text": "Florida",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4494174,
+          26.6279798
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbs12.com/news/local/gov-desantis-expands-florida-flood-emergency-to-palm-beach-okeechobee-counties-florida-news-local-news-flooding-problems",
+        "title": "Gov. DeSantis expands Florida flood emergency to Palm Beach, Okeechobee counties",
+        "source": "WPEC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-04T21:30:57Z",
+        "url": "https://cbs12.com/news/local/gov-desantis-expands-florida-flood-emergency-to-palm-beach-okeechobee-counties-florida-news-local-news-flooding-problems",
+        "mention_text": "Palm Beach",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Palm Beach County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210748,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbs12.com/news/local/gallery/gov-desantis-expands-florida-flood-emergency-to-palm-beach-okeechobee-counties-florida-news-local-news-flooding-problems",
+        "title": "Gov. DeSantis expands Florida flood emergency to Palm Beach, Okeechobee counties",
+        "source": "WPEC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-04T21:29:31Z",
+        "url": "https://cbs12.com/news/local/gallery/gov-desantis-expands-florida-flood-emergency-to-palm-beach-okeechobee-counties-florida-news-local-news-flooding-problems",
+        "mention_text": "Florida",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4494174,
+          26.6279798
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbs12.com/news/local/gallery/gov-desantis-expands-florida-flood-emergency-to-palm-beach-okeechobee-counties-florida-news-local-news-flooding-problems",
+        "title": "Gov. DeSantis expands Florida flood emergency to Palm Beach, Okeechobee counties",
+        "source": "WPEC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-04T21:29:31Z",
+        "url": "https://cbs12.com/news/local/gallery/gov-desantis-expands-florida-flood-emergency-to-palm-beach-okeechobee-counties-florida-news-local-news-flooding-problems",
+        "mention_text": "Palm Beach",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Palm Beach County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210748,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.8854639,
+          33.759478
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317906388.html",
+        "title": "UPDATE: Coastal flood advisory in place for San Francisco County from Wednesday to Monday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-04T04:14:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317906388.html",
+        "mention_text": "San Francisco County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco, Catron County, New Mexico, United States",
+        "osm_type": "peak",
+        "osm_id": 11066998506,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.straitstimes.com/videos/6407949580112",
+        "title": "'Shark' seen swimming in flooded road in South Florida",
+        "source": "The Straits Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T13:15:46Z",
+        "url": "https://www.straitstimes.com/videos/6407949580112",
+        "mention_text": "Florida",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-11-05T14:02:37.350953+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-11-04T13:48:09.392676+00:00",
-    "total_features": 5691
+    "last_updated": "2026-11-05T14:02:37.369872+00:00",
+    "total_features": 5727
   }
 }
