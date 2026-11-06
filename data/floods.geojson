@@ -148902,11 +148902,739 @@
         "osm_id": 162050,
         "run_at": "2026-11-05T14:02:37.350953+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7226665,
+          39.9325409
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.courierpostonline.com/story/weather/2026/11/06/weather-alert-burlington-flash-flood-warning-friday-nov-6/92639095007/",
+        "title": "Flash flood warning issued for Burlington County",
+        "source": "Courier-Post",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-06T13:10:00Z",
+        "url": "https://www.courierpostonline.com/story/weather/2026/11/06/weather-alert-burlington-flash-flood-warning-friday-nov-6/92639095007/",
+        "mention_text": "Burlington County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Burlington County, New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 963152,
+        "run_at": "2026-11-06T13:46:18.494107+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4041622,
+          40.0757384
+        ]
+      },
+      "properties": {
+        "article_id": "https://pix11.com/news/flash-flood-warning-issued-for-portions-of-new-jersey/",
+        "title": "Flash flood warning issued for portions of New Jersey",
+        "source": "PIX11",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-06T13:18:29Z",
+        "url": "https://pix11.com/news/flash-flood-warning-issued-for-portions-of-new-jersey/",
+        "mention_text": "New Jersey",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 224951,
+        "run_at": "2026-11-06T13:46:18.494107+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4041622,
+          40.0757384
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nj.com/weather/2026/11/nj-weather-flash-flood-warning-issued-for-3-counties-as-thunderstorms-downpours-hit-state.html",
+        "title": "N.J. weather: Flash flood warning issued for 3 counties as thunderstorms, downpours hit state",
+        "source": "NJ.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-06T12:15:00Z",
+        "url": "https://www.nj.com/weather/2026/11/nj-weather-flash-flood-warning-issued-for-3-counties-as-thunderstorms-downpours-hit-state.html",
+        "mention_text": "N.J.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 224951,
+        "run_at": "2026-11-06T13:46:18.494107+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1137366,
+          32.3293809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.rocketcitynow.com/article/weather/weather-impact/torrential-rain-spurs-record-flooding-flash-flood-emergency-in-north-georgia-and-southeast-tennessee/525-a9d44dd5-680e-4f62-b9e3-d2faf55bc8f1",
+        "title": "Torrential rain spurs record flooding, flash flood emergency in north Georgia and southeast Tennessee",
+        "source": "rocketcitynow.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T17:43:19Z",
+        "url": "https://www.rocketcitynow.com/article/weather/weather-impact/torrential-rain-spurs-record-flooding-flash-flood-emergency-in-north-georgia-and-southeast-tennessee/525-a9d44dd5-680e-4f62-b9e3-d2faf55bc8f1",
+        "mention_text": "Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 161957,
+        "run_at": "2026-11-06T13:46:18.494107+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.rocketcitynow.com/article/weather/weather-impact/torrential-rain-spurs-record-flooding-flash-flood-emergency-in-north-georgia-and-southeast-tennessee/525-a9d44dd5-680e-4f62-b9e3-d2faf55bc8f1",
+        "title": "Torrential rain spurs record flooding, flash flood emergency in north Georgia and southeast Tennessee",
+        "source": "rocketcitynow.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T17:43:19Z",
+        "url": "https://www.rocketcitynow.com/article/weather/weather-impact/torrential-rain-spurs-record-flooding-flash-flood-emergency-in-north-georgia-and-southeast-tennessee/525-a9d44dd5-680e-4f62-b9e3-d2faf55bc8f1",
+        "mention_text": "Tennessee",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tennessee, United States",
+        "osm_type": "administrative",
+        "osm_id": 161838,
+        "run_at": "2026-11-06T13:46:18.494107+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1137366,
+          32.3293809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/state-of-emergency-declared-as-at-least-80-rescued-amid-flash-flood-emergency-along-georgia-tennessee-border",
+        "title": "State of emergency declared as at least 80 rescued amid Flash Flood Emergency along Georgia-Tennessee border",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T14:44:00Z",
+        "url": "https://www.foxweather.com/weather-news/state-of-emergency-declared-as-at-least-80-rescued-amid-flash-flood-emergency-along-georgia-tennessee-border",
+        "mention_text": "Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 161957,
+        "run_at": "2026-11-06T13:46:18.494107+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1137366,
+          32.3293809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/water-rescues-flash-flood-emergency-georgia-tennessee-border-river-record",
+        "title": "At least 45 rescued amid Flash Flood Emergency along Georgia-Tennessee border as river rises to record level",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T14:44:00Z",
+        "url": "https://www.foxweather.com/weather-news/water-rescues-flash-flood-emergency-georgia-tennessee-border-river-record",
+        "mention_text": "Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 161957,
+        "run_at": "2026-11-06T13:46:18.494107+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/weather-forecasts/storm-to-soak-south-texas-this-weekend-raising-flash-flood-risk/1955098",
+        "title": "Storm to soak South Texas this weekend, raising flash flood risk",
+        "source": "AccuWeather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T16:57:48Z",
+        "url": "https://www.accuweather.com/en/weather-forecasts/storm-to-soak-south-texas-this-weekend-raising-flash-flood-risk/1955098",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-11-06T13:46:18.494107+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1137366,
+          32.3293809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-bzl7f1d8wfoy03pg",
+        "title": "Fannin County Emergency Management Agency speaks to FOX Weather about Georgia Flash Flood Emergency",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T15:57:17Z",
+        "url": "https://www.foxweather.com/watch/fmc-bzl7f1d8wfoy03pg",
+        "mention_text": "Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 161957,
+        "run_at": "2026-11-06T13:46:18.494107+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3773921,
+          33.9583384
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox5atlanta.com/video/fmc-3j6m3ovg1m9sml41",
+        "title": "McCaysville flash flood: 18-ft crest sweeps North Georgia",
+        "source": "FOX 5 Atlanta",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T18:29:07Z",
+        "url": "https://www.fox5atlanta.com/video/fmc-3j6m3ovg1m9sml41",
+        "mention_text": "North Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia Theatre, 215, North Lumpkin Street, Athens, Clarke County, Georgia, 30601, United States",
+        "osm_type": "music_venue",
+        "osm_id": 242751392,
+        "run_at": "2026-11-06T13:46:18.494107+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6855046,
+          42.7814206
+        ]
+      },
+      "properties": {
+        "article_id": "https://wnyt.com/top-stories/state-police-release-video-of-swift-water-rescue-at-peebles-island/",
+        "title": "State police release video of swift-water rescue at Peebles Island",
+        "source": "WNYT.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T17:47:50Z",
+        "url": "https://wnyt.com/top-stories/state-police-release-video-of-swift-water-rescue-at-peebles-island/",
+        "mention_text": "Peebles Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Peebles Island, Town of Waterford, Saratoga County, New York, United States",
+        "osm_type": "island",
+        "osm_id": 172712248,
+        "run_at": "2026-11-06T13:46:18.494107+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5948744,
+          36.0301568
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.weeklytimesnow.com.au/news/national/water-gushes-from-dam-amid-flash-flood-emergency-in-southeastern-tennessee/video/fa5d5d86feeb9d65ef228c429feea7d7",
+        "title": "Water Gushes From Dam Amid Flash Flood Emergency in Southeastern Tennessee",
+        "source": "The Weekly Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-06T00:10:49Z",
+        "url": "https://www.weeklytimesnow.com.au/news/national/water-gushes-from-dam-amid-flash-flood-emergency-in-southeastern-tennessee/video/fa5d5d86feeb9d65ef228c429feea7d7",
+        "mention_text": "Southeastern Tennessee",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Southeastern Freight Lines, Nashville, Davidson County, Middle Tennessee, Tennessee, United States",
+        "osm_type": "industrial",
+        "osm_id": 1212565891,
+        "run_at": "2026-11-06T13:46:18.494107+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/massive-cross-country-storm-targets-east-coast-with-heavy-rain-after-unleashing-severe-weather-in-southeast",
+        "title": "Intense rain triggers Flash Flood Emergency at Tennessee-Georgia border as cross-country storm shifts east",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-04T12:13:00Z",
+        "url": "https://www.foxweather.com/weather-news/massive-cross-country-storm-targets-east-coast-with-heavy-rain-after-unleashing-severe-weather-in-southeast",
+        "mention_text": "Tennessee",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tennessee, United States",
+        "osm_type": "administrative",
+        "osm_id": 161838,
+        "run_at": "2026-11-06T13:46:18.494107+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1137366,
+          32.3293809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/massive-cross-country-storm-targets-east-coast-with-heavy-rain-after-unleashing-severe-weather-in-southeast",
+        "title": "Intense rain triggers Flash Flood Emergency at Tennessee-Georgia border as cross-country storm shifts east",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-04T12:13:00Z",
+        "url": "https://www.foxweather.com/weather-news/massive-cross-country-storm-targets-east-coast-with-heavy-rain-after-unleashing-severe-weather-in-southeast",
+        "mention_text": "Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 161957,
+        "run_at": "2026-11-06T13:46:18.494107+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1137366,
+          32.3293809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.livenowfox.com/video/fmc-or7bnzrmcgqewenm",
+        "title": "Georgia flash flood rescues underway",
+        "source": "LiveNOW from FOX",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T10:51:24Z",
+        "url": "https://www.livenowfox.com/video/fmc-or7bnzrmcgqewenm",
+        "mention_text": "Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 161957,
+        "run_at": "2026-11-06T13:46:18.494107+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3773921,
+          33.9583384
+        ]
+      },
+      "properties": {
+        "article_id": "https://cnaw2news.com/news/flash-flood-emergency-declared-north-georgia-record-river-levels-flood-downtown",
+        "title": "Flash Flood Emergency Declared in North Georgia as Record River Levels Flood Downtown McCaysville",
+        "source": "CNAW2",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T14:05:58Z",
+        "url": "https://cnaw2news.com/news/flash-flood-emergency-declared-north-georgia-record-river-levels-flood-downtown",
+        "mention_text": "North Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia Theatre, 215, North Lumpkin Street, Athens, Clarke County, Georgia, 30601, United States",
+        "osm_type": "music_venue",
+        "osm_id": 242751392,
+        "run_at": "2026-11-06T13:46:18.494107+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4970393,
+          38.0464066
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article317956976.html",
+        "title": "Lexington and Richland counties under a flood advisory Friday morning",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-06T12:49:06Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article317956976.html",
+        "mention_text": "Lexington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Lexington, Fayette County, Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 11078268,
+        "run_at": "2026-11-06T13:46:18.494107+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wvlt.tv/video/2026/11/05/heavy-rain-prompts-flood-emergency-southeast-tennessee/",
+        "title": "Heavy rain prompts flood emergency in southeast Tennessee",
+        "source": "WVLT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T23:28:00Z",
+        "url": "https://www.wvlt.tv/video/2026/11/05/heavy-rain-prompts-flood-emergency-southeast-tennessee/",
+        "mention_text": "Tennessee",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tennessee, United States",
+        "osm_type": "administrative",
+        "osm_id": 161838,
+        "run_at": "2026-11-06T13:46:18.494107+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6199638,
+          38.0409144
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.marinij.com/2026/11/05/marin-shorelines-included-in-coastal-flood-advisory/",
+        "title": "Marin shorelines included in coastal flood advisory",
+        "source": "Marin Independent Journal",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T17:57:05Z",
+        "url": "https://www.marinij.com/2026/11/05/marin-shorelines-included-in-coastal-flood-advisory/",
+        "mention_text": "Marin",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Marin County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396461,
+        "run_at": "2026-11-06T13:46:18.494107+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3558473,
+          37.7884969
+        ]
+      },
+      "properties": {
+        "article_id": "https://sfist.com/2026/11/05/bay-area-under-coastal-flood-advisory-as-potential-16-foot-waves-threaten-beaches/",
+        "title": "Bay Area Under Coastal Flood Advisory as Potential 16-Foot Waves Threaten Beaches",
+        "source": "SFist",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T21:03:36Z",
+        "url": "https://sfist.com/2026/11/05/bay-area-under-coastal-flood-advisory-as-potential-16-foot-waves-threaten-beaches/",
+        "mention_text": "Bay Area",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco Bay Area, San Francisco, California, 94130, United States",
+        "osm_type": "region",
+        "osm_id": 2157162589,
+        "run_at": "2026-11-06T13:46:18.494107+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4275918,
+          33.829579
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317934759.html",
+        "title": "Flood advisory active for Oconee County until 3 a.m. Thursday due to intense rainfall",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T03:04:07Z",
+        "url": "https://www.thestate.com/news/weather-news/article317934759.html",
+        "mention_text": "Oconee County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oconee County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 1020708,
+        "run_at": "2026-11-06T13:46:18.494107+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wvlt.tv/video/2026/11/05/heavy-rain-prompts-flood-emergency-southeast-tennessee-emergency-operations-center-activated/",
+        "title": "Heavy rain prompts flood emergency in southeast Tennessee, Emergency Operations Center activated",
+        "source": "WVLT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T20:49:00Z",
+        "url": "https://www.wvlt.tv/video/2026/11/05/heavy-rain-prompts-flood-emergency-southeast-tennessee-emergency-operations-center-activated/",
+        "mention_text": "Tennessee",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tennessee, United States",
+        "osm_type": "administrative",
+        "osm_id": 161838,
+        "run_at": "2026-11-06T13:46:18.494107+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0902822,
+          33.5372542
+        ]
+      },
+      "properties": {
+        "article_id": "https://newschannel9.com/weather/stormtrack-9-blog/gallery/flash-flood-emergency-for-parts-of-fannin-and-gilmer-co-through-early-thursday-morning?photo=2",
+        "title": "Flash Flood Emergency for parts of Fannin and Gilmer Co through early Thursday Morning",
+        "source": "WTVC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T09:20:48Z",
+        "url": "https://newschannel9.com/weather/stormtrack-9-blog/gallery/flash-flood-emergency-for-parts-of-fannin-and-gilmer-co-through-early-thursday-morning?photo=2",
+        "mention_text": "Fannin",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Fannin County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1634509,
+        "run_at": "2026-11-06T13:46:18.494107+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.8854639,
+          33.759478
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/11/03/san-francisco-county-under-a-coastal-flood-advisory-from-wednesday-to-monday/",
+        "title": "San Francisco County under a coastal flood advisory from Wednesday to Monday",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-03T19:30:40Z",
+        "url": "https://www.mercurynews.com/2026/11/03/san-francisco-county-under-a-coastal-flood-advisory-from-wednesday-to-monday/",
+        "mention_text": "San Francisco County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco, Catron County, New Mexico, United States",
+        "osm_type": "peak",
+        "osm_id": 11066998506,
+        "run_at": "2026-11-06T13:46:18.494107+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3713117,
+          34.9861914
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/flash-flood-emergency-inundates-mccaysville-153145712.html",
+        "title": "Flash Flood Emergency inundates McCaysville, Georgia, prompting rescues and evacuations",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T15:31:45Z",
+        "url": "https://www.yahoo.com/news/videos/flash-flood-emergency-inundates-mccaysville-153145712.html",
+        "mention_text": "McCaysville",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "McCaysville, Fannin County, Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 119840,
+        "run_at": "2026-11-06T13:46:18.494107+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1137366,
+          32.3293809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/flash-flood-emergency-inundates-mccaysville-153145712.html",
+        "title": "Flash Flood Emergency inundates McCaysville, Georgia, prompting rescues and evacuations",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T15:31:45Z",
+        "url": "https://www.yahoo.com/news/videos/flash-flood-emergency-inundates-mccaysville-153145712.html",
+        "mention_text": "Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 161957,
+        "run_at": "2026-11-06T13:46:18.494107+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1137366,
+          32.3293809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox.com/watch/clip/fmc-bjwrztjghob5wu50/flash-flood-emergency-declared-for-northern-georgia",
+        "title": "Watch Flash flood emergency declared for northern Georgia - Fox Weather @ Night",
+        "source": "FOX One",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T04:26:34Z",
+        "url": "https://www.fox.com/watch/clip/fmc-bjwrztjghob5wu50/flash-flood-emergency-declared-for-northern-georgia",
+        "mention_text": "Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 161957,
+        "run_at": "2026-11-06T13:46:18.494107+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1137366,
+          32.3293809
+        ]
+      },
+      "properties": {
+        "article_id": "https://twaslnews1.twaslnews.com/7187902/",
+        "title": "State of emergency declared as at least 80 rescued amid Flash Flood Emergency along Georgia-Tennessee border",
+        "source": "\u0634\u0628\u0643\u0629 \u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a\u0629",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T22:38:53Z",
+        "url": "https://twaslnews1.twaslnews.com/7187902/",
+        "mention_text": "Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 161957,
+        "run_at": "2026-11-06T13:46:18.494107+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-11-05T14:02:37.369872+00:00",
-    "total_features": 5727
+    "last_updated": "2026-11-06T13:46:18.525900+00:00",
+    "total_features": 5755
   }
 }
