@@ -149630,11 +149630,635 @@
         "osm_id": 161957,
         "run_at": "2026-11-06T13:46:18.494107+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2062682,
+          33.9510011
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ocregister.com/2026/11/06/coastal-flood-warning-issued-through-tuesday-for-southern-california/",
+        "title": "Coastal flood warning issued through Tuesday for Southern California",
+        "source": "Orange County Register",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-06T22:58:45Z",
+        "url": "https://www.ocregister.com/2026/11/06/coastal-flood-warning-issued-through-tuesday-for-southern-california/",
+        "mention_text": "Southern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Southern @ California, Southern Avenue, South Gate, Los Angeles County, California, 90280, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 11056179472,
+        "run_at": "2026-11-07T12:29:25.976793+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4114187,
+          36.9507552
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pilotonline.com/2026/11/06/hampton-roads-flash-flood-warning/",
+        "title": "Hampton Roads is under flash flood warning",
+        "source": "The Virginian-Pilot",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-06T18:26:38Z",
+        "url": "https://www.pilotonline.com/2026/11/06/hampton-roads-flash-flood-warning/",
+        "mention_text": "Hampton Roads",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Hampton Roads, Newport News, Isle of Wight County, Virginia, United States",
+        "osm_type": "bay",
+        "osm_id": 11497477,
+        "run_at": "2026-11-07T12:29:25.976793+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317960233.html",
+        "title": "UPDATE: Flash flood warning affecting the Piedmont region Friday afternoon",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-06T16:42:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317960233.html",
+        "mention_text": "Piedmont",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-11-07T12:29:25.976793+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxnews.com/travel/florida-dad-makes-final-facetime-call-wife-before-dying-flash-flood",
+        "title": "Florida dad makes final FaceTime call to wife before dying in flash flood",
+        "source": "Fox News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-06T20:02:19Z",
+        "url": "https://www.foxnews.com/travel/florida-dad-makes-final-facetime-call-wife-before-dying-flash-flood",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-11-07T12:29:25.976793+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.08565,
+          33.85856
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.inquirer.com/weather/philadelphia-weather-forecast-rain-road-conditions-20261105.html",
+        "title": "Flash flood warnings are posted for South Jersey as the region\u2019s 18-day dry spell ends",
+        "source": "Inquirer.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T15:16:23Z",
+        "url": "https://www.inquirer.com/weather/philadelphia-weather-forecast-rain-road-conditions-20261105.html",
+        "mention_text": "South Jersey",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South-Jersey, South Street, Artesia, Los Angeles County, California, 90703, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 6356006215,
+        "run_at": "2026-11-07T12:29:25.976793+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1671114,
+          40.2932319
+        ]
+      },
+      "properties": {
+        "article_id": "https://longisland.news12.com/flash-flood-warning-in-effect-for-monmouth-and-ocean-counties-as-heavy-rain-pounds-the-region",
+        "title": "Flash flood warning in effect for Monmouth and Ocean counties as heavy rain pounds the region",
+        "source": "News12 | Long Island",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-06T14:01:48Z",
+        "url": "https://longisland.news12.com/flash-flood-warning-in-effect-for-monmouth-and-ocean-counties-as-heavy-rain-pounds-the-region",
+        "mention_text": "Monmouth",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Monmouth County, New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 961390,
+        "run_at": "2026-11-07T12:29:25.976793+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2494453,
+          36.7168315
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-chesapeake-182135879.html",
+        "title": "Flash flood warning issued for Chesapeake, Norfolk, Portsmouth, Virginia Beach",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-06T18:21:35Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-chesapeake-182135879.html",
+        "mention_text": "Chesapeake",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Chesapeake, Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 206671,
+        "run_at": "2026-11-07T12:29:25.976793+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2899539,
+          36.8493695
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-chesapeake-182135879.html",
+        "title": "Flash flood warning issued for Chesapeake, Norfolk, Portsmouth, Virginia Beach",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-06T18:21:35Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-chesapeake-182135879.html",
+        "mention_text": "Norfolk",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Norfolk, Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 206672,
+        "run_at": "2026-11-07T12:29:25.976793+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.297699,
+          36.8320081
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-chesapeake-182135879.html",
+        "title": "Flash flood warning issued for Chesapeake, Norfolk, Portsmouth, Virginia Beach",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-06T18:21:35Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-chesapeake-182135879.html",
+        "mention_text": "Portsmouth",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Portsmouth, Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 206673,
+        "run_at": "2026-11-07T12:29:25.976793+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9760751,
+          36.8496579
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-chesapeake-182135879.html",
+        "title": "Flash flood warning issued for Chesapeake, Norfolk, Portsmouth, Virginia Beach",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-06T18:21:35Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-chesapeake-182135879.html",
+        "mention_text": "Virginia Beach",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Virginia Beach, Virginia, United States",
+        "osm_type": "administrative",
+        "osm_id": 206670,
+        "run_at": "2026-11-07T12:29:25.976793+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://mezha.net/eng/news/mezha-97a1b26fad6eb824d97b1221_florida_father_dies/",
+        "title": "Florida father dies in flash flood after final FaceTime call to wife",
+        "source": "Mezha.net",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-06T20:26:04Z",
+        "url": "https://mezha.net/eng/news/mezha-97a1b26fad6eb824d97b1221_florida_father_dies/",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-11-07T12:29:25.976793+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8722311,
+          33.750631
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/losangeles/news/orange-county-coastal-flood-advisory-through-tuesday/",
+        "title": "Orange County coastal flood advisory in effect through Tuesday, less severe than last week",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-06T21:58:47Z",
+        "url": "https://www.cbsnews.com/losangeles/news/orange-county-coastal-flood-advisory-through-tuesday/",
+        "mention_text": "Orange County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Orange County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396466,
+        "run_at": "2026-11-07T12:29:25.976793+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.745748,
+          15.2174228
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317971890.html",
+        "title": "Coastal flood advisory affecting Northern Coastal Humboldt until Saturday midday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-07T11:11:08Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317971890.html",
+        "mention_text": "Northern Coastal",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Coastal Drive, Wireless Ridge, Navy Hill, Puerto Rico, Saipan Municipality, Northern Mariana Islands, 96950, United States",
+        "osm_type": "residential",
+        "osm_id": 24199777,
+        "run_at": "2026-11-07T12:29:25.976793+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.8854639,
+          33.759478
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/11/06/san-francisco-county-placed-under-a-coastal-flood-advisory-until-nov-13/",
+        "title": "San Francisco County placed under a coastal flood advisory until Nov. 13",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-06T18:12:28Z",
+        "url": "https://www.mercurynews.com/2026/11/06/san-francisco-county-placed-under-a-coastal-flood-advisory-until-nov-13/",
+        "mention_text": "San Francisco County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco, Catron County, New Mexico, United States",
+        "osm_type": "peak",
+        "osm_id": 11066998506,
+        "run_at": "2026-11-07T12:29:25.976793+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/video/137928805/",
+        "title": "Man drives airboat along flooded road in Florida",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-06T22:48:15Z",
+        "url": "https://abcnews.com/video/137928805/",
+        "mention_text": "Florida",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-11-07T12:29:25.976793+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.8854639,
+          33.759478
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317962758.html",
+        "title": "UPDATE: Coastal flood advisory active for San Francisco County until Nov. 13",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-07T03:00:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317962758.html",
+        "mention_text": "San Francisco County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco, Catron County, New Mexico, United States",
+        "osm_type": "peak",
+        "osm_id": 11066998506,
+        "run_at": "2026-11-07T12:29:25.976793+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.centraloregondaily.com/news/nation-world/man-drives-airboat-along-flooded-road-in-florida/video_1f17d384-79ee-55fa-a23d-a71045504efe.html",
+        "title": "Man drives airboat along flooded road in Florida",
+        "source": "Central Oregon Daily",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-06T22:47:37Z",
+        "url": "https://www.centraloregondaily.com/news/nation-world/man-drives-airboat-along-flooded-road-in-florida/video_1f17d384-79ee-55fa-a23d-a71045504efe.html",
+        "mention_text": "Florida",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-11-07T12:29:25.976793+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1137366,
+          32.3293809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.weathernationtv.com/news/severe-storms-target-the-plains-south-to-start-the-week",
+        "title": "Flash Flood Emergency For Parts of Georgia and Tennessee",
+        "source": "WeatherNation",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T08:00:00Z",
+        "url": "https://www.weathernationtv.com/news/severe-storms-target-the-plains-south-to-start-the-week",
+        "mention_text": "Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 161957,
+        "run_at": "2026-11-07T12:29:25.976793+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.weathernationtv.com/news/severe-storms-target-the-plains-south-to-start-the-week",
+        "title": "Flash Flood Emergency For Parts of Georgia and Tennessee",
+        "source": "WeatherNation",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T08:00:00Z",
+        "url": "https://www.weathernationtv.com/news/severe-storms-target-the-plains-south-to-start-the-week",
+        "mention_text": "Tennessee",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tennessee, United States",
+        "osm_type": "administrative",
+        "osm_id": 161838,
+        "run_at": "2026-11-07T12:29:25.976793+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.7333214,
+          33.4570709
+        ]
+      },
+      "properties": {
+        "article_id": "https://alamogordonews.com/flood-emergency-declared-for-bonito-lake/",
+        "title": "Flood emergency declared for Bonito Lake",
+        "source": "Alamogordo News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-06T16:41:17Z",
+        "url": "https://alamogordonews.com/flood-emergency-declared-for-bonito-lake/",
+        "mention_text": "Bonito Lake",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Bonito Lake, Lincoln County, New Mexico, United States",
+        "osm_type": "reservoir",
+        "osm_id": 394241703,
+        "run_at": "2026-11-07T12:29:25.976793+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1137366,
+          32.3293809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aol.com/articles/state-emergency-declared-least-80-144434000.html",
+        "title": "State of emergency declared as at least 80 rescued amid Flash Flood Emergency along Georgia-Tennessee border",
+        "source": "AOL.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T22:12:27Z",
+        "url": "https://www.aol.com/articles/state-emergency-declared-least-80-144434000.html",
+        "mention_text": "Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 161957,
+        "run_at": "2026-11-07T12:29:25.976793+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4075201,
+          37.7879363
+        ]
+      },
+      "properties": {
+        "article_id": "https://hoodline.com/2026/11/sunny-sf-weekend-killer-waves-high-tides-put-ocean-beach-on-alert/",
+        "title": "San Francisco Weather Weekend Forecast And Coastal Flood Advisory",
+        "source": "Hoodline",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-06T23:40:42Z",
+        "url": "https://hoodline.com/2026/11/sunny-sf-weekend-killer-waves-high-tides-put-ocean-beach-on-alert/",
+        "mention_text": "San Francisco",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 111968,
+        "run_at": "2026-11-07T12:29:25.976793+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4649038,
+          35.6571367
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.koco.com/article/edmond-hail-downtown-okc-metro-storms/74350076",
+        "title": "Flood advisory issued; hail falls in downtown Edmond as storms moves through Oklahoma",
+        "source": "KOCO",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T23:48:00Z",
+        "url": "https://www.koco.com/article/edmond-hail-downtown-okc-metro-storms/74350076",
+        "mention_text": "Edmond",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Edmond, Oklahoma County, Oklahoma, United States",
+        "osm_type": "administrative",
+        "osm_id": 184313,
+        "run_at": "2026-11-07T12:29:25.976793+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2684063,
+          34.9550817
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.koco.com/article/edmond-hail-downtown-okc-metro-storms/74350076",
+        "title": "Flood advisory issued; hail falls in downtown Edmond as storms moves through Oklahoma",
+        "source": "KOCO",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T23:48:00Z",
+        "url": "https://www.koco.com/article/edmond-hail-downtown-okc-metro-storms/74350076",
+        "mention_text": "Oklahoma",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oklahoma, United States",
+        "osm_type": "administrative",
+        "osm_id": 161645,
+        "run_at": "2026-11-07T12:29:25.976793+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-11-06T13:46:18.525900+00:00",
-    "total_features": 5755
+    "last_updated": "2026-11-07T12:29:26.002777+00:00",
+    "total_features": 5779
   }
 }
