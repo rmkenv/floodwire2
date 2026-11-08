@@ -150254,11 +150254,271 @@
         "osm_id": 161645,
         "run_at": "2026-11-07T12:29:25.976793+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1551404,
+          26.1748895
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.accuweather.com/en/weather-forecasts/slow-moving-downpours-to-enhance-flash-flood-risk-across-south-texas/1955866",
+        "title": "Slow-moving downpours to enhance flash flood risk across South Texas",
+        "source": "AccuWeather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-07T17:06:23Z",
+        "url": "https://www.accuweather.com/en/weather-forecasts/slow-moving-downpours-to-enhance-flash-flood-risk-across-south-texas/1955866",
+        "mention_text": "South Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South Texas, San Juan South Estates Colonia, San Juan, Hidalgo County, Texas, 78589, United States",
+        "osm_type": "residential",
+        "osm_id": 15287122,
+        "run_at": "2026-11-08T12:47:37.053777+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.074141,
+          33.4484367
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azcentral.com/story/weather/severe/2026/11/07/flood-warning-issued-for-metro-phoenix-area-flooding-is-occurring/92659831007/",
+        "title": "Flood warning issued for metro Phoenix area. 'Flooding is occurring'",
+        "source": "azcentral.com and The Arizona Republic",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-07T18:58:00Z",
+        "url": "https://www.azcentral.com/story/weather/severe/2026/11/07/flood-warning-issued-for-metro-phoenix-area-flooding-is-occurring/92659831007/",
+        "mention_text": "Phoenix",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Phoenix, Maricopa County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 111257,
+        "run_at": "2026-11-08T12:47:37.053777+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4041622,
+          40.0757384
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-3-121908680.html",
+        "title": "Flash flood warning issued for 3 N.J. counties as thunderstorms, downpours hit state",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-06T22:06:34Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-3-121908680.html",
+        "mention_text": "N.J.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 224951,
+        "run_at": "2026-11-08T12:47:37.053777+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailynews.com/2026/11/08/coastal-flood-advisory-for-los-angeles-county-beaches-until-tuesday-midday/",
+        "title": "Coastal flood advisory for Los Angeles County beaches until Tuesday midday",
+        "source": "Los Angeles Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-08T10:15:05Z",
+        "url": "https://www.dailynews.com/2026/11/08/coastal-flood-advisory-for-los-angeles-county-beaches-until-tuesday-midday/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-11-08T12:47:37.053777+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4970393,
+          38.0464066
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article317956976.html",
+        "title": "Lexington and Richland counties under a flood advisory Friday morning",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-06T12:49:06Z",
+        "url": "https://www.thestate.com/news/weather-news/article317956976.html",
+        "mention_text": "Lexington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Lexington, Fayette County, Kentucky, United States",
+        "osm_type": "administrative",
+        "osm_id": 11078268,
+        "run_at": "2026-11-08T12:47:37.053777+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317981303.html",
+        "title": "UPDATE: Coastal flood advisory issued for Los Angeles County until Tuesday midday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-08T10:43:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317981303.html",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-11-08T12:47:37.053777+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/11/06/coastal-flood-advisory-affecting-north-bay-interior-valleys-and-san-francisco-bay-shoreline-until-nov-13/",
+        "title": "Coastal flood advisory affecting North Bay Interior Valleys and San Francisco Bay Shoreline until Nov. 13",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-06T18:12:27Z",
+        "url": "https://www.mercurynews.com/2026/11/06/coastal-flood-advisory-affecting-north-bay-interior-valleys-and-san-francisco-bay-shoreline-until-nov-13/",
+        "mention_text": "North Bay",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-11-08T12:47:37.053777+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.137227,
+          37.6233187
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/11/06/coastal-flood-advisory-affecting-north-bay-interior-valleys-and-san-francisco-bay-shoreline-until-nov-13/",
+        "title": "Coastal flood advisory affecting North Bay Interior Valleys and San Francisco Bay Shoreline until Nov. 13",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-06T18:12:27Z",
+        "url": "https://www.mercurynews.com/2026/11/06/coastal-flood-advisory-affecting-north-bay-interior-valleys-and-san-francisco-bay-shoreline-until-nov-13/",
+        "mention_text": "San Francisco Bay Shoreline",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hayward Shoreline Interpretive Center, San Francisco Bay Trail, Hayward, Alameda County, California, 94545, United States",
+        "osm_type": "museum",
+        "osm_id": 104588017,
+        "run_at": "2026-11-08T12:47:37.053777+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3558473,
+          37.7884969
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.smdailyjournal.com/news/local/bay-area-warming-trend-expected-with-coastal-flood-advisory/article_ee332f3a-d3ee-4543-bd68-88b300ee850b.html",
+        "title": "Bay Area warming trend expected with coastal flood advisory",
+        "source": "San Mateo Daily Journal",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T02:31:00Z",
+        "url": "https://www.smdailyjournal.com/news/local/bay-area-warming-trend-expected-with-coastal-flood-advisory/article_ee332f3a-d3ee-4543-bd68-88b300ee850b.html",
+        "mention_text": "Bay Area",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco Bay Area, San Francisco, California, 94130, United States",
+        "osm_type": "region",
+        "osm_id": 2157162589,
+        "run_at": "2026-11-08T12:47:37.053777+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modernghana.com/videonews/abc/2/749390",
+        "title": "Man drives airboat along flooded road in Florida",
+        "source": "Modern Ghana",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-06T23:10:00Z",
+        "url": "https://www.modernghana.com/videonews/abc/2/749390",
+        "mention_text": "Florida",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-11-08T12:47:37.053777+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-11-07T12:29:26.002777+00:00",
-    "total_features": 5779
+    "last_updated": "2026-11-08T12:47:37.083396+00:00",
+    "total_features": 5789
   }
 }
