@@ -150514,11 +150514,323 @@
         "osm_id": 162050,
         "run_at": "2026-11-08T12:47:37.053777+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1551404,
+          26.1748895
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/south-texas-texas-hill-country-face-dangerous-el-nino-aided-flood-threat-through-weekend",
+        "title": "El Ni\u00f1o-fueled storm takes aim at South Texas as heavy rain raises dangerous flash flood threat",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-09T02:17:00Z",
+        "url": "https://www.foxweather.com/weather-news/south-texas-texas-hill-country-face-dangerous-el-nino-aided-flood-threat-through-weekend",
+        "mention_text": "South Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South Texas, San Juan South Estates Colonia, San Juan, Hidalgo County, Texas, 78589, United States",
+        "osm_type": "residential",
+        "osm_id": 15287122,
+        "run_at": "2026-11-09T15:09:45.739186+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1551404,
+          26.1748895
+        ]
+      },
+      "properties": {
+        "article_id": "https://abcnews.com/video/137952234/",
+        "title": "Video Heavy rain, flash flood threat for South Texas",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-08T14:09:36Z",
+        "url": "https://abcnews.com/video/137952234/",
+        "mention_text": "South Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South Texas, San Juan South Estates Colonia, San Juan, Hidalgo County, Texas, 78589, United States",
+        "osm_type": "residential",
+        "osm_id": 15287122,
+        "run_at": "2026-11-09T15:09:45.739186+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4623642,
+          26.1598074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcmiami.com/news/local/flash-flood-warning-issued-for-parts-of-broward-county-nws-says/3883194/",
+        "title": "Flash flood warning issued for parts of Broward County, NWS says",
+        "source": "NBC 6 South Florida",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-04T02:34:03Z",
+        "url": "https://www.nbcmiami.com/news/local/flash-flood-warning-issued-for-parts-of-broward-county-nws-says/3883194/",
+        "mention_text": "Broward County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Broward County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210714,
+        "run_at": "2026-11-09T15:09:45.739186+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1137366,
+          32.3293809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/watch/fmc-pfm5r6yinv81nkc2",
+        "title": "Watch: McCaysville, Georgia, inundated during Flash Flood Emergency",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T11:11:55Z",
+        "url": "https://www.foxweather.com/watch/fmc-pfm5r6yinv81nkc2",
+        "mention_text": "Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 161957,
+        "run_at": "2026-11-09T15:09:45.739186+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.whittierdailynews.com/2026/11/08/coastal-flood-advisory-for-los-angeles-county-beaches-until-tuesday-midday/",
+        "title": "Coastal flood advisory for Los Angeles County beaches until Tuesday midday",
+        "source": "Whittier Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-09T08:24:06Z",
+        "url": "https://www.whittierdailynews.com/2026/11/08/coastal-flood-advisory-for-los-angeles-county-beaches-until-tuesday-midday/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-11-09T15:09:45.739186+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbs8.com/video/news/local/coastal-flood-advisory-in-effect-in-san-diego-county/509-a5bdc661-a2a4-4569-9fda-be6831d8e2e9",
+        "title": "Coastal Flood Advisory in effect in San Diego County",
+        "source": "cbs8.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-09T14:44:00Z",
+        "url": "https://www.cbs8.com/video/news/local/coastal-flood-advisory-in-effect-in-san-diego-county/509-a5bdc661-a2a4-4569-9fda-be6831d8e2e9",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-11-09T15:09:45.739186+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.7333214,
+          33.4570709
+        ]
+      },
+      "properties": {
+        "article_id": "https://ruidosonews.com/flood-emergency-declared-for-bonito-lake/",
+        "title": "Flood emergency declared for Bonito Lake",
+        "source": "Ruidoso News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-09T13:02:24Z",
+        "url": "https://ruidosonews.com/flood-emergency-declared-for-bonito-lake/",
+        "mention_text": "Bonito Lake",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Bonito Lake, Lincoln County, New Mexico, United States",
+        "osm_type": "reservoir",
+        "osm_id": 394241703,
+        "run_at": "2026-11-09T15:09:45.739186+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2524943,
+          32.7825908
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.10news.com/news/local-news/mission-beach-residents-brace-for-high-tides-again-with-another-coastal-flood-advisory-in-effect-in-san-diego",
+        "title": "Mission Beach residents brace for high tides again with another coastal flood advisory in effect in San Diego",
+        "source": "10News.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-09T00:39:56Z",
+        "url": "https://www.10news.com/news/local-news/mission-beach-residents-brace-for-high-tides-again-with-another-coastal-flood-advisory-in-effect-in-san-diego",
+        "mention_text": "Mission Beach",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Mission Beach, San Diego, San Diego County, California, 92109, United States",
+        "osm_type": "suburb",
+        "osm_id": 4837262062,
+        "run_at": "2026-11-09T15:09:45.739186+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1638284,
+          32.7157062
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.10news.com/news/local-news/mission-beach-residents-brace-for-high-tides-again-with-another-coastal-flood-advisory-in-effect-in-san-diego",
+        "title": "Mission Beach residents brace for high tides again with another coastal flood advisory in effect in San Diego",
+        "source": "10News.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-09T00:39:56Z",
+        "url": "https://www.10news.com/news/local-news/mission-beach-residents-brace-for-high-tides-again-with-another-coastal-flood-advisory-in-effect-in-san-diego",
+        "mention_text": "San Diego",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego, San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 253832,
+        "run_at": "2026-11-09T15:09:45.739186+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article317959647.html",
+        "title": "Flood advisory for the Piedmont region Friday afternoon caused by heavy downpours",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-06T15:28:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article317959647.html",
+        "mention_text": "Piedmont",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-11-09T15:09:45.739186+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2524943,
+          32.7825908
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.10news.com/videos/news/local-news/mission-beach-residents-prepare-as-another-coastal-flood-advisory-hits",
+        "title": "Mission Beach residents prepare as another coastal flood advisory hits",
+        "source": "10News.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-09T00:39:56Z",
+        "url": "https://www.10news.com/videos/news/local-news/mission-beach-residents-prepare-as-another-coastal-flood-advisory-hits",
+        "mention_text": "Mission Beach",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Mission Beach, San Diego, San Diego County, California, 92109, United States",
+        "osm_type": "suburb",
+        "osm_id": 4837262062,
+        "run_at": "2026-11-09T15:09:45.739186+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1638284,
+          32.7157062
+        ]
+      },
+      "properties": {
+        "article_id": "https://hoodline.com/2026/11/san-diego-sizzles-to-88-as-high-tides-put-coast-under-coastal-flood-advisory/",
+        "title": "San Diego Weather Forecast And Coastal Flood Advisory",
+        "source": "Hoodline",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-08T17:37:10Z",
+        "url": "https://hoodline.com/2026/11/san-diego-sizzles-to-88-as-high-tides-put-coast-under-coastal-flood-advisory/",
+        "mention_text": "San Diego",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego, San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 253832,
+        "run_at": "2026-11-09T15:09:45.739186+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-11-08T12:47:37.083396+00:00",
-    "total_features": 5789
+    "last_updated": "2026-11-09T15:09:45.771147+00:00",
+    "total_features": 5801
   }
 }
