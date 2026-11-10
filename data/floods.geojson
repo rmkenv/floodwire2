@@ -150826,11 +150826,63 @@
         "osm_id": 253832,
         "run_at": "2026-11-09T15:09:45.739186+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sgvtribune.com/2026/11/08/coastal-flood-advisory-for-los-angeles-county-beaches-until-tuesday-midday/",
+        "title": "Coastal flood advisory for Los Angeles County beaches until Tuesday midday",
+        "source": "San Gabriel Valley Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-08T17:07:44Z",
+        "url": "https://www.sgvtribune.com/2026/11/08/coastal-flood-advisory-for-los-angeles-county-beaches-until-tuesday-midday/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-11-10T14:29:24.057293+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.reuters.com/world/us/texas-finds-camp-mystics-flood-emergency-plan-deficient-reopening-2026-04-25/",
+        "title": "Texas finds Camp Mystic's flood emergency plan deficient for reopening",
+        "source": "Reuters",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-04-24T07:00:00Z",
+        "url": "https://www.reuters.com/world/us/texas-finds-camp-mystics-flood-emergency-plan-deficient-reopening-2026-04-25/",
+        "mention_text": "Texas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-11-10T14:29:24.057293+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-11-09T15:09:45.771147+00:00",
-    "total_features": 5801
+    "last_updated": "2026-11-10T14:29:24.084013+00:00",
+    "total_features": 5803
   }
 }
