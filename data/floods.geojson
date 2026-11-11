@@ -150878,11 +150878,375 @@
         "osm_id": 114690,
         "run_at": "2026-11-10T14:29:24.057293+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.msn.com/en-us/news/other/flash-flood-recovery-efforts-underway-in-tennessee/vi-AA2gTO1p",
+        "title": "Flash flood recovery efforts underway in Tennessee",
+        "source": "MSN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-06T15:10:30Z",
+        "url": "https://www.msn.com/en-us/news/other/flash-flood-recovery-efforts-underway-in-tennessee/vi-AA2gTO1p",
+        "mention_text": "Tennessee",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tennessee, United States",
+        "osm_type": "administrative",
+        "osm_id": 161838,
+        "run_at": "2026-11-11T13:42:41.356549+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8287961,
+          30.2330916
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox.com/watch/clip/fmc-bxk4zva1oerszqv2/el-ni-o-fueled-storms-trigger-flash-flood-warnings-in-south-texas",
+        "title": "Watch El Ni\u00f1o-fueled storms trigger flash flood warnings in South Texas - America's Newsroom",
+        "source": "FOX One",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-09T19:06:41Z",
+        "url": "https://www.fox.com/watch/clip/fmc-bxk4zva1oerszqv2/el-ni-o-fueled-storms-trigger-flash-flood-warnings-in-south-texas",
+        "mention_text": "South Texas - America's",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "America's Best Contacts & Eyeglasses, 5300, South Mopac Expressway, Austin, Travis County, Texas, 78749, United States",
+        "osm_type": "optician",
+        "osm_id": 12598583498,
+        "run_at": "2026-11-11T13:42:41.356549+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.6495508,
+          37.7633081
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thenewstribune.com/news/weather-news/article318019008.html",
+        "title": "UPDATE: Coastal flood advisory affecting Lowlands of Western Whatcom County and San Juan County",
+        "source": "Tacoma News Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-11T10:35:07Z",
+        "url": "https://www.thenewstribune.com/news/weather-news/article318019008.html",
+        "mention_text": "San Juan County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Juan County, Colorado, 81433, United States",
+        "osm_type": "administrative",
+        "osm_id": 416522,
+        "run_at": "2026-11-11T13:42:41.356549+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.coralspringsflnews.com/news/article318018536.html",
+        "title": "Florida opens business flood damage survey. Here's how to report",
+        "source": "Coral Springs News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-10T20:54:20Z",
+        "url": "https://www.coralspringsflnews.com/news/article318018536.html",
+        "mention_text": "Florida",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-11-11T13:42:41.356549+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8828175,
+          48.8107819
+        ]
+      },
+      "properties": {
+        "article_id": "https://whatcom-news.com/coastal-flood-advisory-issued-for-whatcom-county-wednesday-morning_239759/",
+        "title": "Coastal Flood Advisory issued for Whatcom County Wednesday morning",
+        "source": "Whatcom News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-10T20:38:17Z",
+        "url": "https://whatcom-news.com/coastal-flood-advisory-issued-for-whatcom-county-wednesday-morning_239759/",
+        "mention_text": "Whatcom County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Whatcom County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153762,
+        "run_at": "2026-11-11T13:42:41.356549+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.737257,
+          43.9792797
+        ]
+      },
+      "properties": {
+        "article_id": "https://katu.com/news/local/flood-advisory-issued-for-parts-of-nw-oregon-sw-washington-as-heavy-rain-sweeps-region-national-weather-service-nws-alert",
+        "title": "Flood advisory issued for parts of NW Oregon, SW Washington as heavy rain sweeps region",
+        "source": "KATU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-11T05:13:53Z",
+        "url": "https://katu.com/news/local/flood-advisory-issued-for-parts-of-nw-oregon-sw-washington-as-heavy-rain-sweeps-region-national-weather-service-nws-alert",
+        "mention_text": "Oregon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Oregon, United States",
+        "osm_type": "administrative",
+        "osm_id": 165476,
+        "run_at": "2026-11-11T13:42:41.356549+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0363849,
+          38.8950982
+        ]
+      },
+      "properties": {
+        "article_id": "https://katu.com/news/local/flood-advisory-issued-for-parts-of-nw-oregon-sw-washington-as-heavy-rain-sweeps-region-national-weather-service-nws-alert",
+        "title": "Flood advisory issued for parts of NW Oregon, SW Washington as heavy rain sweeps region",
+        "source": "KATU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-11T05:13:53Z",
+        "url": "https://katu.com/news/local/flood-advisory-issued-for-parts-of-nw-oregon-sw-washington-as-heavy-rain-sweeps-region-national-weather-service-nws-alert",
+        "mention_text": "Washington",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Washington, District of Columbia, United States",
+        "osm_type": "city",
+        "osm_id": 5396194,
+        "run_at": "2026-11-11T13:42:41.356549+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8828175,
+          48.8107819
+        ]
+      },
+      "properties": {
+        "article_id": "https://mybellinghamnow.com/news/297792-coastal-flood-advisory-issued-for-whatcom-county/",
+        "title": "Coastal flood advisory issued for Whatcom County",
+        "source": "My Bellingham Now",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-11T00:46:56Z",
+        "url": "https://mybellinghamnow.com/news/297792-coastal-flood-advisory-issued-for-whatcom-county/",
+        "mention_text": "Whatcom County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Whatcom County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153762,
+        "run_at": "2026-11-11T13:42:41.356549+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.674194,
+          45.5202471
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.koin.com/weather/nws-issues-flood-advisory-for-portland-metro-area-tuesday/",
+        "title": "NWS issues flood advisory for Portland metro area Tuesday",
+        "source": "KOIN.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-10T19:21:11Z",
+        "url": "https://www.koin.com/weather/nws-issues-flood-advisory-for-portland-metro-area-tuesday/",
+        "mention_text": "Portland",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Portland, Multnomah County, Oregon, United States",
+        "osm_type": "administrative",
+        "osm_id": 186579,
+        "run_at": "2026-11-11T13:42:41.356549+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5020441,
+          28.0003594
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.southtexasnews.com/beeville_bee_picayune/rain-brings-flood-advisory-to-southern-san-patricio-county/article_d2213394-6c33-4029-84ce-e0e8dbff026d.html",
+        "title": "Rain brings flood advisory to southern San Patricio County",
+        "source": "SouthTexasNews.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-10T14:28:00Z",
+        "url": "https://www.southtexasnews.com/beeville_bee_picayune/rain-brings-flood-advisory-to-southern-san-patricio-county/article_d2213394-6c33-4029-84ce-e0e8dbff026d.html",
+        "mention_text": "San Patricio County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Patricio County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1828404,
+        "run_at": "2026-11-11T13:42:41.356549+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.674194,
+          45.5202471
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.koin.com/video/flood-advisory-in-place-for-portland-tuesday/12356392/",
+        "title": "Flood Advisory in place for Portland Tuesday",
+        "source": "KOIN.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-10T20:30:05Z",
+        "url": "https://www.koin.com/video/flood-advisory-in-place-for-portland-tuesday/12356392/",
+        "mention_text": "Portland",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Portland, Multnomah County, Oregon, United States",
+        "osm_type": "administrative",
+        "osm_id": 186579,
+        "run_at": "2026-11-11T13:42:41.356549+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7838526,
+          39.3260541
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thenewstribune.com/news/weather-news/article318017057.html",
+        "title": "Clark County placed under a flood advisory until Tuesday afternoon, says the NWS",
+        "source": "Tacoma News Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-10T19:01:08Z",
+        "url": "https://www.thenewstribune.com/news/weather-news/article318017057.html",
+        "mention_text": "Clark County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Clark County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1801517,
+        "run_at": "2026-11-11T13:42:41.356549+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.7333214,
+          33.4570709
+        ]
+      },
+      "properties": {
+        "article_id": "https://currentargus.com/alamogordo-declares-flood-emergency-for-bonito-lake-and-watershed/",
+        "title": "Alamogordo Declares Flood Emergency for Bonito Lake and Watershed",
+        "source": "Carlsbad Current Argus",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-09T13:00:00Z",
+        "url": "https://currentargus.com/alamogordo-declares-flood-emergency-for-bonito-lake-and-watershed/",
+        "mention_text": "Bonito Lake",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Bonito Lake, Lincoln County, New Mexico, United States",
+        "osm_type": "reservoir",
+        "osm_id": 394241703,
+        "run_at": "2026-11-11T13:42:41.356549+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3666667,
+          41.2672222
+        ]
+      },
+      "properties": {
+        "article_id": "https://currentargus.com/alamogordo-declares-flood-emergency-for-bonito-lake-and-watershed/",
+        "title": "Alamogordo Declares Flood Emergency for Bonito Lake and Watershed",
+        "source": "Carlsbad Current Argus",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-09T13:00:00Z",
+        "url": "https://currentargus.com/alamogordo-declares-flood-emergency-for-bonito-lake-and-watershed/",
+        "mention_text": "Watershed",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Centennial Watershed State Forest, Weston, Western Connecticut Planning Region, Connecticut, 06896, United States",
+        "osm_type": "nature_reserve",
+        "osm_id": 9678799759,
+        "run_at": "2026-11-11T13:42:41.356549+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-11-10T14:29:24.084013+00:00",
-    "total_features": 5803
+    "last_updated": "2026-11-11T13:42:41.383291+00:00",
+    "total_features": 5817
   }
 }
