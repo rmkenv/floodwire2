@@ -151242,11 +151242,245 @@
         "osm_id": 9678799759,
         "run_at": "2026-11-11T13:42:41.356549+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1551404,
+          26.1748895
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/slow-moving-downpours-enhance-flash-165617502.html",
+        "title": "Slow-moving downpours to enhance flash flood risk across South Texas",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-07T16:56:17Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/slow-moving-downpours-enhance-flash-165617502.html",
+        "mention_text": "South Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South Texas, San Juan South Estates Colonia, San Juan, Hidalgo County, Texas, 78589, United States",
+        "osm_type": "residential",
+        "osm_id": 15287122,
+        "run_at": "2026-11-12T14:47:34.389221+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.069177,
+          38.9437332
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newindianexpress.com/states/kerala/2026/Nov/12/two-malayalis-die-in-malaysia-flash-flood",
+        "title": "Two Malayalis die in Malaysia flash flood",
+        "source": "The New Indian Express",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-12T02:41:15Z",
+        "url": "https://www.newindianexpress.com/states/kerala/2026/Nov/12/two-malayalis-die-in-malaysia-flash-flood",
+        "mention_text": "Malaysia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Embassy of Malaysia, 3516, International Court Northwest, Van Ness, Ward 3, Washington, District of Columbia, 20008, United States",
+        "osm_type": "diplomatic",
+        "osm_id": 73148438,
+        "run_at": "2026-11-12T14:47:34.389221+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.069177,
+          38.9437332
+        ]
+      },
+      "properties": {
+        "article_id": "https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-man-goes-missing-in-malaysia-flash-flood-family-seeks-govt-help/articleshow/135756208.cms",
+        "title": "Tamil Nadu man goes missing in Malaysia flash flood; family seeks govt help",
+        "source": "The Times of India",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-12T05:31:00Z",
+        "url": "https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-man-goes-missing-in-malaysia-flash-flood-family-seeks-govt-help/articleshow/135756208.cms",
+        "mention_text": "Malaysia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Embassy of Malaysia, 3516, International Court Northwest, Van Ness, Ward 3, Washington, District of Columbia, 20008, United States",
+        "osm_type": "diplomatic",
+        "osm_id": 73148438,
+        "run_at": "2026-11-12T14:47:34.389221+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/storm-soak-south-texas-weekend-164610459.html",
+        "title": "Storm to soak South Texas this weekend, raising flash flood risk",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T16:46:10Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/storm-soak-south-texas-weekend-164610459.html",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-11-12T14:47:34.389221+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3747719,
+          37.6621028
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318041938.html",
+        "title": "Coastal flood advisory for Bay Area Shorelines for Saturday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-12T07:13:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318041938.html",
+        "mention_text": "Bay Area Shorelines",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Bay Area Shorelines & Waterways, Marina Boulevard, South San Francisco, San Mateo County, California, 94083, United States",
+        "osm_type": "map",
+        "osm_id": 10817026016,
+        "run_at": "2026-11-12T14:47:34.389221+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3747719,
+          37.6621028
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/11/11/coastal-flood-advisory-issued-for-bay-area-shorelines-for-saturday/",
+        "title": "Coastal flood advisory issued for Bay Area Shorelines for Saturday",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-12T06:53:29Z",
+        "url": "https://www.mercurynews.com/2026/11/11/coastal-flood-advisory-issued-for-bay-area-shorelines-for-saturday/",
+        "mention_text": "Bay Area Shorelines",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Bay Area Shorelines & Waterways, Marina Boulevard, South San Francisco, San Mateo County, California, 94083, United States",
+        "osm_type": "map",
+        "osm_id": 10817026016,
+        "run_at": "2026-11-12T14:47:34.389221+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4030376,
+          37.7887644
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317962758.html",
+        "title": "UPDATE: Northern California under a coastal flood advisory until early Friday evening",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-06T18:12:00Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317962758.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "First National Bank of Northern California, Post Street, Union Square, Financial District, San Francisco, California, 94104, United States",
+        "osm_type": "bank",
+        "osm_id": 32946665,
+        "run_at": "2026-11-12T14:47:34.389221+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://abc7ny.com/story/flash-flood-emergency-occurring-same-texas-region-camp-mystic-tragedy/19519397/",
+        "title": "Flash flood emergency occurring in same Texas region as Camp Mystic tragedy",
+        "source": "ABC7 New York",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T07:00:00Z",
+        "url": "https://abc7ny.com/story/flash-flood-emergency-occurring-same-texas-region-camp-mystic-tragedy/19519397/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-11-12T14:47:34.389221+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1137366,
+          32.3293809
+        ]
+      },
+      "properties": {
+        "article_id": "https://cedarnews.net/newstasks/1115145/video-mccaysville-georgia-shut-down-as-flash-flood-emergency-prompts-water-rescues/",
+        "title": "Video: McCaysville, Georgia, Shut Down as Flash Flood Emergency Prompts Water Rescues",
+        "source": "cedarnews.net",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T12:27:27Z",
+        "url": "https://cedarnews.net/newstasks/1115145/video-mccaysville-georgia-shut-down-as-flash-flood-emergency-prompts-water-rescues/",
+        "mention_text": "Georgia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 161957,
+        "run_at": "2026-11-12T14:47:34.389221+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-11-11T13:42:41.383291+00:00",
-    "total_features": 5817
+    "last_updated": "2026-11-12T14:47:34.419706+00:00",
+    "total_features": 5826
   }
 }
