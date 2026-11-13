@@ -151476,11 +151476,921 @@
         "osm_id": 161957,
         "run_at": "2026-11-12T14:47:34.389221+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8283132,
+          40.7135078
+        ]
+      },
+      "properties": {
+        "article_id": "https://gothamist.com/news/tornado-watch-in-effect-for-11-nj-counties-flash-flood-warning-in-queens",
+        "title": "Tornado watch in effect for 11 NJ counties, flash flood warning in Queens",
+        "source": "Gothamist",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-12T20:24:00Z",
+        "url": "https://gothamist.com/news/tornado-watch-in-effect-for-11-nj-counties-flash-flood-warning-in-queens",
+        "mention_text": "Queens",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Queens, Queens County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 9691819,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.662956,
+          39.6159851
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.delawareonline.com/story/weather/2026/11/12/severe-thunderstorm-warning-tornado-watch-issued-for-new-castle-county/92744330007/",
+        "title": "Flash flood warning, tornado watch issued for New Castle County",
+        "source": "Delawareonline.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-12T21:40:00Z",
+        "url": "https://www.delawareonline.com/story/weather/2026/11/12/severe-thunderstorm-warning-tornado-watch-issued-for-new-castle-county/92744330007/",
+        "mention_text": "New Castle County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Castle County, Delaware, United States",
+        "osm_type": "administrative",
+        "osm_id": 1245077,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1635262,
+          39.9527237
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nacionale.com/en/articles/where-is-flash-flood-warning-today-philadelphia-camden-wilmington-queens-november-12",
+        "title": "Flash flood warnings cover Philadelphia, Camden, Wilmington and Queens into Thursday evening",
+        "source": "Nacionale",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-12T20:22:30Z",
+        "url": "https://www.nacionale.com/en/articles/where-is-flash-flood-warning-today-philadelphia-camden-wilmington-queens-november-12",
+        "mention_text": "Philadelphia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Philadelphia, Philadelphia County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 188022,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1191932,
+          39.9440874
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nacionale.com/en/articles/where-is-flash-flood-warning-today-philadelphia-camden-wilmington-queens-november-12",
+        "title": "Flash flood warnings cover Philadelphia, Camden, Wilmington and Queens into Thursday evening",
+        "source": "Nacionale",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-12T20:22:30Z",
+        "url": "https://www.nacionale.com/en/articles/where-is-flash-flood-warning-today-philadelphia-camden-wilmington-queens-november-12",
+        "mention_text": "Camden",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Camden, Camden County, New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 170683,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5527467,
+          39.738331
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nacionale.com/en/articles/where-is-flash-flood-warning-today-philadelphia-camden-wilmington-queens-november-12",
+        "title": "Flash flood warnings cover Philadelphia, Camden, Wilmington and Queens into Thursday evening",
+        "source": "Nacionale",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-12T20:22:30Z",
+        "url": "https://www.nacionale.com/en/articles/where-is-flash-flood-warning-today-philadelphia-camden-wilmington-queens-november-12",
+        "mention_text": "Wilmington",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Wilmington, New Castle County, Delaware, United States",
+        "osm_type": "administrative",
+        "osm_id": 369472,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4041622,
+          40.0757384
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nj.com/weather/2026/11/nj-weather-flash-flood-warning-issued-in-parts-of-jersey-shore-as-strong-storms-develop-live-updates.html",
+        "title": "N.J. weather: Flash flood warnings, thunderstorm alerts issued as strong storms develop. Live updates.",
+        "source": "NJ.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T00:02:00Z",
+        "url": "https://www.nj.com/weather/2026/11/nj-weather-flash-flood-warning-issued-in-parts-of-jersey-shore-as-strong-storms-develop-live-updates.html",
+        "mention_text": "N.J.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 224951,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1551404,
+          26.1748895
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modernghana.com/videonews/abc/1/749973",
+        "title": "Heavy rain, flash flood threat for South Texas",
+        "source": "Modern Ghana",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-08T14:40:00Z",
+        "url": "https://www.modernghana.com/videonews/abc/1/749973",
+        "mention_text": "South Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South Texas, San Juan South Estates Colonia, San Juan, Hidalgo County, Texas, 78589, United States",
+        "osm_type": "residential",
+        "osm_id": 15287122,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.4098864,
+          18.326067
+        ]
+      },
+      "properties": {
+        "article_id": "https://english.vov.vn/en/society/flash-flood-and-landslide-risks-prompt-warnings-in-northern-vietnam-post1349835.vov",
+        "title": "Flash flood and landslide risks prompt warnings in Northern Vietnam",
+        "source": "VOV.VN",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T03:01:21Z",
+        "url": "https://english.vov.vn/en/society/flash-flood-and-landslide-risks-prompt-warnings-in-northern-vietnam-post1349835.vov",
+        "mention_text": "Vietnam",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Vietnam, Barrio Pueblo, Morovis, Puerto Rico, 00687, United States",
+        "osm_type": "neighbourhood",
+        "osm_id": 5184324859,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0677705,
+          38.9255299
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nature.com/articles/d41586-026-02716-w",
+        "title": "Glacier collapse caused Nepal\u2019s deadly flash flood \u2014 a sign of things to come?",
+        "source": "Nature",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-27T07:00:00Z",
+        "url": "https://www.nature.com/articles/d41586-026-02716-w",
+        "mention_text": "Nepal",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Embassy of Nepal, 2730, 34th Place Northwest, Massachusetts Avenue Heights, Northwest, Ward 3, Washington, District of Columbia, 20007, United States",
+        "osm_type": "diplomatic",
+        "osm_id": 13436222580,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0677705,
+          38.9255299
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theguardian.com/world/2026/aug/27/nepal-tibet-flash-flood-visual-guide-why-how-flooding-happened-floods-cause-reason-explained",
+        "title": "How the deadly Nepal and Tibet flash flood unfolded \u2013 a visual guide",
+        "source": "The Guardian",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-27T07:00:00Z",
+        "url": "https://www.theguardian.com/world/2026/aug/27/nepal-tibet-flash-flood-visual-guide-why-how-flooding-happened-floods-cause-reason-explained",
+        "mention_text": "Nepal",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Embassy of Nepal, 2730, 34th Place Northwest, Massachusetts Avenue Heights, Northwest, Ward 3, Washington, District of Columbia, 20007, United States",
+        "osm_type": "diplomatic",
+        "osm_id": 13436222580,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5235545,
+          28.4541775
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theguardian.com/world/2026/aug/27/nepal-tibet-flash-flood-visual-guide-why-how-flooding-happened-floods-cause-reason-explained",
+        "title": "How the deadly Nepal and Tibet flash flood unfolded \u2013 a visual guide",
+        "source": "The Guardian",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-27T07:00:00Z",
+        "url": "https://www.theguardian.com/world/2026/aug/27/nepal-tibet-flash-flood-visual-guide-why-how-flooding-happened-floods-cause-reason-explained",
+        "mention_text": "Tibet",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lake Tibet, Bay Hill, Orange County, Florida, United States",
+        "osm_type": "water",
+        "osm_id": 1121744,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://demokratis.co.id/en/texas-storms-flash-flood-threat",
+        "title": "Texas Storms Raise Flash Flood Threat Across Central and South Texas",
+        "source": "Demokratis.co.id",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-08T14:52:33Z",
+        "url": "https://demokratis.co.id/en/texas-storms-flash-flood-threat",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0677705,
+          38.9255299
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.icimod.org/press-release/major-flash-flood-sweeps-through-nepals-rasuwa-district-raising-fears-of-further-downstream-flooding/",
+        "title": "Major flash flood sweeps through Nepal\u2019s Rasuwa district, raising fears of further downstream flooding",
+        "source": "ICIMOD - International Centre for Integrated Mountain Development",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-26T07:00:00Z",
+        "url": "https://www.icimod.org/press-release/major-flash-flood-sweeps-through-nepals-rasuwa-district-raising-fears-of-further-downstream-flooding/",
+        "mention_text": "Nepal",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Embassy of Nepal, 2730, 34th Place Northwest, Massachusetts Avenue Heights, Northwest, Ward 3, Washington, District of Columbia, 20007, United States",
+        "osm_type": "diplomatic",
+        "osm_id": 13436222580,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.8134124,
+          40.1169961
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.asiaone.com/singapore/weather-today-2026-10-november-flash-flood",
+        "title": "Flash flood at West Coast Road amid heavy rain on Nov 10 afternoon, Singapore News",
+        "source": "AsiaOne.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-10T06:50:34Z",
+        "url": "https://www.asiaone.com/singapore/weather-today-2026-10-november-flash-flood",
+        "mention_text": "West Coast Road",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "West Coast Road, Redway, Garberville, Humboldt County, California, 95560, United States",
+        "osm_type": "residential",
+        "osm_id": 10276546,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4218538,
+          40.9320865
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.straitstimes.com/singapore/motorists-advised-to-avoid-parts-of-central-western-singapore-over-risk-of-flash-floods",
+        "title": "Temperature dips to 22.8 deg C in Scotts Road amid heavy rain, West Coast flash flood",
+        "source": "The Straits Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-10T07:01:00Z",
+        "url": "https://www.straitstimes.com/singapore/motorists-advised-to-avoid-parts-of-central-western-singapore-over-risk-of-flash-floods",
+        "mention_text": "Scotts Road",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Scotts Road, North Sea, Town of Southampton, Suffolk County, New York, 11968, United States",
+        "osm_type": "residential",
+        "osm_id": 20205097,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3120073,
+          41.3796719
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.straitstimes.com/singapore/motorists-advised-to-avoid-parts-of-central-western-singapore-over-risk-of-flash-floods",
+        "title": "Temperature dips to 22.8 deg C in Scotts Road amid heavy rain, West Coast flash flood",
+        "source": "The Straits Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-10T07:01:00Z",
+        "url": "https://www.straitstimes.com/singapore/motorists-advised-to-avoid-parts-of-central-western-singapore-over-risk-of-flash-floods",
+        "mention_text": "West Coast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "West Coast, Town of Goshen, Orange County, New York, United States",
+        "osm_type": "garden",
+        "osm_id": 1107357384,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -131.3549204,
+          54.8534422
+        ]
+      },
+      "properties": {
+        "article_id": "https://victoriabuzz.com/2026/11/most-of-vancouver-island-under-flood-watch-as-heavy-rain-continues/",
+        "title": "Most of Vancouver Island under \u2018Flood Watch\u2019 as heavy rain continues",
+        "source": "Victoria Buzz",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-12T17:25:28Z",
+        "url": "https://victoriabuzz.com/2026/11/most-of-vancouver-island-under-flood-watch-as-heavy-rain-continues/",
+        "mention_text": "Vancouver Island",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Vancouver Island, Ketchikan Gateway Borough, Alaska, United States",
+        "osm_type": "islet",
+        "osm_id": 822721196,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2427676,
+          34.0536923
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318059281.html",
+        "title": "UPDATE: Los Angeles placed under a flood advisory early Friday morning",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T11:56:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318059281.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8722311,
+          33.750631
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ocregister.com/2026/11/13/flood-advisory-affecting-orange-county-until-3-a-m-friday-triggered-by-heavy-rainfall/",
+        "title": "Flood advisory affecting Orange County until 3 a.m. Friday triggered by heavy rainfall",
+        "source": "Orange County Register",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T09:51:27Z",
+        "url": "https://www.ocregister.com/2026/11/13/flood-advisory-affecting-orange-county-until-3-a-m-friday-triggered-by-heavy-rainfall/",
+        "mention_text": "Orange County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Orange County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396466,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3377317,
+          47.5906404
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thenewstribune.com/news/weather-news/article318058464.html",
+        "title": "Coastal flood advisory affecting South Washington Coast until early Friday evening",
+        "source": "Tacoma News Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T09:00:06Z",
+        "url": "https://www.thenewstribune.com/news/weather-news/article318058464.html",
+        "mention_text": "South Washington Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Coast Guard Museum Northwest, 1519, Alaskan Way South, Yesler Terrace, Seattle, King County, Washington, 98134, United States",
+        "osm_type": "museum",
+        "osm_id": 681314682,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2427676,
+          34.0536923
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pasadenastarnews.com/2026/11/13/flood-advisory-active-for-los-angeles-and-ventura-counties-until-early-friday-morning-caused-by-persistent-rain/",
+        "title": "Flood advisory active for Los Angeles and Ventura counties until early Friday morning caused by persistent rain",
+        "source": "Pasadena Star News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T10:23:36Z",
+        "url": "https://www.pasadenastarnews.com/2026/11/13/flood-advisory-active-for-los-angeles-and-ventura-counties-until-early-friday-morning-caused-by-persistent-rain/",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0779359,
+          34.4458248
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pasadenastarnews.com/2026/11/13/flood-advisory-active-for-los-angeles-and-ventura-counties-until-early-friday-morning-caused-by-persistent-rain/",
+        "title": "Flood advisory active for Los Angeles and Ventura counties until early Friday morning caused by persistent rain",
+        "source": "Pasadena Star News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T10:23:36Z",
+        "url": "https://www.pasadenastarnews.com/2026/11/13/flood-advisory-active-for-los-angeles-and-ventura-counties-until-early-friday-morning-caused-by-persistent-rain/",
+        "mention_text": "Ventura",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ventura County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396505,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0372472,
+          33.7219991
+        ]
+      },
+      "properties": {
+        "article_id": "https://t.co/2kP4hzHdxI",
+        "title": "Update: Flood advisory issued for Riverside County Friday morning due to intense downpours",
+        "source": "Howl.Link",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T12:55:54Z",
+        "url": "https://t.co/2kP4hzHdxI",
+        "mention_text": "Riverside County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Riverside County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396495,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7907554,
+          41.1763139
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/11/update-flood-advisory-active-for-westchester-county-thursday-night-due-to-heavy-rain.html",
+        "title": "Update: Flood advisory active for Westchester County Thursday night due to heavy rain",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T00:08:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/11/update-flood-advisory-active-for-westchester-county-thursday-night-due-to-heavy-rain.html",
+        "mention_text": "Westchester County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Westchester County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1838027,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2062682,
+          33.9510011
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318058775.html",
+        "title": "UPDATE: Flood advisory in place for Southern California Friday morning, says the NWS",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T12:38:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318058775.html",
+        "mention_text": "Southern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Southern @ California, Southern Avenue, South Gate, Los Angeles County, California, 90280, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 11056179472,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6749486,
+          33.3926893
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/11/12/flood-advisory-affecting-delta-until-early-friday-evening/",
+        "title": "Flood advisory affecting Delta until early Friday evening",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-12T17:39:39Z",
+        "url": "https://www.mercurynews.com/2026/11/12/flood-advisory-affecting-delta-until-early-friday-evening/",
+        "mention_text": "Delta",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Delta County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839215,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.8658829,
+          47.1744169
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thenewstribune.com/news/weather-news/article318050366.html",
+        "title": "UPDATE: Grays Harbor County Coast placed under a coastal flood advisory Friday",
+        "source": "Tacoma News Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T03:11:07Z",
+        "url": "https://www.thenewstribune.com/news/weather-news/article318050366.html",
+        "mention_text": "Grays Harbor",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Grays Harbor County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153401,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.985823,
+          34.7136533
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318058562.html",
+        "title": "Santa Barbara County under a flood advisory until 3 a.m. Friday, says the NWS",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T09:20:05Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318058562.html",
+        "mention_text": "Santa Barbara County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Santa Barbara County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396510,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.6495508,
+          37.7633081
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thenewstribune.com/news/weather-news/article318047572.html",
+        "title": "UPDATE: Coastal flood advisory issued for San Juan County Thursday midday",
+        "source": "Tacoma News Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-12T19:11:06Z",
+        "url": "https://www.thenewstribune.com/news/weather-news/article318047572.html",
+        "mention_text": "San Juan County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Juan County, Colorado, 81433, United States",
+        "osm_type": "administrative",
+        "osm_id": 416522,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9163555,
+          38.2218938
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318049279.html",
+        "title": "UPDATE: Flood advisory issued for Solano County until early Friday evening",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-12T18:09:05Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318049279.html",
+        "mention_text": "Solano County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Solano County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396513,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3747719,
+          37.6621028
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/11/11/coastal-flood-advisory-issued-for-bay-area-shorelines-for-saturday/",
+        "title": "Coastal flood advisory issued for Bay Area Shorelines for Saturday",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-12T06:53:29Z",
+        "url": "https://www.eastbaytimes.com/2026/11/11/coastal-flood-advisory-issued-for-bay-area-shorelines-for-saturday/",
+        "mention_text": "Bay Area Shorelines",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Bay Area Shorelines & Waterways, Marina Boulevard, South San Francisco, San Mateo County, California, 94083, United States",
+        "osm_type": "map",
+        "osm_id": 10817026016,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.737257,
+          43.9792797
+        ]
+      },
+      "properties": {
+        "article_id": "https://nbc16.com/news/local/flood-advisory-issued-for-parts-of-nw-oregon-sw-washington-as-heavy-rain-sweeps-region-national-weather-service-nws-alert",
+        "title": "Flood advisory issued for parts of NW Oregon, SW Washington as heavy rain sweeps region",
+        "source": "KMTR",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-10T22:57:38Z",
+        "url": "https://nbc16.com/news/local/flood-advisory-issued-for-parts-of-nw-oregon-sw-washington-as-heavy-rain-sweeps-region-national-weather-service-nws-alert",
+        "mention_text": "Oregon",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Oregon, United States",
+        "osm_type": "administrative",
+        "osm_id": 165476,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0363849,
+          38.8950982
+        ]
+      },
+      "properties": {
+        "article_id": "https://nbc16.com/news/local/flood-advisory-issued-for-parts-of-nw-oregon-sw-washington-as-heavy-rain-sweeps-region-national-weather-service-nws-alert",
+        "title": "Flood advisory issued for parts of NW Oregon, SW Washington as heavy rain sweeps region",
+        "source": "KMTR",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-10T22:57:38Z",
+        "url": "https://nbc16.com/news/local/flood-advisory-issued-for-parts-of-nw-oregon-sw-washington-as-heavy-rain-sweeps-region-national-weather-service-nws-alert",
+        "mention_text": "Washington",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Washington, District of Columbia, United States",
+        "osm_type": "city",
+        "osm_id": 5396194,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0323752,
+          40.7433066
+        ]
+      },
+      "properties": {
+        "article_id": "https://patch.com/new-jersey/hoboken/flood-advisory-issued-hoboken-jersey-city-thunderstorms-weather-forecast",
+        "title": "Flood Advisory Issued For Hoboken And Jersey City, With Thunderstorms In Weather Forecast",
+        "source": "Patch",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-12T16:51:44Z",
+        "url": "https://patch.com/new-jersey/hoboken/flood-advisory-issued-hoboken-jersey-city-thunderstorms-weather-forecast",
+        "mention_text": "Hoboken",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hoboken, Hudson County, New Jersey, 07030, United States",
+        "osm_type": "administrative",
+        "osm_id": 170708,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.047455,
+          40.7215682
+        ]
+      },
+      "properties": {
+        "article_id": "https://patch.com/new-jersey/hoboken/flood-advisory-issued-hoboken-jersey-city-thunderstorms-weather-forecast",
+        "title": "Flood Advisory Issued For Hoboken And Jersey City, With Thunderstorms In Weather Forecast",
+        "source": "Patch",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-12T16:51:44Z",
+        "url": "https://patch.com/new-jersey/hoboken/flood-advisory-issued-hoboken-jersey-city-thunderstorms-weather-forecast",
+        "mention_text": "Jersey City",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Jersey City, Hudson County, New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 170953,
+        "run_at": "2026-11-13T14:07:16.866939+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-11-12T14:47:34.419706+00:00",
-    "total_features": 5826
+    "last_updated": "2026-11-13T14:07:16.893249+00:00",
+    "total_features": 5861
   }
 }
