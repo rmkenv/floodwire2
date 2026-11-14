@@ -152386,11 +152386,817 @@
         "osm_id": 170953,
         "run_at": "2026-11-13T14:07:16.866939+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.074141,
+          33.4484367
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.azcentral.com/story/weather/forecasts/2026/11/13/flood-warning-issued-for-metro-phoenix/92745360007/",
+        "title": "Flood warning issued for metro Phoenix through weekend",
+        "source": "azcentral.com and The Arizona Republic",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T15:38:00Z",
+        "url": "https://www.azcentral.com/story/weather/forecasts/2026/11/13/flood-warning-issued-for-metro-phoenix/92745360007/",
+        "mention_text": "Phoenix",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Phoenix, Maricopa County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 111257,
+        "run_at": "2026-11-14T13:08:33.398894+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.445882,
+          39.7837304
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.usgs.gov/programs/landslide-hazards/science/2026-nepal-debris-avalanche-and-flash-flood",
+        "title": "2026 Nepal Debris Avalanche and Flash Flood | U.S. Geological Survey",
+        "source": "USGS (.gov)",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-08-27T07:00:00Z",
+        "url": "https://www.usgs.gov/programs/landslide-hazards/science/2026-nepal-debris-avalanche-and-flash-flood",
+        "mention_text": "U.S.",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "United States",
+        "osm_type": "administrative",
+        "osm_id": 148838,
+        "run_at": "2026-11-14T13:08:33.398894+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4218538,
+          40.9320865
+        ]
+      },
+      "properties": {
+        "article_id": "https://sg.news.yahoo.com/motorists-advised-avoid-parts-central-070142907.html",
+        "title": "Temperature dips to 22.8 deg C in Scotts Road amid heavy rain, West Coast flash flood",
+        "source": "Yahoo News Singapore",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-10T07:01:00Z",
+        "url": "https://sg.news.yahoo.com/motorists-advised-avoid-parts-central-070142907.html",
+        "mention_text": "Scotts Road",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Scotts Road, North Sea, Town of Southampton, Suffolk County, New York, 11968, United States",
+        "osm_type": "residential",
+        "osm_id": 20205097,
+        "run_at": "2026-11-14T13:08:33.398894+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3120073,
+          41.3796719
+        ]
+      },
+      "properties": {
+        "article_id": "https://sg.news.yahoo.com/motorists-advised-avoid-parts-central-070142907.html",
+        "title": "Temperature dips to 22.8 deg C in Scotts Road amid heavy rain, West Coast flash flood",
+        "source": "Yahoo News Singapore",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-10T07:01:00Z",
+        "url": "https://sg.news.yahoo.com/motorists-advised-avoid-parts-central-070142907.html",
+        "mention_text": "West Coast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "West Coast, Town of Goshen, Orange County, New York, United States",
+        "osm_type": "garden",
+        "osm_id": 1107357384,
+        "run_at": "2026-11-14T13:08:33.398894+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.069177,
+          38.9437332
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.onmanorama.com/news/kerala/2026/11/11/two-malayalis-killed-in-flash-flood-following-landslide-in-malaysia.html",
+        "title": "Two Malayalis die in Malaysia flash flood during Diwali holiday getaway",
+        "source": "Onmanorama",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-11T05:05:04Z",
+        "url": "https://www.onmanorama.com/news/kerala/2026/11/11/two-malayalis-killed-in-flash-flood-following-landslide-in-malaysia.html",
+        "mention_text": "Malaysia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Embassy of Malaysia, 3516, International Court Northwest, Van Ness, Ward 3, Washington, District of Columbia, 20008, United States",
+        "osm_type": "diplomatic",
+        "osm_id": 73148438,
+        "run_at": "2026-11-14T13:08:33.398894+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.069177,
+          38.9437332
+        ]
+      },
+      "properties": {
+        "article_id": "https://english.publictv.in/trichy-man-goes-missing-in-malaysia-flash-flood-family-seeks-tamil-nadu-govts-intervention/",
+        "title": "Trichy man goes missing in Malaysia flash flood; family seeks Tamil Nadu govt\u2019s intervention",
+        "source": "Public TV English",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-12T09:25:01Z",
+        "url": "https://english.publictv.in/trichy-man-goes-missing-in-malaysia-flash-flood-family-seeks-tamil-nadu-govts-intervention/",
+        "mention_text": "Malaysia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Embassy of Malaysia, 3516, International Court Northwest, Van Ness, Ward 3, Washington, District of Columbia, 20008, United States",
+        "osm_type": "diplomatic",
+        "osm_id": 73148438,
+        "run_at": "2026-11-14T13:08:33.398894+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6012063,
+          45.6415933
+        ]
+      },
+      "properties": {
+        "article_id": "https://anywherevancouver.com/coastal-flooding-statement-metro-vancouver-november-2026/",
+        "title": "Coastal flooding statement issued for parts of Metro Vancouver due to \"storm surge\"",
+        "source": "Anywhere Vancouver",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T19:54:12Z",
+        "url": "https://anywherevancouver.com/coastal-flooding-statement-metro-vancouver-november-2026/",
+        "mention_text": "Metro Vancouver",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "Metro by T-Mobile, 2700, Northeast Andresen Road, Meadow Homes, Vancouver, Clark County, Washington, 98661, United States",
+        "osm_type": "mobile_phone",
+        "osm_id": 4425682581,
+        "run_at": "2026-11-14T13:08:33.398894+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318068472.html",
+        "title": "UPDATE: Coastal flood advisory affecting San Diego County Coastal Areas and Orange County Coastal",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-14T03:58:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318068472.html",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-11-14T13:08:33.398894+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.689423,
+          34.035591
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailynews.com/2026/11/13/coastal-flood-advisory-in-place-for-malibu-and-los-angeles-county-beaches-for-saturday/",
+        "title": "Coastal flood advisory in place for Malibu and Los Angeles County Beaches for Saturday",
+        "source": "Los Angeles Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T20:07:49Z",
+        "url": "https://www.dailynews.com/2026/11/13/coastal-flood-advisory-in-place-for-malibu-and-los-angeles-county-beaches-for-saturday/",
+        "mention_text": "Malibu",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Malibu, Los Angeles County, California, 90265, United States",
+        "osm_type": "administrative",
+        "osm_id": 3492156,
+        "run_at": "2026-11-14T13:08:33.398894+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2427676,
+          34.0536923
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailynews.com/2026/11/13/coastal-flood-advisory-in-place-for-malibu-and-los-angeles-county-beaches-for-saturday/",
+        "title": "Coastal flood advisory in place for Malibu and Los Angeles County Beaches for Saturday",
+        "source": "Los Angeles Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T20:07:49Z",
+        "url": "https://www.dailynews.com/2026/11/13/coastal-flood-advisory-in-place-for-malibu-and-los-angeles-county-beaches-for-saturday/",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-11-14T13:08:33.398894+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6908566,
+          33.4657158
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ocregister.com/2026/11/13/coastal-flood-advisory-issued-for-orange-county-coast-and-san-diego-county-coastal-areas-for-saturday/",
+        "title": "Coastal flood advisory issued for Orange County Coast and San Diego County Coastal Areas for Saturday",
+        "source": "Orange County Register",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T20:20:18Z",
+        "url": "https://www.ocregister.com/2026/11/13/coastal-flood-advisory-issued-for-orange-county-coast-and-san-diego-county-coastal-areas-for-saturday/",
+        "mention_text": "Orange County Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Orange County Creamery, 34255, Pacific Coast Highway, Toovunga, South Cove, Dana Point, Orange County, California, 92629, United States",
+        "osm_type": "ice_cream",
+        "osm_id": 13327327772,
+        "run_at": "2026-11-14T13:08:33.398894+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ocregister.com/2026/11/13/coastal-flood-advisory-issued-for-orange-county-coast-and-san-diego-county-coastal-areas-for-saturday/",
+        "title": "Coastal flood advisory issued for Orange County Coast and San Diego County Coastal Areas for Saturday",
+        "source": "Orange County Register",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T20:20:18Z",
+        "url": "https://www.ocregister.com/2026/11/13/coastal-flood-advisory-issued-for-orange-county-coast-and-san-diego-county-coastal-areas-for-saturday/",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-11-14T13:08:33.398894+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8828175,
+          48.8107819
+        ]
+      },
+      "properties": {
+        "article_id": "https://whatcom-news.com/coastal-flood-advisory-issued-for-whatcom-county-saturday-morning_239838/",
+        "title": "Coastal Flood Advisory issued for Whatcom County Saturday morning",
+        "source": "Whatcom News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T20:45:10Z",
+        "url": "https://whatcom-news.com/coastal-flood-advisory-issued-for-whatcom-county-saturday-morning_239838/",
+        "mention_text": "Whatcom County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Whatcom County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153762,
+        "run_at": "2026-11-14T13:08:33.398894+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6749486,
+          33.3926893
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/11/13/flood-advisory-in-place-for-delta-until-early-friday-evening-triggered-by-prolonged-downpours/",
+        "title": "Flood advisory in place for Delta until early Friday evening triggered by prolonged downpours",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T22:03:11Z",
+        "url": "https://www.mercurynews.com/2026/11/13/flood-advisory-in-place-for-delta-until-early-friday-evening-triggered-by-prolonged-downpours/",
+        "mention_text": "Delta",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Delta County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839215,
+        "run_at": "2026-11-14T13:08:33.398894+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1137366,
+          32.3293809
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/atlanta/news/georgia-extends-flood-emergency-as-mccaysville-lifts-curfew-and-reopens-road-to-tennessee/",
+        "title": "Georgia extends flood emergency as McCaysville lifts curfew and reopens road to Tennessee",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T14:06:00Z",
+        "url": "https://www.cbsnews.com/atlanta/news/georgia-extends-flood-emergency-as-mccaysville-lifts-curfew-and-reopens-road-to-tennessee/",
+        "mention_text": "Georgia",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Georgia, United States",
+        "osm_type": "administrative",
+        "osm_id": 161957,
+        "run_at": "2026-11-14T13:08:33.398894+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/atlanta/news/georgia-extends-flood-emergency-as-mccaysville-lifts-curfew-and-reopens-road-to-tennessee/",
+        "title": "Georgia extends flood emergency as McCaysville lifts curfew and reopens road to Tennessee",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T14:06:00Z",
+        "url": "https://www.cbsnews.com/atlanta/news/georgia-extends-flood-emergency-as-mccaysville-lifts-curfew-and-reopens-road-to-tennessee/",
+        "mention_text": "Tennessee",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Tennessee, United States",
+        "osm_type": "administrative",
+        "osm_id": 161838,
+        "run_at": "2026-11-14T13:08:33.398894+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0779359,
+          34.4458248
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318068507.html",
+        "title": "UPDATE: Coastal flood advisory issued for Ventura County Beaches for Saturday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-14T02:00:10Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318068507.html",
+        "mention_text": "Ventura County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ventura County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396505,
+        "run_at": "2026-11-14T13:08:33.398894+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4030376,
+          37.7887644
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/11/13/flood-advisory-active-for-northern-california-until-friday-afternoon-caused-by-substantial-rainfall/",
+        "title": "Flood advisory active for Northern California until Friday afternoon caused by substantial rainfall",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T20:43:02Z",
+        "url": "https://www.mercurynews.com/2026/11/13/flood-advisory-active-for-northern-california-until-friday-afternoon-caused-by-substantial-rainfall/",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "First National Bank of Northern California, Post Street, Union Square, Financial District, San Francisco, California, 94104, United States",
+        "osm_type": "bank",
+        "osm_id": 32946665,
+        "run_at": "2026-11-14T13:08:33.398894+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7028898,
+          34.0348125
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318068471.html",
+        "title": "UPDATE: Malibu Coast and Los Angeles placed under a coastal flood advisory Saturday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-14T02:02:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318068471.html",
+        "mention_text": "Malibu Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Pacific Coast Highway, Malibu, Los Angeles County, California, 90263, United States",
+        "osm_type": "trunk",
+        "osm_id": 709805378,
+        "run_at": "2026-11-14T13:08:33.398894+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2427676,
+          34.0536923
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318068471.html",
+        "title": "UPDATE: Malibu Coast and Los Angeles placed under a coastal flood advisory Saturday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-14T02:02:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318068471.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-11-14T13:08:33.398894+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3558473,
+          37.7884969
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318069339.html",
+        "title": "UPDATE: Flood advisory for Bay Area early Friday evening caused by heavy rain",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T23:02:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318069339.html",
+        "mention_text": "Bay Area",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Francisco Bay Area, San Francisco, California, 94130, United States",
+        "osm_type": "region",
+        "osm_id": 2157162589,
+        "run_at": "2026-11-14T13:08:33.398894+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.702667,
+          34.4221319
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318059281.html",
+        "title": "UPDATE: Santa Barbara and Ventura counties placed under a flood advisory Friday morning",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T13:50:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318059281.html",
+        "mention_text": "Santa Barbara",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Santa Barbara, Santa Barbara County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 112224,
+        "run_at": "2026-11-14T13:08:33.398894+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0779359,
+          34.4458248
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318059281.html",
+        "title": "UPDATE: Santa Barbara and Ventura counties placed under a flood advisory Friday morning",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T13:50:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318059281.html",
+        "mention_text": "Ventura",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ventura County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396505,
+        "run_at": "2026-11-14T13:08:33.398894+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.493895,
+          38.5810606
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/heavy-rains-flood-sacramento-area-232317425.html",
+        "title": "Heavy rains flood Sacramento-area roadways, trigger brief regional flood advisory",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T23:23:17Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/heavy-rains-flood-sacramento-area-232317425.html",
+        "mention_text": "Sacramento",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Sacramento, Sacramento County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 6232940,
+        "run_at": "2026-11-14T13:08:33.398894+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0372472,
+          33.7219991
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.redlandsdailyfacts.com/2026/11/13/update-flood-advisory-issued-for-riverside-county-friday-morning-due-to-intense-downpours/",
+        "title": "Update: Flood advisory issued for Riverside County Friday morning due to intense downpours",
+        "source": "Redlands Daily Facts",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T18:57:05Z",
+        "url": "https://www.redlandsdailyfacts.com/2026/11/13/update-flood-advisory-issued-for-riverside-county-friday-morning-due-to-intense-downpours/",
+        "mention_text": "Riverside County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Riverside County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396495,
+        "run_at": "2026-11-14T13:08:33.398894+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.674194,
+          45.5202471
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.koin.com/video/flood-advisory-in-place-for-portland-tuesday/12356410/",
+        "title": "Flood Advisory in place for Portland Tuesday",
+        "source": "KOIN.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-10T20:37:32Z",
+        "url": "https://www.koin.com/video/flood-advisory-in-place-for-portland-tuesday/12356410/",
+        "mention_text": "Portland",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Portland, Multnomah County, Oregon, United States",
+        "osm_type": "administrative",
+        "osm_id": 186579,
+        "run_at": "2026-11-14T13:08:33.398894+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://abc11.com/story/flash-flood-emergency-occurring-same-texas-region-camp-mystic-tragedy/19519397/",
+        "title": "Flash flood emergency occurring in same Texas region as Camp Mystic tragedy",
+        "source": "ABC11 News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-07-16T07:00:00Z",
+        "url": "https://abc11.com/story/flash-flood-emergency-occurring-same-texas-region-camp-mystic-tragedy/19519397/",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-11-14T13:08:33.398894+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2416273,
+          32.0702563
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.everbridge.com/resource/coordinating-a-life-saving-flood-evacuation-in-kenya/",
+        "title": "Coordinating a life-saving flood evacuation in Kenya",
+        "source": "Everbridge",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2025-12-17T18:15:54Z",
+        "url": "https://www.everbridge.com/resource/coordinating-a-life-saving-flood-evacuation-in-kenya/",
+        "mention_text": "Kenya",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kenya, West Church Street, Americus, Sumter County, Georgia, 31719, United States",
+        "osm_type": "house",
+        "osm_id": 405507584,
+        "run_at": "2026-11-14T13:08:33.398894+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2427676,
+          34.0536923
+        ]
+      },
+      "properties": {
+        "article_id": "https://m.economictimes.com/news/international/us/beach-hazards-statements-high-surf-warning-and-flood-advisory-as-storms-hit-los-angeles-and-san-francisco/articleshow/135802683.cms",
+        "title": "Beach Hazards Statements, High Surf Warning and flood advisory as storms hit Los Angeles and San Francisco",
+        "source": "The Economic Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T12:49:38Z",
+        "url": "https://m.economictimes.com/news/international/us/beach-hazards-statements-high-surf-warning-and-flood-advisory-as-storms-hit-los-angeles-and-san-francisco/articleshow/135802683.cms",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-11-14T13:08:33.398894+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4075201,
+          37.7879363
+        ]
+      },
+      "properties": {
+        "article_id": "https://m.economictimes.com/news/international/us/beach-hazards-statements-high-surf-warning-and-flood-advisory-as-storms-hit-los-angeles-and-san-francisco/articleshow/135802683.cms",
+        "title": "Beach Hazards Statements, High Surf Warning and flood advisory as storms hit Los Angeles and San Francisco",
+        "source": "The Economic Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T12:49:38Z",
+        "url": "https://m.economictimes.com/news/international/us/beach-hazards-statements-high-surf-warning-and-flood-advisory-as-storms-hit-los-angeles-and-san-francisco/articleshow/135802683.cms",
+        "mention_text": "San Francisco",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 111968,
+        "run_at": "2026-11-14T13:08:33.398894+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://cedarnews.net/newstasks/1139975/flood-advisory-issued-for-new-york-city-through-9-p-m-thursday/",
+        "title": "Flood advisory issued for New York City through 9 p.m. Thursday",
+        "source": "cedarnews.net",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T00:25:16Z",
+        "url": "https://cedarnews.net/newstasks/1139975/flood-advisory-issued-for-new-york-city-through-9-p-m-thursday/",
+        "mention_text": "New York City",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-11-14T13:08:33.398894+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-11-13T14:07:16.893249+00:00",
-    "total_features": 5861
+    "last_updated": "2026-11-14T13:08:33.421085+00:00",
+    "total_features": 5892
   }
 }
