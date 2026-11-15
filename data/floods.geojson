@@ -153192,11 +153192,245 @@
         "osm_id": 175905,
         "run_at": "2026-11-14T13:08:33.398894+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/texas-faces-renewed-flash-flood-threat-pacific-storm-energy-pushes-east",
+        "title": "Downpours slam Texas, fueling final weekend flash flood threat as powerful Pacific storm energy pushes east",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-15T11:52:00Z",
+        "url": "https://www.foxweather.com/weather-news/texas-faces-renewed-flash-flood-threat-pacific-storm-energy-pushes-east",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-11-15T13:36:19.435897+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.768029,
+          46.5334929
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.foxweather.com/weather-news/texas-faces-renewed-flash-flood-threat-pacific-storm-energy-pushes-east",
+        "title": "Downpours slam Texas, fueling final weekend flash flood threat as powerful Pacific storm energy pushes east",
+        "source": "FOX Weather",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-15T11:52:00Z",
+        "url": "https://www.foxweather.com/weather-news/texas-faces-renewed-flash-flood-threat-pacific-storm-energy-pushes-east",
+        "mention_text": "Pacific",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pacific County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153390,
+        "run_at": "2026-11-15T13:36:19.435897+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/more-downpours-target-texas-flash-004523565.html",
+        "title": "More downpours target Texas as flash flood concerns grow",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-15T00:45:00Z",
+        "url": "https://www.yahoo.com/news/videos/more-downpours-target-texas-flash-004523565.html",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-11-15T13:36:19.435897+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/rounds-rain-soak-texas-southern-142730184.html",
+        "title": "Rounds of rain to soak Texas, Southern Plains with flash flood risk",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-14T14:27:30Z",
+        "url": "https://www.yahoo.com/news/videos/rounds-rain-soak-texas-southern-142730184.html",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-11-15T13:36:19.435897+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.91328,
+          41.7261767
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318087046.html",
+        "title": "Flood advisory issued for Del Norte County until early Sunday morning",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-15T09:41:21Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318087046.html",
+        "mention_text": "Del Norte County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Del Norte County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396503,
+        "run_at": "2026-11-15T13:36:19.435897+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -170.6713406,
+          -14.2386042
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thenewstribune.com/news/weather-news/article318068156.html",
+        "title": "UPDATE: Coastal flood advisory affecting Eastern Strait of Juan de Fuca early Friday evening",
+        "source": "Tacoma News Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T23:08:06Z",
+        "url": "https://www.thenewstribune.com/news/weather-news/article318068156.html",
+        "mention_text": "Eastern Strait",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Vai\u02bbava Strait, Vatia, Vaifanua County, Eastern District, American Samoa, United States",
+        "osm_type": "strait",
+        "osm_id": 836511494,
+        "run_at": "2026-11-15T13:36:19.435897+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.6495508,
+          37.7633081
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thenewstribune.com/news/weather-news/article318068203.html",
+        "title": "San Juan County placed under a coastal flood advisory Saturday",
+        "source": "Tacoma News Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T20:12:07Z",
+        "url": "https://www.thenewstribune.com/news/weather-news/article318068203.html",
+        "mention_text": "San Juan County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Juan County, Colorado, 81433, United States",
+        "osm_type": "administrative",
+        "osm_id": 416522,
+        "run_at": "2026-11-15T13:36:19.435897+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.674194,
+          45.5202471
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/nws-issues-flood-advisory-portland-192111866.html",
+        "title": "NWS issues flood advisory for Portland metro area Tuesday",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-10T19:21:11Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/nws-issues-flood-advisory-portland-192111866.html",
+        "mention_text": "Portland",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Portland, Multnomah County, Oregon, United States",
+        "osm_type": "administrative",
+        "osm_id": 186579,
+        "run_at": "2026-11-15T13:36:19.435897+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wvlt.tv/2026/11/05/heavy-rains-prompt-flash-flood-emergency-southeast-tennessee-weather-service-says/",
+        "title": "Heavy rain prompts flood emergency in southeast Tennessee, Emergency Operations Center activated",
+        "source": "WVLT",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-05T14:01:00Z",
+        "url": "https://www.wvlt.tv/2026/11/05/heavy-rains-prompt-flash-flood-emergency-southeast-tennessee-weather-service-says/",
+        "mention_text": "Tennessee",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Tennessee, United States",
+        "osm_type": "administrative",
+        "osm_id": 161838,
+        "run_at": "2026-11-15T13:36:19.435897+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-11-14T13:08:33.421085+00:00",
-    "total_features": 5892
+    "last_updated": "2026-11-15T13:36:19.468150+00:00",
+    "total_features": 5901
   }
 }
