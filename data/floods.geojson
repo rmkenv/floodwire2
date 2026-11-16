@@ -153426,11 +153426,505 @@
         "osm_id": 161838,
         "run_at": "2026-11-15T13:36:19.435897+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1248417,
+          47.6738579
+        ]
+      },
+      "properties": {
+        "article_id": "http://www.weathernationtv.com/news/flash-flood-threat-return-in-the-sunshine-state",
+        "title": "Flash Flood Threat Return in the Sunshine State",
+        "source": "WeatherNation",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-16T13:25:00Z",
+        "url": "http://www.weathernationtv.com/news/flash-flood-threat-return-in-the-sunshine-state",
+        "mention_text": "the Sunshine State",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Let the Sunshine In, Cleveland Street, Downtown Redmond, Redmond, King County, Washington, 98052, United States",
+        "osm_type": "artwork",
+        "osm_id": 11335178308,
+        "run_at": "2026-11-16T14:52:11.183820+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.6495508,
+          37.7633081
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thenewstribune.com/news/weather-news/article318050394.html",
+        "title": "UPDATE: Coastal flood warning issued for San Juan County Friday midday",
+        "source": "Tacoma News Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T20:12:09Z",
+        "url": "https://www.thenewstribune.com/news/weather-news/article318050394.html",
+        "mention_text": "San Juan County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Juan County, Colorado, 81433, United States",
+        "osm_type": "administrative",
+        "osm_id": 416522,
+        "run_at": "2026-11-16T14:52:11.183820+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3676974,
+          29.7589382
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/2026/11/15/forecast/regional/video/texas-rain-flash-flooding-southern-plains-houston-louisiana",
+        "title": "Houston in the bull\u2019s-eye for flash flood threat Sunday",
+        "source": "The Weather Channel",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-15T12:42:45Z",
+        "url": "https://weather.com/2026/11/15/forecast/regional/video/texas-rain-flash-flooding-southern-plains-houston-louisiana",
+        "mention_text": "Houston",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Houston, Harris County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 2688911,
+        "run_at": "2026-11-16T14:52:11.183820+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1635262,
+          39.9527237
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.hindustantimes.com/world-news/us-news/nws-issues-flash-flood-warning-for-philadelphia-and-new-jersey-as-heavy-rain-hits-region-101794517816424.html",
+        "title": "NWS issues flash flood warning for Philadelphia and New Jersey as heavy rain hits region | Hindustan Times",
+        "source": "Hindustan Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-12T21:26:26Z",
+        "url": "https://www.hindustantimes.com/world-news/us-news/nws-issues-flash-flood-warning-for-philadelphia-and-new-jersey-as-heavy-rain-hits-region-101794517816424.html",
+        "mention_text": "Philadelphia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Philadelphia, Philadelphia County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 188022,
+        "run_at": "2026-11-16T14:52:11.183820+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4041622,
+          40.0757384
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.hindustantimes.com/world-news/us-news/nws-issues-flash-flood-warning-for-philadelphia-and-new-jersey-as-heavy-rain-hits-region-101794517816424.html",
+        "title": "NWS issues flash flood warning for Philadelphia and New Jersey as heavy rain hits region | Hindustan Times",
+        "source": "Hindustan Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-12T21:26:26Z",
+        "url": "https://www.hindustantimes.com/world-news/us-news/nws-issues-flash-flood-warning-for-philadelphia-and-new-jersey-as-heavy-rain-hits-region-101794517816424.html",
+        "mention_text": "New Jersey",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 224951,
+        "run_at": "2026-11-16T14:52:11.183820+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8283132,
+          40.7135078
+        ]
+      },
+      "properties": {
+        "article_id": "https://cedarnews.net/newstasks/1139130/flash-flood-warning-queens-new-york/",
+        "title": "Flash Flood Warning Issued in Queens, New York",
+        "source": "cedarnews.net",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-12T19:13:33Z",
+        "url": "https://cedarnews.net/newstasks/1139130/flash-flood-warning-queens-new-york/",
+        "mention_text": "Queens",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Queens, Queens County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 9691819,
+        "run_at": "2026-11-16T14:52:11.183820+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "article_id": "https://cedarnews.net/newstasks/1139130/flash-flood-warning-queens-new-york/",
+        "title": "Flash Flood Warning Issued in Queens, New York",
+        "source": "cedarnews.net",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-12T19:13:33Z",
+        "url": "https://cedarnews.net/newstasks/1139130/flash-flood-warning-queens-new-york/",
+        "mention_text": "New York",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 175905,
+        "run_at": "2026-11-16T14:52:11.183820+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2233284,
+          30.705029
+        ]
+      },
+      "properties": {
+        "article_id": "https://cedarnews.net/newstasks/1134509/flood-warning-mason-washington/",
+        "title": "Flood Warning Issued in Mason, Washington",
+        "source": "cedarnews.net",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-11T02:12:32Z",
+        "url": "https://cedarnews.net/newstasks/1134509/flood-warning-mason-washington/",
+        "mention_text": "Mason",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Mason County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1827124,
+        "run_at": "2026-11-16T14:52:11.183820+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0363849,
+          38.8950982
+        ]
+      },
+      "properties": {
+        "article_id": "https://cedarnews.net/newstasks/1134509/flood-warning-mason-washington/",
+        "title": "Flood Warning Issued in Mason, Washington",
+        "source": "cedarnews.net",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-11T02:12:32Z",
+        "url": "https://cedarnews.net/newstasks/1134509/flood-warning-mason-washington/",
+        "mention_text": "Washington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Washington, District of Columbia, United States",
+        "osm_type": "city",
+        "osm_id": 5396194,
+        "run_at": "2026-11-16T14:52:11.183820+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4246781,
+          38.3855143
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.madeiraislandnews.com/2026/11/piloto-the-dog-displaced-by-a-flash-flood-in-camacha-already-has-a-new-kennel.html",
+        "title": "Piloto, the dog \u2018displaced\u2019 by a flash flood in Camacha, already has a new kennel.",
+        "source": "Madeira Island News Blog",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-12T23:39:55Z",
+        "url": "https://www.madeiraislandnews.com/2026/11/piloto-the-dog-displaced-by-a-flash-flood-in-camacha-already-has-a-new-kennel.html",
+        "mention_text": "Camacha",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Camacha Way, Elk Grove, Sacramento County, California, 95757, United States",
+        "osm_type": "residential",
+        "osm_id": 10516922,
+        "run_at": "2026-11-16T14:52:11.183820+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7614394,
+          34.8688613
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsbreak.com/tornado-trail-362985226/5003115961630-crazy-flash-flood-on-the-way-home-from-sedona-praying-everyone-stays-safe-arizona-flashflood-sedona",
+        "title": "Crazy flash flood on the way home from Sedona \u2014 praying everyone stays safe \ud83d\ude4f\ud83d\ude33 #Arizona #FlashFlood #Sedona",
+        "source": "NewsBreak: Local News & Alerts",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-12T16:08:19Z",
+        "url": "https://www.newsbreak.com/tornado-trail-362985226/5003115961630-crazy-flash-flood-on-the-way-home-from-sedona-praying-everyone-stays-safe-arizona-flashflood-sedona",
+        "mention_text": "Sedona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Sedona, Coconino County, Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 10693662,
+        "run_at": "2026-11-16T14:52:11.183820+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.763275,
+          34.395342
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsbreak.com/tornado-trail-362985226/5003115961630-crazy-flash-flood-on-the-way-home-from-sedona-praying-everyone-stays-safe-arizona-flashflood-sedona",
+        "title": "Crazy flash flood on the way home from Sedona \u2014 praying everyone stays safe \ud83d\ude4f\ud83d\ude33 #Arizona #FlashFlood #Sedona",
+        "source": "NewsBreak: Local News & Alerts",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-12T16:08:19Z",
+        "url": "https://www.newsbreak.com/tornado-trail-362985226/5003115961630-crazy-flash-flood-on-the-way-home-from-sedona-praying-everyone-stays-safe-arizona-flashflood-sedona",
+        "mention_text": "Arizona",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Arizona, United States",
+        "osm_type": "administrative",
+        "osm_id": 162018,
+        "run_at": "2026-11-16T14:52:11.183820+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4041622,
+          40.0757384
+        ]
+      },
+      "properties": {
+        "article_id": "https://sundayguardianlive.com/world/flash-flood-warning-severe-thunderstorms-and-flood-alert-issued-across-new-jersey-as-rare-mid-november-storm-system-sweeps-region-321399/",
+        "title": "Flash Flood Warning: Severe Thunderstorms And Flood Alert Issued Across New Jersey as Rare Mid-November Storm System Sweeps Region",
+        "source": "The Sunday Guardian",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-12T23:01:36Z",
+        "url": "https://sundayguardianlive.com/world/flash-flood-warning-severe-thunderstorms-and-flood-alert-issued-across-new-jersey-as-rare-mid-november-storm-system-sweeps-region-321399/",
+        "mention_text": "New Jersey",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 224951,
+        "run_at": "2026-11-16T14:52:11.183820+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4075201,
+          37.7879363
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/11/15/flood-advisory-active-for-san-francisco-and-san-mateo-counties-until-sunday-evening-due-to-intense-downpours/",
+        "title": "Flood advisory active for San Francisco and San Mateo counties until Sunday evening due to intense downpours",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-16T01:29:12Z",
+        "url": "https://www.mercurynews.com/2026/11/15/flood-advisory-active-for-san-francisco-and-san-mateo-counties-until-sunday-evening-due-to-intense-downpours/",
+        "mention_text": "San Francisco",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 111968,
+        "run_at": "2026-11-16T14:52:11.183820+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3330573,
+          37.496904
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/11/15/flood-advisory-active-for-san-francisco-and-san-mateo-counties-until-sunday-evening-due-to-intense-downpours/",
+        "title": "Flood advisory active for San Francisco and San Mateo counties until Sunday evening due to intense downpours",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-16T01:29:12Z",
+        "url": "https://www.mercurynews.com/2026/11/15/flood-advisory-active-for-san-francisco-and-san-mateo-counties-until-sunday-evening-due-to-intense-downpours/",
+        "mention_text": "San Mateo",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Mateo County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396498,
+        "run_at": "2026-11-16T14:52:11.183820+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4075201,
+          37.7879363
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318094949.html",
+        "title": "UPDATE: Flood advisory in place for San Francisco and San Mateo counties Sunday evening",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-16T03:11:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318094949.html",
+        "mention_text": "San Francisco",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 111968,
+        "run_at": "2026-11-16T14:52:11.183820+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3330573,
+          37.496904
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318094949.html",
+        "title": "UPDATE: Flood advisory in place for San Francisco and San Mateo counties Sunday evening",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-16T03:11:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318094949.html",
+        "mention_text": "San Mateo",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Mateo County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396498,
+        "run_at": "2026-11-16T14:52:11.183820+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1162104,
+          46.8886789
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thenewstribune.com/news/weather-news/article318050366.html",
+        "title": "UPDATE: Coastal flood advisory issued for Grays Harbor County Coast early Friday evening",
+        "source": "Tacoma News Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T23:08:07Z",
+        "url": "https://www.thenewstribune.com/news/weather-news/article318050366.html",
+        "mention_text": "Grays Harbor County Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Westport Coast Guard Recreation Park, 1010, Westport, Grays Harbor County, Washington, 98595, United States",
+        "osm_type": "military",
+        "osm_id": 559675719,
+        "run_at": "2026-11-16T14:52:11.183820+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.493895,
+          38.5810606
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/local/article318070237.html",
+        "title": "Heavy rains flood Sacramento-area roadways, trigger brief regional flood advisory",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T23:23:17Z",
+        "url": "https://www.sacbee.com/news/local/article318070237.html",
+        "mention_text": "Sacramento",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Sacramento, Sacramento County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 6232940,
+        "run_at": "2026-11-16T14:52:11.183820+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-11-15T13:36:19.468150+00:00",
-    "total_features": 5901
+    "last_updated": "2026-11-16T14:52:11.211016+00:00",
+    "total_features": 5920
   }
 }
