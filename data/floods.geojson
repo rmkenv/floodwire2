@@ -153920,11 +153920,219 @@
         "osm_id": 6232940,
         "run_at": "2026-11-16T14:52:11.183820+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.waltonsun.com/videos/news/weather/2026/11/17/flash-flood-potential-returns-to-florida/92817074007/",
+        "title": "Flash flood potential returns to Florida",
+        "source": "The Northwest Florida Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-17T10:00:17Z",
+        "url": "https://www.waltonsun.com/videos/news/weather/2026/11/17/flash-flood-potential-returns-to-florida/92817074007/",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-11-17T15:35:35.418520+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8018877,
+          42.2625621
+        ]
+      },
+      "properties": {
+        "article_id": "https://worcesterobserver.co.uk/news/red-flood-warning-issued-for-barbourne-area-in-worcester/",
+        "title": "Red Flood warning issued for Barbourne area in Worcester",
+        "source": "The Worcester Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-17T12:49:11Z",
+        "url": "https://worcesterobserver.co.uk/news/red-flood-warning-issued-for-barbourne-area-in-worcester/",
+        "mention_text": "Worcester",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Worcester, Worcester County, Massachusetts, United States",
+        "osm_type": "administrative",
+        "osm_id": 1844209,
+        "run_at": "2026-11-17T15:35:35.418520+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3676974,
+          29.7589382
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.readingchronicle.co.uk/news/26734535.reading-flood-warning-issued-amid-el-ni-o-concerns/",
+        "title": "Council issues flood warning for Reading amid El Ni\u00f1o concerns",
+        "source": "Reading Chronicle",
+        "outlet_city": "Houston",
+        "outlet_region": "Texas",
+        "published_at": "2026-11-16T16:31:59Z",
+        "url": "https://www.readingchronicle.co.uk/news/26734535.reading-flood-warning-issued-amid-el-ni-o-concerns/",
+        "mention_text": "Houston",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Houston, Harris County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 2688911,
+        "run_at": "2026-11-17T15:35:35.418520+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1935973,
+          25.7741566
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.rustourismnews.com/2026/11/17/miami-and-fort-lauderdale-face-flash-flood-threat-as-rainfall-could-exceed-10-inches/",
+        "title": "Miami and Fort Lauderdale Face Flash Flood Threat as Rainfall Could Exceed 10 Inches",
+        "source": "Rus Tourism News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-17T14:52:54Z",
+        "url": "https://www.rustourismnews.com/2026/11/17/miami-and-fort-lauderdale-face-flash-flood-threat-as-rainfall-could-exceed-10-inches/",
+        "mention_text": "Miami",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Miami, Miami-Dade County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1216769,
+        "run_at": "2026-11-17T15:35:35.418520+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1433786,
+          26.1223084
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.rustourismnews.com/2026/11/17/miami-and-fort-lauderdale-face-flash-flood-threat-as-rainfall-could-exceed-10-inches/",
+        "title": "Miami and Fort Lauderdale Face Flash Flood Threat as Rainfall Could Exceed 10 Inches",
+        "source": "Rus Tourism News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-17T14:52:54Z",
+        "url": "https://www.rustourismnews.com/2026/11/17/miami-and-fort-lauderdale-face-flash-flood-threat-as-rainfall-could-exceed-10-inches/",
+        "mention_text": "Fort Lauderdale",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Fort Lauderdale, Broward County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 117955,
+        "run_at": "2026-11-17T15:35:35.418520+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8024326,
+          33.5206824
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.birminghammail.co.uk/news/midlands-news/flash-flood-closes-major-birmingham-34923208",
+        "title": "Flash flood closes major Birmingham city centre route as police at scene",
+        "source": "Birmingham Live",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-17T11:58:00Z",
+        "url": "https://www.birminghammail.co.uk/news/midlands-news/flash-flood-closes-major-birmingham-34923208",
+        "mention_text": "Birmingham",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Birmingham, Jefferson County, Alabama, United States",
+        "osm_type": "administrative",
+        "osm_id": 111031,
+        "run_at": "2026-11-17T15:35:35.418520+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8283132,
+          40.7135078
+        ]
+      },
+      "properties": {
+        "article_id": "https://5townscentral.com/2026/11/12/flash-flood-warning-for-queens-rockaways-and-jfk-area/",
+        "title": "Flash Flood Warning for Queens, Rockaways and JFK Area",
+        "source": "5 Towns Central",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-12T19:35:44Z",
+        "url": "https://5townscentral.com/2026/11/12/flash-flood-warning-for-queens-rockaways-and-jfk-area/",
+        "mention_text": "Queens",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Queens, Queens County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 9691819,
+        "run_at": "2026-11-17T15:35:35.418520+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9156734,
+          40.5588419
+        ]
+      },
+      "properties": {
+        "article_id": "https://5townscentral.com/2026/11/12/flash-flood-warning-for-queens-rockaways-and-jfk-area/",
+        "title": "Flash Flood Warning for Queens, Rockaways and JFK Area",
+        "source": "5 Towns Central",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-12T19:35:44Z",
+        "url": "https://5townscentral.com/2026/11/12/flash-flood-warning-for-queens-rockaways-and-jfk-area/",
+        "mention_text": "Rockaways",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "8th Avenue, Rockaway Point, Queens, Queens County, New York, 11697, United States",
+        "osm_type": "residential",
+        "osm_id": 5710536,
+        "run_at": "2026-11-17T15:35:35.418520+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-11-16T14:52:11.211016+00:00",
-    "total_features": 5920
+    "last_updated": "2026-11-17T15:35:35.445598+00:00",
+    "total_features": 5928
   }
 }
