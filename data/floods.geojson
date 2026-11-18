@@ -154128,11 +154128,843 @@
         "osm_id": 5710536,
         "run_at": "2026-11-17T15:35:35.418520+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.059438,
+          36.6055156
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pressdemocrat.com/2026/11/17/flash-flood-watch-pickett-fire-calistoga/",
+        "title": "Pickett Fire burn area faces flash flood risk as storm approaches Napa County",
+        "source": "The Press Democrat",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T00:11:17Z",
+        "url": "https://www.pressdemocrat.com/2026/11/17/flash-flood-watch-pickett-fire-calistoga/",
+        "mention_text": "Pickett Fire",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Chanute Fire Hall, Chanute Road, Chanute, Pickett County, Middle Tennessee, Tennessee, 38577, United States",
+        "osm_type": "fire_station",
+        "osm_id": 1062479612,
+        "run_at": "2026-11-18T15:16:39.899456+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3218414,
+          38.4898675
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pressdemocrat.com/2026/11/17/flash-flood-watch-pickett-fire-calistoga/",
+        "title": "Pickett Fire burn area faces flash flood risk as storm approaches Napa County",
+        "source": "The Press Democrat",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T00:11:17Z",
+        "url": "https://www.pressdemocrat.com/2026/11/17/flash-flood-watch-pickett-fire-calistoga/",
+        "mention_text": "Napa County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Napa County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396463,
+        "run_at": "2026-11-18T15:16:39.899456+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.washingtontimes.com/news/2026/nov/18/floridas-east-coast-faces-multiday-flash-flood-threat-friday/",
+        "title": "Florida\u2019s east coast faces multiday flash flood threat through Friday",
+        "source": "Washington Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T13:56:09Z",
+        "url": "https://www.washingtontimes.com/news/2026/nov/18/floridas-east-coast-faces-multiday-flash-flood-threat-friday/",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-11-18T15:16:39.899456+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3126651,
+          41.3806114
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.washingtontimes.com/news/2026/nov/18/floridas-east-coast-faces-multiday-flash-flood-threat-friday/",
+        "title": "Florida\u2019s east coast faces multiday flash flood threat through Friday",
+        "source": "Washington Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T13:56:09Z",
+        "url": "https://www.washingtontimes.com/news/2026/nov/18/floridas-east-coast-faces-multiday-flash-flood-threat-friday/",
+        "mention_text": "east coast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "East Coast, Town of Goshen, Orange County, New York, United States",
+        "osm_type": "garden",
+        "osm_id": 1107357381,
+        "run_at": "2026-11-18T15:16:39.899456+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.714358,
+          39.4225192
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/2026/11/17/news/weather/video/moab-moonflower-canyon-flash-flood-mud",
+        "title": "Moab flash flood: Rachel remnants turn Utah canyon to mud",
+        "source": "The Weather Channel",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T11:53:02Z",
+        "url": "https://weather.com/2026/11/17/news/weather/video/moab-moonflower-canyon-flash-flood-mud",
+        "mention_text": "Utah",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Utah, United States",
+        "osm_type": "administrative",
+        "osm_id": 161993,
+        "run_at": "2026-11-18T15:16:39.899456+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318123396.html",
+        "title": "Flash flood watch affecting North Bay Interior Mountains Wednesday and Thursday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-17T20:04:08Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318123396.html",
+        "mention_text": "North Bay",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-11-18T15:16:39.899456+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8463851,
+          37.1670484
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.facebook.com/NBC6SouthFlorida/posts/several-flash-flood-warnings-were-in-effect-in-south-florida-on-tuesday-night-as/1676409777186675/",
+        "title": "Several Flash Flood Warnings were in effect in South Florida on Tuesday night, as well as an ongoing flood watch, due to a very moist and unstable pattern that could last through at least Thursday.",
+        "source": "Facebook",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T04:45:02Z",
+        "url": "https://www.facebook.com/NBC6SouthFlorida/posts/several-flash-flood-warnings-were-in-effect-in-south-florida-on-tuesday-night-as/1676409777186675/",
+        "mention_text": "South Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South Florida, Columbus, Cherokee County, Kansas, 66725, United States",
+        "osm_type": "residential",
+        "osm_id": 12999746,
+        "run_at": "2026-11-18T15:16:39.899456+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3218414,
+          38.4898675
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kron4.com/weather/flash-flood-watch-issued-for-parts-of-napa-county-as-heavy-rain-approaches/",
+        "title": "Flash flood watch issued for parts of Napa County as heavy rain approaches",
+        "source": "KRON4",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-17T22:04:03Z",
+        "url": "https://www.kron4.com/weather/flash-flood-watch-issued-for-parts-of-napa-county-as-heavy-rain-approaches/",
+        "mention_text": "Napa County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Napa County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396463,
+        "run_at": "2026-11-18T15:16:39.899456+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.059438,
+          36.6055156
+        ]
+      },
+      "properties": {
+        "article_id": "https://napavalleyregister.com/calistogan/news/napa-flash-flood-watch-pickett-fire/article_51fb49b1-df7e-4dc0-b2ae-0d7b77c36981.html",
+        "title": "Flash flood watch called for Pickett Fire burn area in Napa County",
+        "source": "The Napa Valley Register",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T01:10:00Z",
+        "url": "https://napavalleyregister.com/calistogan/news/napa-flash-flood-watch-pickett-fire/article_51fb49b1-df7e-4dc0-b2ae-0d7b77c36981.html",
+        "mention_text": "Pickett Fire",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Chanute Fire Hall, Chanute Road, Chanute, Pickett County, Middle Tennessee, Tennessee, 38577, United States",
+        "osm_type": "fire_station",
+        "osm_id": 1062479612,
+        "run_at": "2026-11-18T15:16:39.899456+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3218414,
+          38.4898675
+        ]
+      },
+      "properties": {
+        "article_id": "https://napavalleyregister.com/calistogan/news/napa-flash-flood-watch-pickett-fire/article_51fb49b1-df7e-4dc0-b2ae-0d7b77c36981.html",
+        "title": "Flash flood watch called for Pickett Fire burn area in Napa County",
+        "source": "The Napa Valley Register",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T01:10:00Z",
+        "url": "https://napavalleyregister.com/calistogan/news/napa-flash-flood-watch-pickett-fire/article_51fb49b1-df7e-4dc0-b2ae-0d7b77c36981.html",
+        "mention_text": "Napa County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Napa County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396463,
+        "run_at": "2026-11-18T15:16:39.899456+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/11/17/flash-flood-watch-affecting-north-bay-interior-mountains-wednesday-and-thursday-caused-by-excessive-rainfall/",
+        "title": "Flash flood watch affecting North Bay Interior Mountains Wednesday and Thursday caused by excessive rainfall",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-17T19:51:50Z",
+        "url": "https://www.eastbaytimes.com/2026/11/17/flash-flood-watch-affecting-north-bay-interior-mountains-wednesday-and-thursday-caused-by-excessive-rainfall/",
+        "mention_text": "North Bay",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-11-18T15:16:39.899456+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://watchers.news/2026/11/18/florida-east-coast-moderate-flash-flood-risk-st-johns-cocoa-major-flood-november-2026/",
+        "title": "Florida\u2019s east coast faces a moderate flash flood risk Wednesday through Friday, with 4 to 8 inches of rain forecast and the St. Johns River near Cocoa already in major flood at 17.13 feet",
+        "source": "The Watchers - Watching the world evolve and transform",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T03:30:57Z",
+        "url": "https://watchers.news/2026/11/18/florida-east-coast-moderate-flash-flood-risk-st-johns-cocoa-major-flood-november-2026/",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-11-18T15:16:39.899456+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3126651,
+          41.3806114
+        ]
+      },
+      "properties": {
+        "article_id": "https://watchers.news/2026/11/18/florida-east-coast-moderate-flash-flood-risk-st-johns-cocoa-major-flood-november-2026/",
+        "title": "Florida\u2019s east coast faces a moderate flash flood risk Wednesday through Friday, with 4 to 8 inches of rain forecast and the St. Johns River near Cocoa already in major flood at 17.13 feet",
+        "source": "The Watchers - Watching the world evolve and transform",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T03:30:57Z",
+        "url": "https://watchers.news/2026/11/18/florida-east-coast-moderate-flash-flood-risk-st-johns-cocoa-major-flood-november-2026/",
+        "mention_text": "east coast",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "East Coast, Town of Goshen, Orange County, New York, United States",
+        "osm_type": "garden",
+        "osm_id": 1107357381,
+        "run_at": "2026-11-18T15:16:39.899456+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.122147,
+          44.9905615
+        ]
+      },
+      "properties": {
+        "article_id": "https://watchers.news/2026/11/18/florida-east-coast-moderate-flash-flood-risk-st-johns-cocoa-major-flood-november-2026/",
+        "title": "Florida\u2019s east coast faces a moderate flash flood risk Wednesday through Friday, with 4 to 8 inches of rain forecast and the St. Johns River near Cocoa already in major flood at 17.13 feet",
+        "source": "The Watchers - Watching the world evolve and transform",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T03:30:57Z",
+        "url": "https://watchers.news/2026/11/18/florida-east-coast-moderate-flash-flood-risk-st-johns-cocoa-major-flood-november-2026/",
+        "mention_text": "Johns River",
+        "flood_type": "flash_flood",
+        "confidence": 0.75,
+        "osm_display": "Johns River, Beebe Plain, Derby, Orleans County, Vermont, United States",
+        "osm_type": "river",
+        "osm_id": 105065756,
+        "run_at": "2026-11-18T15:16:39.899456+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldtribune.com/videos/news/weather/2026/11/17/flash-flood-potential-returns-to-florida/92817074007/",
+        "title": "Flash flood potential returns to Florida",
+        "source": "Sarasota Herald-Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-17T10:00:13Z",
+        "url": "https://www.heraldtribune.com/videos/news/weather/2026/11/17/flash-flood-potential-returns-to-florida/92817074007/",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-11-18T15:16:39.899456+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6632883,
+          39.5143268
+        ]
+      },
+      "properties": {
+        "article_id": "https://nypost.com/2026/11/17/us-news/millions-of-americans-face-flash-flood-threats-as-rain-set-to-pound-parts-of-atlantic-coast/",
+        "title": "Millions of Americans face flash flood threats as rain set to pound parts of Atlantic coast",
+        "source": "New York Post",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-17T17:03:00Z",
+        "url": "https://nypost.com/2026/11/17/us-news/millions-of-americans-face-flash-flood-threats-as-rain-set-to-pound-parts-of-atlantic-coast/",
+        "mention_text": "Atlantic",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Atlantic County, New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 2560066,
+        "run_at": "2026-11-18T15:16:39.899456+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1392121,
+          25.9564812
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.facebook.com/NBC6SouthFlorida/videos/cars-drive-through-flooded-streets-in-aventura-as-scattered-showers-and-storms-r/1164711675981721/",
+        "title": "Cars drive through flooded streets in Aventura as scattered showers and storms roll through South Florida on Tuesday night. \u2614 The National Weather Service issued Flash Flood Warnings for parts of Miami-Dade and Broward counties, and a Flood Watch is in",
+        "source": "Facebook",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T02:26:19Z",
+        "url": "https://www.facebook.com/NBC6SouthFlorida/videos/cars-drive-through-flooded-streets-in-aventura-as-scattered-showers-and-storms-r/1164711675981721/",
+        "mention_text": "Aventura",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Aventura, Miami-Dade County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1216581,
+        "run_at": "2026-11-18T15:16:39.899456+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8463851,
+          37.1670484
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.facebook.com/NBC6SouthFlorida/videos/cars-drive-through-flooded-streets-in-aventura-as-scattered-showers-and-storms-r/1164711675981721/",
+        "title": "Cars drive through flooded streets in Aventura as scattered showers and storms roll through South Florida on Tuesday night. \u2614 The National Weather Service issued Flash Flood Warnings for parts of Miami-Dade and Broward counties, and a Flood Watch is in",
+        "source": "Facebook",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T02:26:19Z",
+        "url": "https://www.facebook.com/NBC6SouthFlorida/videos/cars-drive-through-flooded-streets-in-aventura-as-scattered-showers-and-storms-r/1164711675981721/",
+        "mention_text": "South Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South Florida, Columbus, Cherokee County, Kansas, 66725, United States",
+        "osm_type": "residential",
+        "osm_id": 12999746,
+        "run_at": "2026-11-18T15:16:39.899456+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4989467,
+          25.6364246
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.facebook.com/NBC6SouthFlorida/videos/cars-drive-through-flooded-streets-in-aventura-as-scattered-showers-and-storms-r/1164711675981721/",
+        "title": "Cars drive through flooded streets in Aventura as scattered showers and storms roll through South Florida on Tuesday night. \u2614 The National Weather Service issued Flash Flood Warnings for parts of Miami-Dade and Broward counties, and a Flood Watch is in",
+        "source": "Facebook",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T02:26:19Z",
+        "url": "https://www.facebook.com/NBC6SouthFlorida/videos/cars-drive-through-flooded-streets-in-aventura-as-scattered-showers-and-storms-r/1164711675981721/",
+        "mention_text": "Miami-Dade",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Miami-Dade County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210692,
+        "run_at": "2026-11-18T15:16:39.899456+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4623642,
+          26.1598074
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.facebook.com/NBC6SouthFlorida/videos/cars-drive-through-flooded-streets-in-aventura-as-scattered-showers-and-storms-r/1164711675981721/",
+        "title": "Cars drive through flooded streets in Aventura as scattered showers and storms roll through South Florida on Tuesday night. \u2614 The National Weather Service issued Flash Flood Warnings for parts of Miami-Dade and Broward counties, and a Flood Watch is in",
+        "source": "Facebook",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T02:26:19Z",
+        "url": "https://www.facebook.com/NBC6SouthFlorida/videos/cars-drive-through-flooded-streets-in-aventura-as-scattered-showers-and-storms-r/1164711675981721/",
+        "mention_text": "Broward",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Broward County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210714,
+        "run_at": "2026-11-18T15:16:39.899456+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3558473,
+          37.7884969
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/sanfrancisco/news/bay-area-storm-november-2026-high-wind-advisory-warning-big-sur-flood-watch/",
+        "title": "Storm prompts wind alerts for parts of Bay Area, flash flood watch for burn areas",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-17T22:16:00Z",
+        "url": "https://www.cbsnews.com/sanfrancisco/news/bay-area-storm-november-2026-high-wind-advisory-warning-big-sur-flood-watch/",
+        "mention_text": "Bay Area",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Francisco Bay Area, San Francisco, California, 94130, United States",
+        "osm_type": "region",
+        "osm_id": 2157162589,
+        "run_at": "2026-11-18T15:16:39.899456+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3558473,
+          37.7884969
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcbayarea.com/news/local/bay-area-storm-weather-forecast-wednesday/4177426/",
+        "title": "Bay Area storm: Wind advisory, Pickett Fire burn area flash flood watch",
+        "source": "NBC Bay Area",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-17T18:10:57Z",
+        "url": "https://www.nbcbayarea.com/news/local/bay-area-storm-weather-forecast-wednesday/4177426/",
+        "mention_text": "Bay Area",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Francisco Bay Area, San Francisco, California, 94130, United States",
+        "osm_type": "region",
+        "osm_id": 2157162589,
+        "run_at": "2026-11-18T15:16:39.899456+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.059438,
+          36.6055156
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcbayarea.com/news/local/bay-area-storm-weather-forecast-wednesday/4177426/",
+        "title": "Bay Area storm: Wind advisory, Pickett Fire burn area flash flood watch",
+        "source": "NBC Bay Area",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-17T18:10:57Z",
+        "url": "https://www.nbcbayarea.com/news/local/bay-area-storm-weather-forecast-wednesday/4177426/",
+        "mention_text": "Pickett Fire",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Chanute Fire Hall, Chanute Road, Chanute, Pickett County, Middle Tennessee, Tennessee, 38577, United States",
+        "osm_type": "fire_station",
+        "osm_id": 1062479612,
+        "run_at": "2026-11-18T15:16:39.899456+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3558473,
+          37.7884969
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sfgate.com/weather/article/bay-area-wind-gusts-22535310.php",
+        "title": "Flash flood watch issued as major storm marches toward Bay Area",
+        "source": "SFGATE",
+        "outlet_city": "San Francisco",
+        "outlet_region": "California",
+        "published_at": "2026-11-17T21:01:49Z",
+        "url": "https://www.sfgate.com/weather/article/bay-area-wind-gusts-22535310.php",
+        "mention_text": "Bay Area",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Francisco Bay Area, San Francisco, California, 94130, United States",
+        "osm_type": "region",
+        "osm_id": 2157162589,
+        "run_at": "2026-11-18T15:16:39.899456+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.069177,
+          38.9437332
+        ]
+      },
+      "properties": {
+        "article_id": "https://thesouthfirst.com/keralam/remains-of-malayali-killed-in-malaysia-flash-flood-to-reach-keralam-on-wednesday/",
+        "title": "Remains of Malayali killed in Malaysia flash flood to reach Keralam on Wednesday",
+        "source": "The South First",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T08:23:50Z",
+        "url": "https://thesouthfirst.com/keralam/remains-of-malayali-killed-in-malaysia-flash-flood-to-reach-keralam-on-wednesday/",
+        "mention_text": "Malaysia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Embassy of Malaysia, 3516, International Court Northwest, Van Ness, Ward 3, Washington, District of Columbia, 20008, United States",
+        "osm_type": "diplomatic",
+        "osm_id": 73148438,
+        "run_at": "2026-11-18T15:16:39.899456+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5456116,
+          31.2638905
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aol.com/articles/downpours-slam-texas-fueling-final-115224000.html",
+        "title": "Downpours slam Texas, fueling final weekend flash flood threat as powerful Pacific storm energy pushes east",
+        "source": "AOL.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-15T11:52:24Z",
+        "url": "https://www.aol.com/articles/downpours-slam-texas-fueling-final-115224000.html",
+        "mention_text": "Texas",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 114690,
+        "run_at": "2026-11-18T15:16:39.899456+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.768029,
+          46.5334929
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aol.com/articles/downpours-slam-texas-fueling-final-115224000.html",
+        "title": "Downpours slam Texas, fueling final weekend flash flood threat as powerful Pacific storm energy pushes east",
+        "source": "AOL.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-15T11:52:24Z",
+        "url": "https://www.aol.com/articles/downpours-slam-texas-fueling-final-115224000.html",
+        "mention_text": "Pacific",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Pacific County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153390,
+        "run_at": "2026-11-18T15:16:39.899456+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.069177,
+          38.9437332
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thehindu.com/news/national/kerala/mortal-remains-of-keralite-killed-in-flash-flood-in-malaysia-to-be-brought-home-on-november-19/article71715569.ece",
+        "title": "Mortal remains of Keralite killed in flash flood in Malaysia to be brought home on November 19",
+        "source": "The Hindu",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T14:06:22Z",
+        "url": "https://www.thehindu.com/news/national/kerala/mortal-remains-of-keralite-killed-in-flash-flood-in-malaysia-to-be-brought-home-on-november-19/article71715569.ece",
+        "mention_text": "Malaysia",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Embassy of Malaysia, 3516, International Court Northwest, Van Ness, Ward 3, Washington, District of Columbia, 20008, United States",
+        "osm_type": "diplomatic",
+        "osm_id": 73148438,
+        "run_at": "2026-11-18T15:16:39.899456+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.8854639,
+          33.759478
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/11/17/san-francisco-county-placed-under-a-coastal-flood-advisory-wednesday-and-thursday/",
+        "title": "San Francisco County placed under a coastal flood advisory Wednesday and Thursday",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-17T20:30:41Z",
+        "url": "https://www.eastbaytimes.com/2026/11/17/san-francisco-county-placed-under-a-coastal-flood-advisory-wednesday-and-thursday/",
+        "mention_text": "San Francisco County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco, Catron County, New Mexico, United States",
+        "osm_type": "peak",
+        "osm_id": 11066998506,
+        "run_at": "2026-11-18T15:16:39.899456+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/11/17/coastal-flood-advisory-for-north-bay-interior-valleys-and-san-francisco-bay-shoreline-for-wednesday-and-thursday/",
+        "title": "Coastal flood advisory for North Bay Interior Valleys and San Francisco Bay Shoreline for Wednesday and Thursday",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-17T20:30:40Z",
+        "url": "https://www.mercurynews.com/2026/11/17/coastal-flood-advisory-for-north-bay-interior-valleys-and-san-francisco-bay-shoreline-for-wednesday-and-thursday/",
+        "mention_text": "North Bay",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-11-18T15:16:39.899456+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.137227,
+          37.6233187
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/11/17/coastal-flood-advisory-for-north-bay-interior-valleys-and-san-francisco-bay-shoreline-for-wednesday-and-thursday/",
+        "title": "Coastal flood advisory for North Bay Interior Valleys and San Francisco Bay Shoreline for Wednesday and Thursday",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-17T20:30:40Z",
+        "url": "https://www.mercurynews.com/2026/11/17/coastal-flood-advisory-for-north-bay-interior-valleys-and-san-francisco-bay-shoreline-for-wednesday-and-thursday/",
+        "mention_text": "San Francisco Bay Shoreline",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hayward Shoreline Interpretive Center, San Francisco Bay Trail, Hayward, Alameda County, California, 94545, United States",
+        "osm_type": "museum",
+        "osm_id": 104588017,
+        "run_at": "2026-11-18T15:16:39.899456+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.8854639,
+          33.759478
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318124262.html",
+        "title": "UPDATE: San Francisco County under a coastal flood advisory Wednesday and Thursday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-17T23:00:08Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318124262.html",
+        "mention_text": "San Francisco County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco, Catron County, New Mexico, United States",
+        "osm_type": "peak",
+        "osm_id": 11066998506,
+        "run_at": "2026-11-18T15:16:39.899456+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-11-17T15:35:35.445598+00:00",
-    "total_features": 5928
+    "last_updated": "2026-11-18T15:16:39.926513+00:00",
+    "total_features": 5960
   }
 }
