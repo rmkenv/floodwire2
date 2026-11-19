@@ -154960,11 +154960,1025 @@
         "osm_id": 11066998506,
         "run_at": "2026-11-18T15:16:39.899456+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6623566,
+          30.3270682
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.clickorlando.com/video/news/2026/11/19/flash-flood-warning-issued-serious-flooding-underway-in-parts-of-central-florida/",
+        "title": "Flash Flood Warning Issued: Serious flooding underway in parts of Central Florida",
+        "source": "WKMG",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T11:25:40Z",
+        "url": "https://www.clickorlando.com/video/news/2026/11/19/flash-flood-warning-issued-serious-flooding-underway-in-parts-of-central-florida/",
+        "mention_text": "Central Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, West Bay Street, South Jacksonville, Jacksonville, Duval County, Florida, 32202, United States",
+        "osm_type": "station",
+        "osm_id": 8427291143,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4494174,
+          26.6279798
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbs12.com/news/local/flash-flood-warning-in-effect-for-palm-beach-county",
+        "title": "Flash Flood Warning in effect for Palm Beach County",
+        "source": "WPEC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T01:47:57Z",
+        "url": "https://cbs12.com/news/local/flash-flood-warning-in-effect-for-palm-beach-county",
+        "mention_text": "Palm Beach County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Palm Beach County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210748,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3330573,
+          37.496904
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/11/18/flash-flood-warning-affecting-san-mateo-county-wednesday-night-triggered-by-intense-rainfall/",
+        "title": "Flash flood warning affecting San Mateo County Wednesday night triggered by intense rainfall",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T05:48:04Z",
+        "url": "https://www.eastbaytimes.com/2026/11/18/flash-flood-warning-affecting-san-mateo-county-wednesday-night-triggered-by-intense-rainfall/",
+        "mention_text": "San Mateo County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Mateo County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396498,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7997185,
+          28.2100203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-parts-102122457.html",
+        "title": "Flash Flood Warning issued for parts of Brevard County",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T10:21:22Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-issued-parts-102122457.html",
+        "mention_text": "Brevard County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Brevard County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 389024,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.387742,
+          36.2231079
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318146566.html",
+        "title": "Flash flood warning issued for Monterey County early Wednesday evening",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T22:56:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318146566.html",
+        "mention_text": "Monterey County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Monterey County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396485,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3330573,
+          37.496904
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318151085.html",
+        "title": "Flash flood warning for San Mateo County Wednesday night, says the NWS",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T05:55:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318151085.html",
+        "mention_text": "San Mateo County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Mateo County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396498,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.387742,
+          36.2231079
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318146546.html",
+        "title": "UPDATE: The flash flood warning for Monterey County is likely to expire at 10 p.m.",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T06:25:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318146546.html",
+        "mention_text": "Monterey County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Monterey County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396485,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7997185,
+          28.2100203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wftv.com/news/flash-flood-warning-issued-parts-brevard-county/97c8d986-8e23-4e6e-825c-59a1dbd7a448/",
+        "title": "Flash Flood Warning issued for parts of Brevard County",
+        "source": "WFTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T12:00:29Z",
+        "url": "https://www.wftv.com/news/flash-flood-warning-issued-parts-brevard-county/97c8d986-8e23-4e6e-825c-59a1dbd7a448/",
+        "mention_text": "Brevard County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Brevard County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 389024,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1935973,
+          25.7741566
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.miamiherald.com/news/weather-news/article318138736.html",
+        "title": "South Florida under flood watch as heavy rain persists. How long until it ends?",
+        "source": "Miami Herald",
+        "outlet_city": "Miami",
+        "outlet_region": "Florida",
+        "published_at": "2026-11-18T19:26:00Z",
+        "url": "https://www.miamiherald.com/news/weather-news/article318138736.html",
+        "mention_text": "Miami",
+        "flood_type": "flash_flood",
+        "confidence": 0.4,
+        "osm_display": "Miami, Miami-Dade County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1216769,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7997185,
+          28.2100203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/flash-flood-warning-issued-parts-115552106.html",
+        "title": "Flash Flood Warning issued for parts of Brevard County",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T11:55:52Z",
+        "url": "https://www.yahoo.com/news/videos/flash-flood-warning-issued-parts-115552106.html",
+        "mention_text": "Brevard County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Brevard County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 389024,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7997185,
+          28.2100203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/flash-flood-warning-issued-part-102339345.html",
+        "title": "Flash flood warning issued for part of Brevard County",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T10:23:39Z",
+        "url": "https://www.yahoo.com/news/videos/flash-flood-warning-issued-part-102339345.html",
+        "mention_text": "Brevard County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Brevard County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 389024,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kron4.com/video/rain-continuing-in-north-bay-amid-flash-flood-watch/12382977/",
+        "title": "Rain continuing in North Bay amid flash flood watch",
+        "source": "KRON4",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T15:47:52Z",
+        "url": "https://www.kron4.com/video/rain-continuing-in-north-bay-amid-flash-flood-watch/12382977/",
+        "mention_text": "North Bay",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3558473,
+          37.7884969
+        ]
+      },
+      "properties": {
+        "article_id": "https://patch.com/california/san-francisco/storm-prompts-wind-alerts-parts-bay-area-flash-flood-watch-burn-areas",
+        "title": "Storm Prompts Wind Alerts For Parts Of Bay Area, Flash Flood Watch For Burn Areas",
+        "source": "Patch",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T18:05:37Z",
+        "url": "https://patch.com/california/san-francisco/storm-prompts-wind-alerts-parts-bay-area-flash-flood-watch-burn-areas",
+        "mention_text": "Bay Area",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Francisco Bay Area, San Francisco, California, 94130, United States",
+        "osm_type": "region",
+        "osm_id": 2157162589,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5894422,
+          27.7041555
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbs12.com/news/local/flood-advisory-issued-for-palm-beach-county-11-19-2026",
+        "title": "Flood Advisory issued for Indian River County",
+        "source": "WPEC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T11:13:05Z",
+        "url": "https://cbs12.com/news/local/flood-advisory-issued-for-palm-beach-county-11-19-2026",
+        "mention_text": "Indian River County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Indian River County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210711,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8155355,
+          36.6713502
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318151698.html",
+        "title": "Flood advisory issued for Fresno County until 3 a.m. Thursday due to significant rain",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T08:47:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318151698.html",
+        "mention_text": "Fresno County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Fresno County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396492,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.99059,
+          37.050096
+        ]
+      },
+      "properties": {
+        "article_id": "https://lookout.co/santa-cruz-county-flood-advisory-extended-into-wednesday-evening-as-storm-brings-strong-winds-heavy-rain/story",
+        "title": "Santa Cruz County flood advisory extended into Wednesday evening as storm brings strong winds, heavy rain",
+        "source": "Lookout Santa Cruz",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T01:06:21Z",
+        "url": "https://lookout.co/santa-cruz-county-flood-advisory-extended-into-wednesday-evening-as-storm-brings-strong-winds-heavy-rain/story",
+        "mention_text": "Santa Cruz County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Santa Cruz County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 7870163,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3558473,
+          37.7884969
+        ]
+      },
+      "properties": {
+        "article_id": "https://napavalleyregister.com/news/weather/flash-flood-advisory/article_ce54de5e-98d4-4db5-bdeb-886b711be16d.html",
+        "title": "Flood advisory issued for Bay Area through 11:45 a.m.",
+        "source": "The Napa Valley Register",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T17:11:00Z",
+        "url": "https://napavalleyregister.com/news/weather/flash-flood-advisory/article_ce54de5e-98d4-4db5-bdeb-886b711be16d.html",
+        "mention_text": "Bay Area",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco Bay Area, San Francisco, California, 94130, United States",
+        "osm_type": "region",
+        "osm_id": 2157162589,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1789351,
+          26.2517482
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tapinto.net/towns/coconut-creek/articles/coconut-creek-parents-get-school-closure-apology-as-broward-declares-flood-emergency-and-city-opens-fun-day",
+        "title": "Coconut Creek Parents Get School Closure Apology as Broward Declares Flood Emergency and City Opens Fun Day",
+        "source": "TAPinto",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T12:00:00Z",
+        "url": "https://www.tapinto.net/towns/coconut-creek/articles/coconut-creek-parents-get-school-closure-apology-as-broward-declares-flood-emergency-and-city-opens-fun-day",
+        "mention_text": "Coconut Creek",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Coconut Creek, Broward County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 117961,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.702667,
+          34.4221319
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318147799.html",
+        "title": "UPDATE: Flood advisory for Santa Barbara and Ventura counties until Thursday morning",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T09:09:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318147799.html",
+        "mention_text": "Santa Barbara",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Santa Barbara, Santa Barbara County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 112224,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0779359,
+          34.4458248
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318147799.html",
+        "title": "UPDATE: Flood advisory for Santa Barbara and Ventura counties until Thursday morning",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T09:09:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318147799.html",
+        "mention_text": "Ventura",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ventura County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396505,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4075201,
+          37.7879363
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318139074.html",
+        "title": "UPDATE: Flood advisory affecting San Francisco and San Mateo counties until early Thursday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T05:35:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318139074.html",
+        "mention_text": "San Francisco",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 111968,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3330573,
+          37.496904
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318139074.html",
+        "title": "UPDATE: Flood advisory affecting San Francisco and San Mateo counties until early Thursday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T05:35:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318139074.html",
+        "mention_text": "San Mateo",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Mateo County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396498,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439336,
+          37.8003441
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318139682.html",
+        "title": "UPDATE: Flood advisory active for Northern California Wednesday evening",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T01:30:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318139682.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "First National Bank of Northern California, 2197, Chestnut Street, Cow Hollow, Marina District, San Francisco, California, 94123, United States",
+        "osm_type": "bank",
+        "osm_id": 4548821903,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318139005.html",
+        "title": "UPDATE: The current flood advisory for North Bay will expire at 11:15 a.m.",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T19:32:09Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318139005.html",
+        "mention_text": "North Bay",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439336,
+          37.8003441
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318138251.html",
+        "title": "UPDATE: Flood advisory affecting Northern California Wednesday afternoon",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T19:52:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318138251.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "First National Bank of Northern California, 2197, Chestnut Street, Cow Hollow, Marina District, San Francisco, California, 94123, United States",
+        "osm_type": "bank",
+        "osm_id": 4548821903,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8463851,
+          37.1670484
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.local10.com/video/weather/2026/11/18/flood-advisory-issued-for-south-florida/",
+        "title": "Flood Advisory issued for South Florida",
+        "source": "WPLG Local 10",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T17:47:28Z",
+        "url": "https://www.local10.com/video/weather/2026/11/18/flood-advisory-issued-for-south-florida/",
+        "mention_text": "South Florida",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "South Florida, Columbus, Cherokee County, Kansas, 66725, United States",
+        "osm_type": "residential",
+        "osm_id": 12999746,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3558473,
+          37.7884969
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/strong-storm-arrives-bay-area-095805342.html",
+        "title": "Strong Storm Arrives in Bay Area, Sparking Flood Advisory, Thunderstorm Risk",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T09:58:05Z",
+        "url": "https://www.yahoo.com/news/videos/strong-storm-arrives-bay-area-095805342.html",
+        "mention_text": "Bay Area",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco Bay Area, San Francisco, California, 94130, United States",
+        "osm_type": "region",
+        "osm_id": 2157162589,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6749486,
+          33.3926893
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/11/18/flood-advisory-for-delta-until-wednesday-afternoon-due-to-intense-rainfall/",
+        "title": "Flood advisory for Delta until Wednesday afternoon due to intense rainfall",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T17:15:26Z",
+        "url": "https://www.mercurynews.com/2026/11/18/flood-advisory-for-delta-until-wednesday-afternoon-due-to-intense-rainfall/",
+        "mention_text": "Delta",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Delta County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839215,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3558473,
+          37.7884969
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.usatoday.com/videos/news/california/2026/11/18/heavy-rain-triggers-flood-advisory-across-bay-area/92850970007/",
+        "title": "Heavy rain triggers flood advisory across Bay Area",
+        "source": "USA Today",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T23:22:53Z",
+        "url": "https://www.usatoday.com/videos/news/california/2026/11/18/heavy-rain-triggers-flood-advisory-across-bay-area/92850970007/",
+        "mention_text": "Bay Area",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Francisco Bay Area, San Francisco, California, 94130, United States",
+        "osm_type": "region",
+        "osm_id": 2157162589,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3558473,
+          37.7884969
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/11/18/bay-area-under-a-flood-advisory-until-wednesday-midday-caused-by-prolonged-downpours/",
+        "title": "Bay Area under a flood advisory until Wednesday midday caused by prolonged downpours",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T16:31:00Z",
+        "url": "https://www.eastbaytimes.com/2026/11/18/bay-area-under-a-flood-advisory-until-wednesday-midday-caused-by-prolonged-downpours/",
+        "mention_text": "Bay Area",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco Bay Area, San Francisco, California, 94130, United States",
+        "osm_type": "region",
+        "osm_id": 2157162589,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/11/18/flood-advisory-for-north-bay-until-wednesday-midday-due-to-intense-rainfall/",
+        "title": "Flood advisory for North Bay until Wednesday midday due to intense rainfall",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T16:22:21Z",
+        "url": "https://www.mercurynews.com/2026/11/18/flood-advisory-for-north-bay-until-wednesday-midday-due-to-intense-rainfall/",
+        "mention_text": "North Bay",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3558473,
+          37.7884969
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sfgate.com/news/bayarea/article/regional-flood-advisory-issued-for-bay-area-22537724.php",
+        "title": "Regional: Flood Advisory Issued For Bay Area Until 11:45 A.M.",
+        "source": "SFGATE",
+        "outlet_city": "San Francisco",
+        "outlet_region": "California",
+        "published_at": "2026-11-18T17:51:31Z",
+        "url": "https://www.sfgate.com/news/bayarea/article/regional-flood-advisory-issued-for-bay-area-22537724.php",
+        "mention_text": "Bay Area",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco Bay Area, San Francisco, California, 94130, United States",
+        "osm_type": "region",
+        "osm_id": 2157162589,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3558473,
+          37.7884969
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/strong-storm-arrives-bay-area-174023586.html",
+        "title": "Strong storm arrives in Bay Area, sparking flood advisory, thunderstorm risk",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T17:40:23Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/strong-storm-arrives-bay-area-174023586.html",
+        "mention_text": "Bay Area",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco Bay Area, San Francisco, California, 94130, United States",
+        "osm_type": "region",
+        "osm_id": 2157162589,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6749486,
+          33.3926893
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/11/13/flood-advisory-in-place-for-delta-until-early-friday-evening-triggered-by-prolonged-downpours/",
+        "title": "Flood advisory in place for Delta until early Friday evening triggered by prolonged downpours",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T22:03:11Z",
+        "url": "https://www.eastbaytimes.com/2026/11/13/flood-advisory-in-place-for-delta-until-early-friday-evening-triggered-by-prolonged-downpours/",
+        "mention_text": "Delta",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Delta County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839215,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439336,
+          37.8003441
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/11/13/flood-advisory-active-for-northern-california-until-friday-afternoon-caused-by-substantial-rainfall/",
+        "title": "Flood advisory active for Northern California until Friday afternoon caused by substantial rainfall",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T20:43:02Z",
+        "url": "https://www.eastbaytimes.com/2026/11/13/flood-advisory-active-for-northern-california-until-friday-afternoon-caused-by-substantial-rainfall/",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "First National Bank of Northern California, 2197, Chestnut Street, Cow Hollow, Marina District, San Francisco, California, 94123, United States",
+        "osm_type": "bank",
+        "osm_id": 4548821903,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3056707,
+          40.0379958
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.lancasterguardian.co.uk/news/emergency-incident/flooded-road-under-bridge-causes-rush-hour-delays-between-lancaster-and-morecambe-9360541",
+        "title": "Flooded road under bridge causes rush hour delays between Lancaster and Morecambe",
+        "source": "Lancaster Guardian",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T09:39:00Z",
+        "url": "https://www.lancasterguardian.co.uk/news/emergency-incident/flooded-road-under-bridge-causes-rush-hour-delays-between-lancaster-and-morecambe-9360541",
+        "mention_text": "Lancaster",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Lancaster, Lancaster County, Pennsylvania, 17575, United States",
+        "osm_type": "administrative",
+        "osm_id": 3997756,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.99059,
+          37.050096
+        ]
+      },
+      "properties": {
+        "article_id": "https://cedarnews.net/newstasks/1140266/santa-cruz-county-flood-advisory-extended-wednesday/",
+        "title": "Santa Cruz County flood advisory extended into Wednesday evening as storm brings strong winds, heavy rain",
+        "source": "cedarnews.net",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T01:11:28Z",
+        "url": "https://cedarnews.net/newstasks/1140266/santa-cruz-county-flood-advisory-extended-wednesday/",
+        "mention_text": "Santa Cruz County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Santa Cruz County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 7870163,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1433786,
+          26.1223084
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.rustourismnews.com/2026/11/19/broward-county-declares-flood-emergency-as-fort-lauderdale-airport-remains-open/",
+        "title": "Broward County Declares Flood Emergency as Fort Lauderdale Airport Remains Open",
+        "source": "Rus Tourism News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T11:56:15Z",
+        "url": "https://www.rustourismnews.com/2026/11/19/broward-county-declares-flood-emergency-as-fort-lauderdale-airport-remains-open/",
+        "mention_text": "Fort Lauderdale",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Fort Lauderdale, Broward County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 117955,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0350492,
+          38.9231797
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.telesurenglish.net/ecuador-flood-el-nino-claims-14-lives/",
+        "title": "Ecuador\u2019s Flood Emergency Deepens as El Ni\u00f1o Claims 14 Lives",
+        "source": "teleSUR English",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-17T08:00:00Z",
+        "url": "https://www.telesurenglish.net/ecuador-flood-el-nino-claims-14-lives/",
+        "mention_text": "Ecuador",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Embassy of Ecuador, 2535, 15th Street Northwest, Columbia Heights, Ward 1, Washington, District of Columbia, 20009, United States",
+        "osm_type": "diplomatic",
+        "osm_id": 367142843,
+        "run_at": "2026-11-19T15:29:44.685363+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-11-18T15:16:39.926513+00:00",
-    "total_features": 5960
+    "last_updated": "2026-11-19T15:29:44.709410+00:00",
+    "total_features": 5999
   }
 }
