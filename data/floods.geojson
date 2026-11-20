@@ -155974,11 +155974,1259 @@
         "osm_id": 367142843,
         "run_at": "2026-11-19T15:29:44.685363+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7997185,
+          28.2100203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.clickorlando.com/news/local/2026/11/20/watch-live-flash-flood-warning-issued-for-brevard-county/",
+        "title": "WATCH LIVE: Flash Flood Warning issued for Brevard County",
+        "source": "WKMG",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T05:31:00Z",
+        "url": "https://www.clickorlando.com/news/local/2026/11/20/watch-live-flash-flood-warning-issued-for-brevard-county/",
+        "mention_text": "Brevard County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Brevard County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 389024,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2062682,
+          33.9510011
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.latimes.com/california/story/2026-11-19/socal-atmospheric-river-storm",
+        "title": "Heavy rain drenches Southern California, prompting rescues, flash flood concerns",
+        "source": "Los Angeles Times",
+        "outlet_city": "Los Angeles",
+        "outlet_region": "California",
+        "published_at": "2026-11-19T20:49:30Z",
+        "url": "https://www.latimes.com/california/story/2026-11-19/socal-atmospheric-river-storm",
+        "mention_text": "Southern California",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Southern @ California, Southern Avenue, South Gate, Los Angeles County, California, 90280, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 11056179472,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.agbull.com/daily-weather-briefing-florida-faces-flash-flood-risk-as-heavy-rain-shifts-to-so-brazil-argentina-drying/",
+        "title": "Daily Weather Briefing: Florida Faces Flash Flood Risk as Heavy Rain Shifts to So. Brazil, Argentina Drying",
+        "source": "Ag Bull Trading",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T12:56:45Z",
+        "url": "https://www.agbull.com/daily-weather-briefing-florida-faces-flash-flood-risk-as-heavy-rain-shifts-to-so-brazil-argentina-drying/",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1250154,
+          39.523652
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.agbull.com/daily-weather-briefing-florida-faces-flash-flood-risk-as-heavy-rain-shifts-to-so-brazil-argentina-drying/",
+        "title": "Daily Weather Briefing: Florida Faces Flash Flood Risk as Heavy Rain Shifts to So. Brazil, Argentina Drying",
+        "source": "Ag Bull Trading",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T12:56:45Z",
+        "url": "https://www.agbull.com/daily-weather-briefing-florida-faces-flash-flood-risk-as-heavy-rain-shifts-to-so-brazil-argentina-drying/",
+        "mention_text": "Brazil",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Brazil, Brazil Township, Clay County, Indiana, United States",
+        "osm_type": "administrative",
+        "osm_id": 127455,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5894422,
+          27.7041555
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbs12.com/news/local/flash-flood-warning-for-indian-river-county",
+        "title": "Flash Flood Warning for Indian River County",
+        "source": "WPEC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T03:03:04Z",
+        "url": "https://cbs12.com/news/local/flash-flood-warning-for-indian-river-county",
+        "mention_text": "Indian River County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Indian River County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210711,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.floridatoday.com/story/weather/2026/11/19/what-flash-flood-flooding-where-florida-safety-tips-driving-floods-floodwaters-warnings/92857390007/",
+        "title": "What is a flash flood? Florida flooding safety tips",
+        "source": "Florida Today",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T19:33:00Z",
+        "url": "https://www.floridatoday.com/story/weather/2026/11/19/what-flash-flood-flooding-where-florida-safety-tips-driving-floods-floodwaters-warnings/92857390007/",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://ktla.com/news/california/2-people-3-pets-saved-san-bernardino-county-rescue/",
+        "title": "2 people, 3 pets saved in San Bernardino County swift water rescue operation",
+        "source": "KTLA",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T03:08:30Z",
+        "url": "https://ktla.com/news/california/2-people-3-pets-saved-san-bernardino-county-rescue/",
+        "mention_text": "San Bernardino County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7997185,
+          28.2100203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wftv.com/news/local/flash-flood-warnings-issued-central-florida/TDIZ4S37GFHOPKIFNI74I363NM/",
+        "title": "Flash Flood Warning issued for northern Brevard County",
+        "source": "WFTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T10:01:32Z",
+        "url": "https://www.wftv.com/news/local/flash-flood-warnings-issued-central-florida/TDIZ4S37GFHOPKIFNI74I363NM/",
+        "mention_text": "Brevard County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Brevard County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 389024,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6623566,
+          30.3270682
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wftv.com/news/strong-storms-trigger-flash-flood-warnings-central-florida/1f3be90e-959b-4370-a980-b305e4b30e1b/",
+        "title": "Strong storms trigger Flash Flood Warnings in Central Florida",
+        "source": "WFTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T13:49:28Z",
+        "url": "https://www.wftv.com/news/strong-storms-trigger-flash-flood-warnings-central-florida/1f3be90e-959b-4370-a980-b305e4b30e1b/",
+        "mention_text": "Central Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, West Bay Street, South Jacksonville, Jacksonville, Duval County, Florida, 32202, United States",
+        "osm_type": "station",
+        "osm_id": 8427291143,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcnews.com/video/shorts/flash-flood-rescues-underway-in-florida-and-california-273869381567",
+        "title": "Flash flood rescues underway in Florida and California",
+        "source": "NBC News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T02:06:55Z",
+        "url": "https://www.nbcnews.com/video/shorts/flash-flood-rescues-underway-in-florida-and-california-273869381567",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.755997,
+          36.7014631
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcnews.com/video/shorts/flash-flood-rescues-underway-in-florida-and-california-273869381567",
+        "title": "Flash flood rescues underway in Florida and California",
+        "source": "NBC News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T02:06:55Z",
+        "url": "https://www.nbcnews.com/video/shorts/flash-flood-rescues-underway-in-florida-and-california-273869381567",
+        "mention_text": "California",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "California, United States",
+        "osm_type": "administrative",
+        "osm_id": 165475,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2427676,
+          34.0536923
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318157240.html",
+        "title": "UPDATE: Flash flood warning affecting Los Angeles until Thursday midday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T17:03:10Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318157240.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.375716,
+          35.3540209
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article318159858.html",
+        "title": "Heavy rains lead to flash flood warning in San Luis Obispo (Video)",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T18:10:38Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article318159858.html",
+        "mention_text": "San Luis Obispo",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Luis Obispo County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396496,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6623566,
+          30.3270682
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/strong-storms-trigger-flash-flood-134529745.html",
+        "title": "Strong storms trigger Flash Flood Warnings in Central Florida",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T13:45:29Z",
+        "url": "https://www.yahoo.com/news/videos/strong-storms-trigger-flash-flood-134529745.html",
+        "mention_text": "Central Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, West Bay Street, South Jacksonville, Jacksonville, Duval County, Florida, 32202, United States",
+        "osm_type": "station",
+        "osm_id": 8427291143,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/florida-faces-dangerous-level-4-111513039.html",
+        "title": "Florida faces dangerous Level 4 out of 4 flash flood risk, potential for catastrophic flooding",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T11:15:13Z",
+        "url": "https://www.yahoo.com/news/videos/florida-faces-dangerous-level-4-111513039.html",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9968286,
+          29.1386874
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.clickorlando.com/news/local/2026/11/20/port-orange-driver-warns-others-to-stay-out-of-floodwater-after-car-stalls/",
+        "title": "Port Orange driver warns others to stay out of floodwater after car stalls",
+        "source": "WKMG",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T03:50:44Z",
+        "url": "https://www.clickorlando.com/news/local/2026/11/20/port-orange-driver-warns-others-to-stay-out-of-floodwater-after-car-stalls/",
+        "mention_text": "Port Orange",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Port Orange, Volusia County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 117926,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.clickorlando.com/video/news/2026/11/19/flash-flood-warning-in-effect-for-east-central-flordia/",
+        "title": "Flash flood warning in effect for east Central Florida",
+        "source": "WKMG",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T16:08:02Z",
+        "url": "https://www.clickorlando.com/video/news/2026/11/19/flash-flood-warning-in-effect-for-east-central-flordia/",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4145468,
+          29.9032284
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bradenton.com/news/state/florida/article318159658.html",
+        "title": "Severe flood warning issued for St. Johns County",
+        "source": "Bradenton Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T17:29:00Z",
+        "url": "https://www.bradenton.com/news/state/florida/article318159658.html",
+        "mention_text": "St. Johns County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Saint Johns County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210689,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modernghana.com/videonews/nbc/1/757619",
+        "title": "Flash flood rescues underway in Florida and California",
+        "source": "Modern Ghana",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T02:20:00Z",
+        "url": "https://www.modernghana.com/videonews/nbc/1/757619",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.755997,
+          36.7014631
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modernghana.com/videonews/nbc/1/757619",
+        "title": "Flash flood rescues underway in Florida and California",
+        "source": "Modern Ghana",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T02:20:00Z",
+        "url": "https://www.modernghana.com/videonews/nbc/1/757619",
+        "mention_text": "California",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "California, United States",
+        "osm_type": "administrative",
+        "osm_id": 165475,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6623566,
+          30.3270682
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wftv.com/news/local/flash-flood-warning-issued-parts-brevard-county/NBMPY4TREZE2HAUIRZSS3S7YBY/",
+        "title": "TIMELINE: Flash Flood Warnings issued Thursday for parts of Central Florida",
+        "source": "WFTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T16:30:54Z",
+        "url": "https://www.wftv.com/news/local/flash-flood-warning-issued-parts-brevard-county/NBMPY4TREZE2HAUIRZSS3S7YBY/",
+        "mention_text": "Central Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, West Bay Street, South Jacksonville, Jacksonville, Duval County, Florida, 32202, United States",
+        "osm_type": "station",
+        "osm_id": 8427291143,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/losangeles/video/flash-flood-warning-issued-for-parts-of-los-angeles-county/",
+        "title": "Flash flood warning issued for parts of Los Angeles County",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T16:23:00Z",
+        "url": "https://www.cbsnews.com/losangeles/video/flash-flood-warning-issued-for-parts-of-los-angeles-county/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2427676,
+          34.0536923
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nacionale.com/en/articles/is-there-a-flash-flood-warning-in-los-angeles-today-weather-november-19-when-rain-stops",
+        "title": "Flash flood warning covers much of Los Angeles until noon Thursday; rain eases by evening and Friday is dry",
+        "source": "Nacionale",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T18:31:50Z",
+        "url": "https://www.nacionale.com/en/articles/is-there-a-flash-flood-warning-in-los-angeles-today-weather-november-19-when-rain-stops",
+        "mention_text": "Los Angeles",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2787573,
+          26.1666888
+        ]
+      },
+      "properties": {
+        "article_id": "https://cw34.com/news/local/olivia-rodrigo-to-perform-in-sunrise-as-flood-watch-continues-for-area?teaserSource=trending",
+        "title": "Olivia Rodrigo to perform in Sunrise as flood watch continues for area",
+        "source": "cw34.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T00:16:56Z",
+        "url": "https://cw34.com/news/local/olivia-rodrigo-to-perform-in-sunrise-as-flood-watch-continues-for-area?teaserSource=trending",
+        "mention_text": "Sunrise",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Sunrise, Broward County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 117947,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.375716,
+          35.3540209
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ksby.com/videos/weather/todays-forecast/flash-flood-warning-til-12-45-am-san-luis-obispo-avila-beach-santa-margarita",
+        "title": "Flash Flood Warning til 12:45 am, San Luis Obispo, Avila Beach, Santa Margarita",
+        "source": "KSBY News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T07:06:52Z",
+        "url": "https://www.ksby.com/videos/weather/todays-forecast/flash-flood-warning-til-12-45-am-san-luis-obispo-avila-beach-santa-margarita",
+        "mention_text": "San Luis Obispo",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Luis Obispo County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396496,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.731841,
+          35.1799752
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ksby.com/videos/weather/todays-forecast/flash-flood-warning-til-12-45-am-san-luis-obispo-avila-beach-santa-margarita",
+        "title": "Flash Flood Warning til 12:45 am, San Luis Obispo, Avila Beach, Santa Margarita",
+        "source": "KSBY News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T07:06:52Z",
+        "url": "https://www.ksby.com/videos/weather/todays-forecast/flash-flood-warning-til-12-45-am-san-luis-obispo-avila-beach-santa-margarita",
+        "mention_text": "Avila Beach",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Avila Beach, San Luis Obispo County, California, 93424, United States",
+        "osm_type": "village",
+        "osm_id": 150939517,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8463851,
+          37.1670484
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.usatoday.com/story/news/state/florida/2026/11/19/flash-flooding-possible-again-in-south-florida-today/92857394007/",
+        "title": "Flood watch continues in South Florida, more flooding possible",
+        "source": "USA Today",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T15:25:00Z",
+        "url": "https://www.usatoday.com/story/news/state/florida/2026/11/19/flash-flooding-possible-again-in-south-florida-today/92857394007/",
+        "mention_text": "South Florida",
+        "flood_type": "unknown",
+        "confidence": 0.7,
+        "osm_display": "South Florida, Columbus, Cherokee County, Kansas, 66725, United States",
+        "osm_type": "residential",
+        "osm_id": 12999746,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.387742,
+          36.2231079
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318168603.html",
+        "title": "UPDATE: Flood advisory for Monterey County Thursday night caused by intense rain",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T05:45:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318168603.html",
+        "mention_text": "Monterey County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Monterey County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396485,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://fox5sandiego.com/weather/nws-flood-advisory-san-diego/",
+        "title": "Flood advisory in effect in San Diego County as heavy rain heads southeast",
+        "source": "FOX 5 San Diego & KUSI News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T01:46:43Z",
+        "url": "https://fox5sandiego.com/weather/nws-flood-advisory-san-diego/",
+        "mention_text": "San Diego County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4494174,
+          26.6279798
+        ]
+      },
+      "properties": {
+        "article_id": "https://cbs12.com/news/local/flood-advisory-issued-for-palm-beach-county-until-745",
+        "title": "Flood Advisory issued for Palm Beach County until 7:45",
+        "source": "WPEC",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T23:58:38Z",
+        "url": "https://cbs12.com/news/local/flood-advisory-issued-for-palm-beach-county-until-745",
+        "mention_text": "Palm Beach County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Palm Beach County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210748,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8722311,
+          33.750631
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ocregister.com/2026/11/19/update-flood-advisory-issued-for-orange-county-thursday-afternoon-caused-by-persistent-rain/",
+        "title": "Update: Flood advisory issued for Orange County Thursday afternoon caused by persistent rain",
+        "source": "Orange County Register",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T20:21:24Z",
+        "url": "https://www.ocregister.com/2026/11/19/update-flood-advisory-issued-for-orange-county-thursday-afternoon-caused-by-persistent-rain/",
+        "mention_text": "Orange County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Orange County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396466,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pasadenastarnews.com/2026/11/19/flood-advisory-in-place-for-los-angeles-county-until-thursday-midday-due-to-prolonged-downpours/",
+        "title": "Flood advisory in place for Los Angeles County until Thursday midday due to prolonged downpours",
+        "source": "Pasadena Star News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T00:28:58Z",
+        "url": "https://www.pasadenastarnews.com/2026/11/19/flood-advisory-in-place-for-los-angeles-county-until-thursday-midday-due-to-prolonged-downpours/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8722311,
+          33.750631
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ocregister.com/2026/11/19/orange-county-placed-under-a-flood-advisory-until-thursday-midday-triggered-by-significant-downpours/",
+        "title": "Orange County placed under a flood advisory until Thursday midday triggered by significant downpours",
+        "source": "Orange County Register",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T18:16:24Z",
+        "url": "https://www.ocregister.com/2026/11/19/orange-county-placed-under-a-flood-advisory-until-thursday-midday-triggered-by-significant-downpours/",
+        "mention_text": "Orange County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Orange County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396466,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8722311,
+          33.750631
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318160357.html",
+        "title": "UPDATE: Flood advisory previously issued for Orange County will expire at 12:15 p.m.",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T20:48:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318160357.html",
+        "mention_text": "Orange County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Orange County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396466,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2427676,
+          34.0536923
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318156773.html",
+        "title": "UPDATE: The current flood advisory for Los Angeles will be expiring at noon",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T20:18:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318156773.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.floridarealtors.org/news-media/news-articles/2026/11/flood-emergency-expands-7-more-florida-counties",
+        "title": "Flood emergency expands to 7 more Florida counties",
+        "source": "| Florida Realtors",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T12:00:00Z",
+        "url": "https://www.floridarealtors.org/news-media/news-articles/2026/11/flood-emergency-expands-7-more-florida-counties",
+        "mention_text": "Florida",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4145468,
+          29.9032284
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bizjournals.com/jacksonville/news/2026/11/19/duval-st-johns-added-to-florida-flood-emergency.html",
+        "title": "Duval, St. Johns added to Florida flood emergency order",
+        "source": "The Business Journals",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T19:30:00Z",
+        "url": "https://www.bizjournals.com/jacksonville/news/2026/11/19/duval-st-johns-added-to-florida-flood-emergency.html",
+        "mention_text": "St. Johns",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Saint Johns County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1210689,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bizjournals.com/jacksonville/news/2026/11/19/duval-st-johns-added-to-florida-flood-emergency.html",
+        "title": "Duval, St. Johns added to Florida flood emergency order",
+        "source": "The Business Journals",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T19:30:00Z",
+        "url": "https://www.bizjournals.com/jacksonville/news/2026/11/19/duval-st-johns-added-to-florida-flood-emergency.html",
+        "mention_text": "Florida",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3747719,
+          37.6621028
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317962875.html",
+        "title": "UPDATE: Coastal flood advisory for Bay Area Shorelines Saturday evening",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-15T02:21:05Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317962875.html",
+        "mention_text": "Bay Area Shorelines",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Bay Area Shorelines & Waterways, Marina Boulevard, South San Francisco, San Mateo County, California, 94083, United States",
+        "osm_type": "map",
+        "osm_id": 10817026016,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.375716,
+          35.3540209
+        ]
+      },
+      "properties": {
+        "article_id": "https://cwibc.co.id/en/nws-flood-advisory-california-counties",
+        "title": "NWS Issues Flood Advisory for San Luis Obispo and Santa Barbara",
+        "source": "cwibc.co.id",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T00:52:26Z",
+        "url": "https://cwibc.co.id/en/nws-flood-advisory-california-counties",
+        "mention_text": "San Luis Obispo",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Luis Obispo County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396496,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.702667,
+          34.4221319
+        ]
+      },
+      "properties": {
+        "article_id": "https://cwibc.co.id/en/nws-flood-advisory-california-counties",
+        "title": "NWS Issues Flood Advisory for San Luis Obispo and Santa Barbara",
+        "source": "cwibc.co.id",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T00:52:26Z",
+        "url": "https://cwibc.co.id/en/nws-flood-advisory-california-counties",
+        "mention_text": "Santa Barbara",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Santa Barbara, Santa Barbara County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 112224,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.8854639,
+          33.759478
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/11/17/san-francisco-county-placed-under-a-coastal-flood-advisory-wednesday-and-thursday/",
+        "title": "San Francisco County placed under a coastal flood advisory Wednesday and Thursday",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-17T20:30:41Z",
+        "url": "https://www.mercurynews.com/2026/11/17/san-francisco-county-placed-under-a-coastal-flood-advisory-wednesday-and-thursday/",
+        "mention_text": "San Francisco County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco, Catron County, New Mexico, United States",
+        "osm_type": "peak",
+        "osm_id": 11066998506,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3558473,
+          37.7884969
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/11/18/bay-area-under-a-flood-advisory-until-wednesday-midday-caused-by-prolonged-downpours/",
+        "title": "Bay Area under a flood advisory until Wednesday midday caused by prolonged downpours",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T16:31:00Z",
+        "url": "https://www.mercurynews.com/2026/11/18/bay-area-under-a-flood-advisory-until-wednesday-midday-caused-by-prolonged-downpours/",
+        "mention_text": "Bay Area",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco Bay Area, San Francisco, California, 94130, United States",
+        "osm_type": "region",
+        "osm_id": 2157162589,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1789351,
+          26.2517482
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tapinto.net/towns/coconut-creek/sections/environment/articles/coconut-creek-parents-get-school-closure-apology-as-broward-declares-flood-emergency-and-city-opens-fun-day",
+        "title": "Coconut Creek Parents Get School Closure Apology as Broward Declares Flood Emergency and City Opens Fun Day",
+        "source": "TAPinto",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T12:00:00Z",
+        "url": "https://www.tapinto.net/towns/coconut-creek/sections/environment/articles/coconut-creek-parents-get-school-closure-apology-as-broward-declares-flood-emergency-and-city-opens-fun-day",
+        "mention_text": "Coconut Creek",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Coconut Creek, Broward County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 117961,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2427676,
+          34.0536923
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article317981303.html",
+        "title": "UPDATE: Coastal flood advisory affecting Ventura County Beaches and Los Angeles",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-10T03:45:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article317981303.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2427676,
+          34.0536923
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailynews.com/2026/11/13/flood-advisory-active-for-los-angeles-and-ventura-counties-until-early-friday-morning-caused-by-persistent-rain/",
+        "title": "Flood advisory active for Los Angeles and Ventura counties until early Friday morning caused by persistent rain",
+        "source": "Los Angeles Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T10:10:41Z",
+        "url": "https://www.dailynews.com/2026/11/13/flood-advisory-active-for-los-angeles-and-ventura-counties-until-early-friday-morning-caused-by-persistent-rain/",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0779359,
+          34.4458248
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailynews.com/2026/11/13/flood-advisory-active-for-los-angeles-and-ventura-counties-until-early-friday-morning-caused-by-persistent-rain/",
+        "title": "Flood advisory active for Los Angeles and Ventura counties until early Friday morning caused by persistent rain",
+        "source": "Los Angeles Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-13T10:10:41Z",
+        "url": "https://www.dailynews.com/2026/11/13/flood-advisory-active-for-los-angeles-and-ventura-counties-until-early-friday-morning-caused-by-persistent-rain/",
+        "mention_text": "Ventura",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ventura County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396505,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6749486,
+          33.3926893
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/11/12/flood-advisory-affecting-delta-until-early-friday-evening/",
+        "title": "Flood advisory affecting Delta until early Friday evening",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-12T17:39:39Z",
+        "url": "https://www.eastbaytimes.com/2026/11/12/flood-advisory-affecting-delta-until-early-friday-evening/",
+        "mention_text": "Delta",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Delta County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839215,
+        "run_at": "2026-11-20T15:08:26.024810+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-11-19T15:29:44.709410+00:00",
-    "total_features": 5999
+    "last_updated": "2026-11-20T15:08:26.056158+00:00",
+    "total_features": 6047
   }
 }
