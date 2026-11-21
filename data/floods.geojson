@@ -157222,11 +157222,687 @@
         "osm_id": 1839215,
         "run_at": "2026-11-20T15:08:26.024810+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6623566,
+          30.3270682
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wftv.com/news/local/flash-flood-warnings-issued-central-florida/TDIZ4S37GFHOPKIFNI74I363NM/",
+        "title": "LIVE UPDATES: Strong storms trigger Flash Flood Warnings in Central Florida",
+        "source": "WFTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T23:07:32Z",
+        "url": "https://www.wftv.com/news/local/flash-flood-warnings-issued-central-florida/TDIZ4S37GFHOPKIFNI74I363NM/",
+        "mention_text": "Central Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, West Bay Street, South Jacksonville, Jacksonville, Duval County, Florida, 32202, United States",
+        "osm_type": "station",
+        "osm_id": 8427291143,
+        "run_at": "2026-11-21T14:26:13.119251+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4030376,
+          37.7887644
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318183057.html",
+        "title": "Coastal flood warning issued for Northern California from Monday to Thursday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T23:20:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318183057.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "First National Bank of Northern California, Post Street, Union Square, Financial District, San Francisco, California, 94104, United States",
+        "osm_type": "bank",
+        "osm_id": 32946665,
+        "run_at": "2026-11-21T14:26:13.119251+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6623566,
+          30.3270682
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wdbo.com/news/local/flash-flood-warning-issued-northern-brevard-county/TDIZ4S37GFHOPKIFNI74I363NM/",
+        "title": "LIVE UPDATES: Strong storms trigger Flash Flood Warnings in Central Florida",
+        "source": "WDBO",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T13:45:42Z",
+        "url": "https://www.wdbo.com/news/local/flash-flood-warning-issued-northern-brevard-county/TDIZ4S37GFHOPKIFNI74I363NM/",
+        "mention_text": "Central Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, West Bay Street, South Jacksonville, Jacksonville, Duval County, Florida, 32202, United States",
+        "osm_type": "station",
+        "osm_id": 8427291143,
+        "run_at": "2026-11-21T14:26:13.119251+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4075201,
+          37.7879363
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/lists/ipaws/ChBBqhZ93Vut4BnM4BoSS",
+        "title": "Flash Flood Warning issued November 18 at 2:30PM PST until November 18 at 5:30PM PST by NWS San Francisco CA",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T22:32:26Z",
+        "url": "https://www.forth.news/lists/ipaws/ChBBqhZ93Vut4BnM4BoSS",
+        "mention_text": "San Francisco",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Francisco, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 111968,
+        "run_at": "2026-11-21T14:26:13.119251+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4075201,
+          37.7879363
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/lists/ipaws/ChBBqheqqpAwXsuXv1Jta",
+        "title": "Flash Flood Warning issued November 18 at 2:30PM PST until November 18 at 5:30PM PST by NWS San Francisco CA",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T22:32:26Z",
+        "url": "https://www.forth.news/lists/ipaws/ChBBqheqqpAwXsuXv1Jta",
+        "mention_text": "San Francisco",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Francisco, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 111968,
+        "run_at": "2026-11-21T14:26:13.119251+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4075201,
+          37.7879363
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/lists/ipaws/ChBYozYFFynG5gq83XLb4",
+        "title": "Flash Flood Warning issued November 18 at 7:05PM PST until November 18 at 8:30PM PST by NWS San Francisco CA",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T08:00:00Z",
+        "url": "https://www.forth.news/lists/ipaws/ChBYozYFFynG5gq83XLb4",
+        "mention_text": "San Francisco",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Francisco, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 111968,
+        "run_at": "2026-11-21T14:26:13.119251+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.bradenton.com/news/state/florida/article318162284.html",
+        "title": "What is a flash flood? Florida flooding safety tips",
+        "source": "Bradenton Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T19:33:00Z",
+        "url": "https://www.bradenton.com/news/state/florida/article318162284.html",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-11-21T14:26:13.119251+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.weatherbug.com/news/Florida-Faces-Highest-Flash-Flood-Risk-as-Heavy-Rain-Continues",
+        "title": "Florida Faces Highest Flash Flood Risk as Heavy Rain Continues",
+        "source": "WeatherBug",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T15:21:00Z",
+        "url": "https://www.weatherbug.com/news/Florida-Faces-Highest-Flash-Flood-Risk-as-Heavy-Rain-Continues",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-11-21T14:26:13.119251+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.689423,
+          34.035591
+        ]
+      },
+      "properties": {
+        "article_id": "https://malibutimes.com/evacuation-warnings-issued-for-eastern-and-central-malibu-as-storm-threatens-burn-areas",
+        "title": "Flash flood warning issued for eastern Malibu, Palisades Fire burn scar until noon Thursday",
+        "source": "The Malibu Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T08:00:00Z",
+        "url": "https://malibutimes.com/evacuation-warnings-issued-for-eastern-and-central-malibu-as-storm-threatens-burn-areas",
+        "mention_text": "Malibu",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Malibu, Los Angeles County, California, 90265, United States",
+        "osm_type": "administrative",
+        "osm_id": 3492156,
+        "run_at": "2026-11-21T14:26:13.119251+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5072861,
+          34.0680259
+        ]
+      },
+      "properties": {
+        "article_id": "https://malibutimes.com/evacuation-warnings-issued-for-eastern-and-central-malibu-as-storm-threatens-burn-areas",
+        "title": "Flash flood warning issued for eastern Malibu, Palisades Fire burn scar until noon Thursday",
+        "source": "The Malibu Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T08:00:00Z",
+        "url": "https://malibutimes.com/evacuation-warnings-issued-for-eastern-and-central-malibu-as-storm-threatens-burn-areas",
+        "mention_text": "Palisades Fire",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Sullivan Ridge Fire Road, Riviera, Pacific Palisades, Los Angeles, Los Angeles County, California, 90272, United States",
+        "osm_type": "service",
+        "osm_id": 13290126,
+        "run_at": "2026-11-21T14:26:13.119251+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6623566,
+          30.3270682
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/videos/strong-storms-trigger-flash-flood-175127598.html",
+        "title": "Strong storms trigger Flash Flood Warnings in Central Florida",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T17:51:27Z",
+        "url": "https://www.yahoo.com/news/videos/strong-storms-trigger-flash-flood-175127598.html",
+        "mention_text": "Central Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, West Bay Street, South Jacksonville, Jacksonville, Duval County, Florida, 32202, United States",
+        "osm_type": "station",
+        "osm_id": 8427291143,
+        "run_at": "2026-11-21T14:26:13.119251+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7997185,
+          28.2100203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warnings-issued-central-100132360.html",
+        "title": "Flash Flood Warning issued for northern Brevard County",
+        "source": "Yahoo",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T10:01:32Z",
+        "url": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warnings-issued-central-100132360.html",
+        "mention_text": "Brevard County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Brevard County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 389024,
+        "run_at": "2026-11-21T14:26:13.119251+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7997185,
+          28.2100203
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wftv.com/news/flash-flood-warning-issued-northern-brevard-county/4afe0248-da8b-4ae4-ad1f-bfaf7c8b5fc7/",
+        "title": "Flash Flood Warning issued for northern Brevard County",
+        "source": "WFTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T10:24:45Z",
+        "url": "https://www.wftv.com/news/flash-flood-warning-issued-northern-brevard-county/4afe0248-da8b-4ae4-ad1f-bfaf7c8b5fc7/",
+        "mention_text": "Brevard County",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Brevard County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 389024,
+        "run_at": "2026-11-21T14:26:13.119251+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sgvtribune.com/2026/11/20/update-coastal-flood-advisory-issued-for-los-angeles-county-beaches-from-monday-to-wednesday/",
+        "title": "Update: Coastal flood advisory issued for Los Angeles County beaches from Monday to Wednesday",
+        "source": "San Gabriel Valley Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-21T10:22:17Z",
+        "url": "https://www.sgvtribune.com/2026/11/20/update-coastal-flood-advisory-issued-for-los-angeles-county-beaches-from-monday-to-wednesday/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-11-21T14:26:13.119251+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318179107.html",
+        "title": "UPDATE: Coastal flood advisory for San Diego County Coastal Areas and Orange County Coastal",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-21T06:07:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318179107.html",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-11-21T14:26:13.119251+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6908566,
+          33.4657158
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ocregister.com/2026/11/20/coastal-flood-advisory-issued-for-orange-county-coast-and-san-diego-county-coastal-areas-from-sunday-to-tuesday/",
+        "title": "Coastal flood advisory issued for Orange County Coast and San Diego County Coastal Areas from Sunday to Tuesday",
+        "source": "Orange County Register",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T19:05:10Z",
+        "url": "https://www.ocregister.com/2026/11/20/coastal-flood-advisory-issued-for-orange-county-coast-and-san-diego-county-coastal-areas-from-sunday-to-tuesday/",
+        "mention_text": "Orange County Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Orange County Creamery, 34255, Pacific Coast Highway, Toovunga, South Cove, Dana Point, Orange County, California, 92629, United States",
+        "osm_type": "ice_cream",
+        "osm_id": 13327327772,
+        "run_at": "2026-11-21T14:26:13.119251+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ocregister.com/2026/11/20/coastal-flood-advisory-issued-for-orange-county-coast-and-san-diego-county-coastal-areas-from-sunday-to-tuesday/",
+        "title": "Coastal flood advisory issued for Orange County Coast and San Diego County Coastal Areas from Sunday to Tuesday",
+        "source": "Orange County Register",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T19:05:10Z",
+        "url": "https://www.ocregister.com/2026/11/20/coastal-flood-advisory-issued-for-orange-county-coast-and-san-diego-county-coastal-areas-from-sunday-to-tuesday/",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-11-21T14:26:13.119251+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4030376,
+          37.7887644
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/11/20/northern-california-placed-under-a-coastal-flood-advisory-from-saturday-to-thursday/",
+        "title": "Northern California placed under a coastal flood advisory from Saturday to Thursday",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T22:56:22Z",
+        "url": "https://www.mercurynews.com/2026/11/20/northern-california-placed-under-a-coastal-flood-advisory-from-saturday-to-thursday/",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "First National Bank of Northern California, Post Street, Union Square, Financial District, San Francisco, California, 94104, United States",
+        "osm_type": "bank",
+        "osm_id": 32946665,
+        "run_at": "2026-11-21T14:26:13.119251+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.689423,
+          34.035591
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.presstelegram.com/2026/11/20/malibu-and-los-angeles-county-beaches-under-a-coastal-flood-advisory-from-monday-to-wednesday/",
+        "title": "Malibu and Los Angeles County Beaches under a coastal flood advisory from Monday to Wednesday",
+        "source": "Long Beach Press-Telegram",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T22:32:39Z",
+        "url": "https://www.presstelegram.com/2026/11/20/malibu-and-los-angeles-county-beaches-under-a-coastal-flood-advisory-from-monday-to-wednesday/",
+        "mention_text": "Malibu",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Malibu, Los Angeles County, California, 90265, United States",
+        "osm_type": "administrative",
+        "osm_id": 3492156,
+        "run_at": "2026-11-21T14:26:13.119251+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2427676,
+          34.0536923
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.presstelegram.com/2026/11/20/malibu-and-los-angeles-county-beaches-under-a-coastal-flood-advisory-from-monday-to-wednesday/",
+        "title": "Malibu and Los Angeles County Beaches under a coastal flood advisory from Monday to Wednesday",
+        "source": "Long Beach Press-Telegram",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T22:32:39Z",
+        "url": "https://www.presstelegram.com/2026/11/20/malibu-and-los-angeles-county-beaches-under-a-coastal-flood-advisory-from-monday-to-wednesday/",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-11-21T14:26:13.119251+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2062682,
+          33.9510011
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318180429.html",
+        "title": "UPDATE: Coastal flood advisory in place for Southern California from Monday to Thursday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-21T05:17:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318180429.html",
+        "mention_text": "Southern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Southern @ California, Southern Avenue, South Gate, Los Angeles County, California, 90280, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 11056179472,
+        "run_at": "2026-11-21T14:26:13.119251+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.745748,
+          15.2174228
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318179805.html",
+        "title": "UPDATE: Coastal flood advisory in place for Northern Coastal Humboldt for Saturday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-21T04:55:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318179805.html",
+        "mention_text": "Northern Coastal",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Coastal Drive, Wireless Ridge, Navy Hill, Puerto Rico, Saipan Municipality, Northern Mariana Islands, 96950, United States",
+        "osm_type": "residential",
+        "osm_id": 24199777,
+        "run_at": "2026-11-21T14:26:13.119251+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4030376,
+          37.7887644
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318183058.html",
+        "title": "Coastal flood advisory in place for Northern California from Saturday to Thursday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T23:20:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318183058.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "First National Bank of Northern California, Post Street, Union Square, Financial District, San Francisco, California, 94104, United States",
+        "osm_type": "bank",
+        "osm_id": 32946665,
+        "run_at": "2026-11-21T14:26:13.119251+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318160810.html",
+        "title": "UPDATE: Flood advisory in place for San Diego County Thursday evening",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T01:17:08Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318160810.html",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-11-21T14:26:13.119251+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.689423,
+          34.035591
+        ]
+      },
+      "properties": {
+        "article_id": "https://t.co/igtmMNZyFT",
+        "title": "Malibu and Los Angeles County Beaches under a coastal flood advisory from Monday to Wednesday",
+        "source": "Howl.Link",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T08:00:00Z",
+        "url": "https://t.co/igtmMNZyFT",
+        "mention_text": "Malibu",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Malibu, Los Angeles County, California, 90265, United States",
+        "osm_type": "administrative",
+        "osm_id": 3492156,
+        "run_at": "2026-11-21T14:26:13.119251+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2427676,
+          34.0536923
+        ]
+      },
+      "properties": {
+        "article_id": "https://t.co/igtmMNZyFT",
+        "title": "Malibu and Los Angeles County Beaches under a coastal flood advisory from Monday to Wednesday",
+        "source": "Howl.Link",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T08:00:00Z",
+        "url": "https://t.co/igtmMNZyFT",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-11-21T14:26:13.119251+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-11-20T15:08:26.056158+00:00",
-    "total_features": 6047
+    "last_updated": "2026-11-21T14:26:13.149414+00:00",
+    "total_features": 6073
   }
 }
