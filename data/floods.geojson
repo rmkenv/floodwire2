@@ -157898,11 +157898,427 @@
         "osm_id": 207359,
         "run_at": "2026-11-21T14:26:13.119251+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6623566,
+          30.3270682
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox35orlando.com/video/fmc-9ul1lj5n8zoabpkv",
+        "title": "Tracking flash flood warnings across Central Florida",
+        "source": "FOX 35 Orlando",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T16:55:03Z",
+        "url": "https://www.fox35orlando.com/video/fmc-9ul1lj5n8zoabpkv",
+        "mention_text": "Central Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, West Bay Street, South Jacksonville, Jacksonville, Duval County, Florida, 32202, United States",
+        "osm_type": "station",
+        "osm_id": 8427291143,
+        "run_at": "2026-11-22T14:16:52.574498+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.755997,
+          36.7014631
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.livenowfox.com/video/fmc-x2keykcjdk614zv3",
+        "title": "Storm soaks California, prompting flash flood alerts",
+        "source": "LiveNOW from FOX",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T00:09:05Z",
+        "url": "https://www.livenowfox.com/video/fmc-x2keykcjdk614zv3",
+        "mention_text": "California",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "California, United States",
+        "osm_type": "administrative",
+        "osm_id": 165475,
+        "run_at": "2026-11-22T14:16:52.574498+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox.com/watch/clip/fmc-8vf3jd7a7m42vv7p/florida-faces-level-4-out-of-4-flash-flood-threat",
+        "title": "Watch Florida faces level 4 out of 4 flash flood threat - Fox Weather First",
+        "source": "FOX One",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T12:48:28Z",
+        "url": "https://www.fox.com/watch/clip/fmc-8vf3jd7a7m42vv7p/florida-faces-level-4-out-of-4-flash-flood-threat",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-11-22T14:16:52.574498+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox.com/watch/clip/fmc-uiq8j792ib08vdza/persistent-heavy-rainfall-triggers-severe-flash-flood-threat-in-florida",
+        "title": "Watch Persistent heavy rainfall triggers severe flash flood threat in Florida - Fox Weather First",
+        "source": "FOX One",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T12:26:49Z",
+        "url": "https://www.fox.com/watch/clip/fmc-uiq8j792ib08vdza/persistent-heavy-rainfall-triggers-severe-flash-flood-threat-in-florida",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-11-22T14:16:52.574498+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1893842,
+          33.7894805
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pressdemocrat.com/2026/11/21/flood-advisory-begins-on-pacific-coast-before-extreme-levels-next-week/",
+        "title": "Flood advisory begins on Pacific Coast, before \u201cextreme\u201d levels next week",
+        "source": "The Press Democrat",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-21T19:18:46Z",
+        "url": "https://www.pressdemocrat.com/2026/11/21/flood-advisory-begins-on-pacific-coast-before-extreme-levels-next-week/",
+        "mention_text": "Pacific Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Pacific Coast Highway, Long Beach Boulevard, Willowville, Long Beach, Los Angeles County, California, 90813, United States",
+        "osm_type": "station",
+        "osm_id": 2199119185,
+        "run_at": "2026-11-22T14:16:52.574498+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://southfloridareporter.com/south-florida-thanksgiving-week-forecast-brings-spotty-showers-king-tide-coastal-flooding-and-sunny-holiday-skies/",
+        "title": "South Florida Thanksgiving Week Forecast Brings Spotty Showers, King Tide Coastal Flooding, and Sunny Holiday Skies (Video)",
+        "source": "South Florida Reporter",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-22T06:25:46Z",
+        "url": "https://southfloridareporter.com/south-florida-thanksgiving-week-forecast-brings-spotty-showers-king-tide-coastal-flooding-and-sunny-holiday-skies/",
+        "mention_text": "Florida",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-11-22T14:16:52.574498+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4805684,
+          35.4849292
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article318192032.html",
+        "title": "UPDATE: Coastal flood advisory issued for Hatteras Island until Sunday morning",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-22T06:18:05Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article318192032.html",
+        "mention_text": "Hatteras Island",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hatteras Island, Rodanthe, Dare County, North Carolina, United States",
+        "osm_type": "island",
+        "osm_id": 1140928,
+        "run_at": "2026-11-22T14:16:52.574498+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3377317,
+          47.5906404
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tri-cityherald.com/news/weather-news/article318193003.html",
+        "title": "Coastal flood advisory for South Washington Coast from Sunday to Tuesday",
+        "source": "Tri-City Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-21T20:17:06Z",
+        "url": "https://www.tri-cityherald.com/news/weather-news/article318193003.html",
+        "mention_text": "South Washington Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Coast Guard Museum Northwest, 1519, Alaskan Way South, Yesler Terrace, Seattle, King County, Washington, 98134, United States",
+        "osm_type": "museum",
+        "osm_id": 681314682,
+        "run_at": "2026-11-22T14:16:52.574498+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3558473,
+          37.7884969
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/sanfrancisco/news/coastal-flood-advisory-san-francisco-bay-area-extended-weekend/",
+        "title": "Coastal flood advisory for San Francisco Bay Area extended through weekend",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-21T19:53:30Z",
+        "url": "https://www.cbsnews.com/sanfrancisco/news/coastal-flood-advisory-san-francisco-bay-area-extended-weekend/",
+        "mention_text": "San Francisco Bay Area",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco Bay Area, San Francisco, California, 94130, United States",
+        "osm_type": "region",
+        "osm_id": 2157162589,
+        "run_at": "2026-11-22T14:16:52.574498+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3558473,
+          37.7884969
+        ]
+      },
+      "properties": {
+        "article_id": "https://hanfordsentinel.com/news/national/bay-area-coastal-flood-advisory-begins-before-extreme-levels-next-week/article_6ef672c2-97d3-5f76-9d6a-aaacdc912a2c.html",
+        "title": "Bay Area coastal flood advisory begins before 'extreme' levels next week",
+        "source": "Hanford Sentinel",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-21T22:20:00Z",
+        "url": "https://hanfordsentinel.com/news/national/bay-area-coastal-flood-advisory-begins-before-extreme-levels-next-week/article_6ef672c2-97d3-5f76-9d6a-aaacdc912a2c.html",
+        "mention_text": "Bay Area",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco Bay Area, San Francisco, California, 94130, United States",
+        "osm_type": "region",
+        "osm_id": 2157162589,
+        "run_at": "2026-11-22T14:16:52.574498+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2062682,
+          33.9510011
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318180480.html",
+        "title": "UPDATE: Coastal flood advisory for Southern California from Monday to Wednesday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-21T05:15:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318180480.html",
+        "mention_text": "Southern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Southern @ California, Southern Avenue, South Gate, Los Angeles County, California, 90280, United States",
+        "osm_type": "bus_stop",
+        "osm_id": 11056179472,
+        "run_at": "2026-11-22T14:16:52.574498+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.latintimes.com/florida-record-flooding-st-johns-river-rescues-601662",
+        "title": "Florida's flood emergency: 21 counties, 100+ rescues, storm heading for the Carolinas",
+        "source": "Latin Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-21T15:40:11Z",
+        "url": "https://www.latintimes.com/florida-record-flooding-st-johns-river-rescues-601662",
+        "mention_text": "Florida",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-11-22T14:16:52.574498+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6391962,
+          14.9350998
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.latintimes.com/florida-record-flooding-st-johns-river-rescues-601662",
+        "title": "Florida's flood emergency: 21 counties, 100+ rescues, storm heading for the Carolinas",
+        "source": "Latin Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-21T15:40:11Z",
+        "url": "https://www.latintimes.com/florida-record-flooding-st-johns-river-rescues-601662",
+        "mention_text": "Carolinas",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Carolinas, Tinian Municipality, Northern Mariana Islands, 96952, United States",
+        "osm_type": "peak",
+        "osm_id": 358021381,
+        "run_at": "2026-11-22T14:16:52.574498+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6749486,
+          33.3926893
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/11/18/flood-advisory-for-delta-until-wednesday-afternoon-due-to-intense-rainfall/",
+        "title": "Flood advisory for Delta until Wednesday afternoon due to intense rainfall",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-18T17:15:26Z",
+        "url": "https://www.eastbaytimes.com/2026/11/18/flood-advisory-for-delta-until-wednesday-afternoon-due-to-intense-rainfall/",
+        "mention_text": "Delta",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Delta County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839215,
+        "run_at": "2026-11-22T14:16:52.574498+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4075201,
+          37.7879363
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/11/15/flood-advisory-active-for-san-francisco-and-san-mateo-counties-until-sunday-evening-due-to-intense-downpours/",
+        "title": "Flood advisory active for San Francisco and San Mateo counties until Sunday evening due to intense downpours",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-16T01:29:12Z",
+        "url": "https://www.eastbaytimes.com/2026/11/15/flood-advisory-active-for-san-francisco-and-san-mateo-counties-until-sunday-evening-due-to-intense-downpours/",
+        "mention_text": "San Francisco",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 111968,
+        "run_at": "2026-11-22T14:16:52.574498+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3330573,
+          37.496904
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/11/15/flood-advisory-active-for-san-francisco-and-san-mateo-counties-until-sunday-evening-due-to-intense-downpours/",
+        "title": "Flood advisory active for San Francisco and San Mateo counties until Sunday evening due to intense downpours",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-16T01:29:12Z",
+        "url": "https://www.eastbaytimes.com/2026/11/15/flood-advisory-active-for-san-francisco-and-san-mateo-counties-until-sunday-evening-due-to-intense-downpours/",
+        "mention_text": "San Mateo",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Mateo County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396498,
+        "run_at": "2026-11-22T14:16:52.574498+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-11-21T14:26:13.149414+00:00",
-    "total_features": 6073
+    "last_updated": "2026-11-22T14:16:52.602105+00:00",
+    "total_features": 6089
   }
 }
