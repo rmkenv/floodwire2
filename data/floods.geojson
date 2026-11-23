@@ -158314,11 +158314,401 @@
         "osm_id": 396498,
         "run_at": "2026-11-22T14:16:52.574498+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6908566,
+          33.4657158
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ocregister.com/2026/11/22/coastal-flood-warning-issued-for-orange-county-coast-and-san-diego-county-coastal-areas-from-tuesday-to-friday/",
+        "title": "Coastal flood warning issued for Orange County Coast and San Diego County Coastal Areas from Tuesday to Friday",
+        "source": "Orange County Register",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-22T19:43:13Z",
+        "url": "https://www.ocregister.com/2026/11/22/coastal-flood-warning-issued-for-orange-county-coast-and-san-diego-county-coastal-areas-from-tuesday-to-friday/",
+        "mention_text": "Orange County Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Orange County Creamery, 34255, Pacific Coast Highway, Toovunga, South Cove, Dana Point, Orange County, California, 92629, United States",
+        "osm_type": "ice_cream",
+        "osm_id": 13327327772,
+        "run_at": "2026-11-23T17:34:56.404195+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7706277,
+          32.9637838
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ocregister.com/2026/11/22/coastal-flood-warning-issued-for-orange-county-coast-and-san-diego-county-coastal-areas-from-tuesday-to-friday/",
+        "title": "Coastal flood warning issued for Orange County Coast and San Diego County Coastal Areas from Tuesday to Friday",
+        "source": "Orange County Register",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-22T19:43:13Z",
+        "url": "https://www.ocregister.com/2026/11/22/coastal-flood-warning-issued-for-orange-county-coast-and-san-diego-county-coastal-areas-from-tuesday-to-friday/",
+        "mention_text": "San Diego County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396482,
+        "run_at": "2026-11-23T17:34:56.404195+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.8854639,
+          33.759478
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318183057.html",
+        "title": "UPDATE: Coastal flood warning issued for San Francisco County from Monday to Thursday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-22T22:51:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318183057.html",
+        "mention_text": "San Francisco County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco, Catron County, New Mexico, United States",
+        "osm_type": "peak",
+        "osm_id": 11066998506,
+        "run_at": "2026-11-23T17:34:56.404195+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6623566,
+          30.3270682
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.wftv.com/news/strong-storms-trigger-flash-flood-warnings-central-florida/e207aa4c-c140-4875-9d37-17b8d852a6a2/",
+        "title": "Strong storms trigger Flash Flood Warnings in Central Florida",
+        "source": "WFTV",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T17:55:05Z",
+        "url": "https://www.wftv.com/news/strong-storms-trigger-flash-flood-warnings-central-florida/e207aa4c-c140-4875-9d37-17b8d852a6a2/",
+        "mention_text": "Central Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Central, West Bay Street, South Jacksonville, Jacksonville, Duval County, Florida, 32202, United States",
+        "osm_type": "station",
+        "osm_id": 8427291143,
+        "run_at": "2026-11-23T17:34:56.404195+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2403183,
+          32.7978268
+        ]
+      },
+      "properties": {
+        "article_id": "https://fox5sandiego.com/news/local-news/coastal-flood-warning-pacific-beach/",
+        "title": "Pacific Beach businesses brace for potential king tide flooding",
+        "source": "FOX 5 San Diego & KUSI News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-23T02:12:08Z",
+        "url": "https://fox5sandiego.com/news/local-news/coastal-flood-warning-pacific-beach/",
+        "mention_text": "Pacific Beach",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Pacific Beach, San Diego, San Diego County, California, 92109, United States",
+        "osm_type": "suburb",
+        "osm_id": 150935208,
+        "run_at": "2026-11-23T17:34:56.404195+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3120073,
+          41.3796719
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/2026/11/23/forecast/regional/king-tides-storms-record-coastal-flooding-west-coast",
+        "title": "King tide West Coast flooding could top California records",
+        "source": "The Weather Channel",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-23T16:29:00Z",
+        "url": "https://weather.com/2026/11/23/forecast/regional/king-tides-storms-record-coastal-flooding-west-coast",
+        "mention_text": "West Coast",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "West Coast, Town of Goshen, Orange County, New York, United States",
+        "osm_type": "garden",
+        "osm_id": 1107357384,
+        "run_at": "2026-11-23T17:34:56.404195+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.755997,
+          36.7014631
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/2026/11/23/forecast/regional/king-tides-storms-record-coastal-flooding-west-coast",
+        "title": "King tide West Coast flooding could top California records",
+        "source": "The Weather Channel",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-23T16:29:00Z",
+        "url": "https://weather.com/2026/11/23/forecast/regional/king-tides-storms-record-coastal-flooding-west-coast",
+        "mention_text": "California",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "California, United States",
+        "osm_type": "administrative",
+        "osm_id": 165475,
+        "run_at": "2026-11-23T17:34:56.404195+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.330062,
+          47.6038321
+        ]
+      },
+      "properties": {
+        "article_id": "https://hoodline.com/2026/11/south-park-braces-for-king-tide-as-seattle-crews-test-lessons-from-2022-flood/",
+        "title": "Seattle Preps South Park for King Tide Flooding on Duwamish",
+        "source": "Hoodline",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-23T16:29:15Z",
+        "url": "https://hoodline.com/2026/11/south-park-braces-for-king-tide-as-seattle-crews-test-lessons-from-2022-flood/",
+        "mention_text": "Seattle",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Seattle, King County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 237385,
+        "run_at": "2026-11-23T17:34:56.404195+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article318208863.html",
+        "title": "Coastal flood advisory for Coastal Colleton and Charleston County until Monday morning",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-23T08:21:05Z",
+        "url": "https://www.thestate.com/news/weather-news/article318208863.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-11-23T17:34:56.404195+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0902822,
+          33.5372542
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox5atlanta.com/news/kemp-extends-flood-emergency-fannin-gilmer-counties",
+        "title": "Kemp extends flood emergency in Fannin, Gilmer counties",
+        "source": "FOX 5 Atlanta",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-23T13:44:31Z",
+        "url": "https://www.fox5atlanta.com/news/kemp-extends-flood-emergency-fannin-gilmer-counties",
+        "mention_text": "Fannin",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Fannin County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1634509,
+        "run_at": "2026-11-23T17:34:56.404195+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4030376,
+          37.7887644
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pressdemocrat.com/2026/11/22/coastal-flood-advisory-in-place-for-northern-california-until-monday-morning/",
+        "title": "Coastal flood advisory in place for Northern California until Monday morning",
+        "source": "The Press Democrat",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-23T02:09:37Z",
+        "url": "https://www.pressdemocrat.com/2026/11/22/coastal-flood-advisory-in-place-for-northern-california-until-monday-morning/",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "First National Bank of Northern California, Post Street, Union Square, Financial District, San Francisco, California, 94104, United States",
+        "osm_type": "bank",
+        "osm_id": 32946665,
+        "run_at": "2026-11-23T17:34:56.404195+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4030376,
+          37.7887644
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/11/22/coastal-flood-advisory-for-northern-california-until-early-thursday-evening/",
+        "title": "Coastal flood advisory for Northern California until early Thursday evening",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-22T19:58:58Z",
+        "url": "https://www.mercurynews.com/2026/11/22/coastal-flood-advisory-for-northern-california-until-early-thursday-evening/",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "First National Bank of Northern California, Post Street, Union Square, Financial District, San Francisco, California, 94104, United States",
+        "osm_type": "bank",
+        "osm_id": 32946665,
+        "run_at": "2026-11-23T17:34:56.404195+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4030376,
+          37.7887644
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318204231.html",
+        "title": "UPDATE: Coastal flood advisory affecting Northern California until early Thursday evening",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-22T22:49:05Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318204231.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "First National Bank of Northern California, Post Street, Union Square, Financial District, San Francisco, California, 94104, United States",
+        "osm_type": "bank",
+        "osm_id": 32946665,
+        "run_at": "2026-11-23T17:34:56.404195+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7797972,
+          42.7647416
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318204255.html",
+        "title": "UPDATE: Coastal flood advisory for North Bay Interior Valleys and San Francisco Bay Shoreline",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-22T22:51:05Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318204255.html",
+        "mention_text": "North Bay",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Bay, Racine County, Wisconsin, United States",
+        "osm_type": "administrative",
+        "osm_id": 251484,
+        "run_at": "2026-11-23T17:34:56.404195+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.137227,
+          37.6233187
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318204255.html",
+        "title": "UPDATE: Coastal flood advisory for North Bay Interior Valleys and San Francisco Bay Shoreline",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-22T22:51:05Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318204255.html",
+        "mention_text": "San Francisco Bay Shoreline",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hayward Shoreline Interpretive Center, San Francisco Bay Trail, Hayward, Alameda County, California, 94545, United States",
+        "osm_type": "museum",
+        "osm_id": 104588017,
+        "run_at": "2026-11-23T17:34:56.404195+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-11-22T14:16:52.602105+00:00",
-    "total_features": 6089
+    "last_updated": "2026-11-23T17:34:56.428976+00:00",
+    "total_features": 6104
   }
 }
