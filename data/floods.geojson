@@ -158704,11 +158704,583 @@
         "osm_id": 104588017,
         "run_at": "2026-11-23T17:34:56.404195+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4367597,
+          37.7244363
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mantecabulletin.com/news/local-news/south-san-joaquins-swift-water-rescue-unit-deployed-to-bay-area/",
+        "title": "South San Joaquin\u2019s swift water rescue unit deployed to Bay Area",
+        "source": "Manteca Bulletin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-24T10:35:50Z",
+        "url": "https://www.mantecabulletin.com/news/local-news/south-san-joaquins-swift-water-rescue-unit-deployed-to-bay-area/",
+        "mention_text": "South San Joaquin\u2019s",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "South Tracy Dental Care, 797, South Tracy Boulevard, Heritage, Tracy, San Joaquin County, California, 95376, United States",
+        "osm_type": "dentist",
+        "osm_id": 11643324683,
+        "run_at": "2026-11-24T17:13:49.323127+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3558473,
+          37.7884969
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mantecabulletin.com/news/local-news/south-san-joaquins-swift-water-rescue-unit-deployed-to-bay-area/",
+        "title": "South San Joaquin\u2019s swift water rescue unit deployed to Bay Area",
+        "source": "Manteca Bulletin",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-24T10:35:50Z",
+        "url": "https://www.mantecabulletin.com/news/local-news/south-san-joaquins-swift-water-rescue-unit-deployed-to-bay-area/",
+        "mention_text": "Bay Area",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "San Francisco Bay Area, San Francisco, California, 94017, United States",
+        "osm_type": "region",
+        "osm_id": 2157162589,
+        "run_at": "2026-11-24T17:13:49.323127+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4132805,
+          36.2130617
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fox5vegas.com/2026/11/23/fall-storms-bring-flash-flood-concerns-lake-mead-trails/",
+        "title": "Fall storms bring flash flood concerns to Lake Mead trails",
+        "source": "FOX5 Vegas",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-23T19:22:00Z",
+        "url": "https://www.fox5vegas.com/2026/11/23/fall-storms-bring-flash-flood-concerns-lake-mead-trails/",
+        "mention_text": "Lake Mead",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Lake Mead, Clark County, Nevada, United States",
+        "osm_type": "reservoir",
+        "osm_id": 1275469,
+        "run_at": "2026-11-24T17:13:49.323127+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4226219,
+          37.7885259
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/11/23/coastal-flood-warning-issued-for-northern-california-for-wednesday/",
+        "title": "Coastal flood warning issued for Northern California for Wednesday",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-23T21:14:29Z",
+        "url": "https://www.eastbaytimes.com/2026/11/23/coastal-flood-warning-issued-for-northern-california-for-wednesday/",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Planned Parenthood Northern California, 1522, Bush Street, Western Addition, San Francisco, California, 94109, United States",
+        "osm_type": "clinic",
+        "osm_id": 10110556090,
+        "run_at": "2026-11-24T17:13:49.323127+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3170402,
+          29.8494044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nationthailand.com/news/general/40073880",
+        "title": "Northeast to cool by 2\u20134\u00b0C as lower South faces flash flood risk from November 27 to 30",
+        "source": "Nation Thailand",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-24T10:50:00Z",
+        "url": "https://www.nationthailand.com/news/general/40073880",
+        "mention_text": "South",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "St. Augustine South, Saint Johns County, Florida, 32086, United States",
+        "osm_type": "town",
+        "osm_id": 13203803220,
+        "run_at": "2026-11-24T17:13:49.323127+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1638284,
+          32.7157062
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.forth.news/lists/sdsheriff/ChLr9qJgsbh5GWxDLdfip",
+        "title": "RT @AlertSanDiegoCo: Coastal Flood Warning Issued for San Diego County Coastal Areas The National Weather Service in San Diego has issued\u2026",
+        "source": "Forth.News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-24T08:12:51Z",
+        "url": "https://www.forth.news/lists/sdsheriff/ChLr9qJgsbh5GWxDLdfip",
+        "mention_text": "San Diego",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Diego, San Diego County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 253832,
+        "run_at": "2026-11-24T17:13:49.323127+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1291968,
+          32.7244659
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.king5.com/video/news/local/south-park-prepares-for-possible-king-tide-flooding/281-78f06ed0-b281-4218-b821-eafcc5a07264",
+        "title": "South Park prepares for possible king tide flooding",
+        "source": "KING5.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-24T13:08:00Z",
+        "url": "https://www.king5.com/video/news/local/south-park-prepares-for-possible-king-tide-flooding/281-78f06ed0-b281-4218-b821-eafcc5a07264",
+        "mention_text": "South Park",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "South Park, Golden Hill, San Diego, San Diego County, California, 92102, United States",
+        "osm_type": "quarter",
+        "osm_id": 150981667,
+        "run_at": "2026-11-24T17:13:49.323127+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4075201,
+          37.7879363
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/2026/11/24/news/weather/video/san-francisco-king-tide-flood-prep",
+        "title": "San Francisco king tide flooding: sandbags and flood walls",
+        "source": "The Weather Channel",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-24T12:55:48Z",
+        "url": "https://weather.com/2026/11/24/news/weather/video/san-francisco-king-tide-flood-prep",
+        "mention_text": "San Francisco",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "San Francisco, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 111968,
+        "run_at": "2026-11-24T17:13:49.323127+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3460364,
+          33.819003
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.ktvu.com/video/fmc-cqq333wbq3q32mae",
+        "title": "South Bay braces for king tide flooding",
+        "source": "KTVU",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-24T00:27:37Z",
+        "url": "https://www.ktvu.com/video/fmc-cqq333wbq3q32mae",
+        "mention_text": "South Bay",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "South Bay, Los Angeles County, California, United States",
+        "osm_type": "region",
+        "osm_id": 18994350,
+        "run_at": "2026-11-24T17:13:49.323127+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3120073,
+          41.3796719
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/2026/11/24/forecast/regional/king-tides-storms-record-coastal-flooding-west-coast",
+        "title": "King tide West Coast flooding could top California records",
+        "source": "The Weather Channel",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-24T12:31:00Z",
+        "url": "https://weather.com/2026/11/24/forecast/regional/king-tides-storms-record-coastal-flooding-west-coast",
+        "mention_text": "West Coast",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "West Coast, Town of Goshen, Orange County, New York, United States",
+        "osm_type": "garden",
+        "osm_id": 1107357384,
+        "run_at": "2026-11-24T17:13:49.323127+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.755997,
+          36.7014631
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/2026/11/24/forecast/regional/king-tides-storms-record-coastal-flooding-west-coast",
+        "title": "King tide West Coast flooding could top California records",
+        "source": "The Weather Channel",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-24T12:31:00Z",
+        "url": "https://weather.com/2026/11/24/forecast/regional/king-tides-storms-record-coastal-flooding-west-coast",
+        "mention_text": "California",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "California, United States",
+        "osm_type": "administrative",
+        "osm_id": 165475,
+        "run_at": "2026-11-24T17:13:49.323127+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3377317,
+          47.5906404
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thenewstribune.com/news/weather-news/article318193003.html",
+        "title": "UPDATE: Coastal flood advisory for South Washington Coast until Thursday night",
+        "source": "Tacoma News Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-21T19:53:00Z",
+        "url": "https://www.thenewstribune.com/news/weather-news/article318193003.html",
+        "mention_text": "South Washington Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Coast Guard Museum Northwest, 1519, Alaskan Way South, Yesler Terrace, Seattle, King County, Washington, 98134, United States",
+        "osm_type": "museum",
+        "osm_id": 681314682,
+        "run_at": "2026-11-24T17:13:49.323127+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9001941,
+          32.4821843
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailynews.com/2026/11/20/catalina-santa-barbara-islands-under-a-coastal-flood-advisory-from-monday-to-thursday/",
+        "title": "Catalina/Santa Barbara Islands under a coastal flood advisory from Monday to Thursday",
+        "source": "Los Angeles Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T20:16:29Z",
+        "url": "https://www.dailynews.com/2026/11/20/catalina-santa-barbara-islands-under-a-coastal-flood-advisory-from-monday-to-thursday/",
+        "mention_text": "Catalina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Catalina, Pima County, Arizona, United States",
+        "osm_type": "census",
+        "osm_id": 11180516,
+        "run_at": "2026-11-24T17:13:49.323127+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.702667,
+          34.4221319
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailynews.com/2026/11/20/catalina-santa-barbara-islands-under-a-coastal-flood-advisory-from-monday-to-thursday/",
+        "title": "Catalina/Santa Barbara Islands under a coastal flood advisory from Monday to Thursday",
+        "source": "Los Angeles Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T20:16:29Z",
+        "url": "https://www.dailynews.com/2026/11/20/catalina-santa-barbara-islands-under-a-coastal-flood-advisory-from-monday-to-thursday/",
+        "mention_text": "Santa Barbara",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Santa Barbara, Santa Barbara County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 112224,
+        "run_at": "2026-11-24T17:13:49.323127+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4226219,
+          37.7885259
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article318139074.html",
+        "title": "UPDATE: Flood advisory affecting Northern California Thursday afternoon",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T18:50:08Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article318139074.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Planned Parenthood Northern California, 1522, Bush Street, Western Addition, San Francisco, California, 94109, United States",
+        "osm_type": "clinic",
+        "osm_id": 10110556090,
+        "run_at": "2026-11-24T17:13:49.323127+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4226219,
+          37.7885259
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.fresnobee.com/news/weather-news/article318139074.html",
+        "title": "UPDATE: Flood advisory affecting Northern California Thursday afternoon",
+        "source": "Fresno Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T18:50:08Z",
+        "url": "https://www.fresnobee.com/news/weather-news/article318139074.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Planned Parenthood Northern California, 1522, Bush Street, Western Addition, San Francisco, California, 94109, United States",
+        "osm_type": "clinic",
+        "osm_id": 10110556090,
+        "run_at": "2026-11-24T17:13:49.323127+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sbsun.com/2026/11/19/flood-advisory-active-for-san-bernardino-county-until-thursday-midday-triggered-by-persistent-rainfall/",
+        "title": "Flood advisory active for San Bernardino County until Thursday midday triggered by persistent rainfall",
+        "source": "San Bernardino Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T20:07:28Z",
+        "url": "https://www.sbsun.com/2026/11/19/flood-advisory-active-for-san-bernardino-county-until-thursday-midday-triggered-by-persistent-rainfall/",
+        "mention_text": "San Bernardino County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Bernardino County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396509,
+        "run_at": "2026-11-24T17:13:49.323127+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.387742,
+          36.2231079
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318145023.html",
+        "title": "UPDATE: Flood advisory issued for Monterey and San Benito counties Wednesday night",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T04:23:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318145023.html",
+        "mention_text": "Monterey",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Monterey County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396485,
+        "run_at": "2026-11-24T17:13:49.323127+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1157794,
+          36.6231225
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318145023.html",
+        "title": "UPDATE: Flood advisory issued for Monterey and San Benito counties Wednesday night",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T04:23:06Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318145023.html",
+        "mention_text": "San Benito",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Benito County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396500,
+        "run_at": "2026-11-24T17:13:49.323127+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4226219,
+          37.7885259
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.modbee.com/news/weather-news/article318139074.html",
+        "title": "UPDATE: Flood advisory affecting Northern California Thursday afternoon",
+        "source": "Modesto Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-19T18:50:08Z",
+        "url": "https://www.modbee.com/news/weather-news/article318139074.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Planned Parenthood Northern California, 1522, Bush Street, Western Addition, San Francisco, California, 94109, United States",
+        "osm_type": "clinic",
+        "osm_id": 10110556090,
+        "run_at": "2026-11-24T17:13:49.323127+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.448647,
+          33.9776848
+        ]
+      },
+      "properties": {
+        "article_id": "https://patch.com/california/marinadelrey/king-tides-forecast-marina-del-rey-coastal-flood-advisory-takes-effect",
+        "title": "King Tides Forecast In Marina Del Rey As Coastal Flood Advisory Takes Effect",
+        "source": "Patch",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-23T17:46:30Z",
+        "url": "https://patch.com/california/marinadelrey/king-tides-forecast-marina-del-rey-coastal-flood-advisory-takes-effect",
+        "mention_text": "Marina Del Rey",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Marina del Rey, Los Angeles County, California, 90292, United States",
+        "osm_type": "town",
+        "osm_id": 10845310,
+        "run_at": "2026-11-24T17:13:49.323127+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5229131,
+          35.9926423
+        ]
+      },
+      "properties": {
+        "article_id": "https://uk.news.yahoo.com/months-roadworks-north-staffordshires-most-133311982.html",
+        "title": "Months of roadworks as North Staffordshire's most-flooded road looks like this",
+        "source": "Yahoo News UK",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-24T13:33:11Z",
+        "url": "https://uk.news.yahoo.com/months-roadworks-north-staffordshires-most-133311982.html",
+        "mention_text": "North Staffordshire's",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Staffordshire, Wake Forest, Wake County, North Carolina, United States",
+        "osm_type": "neighbourhood",
+        "osm_id": 656835328,
+        "run_at": "2026-11-24T17:13:49.323127+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-11-23T17:34:56.428976+00:00",
-    "total_features": 6104
+    "last_updated": "2026-11-24T17:13:49.358134+00:00",
+    "total_features": 6126
   }
 }
