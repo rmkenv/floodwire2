@@ -160160,11 +160160,895 @@
         "osm_id": 207359,
         "run_at": "2026-11-25T17:03:17.053654+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3488201,
+          39.5980987
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.courierpostonline.com/story/weather/2026/11/26/weather-alert-salem-county-nj-coastal-flood-warning/92968998007/",
+        "title": "Coastal flood warning issued for Salem County",
+        "source": "Courier-Post",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-26T14:01:00Z",
+        "url": "https://www.courierpostonline.com/story/weather/2026/11/26/weather-alert-salem-county-nj-coastal-flood-warning/92968998007/",
+        "mention_text": "Salem County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Salem County, New Jersey, United States",
+        "osm_type": "administrative",
+        "osm_id": 1863173,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article318264548.html",
+        "title": "Flash flood warning issued for the Piedmont region until Thursday morning",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-26T09:17:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article318264548.html",
+        "mention_text": "Piedmont",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Piedmont, Alameda County, California, 94611, United States",
+        "osm_type": "administrative",
+        "osm_id": 2999176,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6474421,
+          47.594502
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.kitsapsun.com/story/weather/2026/11/25/coastal-flood-warning-issued-for-kitsap-county-on-thanksgiving/92959053007/",
+        "title": "Coastal flood warning issued that includes Kitsap County",
+        "source": "Kitsap Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-26T01:43:00Z",
+        "url": "https://www.kitsapsun.com/story/weather/2026/11/25/coastal-flood-warning-issued-for-kitsap-county-on-thanksgiving/92959053007/",
+        "mention_text": "Kitsap County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Kitsap County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 1153661,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6749486,
+          33.3926893
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/11/25/flood-warning-issued-for-delta-until-thursday-evening/",
+        "title": "Flood warning issued for Delta until Thursday evening",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-25T17:48:29Z",
+        "url": "https://www.mercurynews.com/2026/11/25/flood-warning-issued-for-delta-until-thursday-evening/",
+        "mention_text": "Delta",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Delta County, Texas, United States",
+        "osm_type": "administrative",
+        "osm_id": 1839215,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5970308,
+          35.4804633
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article318263606.html",
+        "title": "Flash flood warning affecting Eastern North Carolina until 3 a.m. Thursday",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-26T05:53:08Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article318263606.html",
+        "mention_text": "Eastern North Carolina",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Eastern Correctional Institution, 2821, NC 903, Maury, Greene County, North Carolina, 28554, United States",
+        "osm_type": "prison",
+        "osm_id": 1353026405,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4639835,
+          27.7567667
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.aa.com.tr/en/americas/flash-flood-emergency-declared-for-parts-of-florida-amid-torrential-rain/4109270",
+        "title": "Flash flood emergency declared for parts of Florida amid torrential rain",
+        "source": "Anadolu Ajans\u0131",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-03T08:00:00Z",
+        "url": "https://www.aa.com.tr/en/americas/flash-flood-emergency-declared-for-parts-of-florida-amid-torrential-rain/4109270",
+        "mention_text": "Florida",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 162050,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1287636,
+          41.3272919
+        ]
+      },
+      "properties": {
+        "article_id": "https://reliefweb.int/report/peru/pluvialflash-flood-11-2026-flood-fenomeno-el-nino-2026-11-03",
+        "title": "PER: Pluvial/Flash Flood - 11-2026 - Flood Fen\u00f3meno El Ni\u00f1o (2026-11-03) - Peru",
+        "source": "ReliefWeb",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-03T08:00:00Z",
+        "url": "https://reliefweb.int/report/peru/pluvialflash-flood-11-2026-flood-fenomeno-el-nino-2026-11-03",
+        "mention_text": "Peru",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Peru, LaSalle County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 126740,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8590201,
+          45.709097
+        ]
+      },
+      "properties": {
+        "article_id": "https://wgme.com/news/local/king-tide-could-bring-coastal-flooding-beach-erosion-to-maine-this-week",
+        "title": "King tide could bring coastal flooding, beach erosion to Maine this week",
+        "source": "WGME",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-26T01:25:26Z",
+        "url": "https://wgme.com/news/local/king-tide-could-bring-coastal-flooding-beach-erosion-to-maine-this-week",
+        "mention_text": "Maine",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Maine, United States",
+        "osm_type": "administrative",
+        "osm_id": 63512,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3120073,
+          41.3796719
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/2026/11/26/forecast/regional/king-tides-record-coastal-flooding-west-coast",
+        "title": "King tide West Coast flooding topped California records",
+        "source": "The Weather Channel",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-26T14:26:00Z",
+        "url": "https://weather.com/2026/11/26/forecast/regional/king-tides-record-coastal-flooding-west-coast",
+        "mention_text": "West Coast",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "West Coast, Town of Goshen, Orange County, New York, United States",
+        "osm_type": "garden",
+        "osm_id": 1107357384,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.755997,
+          36.7014631
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/2026/11/26/forecast/regional/king-tides-record-coastal-flooding-west-coast",
+        "title": "King tide West Coast flooding topped California records",
+        "source": "The Weather Channel",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-26T14:26:00Z",
+        "url": "https://weather.com/2026/11/26/forecast/regional/king-tides-record-coastal-flooding-west-coast",
+        "mention_text": "California",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "California, United States",
+        "osm_type": "administrative",
+        "osm_id": 165475,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6199638,
+          38.0409144
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nbcbayarea.com/news/local/marin-county-coastal-communities-king-tide-flooding/4181967/",
+        "title": "Coastal communities in Marin County face another day of king tide flooding",
+        "source": "NBC Bay Area",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-26T01:08:31Z",
+        "url": "https://www.nbcbayarea.com/news/local/marin-county-coastal-communities-king-tide-flooding/4181967/",
+        "mention_text": "Marin County",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Marin County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396461,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8473388,
+          38.5110803
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.pressdemocrat.com/2026/11/25/sonoma-coast-king-tides/",
+        "title": "Sonoma County coast largely spared from king tide flooding as storm clears",
+        "source": "The Press Democrat",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-25T22:22:26Z",
+        "url": "https://www.pressdemocrat.com/2026/11/25/sonoma-coast-king-tides/",
+        "mention_text": "Sonoma County",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Sonoma County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396468,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8590201,
+          45.709097
+        ]
+      },
+      "properties": {
+        "article_id": "https://wgme.com/news/local/gallery/king-tide-could-bring-coastal-flooding-beach-erosion-to-maine-this-week",
+        "title": "King tide could bring coastal flooding, beach erosion to Maine this week",
+        "source": "WGME",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-26T01:32:15Z",
+        "url": "https://wgme.com/news/local/gallery/king-tide-could-bring-coastal-flooding-beach-erosion-to-maine-this-week",
+        "mention_text": "Maine",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Maine, United States",
+        "osm_type": "administrative",
+        "osm_id": 63512,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7838526,
+          39.3260541
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tri-cityherald.com/news/weather-news/article318267416.html",
+        "title": "Clark County under a flood advisory Thursday morning triggered by intense rainfall",
+        "source": "Tri-City Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-26T14:21:08Z",
+        "url": "https://www.tri-cityherald.com/news/weather-news/article318267416.html",
+        "mention_text": "Clark County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Clark County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1801517,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5970308,
+          35.4804633
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article318256159.html",
+        "title": "UPDATE: Coastal flood advisory issued for Eastern North Carolina until Thursday afternoon",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-26T08:27:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article318256159.html",
+        "mention_text": "Eastern North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Eastern Correctional Institution, 2821, NC 903, Maury, Greene County, North Carolina, 28554, United States",
+        "osm_type": "prison",
+        "osm_id": 1353026405,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article318261388.html",
+        "title": "UPDATE: Coastal Colleton and Charleston County placed under a coastal flood advisory",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-26T11:39:05Z",
+        "url": "https://www.thestate.com/news/weather-news/article318261388.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3707461,
+          35.611481
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article318262812.html",
+        "title": "UPDATE: The current flood advisory for Pitt County will be expiring at 7:15 a.m.",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-26T12:33:06Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article318262812.html",
+        "mention_text": "Pitt County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Pitt County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528734,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.6495508,
+          37.7633081
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thenewstribune.com/news/weather-news/article318253049.html",
+        "title": "UPDATE: Coastal flood advisory for San Juan County early Wednesday evening",
+        "source": "Tacoma News Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-26T00:57:05Z",
+        "url": "https://www.thenewstribune.com/news/weather-news/article318253049.html",
+        "mention_text": "San Juan County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Juan County, Colorado, 81433, United States",
+        "osm_type": "administrative",
+        "osm_id": 416522,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.769544,
+          48.1179702
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thenewstribune.com/news/weather-news/article318241662.html",
+        "title": "UPDATE: Coastal flood advisory issued for Port Townsend area for Thursday",
+        "source": "Tacoma News Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-26T00:53:06Z",
+        "url": "https://www.thenewstribune.com/news/weather-news/article318241662.html",
+        "mention_text": "Port Townsend",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Port Townsend, Jefferson County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 237889,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0204272,
+          44.9435441
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article318262421.html",
+        "title": "Flood advisory in place for Southeast Coast Wednesday night due to persistent downpours",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-26T03:05:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article318262421.html",
+        "mention_text": "Southeast Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oregon Coast Highway, Olivia Beach, Nelscott, Lincoln City, Lincoln County, Oregon, 97367, United States",
+        "osm_type": "trunk",
+        "osm_id": 5473043,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7907554,
+          41.1763139
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/11/coastal-flood-advisory-in-place-for-westchester-county-for-friday.html",
+        "title": "Coastal flood advisory in place for Westchester County for Friday",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-25T21:16:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/11/coastal-flood-advisory-in-place-for-westchester-county-for-friday.html",
+        "mention_text": "Westchester County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Westchester County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1838027,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.8854639,
+          33.759478
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.mercurynews.com/2026/11/24/flood-advisory-affecting-san-francisco-county-until-2-a-m-wednesday-triggered-by-excessive-rain/",
+        "title": "Flood advisory affecting San Francisco County until 2 a.m. Wednesday triggered by excessive rain",
+        "source": "The Mercury News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-25T07:04:17Z",
+        "url": "https://www.mercurynews.com/2026/11/24/flood-advisory-affecting-san-francisco-county-until-2-a-m-wednesday-triggered-by-excessive-rain/",
+        "mention_text": "San Francisco County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco, Catron County, New Mexico, United States",
+        "osm_type": "peak",
+        "osm_id": 11066998506,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article318250463.html",
+        "title": "Coastal flood advisory for Myrtle Beach area and Coastal Georgetown until Wednesday night",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-25T15:11:07Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article318250463.html",
+        "mention_text": "Myrtle Beach",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Myrtle Beach, Horry County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193842,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3595655,
+          38.6898781
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.islandpacket.com/news/weather-news/article318250463.html",
+        "title": "Coastal flood advisory for Myrtle Beach area and Coastal Georgetown until Wednesday night",
+        "source": "Hilton Head Island Packet",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-25T15:11:07Z",
+        "url": "https://www.islandpacket.com/news/weather-news/article318250463.html",
+        "mention_text": "Coastal Georgetown",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Delaware Coastal Airport, Nanticoke Avenue, Georgetown, Sussex County, Delaware, 19947, United States",
+        "osm_type": "aerodrome",
+        "osm_id": 726617667,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5584572,
+          47.5758765
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.tri-cityherald.com/news/weather-news/article318241683.html",
+        "title": "Coastal flood advisory for Northern Hood Canal and Eastern Kitsap County Tuesday evening",
+        "source": "Tri-City Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-24T23:39:09Z",
+        "url": "https://www.tri-cityherald.com/news/weather-news/article318241683.html",
+        "mention_text": "Eastern Kitsap",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "South Kitsap Eastern Little League, Waterman Point, Kitsap County, Washington, United States",
+        "osm_type": "recreation_ground",
+        "osm_id": 5259417,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4030376,
+          37.7887644
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318124261.html",
+        "title": "UPDATE: Coastal flood advisory affecting Northern California until Monday morning",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-21T22:51:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318124261.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "First National Bank of Northern California, Post Street, Union Square, Financial District, San Francisco, California, 94104, United States",
+        "osm_type": "bank",
+        "osm_id": 32946665,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7996814,
+          32.8152646
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldonline.com/news/weather-news/article318208863.html",
+        "title": "Coastal flood advisory for Coastal Colleton and Charleston County until Monday morning",
+        "source": "Rock Hill Herald",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-23T08:21:05Z",
+        "url": "https://www.heraldonline.com/news/weather-news/article318208863.html",
+        "mention_text": "Charleston County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Charleston County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 1857000,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article318216706.html",
+        "title": "Coastal flood advisory in place for Myrtle Beach area and Coastal Georgetown for Tuesday",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-23T18:21:07Z",
+        "url": "https://www.thestate.com/news/weather-news/article318216706.html",
+        "mention_text": "Myrtle Beach",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Myrtle Beach, Horry County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193842,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3595655,
+          38.6898781
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestate.com/news/weather-news/article318216706.html",
+        "title": "Coastal flood advisory in place for Myrtle Beach area and Coastal Georgetown for Tuesday",
+        "source": "The State",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-23T18:21:07Z",
+        "url": "https://www.thestate.com/news/weather-news/article318216706.html",
+        "mention_text": "Coastal Georgetown",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Delaware Coastal Airport, Nanticoke Avenue, Georgetown, Sussex County, Delaware, 19947, United States",
+        "osm_type": "aerodrome",
+        "osm_id": 726617667,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.052166,
+          26.5865308
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.palmbeachpost.com/picture-gallery/weather/2026/11/25/lantana-flooding-after-king-tide-and-rain/92961207007/",
+        "title": "Rain and king tide floods low lying streets in Lantana",
+        "source": "The Palm Beach Post",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-25T19:03:00Z",
+        "url": "https://www.palmbeachpost.com/picture-gallery/weather/2026/11/25/lantana-flooding-after-king-tide-and-rain/92961207007/",
+        "mention_text": "Lantana",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Lantana, Palm Beach County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 1217023,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6552728,
+          34.0388921
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318180480.html",
+        "title": "UPDATE: Coastal flood advisory issued for Malibu Coast and Los Angeles until Thursday midday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T20:17:00Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318180480.html",
+        "mention_text": "Malibu Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Pacific Coast Highway, Malibu, Los Angeles County, California, 90263, United States",
+        "osm_type": "trunk",
+        "osm_id": 74501028,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2427676,
+          34.0536923
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318180480.html",
+        "title": "UPDATE: Coastal flood advisory issued for Malibu Coast and Los Angeles until Thursday midday",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T20:17:00Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318180480.html",
+        "mention_text": "Los Angeles",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles, Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 207359,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.058141,
+          26.5289139
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.palmbeachpost.com/picture-gallery/weather/2026/11/25/boynton-beach-flooding-after-king-tide-and-rain/92960308007/",
+        "title": "Rain and king tide floods low lying streets in Boynton Beach",
+        "source": "The Palm Beach Post",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-25T18:07:00Z",
+        "url": "https://www.palmbeachpost.com/picture-gallery/weather/2026/11/25/boynton-beach-flooding-after-king-tide-and-rain/92960308007/",
+        "mention_text": "Boynton Beach",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "Boynton Beach, Palm Beach County, Florida, United States",
+        "osm_type": "administrative",
+        "osm_id": 117910,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.209681,
+          34.3155072
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailynews.com/2026/11/20/update-coastal-flood-advisory-issued-for-los-angeles-county-beaches-from-monday-to-wednesday/",
+        "title": "Update: Coastal flood advisory issued for Los Angeles County beaches from Monday to Wednesday",
+        "source": "Los Angeles Daily News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-21T04:50:26Z",
+        "url": "https://www.dailynews.com/2026/11/20/update-coastal-flood-advisory-issued-for-los-angeles-county-beaches-from-monday-to-wednesday/",
+        "mention_text": "Los Angeles County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Los Angeles County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396479,
+        "run_at": "2026-11-26T16:35:51.423782+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-11-25T17:03:17.088598+00:00",
-    "total_features": 6160
+    "last_updated": "2026-11-26T16:35:51.459498+00:00",
+    "total_features": 6194
   }
 }
