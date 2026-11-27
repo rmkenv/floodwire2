@@ -161044,11 +161044,843 @@
         "osm_id": 396479,
         "run_at": "2026-11-26T16:35:51.423782+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3707461,
+          35.611481
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article318264767.html",
+        "title": "UPDATE: Flood warning issued for Pitt County until further notice, says the NWS",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-26T20:51:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article318264767.html",
+        "mention_text": "Pitt County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Pitt County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528734,
+        "run_at": "2026-11-27T16:20:50.988728+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9078612,
+          47.6890046
+        ]
+      },
+      "properties": {
+        "article_id": "https://komonews.com/news/local/campers-stranded-by-flooding-at-dosewallips-state-park-swift-water-rescue-teams-respond-weather-flood-rain-king-tide-storm-safety-danger-jefferson-county",
+        "title": "Campers stranded by flooding at Dosewallips State Park; swift-water rescue teams respond",
+        "source": "KOMO",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-26T18:55:13Z",
+        "url": "https://komonews.com/news/local/campers-stranded-by-flooding-at-dosewallips-state-park-swift-water-rescue-teams-respond-weather-flood-rain-king-tide-storm-safety-danger-jefferson-county",
+        "mention_text": "Dosewallips State Park",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dosewallips State Park, Jefferson County, Washington, United States",
+        "osm_type": "nature_reserve",
+        "osm_id": 5956380,
+        "run_at": "2026-11-27T16:20:50.988728+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0104175,
+          41.5460077
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.dailyfreeman.com/2026/11/26/flood-warning-issued-for-parts-of-mid-hudson-valley/",
+        "title": "Flood warning issued for parts of Mid-Hudson Valley",
+        "source": "Daily Freeman",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-26T17:02:58Z",
+        "url": "https://www.dailyfreeman.com/2026/11/26/flood-warning-issued-for-parts-of-mid-hudson-valley/",
+        "mention_text": "Mid-Hudson Valley",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hudson Valley Steel Products Inc., Route 9W, Middle Hope, Town of Newburgh, Orange County, New York, 12550, United States",
+        "osm_type": "trade",
+        "osm_id": 1213414533,
+        "run_at": "2026-11-27T16:20:50.988728+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article318264548.html",
+        "title": "UPDATE: Flash flood warning for North Carolina likely to expire at 10:45 a.m.",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-26T16:19:10Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article318264548.html",
+        "mention_text": "North Carolina",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-11-27T16:20:50.988728+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4691519,
+          37.7641353
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318220421.html",
+        "title": "UPDATE: Coastal flood warning issued for Northern California early Wednesday evening",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-26T00:29:07Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318220421.html",
+        "mention_text": "Northern California",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Business Coaching of Northern California, 1032, Irving Street, Inner Sunset, Richmond District, San Francisco, California, 94122, United States",
+        "osm_type": "company",
+        "osm_id": 5068329117,
+        "run_at": "2026-11-27T16:20:50.988728+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9078612,
+          47.6890046
+        ]
+      },
+      "properties": {
+        "article_id": "https://komonews.com/news/local/gallery/campers-stranded-by-flooding-at-dosewallips-state-park-swift-water-rescue-teams-respond-weather-flood-rain-king-tide-storm-safety-danger-jefferson-county?photo=2",
+        "title": "Campers stranded by flooding at Dosewallips State Park; swift-water rescue teams respond",
+        "source": "KOMO",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-26T18:49:50Z",
+        "url": "https://komonews.com/news/local/gallery/campers-stranded-by-flooding-at-dosewallips-state-park-swift-water-rescue-teams-respond-weather-flood-rain-king-tide-storm-safety-danger-jefferson-county?photo=2",
+        "mention_text": "Dosewallips State Park",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dosewallips State Park, Jefferson County, Washington, United States",
+        "osm_type": "nature_reserve",
+        "osm_id": 5956380,
+        "run_at": "2026-11-27T16:20:50.988728+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3170402,
+          29.8494044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nationthailand.com/news/general/40073884",
+        "title": "Heavy rain raises flash flood risk in the South on 27\u201330 Nov as Bangkok and its suburbs cool by 1\u20133\u00b0C",
+        "source": "Nation Thailand",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-24T23:52:00Z",
+        "url": "https://www.nationthailand.com/news/general/40073884",
+        "mention_text": "South",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "St. Augustine South, Saint Johns County, Florida, 32086, United States",
+        "osm_type": "town",
+        "osm_id": 13203803220,
+        "run_at": "2026-11-27T16:20:50.988728+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2320376,
+          46.2283004
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.nationthailand.com/news/general/40073884",
+        "title": "Heavy rain raises flash flood risk in the South on 27\u201330 Nov as Bangkok and its suburbs cool by 1\u20133\u00b0C",
+        "source": "Nation Thailand",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-24T23:52:00Z",
+        "url": "https://www.nationthailand.com/news/general/40073884",
+        "mention_text": "Bangkok",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Bangkok, Center Parkway, Kennewick, Benton County, Washington, 99338, United States",
+        "osm_type": "restaurant",
+        "osm_id": 14003582139,
+        "run_at": "2026-11-27T16:20:50.988728+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1020414,
+          33.6157083
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theadvocate.com.au/story/9399579/flash-flood-warning-for-devonport-burnie-and-northern-tasmania/",
+        "title": "Urgent flood warning as a major rain dump targets the North and North-West",
+        "source": "The Advocate | Burnie, TAS",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-27T05:23:56Z",
+        "url": "https://www.theadvocate.com.au/story/9399579/flash-flood-warning-for-devonport-burnie-and-northern-tasmania/",
+        "mention_text": "North",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North, Orangeburg County, South Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 193827,
+        "run_at": "2026-11-27T16:20:50.988728+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1499626,
+          38.8120138
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theadvocate.com.au/story/9399579/flash-flood-warning-for-devonport-burnie-and-northern-tasmania/",
+        "title": "Urgent flood warning as a major rain dump targets the North and North-West",
+        "source": "The Advocate | Burnie, TAS",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-27T05:23:56Z",
+        "url": "https://www.theadvocate.com.au/story/9399579/flash-flood-warning-for-devonport-burnie-and-northern-tasmania/",
+        "mention_text": "North-West",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North West, Warrenton, Warren County, Missouri, 63383, United States",
+        "osm_type": "residential",
+        "osm_id": 18778671,
+        "run_at": "2026-11-27T16:20:50.988728+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5432066,
+          42.757472
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/25/heavy-rain-raises-flash-flood-risk-in-thailand039s-south-on-27-30-nov-as-bangkok-and-its-suburbs-cool-by-1-3c",
+        "title": "Heavy rain raises flash flood risk in Thailand's South on 27\u201330 Nov as Bangkok and its suburbs cool by 1\u20133\u00b0C",
+        "source": "The Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-25T06:47:00Z",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/25/heavy-rain-raises-flash-flood-risk-in-thailand039s-south-on-27-30-nov-as-bangkok-and-its-suburbs-cool-by-1-3c",
+        "mention_text": "Thailand",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Thailand, 2220, North Larch Street, Lansing, Ingham County, Michigan, 48906, United States",
+        "osm_type": "restaurant",
+        "osm_id": 602668139,
+        "run_at": "2026-11-27T16:20:50.988728+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3170402,
+          29.8494044
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/25/heavy-rain-raises-flash-flood-risk-in-thailand039s-south-on-27-30-nov-as-bangkok-and-its-suburbs-cool-by-1-3c",
+        "title": "Heavy rain raises flash flood risk in Thailand's South on 27\u201330 Nov as Bangkok and its suburbs cool by 1\u20133\u00b0C",
+        "source": "The Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-25T06:47:00Z",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/25/heavy-rain-raises-flash-flood-risk-in-thailand039s-south-on-27-30-nov-as-bangkok-and-its-suburbs-cool-by-1-3c",
+        "mention_text": "South",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "St. Augustine South, Saint Johns County, Florida, 32086, United States",
+        "osm_type": "town",
+        "osm_id": 13203803220,
+        "run_at": "2026-11-27T16:20:50.988728+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2320376,
+          46.2283004
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/25/heavy-rain-raises-flash-flood-risk-in-thailand039s-south-on-27-30-nov-as-bangkok-and-its-suburbs-cool-by-1-3c",
+        "title": "Heavy rain raises flash flood risk in Thailand's South on 27\u201330 Nov as Bangkok and its suburbs cool by 1\u20133\u00b0C",
+        "source": "The Star",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-25T06:47:00Z",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/25/heavy-rain-raises-flash-flood-risk-in-thailand039s-south-on-27-30-nov-as-bangkok-and-its-suburbs-cool-by-1-3c",
+        "mention_text": "Bangkok",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Bangkok, Center Parkway, Kennewick, Benton County, Washington, 99338, United States",
+        "osm_type": "restaurant",
+        "osm_id": 14003582139,
+        "run_at": "2026-11-27T16:20:50.988728+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5536101,
+          41.7035345
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.walesonline.co.uk/news/wales-news/flood-alert-issued-pembrokeshire-roads-34958266",
+        "title": "Red flood warning issued in Pembrokeshire as college closed, vehicles stranded and McDonald's under water",
+        "source": "Wales Online",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-24T12:29:09Z",
+        "url": "https://www.walesonline.co.uk/news/wales-news/flood-alert-issued-pembrokeshire-roads-34958266",
+        "mention_text": "Pembrokeshire",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Pembrokeshire Drive, Welsh Village, Coralville, Johnson County, Iowa, 52241, United States",
+        "osm_type": "residential",
+        "osm_id": 15937424,
+        "run_at": "2026-11-27T16:20:50.988728+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7907554,
+          41.1763139
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/11/update-coastal-flood-advisory-affecting-westchester-county-until-friday-afternoon.html",
+        "title": "Update: Coastal flood advisory affecting Westchester County until Friday afternoon",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-27T09:21:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/11/update-coastal-flood-advisory-affecting-westchester-county-until-friday-afternoon.html",
+        "mention_text": "Westchester County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Westchester County, New York, United States",
+        "osm_type": "administrative",
+        "osm_id": 1838027,
+        "run_at": "2026-11-27T16:20:50.988728+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.8854639,
+          33.759478
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/11/26/coastal-flood-advisory-issued-for-san-francisco-county-until-early-sunday-evening/",
+        "title": "Coastal flood advisory issued for San Francisco County until early Sunday evening",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-26T23:38:41Z",
+        "url": "https://www.eastbaytimes.com/2026/11/26/coastal-flood-advisory-issued-for-san-francisco-county-until-early-sunday-evening/",
+        "mention_text": "San Francisco County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco, Catron County, New Mexico, United States",
+        "osm_type": "peak",
+        "osm_id": 11066998506,
+        "run_at": "2026-11-27T16:20:50.988728+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5970308,
+          35.4804633
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article318278928.html",
+        "title": "Coastal flood advisory affecting Eastern North Carolina until Friday night",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-27T14:44:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article318278928.html",
+        "mention_text": "Eastern North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Eastern Correctional Institution, 2821, NC 903, Maury, Greene County, North Carolina, 28554, United States",
+        "osm_type": "prison",
+        "osm_id": 1353026405,
+        "run_at": "2026-11-27T16:20:50.988728+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7838526,
+          39.3260541
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thenewstribune.com/news/weather-news/article318267416.html",
+        "title": "Clark County under a flood advisory Thursday morning triggered by intense rainfall",
+        "source": "Tacoma News Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-26T14:21:08Z",
+        "url": "https://www.thenewstribune.com/news/weather-news/article318267416.html",
+        "mention_text": "Clark County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Clark County, Illinois, United States",
+        "osm_type": "administrative",
+        "osm_id": 1801517,
+        "run_at": "2026-11-27T16:20:50.988728+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6319754,
+          42.250303
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.syracuse.com/weather-alerts/2026/11/hudson-valley-under-a-flood-advisory-until-friday-afternoon.html",
+        "title": "Hudson Valley under a flood advisory until Friday afternoon",
+        "source": "Syracuse.com",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-26T20:57:00Z",
+        "url": "https://www.syracuse.com/weather-alerts/2026/11/hudson-valley-under-a-flood-advisory-until-friday-afternoon.html",
+        "mention_text": "Hudson Valley",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hudson Valley, New York, United States",
+        "osm_type": "region",
+        "osm_id": 20410509,
+        "run_at": "2026-11-27T16:20:50.988728+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.heraldsun.com/news/weather-news/article318264108.html",
+        "title": "UPDATE: The current flood advisory for North Carolina will be expiring at 8:45 a.m.",
+        "source": "Durham Herald Sun",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-26T14:03:07Z",
+        "url": "https://www.heraldsun.com/news/weather-news/article318264108.html",
+        "mention_text": "North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-11-27T16:20:50.988728+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5992372,
+          41.7962409
+        ]
+      },
+      "properties": {
+        "article_id": "https://newsradiori.iheart.com/content/2026-11-27-parts-of-rhode-island-under-a-coastal-flood-advisory-from-7-am-until-1-pm/",
+        "title": "Parts Of Rhode Island Under A Coastal Flood Advisory From 7 A.M. Until 1 P.M.",
+        "source": "iHeart",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-27T09:54:00Z",
+        "url": "https://newsradiori.iheart.com/content/2026-11-27-parts-of-rhode-island-under-a-coastal-flood-advisory-from-7-am-until-1-pm/",
+        "mention_text": "Rhode Island",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Rhode Island, United States",
+        "osm_type": "administrative",
+        "osm_id": 392915,
+        "run_at": "2026-11-27T16:20:50.988728+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0161205,
+          44.9292083
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article318216785.html",
+        "title": "UPDATE: Coastal flood advisory affecting Southeast Coast until Tuesday morning",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-24T06:49:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article318216785.html",
+        "mention_text": "Southeast Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Oregon Coast Highway, Taft, Lincoln City, Lincoln County, Oregon, 97367, United States",
+        "osm_type": "trunk",
+        "osm_id": 458933022,
+        "run_at": "2026-11-27T16:20:50.988728+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0439978,
+          35.0808574
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article318260243.html",
+        "title": "UPDATE: Flood advisory affecting Craven County until 3 a.m. Thursday, says the NWS",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-26T06:25:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article318260243.html",
+        "mention_text": "Craven County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Craven County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528690,
+        "run_at": "2026-11-27T16:20:50.988728+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5584572,
+          47.5758765
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theolympian.com/news/weather-news/article318241662.html",
+        "title": "Coastal flood advisory affecting Northern Hood Canal and Eastern Kitsap County Wednesday",
+        "source": "The Olympian",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-24T23:37:06Z",
+        "url": "https://www.theolympian.com/news/weather-news/article318241662.html",
+        "mention_text": "Eastern Kitsap County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "South Kitsap Eastern Little League, Waterman Point, Kitsap County, Washington, United States",
+        "osm_type": "recreation_ground",
+        "osm_id": 5259417,
+        "run_at": "2026-11-27T16:20:50.988728+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5584572,
+          47.5758765
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.theolympian.com/news/weather-news/article318241683.html",
+        "title": "Coastal flood advisory for Northern Hood Canal and Eastern Kitsap County Tuesday evening",
+        "source": "The Olympian",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-24T23:39:09Z",
+        "url": "https://www.theolympian.com/news/weather-news/article318241683.html",
+        "mention_text": "Eastern Kitsap",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "South Kitsap Eastern Little League, Waterman Point, Kitsap County, Washington, United States",
+        "osm_type": "recreation_ground",
+        "osm_id": 5259417,
+        "run_at": "2026-11-27T16:20:50.988728+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3707461,
+          35.611481
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article318262812.html",
+        "title": "Pitt County under a flood advisory until Thursday morning caused by persistent downpours",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-26T03:59:05Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article318262812.html",
+        "mention_text": "Pitt County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Pitt County, North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 2528734,
+        "run_at": "2026-11-27T16:20:50.988728+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.8854639,
+          33.759478
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sanluisobispo.com/news/weather-news/article318245605.html",
+        "title": "Flood advisory issued for San Francisco County until 2 a.m. Wednesday",
+        "source": "San Luis Obispo Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-25T07:15:06Z",
+        "url": "https://www.sanluisobispo.com/news/weather-news/article318245605.html",
+        "mention_text": "San Francisco County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco, Catron County, New Mexico, United States",
+        "osm_type": "peak",
+        "osm_id": 11066998506,
+        "run_at": "2026-11-27T16:20:50.988728+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0363849,
+          38.8950982
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.newsobserver.com/news/weather-news/article318245028.html",
+        "title": "Coastal flood advisory affecting Washington and Tyrrell counties Wednesday and Thursday",
+        "source": "Raleigh News & Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-25T05:19:06Z",
+        "url": "https://www.newsobserver.com/news/weather-news/article318245028.html",
+        "mention_text": "Washington",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Washington, District of Columbia, United States",
+        "osm_type": "city",
+        "osm_id": 5396194,
+        "run_at": "2026-11-27T16:20:50.988728+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6199638,
+          38.0409144
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/11/24/flood-advisory-in-place-for-marin-and-sonoma-counties-until-early-wednesday-due-to-persistent-rain/",
+        "title": "Flood advisory in place for Marin and Sonoma counties until early Wednesday due to persistent rain",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-25T05:51:49Z",
+        "url": "https://www.eastbaytimes.com/2026/11/24/flood-advisory-in-place-for-marin-and-sonoma-counties-until-early-wednesday-due-to-persistent-rain/",
+        "mention_text": "Marin",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Marin County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396461,
+        "run_at": "2026-11-27T16:20:50.988728+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8473388,
+          38.5110803
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.eastbaytimes.com/2026/11/24/flood-advisory-in-place-for-marin-and-sonoma-counties-until-early-wednesday-due-to-persistent-rain/",
+        "title": "Flood advisory in place for Marin and Sonoma counties until early Wednesday due to persistent rain",
+        "source": "East Bay Times",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-25T05:51:49Z",
+        "url": "https://www.eastbaytimes.com/2026/11/24/flood-advisory-in-place-for-marin-and-sonoma-counties-until-early-wednesday-due-to-persistent-rain/",
+        "mention_text": "Sonoma",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Sonoma County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 396468,
+        "run_at": "2026-11-27T16:20:50.988728+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9001941,
+          32.4821843
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318180429.html",
+        "title": "UPDATE: Coastal flood advisory for Catalina and Santa Barbara Islands until early Friday evening",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T20:17:00Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318180429.html",
+        "mention_text": "Catalina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Catalina, Pima County, Arizona, United States",
+        "osm_type": "census",
+        "osm_id": 11180516,
+        "run_at": "2026-11-27T16:20:50.988728+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.702667,
+          34.4221319
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318180429.html",
+        "title": "UPDATE: Coastal flood advisory for Catalina and Santa Barbara Islands until early Friday evening",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-20T20:17:00Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318180429.html",
+        "mention_text": "Santa Barbara",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Santa Barbara, Santa Barbara County, California, United States",
+        "osm_type": "administrative",
+        "osm_id": 112224,
+        "run_at": "2026-11-27T16:20:50.988728+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-11-26T16:35:51.459498+00:00",
-    "total_features": 6194
+    "last_updated": "2026-11-27T16:20:51.021180+00:00",
+    "total_features": 6226
   }
 }
