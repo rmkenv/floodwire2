@@ -161876,11 +161876,375 @@
         "osm_id": 112224,
         "run_at": "2026-11-27T16:20:50.988728+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1263909,
+          40.3451668
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.phillyburbs.com/story/weather/2026/11/27/weather-alert-bucks-county-coastal-flood-warning-black-friday-nov-27/92976541007/",
+        "title": "Coastal flood warning issued for Bucks County",
+        "source": "PhillyBurbs",
+        "outlet_city": "Philadelphia",
+        "outlet_region": "Pennsylvania",
+        "published_at": "2026-11-27T18:32:00Z",
+        "url": "https://www.phillyburbs.com/story/weather/2026/11/27/weather-alert-bucks-county-coastal-flood-warning-black-friday-nov-27/92976541007/",
+        "mention_text": "Bucks County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Bucks County, Pennsylvania, United States",
+        "osm_type": "administrative",
+        "osm_id": 417843,
+        "run_at": "2026-11-28T15:13:07.141228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9078612,
+          47.6890046
+        ]
+      },
+      "properties": {
+        "article_id": "https://komonews.com/news/local/gallery/campers-stranded-by-flooding-at-dosewallips-state-park-swift-water-rescue-teams-respond-weather-flood-rain-king-tide-storm-safety-danger-jefferson-county?photo=1",
+        "title": "Campers stranded by flooding at Dosewallips State Park; swift-water rescue teams respond",
+        "source": "KOMO",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-26T23:09:33Z",
+        "url": "https://komonews.com/news/local/gallery/campers-stranded-by-flooding-at-dosewallips-state-park-swift-water-rescue-teams-respond-weather-flood-rain-king-tide-storm-safety-danger-jefferson-county?photo=1",
+        "mention_text": "Dosewallips State Park",
+        "flood_type": "flash_flood",
+        "confidence": 0.9,
+        "osm_display": "Dosewallips State Park, Jefferson County, Washington, United States",
+        "osm_type": "nature_reserve",
+        "osm_id": 5956380,
+        "run_at": "2026-11-28T15:13:07.141228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3120073,
+          41.3796719
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/2026/11/27/forecast/regional/king-tides-record-coastal-flooding-west-coast",
+        "title": "King tide West Coast flooding topped California records",
+        "source": "The Weather Channel",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-27T15:10:00Z",
+        "url": "https://weather.com/2026/11/27/forecast/regional/king-tides-record-coastal-flooding-west-coast",
+        "mention_text": "West Coast",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "West Coast, Town of Goshen, Orange County, New York, United States",
+        "osm_type": "garden",
+        "osm_id": 1107357384,
+        "run_at": "2026-11-28T15:13:07.141228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.755997,
+          36.7014631
+        ]
+      },
+      "properties": {
+        "article_id": "https://weather.com/2026/11/27/forecast/regional/king-tides-record-coastal-flooding-west-coast",
+        "title": "King tide West Coast flooding topped California records",
+        "source": "The Weather Channel",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-27T15:10:00Z",
+        "url": "https://weather.com/2026/11/27/forecast/regional/king-tides-record-coastal-flooding-west-coast",
+        "mention_text": "California",
+        "flood_type": "sunny_day",
+        "confidence": 0.9,
+        "osm_display": "California, United States",
+        "osm_type": "administrative",
+        "osm_id": 165475,
+        "run_at": "2026-11-28T15:13:07.141228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.6495508,
+          37.7633081
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thenewstribune.com/news/weather-news/article318285284.html",
+        "title": "UPDATE: Coastal flood advisory issued for San Juan County for Saturday",
+        "source": "Tacoma News Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-28T03:24:07Z",
+        "url": "https://www.thenewstribune.com/news/weather-news/article318285284.html",
+        "mention_text": "San Juan County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Juan County, Colorado, 81433, United States",
+        "osm_type": "administrative",
+        "osm_id": 416522,
+        "run_at": "2026-11-28T15:13:07.141228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9220813,
+          35.1279594
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article318283026.html",
+        "title": "Coastal flood advisory for Ocracoke Island and Hatteras Island until Saturday morning",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-27T19:36:13Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article318283026.html",
+        "mention_text": "Ocracoke Island",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Ocracoke Island, Ocracoke, Hyde County, North Carolina, 27960, United States",
+        "osm_type": "island",
+        "osm_id": 7454511,
+        "run_at": "2026-11-28T15:13:07.141228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4805684,
+          35.4849292
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article318283026.html",
+        "title": "Coastal flood advisory for Ocracoke Island and Hatteras Island until Saturday morning",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-27T19:36:13Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article318283026.html",
+        "mention_text": "Hatteras Island",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Hatteras Island, Rodanthe, Dare County, North Carolina, United States",
+        "osm_type": "island",
+        "osm_id": 1140928,
+        "run_at": "2026-11-28T15:13:07.141228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3558473,
+          37.7884969
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/sanfrancisco/news/high-tides-flooding-bay-area-central-coast-thanksgiving-weekend/",
+        "title": "Bay Area, Central Coast high tide threat remains; coastal flood advisory extended",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-27T21:08:00Z",
+        "url": "https://www.cbsnews.com/sanfrancisco/news/high-tides-flooding-bay-area-central-coast-thanksgiving-weekend/",
+        "mention_text": "Bay Area",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco Bay Area, San Francisco, California, 94130, United States",
+        "osm_type": "region",
+        "osm_id": 2157162589,
+        "run_at": "2026-11-28T15:13:07.141228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6495453,
+          27.7712026
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.cbsnews.com/sanfrancisco/news/high-tides-flooding-bay-area-central-coast-thanksgiving-weekend/",
+        "title": "Bay Area, Central Coast high tide threat remains; coastal flood advisory extended",
+        "source": "CBS News",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-27T21:08:00Z",
+        "url": "https://www.cbsnews.com/sanfrancisco/news/high-tides-flooding-bay-area-central-coast-thanksgiving-weekend/",
+        "mention_text": "Central Coast",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Coast, Central Avenue, Edge District, Saint Petersburg, Pinellas County, Florida, 33701, United States",
+        "osm_type": "bicycle_rental",
+        "osm_id": 6753734742,
+        "run_at": "2026-11-28T15:13:07.141228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5970308,
+          35.4804633
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article318278965.html",
+        "title": "UPDATE: Coastal flood advisory issued for Eastern North Carolina Friday night",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-28T00:20:07Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article318278965.html",
+        "mention_text": "Eastern North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Eastern Correctional Institution, 2821, NC 903, Maury, Greene County, North Carolina, 28554, United States",
+        "osm_type": "prison",
+        "osm_id": 1353026405,
+        "run_at": "2026-11-28T15:13:07.141228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.8854639,
+          33.759478
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.sacbee.com/news/weather-news/article318273118.html",
+        "title": "UPDATE: Coastal flood advisory for San Francisco County until early Sunday evening",
+        "source": "Sacramento Bee",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-27T09:56:05Z",
+        "url": "https://www.sacbee.com/news/weather-news/article318273118.html",
+        "mention_text": "San Francisco County",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "San Francisco, Catron County, New Mexico, United States",
+        "osm_type": "peak",
+        "osm_id": 11066998506,
+        "run_at": "2026-11-28T15:13:07.141228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.charlotteobserver.com/news/weather-news/article318264108.html",
+        "title": "Flood advisory issued for North Carolina until Thursday morning, says the NWS",
+        "source": "Charlotte Observer",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-26T08:03:06Z",
+        "url": "https://www.charlotteobserver.com/news/weather-news/article318264108.html",
+        "mention_text": "North Carolina",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "North Carolina, United States",
+        "osm_type": "administrative",
+        "osm_id": 224045,
+        "run_at": "2026-11-28T15:13:07.141228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5584572,
+          47.5758765
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thenewstribune.com/news/weather-news/article318241683.html",
+        "title": "Coastal flood advisory for Northern Hood Canal and Eastern Kitsap County Tuesday evening",
+        "source": "Tacoma News Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-24T23:39:09Z",
+        "url": "https://www.thenewstribune.com/news/weather-news/article318241683.html",
+        "mention_text": "Eastern Kitsap",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "South Kitsap Eastern Little League, Waterman Point, Kitsap County, Washington, United States",
+        "osm_type": "recreation_ground",
+        "osm_id": 5259417,
+        "run_at": "2026-11-28T15:13:07.141228+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.769544,
+          48.1179702
+        ]
+      },
+      "properties": {
+        "article_id": "https://www.thenewstribune.com/news/weather-news/article318241640.html",
+        "title": "UPDATE: Coastal flood advisory issued for Port Townsend area for Wednesday",
+        "source": "Tacoma News Tribune",
+        "outlet_city": null,
+        "outlet_region": null,
+        "published_at": "2026-11-25T02:43:09Z",
+        "url": "https://www.thenewstribune.com/news/weather-news/article318241640.html",
+        "mention_text": "Port Townsend",
+        "flood_type": "unknown",
+        "confidence": 0.0,
+        "osm_display": "Port Townsend, Jefferson County, Washington, United States",
+        "osm_type": "administrative",
+        "osm_id": 237889,
+        "run_at": "2026-11-28T15:13:07.141228+00:00"
+      }
     }
   ],
   "_metadata": {
     "description": "Flood news geocoder \u2014 nightly ETL output",
-    "last_updated": "2026-11-27T16:20:51.021180+00:00",
-    "total_features": 6226
+    "last_updated": "2026-11-28T15:13:07.161139+00:00",
+    "total_features": 6240
   }
 }
